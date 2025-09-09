@@ -5,14 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>English Listening Practice</title>
   <style>
-    body { background:#0f172a; color:#e5e7eb; font-family:system-ui, sans-serif; margin:0; }
+    body { background:#0f172a; color:#e5e7eb; font-family:system-ui,sans-serif; margin:0; }
     header { padding:16px; border-bottom:1px solid #1f2937; background:#111827; position:sticky; top:0; }
     h1 { margin:0; font-size:20px; }
     .wrap { max-width:900px; margin:0 auto; padding:20px; }
     select,button { margin:4px; padding:6px 10px; border-radius:6px; border:1px solid #334155; background:#1e293b; color:#e5e7eb; }
     .line { padding:6px 0; border-bottom:1px dashed #334155; }
     .ko { color:#a5f3fc; font-size:14px; }
-    audio { margin:10px 0; width:100%; }
   </style>
 </head>
 <body>
@@ -41,6 +40,7 @@
 </div>
 
 <script>
+// ====== 고정 학습 세트 ======
 const LIB = [
   {
     id:'fairy1',
@@ -76,10 +76,10 @@ const LIB = [
 ];
 
 let currentSet = LIB[0];
-let viewMode = 'line'; // 기본 모드
+let viewMode = 'line'; // 기본 보기 모드
 let voices=[];
 
-// 초기화
+// ====== UI 초기화 ======
 const sel=document.getElementById('storySel');
 LIB.forEach((s,i)=>{ const opt=document.createElement('option'); opt.value=i; opt.textContent=s.title; sel.appendChild(opt); });
 sel.onchange=()=>{ currentSet=LIB[sel.value]; renderScript(); };
@@ -100,7 +100,7 @@ function renderScript(){
 }
 renderScript();
 
-// TTS
+// ====== TTS ======
 function loadVoices(){
   voices = speechSynthesis.getVoices();
   const vs=document.getElementById('voiceSel');
@@ -138,6 +138,23 @@ function playAll(){
     speechSynthesis.speak(u);
   });
 }
+
+// ====== 주간 이야기 로드 ======
+async function loadWeeklyStory(){
+  try{
+    const r = await fetch('data/story.json?ts='+Date.now());
+    if(r.ok){
+      const j = await r.json();
+      const s = { id:'weekly', title:'🌟 이번 주 이야기: '+j.story.title, lines:j.story.lines };
+      LIB.push(s);
+      const opt=document.createElement('option'); 
+      opt.value=LIB.length-1; 
+      opt.textContent=s.title; 
+      sel.appendChild(opt);
+    }
+  }catch(e){ console.log('주간 이야기 로드 실패',e); }
+}
+loadWeeklyStory();
 </script>
 </body>
 </html>
