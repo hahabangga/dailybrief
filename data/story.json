@@ -1,0 +1,20 @@
+{
+  "date": "2025-09-09",
+  "story": {
+    "title": "The Fox and the Grapes",
+    "lines": [
+      {
+        "en": "A hungry fox saw some grapes on a vine.",
+        "ko": "배고픈 여우가 덩굴에 달린 포도를 보았어요."
+      },
+      {
+        "en": "He tried to reach them but could not.",
+        "ko": "그는 잡으려 했지만 닿지 않았어요."
+      },
+      {
+        "en": "Finally he said, 'They are probably sour.'",
+        "ko": "마침내 그는 말했어요. '아마도 시겠지.'"
+      }
+    ]
+  }
+}
