@@ -198,7 +198,7 @@
     els.voiceSel.addEventListener('change',()=> localStorage.setItem('tts_voice_idx', els.voiceSel.value));
 
     // 토글
-    let showKo=false, showG=false, showV=false;
+    let showKo=true, showG=true, showV=true;
     function applyToggles(){
       document.querySelectorAll('.ko').forEach(e=>e.style.display = showKo? 'block':'none');
       document.querySelectorAll('.grammar').forEach(e=>e.style.display = showG? 'block':'none');
