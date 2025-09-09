@@ -1,3 +1,29 @@
-<!DOCTYPE html><meta charset="utf-8"><title>Daily Brief</title>
-<h1>페이지 연결 테스트 성공</h1>
-
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Daily Briefing</title>
+</head>
+<body>
+  <h1>오늘의 브리핑</h1>
+  
+  <h2>오늘의 날씨</h2>
+  <div id="weather">불러오는 중...</div>
+  
+  <h2>오늘의 증시</h2>
+  <div id="stocks">불러오는 중...</div>
+  
+  <h2>오늘의 운세</h2>
+  <div id="fortune">오늘은 행운이 따릅니다 🍀</div>
+  
+  <h2>영어 한마디</h2>
+  <div id="english">Keep going!</div>
+  
+  <script>
+    // 영어 한마디 랜덤 예시
+    const quotes = ["Keep going!", "Never give up.", "Dream big."];
+    document.getElementById("english").innerText = 
+      quotes[Math.floor(Math.random() * quotes.length)];
+  </script>
+</body>
+</html>
