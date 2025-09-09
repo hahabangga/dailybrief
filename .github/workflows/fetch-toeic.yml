@@ -1,0 +1,188 @@
+name: Weekly TOEIC600 Listening (VOA)
+
+on:
+  schedule:
+    # 매주 월요일 00:05 UTC (한국 09:05)
+    - cron: "5 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-toeic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Build weekly TOEIC story from VOA (free)
+        run: |
+          python - << 'PY'
+          import os, re, json, datetime, random, time
+          import requests
+          from bs4 import BeautifulSoup
+
+          # 1) 소스 후보 (VOA 학습용: 느린 속도/쉬운 어휘)
+          #    - Learning English Podcast 모음 페이지
+          SOURCES = [
+              "https://learningenglish.voanews.com/z/1689",  # Podcast aggregator (매일 업데이트)
+              "https://learningenglish.voanews.com/p/5609.html",  # Beginning Level 허브 (Level1/2 링크 多)
+          ]
+
+          headers = {"User-Agent":"Mozilla/5.0 (X11; Linux x86_64) GitHubActions/Toeic600/1.0"}
+
+          def get(url, timeout=25):
+            r = requests.get(url, headers=headers, timeout=timeout)
+            r.raise_for_status()
+            return r.text
+
+          def pick_latest_article_link(html):
+            soup = BeautifulSoup(html, "lxml")
+            # 기사 링크 패턴: '/a/...' 포함, SNS/내부탭 제외
+            links = []
+            for a in soup.find_all("a", href=True):
+              href = a["href"]
+              if "/a/" in href and href.startswith("http"):
+                links.append(href)
+              elif "/a/" in href and href.startswith("/"):
+                links.append("https://learningenglish.voanews.com"+href)
+            # 중복 제거, 가장 첫 것 사용
+            seen=set(); uniq=[]
+            for u in links:
+              if u not in seen:
+                seen.add(u); uniq.append(u)
+            return uniq[0] if uniq else None
+
+          def clean_text(s):
+            s = re.sub(r'\s+', ' ', s).strip()
+            return s
+
+          def sent_split(text):
+            # 간단 문장 분리
+            s = re.split(r'(?<=[\.\?\!])\s+', text)
+            return [x.strip() for x in s if len(x.strip().split())>=4]
+
+          def extract_story_from_article(url):
+            html = get(url)
+            soup = BeautifulSoup(html, "lxml")
+            # 기사 본문 p 태그 수집
+            ps = soup.select("article p")
+            if not ps:
+              ps = soup.find_all("p")
+            chunks = []
+            skip_words = ("Subscribe", "Share", "Download", "RSS", "Podcast")
+            for p in ps:
+              t = clean_text(p.get_text(" "))
+              if not t: 
+                continue
+              if any(sw in t for sw in skip_words):
+                continue
+              # 너무 짧거나 광고성 문구 제외
+              if len(t.split()) < 4:
+                continue
+              chunks.append(t)
+
+            # 문장 리스트 만들고 길이 제한
+            sents=[]
+            for c in chunks:
+              sents.extend(sent_split(c))
+            # 중복/유사 제거(아주 간단)
+            out=[]; seen=set()
+            for s in sents:
+              k = s.lower()
+              if k in seen: 
+                continue
+              seen.add(k)
+              out.append(s)
+              if len(out)>=18:  # 한 편에 12~18문장 정도
+                break
+
+            title = soup.find("title").get_text(strip=True) if soup.find("title") else "VOA Learning English Story"
+            return title, out
+
+          # 2) 최신 기사 URL 찾기
+          article_url = None
+          for src in SOURCES:
+            try:
+              html = get(src)
+              article_url = pick_latest_article_link(html)
+              if article_url:
+                break
+            except Exception:
+              continue
+
+          if not article_url:
+            # 최후의 보루: Learning English 홈에서 아무 기사나
+            article_url = "https://learningenglish.voanews.com/"
+            html = get(article_url)
+            # 다시 링크 탐색
+            soup = BeautifulSoup(html, "lxml")
+            cnd=None
+            for a in soup.find_all("a", href=True):
+              href=a["href"]
+              if "/a/" in href:
+                cnd = href if href.startswith("http") else "https://learningenglish.voanews.com"+href
+                break
+            article_url = cnd or "https://learningenglish.voanews.com/a/8058932.html"
+
+          # 3) 본문에서 문장 추출
+          title, lines = extract_story_from_article(article_url)
+
+          # 너무 적으면 실패로 간주하고 대체 소스 재시도 1회
+          if len(lines) < 8:
+            for src in SOURCES[1:]:
+              try:
+                html = get(src)
+                u = pick_latest_article_link(html)
+                if u:
+                  title, lines = extract_story_from_article(u)
+                  if len(lines) >= 8:
+                    article_url=u
+                    break
+              except Exception:
+                pass
+
+          # 4) JSON 저장
+          today = datetime.date.today().isoformat()
+          out = {
+            "date": today,
+            "story": {
+              "title": f"VOA: {title[:80]}",
+              "source_url": article_url,
+              "lines": [{"en": s} for s in lines]
+            }
+          }
+
+          os.makedirs("data", exist_ok=True)
+          os.makedirs("data/archive", exist_ok=True)
+          with open("data/story.json","w",encoding="utf-8") as f:
+            json.dump(out,f,ensure_ascii=False,indent=2)
+          with open(f"data/archive/{today}.json","w",encoding="utf-8") as f:
+            json.dump(out,f,ensure_ascii=False,indent=2)
+
+          print("Saved weekly TOEIC story:", out["story"]["title"])
+          PY
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(data): TOEIC600 weekly story from VOA [skip ci]"
+            git push
+          fi
