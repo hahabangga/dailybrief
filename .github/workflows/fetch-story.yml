@@ -2,7 +2,7 @@ name: Weekly story update
 
 on:
   schedule:
-    # 매주 월요일 00:00 UTC (한국 09:00 KST)
+    # 매주 월요일 00:00 UTC (한국 09:00)
     - cron: "0 0 * * 1"
   workflow_dispatch:
 
@@ -27,45 +27,58 @@ jobs:
           python - << 'PY'
           import os, json, random, datetime
 
-          # 짧은 동화/우화 목록 (public domain 수준)
+          # 긴 동화 지문 샘플 (10~15문장 수준, 간단 단어)
           stories = [
             {
               "title":"The Lion and the Mouse",
               "lines":[
-                {"en":"A lion was sleeping in the forest.","ko":"사자가 숲에서 자고 있었어요."},
-                {"en":"A little mouse ran over his face.","ko":"작은 쥐가 그의 얼굴 위로 달렸어요."},
+                {"en":"A lion was sleeping under a tree.","ko":"사자가 나무 아래에서 자고 있었어요."},
+                {"en":"A small mouse ran across his paw.","ko":"작은 쥐가 그의 발 위를 달렸어요."},
                 {"en":"The lion woke up and caught the mouse.","ko":"사자가 깨어나 쥐를 잡았어요."},
                 {"en":"The mouse begged, 'Please let me go.'","ko":"쥐가 빌었어요. '제발 날 놔주세요.'"},
-                {"en":"The lion laughed and let the mouse go.","ko":"사자가 웃으며 쥐를 놔줬어요."}
-              ]
-            },
-            {
-              "title":"The Fox and the Grapes",
-              "lines":[
-                {"en":"A hungry fox saw some grapes on a vine.","ko":"배고픈 여우가 덩굴에 달린 포도를 보았어요."},
-                {"en":"He tried to reach them but could not.","ko":"그는 잡으려 했지만 닿지 않았어요."},
-                {"en":"Finally he said, 'They are probably sour.'","ko":"마침내 그는 말했어요. '아마도 시겠지.'"}
+                {"en":"The lion laughed but set the mouse free.","ko":"사자가 웃으며 쥐를 풀어줬어요."},
+                {"en":"Days later, hunters caught the lion.","ko":"며칠 뒤, 사자가 사냥꾼에게 잡혔어요."},
+                {"en":"They tied him with strong ropes.","ko":"그들은 그를 튼튼한 밧줄로 묶었어요."},
+                {"en":"The little mouse heard the lion’s roar.","ko":"작은 쥐가 사자의 울음을 들었어요."},
+                {"en":"The mouse ran to help the lion.","ko":"쥐가 달려와 사자를 도왔어요."},
+                {"en":"It bit the ropes with sharp teeth.","ko":"쥐는 날카로운 이빨로 밧줄을 물어뜯었어요."},
+                {"en":"Soon the lion was free again.","ko":"곧 사자는 다시 자유로워졌어요."},
+                {"en":"The lion thanked the mouse.","ko":"사자가 쥐에게 고마워했어요."},
+                {"en":"He said, 'Even small friends can be great help.'","ko":"그가 말했어요. '작은 친구도 큰 도움이 될 수 있다.'"}
               ]
             },
             {
               "title":"The Ant and the Grasshopper",
               "lines":[
                 {"en":"All summer, the ant worked hard.","ko":"여름 내내 개미는 열심히 일했어요."},
-                {"en":"The grasshopper sang and danced.","ko":"메뚜기는 노래하고 춤췄어요."},
-                {"en":"When winter came, the ant had food.","ko":"겨울이 오자 개미는 먹을 것이 있었어요."},
-                {"en":"The grasshopper was hungry and cold.","ko":"메뚜기는 배고프고 추웠어요."}
+                {"en":"It carried food to its home every day.","ko":"그는 매일 먹이를 집으로 날랐어요."},
+                {"en":"The grasshopper sang and danced in the sun.","ko":"메뚜기는 태양 아래에서 노래하고 춤췄어요."},
+                {"en":"The grasshopper said, 'Come sing with me.'","ko":"메뚜기가 말했어요. '나랑 같이 노래하자.'"},
+                {"en":"The ant replied, 'I must prepare for winter.'","ko":"개미가 대답했어요. '난 겨울을 준비해야 해.'"},
+                {"en":"Winter came with cold winds and snow.","ko":"겨울이 차가운 바람과 눈과 함께 왔어요."},
+                {"en":"The ant had a warm house and plenty of food.","ko":"개미는 따뜻한 집과 많은 음식을 가지고 있었어요."},
+                {"en":"The grasshopper had nothing to eat.","ko":"메뚜기는 먹을 것이 없었어요."},
+                {"en":"It was cold and hungry.","ko":"그는 춥고 배고팠어요."},
+                {"en":"The grasshopper went to the ant.","ko":"메뚜기는 개미에게 갔어요."},
+                {"en":"'Please give me some food,' it said.","ko":"'제발 먹을 것을 좀 줘,' 라고 말했어요."},
+                {"en":"The ant shared a little but said, 'Next time, work too.'","ko":"개미는 조금 나누어주며 말했어요. '다음엔 너도 일해.'"}
               ]
             }
           ]
 
           pick = random.choice(stories)
-          out = {
-              "date": datetime.date.today().isoformat(),
-              "story": pick
-          }
+          today = datetime.date.today().isoformat()
+          out = { "date": today, "story": pick }
 
           os.makedirs("data", exist_ok=True)
+          os.makedirs("data/archive", exist_ok=True)
+
+          # 이번 주 스토리 저장
           with open("data/story.json","w",encoding="utf-8") as f:
+              json.dump(out,f,ensure_ascii=False,indent=2)
+
+          # 아카이브 저장
+          with open(f"data/archive/{today}.json","w",encoding="utf-8") as f:
               json.dump(out,f,ensure_ascii=False,indent=2)
           PY
 
