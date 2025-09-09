@@ -128,27 +128,51 @@
 
 <script>
 const CONFIG = { ALPHA_KEY:'', birthday:'1985-04-18' };
+function $(q){return document.querySelector(q)}
 $('#todayStr').textContent = new Date().toLocaleString('ko-KR');
 $('#year').textContent = new Date().getFullYear();
-function $(q){return document.querySelector(q)}
 
-// === 뉴스 요약: data/news.json 우선 ===
+// === 무료 번역 함수 (구글 gtx)
+async function translateKo(text){
+  try{
+    const r = await fetch(
+      "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q="+encodeURIComponent(text)
+    );
+    const j = await r.json();
+    return j[0].map(x=>x[0]).join('');
+  }catch(e){ return text; }
+}
+
+// === 뉴스
 async function loadNews(){
   try{
     const r=await fetch('data/news.json?ts='+Date.now());
     if(r.ok){
       const j=await r.json(); const S=j.sections||{};
-      const render=(id,arr)=>{ if(!arr) return;
-        $(id).innerHTML=arr.map(a=>`<li><a href="${a.url}" target="_blank">${a.title}</a><div class="muted">${a.summary||''}</div></li>`).join('');
+      const render=async (id,arr)=>{
+        if(!arr) return;
+        let html='';
+        for(const a of arr){
+          const en = a.summary || a.title;
+          const ko = await translateKo(en);
+          const when = a.published ? new Date(a.published).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'}) : '';
+          html += `<li>
+            <a href="${a.url}" target="_blank"><b>${a.title}</b></a>
+            <div class="muted">${en}</div>
+            <div class="muted" style="color:#a5f3fc">번역: ${ko}</div>
+            ${when? `<div class="muted">${when}</div>`:''}
+          </li>`;
+        }
+        $(id).innerHTML=html;
       };
-      render('#usStockNews',S.us_stock);
-      render('#usEconNews',S.us_econ);
-      render('#usPolNews',S.us_politics);
-      render('#worldNews',S.world);
+      await render('#usStockNews',S.us_stock);
+      await render('#usEconNews',S.us_econ);
+      await render('#usPolNews',S.us_politics);
+      await render('#worldNews',S.world);
       return;
     }
   }catch(e){}
-  // 폴백: 구글뉴스 링크
+  // 폴백
   $('#usStockNews').innerHTML='<li><a href="https://news.google.com/search?q=US%20stock%20market">미국 증시 뉴스</a></li>';
   $('#usEconNews').innerHTML='<li><a href="https://news.google.com/search?q=US%20economy">미국 경제 뉴스</a></li>';
   $('#usPolNews').innerHTML='<li><a href="https://news.google.com/search?q=US%20politics">미국 정치 뉴스</a></li>';
@@ -157,9 +181,8 @@ async function loadNews(){
 loadNews();
 
 // === 운세
-function zodiac(m,d){ if((m==4&&d<=19)||(m==3&&d>=21)) return '양자리'; return '기타자리'; }
 $('#fortune').textContent='오늘은 좋은 기회가 올 수 있습니다.';
-$('#zodiacLabel').textContent=zodiac(4,18);
+$('#zodiacLabel').textContent='양자리';
 
 // === 영어 한마디
 const PHRASES=[{en:'Keep your focus, and the rest will follow.',ko:'집중하면 나머지는 따라온다.',grammar:'명령문+등위접속사',vocab:[['focus','집중'],['follow','따라오다']]}];
@@ -173,7 +196,8 @@ $('#engVocab').textContent='단어: '+pick.vocab.map(([w,m])=>`${w}(${m})`).join
 async function loadClose(){
   try{
     const r=await fetch('data/close.json?ts='+Date.now());
-    if(r.ok){const j=await r.json();
+    if(r.ok){
+      const j=await r.json();
       $('#spxClose').textContent=j.values.SPX;
       $('#ixicClose').textContent=j.values.IXIC;
       $('#djiClose').textContent=j.values.DJI;
