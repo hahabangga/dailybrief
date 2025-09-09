@@ -1,1 +1,82 @@
+name: Weekly story update
 
+on:
+  schedule:
+    # 매주 월요일 00:00 UTC (한국 09:00 KST)
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-story:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate weekly story
+        run: |
+          python - << 'PY'
+          import os, json, random, datetime
+
+          # 짧은 동화/우화 목록 (public domain 수준)
+          stories = [
+            {
+              "title":"The Lion and the Mouse",
+              "lines":[
+                {"en":"A lion was sleeping in the forest.","ko":"사자가 숲에서 자고 있었어요."},
+                {"en":"A little mouse ran over his face.","ko":"작은 쥐가 그의 얼굴 위로 달렸어요."},
+                {"en":"The lion woke up and caught the mouse.","ko":"사자가 깨어나 쥐를 잡았어요."},
+                {"en":"The mouse begged, 'Please let me go.'","ko":"쥐가 빌었어요. '제발 날 놔주세요.'"},
+                {"en":"The lion laughed and let the mouse go.","ko":"사자가 웃으며 쥐를 놔줬어요."}
+              ]
+            },
+            {
+              "title":"The Fox and the Grapes",
+              "lines":[
+                {"en":"A hungry fox saw some grapes on a vine.","ko":"배고픈 여우가 덩굴에 달린 포도를 보았어요."},
+                {"en":"He tried to reach them but could not.","ko":"그는 잡으려 했지만 닿지 않았어요."},
+                {"en":"Finally he said, 'They are probably sour.'","ko":"마침내 그는 말했어요. '아마도 시겠지.'"}
+              ]
+            },
+            {
+              "title":"The Ant and the Grasshopper",
+              "lines":[
+                {"en":"All summer, the ant worked hard.","ko":"여름 내내 개미는 열심히 일했어요."},
+                {"en":"The grasshopper sang and danced.","ko":"메뚜기는 노래하고 춤췄어요."},
+                {"en":"When winter came, the ant had food.","ko":"겨울이 오자 개미는 먹을 것이 있었어요."},
+                {"en":"The grasshopper was hungry and cold.","ko":"메뚜기는 배고프고 추웠어요."}
+              ]
+            }
+          ]
+
+          pick = random.choice(stories)
+          out = {
+              "date": datetime.date.today().isoformat(),
+              "story": pick
+          }
+
+          os.makedirs("data", exist_ok=True)
+          with open("data/story.json","w",encoding="utf-8") as f:
+              json.dump(out,f,ensure_ascii=False,indent=2)
+          PY
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore(data): weekly story update [skip ci]"
+            git push
+          fi
