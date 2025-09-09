@@ -6,223 +6,116 @@
   <title>Daily Briefing</title>
   <style>
     :root { --bg:#0f172a; --card:#111827; --text:#e5e7eb; --muted:#94a3b8; --accent:#38bdf8; }
-    * { box-sizing:border-box }
-    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans KR", Helvetica, Arial, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; background:var(--bg); color:var(--text); }
-    header { padding:16px 20px; border-bottom:1px solid #1f2937; position:sticky; top:0; background:linear-gradient(180deg, rgba(15,23,42,.98), rgba(15,23,42,.92)); backdrop-filter: blur(6px); z-index:10; }
-    .nav { display:flex; gap:12px; align-items:center; flex-wrap:wrap }
-    .nav a { color:var(--accent); text-decoration:none; font-size:14px }
-    h1 { margin:0; font-size:22px; letter-spacing:.3px; }
-    .sub { color:var(--muted); font-size:13px; margin-top:4px }
-    .wrap { max-width:1100px; margin:0 auto; padding:22px; display:grid; grid-template-columns: 1fr; gap:18px }
-    @media (min-width: 980px) { .wrap { grid-template-columns: 1.1fr 1fr; } }
-    .card { background:var(--card); border:1px solid #1f2937; border-radius:16px; padding:16px; box-shadow: 0 10px 24px rgba(0,0,0,.25); }
-    .card h2 { margin:0 0 10px; font-size:18px; }
-    .row { display:flex; gap:10px; flex-wrap:wrap }
-    .muted { color:var(--muted); font-size:13px }
-    .kpi { display:grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap:10px }
-    .kpi .tile { background:#0b1220; border:1px solid #1f2937; padding:10px 12px; border-radius:12px; }
-    .tile .label { color:#9CA3AF; font-size:12px }
-    .tile .value { font-size:16px; margin-top:4px }
-    .list { list-style:none; padding:0; margin:0 }
-    .list li { padding:8px 0; border-top:1px dashed #223046; }
-    .list li:first-child { border-top:none }
-    a { color: var(--accent); text-decoration:none }
-    .pill { display:inline-block; padding:2px 8px; border:1px solid #334155; border-radius:999px; font-size:12px; color:#a5b4fc; }
-    .tvwrap { border-radius:12px; overflow:hidden; border:1px solid #223046; }
-    .eng { margin-top:10px; padding:10px; background:#0b1220; border-radius:10px }
-    .eng .sentence { font-size:16px; margin-bottom:6px; }
-    .eng .trans { color:#a5f3fc; font-size:14px; margin-bottom:6px; }
-    .eng .grammar, .eng .vocab { color:#cbd5e1; font-size:13px; margin-bottom:4px; }
-    footer { text-align:center; padding:16px; }
+    body { margin:0; font-family:system-ui,sans-serif; background:var(--bg); color:var(--text);}
+    header { padding:16px; border-bottom:1px solid #1f2937; background:#111827; position:sticky; top:0;}
+    h1 { margin:0; font-size:22px; }
+    .wrap { max-width:1100px; margin:0 auto; padding:20px; display:grid; gap:20px; }
+    .card { background:var(--card); border:1px solid #1f2937; border-radius:16px; padding:16px;}
+    .card h2 { margin:0 0 10px; font-size:18px;}
+    .list { list-style:none; padding:0; margin:0;}
+    .list li { padding:6px 0; border-bottom:1px dashed #334155;}
+    .muted { color:var(--muted); font-size:13px;}
   </style>
 </head>
 <body>
 <header>
-  <div class="nav">
-    <h1>오늘의 브리핑</h1>
-    <span style="flex:1"></span>
-    <a href="listening.html">영어 리스닝</a>
-  </div>
-  <div class="sub" id="todayStr">로딩 중…</div>
+  <h1>오늘의 브리핑</h1>
+  <div id="todayStr" class="muted"></div>
 </header>
 
 <div class="wrap">
-  <!-- ☀️ 날씨 -->
+  <!-- 날씨 -->
   <section class="card">
     <h2>☀️ 오늘 날씨 & 7일 예보</h2>
-    <input id="city" placeholder="도시" value="Seoul" />
-    <button id="btnWeather">업데이트</button>
+    <input id="city" value="Seoul"/><button id="btnWeather">업데이트</button>
     <div id="weatherNow"></div>
     <ul id="weather7" class="list"></ul>
   </section>
 
-  <!-- 🔮 운세 -->
+  <!-- 운세 -->
   <section class="card">
     <h2>🔮 오늘의 운세 (1985-04-18)</h2>
     <div id="fortune"></div>
-    <div id="zodiacLabel" class="muted"></div>
   </section>
 
-  <!-- 📊 전일 종가 -->
-  <section class="card" style="grid-column:1/-1">
+  <!-- 종가 -->
+  <section class="card">
     <h2>📊 전일 종가</h2>
-    <div class="kpi">
-      <div class="tile"><div class="label">S&P 500</div><div class="value" id="spxClose">-</div></div>
-      <div class="tile"><div class="label">NASDAQ</div><div class="value" id="ixicClose">-</div></div>
-      <div class="tile"><div class="label">Dow Jones</div><div class="value" id="djiClose">-</div></div>
-      <div class="tile"><div class="label">KOSPI</div><div class="value" id="kospiClose">-</div></div>
-    </div>
-    <div class="muted" id="closeDate"></div>
+    <div id="close"></div>
   </section>
 
-  <!-- 📈 차트 -->
-  <section class="card" style="grid-column:1/-1">
-    <h2>📈 지수 차트</h2>
-    <div class="tvwrap">
-      <div class="tradingview-widget-container" style="height:400px">
-        <div class="tradingview-widget-container__widget"></div>
-        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
-        {
-          "colorTheme": "dark",
-          "dateRange": "1D",
-          "showChart": true,
-          "locale": "ko",
-          "width": "100%",
-          "height": "400",
-          "isTransparent": false,
-          "showSymbolLogo": true,
-          "tabs": [
-            { "title": "미국", "symbols": [
-              {"s":"FOREXCOM:SPXUSD","d":"S&P 500"},
-              {"s":"NASDAQ:IXIC","d":"NASDAQ"},
-              {"s":"DJ:DJI","d":"Dow Jones"} ] },
-            { "title": "한국", "symbols": [
-              {"s":"KRX:KOSPI","d":"KOSPI"},
-              {"s":"KRX:KOSDAQ","d":"KOSDAQ"} ] }
-          ]
-        }
-        </script>
-      </div>
-    </div>
+  <!-- 뉴스 -->
+  <section class="card">
+    <h2>🏛️ 정치</h2><ul id="politics" class="list"></ul>
+  </section>
+  <section class="card">
+    <h2>💵 경제</h2><ul id="economy" class="list"></ul>
+  </section>
+  <section class="card">
+    <h2>👥 사회</h2><ul id="society" class="list"></ul>
+  </section>
+  <section class="card">
+    <h2>🌍 국제</h2><ul id="world" class="list"></ul>
   </section>
 
-  <!-- 🇺🇸/🌍 뉴스 -->
-  <section class="card"><h2>🇺🇸 미국 증시</h2><ul id="usStockNews" class="list"></ul></section>
-  <section class="card"><h2>💵 미국 경제</h2><ul id="usEconNews" class="list"></ul></section>
-  <section class="card"><h2>🏛️ 미국 정치</h2><ul id="usPolNews" class="list"></ul></section>
-  <section class="card" style="grid-column:1/-1"><h2>🌍 세계 이슈</h2><ul id="worldNews" class="list"></ul></section>
-
-  <!-- 🗣 영어 한마디 -->
-  <section class="card" style="grid-column:1/-1">
-    <h2>🗣 영어 한마디</h2>
-    <div class="eng">
-      <div class="sentence" id="engSentence"></div>
-      <div class="trans" id="engTrans"></div>
-      <div class="grammar" id="engGrammar"></div>
-      <div class="vocab" id="engVocab"></div>
-    </div>
+  <section class="card">
+    <h2>📝 종합 요약</h2>
+    <div id="wrapSummary"></div>
+    <h3>📈 투자 시사점</h3>
+    <div id="investSummary"></div>
   </section>
 </div>
 
-<footer class="sub">© <span id="year"></span> Daily Briefing</footer>
-
 <script>
-const CONFIG = { ALPHA_KEY:'', birthday:'1985-04-18' };
-function $(q){return document.querySelector(q)}
-$('#todayStr').textContent = new Date().toLocaleString('ko-KR');
-$('#year').textContent = new Date().getFullYear();
+// 공통
+const $=q=>document.querySelector(q);
+$('#todayStr').textContent=new Date().toLocaleString('ko-KR');
 
-// === 무료 번역 함수 (구글 gtx)
-async function translateKo(text){
-  try{
-    const r = await fetch(
-      "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q="+encodeURIComponent(text)
-    );
-    const j = await r.json();
-    return j[0].map(x=>x[0]).join('');
-  }catch(e){ return text; }
-}
+// 운세
+$('#fortune').textContent="오늘은 기회가 찾아올 수 있습니다. 새로운 도전을 두려워하지 마세요.";
 
-// === 뉴스
-async function loadNews(){
-  try{
-    const r=await fetch('data/news.json?ts='+Date.now());
-    if(r.ok){
-      const j=await r.json(); const S=j.sections||{};
-      const render=async (id,arr)=>{
-        if(!arr) return;
-        let html='';
-        for(const a of arr){
-          const en = a.summary || a.title;
-          const ko = await translateKo(en);
-          const when = a.published ? new Date(a.published).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'}) : '';
-          html += `<li>
-            <a href="${a.url}" target="_blank"><b>${a.title}</b></a>
-            <div class="muted">${en}</div>
-            <div class="muted" style="color:#a5f3fc">번역: ${ko}</div>
-            ${when? `<div class="muted">${when}</div>`:''}
-          </li>`;
-        }
-        $(id).innerHTML=html;
-      };
-      await render('#usStockNews',S.us_stock);
-      await render('#usEconNews',S.us_econ);
-      await render('#usPolNews',S.us_politics);
-      await render('#worldNews',S.world);
-      return;
-    }
-  }catch(e){}
-  // 폴백
-  $('#usStockNews').innerHTML='<li><a href="https://news.google.com/search?q=US%20stock%20market">미국 증시 뉴스</a></li>';
-  $('#usEconNews').innerHTML='<li><a href="https://news.google.com/search?q=US%20economy">미국 경제 뉴스</a></li>';
-  $('#usPolNews').innerHTML='<li><a href="https://news.google.com/search?q=US%20politics">미국 정치 뉴스</a></li>';
-  $('#worldNews').innerHTML='<li><a href="https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVLQUFQAQ">세계 뉴스</a></li>';
-}
-loadNews();
-
-// === 운세
-$('#fortune').textContent='오늘은 좋은 기회가 올 수 있습니다.';
-$('#zodiacLabel').textContent='양자리';
-
-// === 영어 한마디
-const PHRASES=[{en:'Keep your focus, and the rest will follow.',ko:'집중하면 나머지는 따라온다.',grammar:'명령문+등위접속사',vocab:[['focus','집중'],['follow','따라오다']]}];
-const pick=PHRASES[0];
-$('#engSentence').textContent=pick.en;
-$('#engTrans').textContent=pick.ko;
-$('#engGrammar').textContent='문법: '+pick.grammar;
-$('#engVocab').textContent='단어: '+pick.vocab.map(([w,m])=>`${w}(${m})`).join(', ');
-
-// === 전일 종가 (JSON→Alpha)
+// 종가
 async function loadClose(){
   try{
-    const r=await fetch('data/close.json?ts='+Date.now());
-    if(r.ok){
-      const j=await r.json();
-      $('#spxClose').textContent=j.values.SPX;
-      $('#ixicClose').textContent=j.values.IXIC;
-      $('#djiClose').textContent=j.values.DJI;
-      $('#kospiClose').textContent=j.values.KOSPI;
-      $('#closeDate').textContent='기준일: '+j.date;
-      return;
-    }
-  }catch(e){}
-  $('#closeDate').textContent='데이터 없음';
+    const j=await fetch('data/close.json').then(r=>r.json());
+    $('#close').textContent=`S&P500 ${j.values.SPX}, NASDAQ ${j.values.IXIC}, Dow ${j.values.DJI}, KOSPI ${j.values.KOSPI} (기준일: ${j.date})`;
+  }catch(e){$('#close').textContent='데이터 없음';}
 }
 loadClose();
 
-// === 날씨
+// 날씨
+const weatherMap={0:"맑음",1:"대체로 맑음",2:"부분적으로 흐림",3:"흐림",45:"안개",48:"상층안개",
+51:"이슬비 약함",53:"이슬비 보통",55:"이슬비 강함",61:"비 약함",63:"비 보통",65:"비 강함",
+71:"눈 약함",73:"눈 보통",75:"눈 강함",80:"소나기 약함",81:"소나기 보통",82:"소나기 강함"};
 async function loadWeather(city){
   try{
     const g=await fetch(`https://geocoding-api.open-meteo.com/v1/search?name=${city}&count=1&language=ko&format=json`).then(r=>r.json());
     const {latitude,longitude}=g.results[0];
     const url=`https://api.open-meteo.com/v1/forecast?latitude=${latitude}&longitude=${longitude}&current=temperature_2m,weather_code&daily=temperature_2m_max,temperature_2m_min,weather_code&timezone=Asia%2FSeoul`;
     const j=await fetch(url).then(r=>r.json());
-    $('#weatherNow').textContent=`현재기온 ${j.current.temperature_2m}°C`;
-    $('#weather7').innerHTML=j.daily.time.map((t,i)=>`<li>${t}: ${j.daily.temperature_2m_max[i]}° / ${j.daily.temperature_2m_min[i]}°</li>`).join('');
+    $('#weatherNow').textContent=`현재 ${j.current.temperature_2m}°C · ${weatherMap[j.current.weather_code]||''}`;
+    $('#weather7').innerHTML=j.daily.time.map((t,i)=>
+      `<li>${t}: ${j.daily.temperature_2m_max[i]}°/${j.daily.temperature_2m_min[i]}° · ${weatherMap[j.daily.weather_code[i]]||''}</li>`
+    ).join('');
   }catch(e){$('#weatherNow').textContent='날씨 로딩 실패';}
 }
 $('#btnWeather').onclick=()=>loadWeather($('#city').value);
 loadWeather('Seoul');
+
+// 뉴스
+async function loadNews(){
+  try{
+    const j=await fetch('data/news.json').then(r=>r.json());
+    const render=(id,arr)=>$(id).innerHTML=arr.map(a=>`<li><a href="${a.url}" target="_blank">${a.title}</a><div class="muted">${a.summary}</div></li>`).join('');
+    render('#politics',j.sections.politics);
+    render('#economy',j.sections.economy);
+    render('#society',j.sections.society);
+    render('#world',j.sections.world);
+    $('#wrapSummary').textContent=j.wrap_summary;
+    $('#investSummary').textContent=j.invest_summary;
+  }catch(e){$('#wrapSummary').textContent='뉴스 데이터 없음';}
+}
+loadNews();
 </script>
 </body>
 </html>
