@@ -1,267 +1,143 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>영어 리스닝 스터디</title>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>English Listening Practice</title>
   <style>
-    :root { --bg:#0f172a; --card:#111827; --text:#e5e7eb; --muted:#94a3b8; --accent:#38bdf8; }
-    *{box-sizing:border-box}
-    body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans KR",Helvetica,Arial,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;background:var(--bg);color:var(--text)}
-    header{position:sticky;top:0;z-index:10;background:linear-gradient(180deg,rgba(15,23,42,.98),rgba(15,23,42,.92));border-bottom:1px solid #1f2937;padding:14px 16px}
-    header .nav{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
-    header a{color:var(--accent);text-decoration:none}
-    .wrap{max-width:980px;margin:0 auto;padding:18px;display:grid;gap:14px}
-    .card{background:var(--card);border:1px solid #1f2937;border-radius:16px;padding:16px;box-shadow:0 10px 24px rgba(0,0,0,.25)}
-    .card h2{margin:0 0 10px;font-size:18px}
-    .muted{color:var(--muted);font-size:13px}
-    select,input[type="range"],button{background:#0b1220;color:var(--text);border:1px solid #223046;border-radius:10px}
-    select{padding:8px 10px}
-    input[type="range"]{width:160px}
-    button{padding:8px 12px;cursor:pointer}
-    .ctrls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-    .pill{display:inline-block;padding:2px 8px;border:1px solid #334155;border-radius:999px;font-size:12px;color:#a5b4fc}
-    .script{list-style:none;margin:0;padding:0}
-    .line{padding:10px;border-top:1px dashed #223046}
-    .line:first-child{border-top:none}
-    .en{font-size:16px;line-height:1.5}
-    .ko{color:#a5f3fc;margin-top:6px;display:none}
-    .grammar,.vocab{color:#cbd5e1;margin-top:6px;display:none;font-size:14px}
-    .vocab ul{list-style:disc;margin:6px 0 0 18px}
-    .line.playing{background:#0b1220;border-left:3px solid var(--accent)}
-    .badgetag{display:inline-block;margin-left:6px;font-size:11px;color:#eab308;border:1px solid #56411a;padding:0 6px;border-radius:999px}
-    .tools{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
-    .recStatus{font-size:12px}
-    .hint{font-size:12px;color:#9ca3af}
+    body { background:#0f172a; color:#e5e7eb; font-family:system-ui, sans-serif; margin:0; }
+    header { padding:16px; border-bottom:1px solid #1f2937; background:#111827; position:sticky; top:0; }
+    h1 { margin:0; font-size:20px; }
+    .wrap { max-width:900px; margin:0 auto; padding:20px; }
+    select,button { margin:4px; padding:6px 10px; border-radius:6px; border:1px solid #334155; background:#1e293b; color:#e5e7eb; }
+    .line { padding:6px 0; border-bottom:1px dashed #334155; }
+    .ko { color:#a5f3fc; font-size:14px; }
+    audio { margin:10px 0; width:100%; }
   </style>
 </head>
 <body>
-  <header>
-    <div class="nav">
-      <strong>🗣 영어 리스닝 스터디</strong>
-      <span class="muted">TOEIC 600 ± 수준</span>
-      <span class="pill">클라이언트 전용 · 무료</span>
-      <span style="flex:1"></span>
-      <a href="index.html">← 데일리 브리핑</a>
-    </div>
-  </header>
+<header>
+  <h1>🎧 영어 리스닝 연습</h1>
+</header>
 
-  <main class="wrap">
-    <section class="card">
-      <h2>콘텐츠 선택 & 재생 설정</h2>
-      <div class="ctrls">
-        <label class="muted">스토리</label>
-        <select id="storySel"></select>
-        <label class="muted">속도</label>
-        <input id="rate" type="range" min="0.6" max="1.2" step="0.05" value="0.9" />
-        <span id="rateVal" class="muted">0.90×</span>
-        <label class="muted">목소리</label>
-        <select id="voiceSel"></select>
-        <button id="btnPlayAll">▶ 전체재생</button>
-        <button id="btnPause">⏸ 일시정지</button>
-        <button id="btnResume">⏯ 재개</button>
-        <button id="btnStop">⏹ 정지</button>
-      </div>
-      <div class="tools">
-        <button id="toggleKo">번역 보기/숨기기</button>
-        <button id="toggleGrammar">문법 보기/숨기기</button>
-        <button id="toggleVocab">단어 보기/숨기기</button>
-        <button id="btnShadow">🎤 쉐도잉 녹음</button>
-        <span id="recStat" class="recStatus muted">대부분의 데스크톱 브라우저에서 동작</span>
-      </div>
-      <div class="hint">문장을 클릭하면 해당 문장만 재생됩니다. 어려운 문장에는 <span class="badgetag">Grammar</span> 배지가 달려요.</div>
-    </section>
+<div class="wrap">
+  <div>
+    <label>스토리 선택: </label>
+    <select id="storySel"></select>
+    <button onclick="playAll()">▶ 전체 재생</button>
+  </div>
+  <div>
+    <label>보기 모드: </label>
+    <button onclick="setViewMode('en')">영어만</button>
+    <button onclick="setViewMode('line')">영어+한글</button>
+    <button onclick="setViewMode('sep')">영어 따로/한글 따로</button>
+  </div>
+  <div style="margin:10px 0">
+    <label>음성 선택: </label>
+    <select id="voiceSel"></select>
+    <label>속도: <input type="number" id="rate" value="1" step="0.1" style="width:60px"/></label>
+  </div>
+  <div id="scriptArea"></div>
+</div>
 
-    <section class="card">
-      <h2 id="storyTitle">스크립트</h2>
-      <ul id="script" class="script"></ul>
-    </section>
-  </main>
+<script>
+const LIB = [
+  {
+    id:'fairy1',
+    title:'The Little Cat (동화)',
+    lines:[
+      { en:'The little cat is in the garden.', ko:'작은 고양이가 정원에 있어요.' },
+      { en:'It sees a butterfly.', ko:'나비를 봐요.' },
+      { en:'The cat runs and jumps.', ko:'고양이가 달리고 점프해요.' },
+      { en:'The butterfly flies away.', ko:'나비가 날아가 버려요.' },
+      { en:'The cat sits and looks at the sky.', ko:'고양이는 앉아서 하늘을 바라봐요.' }
+    ]
+  },
+  {
+    id:'fairy2',
+    title:'A Sunny Day (동화)',
+    lines:[
+      { en:'Today is a sunny day.', ko:'오늘은 화창한 날이에요.' },
+      { en:'The children play in the park.', ko:'아이들이 공원에서 놀아요.' },
+      { en:'They run with a ball.', ko:'그들은 공을 가지고 달려요.' },
+      { en:'They eat ice cream.', ko:'그들은 아이스크림을 먹어요.' },
+      { en:'Everyone is happy.', ko:'모두가 행복해요.' }
+    ]
+  },
+  {
+    id:'toeic1',
+    title:'At the Office (토익600수준)',
+    lines:[
+      { en:'The manager asked me to prepare the report by tomorrow.', ko:'부장님이 내일까지 보고서를 준비하라고 했습니다.' },
+      { en:'I will need to check the data and update the figures.', ko:'나는 데이터를 확인하고 수치를 업데이트해야 합니다.' },
+      { en:'After that, we will have a short meeting.', ko:'그 후에 우리는 짧은 회의를 할 것입니다.' }
+    ]
+  }
+];
 
-  <script>
-    // ===== 데이터: A2~B1 (TOEIC 약 500~650) =====
-    const LIB = [
-      {
-        id:'easy-picnic',
-        title:'EASY · The Park Picnic',
-        level:'A2',
-        lines:[
-          {en:'Mina packs sandwiches and fruit for a picnic.', ko:'미나는 피크닉을 위해 샌드위치와 과일을 챙긴다.', grammar:'현재시제. pack A for B.', vocab:[['pack','챙기다'],['picnic','소풍']]},
-          {en:'The sky is clear, but the grass is wet.', ko:'하늘은 맑지만, 잔디는 젖어 있다.', grammar:'등위접속사 but 대조.', vocab:[['clear','맑은'],['grass','잔디']]},
-          {en:'They spread a blanket and sit down carefully.', ko:'그들은 담요를 펴고 조심히 앉는다.', grammar:'동사열거 spread ~ and sit down.', vocab:[['spread','펼치다'],['blanket','담요']]},
-          {en:'A curious squirrel comes close, looking for crumbs.', ko:'호기심 많은 다람쥐가 빵부스러기를 찾으며 다가온다.', grammar:'분사구문.', vocab:[['curious','호기심 많은'],['crumb','부스러기']]},
-          {en:'Mina laughs and gives it a tiny piece of apple.', ko:'미나는 웃으며 사과 조각을 조금 준다.', grammar:'give + 간목 + 직목.', vocab:[['tiny','아주 작은'],['piece','조각']]}
-        ]
-      },
-      {
-        id:'toeic600-delivery',
-        title:'CORE · The Late Delivery',
-        level:'A2~B1',
-        lines:[
-          {en:'The customer placed an online order last Friday, but the package has not arrived yet.', ko:'고객은 지난 금요일 주문했지만, 소포는 아직 도착하지 않았다.', grammar:'과거 vs 현재완료 부정.', vocab:[['place an order','주문하다'],['arrive','도착하다']]},
-          {en:'Mina checks the tracking number and sees a delay notice.', ko:'미나는 운송장 번호를 확인하고 지연 공지를 본다.', grammar:'and로 동사 연결.', vocab:[['tracking number','운송장 번호'],['delay notice','지연 공지']]},
-          {en:'She emails the warehouse to confirm the status and asks for a revised delivery date.', ko:'창고에 상태 확인 메일을 보내고 변경된 배송 날짜를 요청한다.', grammar:'to부정사 목적/명사구.', vocab:[['warehouse','창고'],['revised','수정된']]},
-          {en:'The manager apologizes and offers a small discount on the next purchase.', ko:'매니저는 사과하고 다음 구매에 소액 할인을 제안한다.', grammar:'offer A on B.', vocab:[['apologize','사과하다'],['discount','할인']]},
-          {en:'Mina updates the customer politely and attaches the new schedule.', ko:'정중히 상황을 업데이트하고 새 일정을 첨부한다.', grammar:'부사 위치.', vocab:[['politely','정중하게'],['attach','첨부하다']]},
-          {en:'Although the delay was inconvenient, the clear communication reduced the complaint.', ko:'지연이 불편했지만, 명확한 소통이 불만을 줄였다.', grammar:'양보절 Although ~.', vocab:[['although','비록 ~이지만'],['reduce','줄이다']]}
-        ]
-      },
-      {
-        id:'news-lite-townhall',
-        title:'PLUS · A Company Town Hall',
-        level:'B1',
-        lines:[
-          {en:'The CEO opened the town hall by thanking the staff for their resilience.', ko:'CEO는 직원들의 끈기에 감사를 표하며 시작했다.', grammar:'by + 동명사(수단).', vocab:[['resilience','회복탄력성'],['town hall','전체 회의']]},
-          {en:'She outlined three goals: improving service speed, cutting costs, and expanding to new markets.', ko:'세 가지 목표를 제시했다: 속도 향상, 비용 절감, 신시장 확대.', grammar:'동명사 병렬.', vocab:[['outline','개요를 말하다'],['expand','확장하다']]},
-          {en:'Employees submitted questions anonymously through an online form.', ko:'직원들은 온라인 양식으로 익명 질문을 제출했다.', grammar:'부사 anonymously.', vocab:[['anonymously','익명으로'],['submit','제출하다']]},
-          {en:'Some concerns were specific, but most focused on workload and career growth.', ko:'일부 우려는 구체적이었지만, 대부분은 업무량과 경력 성장에 집중했다.', grammar:'대조 but, 병렬 focused on ~.', vocab:[['concern','우려'],['workload','업무량']]}
-        ]
-      }
-    ];
+let currentSet = LIB[0];
+let viewMode = 'line'; // 기본 모드
+let voices=[];
 
-    // ===== 상태/요소
-    const els = {
-      storySel: document.getElementById('storySel'),
-      voiceSel: document.getElementById('voiceSel'),
-      rate: document.getElementById('rate'),
-      rateVal: document.getElementById('rateVal'),
-      script: document.getElementById('script'),
-      storyTitle: document.getElementById('storyTitle'),
-      btnPlayAll: document.getElementById('btnPlayAll'),
-      btnPause: document.getElementById('btnPause'),
-      btnResume: document.getElementById('btnResume'),
-      btnStop: document.getElementById('btnStop'),
-      toggleKo: document.getElementById('toggleKo'),
-      toggleGrammar: document.getElementById('toggleGrammar'),
-      toggleVocab: document.getElementById('toggleVocab'),
-      btnShadow: document.getElementById('btnShadow'),
-      recStat: document.getElementById('recStat')
-    };
+// 초기화
+const sel=document.getElementById('storySel');
+LIB.forEach((s,i)=>{ const opt=document.createElement('option'); opt.value=i; opt.textContent=s.title; sel.appendChild(opt); });
+sel.onchange=()=>{ currentSet=LIB[sel.value]; renderScript(); };
 
-    // ===== TTS
-    const synth = window.speechSynthesis;
-    let VOICES = [];
-    function loadVoices(){ VOICES = synth.getVoices().filter(v=>/en|US|GB/i.test(v.lang)); renderVoices(); }
-    function renderVoices(){
-      els.voiceSel.innerHTML = VOICES.map((v,i)=>`<option value="${i}">${v.name} (${v.lang})</option>`).join('');
-      const saved = localStorage.getItem('tts_voice_idx');
-      if(saved && VOICES[saved]) els.voiceSel.value = saved;
+function setViewMode(m){ viewMode=m; renderScript(); }
+
+function renderScript(){
+  let html='';
+  if(viewMode==='en'){
+    html = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
+  } else if(viewMode==='line'){
+    html = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}<br/><span class="ko">${l.ko}</span></div>`).join('');
+  } else if(viewMode==='sep'){
+    html = `<h3>English</h3>`+currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('')
+         + `<h3>Korean</h3>`+currentSet.lines.map(l=>`<div class="line">${l.ko}</div>`).join('');
+  }
+  document.getElementById('scriptArea').innerHTML=html;
+}
+renderScript();
+
+// TTS
+function loadVoices(){
+  voices = speechSynthesis.getVoices();
+  const vs=document.getElementById('voiceSel');
+  vs.innerHTML='';
+  voices.forEach((v,i)=>{
+    if(v.lang.startsWith('en')){ 
+      const opt=document.createElement('option'); 
+      opt.value=i; opt.textContent=v.name+' ('+v.lang+')'; 
+      vs.appendChild(opt); 
     }
-    window.speechSynthesis.onvoiceschanged = loadVoices;
-    loadVoices();
+  });
+}
+speechSynthesis.onvoiceschanged=loadVoices; loadVoices();
 
-    function speakText(text){
-      return new Promise((resolve)=>{
-        const u = new SpeechSynthesisUtterance(text);
-        const idx = parseInt(els.voiceSel.value||0,10);
-        if(VOICES[idx]) u.voice = VOICES[idx];
-        u.rate = parseFloat(els.rate.value||0.9);
-        u.onend = resolve; u.onerror = resolve;
-        synth.speak(u);
-      });
-    }
+function playLine(i){
+  const rate=parseFloat(document.getElementById('rate').value)||1;
+  const vsel=document.getElementById('voiceSel'); 
+  const voice=voices[vsel.value];
+  const u=new SpeechSynthesisUtterance(currentSet.lines[i].en);
+  if(voice) u.voice=voice;
+  u.rate=rate;
+  speechSynthesis.cancel();
+  speechSynthesis.speak(u);
+}
 
-    // ===== 렌더링
-    function renderStory(st){
-      els.storyTitle.textContent = `스크립트 — ${st.title} (Level ${st.level})`;
-      els.script.innerHTML = st.lines.map((ln,i)=>{
-        const hard = (ln.grammar && /although|which|that|because|while|subjunctive|inverted/i.test(ln.grammar)) ? '<span class="badgetag">Grammar</span>' : '';
-        const vocabHtml = (ln.vocab||[]).map(([w,m])=>`<li>• <b>${w}</b>: ${m}</li>`).join('');
-        return `<li class="line" data-idx="${i}">
-          <div class="en">${ln.en} ${hard}</div>
-          <div class="ko">${ln.ko}</div>
-          <div class="grammar">문법: ${ln.grammar||'—'}</div>
-          <div class="vocab"><div>단어</div><ul>${vocabHtml}</ul></div>
-        </li>`;
-      }).join('');
-    }
-    function renderStoryOptions(){
-      els.storySel.innerHTML = LIB.map((s,i)=>`<option value="${i}">${s.title}</option>`).join('');
-      const saved = localStorage.getItem('story_idx');
-      els.storySel.value = saved || '1';
-      renderStory(LIB[parseInt(els.storySel.value,10)]);
-    }
-    renderStoryOptions();
-
-    els.storySel.addEventListener('change',()=>{
-      localStorage.setItem('story_idx', els.storySel.value);
-      renderStory(LIB[parseInt(els.storySel.value,10)]);
-    });
-
-    els.rate.addEventListener('input',()=>{
-      els.rateVal.textContent = parseFloat(els.rate.value).toFixed(2)+'×';
-      localStorage.setItem('tts_rate', els.rate.value);
-    });
-    const savedRate = localStorage.getItem('tts_rate');
-    if(savedRate){ els.rate.value = savedRate; els.rate.dispatchEvent(new Event('input')); }
-
-    els.voiceSel.addEventListener('change',()=> localStorage.setItem('tts_voice_idx', els.voiceSel.value));
-
-    // 토글
-    let showKo=true, showG=true, showV=true;
-    function applyToggles(){
-      document.querySelectorAll('.ko').forEach(e=>e.style.display = showKo? 'block':'none');
-      document.querySelectorAll('.grammar').forEach(e=>e.style.display = showG? 'block':'none');
-      document.querySelectorAll('.vocab').forEach(e=>e.style.display = showV? 'block':'none');
-    }
-    document.getElementById('toggleKo').addEventListener('click',()=>{ showKo=!showKo; applyToggles(); });
-    document.getElementById('toggleGrammar').addEventListener('click',()=>{ showG=!showG; applyToggles(); });
-    document.getElementById('toggleVocab').addEventListener('click',()=>{ showV=!showV; applyToggles(); });
-
-    // 재생
-    let stopAll=false;
-    async function playAll(){
-      stopAll=false;
-      const lines = LIB[parseInt(els.storySel.value,10)].lines;
-      for(let i=0;i<lines.length;i++){
-        if(stopAll) break;
-        highlight(i);
-        await speakText(lines[i].en);
-      }
-      highlight(-1);
-    }
-    function highlight(idx){
-      document.querySelectorAll('.line').forEach(li=>li.classList.remove('playing'));
-      const el = document.querySelector(`.line[data-idx="${idx}"]`);
-      if(el) el.classList.add('playing');
-    }
-    els.btnPlayAll.addEventListener('click',playAll);
-    els.btnPause.addEventListener('click',()=>{ if(synth.speaking && !synth.paused) synth.pause(); });
-    els.btnResume.addEventListener('click',()=>{ if(synth.paused) synth.resume(); });
-    els.btnStop.addEventListener('click',()=>{ stopAll=true; synth.cancel(); highlight(-1); });
-    document.getElementById('script').addEventListener('click',(e)=>{
-      const li=e.target.closest('.line'); if(!li) return;
-      stopAll=true; synth.cancel();
-      const idx=parseInt(li.dataset.idx,10);
-      highlight(idx);
-      const ln = LIB[parseInt(els.storySel.value,10)].lines[idx];
-      speakText(ln.en).then(()=>highlight(-1));
-    });
-
-    // 쉐도잉 녹음
-    let mediaRecorder; let chunks=[]; let recording=false;
-    async function toggleRecord(){
-      try{
-        if(!recording){
-          const stream = await navigator.mediaDevices.getUserMedia({audio:true});
-          mediaRecorder = new MediaRecorder(stream);
-          mediaRecorder.ondataavailable = e=>{ if(e.data.size>0) chunks.push(e.data); };
-          mediaRecorder.onstop = ()=>{
-            const blob = new Blob(chunks,{type:'audio/webm'}); chunks=[];
-            const url = URL.createObjectURL(blob);
-            const a = document.createElement('audio'); a.controls=true; a.src=url; a.style.display='block'; a.style.marginTop='8px';
-            document.querySelector('.card:last-of-type').appendChild(a);
-          };
-          mediaRecorder.start(); recording=true; els.recStat.textContent='녹음 중… (다시 누르면 종료)';
-        }else{
-          mediaRecorder.stop(); recording=false; els.recStat.textContent='저장 완료. 아래 오디오로 재생 가능';
-        }
-      }catch(_){ els.recStat.textContent='마이크 권한이 필요합니다. 브라우저 설정을 확인하세요.'; }
-    }
-    document.getElementById('btnShadow').addEventListener('click', toggleRecord);
-
-    // 초기
-    applyToggles();
-  </script>
+function playAll(){
+  const rate=parseFloat(document.getElementById('rate').value)||1;
+  const vsel=document.getElementById('voiceSel'); 
+  const voice=voices[vsel.value];
+  speechSynthesis.cancel();
+  currentSet.lines.forEach((l,idx)=>{
+    const u=new SpeechSynthesisUtterance(l.en);
+    if(voice) u.voice=voice;
+    u.rate=rate;
+    speechSynthesis.speak(u);
+  });
+}
+</script>
 </body>
 </html>
