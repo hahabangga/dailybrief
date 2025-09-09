@@ -12,11 +12,16 @@
     select,button { margin:4px; padding:6px 10px; border-radius:6px; border:1px solid #334155; background:#1e293b; color:#e5e7eb; }
     .line { padding:6px 0; border-bottom:1px dashed #334155; cursor:pointer; }
     .ko { color:#a5f3fc; font-size:14px; }
+    .nav { display:flex; gap:12px; align-items:center; }
+    .nav a { color:#38bdf8; text-decoration:none; font-size:14px; }
   </style>
 </head>
 <body>
 <header>
-  <h1>🎧 영어 리스닝 연습 (주간 업데이트 + 자동 번역)</h1>
+  <div class="nav">
+    <a href="index.html">← 데일리 브리핑으로</a>
+    <h1>🎧 영어 리스닝 연습 (주간 업데이트 + 자동 번역)</h1>
+  </div>
 </header>
 
 <div class="wrap">
@@ -40,12 +45,12 @@
 </div>
 
 <script>
-let LIB = [];
-let currentSet = null;
-let viewMode = 'line';
+let LIB = [];          // 전체 스토리 목록
+let currentSet = null; // 현재 선택
+let viewMode = 'line'; // 기본 보기 모드
 let voices=[];
 
-// ===== 무료 번역 함수 =====
+// ===== 무료 번역 =====
 async function translateKo(text){
   try{
     const r=await fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q="+encodeURIComponent(text));
@@ -54,103 +59,11 @@ async function translateKo(text){
   }catch(e){ return ""; }
 }
 
-// ===== 스크립트 렌더링 =====
+// ===== 렌더링 =====
 async function renderScript(){
   if(!currentSet) return;
   let html='';
   if(viewMode==='en'){
     html = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
   } else if(viewMode==='line'){
-    html = (await Promise.all(currentSet.lines.map(async (l,i)=>{
-      const ko = await translateKo(l.en);
-      return `<div class="line" onclick="playLine(${i})">${l.en}<br/><span class="ko">${ko}</span></div>`;
-    }))).join('');
-  } else if(viewMode==='sep'){
-    const enPart = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
-    const koPart = (await Promise.all(currentSet.lines.map(async (l)=>`<div class="line">${await translateKo(l.en)}</div>`))).join('');
-    html = `<h3>English</h3>${enPart}<h3>Korean</h3>${koPart}`;
-  }
-  document.getElementById('scriptArea').innerHTML=html;
-}
-
-function setViewMode(m){ viewMode=m; renderScript(); }
-
-// ===== TTS =====
-function loadVoices(){
-  voices = speechSynthesis.getVoices();
-  const vs=document.getElementById('voiceSel');
-  vs.innerHTML='';
-  voices.forEach((v,i)=>{
-    if(v.lang.startsWith('en')){ 
-      const opt=document.createElement('option'); 
-      opt.value=i; opt.textContent=v.name+' ('+v.lang+')'; 
-      vs.appendChild(opt); 
-    }
-  });
-}
-speechSynthesis.onvoiceschanged=loadVoices; loadVoices();
-
-function playLine(i){
-  if(!currentSet) return;
-  const rate=parseFloat(document.getElementById('rate').value)||1;
-  const vsel=document.getElementById('voiceSel'); 
-  const voice=voices[vsel.value];
-  const u=new SpeechSynthesisUtterance(currentSet.lines[i].en);
-  if(voice) u.voice=voice;
-  u.rate=rate;
-  speechSynthesis.cancel();
-  speechSynthesis.speak(u);
-}
-
-function playAll(){
-  if(!currentSet) return;
-  const rate=parseFloat(document.getElementById('rate').value)||1;
-  const vsel=document.getElementById('voiceSel'); 
-  const voice=voices[vsel.value];
-  speechSynthesis.cancel();
-  currentSet.lines.forEach((l)=>{
-    const u=new SpeechSynthesisUtterance(l.en);
-    if(voice) u.voice=voice;
-    u.rate=rate;
-    speechSynthesis.speak(u);
-  });
-}
-
-// ===== 스토리 로드 =====
-async function loadStories(){
-  const sel=document.getElementById('storySel');
-  // 이번 주 스토리
-  try{
-    const j=await fetch('data/story.json?ts='+Date.now()).then(r=>r.json());
-    const s={id:'weekly',title:`🌟 이번 주 이야기 (${j.date}): ${j.story.title}`,lines:j.story.lines};
-    LIB.push(s);
-  }catch(e){console.log('이번 주 스토리 없음');}
-
-  // 아카이브 (지난 이야기들)
-  try{
-    const r=await fetch('https://api.github.com/repos/YOUR_ID/dailybrief/contents/data/archive');
-    if(r.ok){
-      const arr=await r.json();
-      for(const f of arr){
-        if(f.name.endsWith('.json')){
-          const aj=await fetch(f.download_url).then(r=>r.json());
-          const s={id:f.name,title:`📚 지난 이야기 (${aj.date}): ${aj.story.title}`,lines:aj.story.lines};
-          LIB.push(s);
-        }
-      }
-    }
-  }catch(e){console.log('아카이브 로드 실패',e);}
-
-  LIB.forEach((s,i)=>{ 
-    const opt=document.createElement('option'); 
-    opt.value=i; 
-    opt.textContent=s.title; 
-    sel.appendChild(opt); 
-  });
-
-  if(LIB.length>0){ currentSet=LIB[0]; renderScript(); }
-}
-loadStories();
-</script>
-</body>
-</html>
+    html = (await Promise.all(current
