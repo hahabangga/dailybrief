@@ -1,8 +1,8 @@
-name: Weekly story update
+name: Weekly story update (public domain)
 
 on:
   schedule:
-    # 매주 월요일 00:00 UTC (한국 09:00)
+    # 매주 월요일 00:00 UTC (한국 09:00 KST)
     - cron: "0 0 * * 1"
   workflow_dispatch:
 
@@ -22,64 +22,47 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Generate weekly story
+      - name: Fetch random fable
         run: |
           python - << 'PY'
-          import os, json, random, datetime
+          import os, json, random, datetime, requests, re
 
-          # 긴 동화 지문 샘플 (10~15문장 수준, 간단 단어)
-          stories = [
-            {
-              "title":"The Lion and the Mouse",
-              "lines":[
-                {"en":"A lion was sleeping under a tree.","ko":"사자가 나무 아래에서 자고 있었어요."},
-                {"en":"A small mouse ran across his paw.","ko":"작은 쥐가 그의 발 위를 달렸어요."},
-                {"en":"The lion woke up and caught the mouse.","ko":"사자가 깨어나 쥐를 잡았어요."},
-                {"en":"The mouse begged, 'Please let me go.'","ko":"쥐가 빌었어요. '제발 날 놔주세요.'"},
-                {"en":"The lion laughed but set the mouse free.","ko":"사자가 웃으며 쥐를 풀어줬어요."},
-                {"en":"Days later, hunters caught the lion.","ko":"며칠 뒤, 사자가 사냥꾼에게 잡혔어요."},
-                {"en":"They tied him with strong ropes.","ko":"그들은 그를 튼튼한 밧줄로 묶었어요."},
-                {"en":"The little mouse heard the lion’s roar.","ko":"작은 쥐가 사자의 울음을 들었어요."},
-                {"en":"The mouse ran to help the lion.","ko":"쥐가 달려와 사자를 도왔어요."},
-                {"en":"It bit the ropes with sharp teeth.","ko":"쥐는 날카로운 이빨로 밧줄을 물어뜯었어요."},
-                {"en":"Soon the lion was free again.","ko":"곧 사자는 다시 자유로워졌어요."},
-                {"en":"The lion thanked the mouse.","ko":"사자가 쥐에게 고마워했어요."},
-                {"en":"He said, 'Even small friends can be great help.'","ko":"그가 말했어요. '작은 친구도 큰 도움이 될 수 있다.'"}
-              ]
-            },
-            {
-              "title":"The Ant and the Grasshopper",
-              "lines":[
-                {"en":"All summer, the ant worked hard.","ko":"여름 내내 개미는 열심히 일했어요."},
-                {"en":"It carried food to its home every day.","ko":"그는 매일 먹이를 집으로 날랐어요."},
-                {"en":"The grasshopper sang and danced in the sun.","ko":"메뚜기는 태양 아래에서 노래하고 춤췄어요."},
-                {"en":"The grasshopper said, 'Come sing with me.'","ko":"메뚜기가 말했어요. '나랑 같이 노래하자.'"},
-                {"en":"The ant replied, 'I must prepare for winter.'","ko":"개미가 대답했어요. '난 겨울을 준비해야 해.'"},
-                {"en":"Winter came with cold winds and snow.","ko":"겨울이 차가운 바람과 눈과 함께 왔어요."},
-                {"en":"The ant had a warm house and plenty of food.","ko":"개미는 따뜻한 집과 많은 음식을 가지고 있었어요."},
-                {"en":"The grasshopper had nothing to eat.","ko":"메뚜기는 먹을 것이 없었어요."},
-                {"en":"It was cold and hungry.","ko":"그는 춥고 배고팠어요."},
-                {"en":"The grasshopper went to the ant.","ko":"메뚜기는 개미에게 갔어요."},
-                {"en":"'Please give me some food,' it said.","ko":"'제발 먹을 것을 좀 줘,' 라고 말했어요."},
-                {"en":"The ant shared a little but said, 'Next time, work too.'","ko":"개미는 조금 나누어주며 말했어요. '다음엔 너도 일해.'"}
-              ]
-            }
-          ]
+          # Project Gutenberg Aesop's Fables (영문 텍스트)
+          URL = "https://www.gutenberg.org/cache/epub/11339/pg11339.txt"
+          r = requests.get(URL, timeout=30)
+          text = r.text
 
-          pick = random.choice(stories)
-          today = datetime.date.today().isoformat()
-          out = { "date": today, "story": pick }
+          # 단순 전처리: 너무 짧은 줄 제외, 빈 줄 기준으로 이야기 분리
+          parts = [p.strip() for p in text.split("\n\n") if len(p.strip().split())>30]
+
+          # 무작위로 한 이야기 선택
+          story = random.choice(parts)
+
+          # 문장 단위로 나누기 (마침표, 느낌표, 물음표 기준)
+          sentences = re.split(r'(?<=[.!?])\s+', story)
+          # 앞에서 10~15문장만 가져오기
+          pick = sentences[:15]
+
+          out = {
+              "date": datetime.date.today().isoformat(),
+              "story": {
+                  "title": pick[0][:50] + "...",  # 첫 문장 일부를 제목으로
+                  "lines": [{"en": s.strip()} for s in pick if s.strip()]
+              }
+          }
 
           os.makedirs("data", exist_ok=True)
           os.makedirs("data/archive", exist_ok=True)
 
-          # 이번 주 스토리 저장
+          # 이번 주 이야기 저장
           with open("data/story.json","w",encoding="utf-8") as f:
               json.dump(out,f,ensure_ascii=False,indent=2)
 
           # 아카이브 저장
-          with open(f"data/archive/{today}.json","w",encoding="utf-8") as f:
+          with open(f"data/archive/{out['date']}.json","w",encoding="utf-8") as f:
               json.dump(out,f,ensure_ascii=False,indent=2)
+
+          print("Saved story for", out["date"], ":", out["story"]["title"])
           PY
 
       - name: Commit & push
@@ -90,6 +73,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "chore(data): weekly story update [skip ci]"
+            git commit -m "chore(data): weekly public domain story update [skip ci]"
             git push
           fi
