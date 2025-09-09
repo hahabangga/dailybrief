@@ -16,7 +16,7 @@
 </head>
 <body>
 <header>
-  <h1>🎧 영어 리스닝 연습 (주간 업데이트)</h1>
+  <h1>🎧 영어 리스닝 연습 (주간 업데이트 + 자동 번역)</h1>
 </header>
 
 <div class="wrap">
@@ -40,27 +40,40 @@
 </div>
 
 <script>
-let LIB = [];          // 전체 스토리 목록
-let currentSet = null; // 현재 선택된 스토리
-let viewMode = 'line'; // 기본 보기 모드
+let LIB = [];
+let currentSet = null;
+let viewMode = 'line';
 let voices=[];
 
-// ===== 스크립트 렌더링 =====
-function setViewMode(m){ viewMode=m; renderScript(); }
+// ===== 무료 번역 함수 =====
+async function translateKo(text){
+  try{
+    const r=await fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q="+encodeURIComponent(text));
+    const j=await r.json();
+    return j[0].map(x=>x[0]).join('');
+  }catch(e){ return ""; }
+}
 
-function renderScript(){
+// ===== 스크립트 렌더링 =====
+async function renderScript(){
   if(!currentSet) return;
   let html='';
   if(viewMode==='en'){
     html = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
   } else if(viewMode==='line'){
-    html = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}<br/><span class="ko">${l.ko}</span></div>`).join('');
+    html = (await Promise.all(currentSet.lines.map(async (l,i)=>{
+      const ko = await translateKo(l.en);
+      return `<div class="line" onclick="playLine(${i})">${l.en}<br/><span class="ko">${ko}</span></div>`;
+    }))).join('');
   } else if(viewMode==='sep'){
-    html = `<h3>English</h3>`+currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('')
-         + `<h3>Korean</h3>`+currentSet.lines.map(l=>`<div class="line">${l.ko}</div>`).join('');
+    const enPart = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
+    const koPart = (await Promise.all(currentSet.lines.map(async (l)=>`<div class="line">${await translateKo(l.en)}</div>`))).join('');
+    html = `<h3>English</h3>${enPart}<h3>Korean</h3>${koPart}`;
   }
   document.getElementById('scriptArea').innerHTML=html;
 }
+
+function setViewMode(m){ viewMode=m; renderScript(); }
 
 // ===== TTS =====
 function loadVoices(){
@@ -113,7 +126,7 @@ async function loadStories(){
     LIB.push(s);
   }catch(e){console.log('이번 주 스토리 없음');}
 
-  // 아카이브 불러오기
+  // 아카이브 (지난 이야기들)
   try{
     const r=await fetch('https://api.github.com/repos/YOUR_ID/dailybrief/contents/data/archive');
     if(r.ok){
@@ -126,9 +139,8 @@ async function loadStories(){
         }
       }
     }
-  }catch(e){console.log('아카이브 불러오기 실패',e);}
+  }catch(e){console.log('아카이브 로드 실패',e);}
 
-  // 드롭다운 채우기
   LIB.forEach((s,i)=>{ 
     const opt=document.createElement('option'); 
     opt.value=i; 
