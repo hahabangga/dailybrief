@@ -1,4 +1,4 @@
-name: Weekly news fetch
+name: Weekly news fetch (improved summarizer)
 
 on:
   schedule:
@@ -24,78 +24,216 @@ jobs:
 
       - name: Install deps
         run: |
-          pip install feedparser beautifulsoup4
+          python -m pip install --upgrade pip
+          pip install feedparser trafilatura beautifulsoup4 lxml yake
 
       - name: Build summarized news JSON
         run: |
           python - << 'PY'
-          import os, json, re, datetime
+          import os, json, re, datetime, math, time
           from urllib.parse import quote
-          import feedparser
+          import feedparser, requests, trafilatura
           from bs4 import BeautifulSoup
+          import yake
 
-          def clean(txt):
-              if not txt: return ''
-              soup = BeautifulSoup(txt, 'html.parser')
-              t = soup.get_text(' ', strip=True)
-              t = re.sub(r'\s+', ' ', t)
-              return t
+          # ---------- 유틸 ----------
+          def clean_html(txt):
+            if not txt: return ''
+            soup = BeautifulSoup(txt, 'html.parser')
+            t = soup.get_text(' ', strip=True)
+            t = re.sub(r'\s+', ' ', t).strip()
+            return t
 
-          def summarize(text, limit=200):
-              if not text: return ''
-              parts = re.split(r'(?<=[.!?])\s+', text)
-              s = ' '.join(parts[:2])
-              return (s[:limit] + '…') if len(s)>limit else s
+          def fetch_rss(query, max_items=6):
+            url=f"https://news.google.com/rss/search?q={quote(query)}&hl=en&gl=US&ceid=US:en"
+            d=feedparser.parse(url)
+            out=[]
+            for e in d.entries[:max_items]:
+              out.append({
+                "title": clean_html(getattr(e,'title','')),
+                "url":   getattr(e,'link',''),
+                "desc":  clean_html(getattr(e,'summary','')),
+                "published": getattr(e,'published','')
+              })
+            return out
 
-          def fetch_section(query, max_items=5):
-              url=f"https://news.google.com/rss/search?q={quote(query)}&hl=en&gl=US&ceid=US:en"
-              d=feedparser.parse(url)
-              items=[]
-              for e in d.entries[:max_items]:
-                  title=clean(getattr(e,'title',''))
-                  link=getattr(e,'link','')
-                  desc=clean(getattr(e,'summary',''))
-                  full=desc or title
-                  summ=summarize(full)
-                  items.append({"title":title,"url":link,"summary":summ})
-              return items
+          def fetch_article_text(url, timeout=12):
+            try:
+              # trafilatura는 내부에서 다운로드도 가능
+              downloaded = trafilatura.fetch_url(url, timeout=timeout)
+              if not downloaded:
+                return ''
+              text = trafilatura.extract(downloaded, include_comments=False, include_tables=False)
+              if not text:
+                return ''
+              # 너무 짧으면 무시
+              text = re.sub(r'\s+', ' ', text).strip()
+              return text
+            except Exception:
+              return ''
 
-          def analyze_invest(sections):
-              tips=[]
-              econ_text=" ".join(a["summary"] for a in sections.get("economy",[]))
-              if any(k in econ_text.lower() for k in ["inflation","cpi","price"]):
-                  tips.append("📉 물가·CPI 뉴스 → 성장주(NASDAQ) 변동성 ↑, 금리 부담")
-              if any(k in econ_text.lower() for k in ["jobs","employment","unemployment"]):
-                  tips.append("💼 고용지표 강세 → 경기 견조 → 금융·산업주 유리")
-              if any(k in econ_text.lower() for k in ["fed","interest","rate"]):
-                  tips.append("🏦 연준 금리 뉴스 → 방어주·배당주 관심 필요")
-              if any(k in econ_text.lower() for k in ["tech","ai","semiconductor","chip"]):
-                  tips.append("🤖 기술·반도체 뉴스 → 장기 성장 모멘텀 유지")
-              if not tips:
-                  tips.append("⚖️ 뚜렷한 신호 없음 → 분산 투자 유지 권장")
-              return " / ".join(tips)
+          def sentence_split(text):
+            # 아주 단순 문장 분리(마침표/물음표/느낌표 기준)
+            s = re.split(r'(?<=[\.\?\!])\s+', text)
+            # 길이 필터
+            s = [x.strip() for x in s if len(x.strip().split())>=5]
+            return s
+
+          def top_keywords(text, max_k=12):
+            try:
+              kw_extractor = yake.KeywordExtractor(lan="en", n=1, top=max_k)
+              kws = kw_extractor.extract_keywords(text)
+              # [(keyword, score)] → 낮을수록 중요 → 가중치로 역수 사용
+              ranked = [(k, 1.0/(s+1e-9)) for k,s in kws if k and k.isascii()]
+              # 정규화
+              total = sum(w for _,w in ranked) or 1.0
+              return {k: w/total for k,w in ranked}
+            except Exception:
+              return {}
+
+          def score_sentence(sent, kw):
+            # 키워드 등장 횟수 가중 합
+            s = sent.lower()
+            score = 0.0
+            for k,w in kw.items():
+              if k.lower() in s:
+                # 등장 횟수 * 가중치
+                score += s.count(k.lower()) * w
+            # 숫자(%, $, 날짜) 포함시 약간 가중치
+            if re.search(r'(\d+(\.\d+)?%|\$\d+|\d{4})', sent):
+              score *= 1.15
+            return score
+
+          def summarize(text, n_sent=3):
+            sents = sentence_split(text)
+            if not sents:
+              return []
+            kw = top_keywords(" ".join(sents))
+            scored = [(score_sentence(s, kw), s) for s in sents]
+            scored.sort(reverse=True, key=lambda x:x[0])
+            # 유사 문장 중복 줄이기(간단 Jaccard)
+            picks=[]
+            def overlap(a,b):
+              sa=set(a.lower().split()); sb=set(b.lower().split())
+              if not sa or not sb: return 0
+              return len(sa&sb)/len(sa|sb)
+            for _,sent in scored:
+              if all(overlap(sent, p)<0.6 for p in picks):
+                picks.append(sent)
+              if len(picks)>=n_sent: break
+            return picks
+
+          def key_figures(text):
+            # 숫자·백분율·달러·금리·지표 키워드 포착
+            figs = re.findall(r'(\d{1,3}(?:,\d{3})*(?:\.\d+)?%|\$\d+(?:\.\d+)?|\d\.\d%|\d{4})', text)
+            # 중복 제거
+            uniq=[]
+            for x in figs:
+              if x not in uniq:
+                uniq.append(x)
+            return uniq[:6]
+
+          def why_matters(section, text):
+            s = text.lower()
+            if section=='economy':
+              if any(k in s for k in ['inflation','cpi','price']):
+                return "물가(CPI) 관련 이슈: 금리 경로와 성장주 변동성에 직결."
+              if any(k in s for k in ['jobs','employment','unemployment','payroll']):
+                return "고용지표: 경기 체력 점검 지표로, 연준 스탠스와 민감."
+              if any(k in s for k in ['fed','rate','interest']):
+                return "연준/금리: 채권·달러·성장주/가치주 스타일에 광범위한 영향."
+            if section=='politics':
+              return "정책/규제 변화 리스크: 특정 업종(빅테크, 헬스케어, 에너지 등) 영향 가능."
+            if section=='society':
+              return "사회 트렌드/소비 심리 변화: 내수·리테일·콘텐츠 업종 수요와 연관."
+            if section=='world':
+              return "지정학/공급망 리스크: 에너지/원자재·방산·해운 등 변동성 확대 요인."
+            return "핵심 동향 파악용."
+          
+          def whats_next(section, text):
+            if section=='economy':
+              return "다음 관전포인트: 차기 CPI/PCE, 고용보고서, FOMC 발언."
+            if section=='politics':
+              return "다음 관전포인트: 의회 표결·행정명령·규제 세부안 공개."
+            if section=='society':
+              return "다음 관전포인트: 소비지표·심리지수·기업 가이던스."
+            if section=='world':
+              return "다음 관전포인트: 휴전/제재/원자재 수급 변화."
+            return "추가 업데이트 대기."
+          
+          def invest_insight(sections):
+            tips=[]
+            econ_text=" ".join(i.get("full_text","") for i in sections.get("economy",[]))
+            econ_s=econ_text.lower()
+            if any(k in econ_s for k in ['inflation','cpi','price']):
+              tips.append("물가 압력↑: 성장주(특히 고밸류) 변동성↑, 방어주·배당주 재평가.")
+            if any(k in econ_s for k in ['jobs','employment','unemployment','payroll']):
+              tips.append("고용 견조: 경기 민감(산업·금융) 상대적 우위.")
+            if any(k in econ_s for k in ['fed','rate','interest']):
+              tips.append("금리 민감주(부동산/유틸/고배당)와 장단기 금리차 추이 점검 필요.")
+            tech_s=" ".join(i.get("full_text","") for i in sections.get("economy",[])+sections.get("world",[])).lower()
+            if any(k in tech_s for k in ['ai','semiconductor','chip','nvidia','foundry']):
+              tips.append("AI/반도체 모멘텀 지속: 조정 시 분할 매수 관점 유지.")
+            if not tips:
+              tips.append("뚜렷한 방향성 신호 부족: 분산·현금비중 관리 권장.")
+            return " / ".join(tips)
+
+          def build_section(query, section_key, max_items=5):
+            items = fetch_rss(query, max_items=max_items)
+            out=[]
+            for it in items:
+              url=it["url"]
+              full = fetch_article_text(url)
+              base = it["desc"] or it["title"]
+              core_source = full if len(full.split())>40 else base
+              summ_sents = summarize(core_source, n_sent=3)
+              kfig = key_figures(core_source)
+              out.append({
+                "title": it["title"],
+                "url": url,
+                "summary": " ".join(summ_sents) if summ_sents else base[:220],
+                "published": it["published"],
+                "key_figures": kfig,
+                "why_matters": why_matters(section_key, core_source),
+                "whats_next": whats_next(section_key, core_source),
+                "full_text": core_source[:4000]  # 내부 분석용(페이지에서는 안 씀)
+              })
+            return out
 
           sections = {
-              "politics": fetch_section("US politics White House Congress"),
-              "economy": fetch_section("US economy CPI jobs inflation"),
-              "society": fetch_section("US society crime culture education"),
-              "world":   fetch_section("world geopolitics war conflict"),
+            "politics": build_section("US politics White House Congress regulation", "politics"),
+            "economy":  build_section("US economy CPI jobs inflation FOMC rates", "economy"),
+            "society":  build_section("US society consumer culture education retail", "society"),
+            "world":    build_section("world geopolitics war conflict energy supply chain", "world"),
           }
 
+          # 종합 요약: 각 섹션 첫 기사 요약 연결(간단)
           wrap = " / ".join(v[0]["summary"] for v in sections.values() if v)
 
-          invest = analyze_invest(sections)
+          invest = invest_insight(sections)
 
           out = {
-              "date": datetime.date.today().isoformat(),
-              "sections": sections,
-              "wrap_summary": wrap,
-              "invest_summary": invest
+            "date": datetime.date.today().isoformat(),
+            "sections": {
+              k: [
+                {
+                  "title": i["title"],
+                  "url": i["url"],
+                  "summary": i["summary"],
+                  "published": i["published"],
+                  "key_figures": i["key_figures"],
+                  "why_matters": i["why_matters"],
+                  "whats_next": i["whats_next"]
+                } for i in v
+              ] for k,v in sections.items()
+            },
+            "wrap_summary": wrap,
+            "invest_summary": invest
           }
 
           os.makedirs("data", exist_ok=True)
           with open("data/news.json","w",encoding="utf-8") as f:
-              json.dump(out,f,ensure_ascii=False,indent=2)
+            json.dump(out,f,ensure_ascii=False,indent=2)
           PY
 
       - name: Commit & push
@@ -106,6 +244,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "chore(data): weekly news update [skip ci]"
+            git commit -m "chore(data): weekly news update (improved summarizer) [skip ci]"
             git push
           fi
