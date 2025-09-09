@@ -1,91 +1,300 @@
-name: Nightly close fetch
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Briefing</title>
+  <style>
+    :root { --bg:#0f172a; --card:#111827; --text:#e5e7eb; --muted:#94a3b8; --accent:#38bdf8; }
+    * { box-sizing:border-box }
+    body { margin:0; font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans KR", Helvetica, Arial, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; background:var(--bg); color:var(--text); }
+    header { padding:16px 20px; border-bottom:1px solid #1f2937; position:sticky; top:0; background:linear-gradient(180deg, rgba(15,23,42,.98), rgba(15,23,42,.92)); backdrop-filter: blur(6px); z-index:10; }
+    .nav { display:flex; gap:12px; align-items:center; flex-wrap:wrap }
+    .nav a { color:var(--accent); text-decoration:none; font-size:14px }
+    h1 { margin:0; font-size:22px; letter-spacing:.3px; }
+    .sub { color:var(--muted); font-size:13px; margin-top:4px }
+    .wrap { max-width:1100px; margin:0 auto; padding:22px; display:grid; grid-template-columns: 1fr; gap:18px }
+    @media (min-width: 980px) { .wrap { grid-template-columns: 1.1fr 1fr; } }
+    .card { background:var(--card); border:1px solid #1f2937; border-radius:16px; padding:16px; box-shadow: 0 10px 24px rgba(0,0,0,.25); }
+    .card h2 { margin:0 0 10px; font-size:18px; }
+    .row { display:flex; gap:10px; flex-wrap:wrap }
+    .muted { color:var(--muted); font-size:13px }
+    .kpi { display:grid; grid-template-columns: repeat(4, minmax(0,1fr)); gap:10px }
+    .kpi .tile { background:#0b1220; border:1px solid #1f2937; padding:10px 12px; border-radius:12px; }
+    .tile .label { color:#9CA3AF; font-size:12px }
+    .tile .value { font-size:16px; margin-top:4px }
+    .list { list-style:none; padding:0; margin:0 }
+    .list li { padding:8px 0; border-top:1px dashed #223046; }
+    .list li:first-child { border-top:none }
+    a { color: var(--accent); text-decoration:none }
+    .pill { display:inline-block; padding:2px 8px; border:1px solid #334155; border-radius:999px; font-size:12px; color:#a5b4fc; }
+    .tvwrap { border-radius:12px; overflow:hidden; border:1px solid #223046; }
+    .eng { margin-top:10px; padding:10px; background:#0b1220; border-radius:10px }
+    .eng .sentence { font-size:16px; margin-bottom:6px; }
+    .eng .trans { color:#a5f3fc; font-size:14px; margin-bottom:6px; }
+    .eng .grammar, .eng .vocab { color:#cbd5e1; font-size:13px; margin-bottom:4px; }
+    .inputline { display:flex; gap:8px; align-items:center; margin-bottom:10px }
+    input { background:#0b1220; color:var(--text); border:1px solid #223046; padding:8px 10px; border-radius:10px }
+    button { background:#0ea5e9; color:white; border:0; padding:8px 12px; border-radius:10px; cursor:pointer }
+  </style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <h1>오늘의 브리핑</h1>
+    <span style="flex:1"></span>
+    <a href="listening.html">영어 리스닝</a>
+    <a href="https://news.google.com/?hl=ko&gl=KR&ceid=KR:ko" target="_blank" rel="noopener">Google 뉴스</a>
+  </div>
+  <div class="sub" id="todayStr">로딩 중…</div>
+</header>
 
-on:
-  schedule:
-    # 매일 00:10 UTC (한국 09:10 KST) 실행 — 미국/한국 전일 종가가 모두 확정된 뒤
-    - cron: "10 0 * * *"
-  workflow_dispatch:
+<div class="wrap">
+  <!-- ☀️ 날씨 -->
+  <section class="card">
+    <h2>☀️ 오늘 날씨 & 7일 예보 <span class="pill">Open-Meteo</span></h2>
+    <div class="inputline">
+      <label class="muted">도시</label>
+      <input id="city" placeholder="예: Seoul" value="Seoul" />
+      <button id="btnWeather">업데이트</button>
+      <span class="muted">(무료 API, 키 필요 없음)</span>
+    </div>
+    <div id="weatherNow" class="row" style="gap:16px; align-items:baseline"></div>
+    <ul id="weather7" class="list" style="margin-top:10px"></ul>
+  </section>
 
-permissions:
-  contents: write
+  <!-- 🔮 운세 -->
+  <section class="card">
+    <h2>🔮 오늘의 운세 (1985-04-18)</h2>
+    <div id="fortune" style="font-size:15px; line-height:1.5"></div>
+    <div id="zodiacLabel" class="muted"></div>
+  </section>
 
-jobs:
-  fetch:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+  <!-- 📊 전일 종가 (JSON 우선, Alpha 보조) -->
+  <section class="card" style="grid-column:1/-1">
+    <h2>📊 전일 종가 (미국/한국) <span class="pill">야간 자동수집</span> <span class="pill">Alpha Vantage 보조</span></h2>
+    <div class="kpi">
+      <div class="tile"><div class="label">S&P 500</div><div class="value" id="spxClose">불러오는 중…</div></div>
+      <div class="tile"><div class="label">NASDAQ</div><div class="value" id="ixicClose">불러오는 중…</div></div>
+      <div class="tile"><div class="label">Dow Jones</div><div class="value" id="djiClose">불러오는 중…</div></div>
+      <div class="tile"><div class="label">KOSPI</div><div class="value" id="kospiClose">불러오는 중…</div></div>
+    </div>
+    <div class="muted" id="closeDate" style="margin-top:6px"></div>
+    <div class="muted" style="margin-top:6px">우선순위: <b>data/close.json</b> → (실패 시) Alpha Vantage로 <i>SPY/QQQ/DIA/069500.KS</i> 프록시 조회</div>
+  </section>
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+  <!-- 📈 차트 위젯 -->
+  <section class="card" style="grid-column:1/-1">
+    <h2>📈 지수 모니터 (미국/한국) <span class="pill">TradingView 위젯</span></h2>
+    <div class="tvwrap">
+      <div class="tradingview-widget-container" style="height:400px">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+        {
+          "colorTheme": "dark",
+          "dateRange": "1D",
+          "showChart": true,
+          "locale": "kr",
+          "width": "100%",
+          "height": "400",
+          "isTransparent": false,
+          "showSymbolLogo": true,
+          "tabs": [
+            { "title": "미국", "symbols": [
+              {"s":"FOREXCOM:SPXUSD","d":"S&P 500"},
+              {"s":"NASDAQ:IXIC","d":"NASDAQ"},
+              {"s":"DJ:DJI","d":"Dow Jones"} ] },
+            { "title": "한국", "symbols": [
+              {"s":"KRX:KOSPI","d":"KOSPI"},
+              {"s":"KRX:KOSDAQ","d":"KOSDAQ"} ] }
+          ]
+        }
+        </script>
+      </div>
+    </div>
+  </section>
 
-      - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          pip install yfinance pandas
+  <!-- 🇺🇸/🌍 뉴스 링크 -->
+  <section class="card">
+    <h2>🇺🇸 미국 증시 이슈</h2>
+    <ul id="usStockNews" class="list"></ul>
+  </section>
+  <section class="card">
+    <h2>💵 미국 경제 이슈 한줄 요약</h2>
+    <ul id="usEconNews" class="list"></ul>
+  </section>
+  <section class="card">
+    <h2>🏛️ 미국 정치 이슈 한줄 요약</h2>
+    <ul id="usPolNews" class="list"></ul>
+  </section>
+  <section class="card" style="grid-column:1/-1">
+    <h2>🌍 세계 이슈 (전쟁·정치·연예 등)</h2>
+    <ul id="worldNews" class="list"></ul>
+  </section>
 
-      - name: Fetch last closes with yfinance
-        run: |
-          python - << 'PY'
-          import os, json
-          from datetime import date
-          import pandas as pd
-          import yfinance as yf
+  <!-- 🗣 영어 한마디 -->
+  <section class="card" style="grid-column:1/-1">
+    <h2>🗣 영어 한마디 (문장·번역·문법·단어)</h2>
+    <div class="eng">
+      <div class="sentence" id="engSentence"></div>
+      <div class="trans" id="engTrans"></div>
+      <div class="grammar" id="engGrammar"></div>
+      <div class="vocab" id="engVocab"></div>
+    </div>
+  </section>
+</div>
 
-          symbols = {
-              '^GSPC': 'SPX',
-              '^IXIC': 'IXIC',
-              '^DJI':  'DJI',
-              '^KS11': 'KOSPI',
-          }
+<footer class="sub" style="text-align:center; padding:16px">
+  © <span id="year"></span> Daily Briefing — 자동수집 JSON 우선, Alpha 키는 보조(공개 레포면 키 노출 주의)
+</footer>
 
-          values = {}
-          last_dates = []
-          for ysym, key in symbols.items():
-              df = yf.download(ysym, period='14d', interval='1d', auto_adjust=False, progress=False)
-              df = df.dropna()
-              if df.empty:
-                  continue
-              last = df.iloc[-1]
-              d = df.index[-1].date().isoformat()
-              values[key] = round(float(last['Close']), 2)
-              last_dates.append(d)
+<script>
+// ===== 설정 =====
+const CONFIG = {
+  NEWSAPI_KEY: '',             // (선택) 있으면 뉴스 자동 헤드라인
+  ALPHA_KEY: '',               // 보조용 Alpha Vantage 키. 공개 레포면 비워두세요. (예: 'CH0Y3JELI0N6KNUP')
+  birthday: '1985-04-18'
+};
 
-          out = {
-              'date': max(last_dates) if last_dates else date.today().isoformat(),
-              'values': values,
-              'source': 'yfinance (Yahoo)'
-          }
+// ===== 유틸 =====
+const $ = (q) => document.querySelector(q);
+$('#todayStr').textContent = `대한민국 표준시 — ${new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })}`;
+$('#year').textContent = new Date().getFullYear();
+function fmtDate(d){ return new Date(d).toLocaleDateString('ko-KR', { weekday:'short', month:'numeric', day:'numeric' }); }
 
-          os.makedirs('data', exist_ok=True)
-          p = 'data/close.json'
-          old = None
-          if os.path.exists(p):
-              try:
-                  with open(p, 'r', encoding='utf-8') as f: old = json.load(f)
-              except Exception:
-                  pass
-          with open(p, 'w', encoding='utf-8') as f:
-              json.dump(out, f, ensure_ascii=False, indent=2)
+// ===== 지오코딩 & 날씨(Open-Meteo, 무키)
+async function geocode(city){
+  const u = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(city)}&count=1&language=ko&format=json`;
+  const r = await fetch(u); const j = await r.json();
+  if(!j.results?.length) throw new Error('도시를 찾을 수 없습니다');
+  const { latitude, longitude, name, country } = j.results[0];
+  return { latitude, longitude, name, country };
+}
+async function loadWeather(city){
+  try{
+    const g = await geocode(city);
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${g.latitude}&longitude=${g.longitude}&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Asia%2FSeoul`;
+    const r = await fetch(url); const j = await r.json();
+    const wmap = {0:'맑음',1:'대체로 맑음',2:'부분 흐림',3:'흐림',45:'안개',48:'서리 안개',51:'이슬비',61:'가벼운 비',63:'보통 비',65:'강한 비',71:'가벼운 눈',73:'보통 눈',75:'강한 눈',80:'소나기',95:'천둥번개'};
+    const c = j.current;
+    $('#weatherNow').innerHTML = `
+      <div class="tile"><div class="label">지역</div><div class="value">${g.name} (${g.country})</div></div>
+      <div class="tile"><div class="label">현재 기온</div><div class="value">${Math.round(c.temperature_2m)}°C</div></div>
+      <div class="tile"><div class="label">체감</div><div class="value">${Math.round(c.apparent_temperature)}°C</div></div>
+      <div class="tile"><div class="label">습도</div><div class="value">${c.relative_humidity_2m}%</div></div>
+      <div class="tile"><div class="label">날씨</div><div class="value">${wmap[c.weather_code] ?? '—'}</div></div>`;
+    const d = j.daily;
+    $('#weather7').innerHTML = d.time.map((t,i)=>`<li>${fmtDate(t)} — 최고 ${Math.round(d.temperature_2m_max[i])}° / 최저 ${Math.round(d.temperature_2m_min[i])}° · 강수 ${d.precipitation_sum[i]}mm · ${wmap[d.weather_code[i]]??''}</li>`).join('');
+  }catch(e){ $('#weatherNow').textContent = '날씨 로딩 실패: ' + e.message }
+}
+$('#btnWeather').addEventListener('click', ()=> loadWeather($('#city').value.trim()||'Seoul'));
+loadWeather('Seoul');
 
-          if old != out:
-              print('UPDATED')
-          else:
-              print('NOCHANGE')
-          PY
+// ===== 운세
+function zodiacFromBirthday(ymd){
+  const d=new Date(ymd); const m=d.getMonth()+1, day=d.getDate();
+  const z=[['capricorn',1,19,'염소자리'],['aquarius',2,18,'물병자리'],['pisces',3,20,'물고기자리'],['aries',4,19,'양자리'],['taurus',5,20,'황소자리'],['gemini',6,21,'쌍둥이자리'],['cancer',7,22,'게자리'],['leo',8,22,'사자자리'],['virgo',9,22,'처녀자리'],['libra',10,22,'천칭자리'],['scorpio',11,22,'전갈자리'],['sagittarius',12,21,'사수자리'],['capricorn',12,31,'염소자리']];
+  let name='capricorn', label='염소자리';
+  for(const [k,mm,dd,lab] of z){ if(m<mm || (m===mm && day<=dd)){ name=k; label=lab; break; } }
+  return { name, label };
+}
+function seededPick(list, seed){ let h=0; for(const ch of seed) h=(h*31+ch.charCodeAt(0))>>>0; return list[h%list.length]; }
+const fortunes=['작은 선택이 큰 기회를 부릅니다.','만남이 행운을 가져옵니다.','정보가 힘입니다. 뉴스를 가까이 하세요.','컨디션 조절에 신경 쓰면 성과가 큽니다.','협업이 답입니다. 손을 내밀어 보세요.','과감한 정리가 효율을 만듭니다.','새로운 제안이 들어옵니다. 열린 마음으로.','지출 관리에 신경 쓰면 수익이 커집니다.','오늘의 키워드: 타이밍.'];
+(function showFortune(){
+  const z = zodiacFromBirthday(CONFIG.birthday);
+  $('#zodiacLabel').textContent = `(${z.label}, ${CONFIG.birthday})`;
+  const seed = new Date().toISOString().slice(0,10) + '|' + z.name;
+  $('#fortune').textContent = seededPick(fortunes, seed);
+})();
 
-      - name: Commit & push if changed
-        run: |
-          if git diff --quiet data/close.json; then
-            echo "No changes to commit"
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add data/close.json
-            git commit -m "chore(data): update closes [skip ci]"
-            git push
-          fi
+// ===== 뉴스 링크(기본) + (선택) NewsAPI
+const googleNewsLinks = {
+  usStock: [
+    { t:'미국 증시 – Google 뉴스', u:'https://news.google.com/search?q=US%20stock%20market&hl=en-US&gl=US&ceid=US:en' },
+    { t:'FOMC / 연준', u:'https://news.google.com/search?q=FOMC%20Fed&hl=en-US&gl=US&ceid=US:en' },
+    { t:'NVIDIA / TSLA 실적', u:'https://news.google.com/search?q=earnings%20NVIDIA%20TSLA&hl=en-US&gl=US&ceid=US:en' }
+  ],
+  usEconomy: [{ t:'미국 경제 – Google 뉴스', u:'https://news.google.com/search?q=US%20economy%20CPI%20jobs%20inflation&hl=en-US&gl=US&ceid=US:en' }],
+  usPolitics: [{ t:'미국 정치 – Google 뉴스', u:'https://news.google.com/search?q=US%20politics%20Congress%20White%20House&hl=en-US&gl=US&ceid=US:en' }],
+  world: [{ t:'세계 이슈 – Google 뉴스', u:'https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVLQUFQAQ?hl=ko&gl=KR&ceid=KR:ko' }]
+};
+function renderLinks(id, arr){ $(id).innerHTML = arr.map(x=>`<li><a href="${x.u}" target="_blank" rel="noopener">${x.t}</a></li>`).join(''); }
+renderLinks('#usStockNews', googleNewsLinks.usStock);
+renderLinks('#usEconNews', googleNewsLinks.usEconomy);
+renderLinks('#usPolNews', googleNewsLinks.usPolitics);
+renderLinks('#worldNews', googleNewsLinks.world);
+
+// (선택) NewsAPI 헤드라인 5건
+async function tryNewsApi(q, el){
+  if(!CONFIG.NEWSAPI_KEY) return;
+  try{
+    const url=`https://newsapi.org/v2/everything?q=${encodeURIComponent(q)}&pageSize=5&language=en&sortBy=publishedAt&apiKey=${CONFIG.NEWSAPI_KEY}`;
+    const r=await fetch(url); const j=await r.json();
+    if(j.articles){ el.innerHTML = j.articles.map(a=>`<li><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a> <span class="muted">— ${new Date(a.publishedAt).toLocaleString('ko-KR')}</span></li>`).join(''); }
+  }catch(_){}
+}
+tryNewsApi('US stock market OR stocks', $('#usStockNews'));
+tryNewsApi('US economy inflation jobs CPI PCE', $('#usEconNews'));
+tryNewsApi('US politics Congress White House election', $('#usPolNews'));
+tryNewsApi('global geopolitics war conflict entertainment', $('#worldNews'));
+
+// ===== 영어 한마디
+const PHRASES = [
+  { en:'Keep your focus, and the rest will follow.', ko:'집중을 유지하면 나머지는 따라옵니다.', grammar:'명령문 + 등위접속사 and + 독립절.', vocab:[['focus','집중'],['follow','따라오다']] },
+  { en:'Small steps compound into big gains.', ko:'작은 걸음이 큰 성과로 쌓입니다.', grammar:'compound into: ~로 누적되다.', vocab:[['compound into','~로 누적되다'],['gain','성과']] },
+  { en:'Make it simple, then make it better.', ko:'먼저 단순하게, 그다음 더 좋게 만드세요.', grammar:'연속 명령문.', vocab:[['simple','단순한'],['better','더 나은']] }
+];
+(function renderPhrase(){
+  const today = new Date().toISOString().slice(0,10);
+  let h=0; for(const ch of (today+CONFIG.birthday)) h=(h*31+ch.charCodeAt(0))>>>0;
+  const pick = PHRASES[h%PHRASES.length];
+  $('#engSentence').textContent = pick.en;
+  $('#engTrans').textContent = pick.ko;
+  $('#engGrammar').textContent = '문법: ' + pick.grammar;
+  $('#engVocab').textContent = '단어: ' + pick.vocab.map(([w,m])=>`${w}(${m})`).join(', ');
+})();
+
+// ===== 전일 종가: JSON 우선 → Alpha 보조
+function setClose(id,val){ const el=$(id); if(typeof val==='number'){ el.textContent = val.toLocaleString('ko-KR'); } }
+async function loadFromJson(){
+  try{
+    const r = await fetch('data/close.json?ts=' + Date.now());
+    if(!r.ok) throw new Error('no json');
+    const j = await r.json();
+    if(j?.values){
+      setClose('#spxClose', j.values.SPX);
+      setClose('#ixicClose', j.values.IXIC);
+      setClose('#djiClose',  j.values.DJI);
+      setClose('#kospiClose',j.values.KOSPI);
+      if(j.date) $('#closeDate').textContent = '기준일: ' + j.date;
+      return true;
+    }
+  }catch(_){}
+  return false;
+}
+async function loadFromAlpha(){
+  if(!CONFIG.ALPHA_KEY) return false;
+  const tiles=[{id:'#spxClose',sym:'SPY'},{id:'#ixicClose',sym:'QQQ'},{id:'#djiClose',sym:'DIA'},{id:'#kospiClose',sym:'069500.KS'}];
+  const fetchDaily=async (s)=>{ const u=`https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=${encodeURIComponent(s)}&apikey=${CONFIG.ALPHA_KEY}`; const r=await fetch(u); return r.json(); };
+  let when='';
+  for(const it of tiles){
+    try{
+      const j=await fetchDaily(it.sym);
+      const series=j['Time Series (Daily)'];
+      if(series){
+        const dates=Object.keys(series).sort().reverse();
+        const d0=dates[0]; const close=Number(series[d0]['4. close']);
+        setClose(it.id, close); when = when || d0;
+      }
+    }catch(_){}
+  }
+  if(when){ $('#closeDate').textContent='기준일(프록시): '+when; return true; }
+  return false;
+}
+(async function(){
+  const ok = await loadFromJson();
+  if(!ok) await loadFromAlpha();
+})();
+</script>
+</body>
+</html>
