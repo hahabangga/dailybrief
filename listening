@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>영어 리스닝 스터디</title>
+  <style>
+    :root { --bg:#0f172a; --card:#111827; --text:#e5e7eb; --muted:#94a3b8; --accent:#38bdf8; --good:#34d399; --warn:#fbbf24; }
+    *{box-sizing:border-box}
+    body{margin:0;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans KR",Helvetica,Arial,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;background:var(--bg);color:var(--text)}
+    header{position:sticky;top:0;z-index:10;background:linear-gradient(180deg,rgba(15,23,42,.98),rgba(15,23,42,.92));border-bottom:1px solid #1f2937;padding:14px 16px}
+    header .nav{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+    header a{color:var(--accent);text-decoration:none}
+    .wrap{max-width:980px;margin:0 auto;padding:18px;display:grid;gap:14px}
+    .card{background:var(--card);border:1px solid #1f2937;border-radius:16px;padding:16px;box-shadow:0 10px 24px rgba(0,0,0,.25)}
+    .card h2{margin:0 0 10px;font-size:18px}
+    .muted{color:var(--muted);font-size:13px}
+    select,input[type="range"],button{background:#0b1220;color:var(--text);border:1px solid #223046;border-radius:10px}
+    select{padding:8px 10px}
+    input[type="range"]{width:160px}
+    button{padding:8px 12px;cursor:pointer}
+    .ctrls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+    .pill{display:inline-block;padding:2px 8px;border:1px solid #334155;border-radius:999px;font-size:12px;color:#a5b4fc}
+    .script{list-style:none;margin:0;padding:0}
+    .line{padding:10px;border-top:1px dashed #223046}
+    .line:first-child{border-top:none}
+    .en{font-size:16px;line-height:1.5}
+    .ko{color:#a5f3fc;margin-top:6px;display:none}
+    .grammar,.vocab{color:#cbd5e1;margin-top:6px;display:none;font-size:14px}
+    .vocab ul{list-style:disc;margin:6px 0 0 18px}
+    .line.playing{background:#0b1220;border-left:3px solid var(--accent)}
+    .badgetag{display:inline-block;margin-left:6px;font-size:11px;color:#eab308;border:1px solid #56411a;padding:0 6px;border-radius:999px}
+    .tools{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+    .recStatus{font-size:12px}
+    .hint{font-size:12px;color:#9ca3af}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="nav">
+      <strong>🗣 영어 리스닝 스터디</strong>
+      <span class="muted">TOEIC 600 ± 수준</span>
+      <span class="pill">클라이언트 전용 · 무료</span>
+      <span style="flex:1"></span>
+      <a href="index.html">← 데일리 브리핑</a>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="card">
+      <h2>콘텐츠 선택 & 재생 설정</h2>
+      <div class="ctrls">
+        <label class="muted">스토리</label>
+        <select id="storySel"></select>
+        <label class="muted">속도</label>
+        <input id="rate" type="range" min="0.6" max="1.2" step="0.05" value="0.9" />
+        <span id="rateVal" class="muted">0.90×</span>
+        <label class="muted">목소리</label>
+        <select id="voiceSel"></select>
+        <button id="btnPlayAll">▶ 전체재생</button>
+        <button id="btnPause">⏸ 일시정지</button>
+        <button id="btnResume">⏯ 재개</button>
+        <button id="btnStop">⏹ 정지</button>
+      </div>
+      <div class="tools">
+        <button id="toggleKo">번역 보기/숨기기</button>
+        <button id="toggleGrammar">문법 보기/숨기기</button>
+        <button id="toggleVocab">단어 보기/숨기기</button>
+        <button id="btnShadow">🎤 쉐도잉 녹음</button>
+        <span id="recStat" class="recStatus muted">대부분의 데스크톱 브라우저에서 동작</span>
+      </div>
+      <div class="hint">문장을 클릭하면 해당 문장만 재생됩니다. 어려운 문장에는 <span class="badgetag">Grammar</span> 태그가 달려 있어요.</div>
+    </section>
+
+    <section class="card">
+      <h2 id="storyTitle">스크립트</h2>
+      <ul id="script" class="script"></ul>
+    </section>
+  </main>
+
+  <script>
+    // ===== 데이터: A2~B1 (TOEIC 약 500~650) 난이도 =====
+    const LIB = [
+      {
+        id:'easy-picnic',
+        title:'EASY · The Park Picnic',
+        level:'A2',
+        lines:[
+          {en:'Mina packs sandwiches and fruit for a picnic.', ko:'미나는 피크닉을 위해 샌드위치와 과일을 챙긴다.', grammar:'현재시제 일반문. pack A for B: B를 위해 A를 챙기다.', vocab:[['pack','챙기다'],['picnic','소풍']]},
+          {en:'The sky is clear, but the grass is wet.', ko:'하늘은 맑지만, 잔디는 젖어 있다.', grammar:'등위접속사 but 대조. 보어 형용사 clear / wet.', vocab:[['clear','맑은'],['grass','잔디']]},
+          {en:'They spread a blanket and sit down carefully.', ko:'그들은 담요를 펴고 조심히 앉는다.', grammar:'동사열거 spread ~ and sit down. 부사 carefully 용법.', vocab:[['spread','펼치다'],['blanket','담요']]},
+          {en:'A curious squirrel comes close, looking for crumbs.', ko:'호기심 많은 다람쥐가 가까이 와서 빵부스러기를 찾는다.', grammar:'분사구문: comes close, looking for ~.', vocab:[['curious','호기심 많은'],['crumb','부스러기']]},
+          {en:'Mina laughs and gives it a tiny piece of apple.', ko:'미나는 웃으며 사과 조각을 조금 준다.', grammar:'give + 간접목적어(it) + 직접목적어(a piece).', vocab:[['tiny','아주 작은'],['piece','조각']]}
+        ]
+      },
+      {
+        id:'toeic600-delivery',
+        title:'CORE · The Late Delivery',
+        level:'A2~B1',
+        lines:[
+          {en:'The customer placed an online order last Friday, but the package has not arrived yet.', ko:'고객은 지난 금요일에 온라인 주문을 했지만, 소포는 아직 도착하지 않았다.', grammar:'대과거/현재완료 대비: placed(과거) vs has not arrived yet(현재완료 부정).', vocab:[['place an order','주문하다'],['arrive','도착하다']]},
+          {en:'Mina checks the tracking number and sees a delay notice.', ko:'미나는 운송장 번호를 확인하고 지연 공지를 본다.', grammar:'and로 동사 연결. see + 목적어.', vocab:[['tracking number','운송장 번호'],['delay notice','지연 공지']]},
+          {en:'She emails the warehouse to confirm the status and asks for a revised delivery date.', ko:'그녀는 창고 측에 상태 확인 메일을 보내고, 변경된 배송 날짜를 요청한다.', grammar:'to부정사 목적: to confirm / for a revised date(명사구).', vocab:[['warehouse','창고'],['revised','수정된']]},
+          {en:'The manager apologizes and offers a small discount on the next purchase.', ko:'매니저는 사과하고 다음 구매에 소액 할인 제공을 제안한다.', grammar:'and로 동사 연결. offer A on B: B에 대해 A를 제공하다.', vocab:[['apologize','사과하다'],['discount','할인']]},
+          {en:'Mina updates the customer politely and attaches the new schedule.', ko:'미나는 고객에게 정중히 상황을 업데이트하고 새 일정을 첨부한다.', grammar:'부사 politely의 위치. attach + 목적어.', vocab:[['politely','정중하게'],['attach','첨부하다']]},
+          {en:'Although the delay was inconvenient, the clear communication reduced the complaint.', ko:'지연이 불편했지만, 명확한 소통이 불만을 줄였다.', grammar:'양보절 Although ~, 주절 ~. reduce 목적어.', vocab:[['although','비록 ~이지만'],['reduce','줄이다']]}
+        ]
+      },
+      {
+        id:'news-lite-townhall',
+        title:'PLUS · A Company Town Hall',
+        level:'B1',
+        lines:[
+          {en:'The CEO opened the town hall by thanking the staff for their resilience.', ko:'CEO는 직원들의 끈기에 감사를 표하며 타운홀 미팅을 시작했다.', grammar:'동명사구 by thanking ~ (수단을 나타내는 by + 동명사).', vocab:[['resilience','회복탄력성'],['town hall','전체 회의']]},
+          {en:'She outlined three goals: improving service speed, cutting costs, and expanding to new markets.', ko:'그녀는 세 가지 목표를 설명했다: 서비스 속도 향상, 비용 절감, 신시장 확대.', grammar:'병렬 구조: improving / cutting / expanding(동명사 병렬).', vocab:[['outline','개요를 말하다'],['expand','확장하다']]},
+          {en:'Employees submitted questions anonymously through an online form.', ko:'직원들은 온라인 양식을 통해 익명으로 질문을 제출했다.', grammar:'부사 anonymously. 전치사구 through an online form.', vocab:[['anonymously','익명으로'],['submit','제출하다']]},
+          {en:'Some concerns were specific, but most focused on workload and career growth.', ko:'일부 우려는 구체적이었지만, 대부분은 업무량과 경력 성장에 집중했다.', grammar:'대조 but, 병렬 focused on A and B.', vocab:[['concern','우려'],['workload','업무량']]}
+        ]
+      }
+    ];
+
+    // ===== 상태 =====
+    const els = {
+      storySel: document.getElementById('storySel'),
+      voiceSel: document.getElementById('voiceSel'),
+      rate: document.getElementById('rate'),
+      rateVal: document.getElementById('rateVal'),
+      script: document.getElementById('script'),
+      storyTitle: document.getElementById('storyTitle'),
+      btnPlayAll: document.getElementById('btnPlayAll'),
+      btnPause: document.getElementById('btnPause'),
+      btnResume: document.getElementById('btnResume'),
+      btnStop: document.getElementById('btnStop'),
+      toggleKo: document.getElementById('toggleKo'),
+      toggleGrammar: document.getElementById('toggleGrammar'),
+      toggleVocab: document.getElementById('toggleVocab'),
+      btnShadow: document.getElementById('btnShadow'),
+      recStat: document.getElementById('recStat')
+    };
+
+    // ===== 음성 합성(브라우저 TTS) =====
+    const synth = window.speechSynthesis;
+    let VOICES = [];
+    function loadVoices(){ VOICES = synth.getVoices().filter(v=>/en|US|GB/i.test(v.lang)); renderVoices(); }
+    function renderVoices(){
+      els.voiceSel.innerHTML = VOICES.map((v,i)=>`<option value="${i}">${v.name} (${v.lang})</option>`).join('');
+      const saved = localStorage.getItem('tts_voice_idx');
+      if(saved && VOICES[saved]) els.voiceSel.value = saved;
+    }
+    window.speechSynthesis.onvoiceschanged = loadVoices; // 크롬 초기 로딩 대응
+    loadVoices();
+
+    function speakText(text){
+      return new Promise((resolve)=>{
+        const u = new SpeechSynthesisUtterance(text);
+        const idx = parseInt(els.voiceSel.value||0,10);
+        if(VOICES[idx]) u.voice = VOICES[idx];
+        u.rate = parseFloat(els.rate.value||0.9);
+        u.onend = resolve; u.onerror = resolve; // 실패해도 다음으로
+        synth.speak(u);
+      });
+    }
+
+    // ===== 렌더링 =====
+    function renderStory(st){
+      els.storyTitle.textContent = `스크립트 — ${st.title} (Level ${st.level})`;
+      els.script.innerHTML = st.lines.map((ln,i)=>{
+        const hard = (ln.grammar && /although|which|that|because|while|subjunctive|inverted/i.test(ln.grammar)) ? '<span class="badgetag">Grammar</span>' : '';
+        const vocabHtml = (ln.vocab||[]).map(([w,m])=>`<li>• <b>${w}</b>: ${m}</li>`).join('');
+        return `<li class="line" data-idx="${i}">
+          <div class="en">${ln.en} ${hard}</div>
+          <div class="ko">${ln.ko}</div>
+          <div class="grammar">문법: ${ln.grammar||'—'}</div>
+          <div class="vocab"><div>단어</div><ul>${vocabHtml}</ul></div>
+        </li>`;
+      }).join('');
+    }
+
+    // ===== 스토리 선택/저장 =====
+    function renderStoryOptions(){
+      els.storySel.innerHTML = LIB.map((s,i)=>`<option value="${i}">${s.title}</option>`).join('');
+      const saved = localStorage.getItem('story_idx');
+      els.storySel.value = saved || '1'; // 기본: TOEIC 600 코어
+      renderStory(LIB[parseInt(els.storySel.value,10)]);
+    }
+    renderStoryOptions();
+
+    els.storySel.addEventListener('change',()=>{
+      localStorage.setItem('story_idx', els.storySel.value);
+      renderStory(LIB[parseInt(els.storySel.value,10)]);
+    });
+
+    els.rate.addEventListener('input',()=>{
+      els.rateVal.textContent = parseFloat(els.rate.value).toFixed(2)+'×';
+      localStorage.setItem('tts_rate', els.rate.value);
+    });
+    const savedRate = localStorage.getItem('tts_rate');
+    if(savedRate){ els.rate.value = savedRate; els.rate.dispatchEvent(new Event('input')); }
+
+    els.voiceSel.addEventListener('change',()=>{
+      localStorage.setItem('tts_voice_idx', els.voiceSel.value);
+    });
+
+    // ===== 토글 표시 =====
+    let showKo=false, showG=false, showV=false;
+    function applyToggles(){
+      document.querySelectorAll('.ko').forEach(e=>e.style.display = showKo? 'block':'none');
+      document.querySelectorAll('.grammar').forEach(e=>e.style.display = showG? 'block':'none');
+      document.querySelectorAll('.vocab').forEach(e=>e.style.display = showV? 'block':'none');
+    }
+    els.toggleKo.addEventListener('click',()=>{ showKo=!showKo; applyToggles(); });
+    els.toggleGrammar.addEventListener('click',()=>{ showG=!showG; applyToggles(); });
+    els.toggleVocab.addEventListener('click',()=>{ showV=!showV; applyToggles(); });
+
+    // ===== 재생 제어 =====
+    let playingIdx = -1; let stopAll=false;
+    function highlight(idx){
+      document.querySelectorAll('.line').forEach(li=>li.classList.remove('playing'));
+      const el = document.querySelector(`.line[data-idx="${idx}"]`);
+      if(el) el.classList.add('playing');
+    }
+
+    async function playAll(){
+      stopAll=false;
+      const lines = LIB[parseInt(els.storySel.value,10)].lines;
+      for(let i=0;i<lines.length;i++){
+        if(stopAll) break;
+        playingIdx=i; highlight(i);
+        await speakText(lines[i].en);
+      }
+      playingIdx=-1; highlight(-1);
+    }
+
+    els.btnPlayAll.addEventListener('click',playAll);
+    els.btnPause.addEventListener('click',()=>{ if(synth.speaking && !synth.paused) synth.pause(); });
+    els.btnResume.addEventListener('click',()=>{ if(synth.paused) synth.resume(); });
+    els.btnStop.addEventListener('click',()=>{ stopAll=true; synth.cancel(); highlight(-1); });
+
+    // 문장 클릭 재생
+    els.script.addEventListener('click',(e)=>{
+      const li = e.target.closest('.line'); if(!li) return;
+      const idx = parseInt(li.dataset.idx,10);
+      stopAll=true; synth.cancel();
+      playingIdx=idx; highlight(idx);
+      const ln = LIB[parseInt(els.storySel.value,10)].lines[idx];
+      speakText(ln.en).then(()=>highlight(-1));
+    });
+
+    // ===== 쉐도잉 녹음(선택) =====
+    let mediaRecorder; let chunks=[]; let recording=false;
+    async function toggleRecord(){
+      try{
+        if(!recording){
+          const stream = await navigator.mediaDevices.getUserMedia({audio:true});
+          mediaRecorder = new MediaRecorder(stream);
+          mediaRecorder.ondataavailable = e=>{ if(e.data.size>0) chunks.push(e.data); };
+          mediaRecorder.onstop = ()=>{
+            const blob = new Blob(chunks,{type:'audio/webm'}); chunks=[];
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('audio'); a.controls=true; a.src=url; a.style.display='block'; a.style.marginTop='8px';
+            document.querySelector('.card:last-of-type').appendChild(a);
+          };
+          mediaRecorder.start(); recording=true; els.recStat.textContent='녹음 중… (다시 누르면 종료)';
+        }else{
+          mediaRecorder.stop(); recording=false; els.recStat.textContent='저장 완료. 아래 오디오로 재생 가능';
+        }
+      }catch(err){ els.recStat.textContent='마이크 권한이 필요합니다. 브라우저 설정을 확인하세요.'; }
+    }
+    els.btnShadow.addEventListener('click', toggleRecord);
+
+    // 초기 상태 적용
+    applyToggles();
+  </script>
+</body>
+</html>
