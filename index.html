@@ -28,8 +28,7 @@
   <div class="nav">
     <h1>데일리 브리핑</h1>
     <span style="flex:1"></span>
-    <!-- 🎧 리스닝 링크 고정 -->
-    <a href="listening.html" id="listeningLink">🎧 영어 리스닝</a>
+    <a href="listening.html">🎧 영어 리스닝</a>
   </div>
   <div id="todayStr" class="muted"></div>
 </header>
@@ -120,7 +119,7 @@ async function loadWeather(city){
 $('#btnWeather').onclick=()=>loadWeather($('#city').value);
 loadWeather('Seoul');
 
-// ===== 무료 번역 함수 (google gtx) =====
+// 무료 번역 (google gtx)
 async function translateKo(text){
   try{
     const r=await fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q="+encodeURIComponent(text));
@@ -129,7 +128,7 @@ async function translateKo(text){
   }catch(e){ return ""; }
 }
 
-// ===== 뉴스: 한글만 / 영어+한글 토글 =====
+// 뉴스 표시
 let showMode = 'ko'; // 'ko' | 'both'
 $('#toggleMode').addEventListener('click', ()=>{
   showMode = (showMode==='ko' ? 'both' : 'ko');
@@ -158,9 +157,7 @@ async function renderItem(a){
 async function renderList(id, arr){
   if(!arr) return;
   const htmlParts=[];
-  for(const a of arr){
-    htmlParts.push(await renderItem(a));
-  }
+  for(const a of arr){ htmlParts.push(await renderItem(a)); }
   $(id).innerHTML=htmlParts.join('');
 }
 
@@ -176,7 +173,6 @@ async function loadNews(force=false){
     await renderList('#society', j.sections.society);
     await renderList('#world',   j.sections.world);
 
-    // 종합 요약: 한국어 우선
     const wrapEn = j.wrap_summary || '';
     const wrapKo = wrapEn ? await translateKo(wrapEn) : '';
     $('#wrapSummaryKo').textContent = wrapKo || '요약을 불러올 수 없습니다.';
