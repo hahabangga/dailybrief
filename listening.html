@@ -50,7 +50,7 @@ let currentSet = null; // 현재 선택
 let viewMode = 'line'; // 기본 보기 모드
 let voices=[];
 
-// ===== 무료 번역 =====
+// 무료 번역
 async function translateKo(text){
   try{
     const r=await fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q="+encodeURIComponent(text));
@@ -59,11 +59,134 @@ async function translateKo(text){
   }catch(e){ return ""; }
 }
 
-// ===== 렌더링 =====
+// 렌더링
 async function renderScript(){
   if(!currentSet) return;
   let html='';
   if(viewMode==='en'){
     html = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
   } else if(viewMode==='line'){
-    html = (await Promise.all(current
+    html = (await Promise.all(currentSet.lines.map(async (l,i)=>{
+      const ko = l.ko ?? await translateKo(l.en);
+      return `<div class="line" onclick="playLine(${i})">${l.en}<br/><span class="ko">${ko}</span></div>`;
+    }))).join('');
+  } else if(viewMode==='sep'){
+    const enPart = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
+    const koPart = (await Promise.all(currentSet.lines.map(async (l)=>`<div class="line">${l.ko ?? await translateKo(l.en)}</div>`))).join('');
+    html = `<h3>English</h3>${enPart}<h3>Korean</h3>${koPart}`;
+  }
+  document.getElementById('scriptArea').innerHTML=html;
+}
+function setViewMode(m){ viewMode=m; renderScript(); }
+
+// TTS
+function loadVoices(){
+  voices = speechSynthesis.getVoices();
+  const vs=document.getElementById('voiceSel');
+  vs.innerHTML='';
+  voices.forEach((v,i)=>{
+    if(v.lang.startsWith('en')){ 
+      const opt=document.createElement('option'); 
+      opt.value=i; opt.textContent=v.name+' ('+v.lang+')'; 
+      vs.appendChild(opt); 
+    }
+  });
+}
+speechSynthesis.onvoiceschanged=loadVoices; loadVoices();
+
+function playLine(i){
+  if(!currentSet) return;
+  const rate=parseFloat(document.getElementById('rate').value)||1;
+  const vsel=document.getElementById('voiceSel'); 
+  const voice=voices[vsel.value];
+  const u=new SpeechSynthesisUtterance(currentSet.lines[i].en);
+  if(voice) u.voice=voice;
+  u.rate=rate;
+  speechSynthesis.cancel();
+  speechSynthesis.speak(u);
+}
+function playAll(){
+  if(!currentSet) return;
+  const rate=parseFloat(document.getElementById('rate').value)||1;
+  const vsel=document.getElementById('voiceSel'); 
+  const voice=voices[vsel.value];
+  speechSynthesis.cancel();
+  currentSet.lines.forEach((l)=>{
+    const u=new SpeechSynthesisUtterance(l.en);
+    if(voice) u.voice=voice;
+    u.rate=rate;
+    speechSynthesis.speak(u);
+  });
+}
+
+// owner/repo 추출 (Github Pages: <owner>.github.io/<repo>/...)
+function detectRepo(){
+  const host = location.host;
+  const path = location.pathname.split('/').filter(Boolean);
+  let owner = host.split('.')[0];
+  let repo  = path[0] || 'dailybrief';
+  return {owner, repo};
+}
+
+// 스토리 로드
+async function loadStories(){
+  const sel=document.getElementById('storySel');
+  const {owner, repo} = detectRepo();
+
+  // 1) 이번 주 스토리 (data/story.json)
+  try{
+    const j=await fetch('data/story.json?ts='+Date.now()).then(r=>r.json());
+    const s={id:'weekly',title:`🌟 이번 주 이야기 (${j.date}): ${j.story.title}`,lines:j.story.lines};
+    LIB.push(s);
+  }catch(e){console.log('이번 주 스토리 없음');}
+
+  // 2) 아카이브
+  try{
+    const api = `https://api.github.com/repos/${owner}/${repo}/contents/data/archive`;
+    const r=await fetch(api);
+    if(r.ok){
+      const arr=await r.json();
+      // 최신이 위로 오도록 정렬
+      arr.sort((a,b)=> (a.name<b.name?1:-1));
+      for(const f of arr){
+        if(f.name.endsWith('.json')){
+          const aj=await fetch(f.download_url).then(r=>r.json());
+          const s={id:f.name,title:`📚 지난 이야기 (${aj.date}): ${aj.story.title}`,lines:aj.story.lines};
+          LIB.push(s);
+        }
+      }
+    }
+  }catch(e){console.log('아카이브 로드 실패',e);}
+
+  // 3) 토익 600 고정 세트
+  LIB.push({
+    id:'toeic600',
+    title:'🗂️ 토익 600 수준 - Office Talk',
+    lines:[
+      { en:'The manager asked me to prepare the report by tomorrow.' },
+      { en:'I will need to check the data and update the figures.' },
+      { en:'After that, we will have a short meeting.' },
+      { en:'Please make sure the summary is clear and concise.' },
+      { en:'I will send the final version before noon.' },
+      { en:'Let me know if you have any questions.' },
+      { en:'We should also review the client feedback.' },
+      { en:'The deadline is tight, so let us prioritize.' },
+      { en:'Thanks for your cooperation.' },
+      { en:'I appreciate your effort on this project.' }
+    ]
+  });
+
+  // 드롭다운 채우기
+  LIB.forEach((s,i)=>{ 
+    const opt=document.createElement('option'); 
+    opt.value=i; 
+    opt.textContent=s.title; 
+    sel.appendChild(opt); 
+  });
+
+  if(LIB.length>0){ currentSet=LIB[0]; renderScript(); }
+}
+loadStories();
+</script>
+</body>
+</html>
