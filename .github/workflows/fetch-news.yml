@@ -1,9 +1,9 @@
-name: Nightly news fetch
+name: Weekly news fetch
 
 on:
   schedule:
-    # 매일 00:05 UTC (한국 09:05 KST 즈음)
-    - cron: "5 0 * * *"
+    # 매주 월요일 00:30 UTC (한국 09:30)
+    - cron: "30 0 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -13,9 +13,9 @@ jobs:
   fetch-news:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -24,78 +24,88 @@ jobs:
 
       - name: Install deps
         run: |
-          python -m pip install --upgrade pip
           pip install feedparser beautifulsoup4
 
       - name: Build summarized news JSON
         run: |
           python - << 'PY'
-          import os, json, re, time
-          from datetime import datetime, timezone
+          import os, json, re, datetime
           from urllib.parse import quote
           import feedparser
           from bs4 import BeautifulSoup
 
-          def clean_html(txt):
+          def clean(txt):
               if not txt: return ''
               soup = BeautifulSoup(txt, 'html.parser')
               t = soup.get_text(' ', strip=True)
               t = re.sub(r'\s+', ' ', t)
-              # 구글뉴스 RSS 끝의 ' - 매체명' 제거
-              t = re.sub(r'\s+-\s+[^-]{2,50}$', '', t)
               return t
 
-          def first_sentence(s, limit=200):
-              if not s: return ''
-              s = s.strip()
-              # 문장 끝 기준으로 잘라서 1~2문장
-              parts = re.split(r'(?<=[.!?])\s+', s)
-              if len(parts) >= 2:
-                  out = ' '.join(parts[:2])
-              else:
-                  out = parts[0]
-              return (out[:limit] + '…') if len(out) > limit else out
+          def summarize(text, limit=200):
+              if not text: return ''
+              parts = re.split(r'(?<=[.!?])\s+', text)
+              s = ' '.join(parts[:2])
+              return (s[:limit] + '…') if len(s)>limit else s
 
-          def fetch_section(query, lang='en-US', gl='US', ceid='US:en', max_items=5):
-              url = f"https://news.google.com/rss/search?q={quote(query)}&hl={lang}&gl={gl}&ceid={ceid}"
-              d = feedparser.parse(url)
-              items = []
+          def fetch_section(query, max_items=5):
+              url=f"https://news.google.com/rss/search?q={quote(query)}&hl=en&gl=US&ceid=US:en"
+              d=feedparser.parse(url)
+              items=[]
               for e in d.entries[:max_items]:
-                  title = clean_html(getattr(e, 'title', ''))
-                  link  = getattr(e, 'link', '')
-                  desc  = clean_html(getattr(e, 'summary', ''))
-                  pub   = None
-                  if getattr(e, 'published_parsed', None):
-                      pub = datetime.fromtimestamp(time.mktime(e.published_parsed), tz=timezone.utc).isoformat().replace('+00:00','Z')
-                  summary = first_sentence(desc or title, limit=220)
-                  items.append({"title": title, "url": link, "published": pub, "summary": summary})
+                  title=clean(getattr(e,'title',''))
+                  link=getattr(e,'link','')
+                  desc=clean(getattr(e,'summary',''))
+                  full=desc or title
+                  summ=summarize(full)
+                  items.append({"title":title,"url":link,"summary":summ})
               return items
 
+          def analyze_invest(sections):
+              tips=[]
+              econ_text=" ".join(a["summary"] for a in sections.get("economy",[]))
+              if any(k in econ_text.lower() for k in ["inflation","cpi","price"]):
+                  tips.append("📉 물가·CPI 뉴스 → 성장주(NASDAQ) 변동성 ↑, 금리 부담")
+              if any(k in econ_text.lower() for k in ["jobs","employment","unemployment"]):
+                  tips.append("💼 고용지표 강세 → 경기 견조 → 금융·산업주 유리")
+              if any(k in econ_text.lower() for k in ["fed","interest","rate"]):
+                  tips.append("🏦 연준 금리 뉴스 → 방어주·배당주 관심 필요")
+              if any(k in econ_text.lower() for k in ["tech","ai","semiconductor","chip"]):
+                  tips.append("🤖 기술·반도체 뉴스 → 장기 성장 모멘텀 유지")
+              if not tips:
+                  tips.append("⚖️ 뚜렷한 신호 없음 → 분산 투자 유지 권장")
+              return " / ".join(tips)
+
           sections = {
-              "us_stock":   fetch_section("US stock market OR S&P 500 OR Dow Jones OR Nasdaq"),
-              "us_econ":    fetch_section("US economy CPI inflation jobs PCE"),
-              "us_politics":fetch_section("US politics Congress White House election"),
-              "world":      fetch_section("geopolitics OR war OR conflict OR politics OR entertainment", lang='ko', gl='KR', ceid='KR:ko'),
+              "politics": fetch_section("US politics White House Congress"),
+              "economy": fetch_section("US economy CPI jobs inflation"),
+              "society": fetch_section("US society crime culture education"),
+              "world":   fetch_section("world geopolitics war conflict"),
           }
 
+          wrap = " / ".join(v[0]["summary"] for v in sections.values() if v)
+
+          invest = analyze_invest(sections)
+
           out = {
-              "generated_at": datetime.now(timezone.utc).isoformat().replace('+00:00','Z'),
-              "sections": sections
+              "date": datetime.date.today().isoformat(),
+              "sections": sections,
+              "wrap_summary": wrap,
+              "invest_summary": invest
           }
 
           os.makedirs("data", exist_ok=True)
-          with open("data/news.json", "w", encoding="utf-8") as f:
-              json.dump(out, f, ensure_ascii=False, indent=2)
+          with open("data/news.json","w",encoding="utf-8") as f:
+              json.dump(out,f,ensure_ascii=False,indent=2)
           PY
 
-      - name: Commit & push if changed
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
-            git commit -m "chore(data): update news summaries [skip ci]"
+            git commit -m "chore(data): weekly news update [skip ci]"
             git push
           fi
