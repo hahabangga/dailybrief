@@ -3,20 +3,20 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>English Listening Practice</title>
+  <title>Weekly English Listening</title>
   <style>
     body { background:#0f172a; color:#e5e7eb; font-family:system-ui,sans-serif; margin:0; }
     header { padding:16px; border-bottom:1px solid #1f2937; background:#111827; position:sticky; top:0; }
     h1 { margin:0; font-size:20px; }
     .wrap { max-width:900px; margin:0 auto; padding:20px; }
     select,button { margin:4px; padding:6px 10px; border-radius:6px; border:1px solid #334155; background:#1e293b; color:#e5e7eb; }
-    .line { padding:6px 0; border-bottom:1px dashed #334155; }
+    .line { padding:6px 0; border-bottom:1px dashed #334155; cursor:pointer; }
     .ko { color:#a5f3fc; font-size:14px; }
   </style>
 </head>
 <body>
 <header>
-  <h1>🎧 영어 리스닝 연습</h1>
+  <h1>🎧 영어 리스닝 연습 (주간 업데이트)</h1>
 </header>
 
 <div class="wrap">
@@ -40,53 +40,16 @@
 </div>
 
 <script>
-// ====== 고정 학습 세트 ======
-const LIB = [
-  {
-    id:'fairy1',
-    title:'The Little Cat (동화)',
-    lines:[
-      { en:'The little cat is in the garden.', ko:'작은 고양이가 정원에 있어요.' },
-      { en:'It sees a butterfly.', ko:'나비를 봐요.' },
-      { en:'The cat runs and jumps.', ko:'고양이가 달리고 점프해요.' },
-      { en:'The butterfly flies away.', ko:'나비가 날아가 버려요.' },
-      { en:'The cat sits and looks at the sky.', ko:'고양이는 앉아서 하늘을 바라봐요.' }
-    ]
-  },
-  {
-    id:'fairy2',
-    title:'A Sunny Day (동화)',
-    lines:[
-      { en:'Today is a sunny day.', ko:'오늘은 화창한 날이에요.' },
-      { en:'The children play in the park.', ko:'아이들이 공원에서 놀아요.' },
-      { en:'They run with a ball.', ko:'그들은 공을 가지고 달려요.' },
-      { en:'They eat ice cream.', ko:'그들은 아이스크림을 먹어요.' },
-      { en:'Everyone is happy.', ko:'모두가 행복해요.' }
-    ]
-  },
-  {
-    id:'toeic1',
-    title:'At the Office (토익600수준)',
-    lines:[
-      { en:'The manager asked me to prepare the report by tomorrow.', ko:'부장님이 내일까지 보고서를 준비하라고 했습니다.' },
-      { en:'I will need to check the data and update the figures.', ko:'나는 데이터를 확인하고 수치를 업데이트해야 합니다.' },
-      { en:'After that, we will have a short meeting.', ko:'그 후에 우리는 짧은 회의를 할 것입니다.' }
-    ]
-  }
-];
-
-let currentSet = LIB[0];
+let LIB = [];          // 전체 스토리 목록
+let currentSet = null; // 현재 선택된 스토리
 let viewMode = 'line'; // 기본 보기 모드
 let voices=[];
 
-// ====== UI 초기화 ======
-const sel=document.getElementById('storySel');
-LIB.forEach((s,i)=>{ const opt=document.createElement('option'); opt.value=i; opt.textContent=s.title; sel.appendChild(opt); });
-sel.onchange=()=>{ currentSet=LIB[sel.value]; renderScript(); };
-
+// ===== 스크립트 렌더링 =====
 function setViewMode(m){ viewMode=m; renderScript(); }
 
 function renderScript(){
+  if(!currentSet) return;
   let html='';
   if(viewMode==='en'){
     html = currentSet.lines.map((l,i)=>`<div class="line" onclick="playLine(${i})">${l.en}</div>`).join('');
@@ -98,9 +61,8 @@ function renderScript(){
   }
   document.getElementById('scriptArea').innerHTML=html;
 }
-renderScript();
 
-// ====== TTS ======
+// ===== TTS =====
 function loadVoices(){
   voices = speechSynthesis.getVoices();
   const vs=document.getElementById('voiceSel');
@@ -116,6 +78,7 @@ function loadVoices(){
 speechSynthesis.onvoiceschanged=loadVoices; loadVoices();
 
 function playLine(i){
+  if(!currentSet) return;
   const rate=parseFloat(document.getElementById('rate').value)||1;
   const vsel=document.getElementById('voiceSel'); 
   const voice=voices[vsel.value];
@@ -127,11 +90,12 @@ function playLine(i){
 }
 
 function playAll(){
+  if(!currentSet) return;
   const rate=parseFloat(document.getElementById('rate').value)||1;
   const vsel=document.getElementById('voiceSel'); 
   const voice=voices[vsel.value];
   speechSynthesis.cancel();
-  currentSet.lines.forEach((l,idx)=>{
+  currentSet.lines.forEach((l)=>{
     const u=new SpeechSynthesisUtterance(l.en);
     if(voice) u.voice=voice;
     u.rate=rate;
@@ -139,22 +103,42 @@ function playAll(){
   });
 }
 
-// ====== 주간 이야기 로드 ======
-async function loadWeeklyStory(){
+// ===== 스토리 로드 =====
+async function loadStories(){
+  const sel=document.getElementById('storySel');
+  // 이번 주 스토리
   try{
-    const r = await fetch('data/story.json?ts='+Date.now());
+    const j=await fetch('data/story.json?ts='+Date.now()).then(r=>r.json());
+    const s={id:'weekly',title:`🌟 이번 주 이야기 (${j.date}): ${j.story.title}`,lines:j.story.lines};
+    LIB.push(s);
+  }catch(e){console.log('이번 주 스토리 없음');}
+
+  // 아카이브 불러오기
+  try{
+    const r=await fetch('https://api.github.com/repos/YOUR_ID/dailybrief/contents/data/archive');
     if(r.ok){
-      const j = await r.json();
-      const s = { id:'weekly', title:'🌟 이번 주 이야기: '+j.story.title, lines:j.story.lines };
-      LIB.push(s);
-      const opt=document.createElement('option'); 
-      opt.value=LIB.length-1; 
-      opt.textContent=s.title; 
-      sel.appendChild(opt);
+      const arr=await r.json();
+      for(const f of arr){
+        if(f.name.endsWith('.json')){
+          const aj=await fetch(f.download_url).then(r=>r.json());
+          const s={id:f.name,title:`📚 지난 이야기 (${aj.date}): ${aj.story.title}`,lines:aj.story.lines};
+          LIB.push(s);
+        }
+      }
     }
-  }catch(e){ console.log('주간 이야기 로드 실패',e); }
+  }catch(e){console.log('아카이브 불러오기 실패',e);}
+
+  // 드롭다운 채우기
+  LIB.forEach((s,i)=>{ 
+    const opt=document.createElement('option'); 
+    opt.value=i; 
+    opt.textContent=s.title; 
+    sel.appendChild(opt); 
+  });
+
+  if(LIB.length>0){ currentSet=LIB[0]; renderScript(); }
 }
-loadWeeklyStory();
+loadStories();
 </script>
 </body>
 </html>
