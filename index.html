@@ -21,7 +21,7 @@
   .card{background:var(--card);border:1px solid var(--muted);border-radius:14px;padding:14px}
   .card h2{margin:0 0 10px;font-size:18px}
   .list{margin:8px 0 0;padding:0;list-style:none}
-  .list li{padding:8px 0;border-top:1px solid #243252}
+  .list li{padding:10px 0;border-top:1px solid #243252}
   .list li:first-child{border-top:0}
   .muted{color:var(--sub)}
   a{color:var(--accent);text-decoration:none}
@@ -34,6 +34,8 @@
   footer{padding:40px 12px;color:#8fa2c9;text-align:center}
   .row{display:flex;gap:8px;flex-wrap:wrap}
   .small{font-size:13px}
+  .ktitle{font-weight:700}
+  .etag{font-size:12px;color:#9fb0d6;margin-left:6px}
 </style>
 </head>
 <body>
@@ -63,7 +65,7 @@
 
   <!-- 뉴스 -->
   <section class="card">
-    <h2>📰 뉴스 (투자 + 사회 파급력)</h2>
+    <h2>📰 뉴스 (핵심 요약 · 한글)</h2>
     <div class="grid">
       <div>
         <h3>🇺🇸 미국</h3>
@@ -112,37 +114,35 @@ const $$ = (q,root=document)=>[...root.querySelectorAll(q)];
 $('#stamp').textContent = new Date().toLocaleString('ko-KR', { timeZone:'Asia/Seoul' });
 
 async function translateKo(text){
-  // 간단 번역(무료 gtx; 환경에 따라 CORS로 실패할 수 있음 → 실패 시 영어 그대로 노출)
+  // 무료 gtx 엔드포인트(간단 번역). 실패 시 원문 반환.
   try{
-    const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q=' + encodeURIComponent(text);
+    if(!text) return '';
+    const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q=' + encodeURIComponent(text);
     const r = await fetch(url);
     const j = await r.json();
     return j[0].map(x=>x[0]).join('');
   }catch(e){
-    return text; // 실패 시 원문 반환
+    return text;
   }
 }
 
 function pct(v){ return (v>0?'+':'')+v.toFixed(2)+'%'; }
 function chip(text){ const s=document.createElement('span'); s.className='chip'; s.textContent=text; return s; }
+function truncate(s, n=220){ s=s||''; return s.length>n? s.slice(0,n-1)+'…': s; }
 
 /* ===== 날씨: 현재/7일 + 시간대별 멘트 ===== */
 async function loadWeather(){
   try{
-    // 서울 위경도
     const g = await fetch('https://geocoding-api.open-meteo.com/v1/search?name=Seoul&count=1&language=ko&format=json').then(r=>r.json());
     const { latitude:lat, longitude:lon } = g.results[0];
-    // 현재 + 일별 + 시간별
     const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&timezone=Asia%2FSeoul&current=temperature_2m,apparent_temperature,weather_code&hourly=temperature_2m,apparent_temperature,precipitation_probability,wind_speed_10m,uv_index&daily=weather_code,temperature_2m_max,temperature_2m_min&forecast_days=7`;
     const w = await fetch(url).then(r=>r.json());
 
-    // 현재
     const nowT = Math.round(w.current.temperature_2m);
     const nowApp = Math.round(w.current.apparent_temperature);
     const nowSt = codeToText(w.current.weather_code);
     $('#weatherNow').textContent = `${fmtKST(new Date())}, ${nowT}°C (체감 ${nowApp}°C), ${nowSt}`;
 
-    // 시간대별 멘트
     const chunks = [
       {label:'오전(06–12)',range:[6,12]},
       {label:'오후(12–18)',range:[12,18]},
@@ -155,7 +155,6 @@ async function loadWeather(){
       $('#todChunks').appendChild(tag);
     }
 
-    // 7일 표
     const tb = $('#wTable tbody'); tb.innerHTML='';
     const days = w.daily.time;
     for(let i=0;i<days.length;i++){
@@ -173,7 +172,6 @@ async function loadWeather(){
 }
 function fmtKST(d){ return d.toLocaleString('ko-KR',{timeZone:'Asia/Seoul', hour12:false}); }
 function codeToText(code){
-  // Open-Meteo WMO 날씨 코드 간단 매핑
   const m = {
     0:'맑음',1:'대체로 맑음',2:'부분적 흐림',3:'흐림',
     45:'안개',48:'서리 안개',
@@ -208,7 +206,7 @@ function timeHint(w, hStart, hEnd){
   return tips[0] ? tips.join(', ') : '대체로 무난';
 }
 
-/* ===== 뉴스: regions.us/kr/world 사용 ===== */
+/* ===== 뉴스: regions.us/kr/world 사용 + 한글 번역 ===== */
 let cachedNews=null;
 async function loadNews(force=false){
   try{
@@ -217,13 +215,11 @@ async function loadNews(force=false){
     }
     const j = cachedNews;
 
-    // 새 구조 우선
     if(j.regions){
       await renderList('#us',    j.regions.us    || []);
       await renderList('#kr',    j.regions.kr    || []);
       await renderList('#world', j.regions.world || []);
     }else if(j.sections){
-      // 구조 호환(예전 파일)
       await renderList('#us',    j.sections.economy  || []);
       await renderList('#kr',    j.sections.politics || []);
       await renderList('#world', j.sections.world    || j.sections.society || []);
@@ -234,11 +230,8 @@ async function loadNews(force=false){
     }
 
     const wrapEn = j.wrap_summary || '';
-    const wrapKo = wrapEn ? await translateKo(wrapEn) : '';
-    $('#wrapSummaryKo').textContent = wrapKo || '요약을 불러올 수 없습니다.';
     $('#wrapSummary').textContent   = wrapEn ? `(영문) ${wrapEn}` : '';
-
-    // 투자 코멘트가 있으면 표시
+    $('#wrapSummaryKo').textContent = wrapEn ? await translateKo(wrapEn) : '요약을 불러올 수 없습니다.';
     $('#investSummary').textContent = j.invest_summary || '시장 방향성 불확실 — 분산과 현금비중 관리.';
   }catch(e){
     $('#wrapSummaryKo').textContent='뉴스 데이터 없음';
@@ -250,14 +243,28 @@ async function renderList(sel, arr){
   const el = $(sel);
   el.innerHTML = '';
   if(!arr || !arr.length){ el.innerHTML='<li class="muted">항목 없음</li>'; return; }
-  for(const it of arr.slice(0,5)){ // 각 지역 최대 5건 표시
+
+  // 상위 5건만 번역(요청 수 최소화)
+  const top = arr.slice(0,5);
+
+  // 번역 병렬 처리(제목/요약 각각)
+  const jobs = top.map(async it=>{
+    const title = it.title || '제목 없음';
+    const summary = it.summary || it.desc || '';
+    const kTitle = await translateKo(title);
+    const kSum   = await translateKo(truncate(summary, 280));
+    return { ...it, kTitle, kSum };
+  });
+
+  const done = await Promise.all(jobs);
+
+  for(const it of done){
     const li = document.createElement('li');
-    const sum = it.summary || it.title || '';
-    const why = it.why_matters ? `<div class="small muted">왜 중요한가: ${it.why_matters}</div>` : '';
-    const when = it.published ? `<span class="muted small">${it.published}</span>` : '';
+    const when = it.published ? `<span class="etag">${escapeHtml(it.published)}</span>` : '';
+    const why  = it.why_matters ? `<div class="small muted">왜 중요한가: ${escapeHtml(it.why_matters)}</div>` : '';
     li.innerHTML = `
-      <div><a href="${it.url}" target="_blank">${escapeHtml(it.title||'제목 없음')}</a> ${when}</div>
-      <div class="small">${escapeHtml(sum)}</div>
+      <div class="ktitle"><a href="${it.url}" target="_blank">${escapeHtml(it.kTitle || it.title || '제목 없음')}</a>${when}</div>
+      <div class="small">${escapeHtml(it.kSum || it.summary || '')}</div>
       ${why}
     `;
     el.appendChild(li);
@@ -287,7 +294,6 @@ async function loadCloses(){
       row.appendChild(span);
     });
 
-    // 간단 메모(오늘/주간/월간 전망 자리)
     const ul = $('#marketNotes');
     ul.innerHTML = `
       <li><strong>🎯 오늘 전망</strong><div class="small muted">주요 이벤트/헤드라인에 따라 변동성 확대 가능.</div></li>
@@ -301,12 +307,9 @@ async function loadCloses(){
 
 /* ===== 운세 & 영어 한 문장 ===== */
 function loadFortune(){
-  const birth = new Date('1985-04-18T00:00:00+09:00');
-  const today = new Date().toLocaleDateString('en-CA',{timeZone:'Asia/Seoul'});
-  // 매우 간단한 규칙(요일/달/일 기반)
   const d = new Date();
   const seed = d.getFullYear()*10000 + (d.getMonth()+1)*100 + d.getDate();
-  const r = (Math.sin(seed)+1)/2; // 0~1
+  const r = (Math.sin(seed)+1)/2;
   let msg = r>0.66?'새로운 기회가 열립니다. 단, 성급한 결정은 피하세요.':
             r>0.33?'실속을 챙길 날. 작은 이익을 꾸준히 모으세요.':
                     '휴식과 정리가 도움 됩니다. 불필요한 지출을 줄이세요.';
@@ -315,7 +318,6 @@ function loadFortune(){
 }
 
 function loadPhrase(){
-  // 학습용 간단 문장(매일 날짜 시드로 순환)
   const bank = [
     ["Markets often overreact to headlines.","시장들은 종종 헤드라인에 과도 반응한다.","overreact: 과잉 반응하다; headline: 헤드라인","현재시제 일반진술(주어+동사)"],
     ["Focus on risks you can control.","통제 가능한 위험에 집중하라.","focus on: ~에 집중하다; risk: 위험; control: 통제","명령문 + 전치사구"],
