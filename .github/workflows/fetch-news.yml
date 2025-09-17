@@ -36,7 +36,6 @@ jobs:
           from bs4 import BeautifulSoup
           import yake
 
-          # ---------- helpers ----------
           def clean_html(txt):
             if not txt: return ''
             soup = BeautifulSoup(txt, 'html.parser')
@@ -58,7 +57,7 @@ jobs:
 
           def sentence_split(text):
             if not text: return []
-            s = re.split(r'(?<=[\.\?\!])\s+|(?<=\.)\s+|(?<=\?)\s+|(?<=!)\s+', text)
+            s = re.split(r'(?<=[\.\?\!])\s+', text)
             return [x.strip() for x in s if len(x.strip().split())>=4]
 
           def top_keywords(text, topk=10):
@@ -113,77 +112,39 @@ jobs:
               return "정책/규제 변화 가능."
             return "핵심 동향 파악."
 
-          def build_section(query, section_key, hl='en', gl='US', ceid='US:en', max_items=7):
+          def build_section(query, hl, gl, ceid, max_items=7):
             items = fetch_rss(query, max_items=max_items, hl=hl, gl=gl, ceid=ceid)
             out=[]
             for it in items:
-              base_text = f"{it['title']} {it['desc']}".strip()
-              summ = summarize_from_rss(it['title'], it['desc'], n=2)
+              base = f"{it['title']} {it['desc']}".strip()
               out.append({
                 "title": it["title"],
                 "url": it["url"],
-                "summary": summ,
+                "summary": summarize_from_rss(it['title'], it['desc'], n=2),
                 "published": it["published"],
-                "key_figures": key_figures(base_text),
-                "why_matters": why_matters(base_text),
-                "whats_next": "후속 지표/발표 모니터.",
+                "key_figures": key_figures(base),
+                "why_matters": why_matters(base),
+                "whats_next": "후속 지표/발표 모니터."
               })
             return out
 
-          # ---------- sections ----------
           sections = {
-            # 미국: 영어 피드
-            "us": build_section(
-              "US CPI OR FOMC OR jobs OR inflation OR earnings OR regulation OR geopolitics",
-              "us", hl='en', gl='US', ceid='US:en', max_items=7
-            ),
-            # 한국: 한국어 피드
-            "kr": build_section(
-              "한국 경제 OR 금리 OR 물가 OR 고용 OR 규제 OR 수출 OR 지정학",
-              "kr", hl='ko', gl='KR', ceid='KR:ko', max_items=7
-            ),
-            # 세계: 영어 피드
-            "world": build_section(
-              "global economy OR geopolitics OR war OR oil OR supply chain OR sanctions",
-              "world", hl='en', gl='US', ceid='US:en', max_items=7
-            ),
+            "us": build_section("US CPI OR FOMC OR jobs OR inflation OR earnings OR regulation OR protest OR wildfire", 'en','US','US:en',7),
+            "kr": build_section("한국 경제 OR 금리 OR 물가 OR 고용 OR 규제 OR 수출 OR 지정학 OR 시위 OR 재난", 'ko','KR','KR:ko',7),
+            "world": build_section("global economy OR geopolitics OR war OR oil OR supply chain OR sanctions OR disaster", 'en','US','US:en',7),
           }
 
-          # 상단 요약(간단 연결)
           wrap = " / ".join((v[0]["summary"] if v else "") for v in sections.values() if v)
-
-          # 투자 시사점(간단 규칙)
-          def invest_insight(sections):
-            tips=[]
-            econ = " ".join(i["summary"] for i in sections.get("us",[])+sections.get("world",[])).lower()
-            if any(k in econ for k in ['inflation','cpi','price']): tips.append("물가 경계: 성장주 변동성↑, 방어주 관심.")
-            if any(k in econ for k in ['jobs','employment','unemployment','payroll']): tips.append("고용 견조 시 경기민감·금융에 우호적.")
-            if any(k in econ for k in ['fed','rate','interest']): tips.append("금리 경로 주시: 금리민감주 변동성 확대.")
-            if any(k in econ for k in ['ai','semiconductor','chip','nvidia','foundry']): tips.append("AI/반도체 모멘텀 지속 여부 체크.")
-            if not tips: tips.append("뚜렷한 방향성 신호 부족: 분산과 현금 비중 관리.")
-            return " / ".join(tips)
-
-          invest = invest_insight(sections)
 
           today = datetime.date.today().isoformat()
           generated_at = datetime.datetime.utcnow().isoformat(timespec='seconds') + "Z"
 
           out = {
             "date": today,
-            "generated_at": generated_at,  # <- 매일 달라져서 커밋이 항상 발생
-            "sections": {
-              "politics": [],    # (구버전 호환: 비워둠)
-              "economy": [],     # (구버전 호환: 비워둠)
-              "society": [],     # (구버전 호환: 비워둠)
-              "world": sections["world"],
-            },
-            "regions": {         # <- 새 구조(권장)
-              "us": sections["us"],
-              "kr": sections["kr"],
-              "world": sections["world"]
-            },
+            "generated_at": generated_at,
+            "regions": sections,
             "wrap_summary": wrap,
-            "invest_summary": invest
+            "invest_summary": ""
           }
 
           os.makedirs("data", exist_ok=True)
