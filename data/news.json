@@ -1,17 +1,8 @@
 {
-  "date": "2025-09-18",
-  "generated_at": "2025-09-18T21:59:43Z",
+  "date": "2025-09-19",
+  "generated_at": "2025-09-19T21:59:49Z",
   "regions": {
     "us": [
-      {
-        "title": "Departments of Interior and Agriculture Announce Wildland Fire Service Plan to Modernize Federal Wildfire Response - U.S. Department of the Interior (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0FhRVBxbFZTbGRJWG9UQ3hMRE85emdMZWVIT25rVHdjVm5sdEItdm1fY0RKbjBLR0NzOXc0dENHY3JxZ0wxcXVtTnZCb1Y2bE9YSGY4Y2cwU3dtaFNSV2RGczM0T25EcFo0b1VvNFMxMGdwQklQWF9RWTdqRm5QcXkyMDMtM3hkcGNXZW1hOE5abGRrY1JEd09GYzZUVGRtTVZaU3VOYTBJQVpBNW0xZ29WRlN2UlU?oc=5",
-        "summary": "Department of the Interior (.gov) Departments of Interior and Agriculture Announce Wildland Fire Service Plan to Modernize Federal Wildfire Response - U.S. Department of the Interior (.gov)",
-        "published": "Mon, 15 Sep 2025 20:35:02 GMT",
-        "key_figures": [],
-        "why_matters": "경제·금리 경로에 영향.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
       {
         "title": "As U.S. jobs disappear, the Federal Reserve returns to rate cuts - CNBC",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcE9YcHhQUjVNSG5iLUVXUkV2RVRqT3ZUdVhBdEE0SDh5d0s0NFJxMEhaalZFOFlRRjNhQUpWdnhqSHhjYzlJNWQ5OTItNEFoMl8yaWpPMk9PaVZVWnpfc1JBZGtyRmVyRjNvampiNml4WWd4bWx6cktmOUFPRk5UcjRvNTl5UXVMVjJOb1ZMaVQ1RkJRNGM0UEMtaUR1OUXSAaQBQVVfeXFMTjNkZmJUYXkwUUJ6U0J3d2R1V1BaOV9scVdCUEtSYnM2MHk5akJPTjhmX1NrRDBQalRVQTQ4dHVmZDkyUk14emszY3ZZaDFkNjFnS1M2azdZWHI3ajIySXpQXzBiM2d6RXhXbVJjTmJ5ZUJHbU9nUUJ0R1gzQ0w2My16TGNqd2o5UHNFbTVBSVFJTXJwSEx6eUdCQTI5YTFTaWViMEo?oc=5",
@@ -22,12 +13,14 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Wildfire Smoke May Lead to More U.S Deaths in Future - SBU News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1Nodmh4Ui1zQVZKdGVKLWJOQW55aFhVUllIU1Q2RFNLNFoxOGpmZ2RZWm13dzN2ZV8wYnZxZHZDX3BlazFWa09WOTFST09Bd0doUnR3X0VlSmI0M0k3LUpPYXRVeXprVG5ucV92UDlobEFYVEhhS0pPeWxBcTcwSng4dmtOZzlndElPVUVVU3FiVkRp?oc=5",
-        "summary": "Wildfire Smoke May Lead to More U.S Deaths in Future SBU News Wildfire Smoke May Lead to More U.S Deaths in Future - SBU News",
-        "published": "Thu, 18 Sep 2025 16:26:56 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
+        "title": "REPORT: Clean energy jobs grew 3X faster than rest of U.S. workforce in 2024, but future growth now at risk - e2.org",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUI4VjRvc2ZGaEwxMzFSMks5eXJpcERfWXl5dzBxckZsa0JvTTR2YTREN2NPam43S3d6a0pQUnJvZWVSamRMdDVKblJUNG9iajhrc2hzZXY1YTlvMnQ3NnNuVnY3NVZrOExZNGRILXEzMkZRYU4wbk0tOVF0VF84Z18yZ1lYblFKU24xR3VKWGVadWc0anFYWFRuQ21XNlFUR1luVGpNdkRjclNKczg3NG5HSW1qRGIwa0lkeHpxMzg4T09VMkp1Ug?oc=5",
+        "summary": "workforce in 2024, but future growth now at risk e2.org REPORT: Clean energy jobs grew 3X faster than rest of U.S. REPORT: Clean energy jobs grew 3X faster than rest of U.S.",
+        "published": "Fri, 19 Sep 2025 05:05:06 GMT",
+        "key_figures": [
+          "2024"
+        ],
+        "why_matters": "경제·금리 경로에 영향.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
@@ -40,28 +33,37 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Wildfire smoke will kill nearly 1.4m each year by end of century if emissions not curbed – study - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFFyeVVUbDJYTHd6NHkzc1EwUmt6QzFEcXVhbHQwRERrQ3lUTjdXTkVNd1hHUk5mckhGUEFsa2w3Q1RMUUZjOXJXWGp4OVVSOXNnVXlZaFR2YU1HVTdTV2U1a0xKaXhKUnpvT2lsY1YzYlJQQUZaQzhyY1JBUF8wUVV1bmNNU2N1?oc=5",
-        "summary": "Wildfire smoke will kill nearly 1.4m each year by end of century if emissions not curbed – study The Guardian Wildfire smoke will kill nearly 1.4m each year by end of century if emissions not curbed – study - The Guardian",
-        "published": "Thu, 18 Sep 2025 15:00:00 GMT",
+        "title": "Federal agents use teargas and pepper balls to break up Chicago Ice protest - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UjdXUFcyZVdUeC1CRnF5UFlRX1BZSFYzRk5Xd1Z1VTZCQWIzSnF5RUlvWEJKMU8wLUZqOU5QQzNHOGJselFONWxzODdwVU84dFlwTm5DNjg2ZDJhYmR5VGdMYWh1cEEzZ1VYMjZkd3BvR2R1dkNmSklhZWxadlU?oc=5",
+        "summary": "Federal agents use teargas and pepper balls to break up Chicago Ice protest The Guardian Federal agents use teargas and pepper balls to break up Chicago Ice protest - The Guardian",
+        "published": "Fri, 19 Sep 2025 20:07:00 GMT",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
+        "why_matters": "경제·금리 경로에 영향.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Flash Macro: U.S. FOMC - KKR",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBS09SXzVrSVdWMHNrZ2hjRUhreUF6WVY2bjVjQmZDc3M5ZGRKV3cwOWhJNnFlODNPa3BkbkdDYmF1MjU5cFNfRGhtSmEwZVRnbEpfWFBFcjZzRWtuTHRXVUVZSWtKeDJESFFvc05LM1BJUGFQMHc?oc=5",
-        "summary": "FOMC KKR Flash Macro: U.S.",
-        "published": "Thu, 18 Sep 2025 01:06:48 GMT",
+        "title": "Amentum Seeks to Create Thousands of UK Jobs Amid US-UK Nuclear Partnership - ExecutiveBiz",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX01McDBQRGxETWZWMThWUk1DVGxxWHlvY3VIODBLc3l5OTVDSWxsMWhLT1c1cDVwQXltUHhpYV80amVnMlo1NW9tNjFkUklJOXVnYWVnTXV2eGpTVGkwdGpWLUtORGt0eG91UXhEVm1OMWhwS04tUGk5a3R3dDU5bmE3RXRBelFfN3VTVA?oc=5",
+        "summary": "Amentum Seeks to Create Thousands of UK Jobs Amid US-UK Nuclear Partnership ExecutiveBiz Amentum Seeks to Create Thousands of UK Jobs Amid US-UK Nuclear Partnership - ExecutiveBiz",
+        "published": "Fri, 19 Sep 2025 15:17:35 GMT",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
+        "why_matters": "경제·금리 경로에 영향.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "See where wildfire smoke is getting worse in the U.S. - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSTdqVlRIcUItRlRxdGFRNHBRT01sdGE3d01VdW9MM3NkUHVlRllXRGhfM29NRUxYWG5iZWJXbDRUU0tVNVBlUlIyaUdmZFhBVkJaWWc1cXBHc3czRWdqUC0tVzFLNmRlODlLbFh0cjFSa1B5S3lUc0t5a3U2WlZVdUZtZ3R2M1JmaXJQdXFXNUxUbV81ZURyMnNndHc4ZWhn?oc=5",
-        "summary": "The Washington Post See where wildfire smoke is getting worse in the U.S. - The Washington Post",
-        "published": "Thu, 18 Sep 2025 21:34:26 GMT",
+        "title": "Chicago-area mayor says federal agents teargassed him at a protest outside an ICE facility - CNN",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hOW92U1ZBdGFLbVlmbWlUR08tV2oySnpjQ3lwYXlWUHRNbEZNbGpzdzRvVjJYT3gzU0lEZzRLNjA0TGs4UmJPZkFSdEh0Yl9JV29FUUprM3FGUmRUMXY0MUlKMDhXX3FWLWJjY0dwX0x1UQ?oc=5",
+        "summary": "Chicago-area mayor says federal agents teargassed him at a protest outside an ICE facility CNN Chicago-area mayor says federal agents teargassed him at a protest outside an ICE facility - CNN",
+        "published": "Fri, 19 Sep 2025 16:41:00 GMT",
+        "key_figures": [],
+        "why_matters": "경제·금리 경로에 영향.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Stock Market Edges Higher After Quadruple Records for US Indexes - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXotQ0RkYmItdUIzUVlUakpJbkFTX1JpdEZMeEhpdHphLWNMRkZNc002Y3hYRk9WUEpyNmRuZnFqNE5XMllfZnZSNkRic1ZpV0hzZF9kZU1zNXhxWWNiQUJFcFF5d3VlUTR4UDgyd3I3ZWkwM0ExSGoxbVJtQkhyR2xGZnFZM2lDeE9qYTNwemM1YVdoQlh5ZUVVVkptZU5Pd0g1UGNqQndCRHdCdGZNWVVVNVIwZw?oc=5",
+        "summary": "Stock Market Edges Higher After Quadruple Records for US Indexes Bloomberg.com Stock Market Edges Higher After Quadruple Records for US Indexes - Bloomberg.com",
+        "published": "Fri, 19 Sep 2025 20:22:35 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -69,140 +71,135 @@
     ],
     "kr": [
       {
-        "title": "금·비트코인보다 '더 많이 올랐다' 잭팟…줄줄이 '돈벼락' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVFJ2eVlOcEM0YzVYcU9iWXJSTzNuT28zNVN2LTV5MGpla1lwQ1RNNWpKMG1XX0JPVGNFMGhsX0NoeUJQd3ZkS2s3VDhfZEU5cWllcmNqLVdHd9IBVEFVX3lxTE9yQmo3U0cxbnhOWlNDaEtiV0NOMW90bVBqRDBMdFMtMnZXYWhQRDRvd3l1STVmT3VndElFNnh1NXU3UDFWM2lIcUR5MExSWF9pWkRNYg?oc=5",
-        "summary": "금·비트코인보다 '더 많이 올랐다' 잭팟…줄줄이 '돈벼락' 한국경제 금·비트코인보다 '더 많이 올랐다' 잭팟…줄줄이 '돈벼락' - 한국경제",
-        "published": "Thu, 18 Sep 2025 07:32:56 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "美 Fed, 숨겨진 '돈 풀기'…글로벌 외환 시장 숨통 트이나 [글로벌 머니 X파일] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyZDVOYzBqWE51SF9YQWhDSzNwSjR4ZWQyUlZLaXVodDNpNmt6M29tUDI4NW56NTJEYXgzRWdVS3JQTHpPUlRoekNxN1FiWHdPZDV5d2VybDNQUdIBVEFVX3lxTE5EVlV6LWVNRW5SdllFQ3VRWXpDckF1R0laWTNBMmRsSEtvLWY1aExMcFV3QU5KQUJWaHRXelllaUhSM0w2NC12dlJfcEpQVkNoT2pWMg?oc=5",
-        "summary": "美 Fed, 숨겨진 '돈 풀기'…글로벌 외환 시장 숨통 트이나 [글로벌 머니 X파일] 한국경제 美 Fed, 숨겨진 '돈 풀기'…글로벌 외환 시장 숨통 트이나 [글로벌 머니 X파일] - 한국경제",
-        "published": "Thu, 18 Sep 2025 21:44:16 GMT",
+        "title": "다우·S&P, Fed 금리 인하로 사상 최고치 마감…한 주간 큰 폭 상승[뉴욕증시 모닝브리핑] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tamtjQ2xTZ3UwWi0zdlZnTG5GLUxFM3JoWUFGLTVtRDFuYUNsWXZfWVJ5Sjc0M2t3Q2U5eTZOcjR0NE1kMnd6Qk5Kck1xNV8wUmc5N3dSUkVod9IBVEFVX3lxTE1YMFhwWDVqZGVfbi1pNEdqQzZFeU1nSktoZEJkTFlqa1FpOWZrY0VUbGx2MHJRM1AzVVI5Z1J1bTFVcjZqV2VaSTZZYkNTd0lPWnR4RA?oc=5",
+        "summary": "다우·S&P, Fed 금리 인하로 사상 최고치 마감…한 주간 큰 폭 상승[뉴욕증시 모닝브리핑] 한국경제 다우·S&P, Fed 금리 인하로 사상 최고치 마감…한 주간 큰 폭 상승[뉴욕증시 모닝브리핑] - 한국경제",
+        "published": "Fri, 19 Sep 2025 20:53:03 GMT",
         "key_figures": [],
         "why_matters": "경제·금리 경로에 영향.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"급속한 고령화 직면한 한국…기준금리 더 내릴 수 없는 상황 대비해야\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiWU8wdVdZRTV0WFdUNks5cDJRdU5tTWFtS1N4NU9NUlRNQnA0Y0lnUHJZbUpXdG9yTGRLSnZjM3dpUHN1bFhsWEJYa2NSWms0WWdyQlJOcklzd9IBVEFVX3lxTE9ES2NqaExWNWdESmxUNzF5eVZQbjNYTWdGbDZNZllkSHUyci1fdWRNeGNuUzRIWmhkWW1hdHk1ZmNxU1BIcGlwU2ZwUjRkYW90UmRfWg?oc=5",
-        "summary": "\"급속한 고령화 직면한 한국…기준금리 더 내릴 수 없는 상황 대비해야\" 한국경제 \"급속한 고령화 직면한 한국…기준금리 더 내릴 수 없는 상황 대비해야\" - 한국경제",
-        "published": "Thu, 18 Sep 2025 14:05:42 GMT",
+        "title": "트럼프·시진핑, 틱톡 예비 합의…세부 협상은 계속 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WcEdBZldZQUlWN1M0dUZkaENEdF9pcHYyRWpGaFVrNlJyd1c5blprM3lFTkdGei1BUDdPa2VPZUNJV0FQemlsZEwzelhWWlM4aFQ0YXpWLW5pQdIBVEFVX3lxTE5jcFV1cGF5cklnQVFGQnJVbUF0SjJEWHFNR3FDQm5yTnMzNGJIZ25pTktsREUtN2d2M3NXQUFqU3ZDYUZ3V1ZZdkcyVUZ0dWJOcFhkUw?oc=5",
+        "summary": "트럼프·시진핑, 틱톡 예비 합의…세부 협상은 계속 한국경제 트럼프·시진핑, 틱톡 예비 합의…세부 협상은 계속 - 한국경제",
+        "published": "Fri, 19 Sep 2025 20:04:52 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "관세·구금 타격에도 현대차 \"美 투자 늘린다...中 기회 많아\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EYXMxZWE2OU94OVFMMlBWUnp2dmxZNkJOYmJQU294d3pNRjhWaEFrbnNSeUhMbUhVU3JsOFlORTRreHBLWklZSWtwVURUc20xWC1PcEtFenAyZ9IBVEFVX3lxTE1HczY4cWtrdXBZOVlhUkdYdjczWFRVblFzQjd4TUg1bHBZcnBxeWZKU0UzZHQzVDd6LTR3MlR0YlF2djNKQ2NBSUtxX1JzMEp4anRmVQ?oc=5",
-        "summary": "관세·구금 타격에도 현대차 \"美 투자 늘린다...中 기회 많아\" 한국경제 관세·구금 타격에도 현대차 \"美 투자 늘린다...中 기회 많아\" - 한국경제",
-        "published": "Thu, 18 Sep 2025 21:12:31 GMT",
+        "title": "미묘한 껄끄러움 남긴 미중정상 통화…APEC 회동서 풀릴까 [이상은의 워싱턴나우] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtQTVSbGt5dV9Ccm5yQ25HNi1nU0tJSmF5M01vOGJqblJMX0xEMmRlV2Y5NnpacHMzbHhnLXhVVC02SGxvQllRZGNxeTRsbkhfem5Wd3FqRHg3Z9IBVEFVX3lxTFBVeVltRDFXZlRPZTAydjZLUkVzang4TTU2OFRTdHdvRm9qaS1uSmU0SnJ1NVhCOW9uVEQ1TDByN1BxLWtyUnlMVnJURVU5d0NGS1lSdg?oc=5",
+        "summary": "미묘한 껄끄러움 남긴 미중정상 통화…APEC 회동서 풀릴까 [이상은의 워싱턴나우] 한국경제 미묘한 껄끄러움 남긴 미중정상 통화…APEC 회동서 풀릴까 [이상은의 워싱턴나우] - 한국경제",
+        "published": "Fri, 19 Sep 2025 21:02:29 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "금요일 흐리고 곳곳 비…낮 최고 28도 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xMHhtMkJfTlpRRkRrOU9UUTZDMEk1WFJpWFZ5a0w3QlJCSjV6cjFSeUxjb05NMG9PeS0yQ0UzWlk3MWRDbkhka0Jnbm5CQkZrdmxQb19nYm5ZUdIBVEFVX3lxTE1oaDNhc2szYUo5b0F6Q2ZQVVFieWlrb1R1bTRTenI0OVZleWYtbThVWlNzVVlZaVhwN00tTGtwc2kwUGNUcnFQakliN2ZLWEItbXhVVg?oc=5",
-        "summary": "금요일 흐리고 곳곳 비…낮 최고 28도 한국경제 금요일 흐리고 곳곳 비…낮 최고 28도 - 한국경제",
-        "published": "Thu, 18 Sep 2025 21:14:16 GMT",
+        "title": "트럼프 \"시진핑과 한국 APEC서 만나기로…내년초 방중\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0dXRzQ1FFY05FcFFIdW92ajBsSzVjcFZZVmd5RXF4SVFPM3dqRkZWa3F5Z1lmUW0zRVZlWlB2UElKUF9yYmtiVDJvamIyTFNHeFRaUVZGXzQ2d9IBVEFVX3lxTE9FVFJZQWFvSFJ0TFpsdzRQWmJNeVdjNTNmY3I0anlESGZXRGlxa09xQmJWX1dUTXZteFM3RGZDQU41d280VERxLUloY0h3aFJBQkJnLQ?oc=5",
+        "summary": "트럼프 \"시진핑과 한국 APEC서 만나기로…내년초 방중\" 한국경제 트럼프 \"시진핑과 한국 APEC서 만나기로…내년초 방중\" - 한국경제",
+        "published": "Fri, 19 Sep 2025 15:37:31 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "이창용 \"韓 고령화로 금리 더 낮추기 어렵다면…대출지원 등 대안\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxd1NxXzNwQ25oNDkxSjhyRFNTMUdRcTlWRkVnTmwzYjZ0eDZfQ1p2d0JOQ0M5WTlLa0pqSXB1TlhEcEpNRGgyR25HWVlqS3UxOXdDUkpoaDUyZ9IBVEFVX3lxTFBNMlR3TGJWanJNbXBVTnZGWURHdEQzNkhhRnVyS0tBS2hydkhZaDBMYU1TTkZyNXNURnY2Y1c1Q3poM2x0MFI0dHhVbHl0TlR4YWVaSQ?oc=5",
-        "summary": "이창용 \"韓 고령화로 금리 더 낮추기 어렵다면…대출지원 등 대안\" 한국경제 이창용 \"韓 고령화로 금리 더 낮추기 어렵다면…대출지원 등 대안\" - 한국경제",
-        "published": "Thu, 18 Sep 2025 13:55:44 GMT",
+        "title": "트럼프, H-1B 비자에 10만 달러 신규 수수료 부과…이민 규제 강화 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4SWlVTGRvdVUwMFF5Qk1Cbl9HSVI3UEt4U0NDMl9TMWxHMjhHWElqMF9Tbk9maHBzM0hqLVJlbTg4UFZwLXpWd1N0Y3NGaVlrbmI0QnY4OGFUUdIBVEFVX3lxTE1aRE8tTUFqS3pxT29Xb2JGMzhieDlfS2J4ME9MV095ZjZFeUdRLTg0Q0dQWVJQcUNreE5QTWthcktYZ2tCaEdGWHhLUHdsa2wtaE1mcw?oc=5",
+        "summary": "트럼프, H-1B 비자에 10만 달러 신규 수수료 부과…이민 규제 강화 한국경제 트럼프, H-1B 비자에 10만 달러 신규 수수료 부과…이민 규제 강화 - 한국경제",
+        "published": "Fri, 19 Sep 2025 20:34:19 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "英, 기준금리 4%로 동결…\"2023년 2월 이후 가장 낮은 수준\" [종합] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nMWdxbjBMRlZPNmNvV2RwaHNQaFFyX1BOQjczQW1sR29GSVFlRVQ3NlpSTG1xOTFTS0tuclVyMmNKdlJHNzg3WHBuczJjV0JJVXU2dDhnbVZod9IBVEFVX3lxTE5GdGR3YlpmZ0ZlTVU0eUJJSVZpWkR4UVdoUzEtTS1ZZVNDRmR2T3RST2pnXzN6cmRIZDAtQlZJalhJYnpTQ0tTTWZRYXgwMWdmdUtrVw?oc=5",
-        "summary": "英, 기준금리 4%로 동결…\"2023년 2월 이후 가장 낮은 수준\" [종합] 한국경제 英, 기준금리 4%로 동결…\"2023년 2월 이후 가장 낮은 수준\" [종합] - 한국경제",
-        "published": "Thu, 18 Sep 2025 12:06:31 GMT",
-        "key_figures": [
-          "4%",
-          "2023"
-        ],
+        "title": "시인 김혜순과 후배 시인들의 '불면의 심포니' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02d0N3NU5WY3dydFVocklXU0tRUUVpNFdCbl9ORXE4azBVNzJOM2ZESk9UY0dzOWVMUkcxb1JIM1pmb1AzRmpxeTNjSzItcjdWSHZNeTRJY3g4QdIBVEFVX3lxTE5DQXVHZ1VfaHBXUGJ1c1RtU3NDSHpTYTItNzZ3eDlnNncxMldGYzQxcl9aNEpUZC1ISVFMc0E3Z0REZEtyX2xoc1ZMZFVQbS1kclFhVw?oc=5",
+        "summary": "시인 김혜순과 후배 시인들의 '불면의 심포니' 한국경제 시인 김혜순과 후배 시인들의 '불면의 심포니' - 한국경제",
+        "published": "Fri, 19 Sep 2025 21:00:06 GMT",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "전국에 강한 비…오후에 대부분 그쳐 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kQ3JaNG1hVGE5RDRwNzlfaVlqWkhMemNnLUZUdTlnMmpKOFQxREhMMFBhcTdiMkJGcFAyZW8tc1NrMTNZMVFSSG8zWDhheS1DUEM5ZHFKSHBOUdIBVEFVX3lxTE9Sd05CclIyRFBCaG9HODBtSEpSRFNFZ0QxUzJrOGFTeEc0WGhObnNNd2hFeXE3X3UxY25TSlBXdmZKSThsa0NrckpKTTl6eWg5MTNKUg?oc=5",
+        "summary": "전국에 강한 비…오후에 대부분 그쳐 한국경제 전국에 강한 비…오후에 대부분 그쳐 - 한국경제",
+        "published": "Fri, 19 Sep 2025 21:40:58 GMT",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Future of Food: Navigating the Global Supply Chain - Crain's Chicago Business",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmZuUFVlNG1LYVl6LVdVM3BqVHdGQmw5QjlMMzg0eHN3VzFQc01helB1QUNiM1BOZlF4aHVCRmRmLWFpM05ScWFfZVQ0VE5ZNWFwUlQwTXpDQ19KSGVHQW4wQmJXV2d0TmZabzFfdXRvMVpuQzhZZ1pSc2diNzlOMGdvVHVONnMy?oc=5",
-        "summary": "Future of Food: Navigating the Global Supply Chain Crain's Chicago Business Future of Food: Navigating the Global Supply Chain - Crain's Chicago Business",
-        "published": "Thu, 18 Sep 2025 13:12:36 GMT",
+        "title": "Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals - Center for Climate and Energy Solutions",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUWN6bGpSSHVEb1ZGVGJ4aFRWR2hBNzhuLTJvRWRoc2UxbENod2s4bi1vN0o3NDF6TGJZRFItRU1Ma1ZEZXRLai1vSXlxdTZndlp3SjE3WHVidW1sNHRicVRnX3dtc09jRHpMczgwRTRnUFlWYkI5V0lDb2hJTzVocUdoZXlxdEtsVHhkLXBsVm5PYkh1aGZwLW5jVnJHNE52YmctVkRVbVFjR3k1ZnYta0hJZmxPR0VHRGNrZjZKNHhEUmxqTXIxUEQ1TmEwUjJtN3dkM3BCcVJoQWNNV1Q3aDRXRDdpSG5nN2pFaExrajc5Zw?oc=5",
+        "summary": "Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals Center for Climate and Energy Solutions Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals - Center for Climate and Energy Solutions",
+        "published": "Fri, 19 Sep 2025 14:33:37 GMT",
+        "key_figures": [],
+        "why_matters": "경제·금리 경로에 영향.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Ciclo diversifies global infrastructure to expand supply chain options - Home Textiles Today",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVlFbkJoUXhOTWdzU0ZZeEVmVFU4V2VlR1FqVklYbEJDOWw3WDlMZGwzOGp1VGNmQWlkN2hVajJyMG4yc0hvdF9jb3VYbTBDanZRSW5jdnBmNzVNNTJ1ZktsYWZvSS1CUXNHeHE3RjY3RXhwaUlMTXRITXRkd0Z5bmcyNk5MdE1rU3ctZnQwWU42bDBOMlM1UEtzczlNY3NQRklxUi1McVFqbGc3aHVF?oc=5",
+        "summary": "Ciclo diversifies global infrastructure to expand supply chain options Home Textiles Today Ciclo diversifies global infrastructure to expand supply chain options - Home Textiles Today",
+        "published": "Fri, 19 Sep 2025 19:58:21 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US companies are using AI to help offset increased tariff costs - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUFTUVRQaVI1Sm5uRDVxNlVUNTBDZmdRUGpmU3I3YnFIZDBGa3NtQnYxb3dTNEVEbXlDcWlNZ0NUTkw0Yzl2OFM5SGxtWGs3UURiQldLTjlCMFg2NVBmMFZXcE4xUHFqWVlTMXZVdkVSMkdNd2RhNGdQTHFacVBsY0JVWmVGM3NiMkZualR5OEkxYzN0WXRQbUlsUXZ0bVk?oc=5",
-        "summary": "US companies are using AI to help offset increased tariff costs Business Insider US companies are using AI to help offset increased tariff costs - Business Insider",
-        "published": "Thu, 18 Sep 2025 17:35:00 GMT",
+        "title": "Europe says its sanctions on Russia will harm the global economy, but won’t back off over it - Cryptopolitan",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3SEJibTVfLWVJRTM5WmZaNHY0U2xuQWxkTl90eVB1ZGF0bmpQQk1lNTYyV2F1dU1PSzlyTW5lMDBVUHRWQzBqUExJV3E2OFBURm5TTUhYU3VGTlVpTkp4VFFSRjYtdDlDakFybHJQM2hOSWtmdkp4T2JqbGhIWGM?oc=5",
+        "summary": "Europe says its sanctions on Russia will harm the global economy, but won’t back off over it Cryptopolitan Europe says its sanctions on Russia will harm the global economy, but won’t back off over it - Cryptopolitan",
+        "published": "Fri, 19 Sep 2025 14:56:00 GMT",
+        "key_figures": [],
+        "why_matters": "지정학·공급망 리스크.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Europeans announce fresh sanctions on Russian economy, trade in latest push to end Ukraine war - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUtCMXJGRTVOV3hvdDFsaGRESlpIMHgtZlZPSnRjQnNrQWxCVlhoWHd3dHVwM3B3QlFfMDFvQXNkb1o3SGhkRWdzMXA2Q1BRRmZ4T05ibG82VGNGbTU4RGVmWWpqNmNlU011aWdTTEFEOC1JRDlLTVhoSTdDMjVSeHNQNnVKNE8tblJKVGRONU9Vc2Y5bmhtVzVhTURZQWVuWS1DVnRhNEwxVVFZYTlBNFZyVkl6NGh1UE8xekdfazRGY2pZTE1CRE9kM09OekJy?oc=5",
+        "summary": "Europeans announce fresh sanctions on Russian economy, trade in latest push to end Ukraine war New York Post Europeans announce fresh sanctions on Russian economy, trade in latest push to end Ukraine war - New York Post",
+        "published": "Fri, 19 Sep 2025 20:57:00 GMT",
+        "key_figures": [],
+        "why_matters": "지정학·공급망 리스크.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Exploring Procurement & Supply Chain at Climate Week NYC - Procurement Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSTVzUHNMdXZVNzRBUE8ybUkyVFZGblF1NVBraEFJUGVsc21mTEtPVGZxRGlnTDVLclJoTm9vYlpNa1p3ODV4THZnaXZiZlFhc05nVlI3YUh2SG1IZ1g0ZHNjcnY1MU8xR0MyT0pfOEZPYlF1akpkem5rQU43LTlVcC1ocmVDSkdYV2YyX0YtQ3Y?oc=5",
+        "summary": "Exploring Procurement & Supply Chain at Climate Week NYC Procurement Magazine Exploring Procurement & Supply Chain at Climate Week NYC - Procurement Magazine",
+        "published": "Fri, 19 Sep 2025 14:52:00 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Mexico Strengthens Position in AI Supply Chain Amid Expansion - Mexico Business News",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2VZY3FFMjBhQmt3SHJGS2tESTlqb3B0ZkU0SXo3cVBYUDhEYklhWWdZRFo2aHd2cThBRGh4dmNqeVlMbktpN2psVEg1Ti1UN0NBOXRwM3ZCQldtS2ctSzlDcjhfZHYyLWlHb3dKaEVPdzA2S19OeXlMNFYxWVJocERkT1FGemxWWGx0bk5weTBBWEJMSVJTMFVJQ1ByVmlpNXdnTERraw?oc=5",
-        "summary": "Mexico Strengthens Position in AI Supply Chain Amid Expansion Mexico Business News Mexico Strengthens Position in AI Supply Chain Amid Expansion - Mexico Business News",
-        "published": "Thu, 18 Sep 2025 19:08:53 GMT",
+        "title": "AI is helping General Motors to avoid expensive supply chain interruptions like hurricanes and material shortages - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHJhYzUtWFMxcXE2dS0xOHYyU1BSaDBCWDNIX2UzbDhGSFQ3TWpETUZnb1BWeTc1RDhKaV9WRlJJN1Z5SUNqdXdaMld0VlFMd25EOTluNGV3NlpxTl85Ti1hMHUwQnY0SXZwUmFFN2tJSkpjWXBtY2d6TDF4MC04SFdiNjIzYURIalJEWmY2X2ZacG83SFpGUERKQUpMbHBpdjNv?oc=5",
+        "summary": "AI is helping General Motors to avoid expensive supply chain interruptions like hurricanes and material shortages Business Insider AI is helping General Motors to avoid expensive supply chain interruptions like hurricanes and material shortages - Business Insider",
+        "published": "Fri, 19 Sep 2025 19:06:09 GMT",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Constructing an Intelligent Agent-Centric Framework for Supply Chain Traceability with Blockchain Integration | Newswise - Newswise",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc0dza1JNaDctVUVDQ0ZWcHNOclRod2QwQlQ1ZVlwZGQtTzU5TFZpdUp2TlpZWnBZT3NsYzBiaFNTUGMyZm1GYzhoUzBMTlV4VFQ1U1llRjZpSnJnWGZpTm9RVE9SY2pUOXh6YkZOWmxCTmhmYTZTeng5bTk4aE01dlBCRGMzWXNSdWF5VzBPdUxXUmNiUHR3dk1teGdlRUhNTEd3bWN2NHI3c0l2NEhydVhQWnFuR2lrdW12UXhZc3NSajQ4ZnJRV01tQTE0NEdRcTVRblhTZEJHZFXSAdsBQVVfeXFMTnNHc2tSTWg3LVVFQ0NGVnBzTnJUaHdkMEJUNWVZcGRkLU81OUxWaXVKdk5aWVpwWU9zbGMwYmhTU1BjMmZtRmM4aFMwTE5VeFRUNVNZZUY2aUpyZ1hmaU5vUVRPUmNqVDl4emJGTlpsQk5oZmE2U3p4OW05OGhNNXZQQkRjM1lzUnVheVcwT3VMV1JjYlB0d3ZNbXhnZUVITUxHd21jdjRyN3NJdjRIcnVYUFpxbkdpa3VtdlF4WXNzUmo0OGZyUVdNbUExNDRHUXE1UW5YU2RCR2RV?oc=5",
-        "summary": "Constructing an Intelligent Agent-Centric Framework for Supply Chain Traceability with Blockchain Integration | Newswise Newswise Constructing an Intelligent Agent-Centric Framework for Supply Chain Traceability with Blockchain Integration | Newswise - Newswise",
-        "published": "Thu, 18 Sep 2025 09:00:00 GMT",
+        "title": "Global Economy Grapples with Tariff Onslaught: A Deep Dive into Macroeconomic Headwinds and Corporate Resilience - FinancialContent",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQY3BLTXdKSXotSHVqYXd5bTVOTzNldF9RTm12TkFfdUpKMmdwanVkMy1fSUlQUVZ0NFRNalktZ3p6OWdvYW95RmN5cjdMQm5iYzlWQ1FKYmVZWElTYjFINGljUXhuVlhtYUNqaU40NU9yLVQ0RXZTVHo3czVua0JVZmtqUGZUS1Q3V1I3cnhIXzUzOXdvUG03b3U1dWJrZG5qWENGS0ZGQ2VNYWkyYURQZ3EycVFuM0RSTHRlNU9Fb01vd1d6Qnkzdmt2c1VQRFAtRlR2MktVWlRjYkJWLWhfMFBWQ0t4NFNnRU5QZzBaSVhqUl9VakhDNDFmSWdUd0syWmFyTDVxZzktcmJ1TThLQUNR?oc=5",
+        "summary": "Global Economy Grapples with Tariff Onslaught: A Deep Dive into Macroeconomic Headwinds and Corporate Resilience FinancialContent Global Economy Grapples with Tariff Onslaught: A Deep Dive into Macroeconomic Headwinds and Corporate Resilience - FinancialContent",
+        "published": "Fri, 19 Sep 2025 17:55:00 GMT",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "AI as a Catalyst for Supply Chain and Workforce Transformation - with Kuo Zhang of Alibaba.com - Emerj Artificial Intelligence Research",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTHJTZ0tpQXZTMGEyd2FSaHN6cXlsZlF2NXZNdjBYRzlWNXROQmxlV0x1WlQzbE5JUDQzWWVaMEptZkdQOHZKYUZZNDhKRm1zNlNyMEdXTGJkUDQtMDdCR1k0enRoYkFJeENfa1EwNU5peU8ya214WUwxZVFtVUhjMVRTMFRWbzk2eXAyMFVjZ1ZuOW0xclc5LWtEQ1hKSllqalUxRXJn?oc=5",
-        "summary": "AI as a Catalyst for Supply Chain and Workforce Transformation - with Kuo Zhang of Alibaba.com Emerj Artificial Intelligence Research AI as a Catalyst for Supply Chain and Workforce Transformation - with Kuo Zhang of Alibaba.com - Emerj Artificial Intelligence Research",
-        "published": "Thu, 18 Sep 2025 15:57:02 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Genpact Recognized as a Leader and Star Performer in Everest Group's Supply Chain Management PEAK Matrix Assessment 2025 - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOYWxEcHhaSjJyWkhyU2gxdjNtb2hkYzlOVkFtellDRm5EbXp5cmZJSzlfd1pyMXJvOUt5VXI2ODdoTWhsOXBJS283bXM2ZThvMUthWThyQzZxeU5HZlFCeGVSZEdqZWFjaElwUURDMWZMaFRjU3BzWE1WYkJpNnZjbFAwb3hVQUhYTlNucjV4MVFzRnJQMEJZNlVaamxkMDh0NUtUXzdVWnFyRUxId1ZfYjczN3N2N1p3ajB5VEo1UWlSazBiaW5uQ0NOcXdCbUoxZlh5d1J5YkRDMXlMVldGT2JzTVdsRUNCYVpJRlptRVNRN2lqNHFCb3VYRUhPNUJVX19MUlNn?oc=5",
-        "summary": "Genpact Recognized as a Leader and Star Performer in Everest Group's Supply Chain Management PEAK Matrix Assessment 2025 PR Newswire Genpact Recognized as a Leader and Star Performer in Everest Group's Supply Chain Management PEAK Matrix Assessment 2025 - PR Newswire",
-        "published": "Thu, 18 Sep 2025 12:05:00 GMT",
-        "key_figures": [
-          "2025"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Mizzou alumnus is building a Wagyu beef brand with purpose and perseverance - Show Me Mizzou",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbk1Ramo5Y3V5dEwzLTJtN0RMZmFJWWRhaFU2WFFQaVJFWk12eDZHLTNyelFOM2xCU0lLNlJyQjZLOVlXLXlXaGNDYk9jWXNYcGNycmNydFFaQV9ZZ01qRy1zdEpzUGRaOHFOMThfeWdPbk8yTl8tWHZlbm1RX0NZSkZzclY2eVUweTMwdllsVDFXZ2xCY3VaVFJPcWVxSVJuMEJFcnpxdEJ0aWdQMFE?oc=5",
-        "summary": "Mizzou alumnus is building a Wagyu beef brand with purpose and perseverance Show Me Mizzou Mizzou alumnus is building a Wagyu beef brand with purpose and perseverance - Show Me Mizzou",
-        "published": "Thu, 18 Sep 2025 12:19:32 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
+        "why_matters": "경제·금리 경로에 영향.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Department of the Interior (.gov) Departments of Interior and Agriculture Announce Wildland Fire Service Plan to Modernize Federal Wildfire Response - U.S. Department of the Interior (.gov) / 금·비트코인보다 '더 많이 올랐다' 잭팟…줄줄이 '돈벼락' 한국경제 금·비트코인보다 '더 많이 올랐다' 잭팟…줄줄이 '돈벼락' - 한국경제 / Future of Food: Navigating the Global Supply Chain Crain's Chicago Business Future of Food: Navigating the Global Supply Chain - Crain's Chicago Business",
+  "wrap_summary": "jobs disappear, the Federal Reserve returns to rate cuts CNBC As U.S. / 다우·S&P, Fed 금리 인하로 사상 최고치 마감…한 주간 큰 폭 상승[뉴욕증시 모닝브리핑] 한국경제 다우·S&P, Fed 금리 인하로 사상 최고치 마감…한 주간 큰 폭 상승[뉴욕증시 모닝브리핑] - 한국경제 / Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals Center for Climate and Energy Solutions Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals - Center for Climate and Energy Solutions",
   "invest_summary": ""
 }
