@@ -3,12 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>🎧 CNN Listening – Daily Brief</title>
+<title>🎧 Listening – Daily Brief</title>
 <link rel="icon" href="data:,">
 <style>
-  :root{
-    --bg:#0b1220; --card:#121a2b; --text:#e6eefc; --sub:#91a4c7; --accent:#6aa0ff; --muted:#2a3450;
-  }
+  :root{ --bg:#0b1220; --card:#121a2b; --text:#e6eefc; --sub:#91a4c7; --accent:#6aa0ff; --muted:#2a3450; }
   body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,Segoe UI,Roboto,Apple SD Gothic Neo,Noto Sans KR,sans-serif;line-height:1.6}
   header{padding:16px 12px;background:#0b1220;border-bottom:1px solid #1e2a44;position:sticky;top:0;z-index:5}
   .wrap{max-width:960px;margin:0 auto;padding:0 12px}
@@ -22,21 +20,21 @@
   .en{font-weight:600}
   .ko{color:#cfe1ff}
   .small{font-size:13px;color:#9fb0d6}
-  .back{font-size:13px}
   .grid{display:grid;gap:12px}
   @media(min-width:860px){.grid{grid-template-columns:1.25fr 1fr}}
   ul{margin:8px 0 0;padding:0;list-style:none}
   li{padding:10px 0;border-top:1px solid #243252}
   li:first-child{border-top:0}
   .kws{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+  .err{color:#ffb3b3}
 </style>
 </head>
 <body>
 <header>
   <div class="wrap">
-    <h1>🎧 CNN Listening</h1>
+    <h1>🎧 Listening</h1>
     <div class="meta">
-      <a class="back" href="./">← Daily Brief로 돌아가기</a>
+      <a href="./">← Daily Brief로 돌아가기</a> · <span id="updated">업데이트 시각: 로딩중…</span>
     </div>
   </div>
 </header>
@@ -45,7 +43,7 @@
   <div class="grid">
     <section class="card">
       <div id="episode" class="row">
-        <div class="pill">CNN 5 Things</div>
+        <div id="srcpill" class="pill">소스 불러오는 중…</div>
         <div id="pub" class="small">로딩 중…</div>
       </div>
       <h2 id="title" style="margin:8px 0 10px">제목 불러오는 중…</h2>
@@ -55,6 +53,7 @@
       <div style="margin-top:10px">
         <audio id="audio" controls preload="none" style="width:100%"></audio>
       </div>
+      <div id="error" class="err small" style="margin-top:8px"></div>
     </section>
 
     <section class="card">
@@ -72,39 +71,52 @@
 
 <script>
 const $ = (q,root=document)=>root.querySelector(q);
+const nowKST = new Date().toLocaleString('ko-KR',{timeZone:'Asia/Seoul'});
+$('#updated').textContent = '업데이트 시각: ' + nowKST;
 
-async function loadData(){
-  const j = await fetch('data/listening.json?ts='+Date.now()).then(r=>r.json());
-  // 헤더
-  $('#title').textContent = j.episode_title || 'CNN 5 Things';
-  $('#src').href = j.source_link || '#';
-  const pub = j.published_utc ? new Date(j.published_utc).toLocaleString('ko-KR', { timeZone:'Asia/Seoul' }) : '';
-  $('#pub').textContent = pub ? `발행: ${pub} (KST 환산)` : '';
-  if (j.audio_url) $('#audio').src = j.audio_url;
+(async function(){
+  try{
+    const res = await fetch('data/listening.json?ts='+Date.now());
+    if(!res.ok) throw new Error('listening.json 요청 실패: '+res.status);
+    const j = await res.json();
 
-  // 키워드
-  renderKeywords(j.keywords_en||[]);
-  fetchMeanings(j.keywords_en||[]);
+    // 헤더
+    $('#srcpill').textContent = j.source || 'Unknown';
+    $('#title').textContent = j.episode_title || 'Untitled';
+    $('#src').href = j.source_link || '#';
+    $('#audio').src = j.audio_url || '';
+    const pub = j.published_utc ? new Date(j.published_utc).toLocaleString('ko-KR', { timeZone:'Asia/Seoul' }) : '';
+    $('#pub').textContent = pub ? `발행: ${pub} (KST 환산)` : '';
 
-  // 스크립트(문장별 번역 + 간단 문법)
-  const ul = $('#script'); ul.innerHTML='';
-  const sents = (j.script_en||[]).slice(0,20);
-  for(const en of sents){
-    const ko = await translateKo(en);
-    const gram = detectGrammar(en);
-    const li = document.createElement('li');
-    li.innerHTML = `
-      <div class="en">${escapeHtml(en)}</div>
-      <div class="ko">${escapeHtml(ko)}</div>
-      <div class="small">${gram ? '문법: '+escapeHtml(gram) : ''}</div>
-    `;
-    ul.appendChild(li);
+    // 키워드
+    renderKeywords(j.keywords_en||[]);
+    fetchMeanings(j.keywords_en||[]);
+
+    // 스크립트
+    const sents = (j.script_en||[]);
+    const ul = $('#script'); ul.innerHTML='';
+    if(!sents.length){
+      $('#error').textContent = '⚠️ 스크립트가 비어있어요. 잠시 후 새로고침하거나, 상단 Actions에서 Fetch CNN listening을 수동 실행해보세요.';
+    }
+    for(const en of sents.slice(0,20)){
+      const ko = await translateKo(en);  // 실패해도 영문은 표시
+      const gram = detectGrammar(en);
+      const li = document.createElement('li');
+      li.innerHTML = `
+        <div class="en">${escapeHtml(en)}</div>
+        <div class="ko">${escapeHtml(ko||'(번역 실패: 원문 표시)')}</div>
+        <div class="small">${gram ? '문법: '+escapeHtml(gram) : ''}</div>
+      `;
+      ul.appendChild(li);
+    }
+  }catch(e){
+    $('#error').textContent = '⚠️ 데이터 로딩 실패: ' + e.message;
   }
-}
+})();
 
 function renderKeywords(arr){
   const box = $('#keywords'); box.innerHTML='';
-  arr.slice(0,8).forEach(w=>{
+  (arr||[]).slice(0,8).forEach(w=>{
     const span = document.createElement('span');
     span.className='pill';
     span.textContent=w;
@@ -114,7 +126,7 @@ function renderKeywords(arr){
 
 async function fetchMeanings(words){
   const out = [];
-  for(const w of words.slice(0,6)){
+  for(const w of (words||[]).slice(0,6)){
     try{
       const r = await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(w));
       if(!r.ok) continue;
@@ -126,7 +138,7 @@ async function fetchMeanings(words){
   $('#kw-meanings').innerHTML = out.length? out.join('<br>'): '의미를 불러올 수 없어요.';
 }
 
-// 무료 gtx 번역(간혹 CORS/속도 이슈 → 실패 시 원문 반환)
+// 무료 번역(실패해도 원문 유지)
 async function translateKo(text){
   try{
     const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q=' + encodeURIComponent(text);
@@ -148,10 +160,7 @@ function detectGrammar(s){
   if(/\bthat\b.+\bsaid\b|\bsaid that\b/.test(t)) return '간접화법 (said that …)';
   return '';
 }
-
 function escapeHtml(s){return (s||'').replace(/[&<>"']/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m]))}
-
-loadData();
 </script>
 </body>
 </html>
