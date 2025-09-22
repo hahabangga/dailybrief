@@ -1,11 +1,9 @@
-name: Fetch CNN listening (06:30 & 12:30 KST)
+name: Fetch CNN listening (06:30 & 12:30 KST, hardened)
 
 on:
   schedule:
-    # 06:30 KST (UTC 21:30 prev day)
-    - cron: "30 21 * * *"
-    # 12:30 KST (UTC 03:30)
-    - cron: "30 3 * * *"
+    - cron: "30 21 * * *"  # 06:30 KST
+    - cron: "30 3 * * *"   # 12:30 KST
   workflow_dispatch:
 
 permissions:
@@ -15,22 +13,18 @@ jobs:
   fetch-listening:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
 
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
           pip install feedparser beautifulsoup4 lxml yake
 
-      - name: Build data/listening.json from CNN 5 Things RSS
+      - name: Build data/listening.json (CNN 5 Things → NPR Up First fallback)
         run: |
           python - << 'PY'
           import os, re, json, datetime
@@ -39,8 +33,11 @@ jobs:
           from zoneinfo import ZoneInfo
           import yake
 
-          RSS = "https://rss.art19.com/cnn-5-things"  # CNN 5 Things (공식 팟캐스트 RSS)
           KST = ZoneInfo("Asia/Seoul")
+          SOURCES = [
+            ("CNN 5 Things", "https://rss.art19.com/cnn-5-things"),
+            ("NPR Up First", "https://feeds.npr.org/510318/podcast.xml"),
+          ]
 
           def clean_html(txt):
             if not txt: return ''
@@ -50,7 +47,6 @@ jobs:
 
           def sentence_split(text):
             if not text: return []
-            # 문장 분할(영어 기준), 너무 짧은 문장은 제외
             s = re.split(r'(?<=[\.\?\!])\s+', text)
             out = []
             for x in s:
@@ -63,69 +59,90 @@ jobs:
             try:
               ex = yake.KeywordExtractor(lan="en", n=1, top=topk)
               kws = ex.extract_keywords(text)
-              # 낮은 스코어가 더 중요하지만, 여기선 키워드만 뽑음
-              words = [k for k,_ in kws if re.match(r"^[A-Za-z][A-Za-z\-']+$", k)]
-              # 중복·불용어성 필터(간단)
-              seen=set(); cleaned=[]
-              bad = set('the a an to for of in on at by and or with from into about over after before under between among as is are be was were has have had will would can could should may might do does did not no'.split())
-              for w in words:
-                lw = w.lower()
-                if lw in bad or lw in seen: continue
-                seen.add(lw); cleaned.append(w)
-                if len(cleaned)>=topk: break
-              return cleaned
+              cand = [k for k,_ in kws if re.match(r"^[A-Za-z][A-Za-z\-']+$", k)]
+              seen=set(); out=[]
+              stop = set('the a an to for of in on at by and or with from into about over after before under between among as is are be was were has have had will would can could should may might do does did not no'.split())
+              for w in cand:
+                lw=w.lower()
+                if lw in seen or lw in stop: continue
+                seen.add(lw); out.append(w)
+                if len(out)>=topk: break
+              return out
             except Exception:
               return []
 
-          # 1) RSS 파싱
-          d = feedparser.parse(RSS)
-          if not d.entries:
-            raise SystemExit("No entries in CNN RSS")
+          def pick_first_with_audio(feed_url):
+            d = feedparser.parse(feed_url)
+            for e in d.entries:
+              # mp3 찾기
+              audio_url = ""
+              if getattr(e, 'enclosures', None):
+                for enc in e.enclosures:
+                  u = enc.get('href') or enc.get('url') or ''
+                  if u.lower().endswith('.mp3'):
+                    audio_url = u; break
+              # 대체: media_content
+              if not audio_url and getattr(e, 'media_content', None):
+                for mc in e.media_content:
+                  u = mc.get('url','')
+                  if u.lower().endswith('.mp3'): audio_url=u; break
+              # 설명 후보 모으기
+              descs = []
+              for key in ('summary','subtitle','itunes_summary','description'):
+                v = getattr(e, key, '') or ''
+                if v: descs.append(v)
+              # content:encoded
+              if getattr(e, 'content', None):
+                for c in e.content:
+                  if 'value' in c and c['value']:
+                    descs.append(c['value'])
+              text = clean_html(' '.join(descs))
+              title = clean_html(getattr(e,'title','(no title)'))
+              link  = getattr(e,'link','')
+              # 발행시각
+              pub_iso = None
+              tm = getattr(e,'published_parsed',None) or getattr(e,'updated_parsed',None)
+              if tm:
+                pub_utc = datetime.datetime(*tm[:6], tzinfo=datetime.timezone.utc)
+                pub_iso = pub_utc.isoformat().replace('+00:00','Z')
 
-          e = d.entries[0]  # 최신 에피소드
-          title = clean_html(getattr(e,'title','CNN 5 Things'))
-          link  = getattr(e,'link','')
-          desc  = clean_html(getattr(e,'summary',''))  # 쇼노트/요약
-          # enclosure mp3
-          audio_url = ''
-          if getattr(e, 'enclosures', None):
-            for enc in e.enclosures:
-              u = enc.get('href') or enc.get('url') or ''
-              if u.lower().endswith('.mp3'):
-                audio_url = u; break
+              # 문장 뽑기(없으면 title+desc)
+              sents = sentence_split(text)
+              if len(sents) < 8:
+                sents = sentence_split(f"{title}. {text}")
+              sents = sents[:16]
 
-          # published
-          pub_iso = None
-          if getattr(e,'published_parsed',None):
-            pub_dt_utc = datetime.datetime(*e.published_parsed[:6], tzinfo=datetime.timezone.utc)
-            pub_iso = pub_dt_utc.isoformat().replace('+00:00','Z')
+              if audio_url and sents:
+                return {
+                  "episode_title": title, "source_link": link, "audio_url": audio_url,
+                  "published_utc": pub_iso, "script_en": sents
+                }
+            return None
 
-          # 2) 스크립트 후보: desc 문장을 8~14개 정도
-          sents = sentence_split(desc)
-          if len(sents) < 6 and getattr(e, 'title', None):
-            sents = sentence_split(title + '. ' + desc)
+          payload = None; src_name=None
+          for name, url in SOURCES:
+            item = pick_first_with_audio(url)
+            if item:
+              src_name = name; payload = item; break
 
-          sents = sents[:14] if sents else []
+          if not payload:
+            raise SystemExit("No playable episode with sentences found.")
 
-          # 3) 키워드 추출(영어)
-          kw = top_keywords(desc or title, topk=6)
-
+          keywords = top_keywords(' '.join(payload["script_en"])) if payload["script_en"] else []
           out = {
             "date": datetime.datetime.now(KST).date().isoformat(),
-            "source": "CNN 5 Things (RSS)",
-            "episode_title": title,
-            "source_link": link,
-            "audio_url": audio_url,
-            "published_utc": pub_iso,
-            "script_en": sents,     # 문장 배열(영어). 번역/단어/문법은 클라이언트에서 처리
-            "keywords_en": kw
+            "source": src_name,
+            **payload,
+            "keywords_en": keywords
           }
 
           os.makedirs("data", exist_ok=True)
           with open("data/listening.json","w",encoding="utf-8") as f:
             json.dump(out, f, ensure_ascii=False, indent=2)
 
-          print("Wrote data/listening.json with", len(sents), "sentences.")
+          print("OK:", out["source"], "→", out["episode_title"])
+          print("audio_url:", out["audio_url"])
+          print("sentences:", len(out["script_en"]))
           PY
 
       - name: Commit & push
@@ -133,5 +150,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore(data): update listening (CNN 5 Things) [skip ci]" || echo "No changes"
-          git push || echo "Nothing to push"
+          git commit -m "chore(listening): robust fetch (CNN→NPR fallback) [skip ci]" || echo "No changes"
+          git push || true
