@@ -1,0 +1,137 @@
+name: Fetch CNN listening (06:30 & 12:30 KST)
+
+on:
+  schedule:
+    # 06:30 KST (UTC 21:30 prev day)
+    - cron: "30 21 * * *"
+    # 12:30 KST (UTC 03:30)
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-listening:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser beautifulsoup4 lxml yake
+
+      - name: Build data/listening.json from CNN 5 Things RSS
+        run: |
+          python - << 'PY'
+          import os, re, json, datetime
+          import feedparser
+          from bs4 import BeautifulSoup
+          from zoneinfo import ZoneInfo
+          import yake
+
+          RSS = "https://rss.art19.com/cnn-5-things"  # CNN 5 Things (공식 팟캐스트 RSS)
+          KST = ZoneInfo("Asia/Seoul")
+
+          def clean_html(txt):
+            if not txt: return ''
+            soup = BeautifulSoup(txt, 'html.parser')
+            t = soup.get_text(' ', strip=True)
+            return re.sub(r'\s+', ' ', t).strip()
+
+          def sentence_split(text):
+            if not text: return []
+            # 문장 분할(영어 기준), 너무 짧은 문장은 제외
+            s = re.split(r'(?<=[\.\?\!])\s+', text)
+            out = []
+            for x in s:
+              x = x.strip()
+              if len(x.split()) >= 5 and len(x) <= 220:
+                out.append(x)
+            return out
+
+          def top_keywords(text, topk=6):
+            try:
+              ex = yake.KeywordExtractor(lan="en", n=1, top=topk)
+              kws = ex.extract_keywords(text)
+              # 낮은 스코어가 더 중요하지만, 여기선 키워드만 뽑음
+              words = [k for k,_ in kws if re.match(r"^[A-Za-z][A-Za-z\-']+$", k)]
+              # 중복·불용어성 필터(간단)
+              seen=set(); cleaned=[]
+              bad = set('the a an to for of in on at by and or with from into about over after before under between among as is are be was were has have had will would can could should may might do does did not no'.split())
+              for w in words:
+                lw = w.lower()
+                if lw in bad or lw in seen: continue
+                seen.add(lw); cleaned.append(w)
+                if len(cleaned)>=topk: break
+              return cleaned
+            except Exception:
+              return []
+
+          # 1) RSS 파싱
+          d = feedparser.parse(RSS)
+          if not d.entries:
+            raise SystemExit("No entries in CNN RSS")
+
+          e = d.entries[0]  # 최신 에피소드
+          title = clean_html(getattr(e,'title','CNN 5 Things'))
+          link  = getattr(e,'link','')
+          desc  = clean_html(getattr(e,'summary',''))  # 쇼노트/요약
+          # enclosure mp3
+          audio_url = ''
+          if getattr(e, 'enclosures', None):
+            for enc in e.enclosures:
+              u = enc.get('href') or enc.get('url') or ''
+              if u.lower().endswith('.mp3'):
+                audio_url = u; break
+
+          # published
+          pub_iso = None
+          if getattr(e,'published_parsed',None):
+            pub_dt_utc = datetime.datetime(*e.published_parsed[:6], tzinfo=datetime.timezone.utc)
+            pub_iso = pub_dt_utc.isoformat().replace('+00:00','Z')
+
+          # 2) 스크립트 후보: desc 문장을 8~14개 정도
+          sents = sentence_split(desc)
+          if len(sents) < 6 and getattr(e, 'title', None):
+            sents = sentence_split(title + '. ' + desc)
+
+          sents = sents[:14] if sents else []
+
+          # 3) 키워드 추출(영어)
+          kw = top_keywords(desc or title, topk=6)
+
+          out = {
+            "date": datetime.datetime.now(KST).date().isoformat(),
+            "source": "CNN 5 Things (RSS)",
+            "episode_title": title,
+            "source_link": link,
+            "audio_url": audio_url,
+            "published_utc": pub_iso,
+            "script_en": sents,     # 문장 배열(영어). 번역/단어/문법은 클라이언트에서 처리
+            "keywords_en": kw
+          }
+
+          os.makedirs("data", exist_ok=True)
+          with open("data/listening.json","w",encoding="utf-8") as f:
+            json.dump(out, f, ensure_ascii=False, indent=2)
+
+          print("Wrote data/listening.json with", len(sents), "sentences.")
+          PY
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(data): update listening (CNN 5 Things) [skip ci]" || echo "No changes"
+          git push || echo "Nothing to push"
