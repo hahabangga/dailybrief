@@ -1,207 +1,152 @@
 {
-  "date": "2025-09-21",
-  "generated_at": "2025-09-21T21:59:52Z",
+  "date": "2026-09-07",
+  "generated_at_utc": "2026-09-07T11:40:31Z",
+  "cutoff_kst": "2026-09-07T20:40:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Key US Inflation Metric to Ease as Focus Shifts to Jobs Market - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQlQ5NXdRV0h0b0hidVVZWEZ6TEpfV3hpSGlHRW50YTViR3pFSm0yS1l0dXhmTlpxbURrZHhpUGN2SHRZTmlkNU1ja2szX1JWNzRWVndGem55RExTWUtTSVBBZExSS2lXdWZEQ0tFa0lkdlQ1WmJDclRuNTB0d195bjctbjB4OExaZG05MzY2LUhCeGFqdFUzMnd5anY3MU9nbG95LXNCXzU3QWFzSzE0Q1RoUQ?oc=5",
-        "summary": "Key US Inflation Metric to Ease as Focus Shifts to Jobs Market Bloomberg.com Key US Inflation Metric to Ease as Focus Shifts to Jobs Market - Bloomberg.com",
-        "published": "Sun, 21 Sep 2025 18:06:34 GMT",
-        "key_figures": [],
-        "why_matters": "경제·금리 경로에 영향.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Will US inflation matter more than jobs? - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KTjNFSVdPOVNONkxwN05PWS1YblQwU3JYanh5aWtfWjFuNUl5SHZXWXdWOHRrcXNfV0R0ckFHT01GSDB1cHZkbDM4Wkk3TFQ4YWFYVkJVZGxZZDZ1eklyZFhNWkZlRjdaM2NHU3Q0SWg?oc=5",
-        "summary": "Financial Times Will US inflation matter more than jobs?",
-        "published": "Sun, 21 Sep 2025 11:00:07 GMT",
-        "key_figures": [],
-        "why_matters": "경제·금리 경로에 영향.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US inflation: Tariffs could widen divide between haves and have-nots - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIT19NQkU1TVl6SUh6aGllY3JvWmZ2UlVvQklYbUFKOXkzSFFEdzB6MjhwOXVIRjFmTzRMbXR4V0RDczh1cHRrc0FWRFB0ejhsZnBSaXQ3UUwyZ9IBX0FVX3lxTE5fTzROMXh0RGh6OHd6UFVhdHpBakRjcUtNeWRIb0h6U3RxYUF0OHA3czNaaXBRWkVicWN2WEpUU01EVndwNWI4V3ZiclRwM1ZPbjgyc19meXNNejJaR2VF?oc=5",
-        "summary": "US inflation: Tariffs could widen divide between haves and have-nots BBC US inflation: Tariffs could widen divide between haves and have-nots - BBC",
-        "published": "Tue, 16 Sep 2025 14:13:23 GMT",
-        "key_figures": [],
-        "why_matters": "경제·금리 경로에 영향.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Could wildfire smoke become America’s leading climate health threat by 2050? - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGEzdXNZUWNOZFBHc0RWZnZnZjBZTko2WENmTXpiX1JkSjFYaE5QMTBGOU5IUUtzQzZsdmxscUhTeFFpZmNoM1dvX21CVk5iSlNqRHF5d2NObjhYdDFkalpIQ0szVDJKb1JYelgzOTVvY25VZXl3a0FfcGtkNkRPaWpSTEJadHdjaXNUb3I2WGpQQV83VXRZU0xBWTlCcTFiaHdKSWpCY0dxUVNldWFGR0F0MEdNV0NqMVZaenpERWlIMFEwcl9iNWd5eEtDWjA3?oc=5",
-        "summary": "Los Angeles Times Could wildfire smoke become America’s leading climate health threat by 2050? - Los Angeles Times",
-        "published": "Sun, 21 Sep 2025 10:00:00 GMT",
+        "title": "Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
+        "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+        "summary": "The luxury carmaker is targeting £1.7 billion ($2.3 billion) in savings as it faces Chinese competition, a cyberattack and U.S. Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive",
+        "published": "Mon, 07 Sep 2026 11:26:48 GMT",
+        "published_kst": "2026-09-07T20:26:48+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "2050"
+          "$2.3"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Flash Macro: U.S. FOMC - KKR",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBS09SXzVrSVdWMHNrZ2hjRUhreUF6WVY2bjVjQmZDc3M5ZGRKV3cwOWhJNnFlODNPa3BkbkdDYmF1MjU5cFNfRGhtSmEwZVRnbEpfWFBFcjZzRWtuTHRXVUVZSWtKeDJESFFvc05LM1BJUGFQMHc?oc=5",
-        "summary": "FOMC KKR Flash Macro: U.S.",
-        "published": "Thu, 18 Sep 2025 01:06:48 GMT",
+        "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
+        "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
+        "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand. SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
+        "published": "Mon, 07 Sep 2026 11:19:33 GMT",
+        "published_kst": "2026-09-07T20:19:33+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "REPORT: Clean energy jobs grew 3X faster than rest of U.S. workforce in 2024, but future growth now at risk - e2.org",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQUI4VjRvc2ZGaEwxMzFSMks5eXJpcERfWXl5dzBxckZsa0JvTTR2YTREN2NPam43S3d6a0pQUnJvZWVSamRMdDVKblJUNG9iajhrc2hzZXY1YTlvMnQ3NnNuVnY3NVZrOExZNGRILXEzMkZRYU4wbk0tOVF0VF84Z18yZ1lYblFKU24xR3VKWGVadWc0anFYWFRuQ21XNlFUR1luVGpNdkRjclNKczg3NG5HSW1qRGIwa0lkeHpxMzg4T09VMkp1Ug?oc=5",
-        "summary": "workforce in 2024, but future growth now at risk e2.org REPORT: Clean energy jobs grew 3X faster than rest of U.S. REPORT: Clean energy jobs grew 3X faster than rest of U.S.",
-        "published": "Fri, 19 Sep 2025 05:05:06 GMT",
-        "key_figures": [
-          "2024"
-        ],
-        "why_matters": "경제·금리 경로에 영향.",
+        "title": "S&P 500 extends losses as hot NFP raises rate hike odds; eyes on the US CPI next - investinglive.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQy1ZZ1NwOFVIUzdHLWNOMGJVOVk2ZS11bk9NdVA3V2Nfem12YVV0c1oyc05jYk0ycmhKMXAza3ZGVVlsM2t2T21KMlpOTmtOUkhkVkhrUmdLTnV3UWpQNGZuWGp1enpaODJ5VlpCZUJGbFFUNWNGRDVVWnhyWlFvYXYwcjlnYndndlRmQ2RmLVAzenhITy01Wjg1YW5CUU5mR3M1dk1SbVNzcmtjaVRIVGVSRQ?oc=5",
+        "summary": "S&P 500 extends losses as hot NFP raises rate hike odds; eyes on the US CPI next investinglive.com S&P 500 extends losses as hot NFP raises rate hike odds; eyes on the US CPI next - investinglive.com",
+        "published": "Mon, 07 Sep 2026 11:13:13 GMT",
+        "published_kst": "2026-09-07T20:13:13+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. inflation worsened last month, putting Fed in difficult spot as job market slows - PBS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbGRLZ0VaLXpmM19vMFRtVnRMbjA0c2JPVTdWRFhFRk5jOGpRM0pGNXFqdlYxUkZ3THFxS3pLeWdfckxIcDhRWGJPOFYyQzFNalZnOVRpM1pQVEhsd3dFYjlwY3gwTUVxUHVLTUVqb0JtYVVDcU43X3RzSXcyaDVWU3Y4cldFOU1hNmxaZWE5UHhVUGZGeXVXTFZWakVBYnlxSjB5dnlKQ2NvT3hfX3VPeHF3NXpXZ1RBc19VWNIBwgFBVV95cUxObU1HLW1xdlk0RzRqZVFadGNTdlhuWDRUSlF6b1JOMHJkN1VqNGcyR3U5dGdLa1MtTVJmRjB0X1JuaUVGbmJ5YjhpcnBoVmlrSXlwQmloN0YwTGpQbnltck8wbWNIVlVtbXp1ZGlxbi1iWjlxb1lvUDgyYmhEMWhaZlkteWNtMWxacHJWRTdhcXRSaUxzVVRvS09iQm5lb3NFazd1LVpfXzMteHZmVkRhaU5IVU9mS1FtUmtNWnp0SVBYdw?oc=5",
-        "summary": "inflation worsened last month, putting Fed in difficult spot as job market slows PBS U.S.",
-        "published": "Thu, 11 Sep 2025 07:00:00 GMT",
+        "title": "WuBlockchain Weekly Outlook | U.S. Inflation and Central Bank Signals Drive Markets as Oracle and Adobe Test AI Demand - Substack",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ZnQ5LTRxcDFHT0ZZZDJjUW4zR1JlQVQ2SnZZSWpDWWF5VVNzYUpudkVMSE9iMzMzUW5NV2oyRVFDZ1N1aHZ4XzcyaDZuUlRTclpaeUp4cTlNSGlaQXU2aGlOSl83T01tc0ZUYjdlR3UtY01SaHBsbkc5VQ?oc=5",
+        "summary": "Inflation and Central Bank Signals Drive Markets as Oracle and Adobe Test AI Demand Substack WuBlockchain Weekly Outlook | U.S. WuBlockchain Weekly Outlook | U.S.",
+        "published": "Mon, 07 Sep 2026 11:10:07 GMT",
+        "published_kst": "2026-09-07T20:10:07+09:00",
+        "domain": "google.com",
         "key_figures": [],
-        "why_matters": "경제·금리 경로에 영향.",
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump says he has made 'Hundreds of Billions of Dollars on Stocks' in stream of AI posts",
+        "url": "https://www.cnbc.com/2026/09/07/trump-truth-social-ai-images-posting-spree.html",
+        "summary": "President Donald Trump posted a stream of AI-generated images and a series of sweeping and unverified claims on Truth Social on Sunday Trump says he has made 'Hundreds of Billions of Dollars on Stocks' in stream of AI posts",
+        "published": "Mon, 07 Sep 2026 11:06:20 GMT",
+        "published_kst": "2026-09-07T20:06:20+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US Adds 162,000 Jobs, Triple Expectations, Putting Bitcoin, ETH and XRP on Rate Hike Watch - CCN.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHFEUFN0RnNWY0p1bnNLdUdNV1AyZjkzR1h6end4V2RUcmlBU1ByQWl0NUlSbkJDS1NCNW5VR2RPWGxjWTVNR2RwTjIySUFrQTB0TmQwOWNSQk0xS2dmYVZGcEJxdFlENnowaFNJb01tOHB4TnBGQzVYaGo1dkF2R2dTaw?oc=5",
+        "summary": "US Adds 162,000 Jobs, Triple Expectations, Putting Bitcoin, ETH and XRP on Rate Hike Watch CCN.com US Adds 162,000 Jobs, Triple Expectations, Putting Bitcoin, ETH and XRP on Rate Hike Watch - CCN.com",
+        "published": "Mon, 07 Sep 2026 10:49:24 GMT",
+        "published_kst": "2026-09-07T19:49:24+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "경북도 초격차 산업육성 100억 펀드 조성 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTVRTekhGay1KODcxV1lZNHZkN2tYeUwtN21GMEttRlVvajNxUFJtT2hGcE1kQ3Y3SWJEQ3k1aXpsUzFaY0NETlhRZXA4VXZFaGtORDZtWVcxQdIBVEFVX3lxTE5VblJXWVVhRkw5SkhRaGlMZTlyMGtkMHdqZUl4dktBSnFWR25jb0lPWHAzbVoxZWk0d3htcTFRTEFZS3UzSnd3WlRoVjVIcWNrSHp3aw?oc=5",
-        "summary": "경북도 초격차 산업육성 100억 펀드 조성 한국경제 경북도 초격차 산업육성 100억 펀드 조성 - 한국경제",
-        "published": "Sun, 21 Sep 2025 21:31:48 GMT",
+        "title": "[여기는 논설실] AI가 읽는 ‘탐욕과 공포’의 온도 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9udHFfUENWR3FIYU5kdGMyWTVaQnRHd3did2ZrZEV0bDhaU1JoSjFpRndkQndXMjhDQjhVdmlMbDFqekNBMFpXWFJMZVJXdFNGNVRPRkdXdm9SZw?oc=5",
+        "summary": "[여기는 논설실] AI가 읽는 ‘탐욕과 공포’의 온도 한국경제 [여기는 논설실] AI가 읽는 ‘탐욕과 공포’의 온도 - 한국경제",
+        "published": "Mon, 07 Sep 2026 11:28:10 GMT",
+        "published_kst": "2026-09-07T20:28:10+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "전선문화(戰線文化), 예술로 다시 만난다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzY2dOSi1na2ZjdVRrbktmODNrSVNvVWM1c2FFc3BiUEhRT19IMHBVbFQ5M3dJa2V4anZMLTAtcGlickJZTE5BenB0ZWdva0p6NVQ5OFppSWxlQdIBVEFVX3lxTFBxT1FFMW5DUTJBSWg3RWlacW5yZjFLcXM0bmNCSGtZMlBRcFlLNWtWbmxpaWszY3MzY2oxeno5UkMzQl8wcktrTngtVUdfYlczZVc0cA?oc=5",
-        "summary": "전선문화(戰線文化), 예술로 다시 만난다 한국경제 전선문화(戰線文化), 예술로 다시 만난다 - 한국경제",
-        "published": "Sun, 21 Sep 2025 21:09:18 GMT",
+        "title": "[심층분석] 유럽 극우의 그림자, 독일 정치 지형 변화와 한국의 대응 - 데일리연합",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tcTlzZi1jQ3VRVzJucFptYV9JRDBjaEcwYTRiNU4zYjhLSFdPeHowMGdubjMzWGZRV0NRNWt0eTM4TXJCSlgxQTZHZk1FTS16SHVsOUstcmw0V1E?oc=5",
+        "summary": "[심층분석] 유럽 극우의 그림자, 독일 정치 지형 변화와 한국의 대응 데일리연합 [심층분석] 유럽 극우의 그림자, 독일 정치 지형 변화와 한국의 대응 - 데일리연합",
+        "published": "Mon, 07 Sep 2026 11:10:03 GMT",
+        "published_kst": "2026-09-07T20:10:03+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "경북도·안동시, 국립 인구정책 연구원 유치 시동 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ub2NlbkxyNXoza1VoaWhLVTNXNzlnVkhTcy14RGdteXhnR29PUm5JNVNlSHVWeXNPVjBBNXpHQjVqdGpKWkF6V2dBSjBCcmlNUnlIcWZaazMwUdIBVEFVX3lxTE9PdWV4c1VBT2JqT0Ezd2k1dC1WOVhpVl83clNuWFBhNHVHQ0FybG1pdTByMDNOUXpxUDBfeW83RVJPSUh1V0kxZWNzd2J3WUtvSUQ3Tg?oc=5",
-        "summary": "경북도·안동시, 국립 인구정책 연구원 유치 시동 한국경제 경북도·안동시, 국립 인구정책 연구원 유치 시동 - 한국경제",
-        "published": "Sun, 21 Sep 2025 21:19:56 GMT",
+        "title": "남편 대신 ETF 계좌 만든 고객…농협은행, 과태료 제재 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeHNHeXFrY1dyODFGTS1waG82eGxSVXRXUE9QcmdXcXlyVmlIcURFcTN2eVdJSW05OEtlNmZPSllPWHFDbzFYSzhQOVd1QUU2Y3NRTjVnb25Edw?oc=5",
+        "summary": "남편 대신 ETF 계좌 만든 고객…농협은행, 과태료 제재 한국경제 남편 대신 ETF 계좌 만든 고객…농협은행, 과태료 제재 - 한국경제",
+        "published": "Mon, 07 Sep 2026 11:07:57 GMT",
+        "published_kst": "2026-09-07T20:07:57+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "여행허가 'ESTA'도 수수료 21달러→40달러 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jU2p4bVQtRzl1akkyTW1OWjlZY2lNUUNSOWI4M1lBUEZ5M3pUTWs5Qk14c29BdExnckpjdHJzMnVGUHZmMEc4WWVHYXE3SUFtZWhHTW5kZ2luUdIBVEFVX3lxTE9yQm5tQTBzR0JXcHJoRTY2TW93YTd1clFtTVhUVWI0cHBzZFZQVWRDVXFzNEx2akFmZmh2YTRrTEowZkZyUjlqNVNFOVFoUUVOb1plSg?oc=5",
-        "summary": "여행허가 'ESTA'도 수수료 21달러→40달러 한국경제 여행허가 'ESTA'도 수수료 21달러→40달러 - 한국경제",
-        "published": "Sun, 21 Sep 2025 16:12:34 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "매일 지각하던 직원이 새벽 운전하다 사고…'산재' 맞나요? - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wcy1mM2dES0ZMUmc0SmM4YWU2clU0bFE4M0F3a0N1X0hYRUI5eWlFbWF6N0IzV2FURHhzckJiamZ0aFV2ajNfT092VjdiMVRMNFRWV29qYS1UUdIBVEFVX3lxTE1WS1NmMzdDcFpORWJGWGNPQmJIWHJBTnhGbE9jT0hfaHNSQ3hCRkNJeVdTZnpmNFU0ZmVRQUs2TnBQRGFGTDN6OWRQWEJMczhuWFdKQQ?oc=5",
-        "summary": "한국경제 매일 지각하던 직원이 새벽 운전하다 사고…'산재' 맞나요?",
-        "published": "Sun, 21 Sep 2025 20:00:01 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "대구시, 한국섬유개발연구원과 ‘AI와 패션의 만남’ 세미나 24일 개최 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uLW1fVkkwQ1d1Uk9XS055OFFPUVQ1cUpBVm14OUVUWmFqMWVGUk4wbUlVWk5xYllLMkkxWFp6V3d1V0J5REhBVk95WHQ2aEJXNTRoMXlSa3NYd9IBVEFVX3lxTE9NeWh2RHM2WFZmRjNVRzdtYUc4QWYxSW9LUFNsSUhrUDJMTXRxVkdBSkx5UHowSkVTMmdTdE9qN0RfWXFkTi1neFZzd2dUakVSeHJBSA?oc=5",
-        "summary": "대구시, 한국섬유개발연구원과 ‘AI와 패션의 만남’ 세미나 24일 개최 한국경제 대구시, 한국섬유개발연구원과 ‘AI와 패션의 만남’ 세미나 24일 개최 - 한국경제",
-        "published": "Sun, 21 Sep 2025 21:14:57 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "뉴욕·상하이 증시, PCE 물가지수·Fed 인사 발언 관심 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVZEVrTGxPbG1aZEZpTTRCX0M2UHUzOUZzVkR5NnVZX1ctOEFuNmZod0d0Y2FtQ2xrVjZpVFlEMll5N3pOWThOZDV3bWlySlNWc1NzMGUyZnBHQdIBVEFVX3lxTFBSSC1jb3Y5MVpSclhYMDcwRWlkRFAzY3hHc0NQVEpnSm1XTUFwd1hfM3FYMVBfUmFZVmpwVnRtXzZJQVBOQTNNODVqYXpsSjhEV1B0LQ?oc=5",
-        "summary": "뉴욕·상하이 증시, PCE 물가지수·Fed 인사 발언 관심 한국경제 뉴욕·상하이 증시, PCE 물가지수·Fed 인사 발언 관심 - 한국경제",
-        "published": "Sun, 21 Sep 2025 08:21:49 GMT",
-        "key_figures": [],
-        "why_matters": "경제·금리 경로에 영향.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "How Russia’s Sanctions Evasion Could Create Lasting Costs - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0E5RFJqaWU5SnpqRXozRUFCREpPdXp0VF9HT3VLYVBWN1ZkMExvTndhcGJDMlA3T29JOWVtanZGeTd4d2FnRkgtN3RLSjh5dDVUUFk2QlBsZEM0U0RKQ0hMdGQxVTE1MXRJcGpXb2c3UmNGYk93YUJkNUpHaFJfZno3VFM4RkVERElVdTlfU2xrbnp6UmRYdllGS0lKMFE?oc=5",
-        "summary": "How Russia’s Sanctions Evasion Could Create Lasting Costs The New York Times How Russia’s Sanctions Evasion Could Create Lasting Costs - The New York Times",
-        "published": "Sun, 21 Sep 2025 21:00:38 GMT",
-        "key_figures": [],
-        "why_matters": "지정학·공급망 리스크.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How Procurement Drives Agility in Global Supply Chains - Procurement Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRmphYWNseDFQVnY4TUh5Z183cGdfaXVGSWZuempBOTRTOGR5cFFYNlppM19WVE1kUGVtRnpQQkYtQ29hLUctRXo5bkxWbDhGV3h6VHJKOFE5NjhnOEpROXpmTElfaVVTLS1QMVpncmlNQnQzNG01QUV4dXNIX29hdGVB?oc=5",
-        "summary": "How Procurement Drives Agility in Global Supply Chains Procurement Magazine How Procurement Drives Agility in Global Supply Chains - Procurement Magazine",
-        "published": "Sun, 21 Sep 2025 08:13:17 GMT",
+        "title": "Milano by Danube brings 500+ Dubai traders together as global supply chain disruptions reshape business - Zawya",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdVhDMGJpQWxvM19CZWRhR191alMtUHdHNUdRaHRxUFNSZVBGODh0QmZOQnpfb2NLNWVvVGRhMFRyb3R3WEhSMjlZRXkxOU9MNGtVOW5vRG9KdkVWbG1KdG1XV3A5MDcya0tNUnUwUy0xeGh0bkgzMlQ1YVhfcGxodnd5VVo5SURiNzFSTmFCTFZyZno1bzQ0UW1XN3Y5Ykp2dWplR1A2eW1LdnZjSmItaFRqUXJ3U1ZPVW85NVBib19mU2FMT3dQdkQzN2lHcl9hNHVtOHkyWExLd3NxQlRfN284eG1nYnpmanVUV2YzTm9SM19kMjF4RE5rdw?oc=5",
+        "summary": "Milano by Danube brings 500+ Dubai traders together as global supply chain disruptions reshape business Zawya Milano by Danube brings 500+ Dubai traders together as global supply chain disruptions reshape business - Zawya",
+        "published": "Mon, 07 Sep 2026 11:08:00 GMT",
+        "published_kst": "2026-09-07T20:08:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals - Center for Climate and Energy Solutions",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUWN6bGpSSHVEb1ZGVGJ4aFRWR2hBNzhuLTJvRWRoc2UxbENod2s4bi1vN0o3NDF6TGJZRFItRU1Ma1ZEZXRLai1vSXlxdTZndlp3SjE3WHVidW1sNHRicVRnX3dtc09jRHpMczgwRTRnUFlWYkI5V0lDb2hJTzVocUdoZXlxdEtsVHhkLXBsVm5PYkh1aGZwLW5jVnJHNE52YmctVkRVbVFjR3k1ZnYta0hJZmxPR0VHRGNrZjZKNHhEUmxqTXIxUEQ1TmEwUjJtN3dkM3BCcVJoQWNNV1Q3aDRXRDdpSG5nN2pFaExrajc5Zw?oc=5",
-        "summary": "Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals Center for Climate and Energy Solutions Assessing the Landscape of Climate Risk and Supply Chain Resilience: A Primer for Corporate Leaders and Climate Risk Professionals - Center for Climate and Energy Solutions",
-        "published": "Fri, 19 Sep 2025 14:33:37 GMT",
-        "key_figures": [],
-        "why_matters": "경제·금리 경로에 영향.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The EU won’t tariff China and India to please Trump. But it is working on a counteroffer. - Atlantic Council",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3pKQWxBSTdqU2YwTXc1LUxCRkhfU0dXZnp0a05wckdLdFB2cXdGalAzeHpfSnY0SVgtZVhEc2ZweFRfV2ZKUDFfY1hMeW1vTXF5MEpEM3NsNmlRVkRaUjg1ZWZyS245VXRiYzBDZGFoWDFZUTZkbFF1UEVqY2tid3VTTUhwNkNzZG1iSnRuNVQxMHUwYUFuRkEwOC1EZDJvV0RrNC0tZFJ3dm9lbWxaR0JSVDBmUTM5VjR4ZEpwMDgtLXpMdV9tcTVhY1o4eGJBRWJYVWhmdlQ?oc=5",
-        "summary": "Atlantic Council The EU won’t tariff China and India to please Trump. But it is working on a counteroffer.",
-        "published": "Fri, 19 Sep 2025 21:35:00 GMT",
-        "key_figures": [],
+        "title": "UBS Sees AI Supply Chain Spillover, Raises Taiwan's 2026 Economic Growth Forecast to 11% - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IQjBjTDlveFp6N2szOVdtaElHQmJLLV9mM0RPVktoeWhZSk5jdlBpbWppb1k1ZEpGTWpLY3lER3gyOE8xNDRIb2xxV0VibHh1eTd4T0JRQmMzWmFkRHl6YUNqMVVQOFVtUE1DWUg3RkdkeWdsdWc?oc=5",
+        "summary": "UBS Sees AI Supply Chain Spillover, Raises Taiwan's 2026 Economic Growth Forecast to 11% finance.biggo.com UBS Sees AI Supply Chain Spillover, Raises Taiwan's 2026 Economic Growth Forecast to 11% - finance.biggo.com",
+        "published": "Mon, 07 Sep 2026 08:26:00 GMT",
+        "published_kst": "2026-09-07T17:26:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026",
+          "11%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "ICC Trade Register: The global benchmark for trade and supply chain finance - International Chamber of Commerce",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXBhZmltZlVUNmRGOHR2QnZ3cG1MRkRHX0pJYXpkajZ1UEd5SUZRQTd2TG1TbFVxZlVjM1U1eGoycDlyMUdCdDIxZXpxbEhuMTBRSkFDaVBRdUQtNXdFbV9jS3FyZzRPQXVOWl9KSzRnNENhMDJQZG84Zm9SV3NsZmFhVU9qMWs?oc=5",
-        "summary": "ICC Trade Register: The global benchmark for trade and supply chain finance International Chamber of Commerce ICC Trade Register: The global benchmark for trade and supply chain finance - International Chamber of Commerce",
-        "published": "Wed, 17 Sep 2025 09:56:15 GMT",
+        "title": "Sphera Franchise Group appoints new Supply Chain Director - The Romania Journal",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0hzNE8ta0h3aEZfV3lCeGh4MlhNS3F2emozekhkZEczc2NpUkpVZk9rTml3eWtMSmVndzBOajJXTlRtWHAxcWhESElkV1Q1eFNaeTBKQ045Uk5Xa1lBd3B6c1ZtS051MWNzS2JsSXI0MW04OV9wOW5zWHgtcndIZFlONk94RC1MeTVhaGhQajhIenFmcVBGd0E5RkVpZ9IBowFBVV95cUxPQ0lFUmdiU2Z4SVJDTXdRM0psRDBTZURCQzdvQjh3Z0hoM3NMdVpjOVF0eHd3M0NhTXYzbXZiSjVPTFNGY2ZQRTBsd2VtTDBNd1lnNy1XUFRhQXk1Y3NXOFd6YkdrOUswLUtUcHVwdFFjWUZfb1ktOXk3UnBBMjNOTHpfTVY4N1VONThocnE3aDR3S2x2RFQzVUxsVllGYUpFVzFZ?oc=5",
+        "summary": "Sphera Franchise Group appoints new Supply Chain Director The Romania Journal Sphera Franchise Group appoints new Supply Chain Director - The Romania Journal",
+        "published": "Mon, 07 Sep 2026 08:09:12 GMT",
+        "published_kst": "2026-09-07T17:09:12+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How supply chains need to adapt to a shifting global landscape - The World Economic Forum",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYVRqQmFFSmVDcC11QUJxR0wzMnIyRGE5U2VlTDJzaWVUbjBtWWxDejBnRlNjNGZvdmVMRC0xdUhnNURfQS1vSVluNm1wZzVUUzFzQ3RsRlFNdTFYV0ZpLWphSEV0WVduV1hoZXRITEVscVpnbnlzMUdkM3ZLVW9GdXcyRnZ6clBMb295cG9MQ3Y5S2VuTzNKd2xvTVFOMXNlRWdzcS1n?oc=5",
-        "summary": "How supply chains need to adapt to a shifting global landscape The World Economic Forum How supply chains need to adapt to a shifting global landscape - The World Economic Forum",
-        "published": "Tue, 24 Jun 2025 07:00:00 GMT",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing - about Amazon",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW5ibmx4NmRMUllkYVFhdzI3aTBZRC12dkMzSkxEUHczWU11a002THZFaE51dmMzaHd6X2JCOG8tUXEtMEVzd0F1NVFUd01aTGRsLVJUbkkyMUI5dkhzVUNyYnM5dThUODA5QXRFVVFwTjhmaE5ITjI4Wl84bl9ocTFxMDBxdDBmNTQwVjlTRQ?oc=5",
-        "summary": "Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing about Amazon Independent sellers move 5 billion products annually through Amazon’s network of global logistics, domestic freight, and bulk warehousing - about Amazon",
-        "published": "Wed, 17 Sep 2025 14:39:03 GMT",
-        "key_figures": [],
-        "why_matters": "지정학·공급망 리스크.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Key US Inflation Metric to Ease as Focus Shifts to Jobs Market Bloomberg.com Key US Inflation Metric to Ease as Focus Shifts to Jobs Market - Bloomberg.com / 경북도 초격차 산업육성 100억 펀드 조성 한국경제 경북도 초격차 산업육성 100억 펀드 조성 - 한국경제 / How Russia’s Sanctions Evasion Could Create Lasting Costs The New York Times How Russia’s Sanctions Evasion Could Create Lasting Costs - The New York Times",
+  "wrap_summary": "The luxury carmaker is targeting £1.7 billion ($2.3 billion) in savings as it faces Chinese competition, a cyberattack and U.S. Jaguar Land Rover to cut 4,000 jobs over two years in major cost-saving drive / [여기는 논설실] AI가 읽는 ‘탐욕과 공포’의 온도 한국경제 [여기는 논설실] AI가 읽는 ‘탐욕과 공포’의 온도 - 한국경제 / Milano by Danube brings 500+ Dubai traders together as global supply chain disruptions reshape business Zawya Milano by Danube brings 500+ Dubai traders together as global supply chain disruptions reshape business - Zawya",
   "invest_summary": ""
 }
