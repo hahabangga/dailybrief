@@ -1,71 +1,73 @@
 {
   "date": "2026-09-08",
-  "generated_at_utc": "2026-09-07T18:07:59Z",
-  "cutoff_kst": "2026-09-08T03:07:00+09:00",
+  "generated_at_utc": "2026-09-07T23:48:59Z",
+  "cutoff_kst": "2026-09-08T08:48:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Trump White House - The Northern Virginia Daily",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWXdHRlUzYWM5aGlad1ZtaGJ1ejByUEM2QkY1dkIxTERsdVdHc2tQeHBVTGNmYzhCc0FZbUNLOGpQR19JMWF5ZV9heVNnYmJYZk1YVXBmVkJ5ZFZ5VlFjRm45WGlORUM1UFhaZFNpcGtDcHFDd2FPSk41aE1KMmNySDU5bmxLaXdQRFlRYWw2TE5FcTJPaERjb0ZUaWpXRy1NQ0w0a2JiRE95MU9BcVhVSlBlSUNlUQ?oc=5",
-        "summary": "Trump White House The Northern Virginia Daily Trump White House - The Northern Virginia Daily",
-        "published": "Mon, 07 Sep 2026 17:26:08 GMT",
-        "published_kst": "2026-09-08T02:26:08+09:00",
+        "title": "Emergency crew rescues worker injured during White House construction - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMF9RaFBSbTc2Z0NtMm1fVU9Fa3NlOVRMRWJYN1YxY2FtQy1vVmF5WktWMDBMUVdvNWtqMVEzM2p0YXJRb04tTGZITkM5YmlsZmNhWkpTSXVjcHdNZ201UHlQd3p1VHFVc00tbVhzQ0NOVmQ2cmo1R0NKd0cyME5mbVVSYnlzMEVmYmVCakNsWTlBa2UtbU9VdWVLa1ZJWk9KbFhhOVo1UWp2MURuSHZVSzBneXV6bE5RYkF3b2lR?oc=5",
+        "summary": "Emergency crew rescues worker injured during White House construction The Washington Post Emergency crew rescues worker injured during White House construction - The Washington Post",
+        "published": "Mon, 07 Sep 2026 23:41:02 GMT",
+        "published_kst": "2026-09-08T08:41:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Far-right AfD landslide in German state piles pressure on federal government",
-        "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-        "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts. Far-right AfD landslide in German state piles pressure on federal government",
-        "published": "Mon, 07 Sep 2026 17:04:21 GMT",
-        "published_kst": "2026-09-08T02:04:21+09:00",
+        "title": "Here are the 3 big things we're watching in this holiday-shortened trading week",
+        "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
+        "summary": "The week will be dominated by inflation data. Plus, Apple's new CEO has his first big test.",
+        "published": "Mon, 07 Sep 2026 23:31:25 GMT",
+        "published_kst": "2026-09-08T08:31:25+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Sen. Mark Kelly, Rep. Ro Khanna plan to ask families about White House bid - MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2tBYm43UWFuR2VPTk5RUjhzWVE5cm5XQWlGdnp3M1dfR2JRbHdyTXZ0YWUzd1BqdEJLRGJDck84RnZwSEZheTBfc19TSGc4MWJ1eU1oN0Z3VE5mWURoYVB4Zl83NjhhZ0FPRlJMdjdoVGtIWHludkgzQVdUM1ZRUEdkQVdWZDd1YzcyMDRvV2FGYTN6eklfUlM1M0E?oc=5",
-        "summary": "Ro Khanna plan to ask families about White House bid MS NOW Sen.",
-        "published": "Mon, 07 Sep 2026 16:56:52 GMT",
-        "published_kst": "2026-09-08T01:56:52+09:00",
+        "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+        "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+        "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say. China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+        "published": "Mon, 07 Sep 2026 23:23:10 GMT",
+        "published_kst": "2026-09-08T08:23:10+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$54"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
+        "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
+        "summary": "this month has now elevated the debate over whether China's exports have cost people in other countries their jobs. CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
+        "published": "Mon, 07 Sep 2026 23:00:01 GMT",
+        "published_kst": "2026-09-08T08:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House proposes grants to help parents stay home to care for their children - KMOV",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSy03TFJhYVNwcEY5cHNEVGhDTFJzOEFtck9lNS1UTkxJak16ZVpNbUw2WGpHcGtacmlKdFJ6RVV0a0ZKNTZEc0pXZlpqRjFNNGtjRkZSWDBiaHlTLWJNQnhuNHVDTjM2Qzl1NGRjampVOENOSW9DTDFsMHEycGRQN25vazdrS3d1cS1VQ0l0Y2MtdDBmdTFtTWdoTndUWFVwTkJ4S2hIdEVZV0thRUNr0gHDAUFVX3lxTFBCS09RWVlBZlBGSUoyd1lHb3A3c0thRnBZajlSUlpzYWZjcDRnZnpJR3k1ZU92YjZlam9qcW5EYXdtMGdwd0VqXzMzYmNyM3dlVXJyMnBPNnd2Y2NtTHhSQ1ZrXzh2TUpuMTFKRTlSMGc0M2U5QkxBcWtQQjFBYnd1UTBlRzhacnhQTjNDM1JvTFNpX2FubjlwZ1VlRWVmdUNkV041aGxFWDVhX3pFZXhTVGFGdnRSWXM0eU01NDZuS2ZIbw?oc=5",
+        "summary": "White House proposes grants to help parents stay home to care for their children KMOV White House proposes grants to help parents stay home to care for their children - KMOV",
+        "published": "Mon, 07 Sep 2026 22:27:00 GMT",
+        "published_kst": "2026-09-08T07:27:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "UN labour agency to cut 73 jobs as US withholds funding - Geneva Solutions",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWp6YUJHWUhQX1FVakhxUC04cEtHWmtZYmxWWFd6OE44cUVMZjdPSFFQNUFRaGlMSzNvQmkwTVZRQXBDaGwxX2U0eHhlX2dwRnU2REJPMWJZN1c5R2JiWVhlUFQtbjFlbk80NTNsVUx5cWlIR1oxSjk3bXp2Y0h5U2lIeDR2VHlkRDAzenpCN1YtZmVHSnVlT3YwSEE?oc=5",
-        "summary": "UN labour agency to cut 73 jobs as US withholds funding Geneva Solutions UN labour agency to cut 73 jobs as US withholds funding - Geneva Solutions",
-        "published": "Mon, 07 Sep 2026 16:53:23 GMT",
-        "published_kst": "2026-09-08T01:53:23+09:00",
+        "title": "Worker injured during White House scaffold removal - WUSA9",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0R4T1U0TV9Xd1JtT3R2NlBYWlVoWGJ0QWdUejZzcThzZW8wbTE3cVdtNm1NeVpVbVBLOU01LTdUeW1IVGdBZUpJcTFmNV9CYWJUN0gtSXpuOVlTd3hhT3I3Y3o3M0ZEYXhpQTBWaDJ4TXFhYzZHRjJ1V2hCdnR4YTRRZjZyRWlmVU1iMFhlZTVGSC1MazEwMGRnbnh5bTFMa0VXeTdZRGZsbXFaSkJQbUlTTEFGdGRpcEotbk81ZUc5MUJDa1dDeUtOR3E?oc=5",
+        "summary": "Worker injured during White House scaffold removal WUSA9 Worker injured during White House scaffold removal - WUSA9",
+        "published": "Mon, 07 Sep 2026 22:00:00 GMT",
+        "published_kst": "2026-09-08T07:00:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
-        "url": "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
-        "summary": "Renewed attacks between the adversaries in the Iran war pushed oil prices up on Monday. Oil prices rise to 6-week high after Iran and U.S.",
-        "published": "Mon, 07 Sep 2026 16:44:36 GMT",
-        "published_kst": "2026-09-08T01:44:36+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "'Ah! Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
-        "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
-        "summary": "After months of fruitlessly searching for a job, Tim Millard decided to turn his calamity into comedy. Rejected, yet again': How this 45-year-old turned his 'demoralizing' job search into a one-man show",
-        "published": "Mon, 07 Sep 2026 15:55:48 GMT",
-        "published_kst": "2026-09-08T00:55:48+09:00",
-        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,33 +75,35 @@
     ],
     "kr": [
       {
-        "title": "무신사, 코스피 상장예비심사 신청…\"내년 상반기 목표\" - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5M0xDNFh0RVRGYlcyMkhEc3d2eFVDMmxfMjlscFZsU2lCczE1SW5zeXU2WXoxQ1BSVkc4QmRMOWVHVlgyTG5iMGJta1V1MVU?oc=5",
-        "summary": "무신사, 코스피 상장예비심사 신청…\"내년 상반기 목표\" v.daum.net 무신사, 코스피 상장예비심사 신청…\"내년 상반기 목표\" - v.daum.net",
-        "published": "Mon, 07 Sep 2026 17:38:52 GMT",
-        "published_kst": "2026-09-08T02:38:52+09:00",
+        "title": "2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLejZqZ2drUTREYlQ4ZmdLdG9QbzFGZmZiSV9XRFJHRk9LYWRDTGhUZ1lGaUJsdDRhZUR2a2NQcF9PVml4U1NMNHloWnR5cGM?oc=5",
+        "summary": "2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 v.daum.net 2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 - v.daum.net",
+        "published": "Mon, 07 Sep 2026 23:40:58 GMT",
+        "published_kst": "2026-09-08T08:40:58+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "0.6%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "엔화 급등, 반년 만의 최고…헤지펀드 줄줄이 매도 청산 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yVUR3OG9pQkFydEo3aEx5X2FMZGxvSG5FNVJnN3FKZWI2N2l1N3VpQ1c0RmJQaU1iZklfT2RBTl8tdkVtSkdGYU9aeV9tRTNFNUw1Q3UwMVdWQQ?oc=5",
+        "summary": "엔화 급등, 반년 만의 최고…헤지펀드 줄줄이 매도 청산 한국경제 엔화 급등, 반년 만의 최고…헤지펀드 줄줄이 매도 청산 - 한국경제",
+        "published": "Mon, 07 Sep 2026 23:38:04 GMT",
+        "published_kst": "2026-09-08T08:38:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"아름답고 소설적\"…베니스 달군 이창동 '가능한 사랑' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0elVvNG9jd241cXpzSkxnbzUwRzlnQnBfSFJuM0l2RW40Ull2SGxnM3pub1RETWJ0TDg0UzA1eW13aDJNVS16NmVpZXZKak53cnU3MlhVbzJ5Zw?oc=5",
-        "summary": "\"아름답고 소설적\"…베니스 달군 이창동 '가능한 사랑' 한국경제 \"아름답고 소설적\"…베니스 달군 이창동 '가능한 사랑' - 한국경제",
-        "published": "Mon, 07 Sep 2026 16:28:00 GMT",
-        "published_kst": "2026-09-08T01:28:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"한국 경제 '빛 좋은 개살구'\"…반도체 호황 뒤 숨은 위험은 - 뉴시스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DM25DZlNCTE5LOWE4MDJkX1c3ZHJjejRGcERmbUhnNnVlR0lBYkI2STlDUHlyOFpSVnlraHFrR0tOMGotTlZWWENPNmlfSHZyaUt2aUpvZllmQjlQUUp6YdIBeEFVX3lxTE8xaGFEVzAxN08xbXktRTJ2Zko1ajNqUnJpb2dYbVg4U3NvcV9XMDh6b1drMGl5LTM3V3luN01JNHdQZEhVMFRmOU42VW51bFRfMEotODNoanNQempaVWk3SllwZ09fV1FiVkNGU3o1akM2dU53SV9Dbw?oc=5",
-        "summary": "\"한국 경제 '빛 좋은 개살구'\"…반도체 호황 뒤 숨은 위험은 뉴시스 \"한국 경제 '빛 좋은 개살구'\"…반도체 호황 뒤 숨은 위험은 - 뉴시스",
-        "published": "Mon, 07 Sep 2026 16:05:00 GMT",
-        "published_kst": "2026-09-08T01:05:00+09:00",
+        "title": "中 경쟁사로 반도체 기밀 넘겼나…벨기에 연구원 체포 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01a3NwWnduc0dCWTc5OXVvVG93Ym44WmRYdWZVdzBBOFZkT0FSZDU4OFp3clNlRV9CQWV1TUpDUkxjNmFLT0FCblZwVnBQTnh6MEtPblp5RHkxQQ?oc=5",
+        "summary": "中 경쟁사로 반도체 기밀 넘겼나…벨기에 연구원 체포 한국경제 中 경쟁사로 반도체 기밀 넘겼나…벨기에 연구원 체포 - 한국경제",
+        "published": "Mon, 07 Sep 2026 23:37:09 GMT",
+        "published_kst": "2026-09-08T08:37:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -107,6 +111,17 @@
       }
     ],
     "world": [
+      {
+        "title": "Rising diesel prices put strain on truck drivers, supply chain - FOX 4 News Dallas-Fort Worth",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnc2UjhnRk5vSjNxZ3lmdXQ4NXVZYkZlMXEzTWYxSnV0OUxXeHdtbG5lV0ZCTVdMQllUYk5oQTdfOEF0Ml9lalFfNGU4YkN1M3dLRXlOYy11MVh5bno2dEhtWWhJbnpndmJEckZhV0IyR05iZjhGWG9tZk51X0pGME9VNWtMREczcmNiRDgwRWxtdw?oc=5",
+        "summary": "Rising diesel prices put strain on truck drivers, supply chain FOX 4 News Dallas-Fort Worth Rising diesel prices put strain on truck drivers, supply chain - FOX 4 News Dallas-Fort Worth",
+        "published": "Mon, 07 Sep 2026 19:53:07 GMT",
+        "published_kst": "2026-09-08T04:53:07+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain - Crude Oil Prices Today | OilPrice.com",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjFKa2RITk8xSjAwN1JYS29pNEtmQ0s1TEFDUUE5SWhOcEl2OGYwYTRBR3ItSVNQLUVWc3E5UGV4cW9fdGZlRjR1Ql9uZ1p6Y3NNS3A0elJ2WmRQSHEyQVRrVkdTczllRkNXdUdKLTZRb3RaTmNXcnQ5RS1MSFIydjgwb1p2c3E2Uk9RSVAxY0lnbGJwRlRpeTNtNlhjeDJBR0JmdG9fWFlQbU5JRUJvZ21ROWpZQ3PSAbwBQVVfeXFMUGJuWk5yQkh0VVBzZEhZN1RZdXNKUmFTRzJqMVppMllRZUNlbkhsVXBUUGNXVWRiZzFXdzRJOGZqTDFzVlJ1NHFlM3RvaW45aUdpa0VHYm9ObXhMUlFRczZHa1VkdWxUazUzV3lDa1BKT0diT240TU45S3hEZ0wzNHdGX1MtcDBEWlFpb0poMzlnWnRwbUt4enU3THF3NWlHcm9ZcTBpYm5MV0s5WXdKQzI5X1NuTXBQajN4QmE?oc=5",
@@ -121,22 +136,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How is Checkpoint Systems Unlocking Supply Chain Efficiency? - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSWE3YjVGTm5ORS1JeXJfOTRsZEQtZVYzVHY0SWFNWE5pbU5zUWM5Y1FJWlNoU1c0WnB5dy1zcHZOZDEtR1pwVm4tbEMyNkJ0LWtqS2ktYldETFprd1JXcGhQd3F5T0ZnZGRPekRqV2FPSE9INFkzNEs1SjBNamZBWnh6WkRtV2dGa19iR05RTzQwSWxqcUJDMEQ0WQ?oc=5",
-        "summary": "Supply Chain Digital How is Checkpoint Systems Unlocking Supply Chain Efficiency? - Supply Chain Digital",
-        "published": "Mon, 07 Sep 2026 15:59:03 GMT",
-        "published_kst": "2026-09-08T00:59:03+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Sphera Franchise Group appoints Anca Popa as Supply Chain Director - business-review.eu",
+        "title": "Sphera Franchise Group appoints Anca Popa as Supply Chain Director - Business Review",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFNCSEEtRUJyNFZLZkVQNGUwXzd0b1FocU9UVHZGbU51LWJ6Z3hOQW92dmRvRXFXdkRzU2tqc1VqSFY4cVZ4VVVlb0Q1LU1iN2pUZjM0WXlFa0RHdkVEUUhtejROTFdSc0pvU0hXUlhRdU11eEhkcmhKTWpxcHk1b0ZINWJsYXBrajlXTXFta2hMVjlPaGVCMmw5ZU4wNmpzZ01ld1NkOXNpeVc2b2MyQWloYXpMdTZodWctN2hn?oc=5",
-        "summary": "Sphera Franchise Group appoints Anca Popa as Supply Chain Director business-review.eu Sphera Franchise Group appoints Anca Popa as Supply Chain Director - business-review.eu",
-        "published": "Mon, 07 Sep 2026 15:48:20 GMT",
-        "published_kst": "2026-09-08T00:48:20+09:00",
+        "summary": "Sphera Franchise Group appoints Anca Popa as Supply Chain Director Business Review Sphera Franchise Group appoints Anca Popa as Supply Chain Director - Business Review",
+        "published": "Mon, 07 Sep 2026 16:00:32 GMT",
+        "published_kst": "2026-09-08T01:00:32+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Trump White House The Northern Virginia Daily Trump White House - The Northern Virginia Daily / 무신사, 코스피 상장예비심사 신청…\"내년 상반기 목표\" v.daum.net 무신사, 코스피 상장예비심사 신청…\"내년 상반기 목표\" - v.daum.net / Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain Crude Oil Prices Today | OilPrice.com Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain - Crude Oil Prices Today | OilPrice.com",
+  "wrap_summary": "Emergency crew rescues worker injured during White House construction The Washington Post Emergency crew rescues worker injured during White House construction - The Washington Post / 2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 v.daum.net 2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 - v.daum.net / Rising diesel prices put strain on truck drivers, supply chain FOX 4 News Dallas-Fort Worth Rising diesel prices put strain on truck drivers, supply chain - FOX 4 News Dallas-Fort Worth",
   "invest_summary": ""
 }
