@@ -1,9 +1,13 @@
-name: Fetch CNN listening (06:30 & 12:30 KST, hardened)
+name: Fetch English listening (NPR Up First → News Now)
 
 on:
   schedule:
-    - cron: "30 21 * * *"  # 06:30 KST
-    - cron: "30 3 * * *"   # 12:30 KST
+    # KST 06:30
+    - cron: "30 21 * * *"
+
+    # KST 12:30
+    - cron: "30 3 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -11,144 +15,814 @@ permissions:
 
 jobs:
   fetch-listening:
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
 
-      - uses: actions/setup-python@v5
-        with: { python-version: '3.11' }
+      # ============================================================
+      # 저장소 가져오기
+      # ============================================================
 
-      - name: Install deps
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+
+      # ============================================================
+      # Python 설치
+      # ============================================================
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+
+      # ============================================================
+      # 필요한 라이브러리
+      # ============================================================
+
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install feedparser beautifulsoup4 lxml yake
 
-      - name: Build data/listening.json (CNN 5 Things → NPR Up First fallback)
+
+      # ============================================================
+      # NPR 리스닝 데이터 생성
+      # ============================================================
+
+      - name: Build data/listening.json
         run: |
+
           python - << 'PY'
-          import os, re, json, datetime
+
+          import os
+          import re
+          import json
+          import datetime
+
           import feedparser
-          from bs4 import BeautifulSoup
-          from zoneinfo import ZoneInfo
           import yake
 
+          from bs4 import BeautifulSoup
+          from zoneinfo import ZoneInfo
+
+
+          # ========================================================
+          # 시간
+          # ========================================================
+
           KST = ZoneInfo("Asia/Seoul")
+
+
+          # ========================================================
+          # 소스
+          #
+          # 1순위 : NPR Up First
+          # 2순위 : NPR News Now
+          # ========================================================
+
           SOURCES = [
-            ("CNN 5 Things", "https://rss.art19.com/cnn-5-things"),
-            ("NPR Up First", "https://feeds.npr.org/510318/podcast.xml"),
+
+              (
+                  "NPR Up First",
+                  "https://feeds.npr.org/510318/podcast.xml"
+              ),
+
+              (
+                  "NPR News Now",
+                  "https://feeds.npr.org/500005/podcast.xml"
+              ),
+
           ]
 
-          def clean_html(txt):
-            if not txt: return ''
-            soup = BeautifulSoup(txt, 'html.parser')
-            t = soup.get_text(' ', strip=True)
-            return re.sub(r'\s+', ' ', t).strip()
+
+          # ========================================================
+          # HTML 제거
+          # ========================================================
+
+          def clean_html(text):
+
+              if not text:
+                  return ""
+
+              soup = BeautifulSoup(
+                  text,
+                  "html.parser"
+              )
+
+              cleaned = soup.get_text(
+                  " ",
+                  strip=True
+              )
+
+              cleaned = re.sub(
+                  r"\s+",
+                  " ",
+                  cleaned
+              )
+
+              return cleaned.strip()
+
+
+          # ========================================================
+          # 문장 분리
+          # ========================================================
 
           def sentence_split(text):
-            if not text: return []
-            s = re.split(r'(?<=[\.\?\!])\s+', text)
-            out = []
-            for x in s:
-              x = x.strip()
-              if len(x.split()) >= 5 and len(x) <= 220:
-                out.append(x)
-            return out
 
-          def top_keywords(text, topk=6):
-            try:
-              ex = yake.KeywordExtractor(lan="en", n=1, top=topk)
-              kws = ex.extract_keywords(text)
-              cand = [k for k,_ in kws if re.match(r"^[A-Za-z][A-Za-z\-']+$", k)]
-              seen=set(); out=[]
-              stop = set('the a an to for of in on at by and or with from into about over after before under between among as is are be was were has have had will would can could should may might do does did not no'.split())
-              for w in cand:
-                lw=w.lower()
-                if lw in seen or lw in stop: continue
-                seen.add(lw); out.append(w)
-                if len(out)>=topk: break
-              return out
-            except Exception:
-              return []
+              if not text:
+                  return []
 
-          def pick_first_with_audio(feed_url):
-            d = feedparser.parse(feed_url)
-            for e in d.entries:
-              # mp3 찾기
-              audio_url = ""
-              if getattr(e, 'enclosures', None):
-                for enc in e.enclosures:
-                  u = enc.get('href') or enc.get('url') or ''
-                  if u.lower().endswith('.mp3'):
-                    audio_url = u; break
-              # 대체: media_content
-              if not audio_url and getattr(e, 'media_content', None):
-                for mc in e.media_content:
-                  u = mc.get('url','')
-                  if u.lower().endswith('.mp3'): audio_url=u; break
-              # 설명 후보 모으기
-              descs = []
-              for key in ('summary','subtitle','itunes_summary','description'):
-                v = getattr(e, key, '') or ''
-                if v: descs.append(v)
-              # content:encoded
-              if getattr(e, 'content', None):
-                for c in e.content:
-                  if 'value' in c and c['value']:
-                    descs.append(c['value'])
-              text = clean_html(' '.join(descs))
-              title = clean_html(getattr(e,'title','(no title)'))
-              link  = getattr(e,'link','')
-              # 발행시각
-              pub_iso = None
-              tm = getattr(e,'published_parsed',None) or getattr(e,'updated_parsed',None)
-              if tm:
-                pub_utc = datetime.datetime(*tm[:6], tzinfo=datetime.timezone.utc)
-                pub_iso = pub_utc.isoformat().replace('+00:00','Z')
+              parts = re.split(
+                  r"(?<=[.!?])\s+",
+                  text
+              )
 
-              # 문장 뽑기(없으면 title+desc)
-              sents = sentence_split(text)
-              if len(sents) < 8:
-                sents = sentence_split(f"{title}. {text}")
-              sents = sents[:16]
+              result = []
 
-              if audio_url and sents:
-                return {
-                  "episode_title": title, "source_link": link, "audio_url": audio_url,
-                  "published_utc": pub_iso, "script_en": sents
-                }
-            return None
+              seen = set()
 
-          payload = None; src_name=None
-          for name, url in SOURCES:
-            item = pick_first_with_audio(url)
-            if item:
-              src_name = name; payload = item; break
+              for sentence in parts:
+
+                  sentence = sentence.strip()
+
+                  if not sentence:
+                      continue
+
+                  # 너무 짧은 문장 제외
+                  if len(sentence.split()) < 4:
+                      continue
+
+                  # 지나치게 긴 문장 제외
+                  if len(sentence) > 350:
+                      continue
+
+                  key = sentence.lower()
+
+                  if key in seen:
+                      continue
+
+                  seen.add(key)
+
+                  result.append(sentence)
+
+              return result
+
+
+          # ========================================================
+          # RSS enclosure에서 오디오 찾기
+          #
+          # 기존 문제:
+          #
+          # URL이 반드시 ".mp3"로 끝나야만
+          # 오디오라고 판단했음.
+          #
+          # 현재 팟캐스트 URL은
+          # .mp3 뒤에 ?query 등이 붙는 경우가 많음.
+          #
+          # 이번에는 MIME type까지 같이 검사.
+          # ========================================================
+
+          def find_audio(entry):
+
+              # ----------------------------------------------------
+              # 1. enclosures
+              # ----------------------------------------------------
+
+              enclosures = getattr(
+                  entry,
+                  "enclosures",
+                  []
+              ) or []
+
+              for enc in enclosures:
+
+                  url = (
+                      enc.get("href")
+                      or enc.get("url")
+                      or ""
+                  )
+
+                  media_type = (
+                      enc.get("type")
+                      or ""
+                  ).lower()
+
+                  clean_url = (
+                      url
+                      .split("?")[0]
+                      .lower()
+                  )
+
+                  if (
+                      url
+                      and (
+                          "audio" in media_type
+                          or clean_url.endswith(".mp3")
+                          or clean_url.endswith(".m4a")
+                          or clean_url.endswith(".aac")
+                      )
+                  ):
+                      return url
+
+
+              # ----------------------------------------------------
+              # 2. entry.links fallback
+              # ----------------------------------------------------
+
+              links = getattr(
+                  entry,
+                  "links",
+                  []
+              ) or []
+
+              for link in links:
+
+                  url = (
+                      link.get("href")
+                      or ""
+                  )
+
+                  rel = (
+                      link.get("rel")
+                      or ""
+                  ).lower()
+
+                  media_type = (
+                      link.get("type")
+                      or ""
+                  ).lower()
+
+                  clean_url = (
+                      url
+                      .split("?")[0]
+                      .lower()
+                  )
+
+                  if (
+                      url
+                      and (
+                          rel == "enclosure"
+                          or "audio" in media_type
+                          or clean_url.endswith(".mp3")
+                      )
+                  ):
+                      return url
+
+              return ""
+
+
+          # ========================================================
+          # 설명문 수집
+          # ========================================================
+
+          def get_description(entry):
+
+              pieces = []
+
+              fields = [
+                  "summary",
+                  "subtitle",
+                  "itunes_summary",
+                  "description",
+              ]
+
+              for field in fields:
+
+                  value = getattr(
+                      entry,
+                      field,
+                      ""
+                  ) or ""
+
+                  if value:
+                      pieces.append(value)
+
+
+              # content:encoded 등
+              content = getattr(
+                  entry,
+                  "content",
+                  []
+              ) or []
+
+              for item in content:
+
+                  value = item.get(
+                      "value",
+                      ""
+                  )
+
+                  if value:
+                      pieces.append(value)
+
+
+              text = clean_html(
+                  " ".join(pieces)
+              )
+
+              return text
+
+
+          # ========================================================
+          # 발행 시간
+          # ========================================================
+
+          def get_published(entry):
+
+              tm = (
+                  getattr(
+                      entry,
+                      "published_parsed",
+                      None
+                  )
+                  or getattr(
+                      entry,
+                      "updated_parsed",
+                      None
+                  )
+              )
+
+              if not tm:
+                  return None
+
+              dt = datetime.datetime(
+                  *tm[:6],
+                  tzinfo=datetime.timezone.utc
+              )
+
+              return (
+                  dt
+                  .isoformat()
+                  .replace(
+                      "+00:00",
+                      "Z"
+                  )
+              )
+
+
+          # ========================================================
+          # 최신 정상 에피소드 찾기
+          # ========================================================
+
+          def find_episode(feed_url):
+
+              feed = feedparser.parse(
+                  feed_url
+              )
+
+              if getattr(
+                  feed,
+                  "bozo",
+                  False
+              ):
+
+                  print(
+                      "RSS warning:",
+                      feed_url,
+                      getattr(
+                          feed,
+                          "bozo_exception",
+                          ""
+                      )
+                  )
+
+
+              entries = getattr(
+                  feed,
+                  "entries",
+                  []
+              )
+
+              print(
+                  "Feed:",
+                  feed_url,
+                  "entries:",
+                  len(entries)
+              )
+
+
+              # 최신 20개까지만 검사
+              for entry in entries[:20]:
+
+                  title = clean_html(
+                      getattr(
+                          entry,
+                          "title",
+                          ""
+                      )
+                  )
+
+                  if not title:
+                      continue
+
+
+                  audio_url = find_audio(
+                      entry
+                  )
+
+                  if not audio_url:
+                      print(
+                          "Skip - no audio:",
+                          title
+                      )
+
+                      continue
+
+
+                  description = (
+                      get_description(
+                          entry
+                      )
+                  )
+
+
+                  # 제목도 학습 문장 후보에 포함
+                  combined = (
+                      title
+                      + ". "
+                      + description
+                  )
+
+
+                  sentences = (
+                      sentence_split(
+                          combined
+                      )
+                  )
+
+
+                  # 최소 2문장은 있어야 사용
+                  if len(sentences) < 2:
+
+                      print(
+                          "Skip - too few sentences:",
+                          title,
+                          len(sentences)
+                      )
+
+                      continue
+
+
+                  # 최대 16문장
+                  sentences = (
+                      sentences[:16]
+                  )
+
+
+                  source_link = getattr(
+                      entry,
+                      "link",
+                      ""
+                  ) or ""
+
+
+                  published = (
+                      get_published(
+                          entry
+                      )
+                  )
+
+
+                  return {
+
+                      "episode_title":
+                          title,
+
+                      "source_link":
+                          source_link,
+
+                      "audio_url":
+                          audio_url,
+
+                      "published_utc":
+                          published,
+
+                      "script_en":
+                          sentences,
+
+                  }
+
+
+              return None
+
+
+          # ========================================================
+          # 핵심단어
+          # ========================================================
+
+          def extract_keywords(
+              text,
+              topk=8
+          ):
+
+              try:
+
+                  extractor = (
+                      yake.KeywordExtractor(
+                          lan="en",
+                          n=1,
+                          top=20
+                      )
+                  )
+
+                  raw = (
+                      extractor
+                      .extract_keywords(
+                          text
+                      )
+                  )
+
+                  stop_words = set(
+                      """
+                      the a an to for of in on at
+                      by and or with from into about
+                      over after before under between
+                      among as is are be was were
+                      has have had will would can
+                      could should may might do
+                      does did not no this that
+                      these those it its
+                      """.split()
+                  )
+
+
+                  result = []
+
+                  seen = set()
+
+
+                  for word, _ in raw:
+
+                      word = word.strip()
+
+                      lower = word.lower()
+
+
+                      # 영어 단어만
+                      if not re.match(
+                          r"^[A-Za-z][A-Za-z'-]+$",
+                          word
+                      ):
+                          continue
+
+
+                      if lower in stop_words:
+                          continue
+
+
+                      if lower in seen:
+                          continue
+
+
+                      seen.add(lower)
+
+                      result.append(word)
+
+
+                      if len(result) >= topk:
+                          break
+
+
+                  return result
+
+
+              except Exception as e:
+
+                  print(
+                      "Keyword error:",
+                      e
+                  )
+
+                  return []
+
+
+          # ========================================================
+          # 소스 순차 시도
+          # ========================================================
+
+          payload = None
+
+          source_name = None
+
+
+          for name, feed_url in SOURCES:
+
+              print(
+                  "Trying source:",
+                  name
+              )
+
+
+              try:
+
+                  episode = (
+                      find_episode(
+                          feed_url
+                      )
+                  )
+
+
+                  if episode:
+
+                      payload = episode
+
+                      source_name = name
+
+                      break
+
+
+              except Exception as e:
+
+                  print(
+                      "Source failed:",
+                      name,
+                      e
+                  )
+
+
+          # ========================================================
+          # 둘 다 실패하면 Action 자체를 실패 처리
+          # ========================================================
 
           if not payload:
-            raise SystemExit("No playable episode with sentences found.")
 
-          keywords = top_keywords(' '.join(payload["script_en"])) if payload["script_en"] else []
-          out = {
-            "date": datetime.datetime.now(KST).date().isoformat(),
-            "source": src_name,
-            **payload,
-            "keywords_en": keywords
+              raise RuntimeError(
+                  "No usable NPR listening episode found."
+              )
+
+
+          # ========================================================
+          # 핵심 단어
+          # ========================================================
+
+          full_text = " ".join(
+              payload[
+                  "script_en"
+              ]
+          )
+
+
+          keywords = extract_keywords(
+              full_text
+          )
+
+
+          # ========================================================
+          # JSON
+          # ========================================================
+
+          output = {
+
+              "date":
+                  datetime.datetime
+                  .now(KST)
+                  .date()
+                  .isoformat(),
+
+              "source":
+                  source_name,
+
+              **payload,
+
+              "keywords_en":
+                  keywords,
+
           }
 
-          os.makedirs("data", exist_ok=True)
-          with open("data/listening.json","w",encoding="utf-8") as f:
-            json.dump(out, f, ensure_ascii=False, indent=2)
 
-          print("OK:", out["source"], "→", out["episode_title"])
-          print("audio_url:", out["audio_url"])
-          print("sentences:", len(out["script_en"]))
+          # ========================================================
+          # 최종 검증
+          # ========================================================
+
+          if not output[
+              "audio_url"
+          ]:
+
+              raise RuntimeError(
+                  "Audio URL is empty."
+              )
+
+
+          if not output[
+              "script_en"
+          ]:
+
+              raise RuntimeError(
+                  "Listening script is empty."
+              )
+
+
+          # ========================================================
+          # 파일 저장
+          # ========================================================
+
+          os.makedirs(
+              "data",
+              exist_ok=True
+          )
+
+
+          with open(
+              "data/listening.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # ========================================================
+          # 로그
+          # ========================================================
+
+          print(
+              "SUCCESS"
+          )
+
+          print(
+              "Source:",
+              output["source"]
+          )
+
+          print(
+              "Title:",
+              output[
+                  "episode_title"
+              ]
+          )
+
+          print(
+              "Published:",
+              output[
+                  "published_utc"
+              ]
+          )
+
+          print(
+              "Audio:",
+              output[
+                  "audio_url"
+              ]
+          )
+
+          print(
+              "Sentences:",
+              len(
+                  output[
+                      "script_en"
+                  ]
+              )
+          )
+
+          print(
+              "Keywords:",
+              output[
+                  "keywords_en"
+              ]
+          )
+
           PY
+
+
+      # ============================================================
+      # GitHub에 저장
+      # ============================================================
 
       - name: Commit & push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "chore(listening): robust fetch (CNN→NPR fallback) [skip ci]" || echo "No changes"
-          git push || true
+
+          git config \
+            user.name \
+            "github-actions[bot]"
+
+          git config \
+            user.email \
+            "github-actions[bot]@users.noreply.github.com"
+
+
+          git add \
+            data/listening.json
+
+
+          if git diff --cached --quiet; then
+
+            echo "No changes to commit"
+
+          else
+
+            git commit \
+              -m "chore(listening): refresh NPR listening [skip ci]"
+
+            git push
+
+          fi
