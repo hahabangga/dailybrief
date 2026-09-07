@@ -2,8 +2,9 @@ name: Weekly story update (public domain)
 
 on:
   schedule:
-    # 매주 월요일 00:00 UTC (한국 09:00 KST)
+    # 매주 월요일 00:00 UTC = 한국 09:00 KST
     - cron: "0 0 * * 1"
+
   workflow_dispatch:
 
 permissions:
@@ -12,29 +13,281 @@ permissions:
 jobs:
   fetch-story:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Fetch random fable
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Fetch public-domain story
         run: |
           python - << 'PY'
-          import os, json, random, datetime, requests, re
 
-          # Project Gutenberg Aesop's Fables (영문 텍스트)
+          import os
+          import re
+          import json
+          import random
+          import datetime
+          import requests
+
           URL = "https://www.gutenberg.org/cache/epub/11339/pg11339.txt"
-          r = requests.get(URL, timeout=30)
-          text = r.text
 
-          # 단순 전처리: 너무 짧은 줄 제외, 빈 줄 기준으로 이야기 분리
-          parts = [p.strip() for p in text.split("\n\n") if len(p.strip().split())>30]
+          headers = {
+              "User-Agent":
+                  "Mozilla/5.0 GitHubActions/DailyBriefStory/1.0"
+          }
 
+          response = requests.get(
+              URL,
+              headers=headers,
+              timeout=30
+          )
+
+          response.raise_for_status()
+
+          text = response.text
+
+
+          # ========================================================
+          # 적당한 길이의 문단만 후보로 사용
+          # ========================================================
+
+          parts = [
+              p.strip()
+              for p in re.split(
+                  r"\n\s*\n",
+                  text
+              )
+              if (
+                  30
+                  <= len(p.strip().split())
+                  <= 350
+              )
+          ]
+
+
+          if not parts:
+              raise RuntimeError(
+                  "No usable public-domain story was found."
+              )
+
+
+          # ========================================================
+          # 이야기 하나 선택
+          # ========================================================
+
+          story = random.choice(parts)
+
+
+          sentences = re.split(
+              r"(?<=[.!?])\s+",
+              story
+          )
+
+
+          usable = [
+              sentence.strip()
+              for sentence in sentences
+              if (
+                  len(
+                      sentence
+                      .strip()
+                      .split()
+                  )
+                  >= 4
+              )
+          ]
+
+
+          pick = usable[:15]
+
+
+          if len(pick) < 3:
+              raise RuntimeError(
+                  "Selected story has too few usable sentences."
+              )
+
+
+          # ========================================================
+          # 한국 날짜
+          # ========================================================
+
+          KST = datetime.timezone(
+              datetime.timedelta(
+                  hours=9
+              )
+          )
+
+
+          today = (
+              datetime.datetime
+              .now(KST)
+              .date()
+              .isoformat()
+          )
+
+
+          # ========================================================
+          # JSON
+          # ========================================================
+
+          title = pick[0][:80]
+
+          if len(pick[0]) > 80:
+              title += "..."
+
+
+          out = {
+
+              "date":
+                  today,
+
+              "type":
+                  "public_domain_story",
+
+              "source":
+                  "Project Gutenberg - Aesop's Fables",
+
+              "source_url":
+                  URL,
+
+              "story": {
+
+                  "title":
+                      title,
+
+                  "lines": [
+                      {
+                          "en": sentence
+                      }
+                      for sentence in pick
+                  ]
+
+              }
+
+          }
+
+
+          # ========================================================
+          # 저장 폴더
+          # ========================================================
+
+          os.makedirs(
+              "data",
+              exist_ok=True
+          )
+
+          os.makedirs(
+              "data/archive/story",
+              exist_ok=True
+          )
+
+
+          # ========================================================
+          # 최신 파일
+          # ========================================================
+
+          with open(
+              "data/story.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  out,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # ========================================================
+          # 일반 Story 전용 Archive
+          # ========================================================
+
+          archive_path = (
+              f"data/archive/story/{today}.json"
+          )
+
+
+          with open(
+              archive_path,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  out,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          print(
+              "SUCCESS"
+          )
+
+          print(
+              "Story:",
+              out["story"]["title"]
+          )
+
+          print(
+              "Sentences:",
+              len(
+                  out["story"]["lines"]
+              )
+          )
+
+          print(
+              "Archive:",
+              archive_path
+          )
+
+          PY
+
+
+      - name: Commit & push
+        run: |
+
+          git config \
+            user.name \
+            "github-actions[bot]"
+
+          git config \
+            user.email \
+            "github-actions[bot]@users.noreply.github.com"
+
+
+          git add \
+            data/story.json \
+            data/archive/story/
+
+
+          if git diff --cached --quiet; then
+
+            echo "No changes to commit"
+
+          else
+
+            git commit \
+              -m "chore(data): refresh weekly public-domain story [skip ci]"
+
+            git push
+
+          fi
           # 무작위로 한 이야기 선택
           story = random.choice(parts)
 
