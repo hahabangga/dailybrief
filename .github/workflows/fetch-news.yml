@@ -12,6 +12,7 @@ on:
     - cron: "0 10 * * *"
     # KST 22:00 (UTC 13:00)
     - cron: "0 13 * * *"
+
   workflow_dispatch:
 
 permissions:
@@ -20,238 +21,805 @@ permissions:
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Setup Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install feedparser beautifulsoup4 lxml yake tldextract
 
-      - name: Build data/news.json (24h filter, dedupe, latest-first)
+      - name: Build data/news.json
         run: |
           python - << 'PY'
-          import os, re, json, datetime
+          import os
+          import re
+          import json
+          import datetime
+
           from urllib.parse import quote
           from zoneinfo import ZoneInfo
+
           import feedparser
           from bs4 import BeautifulSoup
-          import yake, tldextract
+          import yake
+          import tldextract
+
+
+          # =========================================================
+          # 기본 시간 설정
+          # =========================================================
 
           KST = ZoneInfo("Asia/Seoul")
+
           now_utc = datetime.datetime.now(datetime.timezone.utc)
           now_kst = now_utc.astimezone(KST)
-          cutoff_kst = now_kst.replace(second=0, microsecond=0)
-          window_main = datetime.timedelta(hours=24)
-          window_fallback = datetime.timedelta(hours=36)  # 부족하면 36h까지 보강
 
-          # -------- RSS 소스 ----------
-          # (구글 뉴스 RSS 쿼리 + 일부 직접 RSS 혼합)
+          cutoff_kst = now_kst.replace(second=0, microsecond=0)
+
+          window_main = datetime.timedelta(hours=24)
+          window_fallback = datetime.timedelta(hours=36)
+
+
+          # =========================================================
+          # RSS 소스
+          # =========================================================
+
           SOURCES = {
-            "us": [
-              f"https://news.google.com/rss/search?q={quote('US CPI OR FOMC OR inflation OR jobs OR earnings OR regulation')}&hl=en&gl=US&ceid=US:en",
-              f"https://news.google.com/rss/search?q={quote('Congress OR White House OR antitrust OR sanctions')}&hl=en&gl=US&ceid=US:en",
-              "https://www.cnbc.com/id/100003114/device/rss/rss.html",  # CNBC Top News
-              "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",         # WSJ Markets (요약용)
-            ],
-            "kr": [
-              f"https://news.google.com/rss/search?q={quote('한국 경제 OR 코스피 OR 금리 OR 물가 OR 수출 OR 환율')}&hl=ko&gl=KR&ceid=KR:ko",
-              f"https://news.google.com/rss/search?q={quote('한국 정치 OR 규제 OR 예산 OR 국회')}&hl=ko&gl=KR&ceid=KR:ko",
-            ],
-            "world": [
-              f"https://news.google.com/rss/search?q={quote('global economy OR geopolitics OR war OR oil OR supply chain OR sanctions')}&hl=en&gl=US&ceid=US:en",
-              "https://www.reuters.com/markets/rss",                   # Reuters Markets
-              "https://www.reuters.com/world/rss",                     # Reuters World
-            ],
+              "us": [
+                  (
+                      "https://news.google.com/rss/search?q="
+                      + quote(
+                          "US CPI OR FOMC OR inflation OR jobs "
+                          "OR earnings OR regulation"
+                      )
+                      + "&hl=en&gl=US&ceid=US:en"
+                  ),
+                  (
+                      "https://news.google.com/rss/search?q="
+                      + quote(
+                          "Congress OR White House OR antitrust OR sanctions"
+                      )
+                      + "&hl=en&gl=US&ceid=US:en"
+                  ),
+                  "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+                  "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+              ],
+
+              "kr": [
+                  (
+                      "https://news.google.com/rss/search?q="
+                      + quote(
+                          "한국 경제 OR 코스피 OR 금리 OR 물가 "
+                          "OR 수출 OR 환율"
+                      )
+                      + "&hl=ko&gl=KR&ceid=KR:ko"
+                  ),
+                  (
+                      "https://news.google.com/rss/search?q="
+                      + quote(
+                          "한국 정치 OR 규제 OR 예산 OR 국회"
+                      )
+                      + "&hl=ko&gl=KR&ceid=KR:ko"
+                  ),
+              ],
+
+              "world": [
+                  (
+                      "https://news.google.com/rss/search?q="
+                      + quote(
+                          "global economy OR geopolitics OR war "
+                          "OR oil OR supply chain OR sanctions"
+                      )
+                      + "&hl=en&gl=US&ceid=US:en"
+                  ),
+                  "https://www.reuters.com/markets/rss",
+                  "https://www.reuters.com/world/rss",
+              ],
           }
+
+
+          # =========================================================
+          # HTML 정리
+          # =========================================================
 
           def clean_html(txt):
-            if not txt: return ''
-            soup = BeautifulSoup(txt, 'html.parser')
-            t = soup.get_text(' ', strip=True)
-            return re.sub(r'\s+', ' ', t).strip()
+              if not txt:
+                  return ""
+
+              soup = BeautifulSoup(txt, "html.parser")
+              text = soup.get_text(" ", strip=True)
+
+              return re.sub(r"\s+", " ", text).strip()
+
+
+          # =========================================================
+          # RSS 읽기
+          # =========================================================
 
           def parse_feed(url, max_items=40):
-            d = feedparser.parse(url)
-            out = []
-            for e in d.entries[:max_items]:
-              title = clean_html(getattr(e,'title',''))
-              link = getattr(e,'link','')
-              desc = clean_html(getattr(e,'summary','') or getattr(e,'description',''))
-              pub = getattr(e,'published','') or getattr(e,'updated','') or ''
-              pub_dt_utc = None
               try:
-                tm = getattr(e, 'published_parsed', None) or getattr(e,'updated_parsed', None)
-                if tm:
-                  pub_dt_utc = datetime.datetime(*tm[:6], tzinfo=datetime.timezone.utc)
-              except Exception:
-                pass
-              out.append({
-                "title": title,
-                "url": link,
-                "desc": desc,
-                "published": pub,
-                "published_dt_utc": pub_dt_utc.isoformat().replace('+00:00','Z') if pub_dt_utc else None
-              })
-            return out
+                  d = feedparser.parse(url)
+              except Exception as e:
+                  print("Feed error:", url, e)
+                  return []
+
+              out = []
+
+              for e in d.entries[:max_items]:
+
+                  title = clean_html(
+                      getattr(e, "title", "")
+                  )
+
+                  link = getattr(e, "link", "")
+
+                  desc = clean_html(
+                      getattr(e, "summary", "")
+                      or getattr(e, "description", "")
+                  )
+
+                  pub = (
+                      getattr(e, "published", "")
+                      or getattr(e, "updated", "")
+                      or ""
+                  )
+
+                  pub_dt_utc = None
+
+                  try:
+                      tm = (
+                          getattr(e, "published_parsed", None)
+                          or getattr(e, "updated_parsed", None)
+                      )
+
+                      if tm:
+                          pub_dt_utc = datetime.datetime(
+                              *tm[:6],
+                              tzinfo=datetime.timezone.utc,
+                          )
+
+                  except Exception:
+                      pass
+
+                  out.append(
+                      {
+                          "title": title,
+                          "url": link,
+                          "desc": desc,
+                          "published": pub,
+                          "published_dt_utc": (
+                              pub_dt_utc
+                              .isoformat()
+                              .replace("+00:00", "Z")
+                              if pub_dt_utc
+                              else None
+                          ),
+                      }
+                  )
+
+              return out
+
+
+          # =========================================================
+          # 문장 분리
+          # =========================================================
 
           def sentence_split(text):
-            if not text: return []
-            s = re.split(r'(?<=[\.\?\!])\s+', text)
-            return [x.strip() for x in s if len(x.strip().split())>=4]
+
+              if not text:
+                  return []
+
+              sentences = re.split(
+                  r"(?<=[\.\?\!])\s+",
+                  text,
+              )
+
+              return [
+                  x.strip()
+                  for x in sentences
+                  if len(x.strip().split()) >= 4
+              ]
+
+
+          # =========================================================
+          # 키워드 추출
+          # =========================================================
 
           def top_keywords(text, topk=10):
-            try:
-              ex=yake.KeywordExtractor(lan="en", n=1, top=topk)
-              kws=ex.extract_keywords(text)
-              ranked=[(k,1.0/(s+1e-9)) for k,s in kws if k]
-              tot=sum(w for _,w in ranked) or 1.0
-              return {k:w/tot for k,w in ranked}
-            except Exception:
-              return {}
 
-          def score_sentence(sent, kw):
-            s=sent.lower(); sc=0.0
-            for k,w in kw.items():
-              if k.lower() in s: sc += s.count(k.lower())*w
-            if re.search(r'(\d{1,3}(?:,\d{3})*(?:\.\d+)?%|\$\d+(?:\.\d+)?|\d{4})', sent):
-              sc *= 1.15
-            return sc
+              try:
+
+                  extractor = yake.KeywordExtractor(
+                      lan="en",
+                      n=1,
+                      top=topk,
+                  )
+
+                  kws = extractor.extract_keywords(text)
+
+                  ranked = [
+                      (k, 1.0 / (score + 1e-9))
+                      for k, score in kws
+                      if k
+                  ]
+
+                  total = sum(
+                      weight
+                      for _, weight in ranked
+                  ) or 1.0
+
+                  return {
+                      keyword: weight / total
+                      for keyword, weight in ranked
+                  }
+
+              except Exception:
+                  return {}
+
+
+          # =========================================================
+          # 문장 중요도 계산
+          # =========================================================
+
+          def score_sentence(sent, keywords):
+
+              text = sent.lower()
+
+              score = 0.0
+
+              for keyword, weight in keywords.items():
+
+                  keyword_lower = keyword.lower()
+
+                  if keyword_lower in text:
+                      score += (
+                          text.count(keyword_lower)
+                          * weight
+                      )
+
+              # 숫자·비율·달러·연도 등 포함 시 약간 가점
+              if re.search(
+                  r"(\d{1,3}(?:,\d{3})*(?:\.\d+)?%"
+                  r"|\$\d+(?:\.\d+)?"
+                  r"|\d{4})",
+                  sent,
+              ):
+                  score *= 1.15
+
+              return score
+
+
+          # =========================================================
+          # 요약
+          # =========================================================
 
           def summarize(title, desc, n=2):
-            base = ((desc or '').strip() + ' ' + (title or '').strip()).strip()
-            if not base: return ''
-            sents = sentence_split(base)
-            if not sents: return base[:220]
-            kw = top_keywords(base)
-            scored=sorted(((score_sentence(s,kw),s) for s in sents), reverse=True)
-            picks=[]
-            def overlap(a,b):
-              sa=set(a.lower().split()); sb=set(b.lower().split())
-              return (len(sa&sb)/len(sa|sb)) if sa and sb else 0
-            for _,sent in scored:
-              if all(overlap(sent,p)<0.65 for p in picks):
-                picks.append(sent)
-              if len(picks)>=n: break
-            return " ".join(picks) if picks else base[:220]
 
-          def norm_title(t):
-            t = re.sub(r'[\W_]+',' ', (t or '')).strip().lower()
-            t = re.sub(r'\b(live|update|breaking|analysis|opinion)\b','', t)
-            return re.sub(r'\s+',' ', t).strip()
+              base = (
+                  ((desc or "").strip())
+                  + " "
+                  + ((title or "").strip())
+              ).strip()
 
-          def url_domain(u):
-            try:
-              ex = tldextract.extract(u)
-              return (ex.domain + '.' + ex.suffix).lower()
-            except Exception:
-              return ''
+              if not base:
+                  return ""
+
+              sentences = sentence_split(base)
+
+              if not sentences:
+                  return base[:220]
+
+              keywords = top_keywords(base)
+
+              scored = sorted(
+                  (
+                      (
+                          score_sentence(
+                              sentence,
+                              keywords,
+                          ),
+                          sentence,
+                      )
+                      for sentence in sentences
+                  ),
+                  reverse=True,
+              )
+
+              picks = []
+
+              def overlap(a, b):
+
+                  sa = set(a.lower().split())
+                  sb = set(b.lower().split())
+
+                  if not sa or not sb:
+                      return 0
+
+                  return (
+                      len(sa & sb)
+                      / len(sa | sb)
+                  )
+
+              for _, sentence in scored:
+
+                  if all(
+                      overlap(sentence, p) < 0.65
+                      for p in picks
+                  ):
+                      picks.append(sentence)
+
+                  if len(picks) >= n:
+                      break
+
+              if picks:
+                  return " ".join(picks)
+
+              return base[:220]
+
+
+          # =========================================================
+          # 제목 정규화
+          # =========================================================
+
+          def norm_title(title):
+
+              title = re.sub(
+                  r"[\W_]+",
+                  " ",
+                  title or "",
+              )
+
+              title = title.strip().lower()
+
+              title = re.sub(
+                  r"\b("
+                  r"live|update|breaking|analysis|opinion"
+                  r")\b",
+                  "",
+                  title,
+              )
+
+              return re.sub(
+                  r"\s+",
+                  " ",
+                  title,
+              ).strip()
+
+
+          # =========================================================
+          # 도메인 추출
+          # =========================================================
+
+          def url_domain(url):
+
+              try:
+
+                  ext = tldextract.extract(url)
+
+                  return (
+                      ext.domain
+                      + "."
+                      + ext.suffix
+                  ).lower()
+
+              except Exception:
+                  return ""
+
+
+          # =========================================================
+          # 숫자·수치 추출
+          # =========================================================
+
+          def key_figures(text):
+
+              figures = re.findall(
+                  r"("
+                  r"\d{1,3}(?:,\d{3})*(?:\.\d+)?%"
+                  r"|\$\d+(?:\.\d+)?"
+                  r"|\d\.\d%"
+                  r"|\d{4}"
+                  r")",
+                  text or "",
+              )
+
+              unique = []
+
+              for item in figures:
+
+                  if item not in unique:
+                      unique.append(item)
+
+              return unique[:6]
+
+
+          # =========================================================
+          # 지역별 뉴스 구성
+          # =========================================================
 
           def build_region(feeds, want=7):
-            # 1) 수집
-            raw=[]
-            for f in feeds:
-              raw.extend(parse_feed(f))
-            # 2) 시간 변환/정렬
-            for it in raw:
-              try:
-                if it['published_dt_utc']:
-                  pk = datetime.datetime.fromisoformat(it['published_dt_utc'].replace('Z','+00:00')).astimezone(KST)
-                else:
-                  pk = None
-              except Exception:
-                pk = None
-              it['_pub_kst'] = pk
-            raw.sort(key=lambda x: x['_pub_kst'] or datetime.datetime(1970,1,1,tzinfo=KST), reverse=True)
 
-            # 3) 시간 필터(최근 24h → 부족하면 36h)
-            def in_window(it, delta): 
-              pk = it['_pub_kst']
-              return (pk is not None) and ((cutoff_kst - pk) <= delta) and (pk <= cutoff_kst)
+              raw = []
 
-            pool = [it for it in raw if in_window(it, window_main)]
-            if len(pool) < want:
-              pool = [it for it in raw if in_window(it, window_fallback)]
+              # 1. RSS 수집
+              for feed in feeds:
 
-            # 4) 중복 제거(제목/도메인)
-            seen_title=set(); seen_domain_count={}
-            dedup=[]
-            for it in pool:
-              nt = norm_title(it['title'])
-              dom = url_domain(it['url'])
-              if nt and nt in seen_title: 
-                continue
-              if dom:
-                c = seen_domain_count.get(dom,0)
-                if c>=3:  # 한 도메인 과다반복 방지
-                  continue
-                seen_domain_count[dom]=c+1
-              seen_title.add(nt)
-              dedup.append(it)
-              if len(dedup)>= max(want, 7): 
-                break
+                  try:
+                      items = parse_feed(feed)
+                      raw.extend(items)
 
-            # 5) 요약/키수치
-            out=[]
-            for it in dedup:
-              base = f"{it['title']} {it['desc']}".strip()
-              def key_figures(text):
-                figs = re.findall(r'(\d{1,3}(?:,\d{3})*(?:\.\d+)?%|\$\d+(?:\.\d+)?|\d\.\d%|\d{4})', text or '')
-                uniq=[]
-                for x in figs:
-                  if x not in uniq: uniq.append(x)
-                return uniq[:6]
+                  except Exception as e:
+                      print(
+                          "Source failed:",
+                          feed,
+                          e,
+                      )
 
-              out.append({
-                "title": it["title"],
-                "url": it["url"],
-                "summary": summarize(it["title"], it["desc"], n=2),
-                "published": it["published"],
-                "published_kst": it["_pub_kst"].isoformat() if it["_pub_kst"] else None,
-                "domain": url_domain(it["url"]),
-                "key_figures": key_figures(base),
-                "why_matters": "핵심 동향 파악.",
-                "whats_next": "후속 지표/발표 모니터."
-              })
-            return out
+              # 2. KST 시간 변환
+              for item in raw:
+
+                  try:
+
+                      if item["published_dt_utc"]:
+
+                          published_kst = (
+                              datetime.datetime
+                              .fromisoformat(
+                                  item[
+                                      "published_dt_utc"
+                                  ].replace(
+                                      "Z",
+                                      "+00:00",
+                                  )
+                              )
+                              .astimezone(KST)
+                          )
+
+                      else:
+                          published_kst = None
+
+                  except Exception:
+                      published_kst = None
+
+                  item["_pub_kst"] = published_kst
+
+
+              # 최신 순 정렬
+              raw.sort(
+                  key=lambda x: (
+                      x["_pub_kst"]
+                      or datetime.datetime(
+                          1970,
+                          1,
+                          1,
+                          tzinfo=KST,
+                      )
+                  ),
+                  reverse=True,
+              )
+
+
+              # =====================================================
+              # 최근 24시간 필터
+              # 부족할 경우 36시간까지
+              # =====================================================
+
+              def in_window(item, delta):
+
+                  published = item["_pub_kst"]
+
+                  if published is None:
+                      return False
+
+                  age = cutoff_kst - published
+
+                  return (
+                      age <= delta
+                      and published <= cutoff_kst
+                  )
+
+
+              pool = [
+                  item
+                  for item in raw
+                  if in_window(
+                      item,
+                      window_main,
+                  )
+              ]
+
+              if len(pool) < want:
+
+                  pool = [
+                      item
+                      for item in raw
+                      if in_window(
+                          item,
+                          window_fallback,
+                      )
+                  ]
+
+
+              # =====================================================
+              # 중복 제거
+              # =====================================================
+
+              seen_titles = set()
+              domain_count = {}
+
+              dedup = []
+
+              for item in pool:
+
+                  normalized = norm_title(
+                      item["title"]
+                  )
+
+                  domain = url_domain(
+                      item["url"]
+                  )
+
+                  if (
+                      normalized
+                      and normalized in seen_titles
+                  ):
+                      continue
+
+                  if domain:
+
+                      count = domain_count.get(
+                          domain,
+                          0,
+                      )
+
+                      # 동일 언론사 최대 3건
+                      if count >= 3:
+                          continue
+
+                      domain_count[domain] = (
+                          count + 1
+                      )
+
+                  if normalized:
+                      seen_titles.add(normalized)
+
+                  dedup.append(item)
+
+                  if len(dedup) >= max(
+                      want,
+                      7,
+                  ):
+                      break
+
+
+              # =====================================================
+              # 최종 출력
+              # =====================================================
+
+              result = []
+
+              for item in dedup:
+
+                  base = (
+                      f"{item['title']} "
+                      f"{item['desc']}"
+                  ).strip()
+
+                  result.append(
+                      {
+                          "title": item[
+                              "title"
+                          ],
+
+                          "url": item[
+                              "url"
+                          ],
+
+                          "summary": summarize(
+                              item["title"],
+                              item["desc"],
+                              n=2,
+                          ),
+
+                          "published": item[
+                              "published"
+                          ],
+
+                          "published_kst": (
+                              item["_pub_kst"]
+                              .isoformat()
+                              if item["_pub_kst"]
+                              else None
+                          ),
+
+                          "domain": url_domain(
+                              item["url"]
+                          ),
+
+                          "key_figures": (
+                              key_figures(base)
+                          ),
+
+                          "why_matters": (
+                              "핵심 동향 파악."
+                          ),
+
+                          "whats_next": (
+                              "후속 지표/발표 모니터."
+                          ),
+                      }
+                  )
+
+              return result
+
+
+          # =========================================================
+          # 뉴스 생성
+          # =========================================================
 
           regions = {
-            "us": build_region(SOURCES["us"], want=6),
-            "kr": build_region(SOURCES["kr"], want=6),
-            "world": build_region(SOURCES["world"], want=6),
+              "us": build_region(
+                  SOURCES["us"],
+                  want=6,
+              ),
+
+              "kr": build_region(
+                  SOURCES["kr"],
+                  want=6,
+              ),
+
+              "world": build_region(
+                  SOURCES["world"],
+                  want=6,
+              ),
           }
+
+
+          # =========================================================
+          # 전체 요약
+          # =========================================================
 
           wrap = " / ".join(
-            (v[0]["summary"] if v else "")
-            for v in regions.values() if v
+              (
+                  region[0]["summary"]
+                  if region
+                  else ""
+              )
+              for region in regions.values()
+              if region
           )
 
+
+          # =========================================================
+          # JSON 생성
+          # =========================================================
+
           out = {
-            "date": now_kst.date().isoformat(),
-            "generated_at_utc": now_utc.replace(microsecond=0).isoformat().replace('+00:00','Z'),
-            "cutoff_kst": cutoff_kst.isoformat(),
-            "regions": regions,
-            "wrap_summary": wrap,
-            "invest_summary": ""
+              "date": now_kst.date().isoformat(),
+
+              "generated_at_utc": (
+                  now_utc
+                  .replace(microsecond=0)
+                  .isoformat()
+                  .replace("+00:00", "Z")
+              ),
+
+              "cutoff_kst": (
+                  cutoff_kst.isoformat()
+              ),
+
+              "regions": regions,
+
+              "wrap_summary": wrap,
+
+              "invest_summary": "",
           }
 
-          os.makedirs("data", exist_ok=True)
-          with open("data/news.json","w",encoding="utf-8") as f:
-            json.dump(out, f, ensure_ascii=False, indent=2)
 
-          print(f"Wrote data/news.json  • cutoff_kst={out['cutoff_kst']}")
+          # =========================================================
+          # 안전성 검사
+          # =========================================================
+
+          total_items = sum(
+              len(items)
+              for items in regions.values()
+          )
+
+          print(
+              "US:",
+              len(regions["us"]),
+              "/ KR:",
+              len(regions["kr"]),
+              "/ WORLD:",
+              len(regions["world"]),
+          )
+
+          print(
+              "Total news items:",
+              total_items,
+          )
+
+          if total_items == 0:
+              raise RuntimeError(
+                  "No recent news articles were collected."
+              )
+
+
+          # =========================================================
+          # 파일 저장
+          # =========================================================
+
+          os.makedirs(
+              "data",
+              exist_ok=True,
+          )
+
+          with open(
+              "data/news.json",
+              "w",
+              encoding="utf-8",
+          ) as f:
+
+              json.dump(
+                  out,
+                  f,
+                  ensure_ascii=False,
+                  indent=2,
+              )
+
+
+          print(
+              "Wrote data/news.json"
+          )
+
+          print(
+              "date:",
+              out["date"],
+          )
+
+          print(
+              "cutoff_kst:",
+              out["cutoff_kst"],
+          )
+
           PY
 
-      - name: Commit & push (update if changed)
+
+      # =============================================================
+      # 변경된 news.json을 GitHub에 저장
+      # =============================================================
+
+      - name: Commit & push
         run: |
+
           git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git diff --quiet --exit-code && echo "No changes" || (git commit -m "chore(data): news refresh (last-24h, dedupe) [skip ci]" && git push)
+
+          git config user.email \
+            "github-actions[bot]@users.noreply.github.com"
+
+          git add data/news.json
+
+
+          # 중요:
+          # git add 이후에는 --cached 로 검사해야 함
+          if git diff --cached --quiet; then
+
+            echo "No changes to commit"
+
+          else
+
+            git commit \
+              -m "chore(data): news refresh [skip ci]"
+
+            git push
+
+          fi
