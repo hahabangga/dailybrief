@@ -1,14 +1,14 @@
-name: Weekly TOEIC600 English (VOA)
+name: Next TOEIC600 English (VOA)
 
 on:
-  schedule:
-    # 매주 월요일 00:05 UTC = 한국 09:05 KST
-    - cron: "5 0 * * 1"
-
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: toeic-refresh
+  cancel-in-progress: false
 
 jobs:
   fetch-toeic:
@@ -20,21 +20,1001 @@ jobs:
         with:
           fetch-depth: 0
 
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml
 
-
-      - name: Build weekly TOEIC data
+      - name: Archive current TOEIC and build next one
         run: |
+          python - << 'PY'
+
+          import os
+          import re
+          import glob
+          import json
+          import datetime
+          import requests
+
+          from bs4 import BeautifulSoup
+
+
+          # ========================================================
+          # 기본 설정
+          # ========================================================
+
+          KST = datetime.timezone(
+              datetime.timedelta(hours=9)
+          )
+
+          now = datetime.datetime.now(KST)
+
+          today = now.date().isoformat()
+
+          timestamp = now.strftime(
+              "%Y-%m-%d_%H%M%S"
+          )
+
+
+          CURRENT_FILE = "data/toeic.json"
+
+          ARCHIVE_DIR = "data/archive/toeic"
+
+
+          os.makedirs(
+              "data",
+              exist_ok=True
+          )
+
+          os.makedirs(
+              ARCHIVE_DIR,
+              exist_ok=True
+          )
+
+
+          # ========================================================
+          # VOA Learning English 소스
+          # ========================================================
+
+          SOURCES = [
+
+              "https://learningenglish.voanews.com/z/1689",
+
+              "https://learningenglish.voanews.com/p/5609.html",
+
+          ]
+
+
+          BASE = (
+              "https://learningenglish.voanews.com"
+          )
+
+
+          HEADERS = {
+
+              "User-Agent":
+                  "Mozilla/5.0 "
+                  "(X11; Linux x86_64) "
+                  "GitHubActions/Toeic600/3.0"
+
+          }
+
+
+          # ========================================================
+          # HTTP 요청
+          # ========================================================
+
+          def get(url):
+
+              response = requests.get(
+                  url,
+                  headers=HEADERS,
+                  timeout=30
+              )
+
+              response.raise_for_status()
+
+              return response.text
+
+
+          # ========================================================
+          # 텍스트 정리
+          # ========================================================
+
+          def clean_text(text):
+
+              text = text or ""
+
+              text = re.sub(
+                  r"\s+",
+                  " ",
+                  text
+              )
+
+              return text.strip()
+
+
+          # ========================================================
+          # 필요 없는 웹 문구 제거
+          # ========================================================
+
+          BLOCK_PHRASES = [
+
+              "no media source currently available",
+
+              "what do you think of this lesson",
+
+              "we want to hear from you",
+
+              "comment system",
+
+              "each time you return to comment",
+
+              "subscribe",
+
+              "share",
+
+              "download",
+
+              "rss",
+
+              "privacy policy",
+
+              "cookie",
+
+              "follow us",
+
+              "newsletter",
+
+              "sign up",
+
+              "all rights reserved",
+
+          ]
+
+
+          def unwanted(text):
+
+              lower = text.lower()
+
+              return any(
+                  phrase in lower
+                  for phrase
+                  in BLOCK_PHRASES
+              )
+
+
+          # ========================================================
+          # 문장 분리
+          # ========================================================
+
+          def split_sentences(text):
+
+              parts = re.split(
+                  r"(?<=[.!?])\s+",
+                  text
+              )
+
+
+              result = []
+
+              seen = set()
+
+
+              for sentence in parts:
+
+                  sentence = clean_text(
+                      sentence
+                  )
+
+
+                  if not sentence:
+                      continue
+
+
+                  if len(
+                      sentence.split()
+                  ) < 4:
+                      continue
+
+
+                  if len(sentence) > 350:
+                      continue
+
+
+                  if unwanted(
+                      sentence
+                  ):
+                      continue
+
+
+                  key = sentence.lower()
+
+
+                  if key in seen:
+                      continue
+
+
+                  seen.add(key)
+
+                  result.append(
+                      sentence
+                  )
+
+
+              return result
+
+
+          # ========================================================
+          # 과거 TOEIC 문제 URL 전부 수집
+          # ========================================================
+
+          def source_url_from_data(data):
+
+              try:
+
+                  return (
+                      data
+                      .get("story", {})
+                      .get("source_url", "")
+                  )
+
+              except Exception:
+
+                  return ""
+
+
+          used_urls = set()
+
+
+          # --------------------------------------------------------
+          # 현재 문제도 중복 방지를 위해 포함
+          # --------------------------------------------------------
+
+          current_data = None
+
+
+          if os.path.exists(
+              CURRENT_FILE
+          ):
+
+              try:
+
+                  with open(
+                      CURRENT_FILE,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+
+                      current_data = json.load(f)
+
+
+                  current_url = (
+                      source_url_from_data(
+                          current_data
+                      )
+                  )
+
+
+                  if current_url:
+
+                      used_urls.add(
+                          current_url
+                      )
+
+
+              except Exception as e:
+
+                  print(
+                      "Current TOEIC read warning:",
+                      e
+                  )
+
+
+          # --------------------------------------------------------
+          # 과거 archive의 URL 모두 기억
+          # --------------------------------------------------------
+
+          archive_files = sorted(
+              glob.glob(
+                  f"{ARCHIVE_DIR}/*.json"
+              )
+          )
+
+
+          for path in archive_files:
+
+              try:
+
+                  with open(
+                      path,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+
+                      old = json.load(f)
+
+
+                  url = (
+                      source_url_from_data(
+                          old
+                      )
+                  )
+
+
+                  if url:
+
+                      used_urls.add(
+                          url
+                      )
+
+
+              except Exception as e:
+
+                  print(
+                      "Archive read warning:",
+                      path,
+                      e
+                  )
+
+
+          print(
+              "Previously used URLs:",
+              len(used_urls)
+          )
+
+
+          # ========================================================
+          # 현재 문제를 '푼 문제'로 누적 보관
+          #
+          # workflow를 직접 Run했다는 것은
+          # 현재 문제를 풀었다는 의미로 간주
+          # ========================================================
+
+          if current_data:
+
+              current_url = (
+                  source_url_from_data(
+                      current_data
+                  )
+              )
+
+
+              # ----------------------------------------------------
+              # 기존 archive에 같은 문제가 있는지 확인
+              # ----------------------------------------------------
+
+              same_archive = None
+
+
+              for path in archive_files:
+
+                  try:
+
+                      with open(
+                          path,
+                          "r",
+                          encoding="utf-8"
+                      ) as f:
+
+                          old = json.load(f)
+
+
+                      if (
+                          current_url
+                          and source_url_from_data(
+                              old
+                          ) == current_url
+                      ):
+
+                          same_archive = path
+
+                          break
+
+
+                  except Exception:
+                      pass
+
+
+              # ----------------------------------------------------
+              # 이미 archive되어 있으면
+              # 그 파일에 completed 정보만 추가
+              # ----------------------------------------------------
+
+              current_data[
+                  "status"
+              ] = "completed"
+
+              current_data[
+                  "completed_at_kst"
+              ] = now.isoformat()
+
+
+              if same_archive:
+
+                  archive_path = (
+                      same_archive
+                  )
+
+                  print(
+                      "Updating existing archive:",
+                      archive_path
+                  )
+
+
+              # ----------------------------------------------------
+              # archive에 없다면 새 파일 생성
+              # ----------------------------------------------------
+
+              else:
+
+                  archive_path = (
+                      f"{ARCHIVE_DIR}/"
+                      f"{timestamp}.json"
+                  )
+
+                  print(
+                      "Creating archive:",
+                      archive_path
+                  )
+
+
+              with open(
+                  archive_path,
+                  "w",
+                  encoding="utf-8"
+              ) as f:
+
+                  json.dump(
+                      current_data,
+                      f,
+                      ensure_ascii=False,
+                      indent=2
+                  )
+
+
+          # ========================================================
+          # VOA 기사 링크 찾기
+          # ========================================================
+
+          def find_article_links(html):
+
+              soup = BeautifulSoup(
+                  html,
+                  "lxml"
+              )
+
+
+              results = []
+
+              seen = set()
+
+
+              for anchor in soup.find_all(
+                  "a",
+                  href=True
+              ):
+
+                  href = anchor[
+                      "href"
+                  ]
+
+
+                  if "/a/" not in href:
+                      continue
+
+
+                  if href.startswith(
+                      "http"
+                  ):
+
+                      url = href
+
+
+                  elif href.startswith(
+                      "/"
+                  ):
+
+                      url = (
+                          BASE
+                          + href
+                      )
+
+
+                  else:
+
+                      continue
+
+
+                  # URL query 제거
+                  url = url.split(
+                      "?"
+                  )[0]
+
+
+                  if url in seen:
+                      continue
+
+
+                  seen.add(
+                      url
+                  )
+
+                  results.append(
+                      url
+                  )
+
+
+              return results
+
+
+          # ========================================================
+          # VOA 기사 본문 추출
+          # ========================================================
+
+          def extract_article(url):
+
+              html = get(
+                  url
+              )
+
+
+              soup = BeautifulSoup(
+                  html,
+                  "lxml"
+              )
+
+
+              # ----------------------------------------------------
+              # 제목
+              # ----------------------------------------------------
+
+              title = ""
+
+
+              h1 = soup.find(
+                  "h1"
+              )
+
+
+              if h1:
+
+                  title = clean_text(
+                      h1.get_text(
+                          " "
+                      )
+                  )
+
+
+              if not title:
+
+                  title_tag = soup.find(
+                      "title"
+                  )
+
+
+                  if title_tag:
+
+                      title = clean_text(
+                          title_tag.get_text(
+                              " "
+                          )
+                      )
+
+
+              # ----------------------------------------------------
+              # 본문
+              # ----------------------------------------------------
+
+              selectors = [
+
+                  "article p",
+
+                  ".wsw p",
+
+                  ".article-content p",
+
+                  "main p",
+
+              ]
+
+
+              paragraphs = []
+
+
+              for selector in selectors:
+
+                  found = soup.select(
+                      selector
+                  )
+
+
+                  if found:
+
+                      paragraphs = found
+
+                      break
+
+
+              if not paragraphs:
+
+                  paragraphs = soup.find_all(
+                      "p"
+                  )
+
+
+              chunks = []
+
+
+              for p in paragraphs:
+
+                  text = clean_text(
+                      p.get_text(
+                          " "
+                      )
+                  )
+
+
+                  if not text:
+                      continue
+
+
+                  if unwanted(
+                      text
+                  ):
+                      continue
+
+
+                  if len(
+                      text.split()
+                  ) < 5:
+                      continue
+
+
+                  chunks.append(
+                      text
+                  )
+
+
+              sentences = []
+
+
+              for chunk in chunks:
+
+                  sentences.extend(
+                      split_sentences(
+                          chunk
+                      )
+                  )
+
+
+              # 중복문장 재정리
+              unique = []
+
+              seen = set()
+
+
+              for sentence in sentences:
+
+                  key = sentence.lower()
+
+
+                  if key in seen:
+                      continue
+
+
+                  seen.add(
+                      key
+                  )
+
+                  unique.append(
+                      sentence
+                  )
+
+
+              return (
+                  title,
+                  unique[:18]
+              )
+
+
+          # ========================================================
+          # 새 문제 후보 수집
+          # ========================================================
+
+          candidate_urls = []
+
+
+          for source in SOURCES:
+
+              try:
+
+                  html = get(
+                      source
+                  )
+
+
+                  links = find_article_links(
+                      html
+                  )
+
+
+                  candidate_urls.extend(
+                      links
+                  )
+
+
+              except Exception as e:
+
+                  print(
+                      "Source failed:",
+                      source,
+                      e
+                  )
+
+
+          # 중복 링크 제거
+          candidate_urls = list(
+              dict.fromkeys(
+                  candidate_urls
+              )
+          )
+
+
+          print(
+              "Total candidate URLs:",
+              len(
+                  candidate_urls
+              )
+          )
+
+
+          # ========================================================
+          # 이미 풀었던 문제 제거
+          # ========================================================
+
+          unused_urls = [
+
+              url
+              for url
+              in candidate_urls
+
+              if url not in used_urls
+
+          ]
+
+
+          print(
+              "Unused candidate URLs:",
+              len(
+                  unused_urls
+              )
+          )
+
+
+          # ========================================================
+          # 새 학습문제 선택
+          # ========================================================
+
+          article_url = None
+
+          final_title = None
+
+          final_lines = None
+
+
+          # 최대 80개 후보 검사
+          for url in unused_urls[:80]:
+
+              try:
+
+                  title, lines = (
+                      extract_article(
+                          url
+                      )
+                  )
+
+
+                  print(
+                      "Candidate:",
+                      title[:70],
+                      "| sentences:",
+                      len(lines)
+                  )
+
+
+                  # 최소 8개 문장 필요
+                  if len(lines) < 8:
+
+                      continue
+
+
+                  article_url = url
+
+                  final_title = title
+
+                  final_lines = lines
+
+                  break
+
+
+              except Exception as e:
+
+                  print(
+                      "Article failed:",
+                      url,
+                      e
+                  )
+
+
+          # ========================================================
+          # 새 문제가 없으면 실패
+          #
+          # 기존 toeic.json은 삭제하지 않으므로
+          # 새 문제 생성 실패 시에도 현재 파일 유지
+          # ========================================================
+
+          if (
+              not article_url
+              or not final_lines
+              or len(
+                  final_lines
+              ) < 8
+          ):
+
+              raise RuntimeError(
+                  "No new unused VOA article with "
+                  "at least 8 learning sentences was found."
+              )
+
+
+          # ========================================================
+          # 새 현재 문제 생성
+          # ========================================================
+
+          new_data = {
+
+              "date":
+                  today,
+
+              "created_at_kst":
+                  now.isoformat(),
+
+              "status":
+                  "current",
+
+              "type":
+                  "toeic600",
+
+              "source":
+                  "VOA Learning English",
+
+              "story": {
+
+                  "title":
+                      f"VOA: {final_title[:100]}",
+
+                  "source_url":
+                      article_url,
+
+                  "lines": [
+
+                      {
+                          "en": sentence
+                      }
+
+                      for sentence
+                      in final_lines
+
+                  ]
+
+              }
+
+          }
+
+
+          # ========================================================
+          # 현재 문제 교체
+          # ========================================================
+
+          with open(
+              CURRENT_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  new_data,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # ========================================================
+          # 결과 로그
+          # ========================================================
+
+          print("")
+          print(
+              "======================================"
+          )
+
+          print(
+              "NEW TOEIC READY"
+          )
+
+          print(
+              "======================================"
+          )
+
+          print(
+              "Title:",
+              new_data[
+                  "story"
+              ][
+                  "title"
+              ]
+          )
+
+          print(
+              "URL:",
+              article_url
+          )
+
+          print(
+              "Sentences:",
+              len(
+                  final_lines
+              )
+          )
+
+          print(
+              "Previous solved problems:",
+              len(
+                  glob.glob(
+                      f"{ARCHIVE_DIR}/*.json"
+                  )
+              )
+          )
+
+          PY
+
+
+      - name: Commit & push
+        run: |
+
+          git config \
+            user.name \
+            "github-actions[bot]"
+
+          git config \
+            user.email \
+            "github-actions[bot]@users.noreply.github.com"
+
+
+          git add \
+            data/toeic.json \
+            data/archive/toeic/
+
+
+          if git diff --cached --quiet; then
+
+            echo "No changes to commit"
+
+          else
+
+            git commit \
+              -m "chore(toeic): archive completed lesson and create next [skip ci]"
+
+            git push
+
+          fi        run: |
           python - << 'PY'
 
           import os
