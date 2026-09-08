@@ -1,73 +1,73 @@
 {
   "date": "2026-09-08",
-  "generated_at_utc": "2026-09-07T23:48:59Z",
-  "cutoff_kst": "2026-09-08T08:48:00+09:00",
+  "generated_at_utc": "2026-09-08T06:39:26Z",
+  "cutoff_kst": "2026-09-08T15:39:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Emergency crew rescues worker injured during White House construction - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMF9RaFBSbTc2Z0NtMm1fVU9Fa3NlOVRMRWJYN1YxY2FtQy1vVmF5WktWMDBMUVdvNWtqMVEzM2p0YXJRb04tTGZITkM5YmlsZmNhWkpTSXVjcHdNZ201UHlQd3p1VHFVc00tbVhzQ0NOVmQ2cmo1R0NKd0cyME5mbVVSYnlzMEVmYmVCakNsWTlBa2UtbU9VdWVLa1ZJWk9KbFhhOVo1UWp2MURuSHZVSzBneXV6bE5RYkF3b2lR?oc=5",
-        "summary": "Emergency crew rescues worker injured during White House construction The Washington Post Emergency crew rescues worker injured during White House construction - The Washington Post",
-        "published": "Mon, 07 Sep 2026 23:41:02 GMT",
-        "published_kst": "2026-09-08T08:41:02+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Here are the 3 big things we're watching in this holiday-shortened trading week",
-        "url": "https://www.cnbc.com/2026/09/07/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week.html",
-        "summary": "The week will be dominated by inflation data. Plus, Apple's new CEO has his first big test.",
-        "published": "Mon, 07 Sep 2026 23:31:25 GMT",
-        "published_kst": "2026-09-08T08:31:25+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-        "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-        "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say. China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-        "published": "Mon, 07 Sep 2026 23:23:10 GMT",
-        "published_kst": "2026-09-08T08:23:10+09:00",
+        "title": "Brent crude nears $99 after strikes on Saudi energy sites amid renewed Mideast hostilities",
+        "url": "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.",
+        "published": "Tue, 08 Sep 2026 06:37:02 GMT",
+        "published_kst": "2026-09-08T15:37:02+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$54"
+          "$99"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
-        "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
-        "summary": "this month has now elevated the debate over whether China's exports have cost people in other countries their jobs. CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
-        "published": "Mon, 07 Sep 2026 23:00:01 GMT",
-        "published_kst": "2026-09-08T08:00:01+09:00",
+        "title": "3 Things You Need to Know This Week | ECB Meeting, US Inflation, Consumer Sentiment - Fisher Investments",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHgxR2xldHN2VU91QU9WU1l5QkdzNWVfOEI3QjhMalJQUXNmSHlzLWN3aWhMS3FTMzRoNnNkM2JEeV9xLWlORFVGMVRtam0xcEtkdEQyZFBjc1IyRW9SZU93SkxJdkxkTVZFNWJoay1pNVJHWUF0TE95aWZHeExTbjFkQklJYnZDSU9TdGFlblZNazZiLUdDdHZBUWY0aWd3aWZnY2R6WWRKM2UwYWtXd2NnOA?oc=5",
+        "summary": "3 Things You Need to Know This Week | ECB Meeting, US Inflation, Consumer Sentiment Fisher Investments 3 Things You Need to Know This Week | ECB Meeting, US Inflation, Consumer Sentiment - Fisher Investments",
+        "published": "Tue, 08 Sep 2026 06:19:45 GMT",
+        "published_kst": "2026-09-08T15:19:45+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Hong Kong stocks face double threat: US inflation and a stronger yen - scmp.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUwxNHp4N25fWUZsMEYwSnM1M0NGSGNJTndmU2oteUE5aHc3MXFxQ0pMTl9FQnd5V19MUEZPeldVcnlZeHFtNmVUZVoyWjVhVDZwZmsxd0pwV0l4NElvckUyNGMyQURDdmtKUGVUMTh1ellSNXU3bzJJcGlkTHJxcHkyWEFqY3dydEFORDJnMktXd2c5c1hUNV83SGMtc3pkQ2kxYm54Ul9oVUhJUkZpOEVaZ21JNThtSmdjbHMtZWRmcGZfbmQ5NU1pSVBrWFNJ0gHQAUFVX3lxTFBlR2pxbHlVb0JBV2RPZDd1bklueXlyZGNXcGVTUS1JMkxyMTdyTmo2S2JwRjU2d2lmak5abERQeGRUTm43MFpPMDdiTzRhdzlBazhHNWt3WnNpOFlDOFh2ZWxxUHRLYnlvWFRBS2VXWEJmLXcySm5XOU41QlU4WkdEOEtjcWcxOWlBVTZ1LTZ1ejF0aFVJZ0pRejk2UWh5QzI4bmVZeElzb05TNjRjMXRrdkFvNlZpdjI0ci1TS0xGMmlrVmRDRGhyenFJRXFIMDY?oc=5",
+        "summary": "Hong Kong stocks face double threat: US inflation and a stronger yen scmp.com Hong Kong stocks face double threat: US inflation and a stronger yen - scmp.com",
+        "published": "Tue, 08 Sep 2026 06:19:20 GMT",
+        "published_kst": "2026-09-08T15:19:20+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Yen's rally to seven-month high weighs on dollar ahead of US CPI - The Lufkin Daily News",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZVZiTFNxSGc2N0ozdkNsUHRvaVJFNlBzbVhUV1o2RVN1TFdYMkhYb3RmSElaUEQ1SGtKZGxZbHN2d295Z2JjaGEwaGtCU1VVSXhxVG9tNm40R3YxMnltdFBZUHpFYmVGcTVTSzBhVkdQVnJ5WVFmVGJwQ1VEc0ZPVi11MjVfeFBvT2ZrOEdvNUZNcWZRdmVna3hoZHVHVnNVZkJ2X3VFM0lsOFpSUTFIRWJaanRISlYzYkFhZl9PMV9vcDFfTXp1aGNJMkUyeml0STdwM1ptTnF0eU4tU0twOGp6LWZGMDN6dkNqeUNMbGIxZi00UHc?oc=5",
+        "summary": "Yen's rally to seven-month high weighs on dollar ahead of US CPI The Lufkin Daily News Yen's rally to seven-month high weighs on dollar ahead of US CPI - The Lufkin Daily News",
+        "published": "Tue, 08 Sep 2026 06:07:17 GMT",
+        "published_kst": "2026-09-08T15:07:17+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
+        "url": "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
+        "summary": "Canada had condemned Iran’s \"destabilizing actions\" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran. Iran foreign ministry takes aim at Canada for support of U.S.",
+        "published": "Tue, 08 Sep 2026 05:29:00 GMT",
+        "published_kst": "2026-09-08T14:29:00+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House proposes grants to help parents stay home to care for their children - KMOV",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSy03TFJhYVNwcEY5cHNEVGhDTFJzOEFtck9lNS1UTkxJak16ZVpNbUw2WGpHcGtacmlKdFJ6RVV0a0ZKNTZEc0pXZlpqRjFNNGtjRkZSWDBiaHlTLWJNQnhuNHVDTjM2Qzl1NGRjampVOENOSW9DTDFsMHEycGRQN25vazdrS3d1cS1VQ0l0Y2MtdDBmdTFtTWdoTndUWFVwTkJ4S2hIdEVZV0thRUNr0gHDAUFVX3lxTFBCS09RWVlBZlBGSUoyd1lHb3A3c0thRnBZajlSUlpzYWZjcDRnZnpJR3k1ZU92YjZlam9qcW5EYXdtMGdwd0VqXzMzYmNyM3dlVXJyMnBPNnd2Y2NtTHhSQ1ZrXzh2TUpuMTFKRTlSMGc0M2U5QkxBcWtQQjFBYnd1UTBlRzhacnhQTjNDM1JvTFNpX2FubjlwZ1VlRWVmdUNkV041aGxFWDVhX3pFZXhTVGFGdnRSWXM0eU01NDZuS2ZIbw?oc=5",
-        "summary": "White House proposes grants to help parents stay home to care for their children KMOV White House proposes grants to help parents stay home to care for their children - KMOV",
-        "published": "Mon, 07 Sep 2026 22:27:00 GMT",
-        "published_kst": "2026-09-08T07:27:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Worker injured during White House scaffold removal - WUSA9",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0R4T1U0TV9Xd1JtT3R2NlBYWlVoWGJ0QWdUejZzcThzZW8wbTE3cVdtNm1NeVpVbVBLOU01LTdUeW1IVGdBZUpJcTFmNV9CYWJUN0gtSXpuOVlTd3hhT3I3Y3o3M0ZEYXhpQTBWaDJ4TXFhYzZHRjJ1V2hCdnR4YTRRZjZyRWlmVU1iMFhlZTVGSC1MazEwMGRnbnh5bTFMa0VXeTdZRGZsbXFaSkJQbUlTTEFGdGRpcEotbk81ZUc5MUJDa1dDeUtOR3E?oc=5",
-        "summary": "Worker injured during White House scaffold removal WUSA9 Worker injured during White House scaffold removal - WUSA9",
-        "published": "Mon, 07 Sep 2026 22:00:00 GMT",
-        "published_kst": "2026-09-08T07:00:00+09:00",
-        "domain": "google.com",
+        "title": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+        "url": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+        "summary": "Novartis’ failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes. Cholesterol drug setback casts doubt over multibillion-dollar race",
+        "published": "Tue, 08 Sep 2026 05:00:01 GMT",
+        "published_kst": "2026-09-08T14:00:01+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,35 +75,35 @@
     ],
     "kr": [
       {
-        "title": "2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLejZqZ2drUTREYlQ4ZmdLdG9QbzFGZmZiSV9XRFJHRk9LYWRDTGhUZ1lGaUJsdDRhZUR2a2NQcF9PVml4U1NMNHloWnR5cGM?oc=5",
-        "summary": "2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 v.daum.net 2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 - v.daum.net",
-        "published": "Mon, 07 Sep 2026 23:40:58 GMT",
-        "published_kst": "2026-09-08T08:40:58+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "0.6%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "엔화 급등, 반년 만의 최고…헤지펀드 줄줄이 매도 청산 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yVUR3OG9pQkFydEo3aEx5X2FMZGxvSG5FNVJnN3FKZWI2N2l1N3VpQ1c0RmJQaU1iZklfT2RBTl8tdkVtSkdGYU9aeV9tRTNFNUw1Q3UwMVdWQQ?oc=5",
-        "summary": "엔화 급등, 반년 만의 최고…헤지펀드 줄줄이 매도 청산 한국경제 엔화 급등, 반년 만의 최고…헤지펀드 줄줄이 매도 청산 - 한국경제",
-        "published": "Mon, 07 Sep 2026 23:38:04 GMT",
-        "published_kst": "2026-09-08T08:38:04+09:00",
+        "title": "'주식 빠지면 지켜준다더니'…믿었던 美 장기채의 배신 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GbjZYVHJZYm13bndNXzJveUhrQjhFN2Q3XzhmQjZiZ3JBRU5GREJsb0RhY3FkSGViTGg3ZWJIRWF2U3BYV1JKRjVVTHlUYkNKMXVxMDR6UUJEZw?oc=5",
+        "summary": "'주식 빠지면 지켜준다더니'…믿었던 美 장기채의 배신 한국경제 '주식 빠지면 지켜준다더니'…믿었던 美 장기채의 배신 - 한국경제",
+        "published": "Tue, 08 Sep 2026 06:35:00 GMT",
+        "published_kst": "2026-09-08T15:35:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "中 경쟁사로 반도체 기밀 넘겼나…벨기에 연구원 체포 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01a3NwWnduc0dCWTc5OXVvVG93Ym44WmRYdWZVdzBBOFZkT0FSZDU4OFp3clNlRV9CQWV1TUpDUkxjNmFLT0FCblZwVnBQTnh6MEtPblp5RHkxQQ?oc=5",
-        "summary": "中 경쟁사로 반도체 기밀 넘겼나…벨기에 연구원 체포 한국경제 中 경쟁사로 반도체 기밀 넘겼나…벨기에 연구원 체포 - 한국경제",
-        "published": "Mon, 07 Sep 2026 23:37:09 GMT",
-        "published_kst": "2026-09-08T08:37:09+09:00",
+        "title": "[속보] 잘 나가다 하락 반전…코스피 0.58%↓ 마감 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNN2xCMFFjQW5ZTktSRVNkYmtuRlpqQ3NranJHc0o5ZXJ3QlZ1cjRxMDZBVmktRl82XzBoNmxmZHlsUTN1ZGFqMmFqU3pDUWliS3M2a1V0UldYdw?oc=5",
+        "summary": "[속보] 잘 나가다 하락 반전…코스피 0.58%↓ 마감 한국경제 [속보] 잘 나가다 하락 반전…코스피 0.58%↓ 마감 - 한국경제",
+        "published": "Tue, 08 Sep 2026 06:33:07 GMT",
+        "published_kst": "2026-09-08T15:33:07+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "0.58%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "KB증권, 변동성 장세 속 AA+ 신용 앞세운 발행어음 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WY2hmTl9MZ00yU1A5Zm1IOG1pTGNtZXM0VXEtOUJRX2JhZW9BS3N2azRucFg5cHgyaUdOSE11UmZJNU5ZOC1ZQVZWdTRIUE16MEpZUzVYcEtNUQ?oc=5",
+        "summary": "KB증권, 변동성 장세 속 AA+ 신용 앞세운 발행어음 한국경제 KB증권, 변동성 장세 속 AA+ 신용 앞세운 발행어음 - 한국경제",
+        "published": "Tue, 08 Sep 2026 06:30:44 GMT",
+        "published_kst": "2026-09-08T15:30:44+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,35 +112,33 @@
     ],
     "world": [
       {
-        "title": "Rising diesel prices put strain on truck drivers, supply chain - FOX 4 News Dallas-Fort Worth",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNnc2UjhnRk5vSjNxZ3lmdXQ4NXVZYkZlMXEzTWYxSnV0OUxXeHdtbG5lV0ZCTVdMQllUYk5oQTdfOEF0Ml9lalFfNGU4YkN1M3dLRXlOYy11MVh5bno2dEhtWWhJbnpndmJEckZhV0IyR05iZjhGWG9tZk51X0pGME9VNWtMREczcmNiRDgwRWxtdw?oc=5",
-        "summary": "Rising diesel prices put strain on truck drivers, supply chain FOX 4 News Dallas-Fort Worth Rising diesel prices put strain on truck drivers, supply chain - FOX 4 News Dallas-Fort Worth",
-        "published": "Mon, 07 Sep 2026 19:53:07 GMT",
-        "published_kst": "2026-09-08T04:53:07+09:00",
+        "title": "Singapore must be 'traffic controller' of business flows amid US tariffs' supply chain reshuffle: DPM Gan - The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX1F3dTdYY2ZoWWN5WUd5eFUxbWVFcHBBOWtKMHREUUM3UnNydHYxQUlOT3dhVEpTd091MDBRLXozZndkMFZYYUNjYlJYQnJqNGdVcF94LUtxU2R6RHMxVnBYUlhwd2JFbVlOYTNBRlRWOVRMTTVwUUFsUkV4bDJtQUs3ZTNzRjlMVkMwN1lWeVRqVzNUQUFwclQ4eGNzWmhCbFVuWnZ3ay1EWlZMRXpwQWpJU0EzcGYtZkNUZWdrczF6QWEydE1xeERKMXpmZlZXS3lBM1NiZFg?oc=5",
+        "summary": "Singapore must be 'traffic controller' of business flows amid US tariffs' supply chain reshuffle: DPM Gan The Business Times Singapore must be 'traffic controller' of business flows amid US tariffs' supply chain reshuffle: DPM Gan - The Business Times",
+        "published": "Tue, 08 Sep 2026 05:37:00 GMT",
+        "published_kst": "2026-09-08T14:37:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain - Crude Oil Prices Today | OilPrice.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjFKa2RITk8xSjAwN1JYS29pNEtmQ0s1TEFDUUE5SWhOcEl2OGYwYTRBR3ItSVNQLUVWc3E5UGV4cW9fdGZlRjR1Ql9uZ1p6Y3NNS3A0elJ2WmRQSHEyQVRrVkdTczllRkNXdUdKLTZRb3RaTmNXcnQ5RS1MSFIydjgwb1p2c3E2Uk9RSVAxY0lnbGJwRlRpeTNtNlhjeDJBR0JmdG9fWFlQbU5JRUJvZ21ROWpZQ3PSAbwBQVVfeXFMUGJuWk5yQkh0VVBzZEhZN1RZdXNKUmFTRzJqMVppMllRZUNlbkhsVXBUUGNXVWRiZzFXdzRJOGZqTDFzVlJ1NHFlM3RvaW45aUdpa0VHYm9ObXhMUlFRczZHa1VkdWxUazUzV3lDa1BKT0diT240TU45S3hEZ0wzNHdGX1MtcDBEWlFpb0poMzlnWnRwbUt4enU3THF3NWlHcm9ZcTBpYm5MV0s5WXdKQzI5X1NuTXBQajN4QmE?oc=5",
-        "summary": "Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain Crude Oil Prices Today | OilPrice.com Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain - Crude Oil Prices Today | OilPrice.com",
-        "published": "Mon, 07 Sep 2026 17:00:00 GMT",
-        "published_kst": "2026-09-08T02:00:00+09:00",
+        "title": "Apple’s Foldable iPhone Faces a Supply-Chain Hiccup Ahead of September 9 Event - Global Sources",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWXRzdi1vcnNQcDFmYzJTYTJwNlhwbHBlWk0tSHhFc0tZTWYtdzZHUTJaT0tjLTBzWTNFNzJvbmpnb2t4Z1dUSGtQb09KQ3ozQkJPLUtUSTVSTG5QTUFhamJReDNpRVJ0UVZxRnpubHQ1c0M2N0hsaGdRb0RKQ1hqUjc2VzUzck9yUXp0bUppNDdmc1luNkhhUUlpNXhTeHppU09oaThLQmNQU2VjdER6UVBhRWlRNmVhYk1xRmFteHRFeVFhMFIyWkVmQ1pDWHdzRHc?oc=5",
+        "summary": "Apple’s Foldable iPhone Faces a Supply-Chain Hiccup Ahead of September 9 Event Global Sources Apple’s Foldable iPhone Faces a Supply-Chain Hiccup Ahead of September 9 Event - Global Sources",
+        "published": "Tue, 08 Sep 2026 04:52:30 GMT",
+        "published_kst": "2026-09-08T13:52:30+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "1994"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Sphera Franchise Group appoints Anca Popa as Supply Chain Director - Business Review",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFNCSEEtRUJyNFZLZkVQNGUwXzd0b1FocU9UVHZGbU51LWJ6Z3hOQW92dmRvRXFXdkRzU2tqc1VqSFY4cVZ4VVVlb0Q1LU1iN2pUZjM0WXlFa0RHdkVEUUhtejROTFdSc0pvU0hXUlhRdU11eEhkcmhKTWpxcHk1b0ZINWJsYXBrajlXTXFta2hMVjlPaGVCMmw5ZU4wNmpzZ01ld1NkOXNpeVc2b2MyQWloYXpMdTZodWctN2hn?oc=5",
-        "summary": "Sphera Franchise Group appoints Anca Popa as Supply Chain Director Business Review Sphera Franchise Group appoints Anca Popa as Supply Chain Director - Business Review",
-        "published": "Mon, 07 Sep 2026 16:00:32 GMT",
-        "published_kst": "2026-09-08T01:00:32+09:00",
+        "title": "Why Is WiseTech Global (ASX:WTC) Reshaping Global Supply Chain Software? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjVoWDJhcnF4c3pTTEk4LUlKcVcyS08xYWxYdm0zSnQ2M3NsTTNvNUt0cldEdElHcmtCTWlfdnd2OTg5RDE1TEFYREtVOFZnaUxxYlRiaDNVbXNkOElnOS1CcEQzTUhqMU5OaGhGR3Z6MUU2YVZ5bldhV0lJb3NvM1dUdmo4c1JmUGZSaTRWQmFTTlNVSmo4aGRGbzNIT2prOUNjdE56UmdOUFhnMkh5OFF2SW0?oc=5",
+        "summary": "Kalkine Media Why Is WiseTech Global (ASX:WTC) Reshaping Global Supply Chain Software?",
+        "published": "Tue, 08 Sep 2026 04:25:00 GMT",
+        "published_kst": "2026-09-08T13:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Emergency crew rescues worker injured during White House construction The Washington Post Emergency crew rescues worker injured during White House construction - The Washington Post / 2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 v.daum.net 2분기 한국 경제 0.6% 성장…수출·민간소비 동반 증가 - v.daum.net / Rising diesel prices put strain on truck drivers, supply chain FOX 4 News Dallas-Fort Worth Rising diesel prices put strain on truck drivers, supply chain - FOX 4 News Dallas-Fort Worth",
+  "wrap_summary": "Oil prices rose Tuesday on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend. / '주식 빠지면 지켜준다더니'…믿었던 美 장기채의 배신 한국경제 '주식 빠지면 지켜준다더니'…믿었던 美 장기채의 배신 - 한국경제 / Singapore must be 'traffic controller' of business flows amid US tariffs' supply chain reshuffle: DPM Gan The Business Times Singapore must be 'traffic controller' of business flows amid US tariffs' supply chain reshuffle: DPM Gan - The Business Times",
   "invest_summary": ""
 }
