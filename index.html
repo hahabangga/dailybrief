@@ -7,343 +7,1534 @@
 <link rel="icon" href="data:,">
 <style>
   :root{
-    --bg:#0b1220; --card:#121a2b; --text:#e6eefc; --sub:#91a4c7; --accent:#6aa0ff; --ok:#78e08f; --warn:#ffd166; --bad:#ff6b6b;
+    --bg:#0b1220;
+    --card:#121a2b;
+    --text:#e6eefc;
+    --sub:#91a4c7;
+    --accent:#6aa0ff;
+    --ok:#78e08f;
+    --warn:#ffd166;
+    --bad:#ff6b6b;
     --muted:#2a3450;
   }
+
   *{box-sizing:border-box}
-  body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Apple SD Gothic Neo,Noto Sans KR,sans-serif;background:var(--bg);color:var(--text);line-height:1.55}
-  header{position:sticky;top:0;background:linear-gradient(180deg,#0b1220e6,#0b1220a0 60%,#0b122000);backdrop-filter:saturate(1.4) blur(6px);padding:16px 12px 8px;z-index:10}
-  .wrap{max-width:1080px;margin:0 auto;padding:0 12px}
-  h1{margin:0 0 8px;font-size:22px}
-  .meta{font-size:13px;color:var(--sub)}
-  .grid{display:grid;gap:12px;margin:12px 0}
-  @media(min-width:900px){.grid{grid-template-columns:repeat(3,1fr)}}
-  .card{background:var(--card);border:1px solid var(--muted);border-radius:14px;padding:14px}
-  .card h2{margin:0 0 10px;font-size:18px}
-  .list{margin:8px 0 0;padding:0;list-style:none}
-  .list li{padding:10px 0;border-top:1px solid #243252}
-  .list li:first-child{border-top:0}
-  .muted{color:var(--sub)}
-  a{color:var(--accent);text-decoration:none}
-  a:hover{text-decoration:underline}
-  .table{width:100%;border-collapse:collapse;margin-top:8px;font-size:14px}
-  .table th,.table td{border:1px solid #263456;padding:6px 8px;text-align:center}
-  .chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
-  .chip{font-size:12px;border:1px solid #314066;border-radius:999px;padding:2px 8px;color:#b7c6e9}
-  .ok{color:var(--ok)} .warn{color:var(--warn)} .bad{color:var(--bad)}
-  footer{padding:40px 12px;color:#8fa2c9;text-align:center}
-  .row{display:flex;gap:8px;flex-wrap:wrap}
-  .small{font-size:13px}
-  .ktitle{font-weight:700}
-  .etag{font-size:12px;color:#9fb0d6;margin-left:6px}
+
+  body{
+    margin:0;
+    font-family:system-ui,-apple-system,Segoe UI,Roboto,Apple SD Gothic Neo,Noto Sans KR,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.55
+  }
+
+  header{
+    position:sticky;
+    top:0;
+    background:linear-gradient(180deg,#0b1220e6,#0b1220a0 60%,#0b122000);
+    backdrop-filter:saturate(1.4) blur(6px);
+    padding:16px 12px 8px;
+    z-index:10
+  }
+
+  .wrap{
+    max-width:1080px;
+    margin:0 auto;
+    padding:0 12px
+  }
+
+  h1{
+    margin:0 0 8px;
+    font-size:22px
+  }
+
+  .meta{
+    font-size:13px;
+    color:var(--sub)
+  }
+
+  .grid{
+    display:grid;
+    gap:12px;
+    margin:12px 0
+  }
+
+  @media(min-width:900px){
+    .grid{
+      grid-template-columns:repeat(3,1fr)
+    }
+  }
+
+  .card{
+    background:var(--card);
+    border:1px solid var(--muted);
+    border-radius:14px;
+    padding:14px
+  }
+
+  .card h2{
+    margin:0 0 10px;
+    font-size:18px
+  }
+
+  .list{
+    margin:8px 0 0;
+    padding:0;
+    list-style:none
+  }
+
+  .list li{
+    padding:10px 0;
+    border-top:1px solid #243252
+  }
+
+  .list li:first-child{
+    border-top:0
+  }
+
+  .muted{
+    color:var(--sub)
+  }
+
+  a{
+    color:var(--accent);
+    text-decoration:none
+  }
+
+  a:hover{
+    text-decoration:underline
+  }
+
+  .table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:8px;
+    font-size:14px
+  }
+
+  .table th,
+  .table td{
+    border:1px solid #263456;
+    padding:6px 8px;
+    text-align:center
+  }
+
+  .chips{
+    display:flex;
+    gap:6px;
+    flex-wrap:wrap;
+    margin-top:6px
+  }
+
+  .chip{
+    font-size:12px;
+    border:1px solid #314066;
+    border-radius:999px;
+    padding:2px 8px;
+    color:#b7c6e9
+  }
+
+  .ok{color:var(--ok)}
+  .warn{color:var(--warn)}
+  .bad{color:var(--bad)}
+
+  footer{
+    padding:40px 12px;
+    color:#8fa2c9;
+    text-align:center
+  }
+
+  .row{
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap
+  }
+
+  .small{
+    font-size:13px
+  }
+
+  .ktitle{
+    font-weight:700
+  }
+
+  .etag{
+    font-size:12px;
+    color:#9fb0d6;
+    margin-left:6px
+  }
 </style>
 </head>
+
 <body>
+
 <header>
   <div class="wrap">
+
     <h1>📊 Daily Brief</h1>
-    <div class="meta" id="stamp">로딩 중…</div>
-    <div class="row small">
-      <a href="./listening.html">🎧 영어 리스닝</a>
-      <span>·</span>
-      <a href="https://github.com/hahabangga/dailybrief" target="_blank">레포 열기</a>
+
+    <div class="meta" id="stamp">
+      로딩 중…
     </div>
+
+    <div class="row small">
+
+      <a href="./listening.html">
+        🎧 영어 리스닝
+      </a>
+
+      <span>·</span>
+
+      <a href="./toeic.html">
+        📘 TOEIC 600
+      </a>
+
+      <span>·</span>
+
+      <a
+        href="https://github.com/hahabangga/dailybrief"
+        target="_blank">
+        레포 열기
+      </a>
+
+    </div>
+
   </div>
 </header>
 
+
 <main class="wrap">
+
   <!-- 날씨 -->
+
   <section class="card">
-    <h2>☀️ 오늘 날씨 & 7일 전망 (서울)</h2>
-    <div id="weatherNow" class="muted">로딩 중…</div>
-    <div class="row small" id="todChunks"></div>
-    <table class="table" id="wTable">
-      <thead><tr><th>날짜</th><th>최고/최저</th><th>상태</th></tr></thead>
-      <tbody></tbody>
+
+    <h2>
+      ☀️ 오늘 날씨 & 7일 전망 (서울)
+    </h2>
+
+    <div
+      id="weatherNow"
+      class="muted">
+      로딩 중…
+    </div>
+
+    <div
+      class="row small"
+      id="todChunks">
+    </div>
+
+    <table
+      class="table"
+      id="wTable">
+
+      <thead>
+        <tr>
+          <th>날짜</th>
+          <th>최고/최저</th>
+          <th>상태</th>
+        </tr>
+      </thead>
+
+      <tbody>
+      </tbody>
+
     </table>
+
   </section>
+
 
   <!-- 뉴스 -->
+
   <section class="card">
-    <h2>📰 뉴스 (핵심 요약 · 한글)</h2>
+
+    <h2>
+      📰 뉴스 (핵심 요약 · 한글)
+    </h2>
+
     <div class="grid">
+
       <div>
+
         <h3>🇺🇸 미국</h3>
-        <ul id="us" class="list"></ul>
+
+        <ul
+          id="us"
+          class="list">
+        </ul>
+
       </div>
+
+
       <div>
+
         <h3>🇰🇷 한국</h3>
-        <ul id="kr" class="list"></ul>
+
+        <ul
+          id="kr"
+          class="list">
+        </ul>
+
       </div>
+
+
       <div>
+
         <h3>🌍 세계</h3>
-        <ul id="world" class="list"></ul>
+
+        <ul
+          id="world"
+          class="list">
+        </ul>
+
       </div>
+
     </div>
-    <div><strong>🧭 오늘의 핵심 결과</strong></div>
-    <div id="wrapSummaryKo" class="muted">요약을 불러오는 중…</div>
-    <div id="wrapSummary" class="small"></div>
+
+
+    <div>
+      <strong>
+        🧭 오늘의 핵심 결과
+      </strong>
+    </div>
+
+
+    <div
+      id="wrapSummaryKo"
+      class="muted">
+
+      요약을 불러오는 중…
+
+    </div>
+
+
+    <div
+      id="wrapSummary"
+      class="small">
+    </div>
+
   </section>
+
 
   <!-- 증시 -->
+
   <section class="card">
-    <h2>📈 전일 종가 & 전망</h2>
-    <div id="closes" class="row small muted">로딩 중…</div>
-    <ul class="list" id="marketNotes"></ul>
-    <div><strong>💡 투자 조언</strong></div>
-    <div id="investSummary" class="muted small"></div>
+
+    <h2>
+      📈 전일 종가 & 전망
+    </h2>
+
+    <div
+      id="closes"
+      class="row small muted">
+      로딩 중…
+    </div>
+
+    <ul
+      class="list"
+      id="marketNotes">
+    </ul>
+
+    <div>
+      <strong>
+        💡 투자 조언
+      </strong>
+    </div>
+
+    <div
+      id="investSummary"
+      class="muted small">
+    </div>
+
   </section>
+
 
   <!-- 운세 & 영어 한 문장 -->
+
   <section class="card">
-    <h2>🔮 운세 & 🗣 영어 한 문장</h2>
-    <div id="fortune" class="small"></div>
-    <hr style="border:none;border-top:1px solid #243252;margin:12px 0">
-    <div id="phrase" class="small"></div>
+
+    <h2>
+      🔮 운세 & 🗣 영어 한 문장
+    </h2>
+
+    <div
+      id="fortune"
+      class="small">
+    </div>
+
+    <hr style="
+      border:none;
+      border-top:1px solid #243252;
+      margin:12px 0
+    ">
+
+    <div
+      id="phrase"
+      class="small">
+    </div>
+
   </section>
+
 </main>
 
+
 <footer>
-  <div>© Daily Brief — 자동수집: Weather(Open-Meteo), News(Google News RSS 요약), Close(Yahoo Finance via GitHub Actions)</div>
+
+  <div>
+    © Daily Brief —
+    자동수집:
+    Weather(Open-Meteo),
+    News(Google News RSS 요약),
+    Close(Yahoo Finance via GitHub Actions)
+  </div>
+
 </footer>
 
+
 <script>
-/* ===== 공용 ===== */
-const $ = (q,root=document)=>root.querySelector(q);
-const $$ = (q,root=document)=>[...root.querySelectorAll(q)];
-$('#stamp').textContent = new Date().toLocaleString('ko-KR', { timeZone:'Asia/Seoul' });
+
+/* =========================================================
+   공용
+========================================================= */
+
+const $ =
+  (q,root=document) =>
+    root.querySelector(q);
+
+
+const $$ =
+  (q,root=document) =>
+    [...root.querySelectorAll(q)];
+
+
+$('#stamp').textContent =
+  new Date().toLocaleString(
+    'ko-KR',
+    {
+      timeZone:'Asia/Seoul'
+    }
+  );
+
 
 async function translateKo(text){
-  // 무료 gtx 엔드포인트(간단 번역). 실패 시 원문 반환.
+
   try{
-    if(!text) return '';
-    const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t&q=' + encodeURIComponent(text);
-    const r = await fetch(url);
-    const j = await r.json();
-    return j[0].map(x=>x[0]).join('');
+
+    if(!text)
+      return '';
+
+
+    const url =
+      'https://translate.googleapis.com/translate_a/single' +
+      '?client=gtx&sl=auto&tl=ko&dt=t&q=' +
+      encodeURIComponent(text);
+
+
+    const r =
+      await fetch(url);
+
+
+    const j =
+      await r.json();
+
+
+    return j[0]
+      .map(
+        x => x[0]
+      )
+      .join('');
+
+
   }catch(e){
+
     return text;
+
   }
+
 }
 
-function pct(v){ return (v>0?'+':'')+v.toFixed(2)+'%'; }
-function chip(text){ const s=document.createElement('span'); s.className='chip'; s.textContent=text; return s; }
-function truncate(s, n=220){ s=s||''; return s.length>n? s.slice(0,n-1)+'…': s; }
 
-/* ===== 날씨: 현재/7일 + 시간대별 멘트 ===== */
+function pct(v){
+
+  return (
+    (v>0 ? '+' : '') +
+    v.toFixed(2) +
+    '%'
+  );
+
+}
+
+
+function chip(text){
+
+  const s =
+    document.createElement(
+      'span'
+    );
+
+  s.className =
+    'chip';
+
+  s.textContent =
+    text;
+
+  return s;
+
+}
+
+
+function truncate(
+  s,
+  n=220
+){
+
+  s =
+    s || '';
+
+  return (
+    s.length > n
+      ?
+      s.slice(
+        0,
+        n-1
+      ) + '…'
+      :
+      s
+  );
+
+}
+
+
+/* =========================================================
+   날씨
+========================================================= */
+
 async function loadWeather(){
-  try{
-    const g = await fetch('https://geocoding-api.open-meteo.com/v1/search?name=Seoul&count=1&language=ko&format=json').then(r=>r.json());
-    const { latitude:lat, longitude:lon } = g.results[0];
-    const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&timezone=Asia%2FSeoul&current=temperature_2m,apparent_temperature,weather_code&hourly=temperature_2m,apparent_temperature,precipitation_probability,wind_speed_10m,uv_index&daily=weather_code,temperature_2m_max,temperature_2m_min&forecast_days=7`;
-    const w = await fetch(url).then(r=>r.json());
 
-    const nowT = Math.round(w.current.temperature_2m);
-    const nowApp = Math.round(w.current.apparent_temperature);
-    const nowSt = codeToText(w.current.weather_code);
-    $('#weatherNow').textContent = `${fmtKST(new Date())}, ${nowT}°C (체감 ${nowApp}°C), ${nowSt}`;
+  try{
+
+    const g =
+      await fetch(
+        'https://geocoding-api.open-meteo.com/v1/search?name=Seoul&count=1&language=ko&format=json'
+      )
+      .then(
+        r => r.json()
+      );
+
+
+    const {
+      latitude:lat,
+      longitude:lon
+    } =
+      g.results[0];
+
+
+    const url =
+      `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&timezone=Asia%2FSeoul&current=temperature_2m,apparent_temperature,weather_code&hourly=temperature_2m,apparent_temperature,precipitation_probability,wind_speed_10m,uv_index&daily=weather_code,temperature_2m_max,temperature_2m_min&forecast_days=7`;
+
+
+    const w =
+      await fetch(
+        url
+      )
+      .then(
+        r => r.json()
+      );
+
+
+    const nowT =
+      Math.round(
+        w.current.temperature_2m
+      );
+
+
+    const nowApp =
+      Math.round(
+        w.current.apparent_temperature
+      );
+
+
+    const nowSt =
+      codeToText(
+        w.current.weather_code
+      );
+
+
+    $('#weatherNow').textContent =
+      `${fmtKST(new Date())}, ${nowT}°C (체감 ${nowApp}°C), ${nowSt}`;
+
 
     const chunks = [
-      {label:'오전(06–12)',range:[6,12]},
-      {label:'오후(12–18)',range:[12,18]},
-      {label:'밤(18–24)',range:[18,24]},
+
+      {
+        label:'오전(06–12)',
+        range:[6,12]
+      },
+
+      {
+        label:'오후(12–18)',
+        range:[12,18]
+      },
+
+      {
+        label:'밤(18–24)',
+        range:[18,24]
+      },
+
     ];
-    $('#todChunks').innerHTML='';
-    for(const c of chunks){
-      const hint = timeHint(w, c.range[0], c.range[1]);
-      const tag = chip(`${c.label}: ${hint}`);
-      $('#todChunks').appendChild(tag);
+
+
+    $('#todChunks').innerHTML =
+      '';
+
+
+    for(
+      const c
+      of chunks
+    ){
+
+      const hint =
+        timeHint(
+          w,
+          c.range[0],
+          c.range[1]
+        );
+
+
+      const tag =
+        chip(
+          `${c.label}: ${hint}`
+        );
+
+
+      $('#todChunks')
+        .appendChild(
+          tag
+        );
+
     }
 
-    const tb = $('#wTable tbody'); tb.innerHTML='';
-    const days = w.daily.time;
-    for(let i=0;i<days.length;i++){
-      const d = days[i];
-      const tr = document.createElement('tr');
-      const hi = Math.round(w.daily.temperature_2m_max[i]);
-      const lo = Math.round(w.daily.temperature_2m_min[i]);
-      const st = codeToText(w.daily.weather_code[i]);
-      tr.innerHTML = `<td>${d}</td><td>${hi}/${lo}°C</td><td>${st}</td>`;
-      tb.appendChild(tr);
+
+    const tb =
+      $('#wTable tbody');
+
+
+    tb.innerHTML =
+      '';
+
+
+    const days =
+      w.daily.time;
+
+
+    for(
+      let i=0;
+      i<days.length;
+      i++
+    ){
+
+      const d =
+        days[i];
+
+
+      const tr =
+        document.createElement(
+          'tr'
+        );
+
+
+      const hi =
+        Math.round(
+          w.daily.temperature_2m_max[i]
+        );
+
+
+      const lo =
+        Math.round(
+          w.daily.temperature_2m_min[i]
+        );
+
+
+      const st =
+        codeToText(
+          w.daily.weather_code[i]
+        );
+
+
+      tr.innerHTML =
+        `<td>${d}</td><td>${hi}/${lo}°C</td><td>${st}</td>`;
+
+
+      tb.appendChild(
+        tr
+      );
+
     }
+
+
   }catch(e){
-    $('#weatherNow').textContent='(날씨 데이터 지연)';
+
+    $('#weatherNow').textContent =
+      '(날씨 데이터 지연)';
+
   }
+
 }
-function fmtKST(d){ return d.toLocaleString('ko-KR',{timeZone:'Asia/Seoul', hour12:false}); }
+
+
+function fmtKST(d){
+
+  return d.toLocaleString(
+    'ko-KR',
+    {
+      timeZone:'Asia/Seoul',
+      hour12:false
+    }
+  );
+
+}
+
+
 function codeToText(code){
+
   const m = {
-    0:'맑음',1:'대체로 맑음',2:'부분적 흐림',3:'흐림',
-    45:'안개',48:'서리 안개',
-    51:'약한 이슬비',53:'이슬비',55:'강한 이슬비',
-    61:'약한 비',63:'비',65:'강한 비',
-    66:'얼음비',67:'강한 얼음비',
-    71:'약한 눈',73:'눈',75:'강한 눈',
-    77:'진눈깨비',80:'소나기',81:'강한 소나기',82:'매우 강한 소나기',
-    95:'뇌우',96:'뇌우(우박)',99:'강한 뇌우(우박)'
+
+    0:'맑음',
+
+    1:'대체로 맑음',
+
+    2:'부분적 흐림',
+
+    3:'흐림',
+
+    45:'안개',
+
+    48:'서리 안개',
+
+    51:'약한 이슬비',
+
+    53:'이슬비',
+
+    55:'강한 이슬비',
+
+    61:'약한 비',
+
+    63:'비',
+
+    65:'강한 비',
+
+    66:'얼음비',
+
+    67:'강한 얼음비',
+
+    71:'약한 눈',
+
+    73:'눈',
+
+    75:'강한 눈',
+
+    77:'진눈깨비',
+
+    80:'소나기',
+
+    81:'강한 소나기',
+
+    82:'매우 강한 소나기',
+
+    95:'뇌우',
+
+    96:'뇌우(우박)',
+
+    99:'강한 뇌우(우박)'
+
   };
-  return m[code] || '변화';
+
+
+  return (
+    m[code] ||
+    '변화'
+  );
+
 }
-function timeHint(w, hStart, hEnd){
-  const hrs = w.hourly.time.map(t=>new Date(t));
-  let pMax=0, uvMax=0, windMax=0, tFeelMax=-1e9, tFeelMin=1e9;
-  for(let i=0;i<hrs.length;i++){
-    const hh = hrs[i].toLocaleString('en-US',{timeZone:'Asia/Seoul', hour12:false}).split(', ')[1].split(':')[0]*1;
-    if(hh>=hStart && hh<hEnd){
-      pMax = Math.max(pMax, w.hourly.precipitation_probability?.[i]??0);
-      uvMax = Math.max(uvMax, w.hourly.uv_index?.[i]??0);
-      windMax = Math.max(windMax, w.hourly.wind_speed_10m?.[i]??0);
-      const app = w.hourly.apparent_temperature?.[i];
-      if(app!=null){ tFeelMax=Math.max(tFeelMax,app); tFeelMin=Math.min(tFeelMin,app); }
+
+
+function timeHint(
+  w,
+  hStart,
+  hEnd
+){
+
+  const hrs =
+    w.hourly.time.map(
+      t => new Date(t)
+    );
+
+
+  let pMax = 0;
+
+  let uvMax = 0;
+
+  let windMax = 0;
+
+  let tFeelMax =
+    -1e9;
+
+  let tFeelMin =
+    1e9;
+
+
+  for(
+    let i=0;
+    i<hrs.length;
+    i++
+  ){
+
+    const hh =
+      hrs[i]
+      .toLocaleString(
+        'en-US',
+        {
+          timeZone:'Asia/Seoul',
+          hour12:false
+        }
+      )
+      .split(', ')[1]
+      .split(':')[0] * 1;
+
+
+    if(
+      hh >= hStart &&
+      hh < hEnd
+    ){
+
+      pMax =
+        Math.max(
+          pMax,
+          w.hourly.precipitation_probability?.[i] ?? 0
+        );
+
+
+      uvMax =
+        Math.max(
+          uvMax,
+          w.hourly.uv_index?.[i] ?? 0
+        );
+
+
+      windMax =
+        Math.max(
+          windMax,
+          w.hourly.wind_speed_10m?.[i] ?? 0
+        );
+
+
+      const app =
+        w.hourly.apparent_temperature?.[i];
+
+
+      if(
+        app != null
+      ){
+
+        tFeelMax =
+          Math.max(
+            tFeelMax,
+            app
+          );
+
+
+        tFeelMin =
+          Math.min(
+            tFeelMin,
+            app
+          );
+
+      }
+
     }
+
   }
-  const tips=[];
-  if(pMax>=40) tips.push('비 소지(우산 권장)');
-  if(windMax>=8) tips.push('강풍 유의');
-  if(uvMax>=6) tips.push('자외선 강함(차양)');
-  if(tFeelMax>=28) tips.push('더위 주의');
-  if(tFeelMin<=0) tips.push('한파 유의');
-  return tips[0] ? tips.join(', ') : '대체로 무난';
+
+
+  const tips =
+    [];
+
+
+  if(
+    pMax >= 40
+  )
+    tips.push(
+      '비 소지(우산 권장)'
+    );
+
+
+  if(
+    windMax >= 8
+  )
+    tips.push(
+      '강풍 유의'
+    );
+
+
+  if(
+    uvMax >= 6
+  )
+    tips.push(
+      '자외선 강함(차양)'
+    );
+
+
+  if(
+    tFeelMax >= 28
+  )
+    tips.push(
+      '더위 주의'
+    );
+
+
+  if(
+    tFeelMin <= 0
+  )
+    tips.push(
+      '한파 유의'
+    );
+
+
+  return (
+    tips[0]
+      ?
+      tips.join(', ')
+      :
+      '대체로 무난'
+  );
+
 }
 
-/* ===== 뉴스: regions.us/kr/world 사용 + 한글 번역 ===== */
-let cachedNews=null;
-async function loadNews(force=false){
-  try{
-    if(!cachedNews || force){
-      cachedNews = await fetch('data/news.json?ts='+Date.now()).then(r=>r.json());
-    }
-    const j = cachedNews;
 
-    if(j.regions){
-      await renderList('#us',    j.regions.us    || []);
-      await renderList('#kr',    j.regions.kr    || []);
-      await renderList('#world', j.regions.world || []);
-    }else if(j.sections){
-      await renderList('#us',    j.sections.economy  || []);
-      await renderList('#kr',    j.sections.politics || []);
-      await renderList('#world', j.sections.world    || j.sections.society || []);
+/* =========================================================
+   뉴스
+========================================================= */
+
+let cachedNews =
+  null;
+
+
+async function loadNews(
+  force=false
+){
+
+  try{
+
+    if(
+      !cachedNews ||
+      force
+    ){
+
+      cachedNews =
+        await fetch(
+          'data/news.json?ts=' +
+          Date.now()
+        )
+        .then(
+          r => r.json()
+        );
+
+    }
+
+
+    const j =
+      cachedNews;
+
+
+    if(
+      j.regions
+    ){
+
+      await renderList(
+        '#us',
+        j.regions.us || []
+      );
+
+
+      await renderList(
+        '#kr',
+        j.regions.kr || []
+      );
+
+
+      await renderList(
+        '#world',
+        j.regions.world || []
+      );
+
+
+    }else if(
+      j.sections
+    ){
+
+      await renderList(
+        '#us',
+        j.sections.economy || []
+      );
+
+
+      await renderList(
+        '#kr',
+        j.sections.politics || []
+      );
+
+
+      await renderList(
+        '#world',
+        j.sections.world ||
+        j.sections.society ||
+        []
+      );
+
+
     }else{
-      $('#us').innerHTML = '<li>데이터 없음</li>';
-      $('#kr').innerHTML = '<li>데이터 없음</li>';
-      $('#world').innerHTML = '<li>데이터 없음</li>';
+
+      $('#us').innerHTML =
+        '<li>데이터 없음</li>';
+
+
+      $('#kr').innerHTML =
+        '<li>데이터 없음</li>';
+
+
+      $('#world').innerHTML =
+        '<li>데이터 없음</li>';
+
     }
 
-    const wrapEn = j.wrap_summary || '';
-    $('#wrapSummary').textContent   = wrapEn ? `(영문) ${wrapEn}` : '';
-    $('#wrapSummaryKo').textContent = wrapEn ? await translateKo(wrapEn) : '요약을 불러올 수 없습니다.';
-    $('#investSummary').textContent = j.invest_summary || '시장 방향성 불확실 — 분산과 현금비중 관리.';
+
+    const wrapEn =
+      j.wrap_summary || '';
+
+
+    $('#wrapSummary').textContent =
+      wrapEn
+        ?
+        `(영문) ${wrapEn}`
+        :
+        '';
+
+
+    $('#wrapSummaryKo').textContent =
+      wrapEn
+        ?
+        await translateKo(
+          wrapEn
+        )
+        :
+        '요약을 불러올 수 없습니다.';
+
+
+    $('#investSummary').textContent =
+      j.invest_summary ||
+      '시장 방향성 불확실 — 분산과 현금비중 관리.';
+
+
   }catch(e){
-    $('#wrapSummaryKo').textContent='뉴스 데이터 없음';
-    $('#wrapSummary').textContent='';
+
+    $('#wrapSummaryKo').textContent =
+      '뉴스 데이터 없음';
+
+
+    $('#wrapSummary').textContent =
+      '';
+
   }
+
 }
 
-async function renderList(sel, arr){
-  const el = $(sel);
-  el.innerHTML = '';
-  if(!arr || !arr.length){ el.innerHTML='<li class="muted">항목 없음</li>'; return; }
 
-  // 상위 5건만 번역(요청 수 최소화)
-  const top = arr.slice(0,5);
+async function renderList(
+  sel,
+  arr
+){
 
-  // 번역 병렬 처리(제목/요약 각각)
-  const jobs = top.map(async it=>{
-    const title = it.title || '제목 없음';
-    const summary = it.summary || it.desc || '';
-    const kTitle = await translateKo(title);
-    const kSum   = await translateKo(truncate(summary, 280));
-    return { ...it, kTitle, kSum };
-  });
+  const el =
+    $(sel);
 
-  const done = await Promise.all(jobs);
 
-  for(const it of done){
-    const li = document.createElement('li');
-    const when = it.published ? `<span class="etag">${escapeHtml(it.published)}</span>` : '';
-    const why  = it.why_matters ? `<div class="small muted">왜 중요한가: ${escapeHtml(it.why_matters)}</div>` : '';
+  el.innerHTML =
+    '';
+
+
+  if(
+    !arr ||
+    !arr.length
+  ){
+
+    el.innerHTML =
+      '<li class="muted">항목 없음</li>';
+
+    return;
+
+  }
+
+
+  const top =
+    arr.slice(
+      0,
+      5
+    );
+
+
+  const jobs =
+    top.map(
+      async it => {
+
+        const title =
+          it.title ||
+          '제목 없음';
+
+
+        const summary =
+          it.summary ||
+          it.desc ||
+          '';
+
+
+        const kTitle =
+          await translateKo(
+            title
+          );
+
+
+        const kSum =
+          await translateKo(
+            truncate(
+              summary,
+              280
+            )
+          );
+
+
+        return {
+          ...it,
+          kTitle,
+          kSum
+        };
+
+      }
+    );
+
+
+  const done =
+    await Promise.all(
+      jobs
+    );
+
+
+  for(
+    const it
+    of done
+  ){
+
+    const li =
+      document.createElement(
+        'li'
+      );
+
+
+    const when =
+      it.published
+        ?
+        `<span class="etag">${escapeHtml(it.published)}</span>`
+        :
+        '';
+
+
+    const why =
+      it.why_matters
+        ?
+        `<div class="small muted">왜 중요한가: ${escapeHtml(it.why_matters)}</div>`
+        :
+        '';
+
+
     li.innerHTML = `
-      <div class="ktitle"><a href="${it.url}" target="_blank">${escapeHtml(it.kTitle || it.title || '제목 없음')}</a>${when}</div>
-      <div class="small">${escapeHtml(it.kSum || it.summary || '')}</div>
+
+      <div class="ktitle">
+
+        <a
+          href="${it.url}"
+          target="_blank">
+
+          ${escapeHtml(
+            it.kTitle ||
+            it.title ||
+            '제목 없음'
+          )}
+
+        </a>
+
+        ${when}
+
+      </div>
+
+      <div class="small">
+        ${escapeHtml(
+          it.kSum ||
+          it.summary ||
+          ''
+        )}
+      </div>
+
       ${why}
-    `;
-    el.appendChild(li);
-  }
-}
-function escapeHtml(s){return (s||'').replace(/[&<>"']/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
 
-/* ===== 전일 종가 ===== */
+    `;
+
+
+    el.appendChild(
+      li
+    );
+
+  }
+
+}
+
+
+function escapeHtml(s){
+
+  return (
+    s || ''
+  )
+  .replace(
+    /[&<>"']/g,
+    m => ({
+      '&':'&amp;',
+      '<':'&lt;',
+      '>':'&gt;',
+      '"':'&quot;',
+      "'":'&#39;'
+    }[m])
+  );
+
+}
+
+
+/* =========================================================
+   전일 종가
+========================================================= */
+
 async function loadCloses(){
+
   try{
-    const j = await fetch('data/close.json?ts='+Date.now()).then(r=>r.json());
-    const v = j.values || {};
-    const d = j.date || '';
+
+    const j =
+      await fetch(
+        'data/close.json?ts=' +
+        Date.now()
+      )
+      .then(
+        r => r.json()
+      );
+
+
+    const v =
+      j.values || {};
+
+
+    const d =
+      j.date || '';
+
+
     const items = [
-      ['S&P 500','SPX', v.SPX],
-      ['Nasdaq','IXIC', v.IXIC],
-      ['Dow','DJI', v.DJI],
-      ['KOSPI','KOSPI', v.KOSPI],
+
+      [
+        'S&P 500',
+        'SPX',
+        v.SPX
+      ],
+
+      [
+        'Nasdaq',
+        'IXIC',
+        v.IXIC
+      ],
+
+      [
+        'Dow',
+        'DJI',
+        v.DJI
+      ],
+
+      [
+        'KOSPI',
+        'KOSPI',
+        v.KOSPI
+      ],
+
     ];
-    const row = $('#closes'); row.innerHTML='';
-    row.append('전일 종가 ', d?`(${d})`:'', ' — ');
-    items.forEach((x,i)=>{
-      const [name,key,val]=x;
-      const span = document.createElement('span');
-      span.textContent = `${name}: ${val??'—'}`;
-      if(i<items.length-1) span.textContent += ' · ';
-      row.appendChild(span);
-    });
 
-    const ul = $('#marketNotes');
+
+    const row =
+      $('#closes');
+
+
+    row.innerHTML =
+      '';
+
+
+    row.append(
+      '전일 종가 ',
+      d
+        ?
+        `(${d})`
+        :
+        '',
+      ' — '
+    );
+
+
+    items.forEach(
+      (x,i) => {
+
+        const [
+          name,
+          key,
+          val
+        ] =
+          x;
+
+
+        const span =
+          document.createElement(
+            'span'
+          );
+
+
+        span.textContent =
+          `${name}: ${val ?? '—'}`;
+
+
+        if(
+          i < items.length - 1
+        )
+          span.textContent +=
+            ' · ';
+
+
+        row.appendChild(
+          span
+        );
+
+      }
+    );
+
+
+    const ul =
+      $('#marketNotes');
+
+
     ul.innerHTML = `
-      <li><strong>🎯 오늘 전망</strong><div class="small muted">주요 이벤트/헤드라인에 따라 변동성 확대 가능.</div></li>
-      <li><strong>📅 주간 전망</strong><div class="small muted">CPI/FOMC/실적 등 캘린더 확인.</div></li>
-      <li><strong>🗓 월간 전망</strong><div class="small muted">유동성·정책 방향과 모멘텀 점검.</div></li>
+
+      <li>
+
+        <strong>
+          🎯 오늘 전망
+        </strong>
+
+        <div class="small muted">
+          주요 이벤트/헤드라인에 따라 변동성 확대 가능.
+        </div>
+
+      </li>
+
+
+      <li>
+
+        <strong>
+          📅 주간 전망
+        </strong>
+
+        <div class="small muted">
+          CPI/FOMC/실적 등 캘린더 확인.
+        </div>
+
+      </li>
+
+
+      <li>
+
+        <strong>
+          🗓 월간 전망
+        </strong>
+
+        <div class="small muted">
+          유동성·정책 방향과 모멘텀 점검.
+        </div>
+
+      </li>
+
     `;
+
+
   }catch(e){
-    $('#closes').textContent='(종가 데이터 지연)';
+
+    $('#closes').textContent =
+      '(종가 데이터 지연)';
+
   }
+
 }
 
-/* ===== 운세 & 영어 한 문장 ===== */
+
+/* =========================================================
+   운세 & 영어 한 문장
+========================================================= */
+
 function loadFortune(){
-  const d = new Date();
-  const seed = d.getFullYear()*10000 + (d.getMonth()+1)*100 + d.getDate();
-  const r = (Math.sin(seed)+1)/2;
-  let msg = r>0.66?'새로운 기회가 열립니다. 단, 성급한 결정은 피하세요.':
-            r>0.33?'실속을 챙길 날. 작은 이익을 꾸준히 모으세요.':
-                    '휴식과 정리가 도움 됩니다. 불필요한 지출을 줄이세요.';
-  const tip = r>0.5?'회의·소통에서 한 번 더 확인하기':'현금흐름·비상자금 점검';
-  $('#fortune').textContent = `오늘의 운세: ${msg} / 행동 팁: ${tip}`;
+
+  const d =
+    new Date();
+
+
+  const seed =
+    d.getFullYear() * 10000 +
+    (d.getMonth()+1) * 100 +
+    d.getDate();
+
+
+  const r =
+    (
+      Math.sin(seed) + 1
+    ) / 2;
+
+
+  let msg =
+
+    r > 0.66
+      ?
+      '새로운 기회가 열립니다. 단, 성급한 결정은 피하세요.'
+      :
+
+    r > 0.33
+      ?
+      '실속을 챙길 날. 작은 이익을 꾸준히 모으세요.'
+      :
+
+      '휴식과 정리가 도움 됩니다. 불필요한 지출을 줄이세요.';
+
+
+  const tip =
+
+    r > 0.5
+      ?
+      '회의·소통에서 한 번 더 확인하기'
+      :
+      '현금흐름·비상자금 점검';
+
+
+  $('#fortune').textContent =
+    `오늘의 운세: ${msg} / 행동 팁: ${tip}`;
+
 }
+
 
 function loadPhrase(){
+
   const bank = [
-    ["Markets often overreact to headlines.","시장들은 종종 헤드라인에 과도 반응한다.","overreact: 과잉 반응하다; headline: 헤드라인","현재시제 일반진술(주어+동사)"],
-    ["Focus on risks you can control.","통제 가능한 위험에 집중하라.","focus on: ~에 집중하다; risk: 위험; control: 통제","명령문 + 전치사구"],
-    ["Cash is a position, not a mistake.","현금 보유도 하나의 포지션이지 실수가 아니다.","position: 포지션; mistake: 실수","보어 명사구"],
-    ["Volatility is the price of admission for returns.","수익을 위한 입장료가 바로 변동성이다.","volatility: 변동성; return: 수익","전치사 for 목적 용법"],
+
+    [
+      "Markets often overreact to headlines.",
+      "시장들은 종종 헤드라인에 과도 반응한다.",
+      "overreact: 과잉 반응하다; headline: 헤드라인",
+      "현재시제 일반진술(주어+동사)"
+    ],
+
+    [
+      "Focus on risks you can control.",
+      "통제 가능한 위험에 집중하라.",
+      "focus on: ~에 집중하다; risk: 위험; control: 통제",
+      "명령문 + 전치사구"
+    ],
+
+    [
+      "Cash is a position, not a mistake.",
+      "현금 보유도 하나의 포지션이지 실수가 아니다.",
+      "position: 포지션; mistake: 실수",
+      "보어 명사구"
+    ],
+
+    [
+      "Volatility is the price of admission for returns.",
+      "수익을 위한 입장료가 바로 변동성이다.",
+      "volatility: 변동성; return: 수익",
+      "전치사 for 목적 용법"
+    ],
+
   ];
-  const idx = new Date().getDate()%bank.length;
-  const [en,ko,vo,gram] = bank[idx];
+
+
+  const idx =
+    new Date().getDate() %
+    bank.length;
+
+
+  const [
+    en,
+    ko,
+    vo,
+    gram
+  ] =
+    bank[idx];
+
+
   $('#phrase').innerHTML = `
-    <div><strong>문장:</strong> “${en}”</div>
-    <div><strong>번역:</strong> ${ko}</div>
-    <div><strong>단어:</strong> ${vo}</div>
-    <div><strong>문법:</strong> ${gram}</div>
+
+    <div>
+      <strong>문장:</strong>
+      “${en}”
+    </div>
+
+    <div>
+      <strong>번역:</strong>
+      ${ko}
+    </div>
+
+    <div>
+      <strong>단어:</strong>
+      ${vo}
+    </div>
+
+    <div>
+      <strong>문법:</strong>
+      ${gram}
+    </div>
+
   `;
+
 }
 
-/* ===== 부팅 ===== */
+
+/* =========================================================
+   부팅
+========================================================= */
+
 (async function boot(){
+
   await Promise.all([
+
     loadWeather(),
+
     loadNews(),
+
     loadCloses()
+
   ]);
+
+
   loadFortune();
+
   loadPhrase();
+
 })();
+
 </script>
+
 </body>
 </html>
