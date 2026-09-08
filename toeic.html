@@ -1,0 +1,964 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TOEIC 600 Study · Daily Brief</title>
+<link rel="icon" href="data:,">
+<style>
+  :root{
+    --bg:#0b1220; --card:#121a2b; --text:#e6eefc; --sub:#91a4c7;
+    --accent:#6aa0ff; --ok:#78e08f; --warn:#ffd166; --muted:#2a3450;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    font-family:system-ui,-apple-system,Segoe UI,Roboto,Apple SD Gothic Neo,Noto Sans KR,sans-serif;
+    background:var(--bg);color:var(--text);line-height:1.6
+  }
+  header{
+    position:sticky;top:0;z-index:10;
+    background:#0b1220f2;
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid #1d2943
+  }
+  .wrap{max-width:860px;margin:0 auto;padding:14px}
+  h1{font-size:22px;margin:0 0 6px}
+  h2{font-size:18px;margin:0 0 10px}
+  a{color:var(--accent);text-decoration:none}
+  .nav{display:flex;gap:10px;flex-wrap:wrap;font-size:13px}
+  .muted{color:var(--sub)}
+  .small{font-size:13px}
+  .card{
+    background:var(--card);
+    border:1px solid var(--muted);
+    border-radius:14px;
+    padding:14px;
+    margin:12px 0
+  }
+  .meta{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}
+  .chip{
+    font-size:12px;
+    border:1px solid #314066;
+    border-radius:999px;
+    padding:3px 9px;
+    color:#b7c6e9
+  }
+  .progress-wrap{
+    height:10px;background:#23304d;border-radius:999px;
+    overflow:hidden;margin:10px 0 6px
+  }
+  .progress{
+    height:100%;width:0;
+    background:linear-gradient(90deg,#6aa0ff,#78e08f);
+    transition:width .2s
+  }
+  .sentence{border-top:1px solid #243252;padding:13px 0}
+  .sentence:first-child{border-top:0}
+  .sentence-head{display:flex;gap:10px;align-items:flex-start}
+  .sentence-num{min-width:28px;color:#9fb0d6;font-size:13px}
+  .sentence-text{flex:1;font-size:16px}
+  .check{width:22px;height:22px;accent-color:#6aa0ff}
+  button,.btn{
+    border:1px solid #365180;
+    background:#17243c;color:var(--text);
+    border-radius:10px;padding:8px 11px;
+    font-size:13px;cursor:pointer;
+    display:inline-block
+  }
+  button:disabled,.disabled{
+    opacity:.45;
+    pointer-events:none
+  }
+  .translation{
+    display:none;
+    margin:8px 0 0 38px;
+    padding:9px 10px;
+    background:#0e1728;
+    border-radius:9px;
+    color:#c5d3ee;
+    font-size:14px
+  }
+  .actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+  .next{
+    border-color:#477c5b;
+    background:#173224;
+    color:#bff5cc
+  }
+  .warning{color:var(--warn)}
+  .history-item{border-top:1px solid #243252;padding:11px 0}
+  .history-item:first-child{border-top:0}
+  .history-title{font-weight:700}
+  .history-body{
+    display:none;
+    margin-top:8px;
+    padding:10px;
+    background:#0e1728;
+    border-radius:9px
+  }
+  .history-line{
+    padding:5px 0;
+    border-top:1px solid #1c2943;
+    font-size:14px
+  }
+  footer{
+    padding:28px 14px 40px;
+    text-align:center;
+    color:#8fa2c9;
+    font-size:12px
+  }
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="wrap">
+    <h1>📘 TOEIC 600 영어학습</h1>
+    <div class="nav">
+      <a href="./index.html">← Daily Brief</a>
+      <a href="./listening.html">🎧 영어 리스닝</a>
+      <a href="https://github.com/hahabangga/dailybrief" target="_blank">GitHub</a>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+<section class="card">
+
+  <h2 id="title">현재 문제 불러오는 중…</h2>
+
+  <div id="meta" class="meta"></div>
+
+  <div class="small muted">
+    각 문장을 학습한 뒤 체크하세요.
+    체크 상태는 현재 기기에 자동 저장됩니다.
+  </div>
+
+  <div class="progress-wrap">
+    <div id="progressBar" class="progress"></div>
+  </div>
+
+  <div id="progressText" class="small muted">0 / 0 완료</div>
+
+  <div id="sentences"></div>
+
+  <div class="actions">
+
+    <a id="sourceBtn"
+       class="btn"
+       href="#"
+       target="_blank">
+       원문 보기
+    </a>
+
+    <button id="resetBtn" type="button">
+      체크 초기화
+    </button>
+
+    <a id="nextBtn"
+       class="btn next disabled"
+       target="_blank">
+       다음 문제 받기
+    </a>
+
+  </div>
+
+  <div id="nextHint"
+       class="small warning"
+       style="margin-top:8px">
+    모든 문장을 체크하면 다음 문제 버튼이 활성화됩니다.
+  </div>
+
+</section>
+
+
+<section class="card">
+
+  <h2>📚 지난 문제</h2>
+
+  <div class="small muted" style="margin-bottom:8px">
+    GitHub에 누적된 완료 문제를 최신순으로 표시합니다.
+  </div>
+
+  <div id="history" class="muted">
+    불러오는 중…
+  </div>
+
+</section>
+
+</main>
+
+<footer>
+Daily Brief · TOEIC 학습 데이터는 GitHub Actions로 관리됩니다.
+</footer>
+
+
+<script>
+
+const CURRENT_URL =
+  'data/toeic.json';
+
+const ARCHIVE_API =
+  'https://api.github.com/repos/hahabangga/dailybrief/contents/data/archive/toeic';
+
+const ACTION_URL =
+  'https://github.com/hahabangga/dailybrief/actions/workflows/fetch-toeic.yml';
+
+let current = null;
+let currentKey = '';
+
+
+function esc(s){
+
+  return String(s ?? '')
+    .replace(
+      /[&<>"']/g,
+      m => ({
+        '&':'&amp;',
+        '<':'&lt;',
+        '>':'&gt;',
+        '"':'&quot;',
+        "'":'&#39;'
+      }[m])
+    );
+
+}
+
+
+async function translateKo(text){
+
+  try{
+
+    const url =
+      'https://translate.googleapis.com/translate_a/single' +
+      '?client=gtx&sl=en&tl=ko&dt=t&q=' +
+      encodeURIComponent(text);
+
+    const r = await fetch(url);
+
+    if(!r.ok)
+      throw new Error();
+
+    const j = await r.json();
+
+    return j[0]
+      .map(x => x[0])
+      .join('');
+
+  }catch(e){
+
+    return '번역을 불러오지 못했습니다.';
+
+  }
+
+}
+
+
+function storageKey(data){
+
+  const u =
+    data?.story?.source_url ||
+    data?.story?.title ||
+    data?.date ||
+    'current';
+
+  return 'toeic-progress:' + u;
+
+}
+
+
+function loadChecks(count){
+
+  try{
+
+    const saved =
+      JSON.parse(
+        localStorage.getItem(currentKey) || '[]'
+      );
+
+    return Array.from(
+      {length:count},
+      (_,i) => Boolean(saved[i])
+    );
+
+  }catch(e){
+
+    return Array(count).fill(false);
+
+  }
+
+}
+
+
+function saveChecks(){
+
+  const checks =
+    [...document.querySelectorAll('.check')]
+    .map(x => x.checked);
+
+  localStorage.setItem(
+    currentKey,
+    JSON.stringify(checks)
+  );
+
+  updateProgress();
+
+}
+
+
+function updateProgress(){
+
+  const boxes =
+    [...document.querySelectorAll('.check')];
+
+  const done =
+    boxes.filter(x => x.checked).length;
+
+  const total =
+    boxes.length;
+
+  const pct =
+    total
+      ? Math.round(done * 100 / total)
+      : 0;
+
+  document.getElementById(
+    'progressBar'
+  ).style.width =
+    pct + '%';
+
+  document.getElementById(
+    'progressText'
+  ).textContent =
+    `${done} / ${total} 완료 (${pct}%)`;
+
+
+  const next =
+    document.getElementById(
+      'nextBtn'
+    );
+
+  const hint =
+    document.getElementById(
+      'nextHint'
+    );
+
+
+  if(
+    total > 0 &&
+    done === total
+  ){
+
+    next.classList.remove(
+      'disabled'
+    );
+
+    next.href =
+      ACTION_URL;
+
+    hint.textContent =
+      '학습 완료. 다음 문제 받기를 누른 뒤 GitHub에서 Run workflow를 실행하세요.';
+
+    hint.style.color =
+      '#78e08f';
+
+  }else{
+
+    next.classList.add(
+      'disabled'
+    );
+
+    next.removeAttribute(
+      'href'
+    );
+
+    hint.textContent =
+      '모든 문장을 체크하면 다음 문제 버튼이 활성화됩니다.';
+
+    hint.style.color =
+      '#ffd166';
+
+  }
+
+}
+
+
+async function toggleTranslation(
+  btn,
+  box,
+  text
+){
+
+  if(
+    box.dataset.loaded === '1'
+  ){
+
+    const open =
+      box.style.display === 'block';
+
+    box.style.display =
+      open ? 'none' : 'block';
+
+    btn.textContent =
+      open
+        ? '해석 보기'
+        : '해석 닫기';
+
+    return;
+
+  }
+
+
+  btn.disabled = true;
+
+  btn.textContent =
+    '번역 중…';
+
+
+  box.textContent =
+    await translateKo(text);
+
+  box.dataset.loaded =
+    '1';
+
+  box.style.display =
+    'block';
+
+  btn.disabled =
+    false;
+
+  btn.textContent =
+    '해석 닫기';
+
+}
+
+
+function renderCurrent(data){
+
+  current =
+    data;
+
+  currentKey =
+    storageKey(data);
+
+
+  const story =
+    data.story || {};
+
+  const lines =
+    story.lines || [];
+
+  const title =
+    story.title ||
+    'TOEIC 학습';
+
+
+  document.getElementById(
+    'title'
+  ).textContent =
+    title;
+
+
+  document.getElementById(
+    'meta'
+  ).innerHTML = `
+
+    <span class="chip">
+      ${esc(data.date || '')}
+    </span>
+
+    <span class="chip">
+      ${esc(data.source || 'VOA Learning English')}
+    </span>
+
+    <span class="chip">
+      ${lines.length}문장
+    </span>
+
+  `;
+
+
+  document.getElementById(
+    'sourceBtn'
+  ).href =
+    story.source_url || '#';
+
+
+  const saved =
+    loadChecks(
+      lines.length
+    );
+
+
+  const root =
+    document.getElementById(
+      'sentences'
+    );
+
+  root.innerHTML =
+    '';
+
+
+  lines.forEach(
+    (item,i) => {
+
+      const text =
+        item.en || '';
+
+      const row =
+        document.createElement(
+          'div'
+        );
+
+      row.className =
+        'sentence';
+
+
+      row.innerHTML = `
+
+        <div class="sentence-head">
+
+          <div class="sentence-num">
+            ${i+1}
+          </div>
+
+          <div class="sentence-text">
+
+            ${esc(text)}
+
+            <div style="margin-top:7px">
+
+              <button
+                type="button"
+                class="translateBtn">
+                해석 보기
+              </button>
+
+            </div>
+
+          </div>
+
+          <input
+            class="check"
+            type="checkbox"
+            aria-label="${i+1}번 문장 학습 완료"
+            ${saved[i] ? 'checked' : ''}>
+
+        </div>
+
+        <div class="translation"></div>
+
+      `;
+
+
+      const check =
+        row.querySelector(
+          '.check'
+        );
+
+      const btn =
+        row.querySelector(
+          '.translateBtn'
+        );
+
+      const box =
+        row.querySelector(
+          '.translation'
+        );
+
+
+      check.addEventListener(
+        'change',
+        saveChecks
+      );
+
+
+      btn.addEventListener(
+        'click',
+        () =>
+          toggleTranslation(
+            btn,
+            box,
+            text
+          )
+      );
+
+
+      root.appendChild(
+        row
+      );
+
+    }
+  );
+
+
+  document.getElementById(
+    'resetBtn'
+  ).onclick = () => {
+
+    if(
+      !confirm(
+        '현재 문제의 체크 상태를 모두 초기화할까요?'
+      )
+    )
+      return;
+
+
+    localStorage.removeItem(
+      currentKey
+    );
+
+
+    document
+      .querySelectorAll(
+        '.check'
+      )
+      .forEach(
+        x => x.checked = false
+      );
+
+
+    updateProgress();
+
+  };
+
+
+  updateProgress();
+
+}
+
+
+async function loadCurrent(){
+
+  const r =
+    await fetch(
+      CURRENT_URL +
+      '?ts=' +
+      Date.now()
+    );
+
+  if(!r.ok)
+    throw new Error();
+
+
+  const data =
+    await r.json();
+
+
+  renderCurrent(
+    data
+  );
+
+}
+
+
+async function loadHistory(){
+
+  const root =
+    document.getElementById(
+      'history'
+    );
+
+
+  try{
+
+    const r =
+      await fetch(
+        ARCHIVE_API,
+        {
+          headers:{
+            'Accept':
+              'application/vnd.github+json'
+          }
+        }
+      );
+
+
+    if(!r.ok)
+      throw new Error();
+
+
+    let files =
+      await r.json();
+
+
+    files =
+      files
+      .filter(
+        x =>
+          x.type === 'file' &&
+          x.name.endsWith(
+            '.json'
+          )
+      )
+      .sort(
+        (a,b) =>
+          b.name.localeCompare(
+            a.name
+          )
+      );
+
+
+    const items =
+      [];
+
+
+    for(
+      const f of files
+    ){
+
+      try{
+
+        const rr =
+          await fetch(
+            f.download_url +
+            '?ts=' +
+            Date.now()
+          );
+
+
+        if(!rr.ok)
+          continue;
+
+
+        const d =
+          await rr.json();
+
+
+        const sameAsCurrent =
+          current &&
+          d?.story?.source_url &&
+          d.story.source_url ===
+            current?.story?.source_url;
+
+
+        if(
+          sameAsCurrent &&
+          d.status !== 'completed'
+        )
+          continue;
+
+
+        items.push({
+          file:f,
+          data:d
+        });
+
+
+      }catch(e){}
+
+    }
+
+
+    if(
+      !items.length
+    ){
+
+      root.textContent =
+        '아직 완료한 문제가 없습니다.';
+
+      return;
+
+    }
+
+
+    root.innerHTML =
+      '';
+
+
+    items.forEach(
+      ({file,data}) => {
+
+        const story =
+          data.story || {};
+
+        const lines =
+          story.lines || [];
+
+
+        const item =
+          document.createElement(
+            'div'
+          );
+
+
+        item.className =
+          'history-item';
+
+
+        let completed =
+          '';
+
+        if(
+          data.completed_at_kst
+        ){
+
+          completed =
+            new Date(
+              data.completed_at_kst
+            ).toLocaleString(
+              'ko-KR',
+              {
+                timeZone:
+                  'Asia/Seoul'
+              }
+            );
+
+        }
+
+
+        item.innerHTML = `
+
+          <div class="history-title">
+            ${esc(story.title || file.name)}
+          </div>
+
+          <div class="small muted">
+
+            ${esc(
+              data.date ||
+              file.name.replace(
+                '.json',
+                ''
+              )
+            )}
+
+            ${completed
+              ? ' · 완료 ' +
+                esc(completed)
+              : ''
+            }
+
+            · ${lines.length}문장
+
+          </div>
+
+          <div class="actions">
+
+            <button
+              type="button"
+              class="historyToggle">
+              내용 보기
+            </button>
+
+            ${
+              story.source_url
+              ?
+              `<a
+                 class="btn"
+                 href="${esc(story.source_url)}"
+                 target="_blank">
+                 원문
+               </a>`
+              :
+              ''
+            }
+
+          </div>
+
+          <div class="history-body"></div>
+
+        `;
+
+
+        const body =
+          item.querySelector(
+            '.history-body'
+          );
+
+        const toggle =
+          item.querySelector(
+            '.historyToggle'
+          );
+
+
+        toggle.addEventListener(
+          'click',
+          () => {
+
+            const open =
+              body.style.display ===
+              'block';
+
+
+            if(
+              !open &&
+              !body.dataset.loaded
+            ){
+
+              body.innerHTML =
+                lines
+                .map(
+                  (x,i) =>
+                    `<div class="history-line">
+                       <strong>${i+1}.</strong>
+                       ${esc(x.en || '')}
+                     </div>`
+                )
+                .join('');
+
+
+              body.dataset.loaded =
+                '1';
+
+            }
+
+
+            body.style.display =
+              open
+                ? 'none'
+                : 'block';
+
+
+            toggle.textContent =
+              open
+                ? '내용 보기'
+                : '내용 닫기';
+
+          }
+        );
+
+
+        root.appendChild(
+          item
+        );
+
+      }
+    );
+
+
+  }catch(e){
+
+    root.textContent =
+      '지난 문제 목록을 불러오지 못했습니다.';
+
+  }
+
+}
+
+
+(async function boot(){
+
+  try{
+
+    await loadCurrent();
+
+    await loadHistory();
+
+  }catch(e){
+
+    document.getElementById(
+      'title'
+    ).textContent =
+      '현재 TOEIC 문제를 불러오지 못했습니다.';
+
+  }
+
+})();
+
+</script>
+
+</body>
+</html>
