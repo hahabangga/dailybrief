@@ -1,111 +1,107 @@
 {
   "date": "2026-09-10",
-  "generated_at_utc": "2026-09-09T17:02:57Z",
-  "cutoff_kst": "2026-09-10T02:02:00+09:00",
+  "generated_at_utc": "2026-09-09T23:33:21Z",
+  "cutoff_kst": "2026-09-10T08:33:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-        "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-        "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\" Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
-        "published": "Wed, 09 Sep 2026 16:50:10 GMT",
-        "published_kst": "2026-09-10T01:50:10+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "10%"
-        ],
+        "title": "US Dollar Outlook: Technical Case for USD Bounce as PPI and CPI Loom - FOREX.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWI0WWh6dnl6cVpfSl9fSVhnamRweEFESDVVcVNBNHB3ekxiWng2eEFadDhodTdua2FHUkxjRFp6bUYyTHNkY0dXdXVlM01hZ2pKQ3UyWkJGV0FoemV4Q19CaWpVbW0tczhXeXhOM1JxLXpoWHhFazQxV3ltTnhrbGIwV1RzaHBSejltRTFlaWs5b1l6XzA2dWZnQ3NZN2VDOWVZMDdzQTU5MjBBdVlJMm1fYUjSAcABQVVfeXFMT2JOZXRhRDJIWlc5TkFZSkVCTzBXaEhmMnZFWjR0TTltWVRCWnZ1Q3VEVmpleXlJNFRoZ2twMm1WcjVOTm9jVEtCLTZqdWJTVFdkSlhtdU1FaVlNZEttT2Fhb0ZyYVZuVlcyTlhCb1N4d2cxdUNMZVFCdGtPaHZmLTFLbl85ZlU2U1hjdllBek9kUVM3UlVMeWJQYnB3SE44aDZ1OFhHSUk0LTJoU2kzNW1RMkZnUnBFZkVBcVFWSWta?oc=5",
+        "summary": "US Dollar Outlook: Technical Case for USD Bounce as PPI and CPI Loom FOREX.com US Dollar Outlook: Technical Case for USD Bounce as PPI and CPI Loom - FOREX.com",
+        "published": "Wed, 09 Sep 2026 23:19:27 GMT",
+        "published_kst": "2026-09-10T08:19:27+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
-        "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
-        "summary": "The Rams spent five years building their brand in Australia. LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
-        "published": "Wed, 09 Sep 2026 16:47:24 GMT",
-        "published_kst": "2026-09-10T01:47:24+09:00",
+        "title": "Bank of America CEO says the consumer remains resilient despite rising gas prices",
+        "url": "https://www.cnbc.com/2026/09/09/bank-of-america-ceo-consumer-resilient-despite-rising-gas.html",
+        "summary": "Bank of America CEO Brian Moynihan said the bank’s data shows consumer spending and credit remain healthy despite rising gasoline prices. Bank of America CEO says the consumer remains resilient despite rising gas prices",
+        "published": "Wed, 09 Sep 2026 22:53:51 GMT",
+        "published_kst": "2026-09-10T07:53:51+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
-        "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
-        "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week. CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
-        "published": "Wed, 09 Sep 2026 16:46:38 GMT",
-        "published_kst": "2026-09-10T01:46:38+09:00",
+        "title": "NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan",
+        "url": "https://www.cnbc.com/2026/09/09/nfl-teams-still-undervalued-says-jacksonville-jaguars-owner-shad-khan.html",
+        "summary": "Jacksonville Jaguars owner Shad Khan says NFL teams are still undervalued compared with teams in other professional sports leagues. NFL teams still 'undervalued,' says Jacksonville Jaguars owner Shad Khan",
+        "published": "Wed, 09 Sep 2026 22:49:41 GMT",
+        "published_kst": "2026-09-10T07:49:41+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump gave $45,000 cash gifts to close aide Natalie Harp and others - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObmVXc2N6WFdEcVdXOUdfbnY4bHVmV2JRNVI5NG1lSmZxcW9yZHgxWlB4UU1sSWU1UXRSWTBSZHhuZW55aVlMVUdyZEttWlVqV0RURk9MR3pic2hqVy1WZFRWa0lTakRXQTBGYzVMU3V0MTlRSDNwc1BFX3hEQk9WanNYSjhvVnpiYmM4YzVHZGRPbmluLTQ3d0RRbVhKR29vcUtna3VVWjRKU1VOcTQ1Rw?oc=5",
-        "summary": "Trump gave $45,000 cash gifts to close aide Natalie Harp and others Reuters Trump gave $45,000 cash gifts to close aide Natalie Harp and others - Reuters",
-        "published": "Wed, 09 Sep 2026 16:15:46 GMT",
-        "published_kst": "2026-09-10T01:15:46+09:00",
+        "title": "DTN: Some ranchers disappointed in White House meeting - Tri-State Livestock News",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR01jOG51NkRUYnp5SUV0QjhzZUJ1RFhvTE9CcHkxcGdJTVV0NndRb1lXOW82aTEzWDF5M1VxdGpiUmFIQ3pXYzV6QUFfRHkwbks1UHB4anBlOVVPMVBBYzBtaE5oMFJhY3RrNEVyYVh6SFFKQlRBWXcyUXhhRngwa2xubFhZeDA?oc=5",
+        "summary": "DTN: Some ranchers disappointed in White House meeting Tri-State Livestock News DTN: Some ranchers disappointed in White House meeting - Tri-State Livestock News",
+        "published": "Wed, 09 Sep 2026 22:23:36 GMT",
+        "published_kst": "2026-09-10T07:23:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Bessent’s political turn in GOP speech tests his bond-market credibility",
+        "url": "https://www.cnbc.com/2026/09/09/bessent-treasury-yields-buybacks-republican-convention.html",
+        "summary": "Treasury Secretary Scott Bessent's planned Republican convention speech in Dallas is raising questions about how politics could affect market confidence in him. Bessent’s political turn in GOP speech tests his bond-market credibility",
+        "published": "Wed, 09 Sep 2026 22:20:16 GMT",
+        "published_kst": "2026-09-10T07:20:16+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House UFC spectacle made sense despite $30M loss, TKO Group's Mark Shapiro says - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1ltTVBTbGdyTm9WRXM3NUUyU3dibWd0TnhsYk5pN3hBTU1BVUluTlRWMTlidVhmYTdnVnd5MFZyWlMwQzFKTThHZnpJejJpMDBSTnJMYzh3YmhqdjVxQUtYTWZkTVFzY1pndTdjM2tYWGZoMUl1bDFDMld0QlMzZVprVFNIc1lfalNCX3FsQ2hwdEc4RlR2NXU2cXRxck5BWXNzcTVyWHhVYzVvaXpsdGlNOEs2M1BLNS1NSks4aDdldjB4d3BoclExSlh2SFpxeURXb0hn?oc=5",
+        "summary": "White House UFC spectacle made sense despite $30M loss, TKO Group's Mark Shapiro says Yahoo Finance White House UFC spectacle made sense despite $30M loss, TKO Group's Mark Shapiro says - Yahoo Finance",
+        "published": "Wed, 09 Sep 2026 22:12:50 GMT",
+        "published_kst": "2026-09-10T07:12:50+09:00",
         "domain": "google.com",
         "key_figures": [
-          "$45"
+          "$30"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The Latest: Republicans gathering for 'Trump-a-palooza' convention in Dallas - WRAL",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnh5VjVlbmMxZEw5RFJhUi04WmtzQklaRmJSbEhlZnd1WU5KSmlCdmtsRFZSVkhvWThrdEhjZ1ZTMUQyM0Rtc3MwSkVzNVcycUdIMm5qeTZrR095WWg0YjExdERxSzBNNzV3dEltYkZvN0FzMnFlZlc2TnlPSlh4a0JrNV9QVWw3SUR2N1BfV0Q2V091c2tSQnVrU1FiLVIzQ1N6WHpmbXhHMzk1OGxzN2d3dlAyeUpt?oc=5",
-        "summary": "The Latest: Republicans gathering for 'Trump-a-palooza' convention in Dallas WRAL The Latest: Republicans gathering for 'Trump-a-palooza' convention in Dallas - WRAL",
-        "published": "Wed, 09 Sep 2026 16:03:57 GMT",
-        "published_kst": "2026-09-10T01:03:57+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump is remodeling the White House. The group set up to protect it has stayed quiet. - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUczTFBJak1EQTg0SGItdVFzQzRveHRSWUdBUzE2Wm1KZGtCU1VnRzBXamVOR0hLZ214WU9JcEYtUzRkbVU1MmJrd1pldTVqZExWM1BERVVXeWtZMmdpT3RHMnczOWwxenJKaXdZX0tBVHRjLVNoazBlYzBSMk9WZGFhREp5MG1zWUVSTExLN3Y3ZkFiVzI0bTdZSFFRaXRpUEVPME84c0JCRjhnZk5zQm1n?oc=5",
-        "summary": "The Washington Post Trump is remodeling the White House. The group set up to protect it has stayed quiet.",
-        "published": "Wed, 09 Sep 2026 16:00:00 GMT",
-        "published_kst": "2026-09-10T01:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "\"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSeHNua2Vwa2RlYUpiRkZVaDFibnM1bnhvLWswZjNyV096cnF1QjdZaHp4SU1PYWxPT0VYN3JGTXJvckZyR21pYk83Z0xZaTEwc0d5UmhpVktOUQ?oc=5",
-        "summary": "\"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" hankyung.com \"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" - hankyung.com",
-        "published": "Wed, 09 Sep 2026 16:28:00 GMT",
-        "published_kst": "2026-09-10T01:28:00+09:00",
+        "title": "[밤 사이 해외뉴스 영상]유가 100달러 재돌파…호르무즈 마비에 인플레 경고 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5THBrNXMtdVpWZWRZd0pWb2dNck0zZnhNdEJ4dzdER2k2eUktaVN4Z2NjeThRM1ZkQmp3aFpQeXJXa2hRMHF5am5DVTA4cFZHMEdmdGJEVlBiUQ?oc=5",
+        "summary": "[밤 사이 해외뉴스 영상]유가 100달러 재돌파…호르무즈 마비에 인플레 경고 한국경제 [밤 사이 해외뉴스 영상]유가 100달러 재돌파…호르무즈 마비에 인플레 경고 - 한국경제",
+        "published": "Wed, 09 Sep 2026 23:27:16 GMT",
+        "published_kst": "2026-09-10T08:27:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "동양생명 과징금, 1400억→70억 된 까닭 - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RcWZ2VTFpTExsTUM3ZjhkTHdaSXlVMUNNTERNYWMxTVhkak5MSnk4TXRDUkJQcU15UHVEX0ZURDVlalNteXNFTVVONDNMM3lmQkJ4SGFDQ0dPUQ?oc=5",
-        "summary": "동양생명 과징금, 1400억→70억 된 까닭 hankyung.com 동양생명 과징금, 1400억→70억 된 까닭 - hankyung.com",
-        "published": "Wed, 09 Sep 2026 16:20:00 GMT",
-        "published_kst": "2026-09-10T01:20:00+09:00",
+        "title": "전쟁 중 포르노 합법화 나선 우크라…드론 3만대 재원 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fd0N5R29mekM4VHdxVjZhQlBEaElWeTNEVnY2UTB1dE5ydnZQNkptWWZQMHVvNUE0X2tFOEZReEZRYW55TS1iM3V5RktXNU1mbXhrS19IS2UzZw?oc=5",
+        "summary": "전쟁 중 포르노 합법화 나선 우크라…드론 3만대 재원 한국경제 전쟁 중 포르노 합법화 나선 우크라…드론 3만대 재원 - 한국경제",
+        "published": "Wed, 09 Sep 2026 23:23:10 GMT",
+        "published_kst": "2026-09-10T08:23:10+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "1400"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "수협은행장 2파전 유력…신학기 vs 이형주 - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTnlmN293U2E5ZjREd1pISHlOVGtvc3lvRnhWV1NNc0pvYTVrMDVOQmhzY09XSERWR21GcVlQUExoSk9uZXJpeTIyTnlsbzRLRTVOUWVld0ptdw?oc=5",
-        "summary": "수협은행장 2파전 유력…신학기 vs 이형주 hankyung.com 수협은행장 2파전 유력…신학기 vs 이형주 - hankyung.com",
-        "published": "Wed, 09 Sep 2026 16:18:00 GMT",
-        "published_kst": "2026-09-10T01:18:00+09:00",
+        "title": "영진전문대 학생들, 일본서 글로벌 건축·인테리어 감각 키워 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WRXlKaTQ4NVR5dTVLb05wbDZ1Rk5hMUhPTTk1bVpPZXZpUzRRd2s2VEJjNW9wQTNLSGFzbVpvcFlmRkdTc0FjM2xzeFdZdnVxUjRLejYweWVnUQ?oc=5",
+        "summary": "영진전문대 학생들, 일본서 글로벌 건축·인테리어 감각 키워 한국경제 영진전문대 학생들, 일본서 글로벌 건축·인테리어 감각 키워 - 한국경제",
+        "published": "Wed, 09 Sep 2026 23:17:44 GMT",
+        "published_kst": "2026-09-10T08:17:44+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,40 +110,46 @@
     ],
     "world": [
       {
-        "title": "The decline of Germany’s supply chain regime - Global Investigations Review",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlVnOFFPVm4wX0JRVFFiclNZZllITGFEbHFJNnQ4S01rRmlEZm1CSUprUGhaSGtxblBDS1N6bmpkN05OVW1hLVlWYkk1SXZsZG92Q1lMT3ZOZW1nNDZtUHppWDRhRER3Y1BQSjZPXzZpUzNMcjVIVWM1ZXhaLWg2dklDdlpGd0tRRkNkVVVkUE1mdXdG?oc=5",
-        "summary": "The decline of Germany’s supply chain regime Global Investigations Review The decline of Germany’s supply chain regime - Global Investigations Review",
-        "published": "Wed, 09 Sep 2026 16:02:06 GMT",
-        "published_kst": "2026-09-10T01:02:06+09:00",
+        "title": "Oil rises past $100 a barrel after the latest wave of Middle East attacks - PBS",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnRqR21JRldweEwtQ0lpSlFkeE1DM2Fyb2dfdlRIcFZ5ZWp3Z0R3STdDQWNydVJMRGZaX1J2VXljd19JNjVmbTRTRzlubW5jQTBrdk5pSTBhVnpzYkZGY0NFbjAyLUNYSUF5MzNxNVJwYXFRY3k2OHhPVl9TSk5VS3RGakxuNFBrMWZ6aHV2V3BHeGtvTUxUOW5CNXV5d3RMNU1PaGNNNE9JWTBoWVHSAbMBQVVfeXFMTTNyWUFrVUh6MlBUNkhRWGI5ZzNpOXNTQndsWmIyMnlVdG85cWtUMnFqSzhsZHJRWVlpZ1JTcnBLTkd6V0p3djdjcnUxMTZQczRMVk5NU0NvQTZDQjRJS1BjbllORXlsY3lDREFnaUlUNXRqUVFNUjBWYnhIWHdBTkhMa0I1c2dFYWREeFVIYWRnU25panBoVjhJRVpEU3lCNUcwd0ZRamRHVUhnOW9FSzRkdDA?oc=5",
+        "summary": "Oil rises past $100 a barrel after the latest wave of Middle East attacks PBS Oil rises past $100 a barrel after the latest wave of Middle East attacks - PBS",
+        "published": "Wed, 09 Sep 2026 19:35:19 GMT",
+        "published_kst": "2026-09-10T04:35:19+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$100"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks - San Bernardino Sun",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QaDNJZ2ZSZ3lsUlR3dUp1ZFJUZk1EbnFnSE42eWJUT3pDamN6azBUQlFkbjBzNDk0ejZRVk1tUUhJUTR3NmR2T0FuY3kzME4xcVZsS0pBcUNGVHU4dTFKVEs5RkE4UzdnUy14bA?oc=5",
-        "summary": "China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks San Bernardino Sun China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks - San Bernardino Sun",
-        "published": "Wed, 09 Sep 2026 15:57:33 GMT",
-        "published_kst": "2026-09-10T00:57:33+09:00",
+        "title": "Adamas Intelligence to Host Rare Earth Mines, Magnets & Motors 2026: A Global Mine-to-OEM Supply Chain Summit in Toronto - TMX Newsfile",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMWZrU25kX0JiT21yY0h0dnVqM0pvcmxGY3dUaXFCSWJKNXI5aGNDMEVEYUFiWWhKdGlTd2twV0FfTkNwU3pTaXh3czBoUW9ManQxVjk3djAzMUs4cHJPOGJxOGtibVV2ZExwRnZrQjU4WlZ3M3FiZTFnWEV4LTMtc1FjaG96VlQteUVpeGtaOGFFMUpTWVc2d2ZXeXhRMEFsMjBpN2dwak10WHRNQi0xY0cxdDI5eC1JVTlUNmVuTFlhN1pzMnYxZXZCTEdLNDVDczctM3ZORU5hR3A4UUhrNDNxS0ZKQUNTXzhuU0Iwdw?oc=5",
+        "summary": "Adamas Intelligence to Host Rare Earth Mines, Magnets & Motors 2026: A Global Mine-to-OEM Supply Chain Summit in Toronto TMX Newsfile Adamas Intelligence to Host Rare Earth Mines, Magnets & Motors 2026: A Global Mine-to-OEM Supply Chain Summit in Toronto - TMX Newsfile",
+        "published": "Wed, 09 Sep 2026 18:44:00 GMT",
+        "published_kst": "2026-09-10T03:44:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEVnY1E5cmlDbnVhdUNhYXJRWGpCdF8tYmtaMDVZVlpnc2lnT2tVdWEyaDNjY3pqU0kxWVA1NG9NUHZ2YmtTeEFjV3hWNzlaT2JuZ2VoSmxpcm53cVlUb0syaHlqcHBKOWQ1bHRBeEhudGlYLUc3LThaR0loZ1d3UTN3TEw0LXlZclhIRXFpZmx0WEs2azdXaXloeWU?oc=5",
-        "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs About Amazon Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
-        "published": "Wed, 09 Sep 2026 15:22:09 GMT",
-        "published_kst": "2026-09-10T00:22:09+09:00",
+        "title": "MP Materials at Jefferies Global Industrials Conference 2026: supply chain push - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSDZPRTN3UzMyUzFBbjc3Y09GRXVKa0xDQmd5WkVjdXUzYy1HMEZaZkxRd0FOU2VEdDNiY3BfRmZiV2ZOZ1FqU2pxZ2drTFhwQWNHR3ZaZTBkbWF3d2hKcWk2eGZVcF94SldKSEZrMG11eVN2ZDFfV2tURmQwaFNYLVVWRlluWUVRV1NvdGstWUhrNE9iNXdRc285VTFQZEM2N3ItalVUaTBqUUpHSVV1MDRPaW1OWG1NekJDVE9VZGtzSDZHMFZlNTc4LVBjWXgxa0hrNmFn?oc=5",
+        "summary": "MP Materials at Jefferies Global Industrials Conference 2026: supply chain push Investing.com India MP Materials at Jefferies Global Industrials Conference 2026: supply chain push - Investing.com India",
+        "published": "Wed, 09 Sep 2026 18:03:27 GMT",
+        "published_kst": "2026-09-10T03:03:27+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\" Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans' / \"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" hankyung.com \"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" - hankyung.com / The decline of Germany’s supply chain regime Global Investigations Review The decline of Germany’s supply chain regime - Global Investigations Review",
+  "wrap_summary": "US Dollar Outlook: Technical Case for USD Bounce as PPI and CPI Loom FOREX.com US Dollar Outlook: Technical Case for USD Bounce as PPI and CPI Loom - FOREX.com / [밤 사이 해외뉴스 영상]유가 100달러 재돌파…호르무즈 마비에 인플레 경고 한국경제 [밤 사이 해외뉴스 영상]유가 100달러 재돌파…호르무즈 마비에 인플레 경고 - 한국경제 / Oil rises past $100 a barrel after the latest wave of Middle East attacks PBS Oil rises past $100 a barrel after the latest wave of Middle East attacks - PBS",
   "invest_summary": ""
 }
