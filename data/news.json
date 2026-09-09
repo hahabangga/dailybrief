@@ -1,73 +1,76 @@
 {
   "date": "2026-09-09",
-  "generated_at_utc": "2026-09-09T10:10:18Z",
-  "cutoff_kst": "2026-09-09T19:10:00+09:00",
+  "generated_at_utc": "2026-09-09T14:24:39Z",
+  "cutoff_kst": "2026-09-09T23:24:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Gold remains under pressure amid escalating US-Iran attacks and US CPI risks. What to watch next? - investingLive",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWEtnZ0xpeEJzTUZHeW9RRVFRRlBSZVNRMXV3dTFOUzVVTzZUXzFpOXdZNGRJN0xjOUdnTkxQQ3QtX2wxWVlKNVlrT3V2RHBZbzNMR2xxNjVtd09rdWtKeFBsSU1xUmFWU2xhVU9Jc09IaURNQjNweVNzMGxYcDdSRFBlXzZCUjNjckJLZm5WakF2Q2k4VzFISWJwRl83a28ySHB3WGt0Y0g0dEZoYUZURVBQNGFEbFhzTmpER01fOHAtaHBJWGJjNWI1Z3NpcXM?oc=5",
-        "summary": "investingLive Gold remains under pressure amid escalating US-Iran attacks and US CPI risks. What to watch next?",
-        "published": "Wed, 09 Sep 2026 09:31:17 GMT",
-        "published_kst": "2026-09-09T18:31:17+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-        "url": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-        "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
-        "published": "Wed, 09 Sep 2026 09:21:28 GMT",
-        "published_kst": "2026-09-09T18:21:28+09:00",
+        "title": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'",
+        "url": "https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html",
+        "summary": "ET the size of a buyback operation it announced Aug. The department is expected to announce around 11 a.m.",
+        "published": "Wed, 09 Sep 2026 14:20:16 GMT",
+        "published_kst": "2026-09-09T23:20:16+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Paige Willey, top Hassett deputy, departs White House - Axios",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcDE0R3Y1WFlHeGhFQUdyelpVaHotRnF4VFZ1T2V6dndadElyQVJRT3hYZ2x0WkVkWm9wVTB0elZ5RVZEbEdNdWl3eXR6UnVHVXNFLWJBUW9DeEZKMER0MzJRRDFKQnhKSENoR0JXcEdpaE1rSS1LdVhPdUYyMG1hWmFBWmRhUk52LWhGZg?oc=5",
-        "summary": "Paige Willey, top Hassett deputy, departs White House Axios Paige Willey, top Hassett deputy, departs White House - Axios",
-        "published": "Wed, 09 Sep 2026 09:19:31 GMT",
-        "published_kst": "2026-09-09T18:19:31+09:00",
+        "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides, financial disclosures show - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAteUtNeVVSUU9TOUgwbnViZzNMbGYxRjRGVkdiMkl4dWxXRFlBVnVTcTJhSkJEOGpjTldRZlc2ZElTRlBuV0h0WVM5eTZLck1FUm01NlZaU1lETC1UVXM2NVVlSQ?oc=5",
+        "summary": "Trump gave $45,000 gift to Natalie Harp, 2 other aides, financial disclosures show CBS News Trump gave $45,000 gift to Natalie Harp, 2 other aides, financial disclosures show - CBS News",
+        "published": "Wed, 09 Sep 2026 14:00:29 GMT",
+        "published_kst": "2026-09-09T23:00:29+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
-        "url": "https://www.cnbc.com/2026/09/09/google-finland-ai-infrastructure-investment.html",
-        "summary": "Google on Wednesday said it would invest $15.1 billion into AI infrastructure in Finland, marking the tech giant's largest single investment in Europe. Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'",
-        "published": "Wed, 09 Sep 2026 09:15:41 GMT",
-        "published_kst": "2026-09-09T18:15:41+09:00",
-        "domain": "cnbc.com",
         "key_figures": [
-          "$15",
-          "$15.1"
+          "$45"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
+        "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
         "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-        "summary": "and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends. Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S.",
-        "published": "Wed, 09 Sep 2026 09:08:39 GMT",
-        "published_kst": "2026-09-09T18:08:39+09:00",
+        "summary": "denied Iran’s claim that it struck two American vessels as the two sides traded attacks near the Strait of Hormuz and Brent crude hit $100 a barrel. denies claims Iran struck two American vessels in retaliation for earlier strikes",
+        "published": "Wed, 09 Sep 2026 13:46:11 GMT",
+        "published_kst": "2026-09-09T22:46:11+09:00",
         "domain": "cnbc.com",
+        "key_figures": [
+          "$100"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Road salt and concrete are now exempt from Canadian import taxes, White House announces - KGW",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzhtdU91cjJkdFZmUlNiZkxvUDgzeU1tN1lGekNjMFRzUHpMMkh3QTlJZTNmcDlSWGxTMHdJd1ZMQXd1WDBFaERKRDJQYW0zY1lmeHFDYVF2M3E4cFoxZW9aLUxOV3hZUHJxQ0dGN1lzTFFxR2tUZWdhQXJfbEZIWWIxYm9BUFlxMXJCeXFkMHQ4bV93MmdhYmNWMlM1clFLTUM1UWFUUkg2X2ZQZkJ3a0lNOVBILVpSUkZzYkVB?oc=5",
+        "summary": "Road salt and concrete are now exempt from Canadian import taxes, White House announces KGW Road salt and concrete are now exempt from Canadian import taxes, White House announces - KGW",
+        "published": "Wed, 09 Sep 2026 13:44:00 GMT",
+        "published_kst": "2026-09-09T22:44:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Scoop: Trump AI framework lacks public incident reporting guidelines - Axios",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVW9FYU52ZVp1MkxDaEhEN0VqUFdaTkNNZ2N6TmlxVUI1bVFTOHY1R0JuR0lVM0t3SG1kSldmaGtTUzRfaDBmRzR3dzdwdUNMVF85SXNlM0dUTFlsUDItT1N3Q2hlY1pxQjVxUW01SmhKUFoycmFZUUxNbzNpX1JaNlF1SkxuUTJmM1ByTkhLczI3cTA?oc=5",
-        "summary": "Scoop: Trump AI framework lacks public incident reporting guidelines Axios Scoop: Trump AI framework lacks public incident reporting guidelines - Axios",
-        "published": "Wed, 09 Sep 2026 09:04:58 GMT",
-        "published_kst": "2026-09-09T18:04:58+09:00",
+        "title": "Brent crude tops $100 for first time since July as fighting escalates in Persian Gulf",
+        "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+        "summary": "and Iran fueled concerns over further disruptions to Middle East energy supplies. Oil prices extended gains on Wednesday as escalating tensions between the U.S.",
+        "published": "Wed, 09 Sep 2026 13:42:27 GMT",
+        "published_kst": "2026-09-09T22:42:27+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$100"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Aesthetic injuries, standing, and the White House ballroom - SCOTUSblog",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHFBTGRDN1ZxUHljTFJDWTlncTN3eXJoOTJ6NUlhOS1vS3NrMVZiR2VYNUVCNWI5SGsyZFdMMkJ5bnB0THlGa0k1WFdPWF9FcWh5S0FvNTdxb0t2QWt4TDB0VThZeUFGZW5mTkYwMUhCRzBaQktFekpOQ3ViTENHWU4xVTBKQVRULUhGSk9OTWpCcjFjTlZv?oc=5",
+        "summary": "Aesthetic injuries, standing, and the White House ballroom SCOTUSblog Aesthetic injuries, standing, and the White House ballroom - SCOTUSblog",
+        "published": "Wed, 09 Sep 2026 13:36:53 GMT",
+        "published_kst": "2026-09-09T22:36:53+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -76,33 +79,33 @@
     ],
     "kr": [
       {
-        "title": "상폐 대신 코넥스로 이전?…\"시장부터 되살려야\" [분석+] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ILU03UUhFT3c5VWwyZ1hUZFgxdGVKWDZFT3hRemNCUG5ybmJwWDY5RjRvUS1ldXo5UmpxQjE3eFBiS0lxa2d3a043YVdDWno2cWFNdXV3MzJXQQ?oc=5",
-        "summary": "상폐 대신 코넥스로 이전?…\"시장부터 되살려야\" [분석+] 한국경제 상폐 대신 코넥스로 이전?…\"시장부터 되살려야\" [분석+] - 한국경제",
-        "published": "Wed, 09 Sep 2026 10:00:09 GMT",
-        "published_kst": "2026-09-09T19:00:09+09:00",
+        "title": "[설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVG5RNGM3SDdEY3VnWlJjZDI0bnFIeXJlYWZGNGtUNllvUkpPWng2c2QtcnRpdTBpZGpqbVNpUDlsUVN5ZVJWMEllU28xX3NpT0Z3Nkl3MGNLZW5BZUJ0cGQxVm5oNlJiNkd0THZSSQ?oc=5",
+        "summary": "[설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 정책브리핑 [설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑",
+        "published": "Wed, 09 Sep 2026 13:52:30 GMT",
+        "published_kst": "2026-09-09T22:52:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[단독] 개미만 울린 삼전닉스 레버리지 규제 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cUlkNGViaVZ2QVA2bkF1cExmTmVjel9PNUI2T28zSjZCMmF6TlRBcjJMc1U5b3ZmdWlNeHF2OGlhdEZNUGZNeVloeDJ6c0tCVmVJTnk1UTlpUQ?oc=5",
-        "summary": "[단독] 개미만 울린 삼전닉스 레버리지 규제 한국경제 [단독] 개미만 울린 삼전닉스 레버리지 규제 - 한국경제",
-        "published": "Wed, 09 Sep 2026 09:57:00 GMT",
-        "published_kst": "2026-09-09T18:57:00+09:00",
+        "title": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HamJmcUNOdWZpLXBNVkFITm1HT2t4Qkl4V3RRa0JmSFdOTTAyUjBabE1kNWdPbVRnZXpHX2s0RmFBTUZuck9yTUhRMXgxWVJVNUt3aFpCemN3dw?oc=5",
+        "summary": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축 한국경제 구글, 핀란드에 23조원 투자 AI 데이터센터 구축 - 한국경제",
+        "published": "Wed, 09 Sep 2026 13:05:38 GMT",
+        "published_kst": "2026-09-09T22:05:38+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[기고] 미래대응기금, 재정분권까지 고려해야 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92OHlMSHViaVR6SkFLbWJWNFBSbFBRdkptdmtweG1VSVdUODNSa0tfLUdKLVBUZlJGRkg5NlprTENTQ081Uzd4OUczRjhFajljUjl5VndualhqUQ?oc=5",
-        "summary": "[기고] 미래대응기금, 재정분권까지 고려해야 한국경제 [기고] 미래대응기금, 재정분권까지 고려해야 - 한국경제",
-        "published": "Wed, 09 Sep 2026 09:37:41 GMT",
-        "published_kst": "2026-09-09T18:37:41+09:00",
+        "title": "금리 오르면 주가 폭락?…\"오히려 호재\" 증권가 목표가 '줄상향' [주식R] - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aNUpQeGUzWFJibHFXWV9PbVRmVHhlaElxV3BieVNJSGFaUXItdzJxMHZNZzYyRTg1NmNZME9rSGdLN1Rfa3RLeklNaGl0WFE?oc=5",
+        "summary": "금리 오르면 주가 폭락?…\"오히려 호재\" 증권가 목표가 '줄상향' [주식R] v.daum.net 금리 오르면 주가 폭락?…\"오히려 호재\" 증권가 목표가 '줄상향' [주식R] - v.daum.net",
+        "published": "Wed, 09 Sep 2026 13:05:32 GMT",
+        "published_kst": "2026-09-09T22:05:32+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -111,35 +114,33 @@
     ],
     "world": [
       {
-        "title": "Who Won the Global Supply Chain Awards 2026? - supplychaindigital.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0FEbnJlOGtHS2tXMXE1LVI4WWR5MkRnb0NfTGM3U0lnUXNUZ3RjNVM2UExrS1pnMndQWTBCSnNBWWl3NUR2TFU0Qjg2ZjJmNUlZWmtvX2tCTXBSN3VYSUZWVEVoamNpREFpY1d2cVA4dFlPVVJLbEJSUXBYeVFRS1dKQnpjQQ?oc=5",
-        "summary": "supplychaindigital.com Who Won the Global Supply Chain Awards 2026?",
-        "published": "Wed, 09 Sep 2026 09:53:59 GMT",
-        "published_kst": "2026-09-09T18:53:59+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Supply Chain LIVE: Exploring Sustainable Supply Chains - supplychaindigital.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGFXVlczS2hVcXBpVnl1bWhzb0JQZzNnQ0lweWlmMGE4dXpobVQ4cmljdV9fUm8zVFoyM013bk1TcFJvX0pXZUEzdVQ5Y1JQRGREdWRBcG1ocVlmUHczWi0wWFYtc1I4bXRkSUdsbHZ3b2hMTXJnOEhTeTlJX2RRZFM5Um1OQ0Y0WXEycXRfMndIVGM?oc=5",
-        "summary": "Supply Chain LIVE: Exploring Sustainable Supply Chains supplychaindigital.com Supply Chain LIVE: Exploring Sustainable Supply Chains - supplychaindigital.com",
-        "published": "Wed, 09 Sep 2026 09:16:43 GMT",
-        "published_kst": "2026-09-09T18:16:43+09:00",
+        "title": "ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation - Information Technology Industry Council (ITI)",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGZJZDE1Qk56ZW9ZQm1JU3drMS0zY2FxdlVaSFBXck1acW9DOGQtM01FczlPR3VOQVZUT1NMcGRzZ0FCOEppUU4wNHRWNlN5X1o2elhaZUtwbm5xaERBQjhpTmlXZnhYUFo5UTJ5a09PZTFNMG0wcW5pdTNBcF9FU1FJNDNwMXluUjZzNDVlUVVOdnNrT3k2QmFtT01fYVVfdXlvNUZfQ0NvYnFpYjMyQg?oc=5",
+        "summary": "ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation Information Technology Industry Council (ITI) ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation - Information Technology Industry Council (ITI)",
+        "published": "Wed, 09 Sep 2026 14:21:03 GMT",
+        "published_kst": "2026-09-09T23:21:03+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Cambodia achieves a first in global garment supply chain - Fibre2Fashion",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbjVJbWR4ZXJjSjVoVGFzVkhrNlVHa1NEUWxQM29BaXlZY0Z4Y29tZ2dnQnRMalZPODBJc1gtdTFqdXQ5bl9wajVYeEdZNHJFaGtQdTUyRFpUQlYzNzA4QUNTSmNqTlY0SU9sWC0xT0hxR0tqOWRwY0dBX2dkQ203TWNrb0VzZXNSOW1oaUhSb3MxSlhMOFF3N1hqNnNJQ2Jwd19uMXIwZUFjekN2YnF6TkNnX3hjc2VfZS03dnR5UnR4YmF1UnppZ1ZsNjFrbjBHRWM4MXhTcUs?oc=5",
-        "summary": "Cambodia achieves a first in global garment supply chain Fibre2Fashion Cambodia achieves a first in global garment supply chain - Fibre2Fashion",
-        "published": "Wed, 09 Sep 2026 07:34:16 GMT",
-        "published_kst": "2026-09-09T16:34:16+09:00",
+        "title": "Sanctions-Evasion Networks & Diverging Rules Risk Creating A 2-Tier Maritime System - Marine Insight",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbl8tRmc1XzN2cXNKY1hMa2MtbHhMZkUtS0lILUEyaTkyOGtIRWVjc3R5dWVoa25sSmY4dzNkcVlQdF9oRDJ1M1I0LUhnS3BkS1JCSlZrZGlMUmlOSHhZSGRhUlpIMk5LVmc1empWUURrZkUtVGxWZ3dKM0F4Z0RMMUg4eFBYM240V3N2Ql9XVjhLYnZIQUFTVFlGZ2R2VFBmZ2FyNU84bkl2V3kxb3ZNYk1R?oc=5",
+        "summary": "Sanctions-Evasion Networks & Diverging Rules Risk Creating A 2-Tier Maritime System Marine Insight Sanctions-Evasion Networks & Diverging Rules Risk Creating A 2-Tier Maritime System - Marine Insight",
+        "published": "Wed, 09 Sep 2026 13:24:56 GMT",
+        "published_kst": "2026-09-09T22:24:56+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Beyond visibility: Building a supply chain that can act when conditions change - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnBqanhnN2wtWS1zZzBTRndzbjRYb3JMbktBX0xWakJjcFZ3OWlZUWtQWTBsSW14WW9IcUJ6cTlFUEpYMXB3cmFVRzJ3aVRvTU5FWkxpaUEzbzdqY19qUnlYQ2xPQVI0RWdjNHVBWXZIaEZ3SGlSSmNlM3VhXzVERXo5OUs0dm5felpqY3lZcnRRSGR0WElxeHNMX3BiWmVPLUlXTHJRZ2JZQTZDdTRBQw?oc=5",
+        "summary": "Beyond visibility: Building a supply chain that can act when conditions change FreightWaves Beyond visibility: Building a supply chain that can act when conditions change - FreightWaves",
+        "published": "Wed, 09 Sep 2026 13:00:00 GMT",
+        "published_kst": "2026-09-09T22:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -147,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "investingLive Gold remains under pressure amid escalating US-Iran attacks and US CPI risks. What to watch next? / 상폐 대신 코넥스로 이전?…\"시장부터 되살려야\" [분석+] 한국경제 상폐 대신 코넥스로 이전?…\"시장부터 되살려야\" [분석+] - 한국경제 / supplychaindigital.com Who Won the Global Supply Chain Awards 2026?",
+  "wrap_summary": "ET the size of a buyback operation it announced Aug. The department is expected to announce around 11 a.m. / [설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 정책브리핑 [설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑 / ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation Information Technology Industry Council (ITI) ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation - Information Technology Industry Council (ITI)",
   "invest_summary": ""
 }
