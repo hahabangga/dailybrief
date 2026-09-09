@@ -1,26 +1,50 @@
 {
-  "date": "2026-09-09",
-  "generated_at_utc": "2026-09-09T14:24:39Z",
-  "cutoff_kst": "2026-09-09T23:24:00+09:00",
+  "date": "2026-09-10",
+  "generated_at_utc": "2026-09-09T17:02:57Z",
+  "cutoff_kst": "2026-09-10T02:02:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'",
-        "url": "https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html",
-        "summary": "ET the size of a buyback operation it announced Aug. The department is expected to announce around 11 a.m.",
-        "published": "Wed, 09 Sep 2026 14:20:16 GMT",
-        "published_kst": "2026-09-09T23:20:16+09:00",
+        "title": "Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+        "url": "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+        "summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\" Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans'",
+        "published": "Wed, 09 Sep 2026 16:50:10 GMT",
+        "published_kst": "2026-09-10T01:50:10+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "10%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
+        "url": "https://www.cnbc.com/2026/09/09/la-rams-kevin-demoff-australia.html",
+        "summary": "The Rams spent five years building their brand in Australia. LA Rams President Kevin Demoff touts Australia push ahead of historic NFL game",
+        "published": "Wed, 09 Sep 2026 16:47:24 GMT",
+        "published_kst": "2026-09-10T01:47:24+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump gave $45,000 gift to Natalie Harp, 2 other aides, financial disclosures show - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAteUtNeVVSUU9TOUgwbnViZzNMbGYxRjRGVkdiMkl4dWxXRFlBVnVTcTJhSkJEOGpjTldRZlc2ZElTRlBuV0h0WVM5eTZLck1FUm01NlZaU1lETC1UVXM2NVVlSQ?oc=5",
-        "summary": "Trump gave $45,000 gift to Natalie Harp, 2 other aides, financial disclosures show CBS News Trump gave $45,000 gift to Natalie Harp, 2 other aides, financial disclosures show - CBS News",
-        "published": "Wed, 09 Sep 2026 14:00:29 GMT",
-        "published_kst": "2026-09-09T23:00:29+09:00",
+        "title": "CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+        "url": "https://www.cnbc.com/2026/09/09/goldman-sachs-communcacopia-technology-conference-ai.html",
+        "summary": "CoreWeave CEO Mike Intrator spoke to CNBC at the Goldman Sachs' Communacopia + Technology Conference this week. CoreWeave CEO chalks up public AI pushback to the speed of change: 'And that is frightening'",
+        "published": "Wed, 09 Sep 2026 16:46:38 GMT",
+        "published_kst": "2026-09-10T01:46:38+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump gave $45,000 cash gifts to close aide Natalie Harp and others - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObmVXc2N6WFdEcVdXOUdfbnY4bHVmV2JRNVI5NG1lSmZxcW9yZHgxWlB4UU1sSWU1UXRSWTBSZHhuZW55aVlMVUdyZEttWlVqV0RURk9MR3pic2hqVy1WZFRWa0lTakRXQTBGYzVMU3V0MTlRSDNwc1BFX3hEQk9WanNYSjhvVnpiYmM4YzVHZGRPbmluLTQ3d0RRbVhKR29vcUtna3VVWjRKU1VOcTQ1Rw?oc=5",
+        "summary": "Trump gave $45,000 cash gifts to close aide Natalie Harp and others Reuters Trump gave $45,000 cash gifts to close aide Natalie Harp and others - Reuters",
+        "published": "Wed, 09 Sep 2026 16:15:46 GMT",
+        "published_kst": "2026-09-10T01:15:46+09:00",
         "domain": "google.com",
         "key_figures": [
           "$45"
@@ -29,48 +53,22 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-        "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-        "summary": "denied Iran’s claim that it struck two American vessels as the two sides traded attacks near the Strait of Hormuz and Brent crude hit $100 a barrel. denies claims Iran struck two American vessels in retaliation for earlier strikes",
-        "published": "Wed, 09 Sep 2026 13:46:11 GMT",
-        "published_kst": "2026-09-09T22:46:11+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$100"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Road salt and concrete are now exempt from Canadian import taxes, White House announces - KGW",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzhtdU91cjJkdFZmUlNiZkxvUDgzeU1tN1lGekNjMFRzUHpMMkh3QTlJZTNmcDlSWGxTMHdJd1ZMQXd1WDBFaERKRDJQYW0zY1lmeHFDYVF2M3E4cFoxZW9aLUxOV3hZUHJxQ0dGN1lzTFFxR2tUZWdhQXJfbEZIWWIxYm9BUFlxMXJCeXFkMHQ4bV93MmdhYmNWMlM1clFLTUM1UWFUUkg2X2ZQZkJ3a0lNOVBILVpSUkZzYkVB?oc=5",
-        "summary": "Road salt and concrete are now exempt from Canadian import taxes, White House announces KGW Road salt and concrete are now exempt from Canadian import taxes, White House announces - KGW",
-        "published": "Wed, 09 Sep 2026 13:44:00 GMT",
-        "published_kst": "2026-09-09T22:44:00+09:00",
+        "title": "The Latest: Republicans gathering for 'Trump-a-palooza' convention in Dallas - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnh5VjVlbmMxZEw5RFJhUi04WmtzQklaRmJSbEhlZnd1WU5KSmlCdmtsRFZSVkhvWThrdEhjZ1ZTMUQyM0Rtc3MwSkVzNVcycUdIMm5qeTZrR095WWg0YjExdERxSzBNNzV3dEltYkZvN0FzMnFlZlc2TnlPSlh4a0JrNV9QVWw3SUR2N1BfV0Q2V091c2tSQnVrU1FiLVIzQ1N6WHpmbXhHMzk1OGxzN2d3dlAyeUpt?oc=5",
+        "summary": "The Latest: Republicans gathering for 'Trump-a-palooza' convention in Dallas WRAL The Latest: Republicans gathering for 'Trump-a-palooza' convention in Dallas - WRAL",
+        "published": "Wed, 09 Sep 2026 16:03:57 GMT",
+        "published_kst": "2026-09-10T01:03:57+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Brent crude tops $100 for first time since July as fighting escalates in Persian Gulf",
-        "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
-        "summary": "and Iran fueled concerns over further disruptions to Middle East energy supplies. Oil prices extended gains on Wednesday as escalating tensions between the U.S.",
-        "published": "Wed, 09 Sep 2026 13:42:27 GMT",
-        "published_kst": "2026-09-09T22:42:27+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$100"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Aesthetic injuries, standing, and the White House ballroom - SCOTUSblog",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHFBTGRDN1ZxUHljTFJDWTlncTN3eXJoOTJ6NUlhOS1vS3NrMVZiR2VYNUVCNWI5SGsyZFdMMkJ5bnB0THlGa0k1WFdPWF9FcWh5S0FvNTdxb0t2QWt4TDB0VThZeUFGZW5mTkYwMUhCRzBaQktFekpOQ3ViTENHWU4xVTBKQVRULUhGSk9OTWpCcjFjTlZv?oc=5",
-        "summary": "Aesthetic injuries, standing, and the White House ballroom SCOTUSblog Aesthetic injuries, standing, and the White House ballroom - SCOTUSblog",
-        "published": "Wed, 09 Sep 2026 13:36:53 GMT",
-        "published_kst": "2026-09-09T22:36:53+09:00",
+        "title": "Trump is remodeling the White House. The group set up to protect it has stayed quiet. - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUczTFBJak1EQTg0SGItdVFzQzRveHRSWUdBUzE2Wm1KZGtCU1VnRzBXamVOR0hLZ214WU9JcEYtUzRkbVU1MmJrd1pldTVqZExWM1BERVVXeWtZMmdpT3RHMnczOWwxenJKaXdZX0tBVHRjLVNoazBlYzBSMk9WZGFhREp5MG1zWUVSTExLN3Y3ZkFiVzI0bTdZSFFRaXRpUEVPME84c0JCRjhnZk5zQm1n?oc=5",
+        "summary": "The Washington Post Trump is remodeling the White House. The group set up to protect it has stayed quiet.",
+        "published": "Wed, 09 Sep 2026 16:00:00 GMT",
+        "published_kst": "2026-09-10T01:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -79,33 +77,35 @@
     ],
     "kr": [
       {
-        "title": "[설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVG5RNGM3SDdEY3VnWlJjZDI0bnFIeXJlYWZGNGtUNllvUkpPWng2c2QtcnRpdTBpZGpqbVNpUDlsUVN5ZVJWMEllU28xX3NpT0Z3Nkl3MGNLZW5BZUJ0cGQxVm5oNlJiNkd0THZSSQ?oc=5",
-        "summary": "[설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 정책브리핑 [설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑",
-        "published": "Wed, 09 Sep 2026 13:52:30 GMT",
-        "published_kst": "2026-09-09T22:52:30+09:00",
+        "title": "\"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSeHNua2Vwa2RlYUpiRkZVaDFibnM1bnhvLWswZjNyV096cnF1QjdZaHp4SU1PYWxPT0VYN3JGTXJvckZyR21pYk83Z0xZaTEwc0d5UmhpVktOUQ?oc=5",
+        "summary": "\"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" hankyung.com \"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" - hankyung.com",
+        "published": "Wed, 09 Sep 2026 16:28:00 GMT",
+        "published_kst": "2026-09-10T01:28:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HamJmcUNOdWZpLXBNVkFITm1HT2t4Qkl4V3RRa0JmSFdOTTAyUjBabE1kNWdPbVRnZXpHX2s0RmFBTUZuck9yTUhRMXgxWVJVNUt3aFpCemN3dw?oc=5",
-        "summary": "구글, 핀란드에 23조원 투자 AI 데이터센터 구축 한국경제 구글, 핀란드에 23조원 투자 AI 데이터센터 구축 - 한국경제",
-        "published": "Wed, 09 Sep 2026 13:05:38 GMT",
-        "published_kst": "2026-09-09T22:05:38+09:00",
+        "title": "동양생명 과징금, 1400억→70억 된 까닭 - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RcWZ2VTFpTExsTUM3ZjhkTHdaSXlVMUNNTERNYWMxTVhkak5MSnk4TXRDUkJQcU15UHVEX0ZURDVlalNteXNFTVVONDNMM3lmQkJ4SGFDQ0dPUQ?oc=5",
+        "summary": "동양생명 과징금, 1400억→70억 된 까닭 hankyung.com 동양생명 과징금, 1400억→70억 된 까닭 - hankyung.com",
+        "published": "Wed, 09 Sep 2026 16:20:00 GMT",
+        "published_kst": "2026-09-10T01:20:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "1400"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "금리 오르면 주가 폭락?…\"오히려 호재\" 증권가 목표가 '줄상향' [주식R] - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aNUpQeGUzWFJibHFXWV9PbVRmVHhlaElxV3BieVNJSGFaUXItdzJxMHZNZzYyRTg1NmNZME9rSGdLN1Rfa3RLeklNaGl0WFE?oc=5",
-        "summary": "금리 오르면 주가 폭락?…\"오히려 호재\" 증권가 목표가 '줄상향' [주식R] v.daum.net 금리 오르면 주가 폭락?…\"오히려 호재\" 증권가 목표가 '줄상향' [주식R] - v.daum.net",
-        "published": "Wed, 09 Sep 2026 13:05:32 GMT",
-        "published_kst": "2026-09-09T22:05:32+09:00",
+        "title": "수협은행장 2파전 유력…신학기 vs 이형주 - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rTnlmN293U2E5ZjREd1pISHlOVGtvc3lvRnhWV1NNc0pvYTVrMDVOQmhzY09XSERWR21GcVlQUExoSk9uZXJpeTIyTnlsbzRLRTVOUWVld0ptdw?oc=5",
+        "summary": "수협은행장 2파전 유력…신학기 vs 이형주 hankyung.com 수협은행장 2파전 유력…신학기 vs 이형주 - hankyung.com",
+        "published": "Wed, 09 Sep 2026 16:18:00 GMT",
+        "published_kst": "2026-09-10T01:18:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,33 +114,33 @@
     ],
     "world": [
       {
-        "title": "ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation - Information Technology Industry Council (ITI)",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGZJZDE1Qk56ZW9ZQm1JU3drMS0zY2FxdlVaSFBXck1acW9DOGQtM01FczlPR3VOQVZUT1NMcGRzZ0FCOEppUU4wNHRWNlN5X1o2elhaZUtwbm5xaERBQjhpTmlXZnhYUFo5UTJ5a09PZTFNMG0wcW5pdTNBcF9FU1FJNDNwMXluUjZzNDVlUVVOdnNrT3k2QmFtT01fYVVfdXlvNUZfQ0NvYnFpYjMyQg?oc=5",
-        "summary": "ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation Information Technology Industry Council (ITI) ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation - Information Technology Industry Council (ITI)",
-        "published": "Wed, 09 Sep 2026 14:21:03 GMT",
-        "published_kst": "2026-09-09T23:21:03+09:00",
+        "title": "The decline of Germany’s supply chain regime - Global Investigations Review",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNlVnOFFPVm4wX0JRVFFiclNZZllITGFEbHFJNnQ4S01rRmlEZm1CSUprUGhaSGtxblBDS1N6bmpkN05OVW1hLVlWYkk1SXZsZG92Q1lMT3ZOZW1nNDZtUHppWDRhRER3Y1BQSjZPXzZpUzNMcjVIVWM1ZXhaLWg2dklDdlpGd0tRRkNkVVVkUE1mdXdG?oc=5",
+        "summary": "The decline of Germany’s supply chain regime Global Investigations Review The decline of Germany’s supply chain regime - Global Investigations Review",
+        "published": "Wed, 09 Sep 2026 16:02:06 GMT",
+        "published_kst": "2026-09-10T01:02:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Sanctions-Evasion Networks & Diverging Rules Risk Creating A 2-Tier Maritime System - Marine Insight",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbl8tRmc1XzN2cXNKY1hMa2MtbHhMZkUtS0lILUEyaTkyOGtIRWVjc3R5dWVoa25sSmY4dzNkcVlQdF9oRDJ1M1I0LUhnS3BkS1JCSlZrZGlMUmlOSHhZSGRhUlpIMk5LVmc1empWUURrZkUtVGxWZ3dKM0F4Z0RMMUg4eFBYM240V3N2Ql9XVjhLYnZIQUFTVFlGZ2R2VFBmZ2FyNU84bkl2V3kxb3ZNYk1R?oc=5",
-        "summary": "Sanctions-Evasion Networks & Diverging Rules Risk Creating A 2-Tier Maritime System Marine Insight Sanctions-Evasion Networks & Diverging Rules Risk Creating A 2-Tier Maritime System - Marine Insight",
-        "published": "Wed, 09 Sep 2026 13:24:56 GMT",
-        "published_kst": "2026-09-09T22:24:56+09:00",
+        "title": "China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks - San Bernardino Sun",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QaDNJZ2ZSZ3lsUlR3dUp1ZFJUZk1EbnFnSE42eWJUT3pDamN6azBUQlFkbjBzNDk0ejZRVk1tUUhJUTR3NmR2T0FuY3kzME4xcVZsS0pBcUNGVHU4dTFKVEs5RkE4UzdnUy14bA?oc=5",
+        "summary": "China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks San Bernardino Sun China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks - San Bernardino Sun",
+        "published": "Wed, 09 Sep 2026 15:57:33 GMT",
+        "published_kst": "2026-09-10T00:57:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Beyond visibility: Building a supply chain that can act when conditions change - FreightWaves",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnBqanhnN2wtWS1zZzBTRndzbjRYb3JMbktBX0xWakJjcFZ3OWlZUWtQWTBsSW14WW9IcUJ6cTlFUEpYMXB3cmFVRzJ3aVRvTU5FWkxpaUEzbzdqY19qUnlYQ2xPQVI0RWdjNHVBWXZIaEZ3SGlSSmNlM3VhXzVERXo5OUs0dm5felpqY3lZcnRRSGR0WElxeHNMX3BiWmVPLUlXTHJRZ2JZQTZDdTRBQw?oc=5",
-        "summary": "Beyond visibility: Building a supply chain that can act when conditions change FreightWaves Beyond visibility: Building a supply chain that can act when conditions change - FreightWaves",
-        "published": "Wed, 09 Sep 2026 13:00:00 GMT",
-        "published_kst": "2026-09-09T22:00:00+09:00",
+        "title": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaEVnY1E5cmlDbnVhdUNhYXJRWGpCdF8tYmtaMDVZVlpnc2lnT2tVdWEyaDNjY3pqU0kxWVA1NG9NUHZ2YmtTeEFjV3hWNzlaT2JuZ2VoSmxpcm53cVlUb0syaHlqcHBKOWQ1bHRBeEhudGlYLUc3LThaR0loZ1d3UTN3TEw0LXlZclhIRXFpZmx0WEs2azdXaXloeWU?oc=5",
+        "summary": "Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs About Amazon Amazon and Wiwynn expand Texas manufacturing facility, creating nearly 1,000 jobs - About Amazon",
+        "published": "Wed, 09 Sep 2026 15:22:09 GMT",
+        "published_kst": "2026-09-10T00:22:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "ET the size of a buyback operation it announced Aug. The department is expected to announce around 11 a.m. / [설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 정책브리핑 [설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑 / ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation Information Technology Industry Council (ITI) ITI Warns Broad FCC Supply Chain Rules Could Undercut Innovation - Information Technology Industry Council (ITI)",
+  "wrap_summary": "Jacob Coxon said in a post on X that Anthropic and OpenAI are \"gambling with our lives.\" Experts weigh in as researcher says AI has more than 10% chance of 'killing all humans' / \"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" hankyung.com \"창업선배 컨설팅 받고 지식재산권 허들 넘었죠\" - hankyung.com / The decline of Germany’s supply chain regime Global Investigations Review The decline of Germany’s supply chain regime - Global Investigations Review",
   "invest_summary": ""
 }
