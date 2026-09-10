@@ -1,107 +1,107 @@
 {
   "date": "2026-09-10",
-  "generated_at_utc": "2026-09-10T10:05:40Z",
-  "cutoff_kst": "2026-09-10T19:05:00+09:00",
+  "generated_at_utc": "2026-09-10T14:11:38Z",
+  "cutoff_kst": "2026-09-10T23:11:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "An ECB rate hike is ‘all but certain’ — but investors divided on what comes next",
-        "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
-        "summary": "The central bank is contending with rising prices, the consequences of the U.S.-Iran war, and surging government borrowing costs. An ECB rate hike is ‘all but certain’ — but investors divided on what comes next",
-        "published": "Thu, 10 Sep 2026 10:01:22 GMT",
-        "published_kst": "2026-09-10T19:01:22+09:00",
+        "title": "Home sales fall in August despite the highest supply in over a decade",
+        "url": "https://www.cnbc.com/2026/09/10/home-sales-august-supply.html",
+        "summary": "Home sales slowed again despite the highest supply of homes for sale in over a decade. Home sales fall in August despite the highest supply in over a decade",
+        "published": "Thu, 10 Sep 2026 14:07:01 GMT",
+        "published_kst": "2026-09-10T23:07:01+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nervy markets await ECB rate hike, US inflation data - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjYtV0VoT1RYbjk1b3ZfWF82Mnl6Z01kZ3hjMm8wcmZzOHdoT1RtYWxZZVNQOGJIX1BTRVI5NzFZRzNEY0tMZnZhdURKTmh2dkpYZC1FZnRjZnRHRGNVdE9XVGxQVC1GUXMyN0ZZUllYVXBmRFdiYjJqNk9CWTB6OXE5TlVKNUdTQ3gyVy12dkdETnZoOFcwX0hQb2l0X2VVb1pWcExUaw?oc=5",
-        "summary": "Nervy markets await ECB rate hike, US inflation data marketscreener.com Nervy markets await ECB rate hike, US inflation data - marketscreener.com",
-        "published": "Thu, 10 Sep 2026 09:43:45 GMT",
-        "published_kst": "2026-09-10T18:43:45+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar",
-        "url": "https://www.cnbc.com/2026/09/10/ryanair-airfare-prices-oil-iran-war.html",
-        "summary": "Ryanair's CEO warned airfare prices may see significant hikes as the surging cost of jet fuel continues to squeeze the airline industry. Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar",
-        "published": "Thu, 10 Sep 2026 09:35:14 GMT",
-        "published_kst": "2026-09-10T18:35:14+09:00",
+        "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+        "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+        "summary": "crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions U.S.",
+        "published": "Thu, 10 Sep 2026 14:04:28 GMT",
+        "published_kst": "2026-09-10T23:04:28+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. Futures Rise as Markets Watch Iran Conflict, Oracle and Adobe Earnings: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVDg5X1VpRVAtWHJxYmdsRlZyME10NlhMamtCc24wRUZGeGFsbjBnSVdJdEExTE56bFFXWGhhVWRGYXRFMzhwOTgzUFhlYnpGb2MtMzVwaDhsaEFvWVFJN0x1WFFHc0dMT1FkM2NlSEJTbGdMU2EwcHU1ak51SzNqdXJKVFZhYTJxaGNROHNZbVN0Nm1mMV9mQQ?oc=5",
-        "summary": "Futures Rise as Markets Watch Iran Conflict, Oracle and Adobe Earnings: Dow Jones, S&P, Nasdaq, Wall Street Yahoo Finance U.S.",
-        "published": "Thu, 10 Sep 2026 09:30:28 GMT",
-        "published_kst": "2026-09-10T18:30:28+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Coinbase CEO says clearer U.S. crypto rules are coming — with or without Senate approval",
-        "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
-        "summary": "crypto regulation could move forward regardless of the outcome of the Clarity Act. Coinbase CEO Brian Armstrong says U.S.",
-        "published": "Thu, 10 Sep 2026 09:25:34 GMT",
-        "published_kst": "2026-09-10T18:25:34+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump says every adult American will get $5,000 if Republicans win midterms - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16LW5ZZHNBWW40b3BGeGRQLXdaX2xmeWhWdTE5VTFTZ1VLS2M1aDZMdTB4WlQ0NHAwMzhza29uVzV2RzJxb3czMjdMTXFVd0dLYldtRjBfTFVYdw?oc=5",
-        "summary": "Trump says every adult American will get $5,000 if Republicans win midterms BBC Trump says every adult American will get $5,000 if Republicans win midterms - BBC",
-        "published": "Thu, 10 Sep 2026 09:00:05 GMT",
-        "published_kst": "2026-09-10T18:00:05+09:00",
-        "domain": "google.com",
         "key_figures": [
-          "$5"
+          "$100"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3",
+        "url": "https://www.cnbc.com/2026/09/10/our-top-3-stocks-that-bucked-the-markets-recent-pullback-plus-a-look-at-the-bottom-3.html",
+        "summary": "Here's a look at what moved our best and worst performers over the past four weeks. Our top 3 stocks that bucked the market’s recent pullback — plus, a look at the bottom 3",
+        "published": "Thu, 10 Sep 2026 14:01:15 GMT",
+        "published_kst": "2026-09-10T23:01:15+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Stubborn Inflation: US wholesale prices rise as oil prices continue to climb - Audacy",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHRrRGVNTWR2aDBOclVZNUp3Z1Z2T0VGdDlpYnRlczZsRDRGV1NEc1dZT252SE5MdTFWRVJ5UUkzbDB3VXJDWl9TVUhNeWRNZmZfSG1QVDNzdldjNFNwMVJPMzhtTHNtMzJEdjlXUXlZZXRDMFNCZGZrRFlrYWhJMzhSbEIzZw?oc=5",
+        "summary": "Stubborn Inflation: US wholesale prices rise as oil prices continue to climb Audacy Stubborn Inflation: US wholesale prices rise as oil prices continue to climb - Audacy",
+        "published": "Thu, 10 Sep 2026 13:48:00 GMT",
+        "published_kst": "2026-09-10T22:48:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US producer inflation tops expectations as diesel costs jump - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV1pYbGZiMENPT2pvZjY5NmVDek9FMlJJc2NaamtFT3oyS1haWjYzREFwSmQxNzBxdUNTYWhjVUY5OWVHMUpVb1R0UlE4WFZfWmFQT0wtZ3lIdllVVTZJd0FxN25TTkJmUUw5YkVBem9jbjJsSWk4Y2JwZGxoS0htVkJ3ZjVNTEstZHkzX2FnQTVlUQ?oc=5",
+        "summary": "US producer inflation tops expectations as diesel costs jump Yahoo Finance UK US producer inflation tops expectations as diesel costs jump - Yahoo Finance UK",
+        "published": "Thu, 10 Sep 2026 13:45:15 GMT",
+        "published_kst": "2026-09-10T22:45:15+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Preview: Due September 11 - U.S. August CPI - Firmer on ener - Continuum Economics",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFhsT21jSUxNam5YM01OSVNXSHdMNFpJcU9HR3VoQ3F4RFFCVEZTY0hQY01FYlM1TGlUa2JjeWU5aUwtb3pfUE5nNUNjbi1MaFRlZjFMT0lFdVdMbWp2ajhkNERGQllYNl90VGlyR1RJUl96OGdXX1R5Nm45VE5EMHZDbFlQRU5wYUE1V0JzREF0b0NlazdRUnZYeTJHMHVIUkdycGhKWG0xUTl4UXQ4dHlBTjVwRWVrM2wzVFA3d283Zw?oc=5",
+        "summary": "August CPI - Firmer on ener Continuum Economics Preview: Due September 11 - U.S. August CPI - Firmer on ener - Continuum Economics",
+        "published": "Thu, 10 Sep 2026 13:15:00 GMT",
+        "published_kst": "2026-09-10T22:15:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "유수영 신용정보원장 취임…첫 재경부 출신 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CQUFhWnpIMTExdVd1alpLQnA1MC1sc2VlMnhMRHFhZzZ6eGFJYzNhX2VJN0tKakdEMDQzVDFCSFV6Qm5tMmwyR1lDYjdub3BLSlBTQmNBZjE4dw?oc=5",
-        "summary": "유수영 신용정보원장 취임…첫 재경부 출신 한국경제 유수영 신용정보원장 취임…첫 재경부 출신 - 한국경제",
-        "published": "Thu, 10 Sep 2026 09:51:52 GMT",
-        "published_kst": "2026-09-10T18:51:52+09:00",
+        "title": "유가 급등·채권 수익률 급등에 美증시 하락 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83cVRkU3FhSkdFS0llM3A3VWw5WFl2VVJhZjRyZWowa3BjZkFWUVQxMW04TUZCbk9wazVvNTYwU0g4Y0c2SlU3clpvV0NhZzlZUHdBNFZCcXdTUQ?oc=5",
+        "summary": "유가 급등·채권 수익률 급등에 美증시 하락 한국경제 유가 급등·채권 수익률 급등에 美증시 하락 - 한국경제",
+        "published": "Thu, 10 Sep 2026 14:04:59 GMT",
+        "published_kst": "2026-09-10T23:04:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AGI 다음은 피지컬 AI…K로봇주 동반 강세 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeVhGTnAxWGVGVHlWMVRtS1g3alJESzJmdFlLR3JYZjliYlkwMFRJSGxoS3BfM0dCdDRpSUhVcWtEZWR5dWVMNl83UXJRUWVJaGlYYWluRm00dw?oc=5",
-        "summary": "AGI 다음은 피지컬 AI…K로봇주 동반 강세 한국경제 AGI 다음은 피지컬 AI…K로봇주 동반 강세 - 한국경제",
-        "published": "Thu, 10 Sep 2026 09:29:11 GMT",
-        "published_kst": "2026-09-10T18:29:11+09:00",
+        "title": "조정식 국회의장, 한국청년의정 현판식 참석 - 로이슈",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14NlA0YVR2Z3VQdl9GR05XcG83d25oSDJ2UkpLeVZCTGlVM3hzenktMF95dklSVzdTUU5KeDFHXzFOSFBMTE9YQlVSb0VvVnU5bTM2dk83Q2lOeUVWcUR6cFR0OUtOZTBWYmE0MThkc1I5WVdBdF9WNFdR?oc=5",
+        "summary": "조정식 국회의장, 한국청년의정 현판식 참석 로이슈 조정식 국회의장, 한국청년의정 현판식 참석 - 로이슈",
+        "published": "Thu, 10 Sep 2026 13:57:27 GMT",
+        "published_kst": "2026-09-10T22:57:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "김승용 동국대 대학원장, 한국청년의정 현판식 참석...\"청년 정치인재 육성 중요\" - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tQ2I5cTBDb1Jrb3REMjJxYVZsU2h2ZkJJR2dKbUJLS2hrTW1saVNuTjJqN1lPbzRIZlM5YnFjTVdQTFhaUFg0cHI1TlQ5a3hLdDRna05VZGJzY0ta?oc=5",
-        "summary": "김승용 동국대 대학원장, 한국청년의정 현판식 참석...\"청년 정치인재 육성 중요\" 뉴스핌 김승용 동국대 대학원장, 한국청년의정 현판식 참석...\"청년 정치인재 육성 중요\" - 뉴스핌",
-        "published": "Thu, 10 Sep 2026 09:25:00 GMT",
-        "published_kst": "2026-09-10T18:25:00+09:00",
+        "title": "100달러 다시 뚫은 국제유가…한국경제 ‘고유가 경보’ - 이투데이",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xUnJyRzlfamVPOEVUT1pUVWZRazlQU01Rc2hKYkctUEpCcTBsTnpjQXhTNmQ3NmxQQ2U1M01CVFNaS0pVcmdYSHJvU0dINWU4SzFVeQ?oc=5",
+        "summary": "100달러 다시 뚫은 국제유가…한국경제 ‘고유가 경보’ 이투데이 100달러 다시 뚫은 국제유가…한국경제 ‘고유가 경보’ - 이투데이",
+        "published": "Thu, 10 Sep 2026 13:55:00 GMT",
+        "published_kst": "2026-09-10T22:55:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,35 +110,33 @@
     ],
     "world": [
       {
-        "title": "Chinese AI chipmakers boost prices amid escalating HBM shortages and supply chain disruptions - Global Sources",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZkRDNllSMEc2dXI2N0dEc05VYUV0aDJfaEM5QmwwaUdSUjZ3MXI1aHE2bkhDQ3RDVnVsVU9VYml3RERZZ3d3eWpDZHNzVjlsMW13Zm0wN0hKOTdnUGZIS25iVE9hRW8tbHhBNDVfQTBOS3dCNUhWV0JPc3pOMHVfZmtLeTZ2WTJ3TEZHM0NRMTVyNGo3N2Z1T1BVWUo3X0ZQZEN1OE83MkZBZUI1cTdOY0pmejJYZVV1bVBKc0J6NWNSQ2VGUnpCRWVOSkxvRTBmSzhSMDZWcTdjU2lpdXJIczllazg5MjNFV1lVaTJsV2pYdw?oc=5",
-        "summary": "Chinese AI chipmakers boost prices amid escalating HBM shortages and supply chain disruptions Global Sources Chinese AI chipmakers boost prices amid escalating HBM shortages and supply chain disruptions - Global Sources",
-        "published": "Thu, 10 Sep 2026 10:01:30 GMT",
-        "published_kst": "2026-09-10T19:01:30+09:00",
+        "title": "Report: Slow Logistics Growth Raises Economic Slowdown Concerns - Florida Atlantic University",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHJLVlRvcFRFVmxScEhfXzBmTnBYbDZNWUhlYnFrVU9Oc1E4aTBTS0Y1MU9YczB3TWJJTHUzcW9sdTkxODNsNUctRXJCVTVsdVNDUzJRdG1GNDFBOENCRUlNX0ZwY3d5T3FkdklRMERvVEpQN05ReWR1M3FVVlZyaXNqaVd1dmVhMFd0cTVNamZhVHV1a0FCVE5TazUtSVQtQlo3U2wxSQ?oc=5",
+        "summary": "Report: Slow Logistics Growth Raises Economic Slowdown Concerns Florida Atlantic University Report: Slow Logistics Growth Raises Economic Slowdown Concerns - Florida Atlantic University",
+        "published": "Thu, 10 Sep 2026 13:47:45 GMT",
+        "published_kst": "2026-09-10T22:47:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "EcoVadis Named a Leader in 2026 Verdantix Green Quadrant for Supply Chain Sustainability Software for the second consecutive time - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObWFWb1ZiX0lqMlFzRmQ4SmcyTk4yQU4tdkM1TXp6TlNJbUlHWHNQUGJxY3lhZlRXUVlQblI3dUtHdUNNYlhnUXBkZHhxUXUyTFQtR1ZvWXVoREdmenQ4SkEyWE1hdHpuRG5GY0JqZENNb0tnSUFyQWppUm05cUN1Z2JSQUVfb1JCQlN5Y0JHWUhFWUE3Qi1tWEhsRG9Bd2JOVkpqZlgzZ1h0NnlHN185eHV6VjZKQXFtRDA5YUJJQ1BBVDVaTnRhejY1OVpCUDZWbUpnZkpzOUNQSEd2U2owRzgzcDBMV1YwWWZZbDBaQVlIVktjMWxJYmI2UlZyUlJjTFkwQ00wZXRFRVVfUkpfcFN1aw?oc=5",
-        "summary": "EcoVadis Named a Leader in 2026 Verdantix Green Quadrant for Supply Chain Sustainability Software for the second consecutive time PR Newswire EcoVadis Named a Leader in 2026 Verdantix Green Quadrant for Supply Chain Sustainability Software for the second consecutive time - PR Newswire",
-        "published": "Thu, 10 Sep 2026 10:00:00 GMT",
-        "published_kst": "2026-09-10T19:00:00+09:00",
+        "title": "Cosette appoints Andrew Adams as VP, supply chain & sourcing - PharmaLive",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONzhTRFhoN1R4OVpTYkRxQ0d4RVctc1FWMHhPNl94T0V3ekRHTERfQ05EZFo2V2VwMlBSZmV3SG5kWmk3S1ZkZTRXNGdkTGpQR2VFSlJtak9TU1MwcldyaWlQRWdHSlRxSkVZcWdCdTk3TVBpMFZLLVZWdU92WGw1d0dRNGpKR2o4X2l3WUZ3?oc=5",
+        "summary": "Cosette appoints Andrew Adams as VP, supply chain & sourcing PharmaLive Cosette appoints Andrew Adams as VP, supply chain & sourcing - PharmaLive",
+        "published": "Thu, 10 Sep 2026 13:43:20 GMT",
+        "published_kst": "2026-09-10T22:43:20+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Iran is circumventing sanctions by exchanging oil for Chinese goods — Reuters - UA.NEWS",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ2dzdlN3d1FTc09pcHBFTHlVWFctZExveklMWE04YlktWEpvZTFRTzI0WkRMZEcyVnhYYWhNUm9zZzAzVHFNQ1IwRjRtekJQZFc5UEQ3X2FrTGxwc3pVZERfVnE4QndfQk4yak96Y1dwZWp4R1I4Q3pQdXc4STQ4azQyQUJUZ1cwZEdaQm9MVUFQMlhsMGtCa1Vn?oc=5",
-        "summary": "Iran is circumventing sanctions by exchanging oil for Chinese goods — Reuters UA.NEWS Iran is circumventing sanctions by exchanging oil for Chinese goods — Reuters - UA.NEWS",
-        "published": "Thu, 10 Sep 2026 09:43:06 GMT",
-        "published_kst": "2026-09-10T18:43:06+09:00",
+        "title": "What if everything changes tomorrow? A Canadian company is using AI to help businesses navigate supply chain uncertainty - Microsoft Source",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tdHNtSUFDWEU2aEc1NXJxajgwYjdfLS10MmpUa2pET3JWRFBQc1NweEtrV0ZncjM0WGdBVEtCbW51c2hjSVFTOVIwQjhOQXQ1OFpjWXlVTjUyaDc4cVN0eVJIRWRtVFNWVElycGo1SXByanNlOFg1TkV1X3k0cjA?oc=5",
+        "summary": "A Canadian company is using AI to help businesses navigate supply chain uncertainty Microsoft Source What if everything changes tomorrow? What if everything changes tomorrow?",
+        "published": "Thu, 10 Sep 2026 12:59:50 GMT",
+        "published_kst": "2026-09-10T21:59:50+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "The central bank is contending with rising prices, the consequences of the U.S.-Iran war, and surging government borrowing costs. An ECB rate hike is ‘all but certain’ — but investors divided on what comes next / 유수영 신용정보원장 취임…첫 재경부 출신 한국경제 유수영 신용정보원장 취임…첫 재경부 출신 - 한국경제 / Chinese AI chipmakers boost prices amid escalating HBM shortages and supply chain disruptions Global Sources Chinese AI chipmakers boost prices amid escalating HBM shortages and supply chain disruptions - Global Sources",
+  "wrap_summary": "Home sales slowed again despite the highest supply of homes for sale in over a decade. Home sales fall in August despite the highest supply in over a decade / 유가 급등·채권 수익률 급등에 美증시 하락 한국경제 유가 급등·채권 수익률 급등에 美증시 하락 - 한국경제 / Report: Slow Logistics Growth Raises Economic Slowdown Concerns Florida Atlantic University Report: Slow Logistics Growth Raises Economic Slowdown Concerns - Florida Atlantic University",
   "invest_summary": ""
 }
