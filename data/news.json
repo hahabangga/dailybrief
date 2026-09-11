@@ -1,74 +1,72 @@
 {
   "date": "2026-09-11",
-  "generated_at_utc": "2026-09-10T23:26:41Z",
-  "cutoff_kst": "2026-09-11T08:26:00+09:00",
+  "generated_at_utc": "2026-09-11T06:44:56Z",
+  "cutoff_kst": "2026-09-11T15:44:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX1FaMEdEeVNNOWttZS1oTUd0ajlkUXQ1ZmRsXy1rb096TUNDQkZKT25KMDNfOXVXVE82MUVXSVZvUVgycFVmd2dBc01aRmRXeDRZWnVrTzVKOVZBSGJpYV9hN25RRkFzc1lEQ3poRGQwbmJDNmItZ2I1YlJvRjJJUmNR?oc=5",
-        "summary": "deficit, economists say CBS News Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News",
-        "published": "Thu, 10 Sep 2026 22:54:59 GMT",
-        "published_kst": "2026-09-11T07:54:59+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$5"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jim Cramer says this is the key force driving stocks right now",
-        "url": "https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
-        "summary": "CNBC's Jim Cramer said the 30-year Treasury yield is a key force driving stocks as it climbs to roughly 5.3%. Jim Cramer says this is the key force driving stocks right now",
-        "published": "Thu, 10 Sep 2026 22:46:54 GMT",
-        "published_kst": "2026-09-11T07:46:54+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "5.3%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Kimmel \"Play-Acting\" Over James Talarico Interview & FCC Threats: White House - Deadline",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGJZQklVZHNzWnJQa0cyX0t5RGw3UG5waEQyOVUtSzBsOUxVQ2VkUGFrS0MwUHc0UE82UUlIRGhmeG9rblpMd3dsdUlfZ3lTcW54N09tTlV4OFdta0xneHFCNUdNVXdWVk81cFVieE80Vkt4V2J4U3NCM3lVRUFscTZhOA?oc=5",
-        "summary": "Kimmel \"Play-Acting\" Over James Talarico Interview & FCC Threats: White House Deadline Kimmel \"Play-Acting\" Over James Talarico Interview & FCC Threats: White House - Deadline",
-        "published": "Thu, 10 Sep 2026 22:41:00 GMT",
-        "published_kst": "2026-09-11T07:41:00+09:00",
+        "title": "AUD/USD Breaks Below Key Support as US CPI Tests Fed Hike Bets - DailyForex",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0dsRVVxT0pqUElMUEZhRGZUZHhzcUtodzVJLWVkN3JndVJBajJEdmk4OE9BQ013M1FRYTFWanAxVi15Nng1djFObTBFOGlfRnM3YmJoQ1lRcE9WZnhRMlZILUM2NmowYXBYdFByTlZ3dzZHUzJhOHotc1lCOUY2NnNlYVhWNzVESVExU18xR2NSZFdpcVlQMUVmT0FCMm5BRzM4VEszYUJkdw?oc=5",
+        "summary": "AUD/USD Breaks Below Key Support as US CPI Tests Fed Hike Bets DailyForex AUD/USD Breaks Below Key Support as US CPI Tests Fed Hike Bets - DailyForex",
+        "published": "Fri, 11 Sep 2026 06:22:51 GMT",
+        "published_kst": "2026-09-11T15:22:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Wall Street dips after US wholesale inflation data, oil climbs - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzFkdlVCWlFZWG5PMmRTOG9rUTFIZWtaS3J1SEY1aTM2b1BkVTBDX2xMSWR0Z2lTSWIxalhDNnEzR2ZPUUFyTzh1anNpNXdMSnQ2U29FTjNPREI5cmFkc3UwYnpsdFl2dXdyXzA4ekhjMEdTUlpqNmJBWXlTNWU4b3JNenZ0Z0VoRGNCRHhyYnhpaTZ4ak81bUoxSm9KOFNMMXc?oc=5",
-        "summary": "Wall Street dips after US wholesale inflation data, oil climbs Yahoo Finance Wall Street dips after US wholesale inflation data, oil climbs - Yahoo Finance",
-        "published": "Thu, 10 Sep 2026 22:35:56 GMT",
-        "published_kst": "2026-09-11T07:35:56+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
-        "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
-        "summary": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog. Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
-        "published": "Thu, 10 Sep 2026 21:42:47 GMT",
-        "published_kst": "2026-09-11T06:42:47+09:00",
+        "title": "A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+        "url": "https://www.cnbc.com/2026/09/11/chinese-humanoid-robot-startup-distillation-claim-openai.html",
+        "summary": "Ant-backed startup JoyIn's CEO published an article in Chinese that raised questions about similarities between his company's new model and OpenAI publications. A Chinese humanoid startup flips 'distillation' claim on OpenAI as it releases a new robotics model",
+        "published": "Fri, 11 Sep 2026 06:02:40 GMT",
+        "published_kst": "2026-09-11T15:02:40+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
-        "url": "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
-        "summary": "Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen are set to speak at the Goldman Sachs Communacopia + Technology Conference. Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
-        "published": "Thu, 10 Sep 2026 21:22:39 GMT",
-        "published_kst": "2026-09-11T06:22:39+09:00",
+        "title": "Oil benchmarks north of US$100 as traders eye US CPI - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT1JJTDZGOVNySEVUNE9oUjgwLTdRUEdpMU84SE1xalpINXJVWGJRODZodG53dGhKV3lBMWVia01CQVFKT0FHSkxsNHN1MHFEUUtBNUduWWJUdmpxV3A4bWRGZEl1LWdsSmlLb0doNWdiRl9GWmpMbGNhMFUxRTdxZVlqQm5OUE4zZkROd2RGOW9mMVk5U3JWM0JNamJjVzQ?oc=5",
+        "summary": "Oil benchmarks north of US$100 as traders eye US CPI FXStreet Oil benchmarks north of US$100 as traders eye US CPI - FXStreet",
+        "published": "Fri, 11 Sep 2026 06:02:01 GMT",
+        "published_kst": "2026-09-11T15:02:01+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$100"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+        "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+        "summary": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections. Trump says he has no regrets about starting the Iran war as U.S.",
+        "published": "Fri, 11 Sep 2026 05:53:13 GMT",
+        "published_kst": "2026-09-11T14:53:13+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold weathers violent rates move ahead of US CPI - FOREX.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWROMXZkVHFSMXFKZFBqYVI5bjZXVUI2djNVZFVrZjNQUFBaZDNJRUFCc1RPRU01Z21lQUszdE8yNElRSXFDZExlNXBBMHFMRnNNX0s3bElBU1k1MW5MdFo2U2dUTnpPMGE0QXVWWlNQVmhyQ1lEbm5Wc0tUcU85bENIc1ZMbktEVGJaVHRfRFdpSExnVmlKN3JFOA?oc=5",
+        "summary": "Gold weathers violent rates move ahead of US CPI FOREX.com Gold weathers violent rates move ahead of US CPI - FOREX.com",
+        "published": "Fri, 11 Sep 2026 05:23:54 GMT",
+        "published_kst": "2026-09-11T14:23:54+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "China's global hunt for tax revenue may be just getting started",
+        "url": "https://www.cnbc.com/2026/09/11/china-rich-wealth-overseas-trust-tax-income-estate-inheritances-.html",
+        "summary": "Beijing's recent push to tax offshore wealth may be only the opening phase of a broader campaign that could eventually reach overseas properties, inheritances. China's global hunt for tax revenue may be just getting started",
+        "published": "Fri, 11 Sep 2026 04:47:10 GMT",
+        "published_kst": "2026-09-11T13:47:10+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -77,33 +75,33 @@
     ],
     "kr": [
       {
-        "title": "\"LS, 전선·전력기기 호황 계속…주가 여력 충분\"-SK - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xNTJlS0U3ZGJFaGtEWWJLaFpvRXBIcHAzZ1hfdE1TZDVqdjh1Ri1QeW9adS14LTVRcnRqY1V3OWJJaElyRXRLX3FUZXVoMlppaWlfVzAxaTZrUQ?oc=5",
-        "summary": "\"LS, 전선·전력기기 호황 계속…주가 여력 충분\"-SK 한국경제 \"LS, 전선·전력기기 호황 계속…주가 여력 충분\"-SK - 한국경제",
-        "published": "Thu, 10 Sep 2026 23:16:39 GMT",
-        "published_kst": "2026-09-11T08:16:39+09:00",
+        "title": "리스크에서 전환점으로…오늘날의 고금리 제대로 이해하기 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqY3M0ZEdUR2wxOUhQdnpyZnFrT1E1Z3ctQ01LaldvSHRaOVkzUExVanZadnVOOXV0YnVOQmhSMDJibnhmNTljYkVFckpETVc4ZkxtMnY5dTRWQQ?oc=5",
+        "summary": "리스크에서 전환점으로…오늘날의 고금리 제대로 이해하기 한국경제 리스크에서 전환점으로…오늘날의 고금리 제대로 이해하기 - 한국경제",
+        "published": "Fri, 11 Sep 2026 06:26:29 GMT",
+        "published_kst": "2026-09-11T15:26:29+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "인플레 다시 고개…유가 급등에 글로벌 장기채 매도 확산 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2Mk9qVW1oRUVvaDhSTWZZT0JOajVPc0N4U1Z0UEFIcUNNcW1CN282TUNfUGhKbkZuWUM1aUlyaGlZY2xJTlVTY1dPdTE1d0NMaWxJQXBfYVZEUQ?oc=5",
-        "summary": "인플레 다시 고개…유가 급등에 글로벌 장기채 매도 확산 한국경제 인플레 다시 고개…유가 급등에 글로벌 장기채 매도 확산 - 한국경제",
-        "published": "Thu, 10 Sep 2026 23:14:04 GMT",
-        "published_kst": "2026-09-11T08:14:04+09:00",
+        "title": "코스피, 다음주 '슈퍼위크 시험대' 오른다…美·日 금리 결정 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fbXdfVksyeXhaRDNnaVltcWJ1MEpUTVdrZjdYbUhsdm5FYV9hM05QaHFFSWRMQi1NUUxfQkRZVy1WQWhaNHI2QUl4aXNoRDdpdFRlQ2U1Wmtmdw?oc=5",
+        "summary": "코스피, 다음주 '슈퍼위크 시험대' 오른다…美·日 금리 결정 한국경제 코스피, 다음주 '슈퍼위크 시험대' 오른다…美·日 금리 결정 - 한국경제",
+        "published": "Fri, 11 Sep 2026 06:24:03 GMT",
+        "published_kst": "2026-09-11T15:24:03+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "삼성바이오에피스, 우수 일자리 창출 기업으로 선정 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wY1dBZGxDaUswSWhKdEtTSWw5SE9Tcm03eUVqTjY3LW1maHFKQ0pCZDFhczZ2WHAweUF5SFNQYktGX1JLSGVTVHJJMDNTZXBmQ1JEdVBoU1pCQQ?oc=5",
-        "summary": "삼성바이오에피스, 우수 일자리 창출 기업으로 선정 한국경제 삼성바이오에피스, 우수 일자리 창출 기업으로 선정 - 한국경제",
-        "published": "Thu, 10 Sep 2026 23:10:12 GMT",
-        "published_kst": "2026-09-11T08:10:12+09:00",
+        "title": "인텔 투자받은 알테라, 연내 목표로 IPO 추진 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12eFlMMm01S2ZySmctcVhLVjlNUkwycDlXZHNiYVd3bTZ1RnN3RWZhU2dFQUU0MkxzSGo1aDVFNE05QUNpSV8yclRrRXZEVDEwWmE0eEZyYXVZZw?oc=5",
+        "summary": "인텔 투자받은 알테라, 연내 목표로 IPO 추진 한국경제 인텔 투자받은 알테라, 연내 목표로 IPO 추진 - 한국경제",
+        "published": "Fri, 11 Sep 2026 06:14:06 GMT",
+        "published_kst": "2026-09-11T15:14:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +110,35 @@
     ],
     "world": [
       {
-        "title": "How the U.S. Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran - Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFhUYUhHOUpHTEZrTmhmbllNR0s4WXJxZUlLZnVadWxmbXE5NGV0a2xzd3NLNDBRcW0wR2laRnpGUUNxTkppeW9CdzhZRFNjY1gyQWRIcTZMZFFqOGRseGE1TmxwSW9nMTdTNmVfcTMwSzd1bkZwOW85SUhMUVpZMEJlS05sX05rNGsxc1AzWEVjVm4wTmhYVEZ3?oc=5",
-        "summary": "Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran Time Magazine How the U.S.",
-        "published": "Thu, 10 Sep 2026 21:53:30 GMT",
-        "published_kst": "2026-09-11T06:53:30+09:00",
+        "title": "Taiwan and Europe Strengthen Chip Collaboration as Supply Chain Resilience Takes Center Stage - Global Sources",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMnlTT2NkbU5SNEZXQUJRRHlOMWVON1JJenVWUV80Vzc2SW5kRFNHa0R5TnJ4TUVPVUNWX0VzM1UwREc5WWdKYmZKUnk0LS00M0NWNjNienJidVMyTmR0dTN4dU5tZ0hBYTh5blRrTUw4SW1qN1pqTDlMWDdZU3FBNmpGbm9ZNjR6YnhTeU15bEtTbFd2dkg5SGRONUY0alFrU3dZS1d3NDQwYnFWLXFRN28xTUtfXzgyc3Y5Rl9IbHh2SUx5RnVDSzJhbUJhc2tsY3Q0VUVJcFd0Z25hb2pyRXdGd2I5SWRn?oc=5",
+        "summary": "Taiwan and Europe Strengthen Chip Collaboration as Supply Chain Resilience Takes Center Stage Global Sources Taiwan and Europe Strengthen Chip Collaboration as Supply Chain Resilience Takes Center Stage - Global Sources",
+        "published": "Fri, 11 Sep 2026 06:22:30 GMT",
+        "published_kst": "2026-09-11T15:22:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "NIST finalizes Meta-Framework to boost manufacturing supply chain visibility, traceability, provenance verification - Industrial Cyber",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb3JOdEp6X1RXdmpmQlpKbkM5anRBX1dvYlN6ZmhseHRGYkQ0ckNBa25CaUJ4T0hNZ2NYOWh0V29rMjc4S3U0SzkwTWFfZVpZS2RWTFBhR1B0U2kxMHlTU1RwaXpkdUE0S0xlcDBYWmdWdmhYOHpOR2VOODJYY0lBRnl4THdSVEtRb0pCWUZHczJRTVdTTWdpc2wxSkZVVXIwS0FNVzNONkZKRkk1Ulpkd081WERyOWlUWTJRWGZYcEhWR0Q3bkgtdjhiNmdGUXZWMWZPRVFwRUJfS2VJa0Fv?oc=5",
-        "summary": "NIST finalizes Meta-Framework to boost manufacturing supply chain visibility, traceability, provenance verification Industrial Cyber NIST finalizes Meta-Framework to boost manufacturing supply chain visibility, traceability, provenance verification - Industrial Cyber",
-        "published": "Thu, 10 Sep 2026 18:22:30 GMT",
-        "published_kst": "2026-09-11T03:22:30+09:00",
+        "title": "Alcott Global Reveals the Top 30 Supply Chain Leaders of 2026 - The National Law Review",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHRHNHBYeW1LdGdwaWRXdVZKT0V5cDg4VUxBazhGVnMzdThqV2gzWGtVLXlKaGw2QVVYaFIzUFRucUN3U0RvLXk2WG9yTnhhMTBKQWVoLXRHaVpGakZ6Ti1yMFczWC1WemZGcTA0clNOU25JQ1ZfakJYazdBVzdSbWdDVVozWTljcWE2ZXhjRDFVdDBFcnpUcmdB?oc=5",
+        "summary": "Alcott Global Reveals the Top 30 Supply Chain Leaders of 2026 The National Law Review Alcott Global Reveals the Top 30 Supply Chain Leaders of 2026 - The National Law Review",
+        "published": "Fri, 11 Sep 2026 05:07:38 GMT",
+        "published_kst": "2026-09-11T14:07:38+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Guangzhou Dingshang Supply Chain Co., Ltd. Launches Enhanced DDP Logistics Solutions for U.S. and Middle East Trade Lanes - FinancialContent",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbExTRG5KVFB1UzZ1WjhGdmRJTkRQOXZUYU1HOXA2UGJyaEFGdUpTWl8xcU1oMkVwN0lnUi1lVXhSWDZtblQtWVh2Wm5sZXVMM1ZrS3dpMUUxLVNVTXI5UUp3SVN0dHpueFNtSXlrQWxJdmRpeEJTNk12anFtemRuc1g4TGNCY3JGT2Z4N1Ezd3d1NjJOYlJDTWQxUjFJMnl4Snh3TV9NUF90TGp2b2xDOEdYeEpmSzhTeWt6UzVsY0M1N2dpY2NtbGh1cjd4ZlF0b3JTMXlJY2RNZ05odG1vOTdjMHpHRnZoOWJHcTJhTFU5V05PUUhHTkxhUmpqSkZDR2dhdFVxNHR0bjNZU3J5YktLUkVwX2dRcGtn?oc=5",
-        "summary": "and Middle East Trade Lanes FinancialContent Guangzhou Dingshang Supply Chain Co., Ltd. Guangzhou Dingshang Supply Chain Co., Ltd.",
-        "published": "Thu, 10 Sep 2026 16:59:00 GMT",
-        "published_kst": "2026-09-11T01:59:00+09:00",
+        "title": "KoiReader Launches KoiVision Platform to Automate Global Supply Chain Yard Operations - AZoRobotics",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sSDVpUjFtVW1OaDc2ZGpON0syWDlCcEdrWFZBdHNmVDF5a3BQYm1rRlJxbV9YbXIydThwRmRMRnFWN0ZTNjA1b1l0M01WckxORGtFMXU5VW5UTndtUGVF?oc=5",
+        "summary": "KoiReader Launches KoiVision Platform to Automate Global Supply Chain Yard Operations AZoRobotics KoiReader Launches KoiVision Platform to Automate Global Supply Chain Yard Operations - AZoRobotics",
+        "published": "Fri, 11 Sep 2026 04:11:00 GMT",
+        "published_kst": "2026-09-11T13:11:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "deficit, economists say CBS News Trump's $5,000 dividend would reignite inflation and swell the U.S. deficit, economists say - CBS News / \"LS, 전선·전력기기 호황 계속…주가 여력 충분\"-SK 한국경제 \"LS, 전선·전력기기 호황 계속…주가 여력 충분\"-SK - 한국경제 / Treasury's New Aviation Sanctions on Iran Extend Beyond Tehran Time Magazine How the U.S.",
+  "wrap_summary": "AUD/USD Breaks Below Key Support as US CPI Tests Fed Hike Bets DailyForex AUD/USD Breaks Below Key Support as US CPI Tests Fed Hike Bets - DailyForex / 리스크에서 전환점으로…오늘날의 고금리 제대로 이해하기 한국경제 리스크에서 전환점으로…오늘날의 고금리 제대로 이해하기 - 한국경제 / Taiwan and Europe Strengthen Chip Collaboration as Supply Chain Resilience Takes Center Stage Global Sources Taiwan and Europe Strengthen Chip Collaboration as Supply Chain Resilience Takes Center Stage - Global Sources",
   "invest_summary": ""
 }
