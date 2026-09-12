@@ -1,75 +1,70 @@
 {
-  "date": "2026-09-12",
-  "generated_at_utc": "2026-09-12T13:28:59Z",
-  "cutoff_kst": "2026-09-12T22:28:00+09:00",
+  "date": "2026-09-13",
+  "generated_at_utc": "2026-09-12T16:02:04Z",
+  "cutoff_kst": "2026-09-13T01:02:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Trump's America-first world is pushing other powers to hedge their bets",
-        "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-        "summary": "tariffs, sanctions and the Iran war test whether BRICS members can find more common ground. Xi, Putin and Modi meet in New Delhi as U.S.",
-        "published": "Sat, 12 Sep 2026 13:24:33 GMT",
-        "published_kst": "2026-09-12T22:24:33+09:00",
+        "title": "It's time to use AI to rehearse pay, performance chats before meeting with your manager. They're doing it",
+        "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
+        "summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential. It's time to use AI to rehearse pay, performance chats before meeting with your manager.",
+        "published": "Sat, 12 Sep 2026 15:23:58 GMT",
+        "published_kst": "2026-09-13T00:23:58+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-        "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-        "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-        "published": "Sat, 12 Sep 2026 13:15:04 GMT",
-        "published_kst": "2026-09-12T22:15:04+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Mario-a-Lago Kart , Anyone? - theatlantic.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGtuVDBOTlR4NmxIcmlsMmEzQzI3SXZxNi00ZEhhLUJoM3RPd0tnbWh3M28tYzVxa3hQS3JnWV8xakJTMV9IbXJ0SExta0RHUWF4bkVMbmhkUmFsdkNENTZtUnRubjhqYzh2SkkwTmJOVElHdHpKNDZZakJlQzctTWhqNDVMeUJkWjM2QWtHWFA?oc=5",
-        "summary": "theatlantic.com Mario-a-Lago Kart , Anyone?",
-        "published": "Sat, 12 Sep 2026 13:00:00 GMT",
-        "published_kst": "2026-09-12T22:00:00+09:00",
+        "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmFDU1BhckZ0MXVVUElqZVF6Q1lJemx3VWZlSXd6cmRpcmFYNUJOZmI1Q3o0RjlLSExfX3N6R0xTSEtIemJaRE10VEZkZV80cDhaVXFjWHhfSUZPektiNlJwRmJsckRpci1hc3lXRER3aE83NDJTUTRKT2tXc05yVE9KZE45MVJiVXdKUW9mRDcxblh1NTB1b0lPTEFsaFpCMHJlc21pZ3hrRlJTVTN3SGRlMEY?oc=5",
+        "summary": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish CNBC Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
+        "published": "Sat, 12 Sep 2026 14:37:07 GMT",
+        "published_kst": "2026-09-12T23:37:07+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. inflation remains at 3.4% in August report - The Black Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTRWTGlhbUJRTmt6Rl84RmxGSkQ1cVlyRHBFV1RSbHM4YTRFR3JRcmtPaGdYRUhxVDlMMDNGam5vT3VUblNvemxNWVVVME1vQklGWXUzLTNWS0ZKRTNSTEtmTDB3SXBUd0JlcWlBUjhTWFZZdTBpOENubTlmNmtHX1lid3BvRzhhS0E?oc=5",
-        "summary": "inflation remains at 3.4% in August report The Black Chronicle U.S.",
-        "published": "Sat, 12 Sep 2026 12:43:43 GMT",
-        "published_kst": "2026-09-12T21:43:43+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "3.4%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
-        "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-        "summary": "crude oil price on Thursday topped $102 per barrel for its highest close since May. Oil's roundtrip back to $100.",
-        "published": "Sat, 12 Sep 2026 12:40:05 GMT",
-        "published_kst": "2026-09-12T21:40:05+09:00",
+        "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
+        "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
+        "summary": "Stocks came under pressure last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Fed's next move. Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
+        "published": "Sat, 12 Sep 2026 14:37:07 GMT",
+        "published_kst": "2026-09-12T23:37:07+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "$100",
-          "$102"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2ZYUEpWLVUxOGRVTFdzRWNIWmV2TDRqa0ZCaExvRHV6M2h5X3l5RW1sU2ViQ3NlMGZQekxHZXFLU1Exa2pLQ29JdlNWNWtTVkNfQktyME5IUF82NGM2QXZ5dExlQi1EU0xPUGR5SEtvU2UyWlRDbUFBYmlrd0doS3Z3MVBJVDRsU0JhSzh3bDZ6dXNTTGF0MDFuUUY0Y2NlTmFNdjgyZ1oxYWFheGN1U3ZfTU5oZXBYUU9kRm9Hc1Bfd9IBxwFBVV95cUxPWVFFZDdFdjgzdm5XQ2FZRGwzaXVoMFduemQ4ZFhEVGc1cnNOVGtseTJUdzh6alhLelhZRUdDVHBvQ08yb3ZKZm1HV2tHMDhfZE1jdlB1TTRQb3dWcmQzS0tkTHE0RWFTbFZYYjVEOGJwS19uM3ZncVRsMy1DVklFV1gwUDZpTE9wTFBlMktBM1R6Q3FOc1M5MXFrejhjTDJBLVQ0c1hlM2RTWkZWQXk1UlBSZGpRT3pTRmRpbldOVFJod1hYSmJj?oc=5",
-        "summary": "White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense Fox News White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense - Fox News",
-        "published": "Sat, 12 Sep 2026 12:00:13 GMT",
-        "published_kst": "2026-09-12T21:00:13+09:00",
+        "title": "Energy Shock Keeps US Inflation Elevated, Fed Weighs Rate Hike - InkFreeNews.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDlHMHcybVBUMWFMMTJnZUh5dFJ4Mm9JamczYmlVWlVneXBlVFpOUEM1S19IU3NIVVc4bjIzTUJSa0VqVUNRYTdITDM1TGlJdzBScElfWkpTRkFYVS1Pdmt1a2NVNnprZWxJb20wZkhXV2I5NnFSMXF2OWgxSW1wU09ScE9kU0FqVmlkSXJlU0xwZG1XaVYzLXR4NnpXUWZRX28w?oc=5",
+        "summary": "Energy Shock Keeps US Inflation Elevated, Fed Weighs Rate Hike InkFreeNews.com Energy Shock Keeps US Inflation Elevated, Fed Weighs Rate Hike - InkFreeNews.com",
+        "published": "Sat, 12 Sep 2026 14:30:46 GMT",
+        "published_kst": "2026-09-12T23:30:46+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
+        "url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
+        "summary": "America's housing market is short inventory and workers, pressuring home affordability. Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
+        "published": "Sat, 12 Sep 2026 13:52:03 GMT",
+        "published_kst": "2026-09-12T22:52:03+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Advocates call on White House to bring more Christian refugees to the U.S. - wng.org",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFdGUFRwNlVzeDJBYlE0VWFFdlNtRTFQUnJHMXR5OWZQcmh3d0xYNjIxSWJkTkpKWU1oQXZrNFRzb3JBSmVsVHlFYmhqYWJYbkxDLVBCSzBYaEZMRW9VdDJncE5IUGJCcWE1dFdpV1F6bkxIUUJzbE92TjZuanlLMC1PTlBRZzF3MWwtdS0xckZfVzBaWk1xMDJFcUw4cVFVTDRXb0J2VHFVUWZnb1E?oc=5",
+        "summary": "wng.org Advocates call on White House to bring more Christian refugees to the U.S.",
+        "published": "Sat, 12 Sep 2026 13:48:00 GMT",
+        "published_kst": "2026-09-12T22:48:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -78,57 +73,62 @@
     ],
     "kr": [
       {
-        "title": "\"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XaFIwbkJNd2pFV1M0MXU3QVp4NUNHVWZzTmYyUnAwMUVET2VLN0NIbU5nN3A4djdVUGtYbEVRcWZyNENGeFN6MFdQYXZVQUh3cFVIYzZLWExmQQ?oc=5",
-        "summary": "\"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] 한국경제 \"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] - 한국경제",
-        "published": "Sat, 12 Sep 2026 10:32:30 GMT",
-        "published_kst": "2026-09-12T19:32:30+09:00",
+        "title": "[오늘의 운세] 9월 13일 띠별 운세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9keWQyTV9RVHRkUnVKWWd6ellwbmNBck85VkNFYUpmSmNONTk1YkN1MWhEWkdfNTM1THlyQ2xzTnp3bU9tRW1weV8wbnR2c3VTRzJRNWxGbW1FQQ?oc=5",
+        "summary": "[오늘의 운세] 9월 13일 띠별 운세 한국경제 [오늘의 운세] 9월 13일 띠별 운세 - 한국경제",
+        "published": "Sat, 12 Sep 2026 15:00:11 GMT",
+        "published_kst": "2026-09-13T00:00:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"투자 왜 늦냐\" 美압박 거센데…김정관, 워싱턴 아닌 뉴욕 찾은 이유 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FeGhjT0t1ajBWOUQwMjlXSlJTQ0YzMGRaTGlUeVgtRTZGVkVvZ0ktSHhtSmFMTDFHajNFVWlKRGZDUXRQU2RTeUYtRHA0bEk?oc=5",
-        "summary": "\"투자 왜 늦냐\" 美압박 거센데…김정관, 워싱턴 아닌 뉴욕 찾은 이유 v.daum.net \"투자 왜 늦냐\" 美압박 거센데…김정관, 워싱턴 아닌 뉴욕 찾은 이유 - v.daum.net",
-        "published": "Sat, 12 Sep 2026 09:57:00 GMT",
-        "published_kst": "2026-09-12T18:57:00+09:00",
+        "title": "[오늘의 운세] 2026년 9월 13일 별자리 운세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dC1vbENYTFkxeDZtMEFaOW5uUE1NLUVMREw4b0Z6Tjc1c1B1dVJHcWl2NDczbVRJQngxUjBrUWpwNnlfN3k3NTBSS3hRc0t2MnpRakZLemJNQQ?oc=5",
+        "summary": "[오늘의 운세] 2026년 9월 13일 별자리 운세 한국경제 [오늘의 운세] 2026년 9월 13일 별자리 운세 - 한국경제",
+        "published": "Sat, 12 Sep 2026 15:00:08 GMT",
+        "published_kst": "2026-09-13T00:00:08+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국 경제 진짜 위험하다 - contents.premium.naver.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkVZT3NTMEpkYWp6WXFoRkx0am9WSnZtNXVLdHZNdV83LVFQbVR3aUJYdXRta1cxeTZRZ0FFV0JQdEhhc0Q3eVVaTkdfb0dQUlJySGM5anFYQVJEMWNaWmNqOHhnbkQwb0FxVlZGV3RvMDhSdGxBSnIzYWtOWnVLaVFnMlM?oc=5",
-        "summary": "한국 경제 진짜 위험하다 contents.premium.naver.com 한국 경제 진짜 위험하다 - contents.premium.naver.com",
-        "published": "Sat, 12 Sep 2026 09:19:00 GMT",
-        "published_kst": "2026-09-12T18:19:00+09:00",
+        "title": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81YkZoX3VXQTd1WU9LV294VTRmU3FzbGFiclRQZDZoTU85cUxTNWpEblp0VUhOMnVSS2xmTWh2b2tEbk93X1JuYnJlb2xTX1BSTFJBZktGM2pfUQ?oc=5",
+        "summary": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다 한국경제 2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다 - 한국경제",
+        "published": "Sat, 12 Sep 2026 11:56:07 GMT",
+        "published_kst": "2026-09-12T20:56:07+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2030",
+          "1100"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Supply Chain Visibility Artificial Intelligence Market Revenue To - The National Law Review",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5hY0xLN3J1Sy0wLXJUUzNvbGpqdFd5YUJhQ0JKUlBNWUwxTHNaRXVZV1p0U0o4R1FSeVhmbi05eENsWTd1YzRBUTJNbVNobHkyX2RkaHVGdlV1QXYzbUhqQndySGVVNi0xWFkxdlh1aldEdm5qR01WRUl4UnNpM0xJdmsyY1JQTlFnUXFSNWRxenVwTXJLbUdBSTB6dzREb1lmLUVPOXJjN0R5bXJfUEd3?oc=5",
-        "summary": "Supply Chain Visibility Artificial Intelligence Market Revenue To The National Law Review Supply Chain Visibility Artificial Intelligence Market Revenue To - The National Law Review",
-        "published": "Fri, 11 Sep 2026 18:12:04 GMT",
-        "published_kst": "2026-09-12T03:12:04+09:00",
+        "title": "Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade - Kyiv Post",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93TTBBcnBRaGhvaVJNMEozQ1VBWWFqZFRsdDVPRXpPbkxhZnBhbmlDN0dJdkU1cGZUdE85ZjUwbEczVTFWUmtsX0pHOA?oc=5",
+        "summary": "Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade Kyiv Post Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade - Kyiv Post",
+        "published": "Fri, 11 Sep 2026 20:35:40 GMT",
+        "published_kst": "2026-09-12T05:35:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Leen Kawas: How to Build More Resilient Medicine Supply Chains - Impakter",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtRnhiN2pzOGs5TmlCbHM0bi00dy1xeE5laGluRVd3eWxUTTZZTXdNU0pINUJ2WGF2VW10bWs5cHJYT0dkNGx5M1E1QkhxTHBETXlnQVpqRG9ITzRDUVVKWnduQjZSV0JkTWx6MHJiQmQ0MXZ3ZEwxYm4xaw?oc=5",
-        "summary": "Leen Kawas: How to Build More Resilient Medicine Supply Chains Impakter Leen Kawas: How to Build More Resilient Medicine Supply Chains - Impakter",
-        "published": "Fri, 11 Sep 2026 17:48:05 GMT",
-        "published_kst": "2026-09-12T02:48:05+09:00",
+        "title": "Supply Chain Visibility Artificial Intelligence Market Revenue To - natlawreview.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5hY0xLN3J1Sy0wLXJUUzNvbGpqdFd5YUJhQ0JKUlBNWUwxTHNaRXVZV1p0U0o4R1FSeVhmbi05eENsWTd1YzRBUTJNbVNobHkyX2RkaHVGdlV1QXYzbUhqQndySGVVNi0xWFkxdlh1aldEdm5qR01WRUl4UnNpM0xJdmsyY1JQTlFnUXFSNWRxenVwTXJLbUdBSTB6dzREb1lmLUVPOXJjN0R5bXJfUEd3?oc=5",
+        "summary": "Supply Chain Visibility Artificial Intelligence Market Revenue To natlawreview.com Supply Chain Visibility Artificial Intelligence Market Revenue To - natlawreview.com",
+        "published": "Fri, 11 Sep 2026 18:12:04 GMT",
+        "published_kst": "2026-09-12T03:12:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -147,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "tariffs, sanctions and the Iran war test whether BRICS members can find more common ground. Xi, Putin and Modi meet in New Delhi as U.S. / \"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] 한국경제 \"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] - 한국경제 / Supply Chain Visibility Artificial Intelligence Market Revenue To The National Law Review Supply Chain Visibility Artificial Intelligence Market Revenue To - The National Law Review",
+  "wrap_summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential. It's time to use AI to rehearse pay, performance chats before meeting with your manager. / [오늘의 운세] 9월 13일 띠별 운세 한국경제 [오늘의 운세] 9월 13일 띠별 운세 - 한국경제 / Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade Kyiv Post Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade - Kyiv Post",
   "invest_summary": ""
 }
