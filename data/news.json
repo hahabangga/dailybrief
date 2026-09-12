@@ -1,20 +1,17 @@
 {
   "date": "2026-09-12",
-  "generated_at_utc": "2026-09-12T09:38:56Z",
-  "cutoff_kst": "2026-09-12T18:38:00+09:00",
+  "generated_at_utc": "2026-09-12T13:28:59Z",
+  "cutoff_kst": "2026-09-12T22:28:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Bitcoin Nears $80K After U.S. CPI Matches 3.4% Forecast - InsuranceNewsNet",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHFJTDljVUFpa3UtZTRqQUNOaTc1N2x0bURhaGp4MVZXWUlWdGdDdFJvUUphQTF6TUxQVGFiYkRNckFSQWl2eUFoR2M3REcyU3o0dUVWZW5uOE9NLUhvekNxXzA1TXZFNi1venZjU1dpWVZOT1VVa1JRdkNrNFY1bEs5M3lEZDBFOFVyZXViSl95a1lu?oc=5",
-        "summary": "CPI Matches 3.4% Forecast InsuranceNewsNet Bitcoin Nears $80K After U.S. CPI Matches 3.4% Forecast - InsuranceNewsNet",
-        "published": "Sat, 12 Sep 2026 09:29:55 GMT",
-        "published_kst": "2026-09-12T18:29:55+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$80",
-          "3.4%"
-        ],
+        "title": "Trump's America-first world is pushing other powers to hedge their bets",
+        "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+        "summary": "tariffs, sanctions and the Iran war test whether BRICS members can find more common ground. Xi, Putin and Modi meet in New Delhi as U.S.",
+        "published": "Sat, 12 Sep 2026 13:24:33 GMT",
+        "published_kst": "2026-09-12T22:24:33+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -22,89 +19,92 @@
         "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
         "url": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
         "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-        "published": "Sat, 12 Sep 2026 08:44:39 GMT",
-        "published_kst": "2026-09-12T17:44:39+09:00",
+        "published": "Sat, 12 Sep 2026 13:15:04 GMT",
+        "published_kst": "2026-09-12T22:15:04+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US Inflation Rises Faster Than Experts Predicted - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGY0UjAtMi1WX3pKS1F3dU5hc2VIT2RYeXljbkRlVk9OYkRMNVdQNlhxVVYtdjg5TnlHQTllTDJoTEJhRnkwbWZRMlNjRXlkWjlsUnZUZkFuTkxLaldHZGhRem11ak1JdlNHdkRhcGNXc1pzVW14NnlETUlpNkRkQWJSa1J6RklTTXZKWFdwUElacTVudHljQWtCVlFRbjJEdVB5Y3VzSVF4X09faW50aUtlMWs2SGg4ZnhOcA?oc=5",
-        "summary": "US Inflation Rises Faster Than Experts Predicted Bloomberg.com US Inflation Rises Faster Than Experts Predicted - Bloomberg.com",
-        "published": "Sat, 12 Sep 2026 08:17:50 GMT",
-        "published_kst": "2026-09-12T17:17:50+09:00",
+        "title": "Mario-a-Lago Kart , Anyone? - theatlantic.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZGtuVDBOTlR4NmxIcmlsMmEzQzI3SXZxNi00ZEhhLUJoM3RPd0tnbWh3M28tYzVxa3hQS3JnWV8xakJTMV9IbXJ0SExta0RHUWF4bkVMbmhkUmFsdkNENTZtUnRubjhqYzh2SkkwTmJOVElHdHpKNDZZakJlQzctTWhqNDVMeUJkWjM2QWtHWFA?oc=5",
+        "summary": "theatlantic.com Mario-a-Lago Kart , Anyone?",
+        "published": "Sat, 12 Sep 2026 13:00:00 GMT",
+        "published_kst": "2026-09-12T22:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "$Oracle (ORCL.US)$ earnings out, what a reversal from green to red. - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEpjNFRxNDlfX3ppRUhfazc0WDhNazExN1FOWEpJU21VYU5fWUpNQWktc0ZTanJzaDA0Q0MybnNIUXAyV2VscFBaT1hKMm5OTFRLcFFkX3l2RTNiNHl4OGx4eGpkamtLOVdma1NvSkdvRnQ0MTBiU0lxTUt4UHRJT3ZaS2VPNGxMWTZoNmVCamhJTUFfYVFOdm1UbGVReURYQm9fdnR4TDJzaUJk?oc=5",
-        "summary": "Moomoo $Oracle (ORCL.US)$ earnings out, what a reversal from green to red.",
-        "published": "Sat, 12 Sep 2026 08:15:52 GMT",
-        "published_kst": "2026-09-12T17:15:52+09:00",
+        "title": "U.S. inflation remains at 3.4% in August report - The Black Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQTRWTGlhbUJRTmt6Rl84RmxGSkQ1cVlyRHBFV1RSbHM4YTRFR3JRcmtPaGdYRUhxVDlMMDNGam5vT3VUblNvemxNWVVVME1vQklGWXUzLTNWS0ZKRTNSTEtmTDB3SXBUd0JlcWlBUjhTWFZZdTBpOENubTlmNmtHX1lid3BvRzhhS0E?oc=5",
+        "summary": "inflation remains at 3.4% in August report The Black Chronicle U.S.",
+        "published": "Sat, 12 Sep 2026 12:43:43 GMT",
+        "published_kst": "2026-09-12T21:43:43+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "3.4%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump's America-first world is pushing other powers to hedge their bets",
-        "url": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-        "summary": "tariffs, sanctions and the Iran war test whether BRICS members can find more common ground. Xi, Putin and Modi meet in New Delhi as U.S.",
-        "published": "Sat, 12 Sep 2026 06:25:50 GMT",
-        "published_kst": "2026-09-12T15:25:50+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "In pictures: The U.S. commemorates the 25th anniversary of 9/11",
-        "url": "https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html",
-        "summary": "11, 2001, hijackers flew planes into the World Trade Center and the Pentagon, killing thousands. commemorates the 25th anniversary of 9/11",
-        "published": "Fri, 11 Sep 2026 22:42:14 GMT",
-        "published_kst": "2026-09-12T07:42:14+09:00",
+        "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
+        "url": "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+        "summary": "crude oil price on Thursday topped $102 per barrel for its highest close since May. Oil's roundtrip back to $100.",
+        "published": "Sat, 12 Sep 2026 12:40:05 GMT",
+        "published_kst": "2026-09-12T21:40:05+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2001"
+          "$100",
+          "$102"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2ZYUEpWLVUxOGRVTFdzRWNIWmV2TDRqa0ZCaExvRHV6M2h5X3l5RW1sU2ViQ3NlMGZQekxHZXFLU1Exa2pLQ29JdlNWNWtTVkNfQktyME5IUF82NGM2QXZ5dExlQi1EU0xPUGR5SEtvU2UyWlRDbUFBYmlrd0doS3Z3MVBJVDRsU0JhSzh3bDZ6dXNTTGF0MDFuUUY0Y2NlTmFNdjgyZ1oxYWFheGN1U3ZfTU5oZXBYUU9kRm9Hc1Bfd9IBxwFBVV95cUxPWVFFZDdFdjgzdm5XQ2FZRGwzaXVoMFduemQ4ZFhEVGc1cnNOVGtseTJUdzh6alhLelhZRUdDVHBvQ08yb3ZKZm1HV2tHMDhfZE1jdlB1TTRQb3dWcmQzS0tkTHE0RWFTbFZYYjVEOGJwS19uM3ZncVRsMy1DVklFV1gwUDZpTE9wTFBlMktBM1R6Q3FOc1M5MXFrejhjTDJBLVQ0c1hlM2RTWkZWQXk1UlBSZGpRT3pTRmRpbldOVFJod1hYSmJj?oc=5",
+        "summary": "White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense Fox News White House unloads on violent ‘criminal alien’ nabbed after investigators uncover election offense - Fox News",
+        "published": "Sat, 12 Sep 2026 12:00:13 GMT",
+        "published_kst": "2026-09-12T21:00:13+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "폭염·고금리까지 \"극심한 위기\"…성장률 전망 또 내린 佛 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMVzVLWDFyWEhRSmhTVUVmQW5KcG9KVHJoNWw0RVZaM2M0UXRqZEdkM0Y5RHprX1JmcDM1SGpnZmtnbjBaSjR0a1lQVk1BUzQ?oc=5",
-        "summary": "폭염·고금리까지 \"극심한 위기\"…성장률 전망 또 내린 佛 v.daum.net 폭염·고금리까지 \"극심한 위기\"…성장률 전망 또 내린 佛 - v.daum.net",
-        "published": "Sat, 12 Sep 2026 09:03:50 GMT",
-        "published_kst": "2026-09-12T18:03:50+09:00",
+        "title": "\"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XaFIwbkJNd2pFV1M0MXU3QVp4NUNHVWZzTmYyUnAwMUVET2VLN0NIbU5nN3A4djdVUGtYbEVRcWZyNENGeFN6MFdQYXZVQUh3cFVIYzZLWExmQQ?oc=5",
+        "summary": "\"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] 한국경제 \"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] - 한국경제",
+        "published": "Sat, 12 Sep 2026 10:32:30 GMT",
+        "published_kst": "2026-09-12T19:32:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "국제유가 폭등하는데…李 \"전혀 걱정하지 않으셔도 돼\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUTNwenRiMFRJZmo5VnptRUN6SzVaQVBNTDUzb1JLYUpEN3BJN0JBVXB0Um9vczhWWWRrQk1mRjlaTm5IUnBqSGVYSTRUeFZQZ3k2VVh1M3RxUQ?oc=5",
-        "summary": "국제유가 폭등하는데…李 \"전혀 걱정하지 않으셔도 돼\" 한국경제 국제유가 폭등하는데…李 \"전혀 걱정하지 않으셔도 돼\" - 한국경제",
-        "published": "Sat, 12 Sep 2026 08:25:36 GMT",
-        "published_kst": "2026-09-12T17:25:36+09:00",
+        "title": "\"투자 왜 늦냐\" 美압박 거센데…김정관, 워싱턴 아닌 뉴욕 찾은 이유 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FeGhjT0t1ajBWOUQwMjlXSlJTQ0YzMGRaTGlUeVgtRTZGVkVvZ0ktSHhtSmFMTDFHajNFVWlKRGZDUXRQU2RTeUYtRHA0bEk?oc=5",
+        "summary": "\"투자 왜 늦냐\" 美압박 거센데…김정관, 워싱턴 아닌 뉴욕 찾은 이유 v.daum.net \"투자 왜 늦냐\" 美압박 거센데…김정관, 워싱턴 아닌 뉴욕 찾은 이유 - v.daum.net",
+        "published": "Sat, 12 Sep 2026 09:57:00 GMT",
+        "published_kst": "2026-09-12T18:57:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "순천대 의대 선정 갈등 폭발…민형배 만난 박지원 \"면담 실패\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IOHBNVWtwYTdUMEZJMkJiaWgxN3IxQVh6TXpxdjIxY3pKZlh1T3d5b3pIQzlqNFpSaDNLV0lDQ3RIaGZFUTd5SXhiUy1MVXNJR1FGZWFRZzdSdw?oc=5",
-        "summary": "순천대 의대 선정 갈등 폭발…민형배 만난 박지원 \"면담 실패\" 한국경제 순천대 의대 선정 갈등 폭발…민형배 만난 박지원 \"면담 실패\" - 한국경제",
-        "published": "Sat, 12 Sep 2026 08:23:10 GMT",
-        "published_kst": "2026-09-12T17:23:10+09:00",
+        "title": "한국 경제 진짜 위험하다 - contents.premium.naver.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkVZT3NTMEpkYWp6WXFoRkx0am9WSnZtNXVLdHZNdV83LVFQbVR3aUJYdXRta1cxeTZRZ0FFV0JQdEhhc0Q3eVVaTkdfb0dQUlJySGM5anFYQVJEMWNaWmNqOHhnbkQwb0FxVlZGV3RvMDhSdGxBSnIzYWtOWnVLaVFnMlM?oc=5",
+        "summary": "한국 경제 진짜 위험하다 contents.premium.naver.com 한국 경제 진짜 위험하다 - contents.premium.naver.com",
+        "published": "Sat, 12 Sep 2026 09:19:00 GMT",
+        "published_kst": "2026-09-12T18:19:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -124,9 +124,9 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Leen Kawas: How to Build More Resilient Medicine Supply Chains - impakter.com",
+        "title": "Leen Kawas: How to Build More Resilient Medicine Supply Chains - Impakter",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtRnhiN2pzOGs5TmlCbHM0bi00dy1xeE5laGluRVd3eWxUTTZZTXdNU0pINUJ2WGF2VW10bWs5cHJYT0dkNGx5M1E1QkhxTHBETXlnQVpqRG9ITzRDUVVKWnduQjZSV0JkTWx6MHJiQmQ0MXZ3ZEwxYm4xaw?oc=5",
-        "summary": "Leen Kawas: How to Build More Resilient Medicine Supply Chains impakter.com Leen Kawas: How to Build More Resilient Medicine Supply Chains - impakter.com",
+        "summary": "Leen Kawas: How to Build More Resilient Medicine Supply Chains Impakter Leen Kawas: How to Build More Resilient Medicine Supply Chains - Impakter",
         "published": "Fri, 11 Sep 2026 17:48:05 GMT",
         "published_kst": "2026-09-12T02:48:05+09:00",
         "domain": "google.com",
@@ -147,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "CPI Matches 3.4% Forecast InsuranceNewsNet Bitcoin Nears $80K After U.S. CPI Matches 3.4% Forecast - InsuranceNewsNet / 폭염·고금리까지 \"극심한 위기\"…성장률 전망 또 내린 佛 v.daum.net 폭염·고금리까지 \"극심한 위기\"…성장률 전망 또 내린 佛 - v.daum.net / Supply Chain Visibility Artificial Intelligence Market Revenue To The National Law Review Supply Chain Visibility Artificial Intelligence Market Revenue To - The National Law Review",
+  "wrap_summary": "tariffs, sanctions and the Iran war test whether BRICS members can find more common ground. Xi, Putin and Modi meet in New Delhi as U.S. / \"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] 한국경제 \"매일 3분씩 양치했는데\"…중요한 건 따로 있었다 [건강!톡] - 한국경제 / Supply Chain Visibility Artificial Intelligence Market Revenue To The National Law Review Supply Chain Visibility Artificial Intelligence Market Revenue To - The National Law Review",
   "invest_summary": ""
 }
