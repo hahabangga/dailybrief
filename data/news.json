@@ -1,94 +1,98 @@
 {
   "date": "2026-09-13",
-  "generated_at_utc": "2026-09-12T16:02:04Z",
-  "cutoff_kst": "2026-09-13T01:02:00+09:00",
+  "generated_at_utc": "2026-09-12T23:27:27Z",
+  "cutoff_kst": "2026-09-13T08:27:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "It's time to use AI to rehearse pay, performance chats before meeting with your manager. They're doing it",
+        "title": "OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+        "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+        "summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings. OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast",
+        "published": "Sat, 12 Sep 2026 23:20:43 GMT",
+        "published_kst": "2026-09-13T08:20:43+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Judge rules White House plan to halve FEMA workforce violates law - The Spokesman-Review",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU3ZQUXg2MVJLbnVCbElnM2RseVc0amsxTjlabTNDbVBTbENHTXI2NEhPWm1EMk81YnBZblBUYnpLNElPTXR0UEFIMnk3Mm1SMG1Yb0dTT2dxVVJCMXkwTl9aT3N1c2ZnUEJUODBwN0g4Wk1JRS0ySkpXUmFKVERERnJnNzRaVVdwakRrNEo3dFRwbkUtd1AzLVNfRTEwdw?oc=5",
+        "summary": "Judge rules White House plan to halve FEMA workforce violates law The Spokesman-Review Judge rules White House plan to halve FEMA workforce violates law - The Spokesman-Review",
+        "published": "Sat, 12 Sep 2026 22:31:08 GMT",
+        "published_kst": "2026-09-13T07:31:08+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House ballroom construction moving at rapid pace: Photos - NewsNation",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbVZnQ1QzS0VtZUVUYk12NzZLbUNwOVNwU2RLeFZJRFZiMzBFRE9HYWNnbVVMQ0ZTaGtIM1RjT0JKTmtneDNvOENmOGRkT3J4cGlzMjlQdEdydXNvN3NXbGlVcm9obldTaThhb0hwRzFDb1Y3OXhfX2F2M0laUV9HTzZWSmhJYktYNHAzbVFWX0cyazhFeVHSAZsBQVVfeXFMUEZqa1YxRUZkb0dpQUJUdExIRjB1Z1hxTUt6TjBBQkZGYkJ6Z0NIcncwaWhPdVF4aVV0UmdSR2NOcGhGZmpLZnBnM2tSYko1VWhBMDdidnhyTUUtSTNyd2NOZnppbVFtUVk4Vm9UcEJIOXAyd3NKSnBtaWlmLXVzbGlwSlJqSlZvajdyUTI5ZWttWGl6ZkhFS0QwQUE?oc=5",
+        "summary": "White House ballroom construction moving at rapid pace: Photos NewsNation White House ballroom construction moving at rapid pace: Photos - NewsNation",
+        "published": "Sat, 12 Sep 2026 21:41:12 GMT",
+        "published_kst": "2026-09-13T06:41:12+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US inflation remains at 3.4% as fuel prices surge - سانا",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zUGtrdlZPajdLZlZEUWYxbVRsRFZSbjVVdzE4Z0xjSmZyZkZIS2laZkpPelVCbkc1QzhReHUwdEkweWtZWmZyWDRNWGg?oc=5",
+        "summary": "US inflation remains at 3.4% as fuel prices surge سانا US inflation remains at 3.4% as fuel prices surge - سانا",
+        "published": "Sat, 12 Sep 2026 19:29:34 GMT",
+        "published_kst": "2026-09-13T04:29:34+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "3.4%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Conversations that AIs are having in the office that may influence your performance review and pay",
         "url": "https://www.cnbc.com/2026/09/12/ai-manager-coaching-employee-feedback-performanc-review.html",
-        "summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential. It's time to use AI to rehearse pay, performance chats before meeting with your manager.",
-        "published": "Sat, 12 Sep 2026 15:23:58 GMT",
-        "published_kst": "2026-09-13T00:23:58+09:00",
+        "summary": "AI tools can help find the right tone and language for difficult workplace conversations about performance and pay, and managers are already using them. Conversations that AIs are having in the office that may influence your performance review and pay",
+        "published": "Sat, 12 Sep 2026 17:39:10 GMT",
+        "published_kst": "2026-09-13T02:39:10+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmFDU1BhckZ0MXVVUElqZVF6Q1lJemx3VWZlSXd6cmRpcmFYNUJOZmI1Q3o0RjlLSExfX3N6R0xTSEtIemJaRE10VEZkZV80cDhaVXFjWHhfSUZPektiNlJwRmJsckRpci1hc3lXRER3aE83NDJTUTRKT2tXc05yVE9KZE45MVJiVXdKUW9mRDcxblh1NTB1b0lPTEFsaFpCMHJlc21pZ3hrRlJTVTN3SGRlMEY?oc=5",
-        "summary": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish CNBC Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish - CNBC",
-        "published": "Sat, 12 Sep 2026 14:37:07 GMT",
-        "published_kst": "2026-09-12T23:37:07+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
-        "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
-        "summary": "Stocks came under pressure last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Fed's next move. Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
-        "published": "Sat, 12 Sep 2026 14:37:07 GMT",
-        "published_kst": "2026-09-12T23:37:07+09:00",
+        "title": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+        "url": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+        "summary": "Oracle founder Larry Ellison has canceled his plan to sell up to $7.5 billion worth of stock in the software company. Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+        "published": "Sat, 12 Sep 2026 17:14:56 GMT",
+        "published_kst": "2026-09-13T02:14:56+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Energy Shock Keeps US Inflation Elevated, Fed Weighs Rate Hike - InkFreeNews.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbDlHMHcybVBUMWFMMTJnZUh5dFJ4Mm9JamczYmlVWlVneXBlVFpOUEM1S19IU3NIVVc4bjIzTUJSa0VqVUNRYTdITDM1TGlJdzBScElfWkpTRkFYVS1Pdmt1a2NVNnprZWxJb20wZkhXV2I5NnFSMXF2OWgxSW1wU09ScE9kU0FqVmlkSXJlU0xwZG1XaVYzLXR4NnpXUWZRX28w?oc=5",
-        "summary": "Energy Shock Keeps US Inflation Elevated, Fed Weighs Rate Hike InkFreeNews.com Energy Shock Keeps US Inflation Elevated, Fed Weighs Rate Hike - InkFreeNews.com",
-        "published": "Sat, 12 Sep 2026 14:30:46 GMT",
-        "published_kst": "2026-09-12T23:30:46+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
-        "url": "https://www.cnbc.com/2026/09/12/housing-shortage-home-construction-robots.html",
-        "summary": "America's housing market is short inventory and workers, pressuring home affordability. Construction robots are tackling America's housing shortage, but we're a long way from humanoid homebuilders",
-        "published": "Sat, 12 Sep 2026 13:52:03 GMT",
-        "published_kst": "2026-09-12T22:52:03+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Advocates call on White House to bring more Christian refugees to the U.S. - wng.org",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWFdGUFRwNlVzeDJBYlE0VWFFdlNtRTFQUnJHMXR5OWZQcmh3d0xYNjIxSWJkTkpKWU1oQXZrNFRzb3JBSmVsVHlFYmhqYWJYbkxDLVBCSzBYaEZMRW9VdDJncE5IUGJCcWE1dFdpV1F6bkxIUUJzbE92TjZuanlLMC1PTlBRZzF3MWwtdS0xckZfVzBaWk1xMDJFcUw4cVFVTDRXb0J2VHFVUWZnb1E?oc=5",
-        "summary": "wng.org Advocates call on White House to bring more Christian refugees to the U.S.",
-        "published": "Sat, 12 Sep 2026 13:48:00 GMT",
-        "published_kst": "2026-09-12T22:48:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$7.5"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "[오늘의 운세] 9월 13일 띠별 운세 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9keWQyTV9RVHRkUnVKWWd6ellwbmNBck85VkNFYUpmSmNONTk1YkN1MWhEWkdfNTM1THlyQ2xzTnp3bU9tRW1weV8wbnR2c3VTRzJRNWxGbW1FQQ?oc=5",
-        "summary": "[오늘의 운세] 9월 13일 띠별 운세 한국경제 [오늘의 운세] 9월 13일 띠별 운세 - 한국경제",
-        "published": "Sat, 12 Sep 2026 15:00:11 GMT",
-        "published_kst": "2026-09-13T00:00:11+09:00",
+        "title": "\"선배 스타킹 빨아야 했다\"…前 승무원들 '그 시절' 고백 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53cm8yYnF3MEpOZi15SkNtWDRvSVF3Ujk1dkw4c254VHZ2QUhOTlNhbW5fYkJteGo4V1N5TVhhVFNfOXo0X0xZMkFVclJFZEw1SWJMOUtOTEVWQQ?oc=5",
+        "summary": "\"선배 스타킹 빨아야 했다\"…前 승무원들 '그 시절' 고백 한국경제 \"선배 스타킹 빨아야 했다\"…前 승무원들 '그 시절' 고백 - 한국경제",
+        "published": "Sat, 12 Sep 2026 23:02:33 GMT",
+        "published_kst": "2026-09-13T08:02:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[오늘의 운세] 2026년 9월 13일 별자리 운세 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dC1vbENYTFkxeDZtMEFaOW5uUE1NLUVMREw4b0Z6Tjc1c1B1dVJHcWl2NDczbVRJQngxUjBrUWpwNnlfN3k3NTBSS3hRc0t2MnpRakZLemJNQQ?oc=5",
-        "summary": "[오늘의 운세] 2026년 9월 13일 별자리 운세 한국경제 [오늘의 운세] 2026년 9월 13일 별자리 운세 - 한국경제",
-        "published": "Sat, 12 Sep 2026 15:00:08 GMT",
-        "published_kst": "2026-09-13T00:00:08+09:00",
+        "title": "제 5회 ‘2026 울산포럼’ - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85QmFRN0tNc0Q3OTFiTDdPWFZIRTBhMFNQTHlaWnBIR3c3NEdTNnF3Z0l3cTFqUzZpYVNvQTVQUG4zMjVDU2k5THJyQVh6S3oyd1I3UGp5WnV6dw?oc=5",
+        "summary": "제 5회 ‘2026 울산포럼’ 한국경제 제 5회 ‘2026 울산포럼’ - 한국경제",
+        "published": "Sat, 12 Sep 2026 22:59:35 GMT",
+        "published_kst": "2026-09-13T07:59:35+09:00",
         "domain": "google.com",
         "key_figures": [
           "2026"
@@ -97,38 +101,24 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81YkZoX3VXQTd1WU9LV294VTRmU3FzbGFiclRQZDZoTU85cUxTNWpEblp0VUhOMnVSS2xmTWh2b2tEbk93X1JuYnJlb2xTX1BSTFJBZktGM2pfUQ?oc=5",
-        "summary": "2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다 한국경제 2030 여성들 몰리더니…프로야구 1100만 '신기록' 세웠다 - 한국경제",
-        "published": "Sat, 12 Sep 2026 11:56:07 GMT",
-        "published_kst": "2026-09-12T20:56:07+09:00",
+        "title": "챗GPT 보고 병원 갔더니…\"의사가 괜히 있어요?\" 핀잔 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YWVVkTVRsOG9OUWVsS0piWGpic3VpdzBhaVlSTnBqMHJ5Mmp0a2NVcnZqZHpmOHZ0cko5RVBxY3R4eHR4elFhNHpwLUJxcEswRllZVXo5U3VqZw?oc=5",
+        "summary": "챗GPT 보고 병원 갔더니…\"의사가 괜히 있어요?\" 핀잔 한국경제 챗GPT 보고 병원 갔더니…\"의사가 괜히 있어요?\" 핀잔 - 한국경제",
+        "published": "Sat, 12 Sep 2026 22:54:36 GMT",
+        "published_kst": "2026-09-13T07:54:36+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2030",
-          "1100"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade - Kyiv Post",
-        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93TTBBcnBRaGhvaVJNMEozQ1VBWWFqZFRsdDVPRXpPbkxhZnBhbmlDN0dJdkU1cGZUdE85ZjUwbEczVTFWUmtsX0pHOA?oc=5",
-        "summary": "Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade Kyiv Post Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade - Kyiv Post",
-        "published": "Fri, 11 Sep 2026 20:35:40 GMT",
-        "published_kst": "2026-09-12T05:35:40+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Supply Chain Visibility Artificial Intelligence Market Revenue To - natlawreview.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeE5hY0xLN3J1Sy0wLXJUUzNvbGpqdFd5YUJhQ0JKUlBNWUwxTHNaRXVZV1p0U0o4R1FSeVhmbi05eENsWTd1YzRBUTJNbVNobHkyX2RkaHVGdlV1QXYzbUhqQndySGVVNi0xWFkxdlh1aldEdm5qR01WRUl4UnNpM0xJdmsyY1JQTlFnUXFSNWRxenVwTXJLbUdBSTB6dzREb1lmLUVPOXJjN0R5bXJfUEd3?oc=5",
-        "summary": "Supply Chain Visibility Artificial Intelligence Market Revenue To natlawreview.com Supply Chain Visibility Artificial Intelligence Market Revenue To - natlawreview.com",
-        "published": "Fri, 11 Sep 2026 18:12:04 GMT",
-        "published_kst": "2026-09-12T03:12:04+09:00",
+        "title": "BRICS condemns ‘unilateral economic sanctions’, stops short of naming any actors - WION",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXJnOXNFbkh2dURvek1yQzNHRndwRC1HSE5uS3N1by03VnNTRzNUbno0N1d2a2R0bU1UejBxTkV4NlhodnljWlFiMzgxV0l2bTloZEtLV0lZRm13ZUJoVlVJX25jMFl3ckZlQ1Jwd1R3VllVdjdIY00tOWdvb0ZiSDBJa01OLUQxRGRpUzJvRWRjaTVBNk5sZ0JyQ2h0bVpqVmV0OEVtN1o3NDRMb2VR0gG0AUFVX3lxTE5kTkk1MFBkd2R5YVJKWHZ5cWlxbUFmMEhhdkdFOHZhVklycDJxZkNyblFLTnk2cTZWM2w4eFEyZGJkNm9TXzkxSV9jMlFXNEczdjI5U3BLeWtXSG9PQlJ5aXlocEs3LWNoUTZQVXdCYzFyQzZNcGFQLVRia1lFUHpadjZLcS1za0YwVk5kWWVWcDdhRl9UanRmN3VxSUtXWWNHbENvVXJ0Nlg3U0szaE1wMGNFMA?oc=5",
+        "summary": "BRICS condemns ‘unilateral economic sanctions’, stops short of naming any actors WION BRICS condemns ‘unilateral economic sanctions’, stops short of naming any actors - WION",
+        "published": "Sat, 12 Sep 2026 14:07:00 GMT",
+        "published_kst": "2026-09-12T23:07:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,9 +134,20 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Covestro, Fertiglobe and MB Energy sign MoU to explore ammonia supply chain - Hydrocarbon Processing",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmJvUTVkMW1DTXdJOUdNTUlEc2kzZmsxTnRXUFU0REs4S0otQ1prNGR4cFlnNTdBVjNldmdxdUlRRE9xWVoyVGFZQmhieHBIZUpES0hudXJfMnlrRGh5ODdWRFl5WkU5NlZBcmFoLVQ5VDZfcXllc1dvU0h2bUE3eWlBclllNTJGb0o5UTZiSXJmTlpPU2JwUVRQVXNCX1lXZDh3SXJ3LWFndmZwekdLeGdGaGh5bzF3QnFvUHJJWmxFck81?oc=5",
+        "summary": "Covestro, Fertiglobe and MB Energy sign MoU to explore ammonia supply chain Hydrocarbon Processing Covestro, Fertiglobe and MB Energy sign MoU to explore ammonia supply chain - Hydrocarbon Processing",
+        "published": "Fri, 11 Sep 2026 17:02:52 GMT",
+        "published_kst": "2026-09-12T02:02:52+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "AI tools let managers rehearse difficult conversations about performance, pay and layoffs, but experts say privacy safeguards and human judgment are essential. It's time to use AI to rehearse pay, performance chats before meeting with your manager. / [오늘의 운세] 9월 13일 띠별 운세 한국경제 [오늘의 운세] 9월 13일 띠별 운세 - 한국경제 / Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade Kyiv Post Zelensky Says Ukraine Won’t Go Hungry Despite Black Sea Blockade - Kyiv Post",
+  "wrap_summary": "Altman's IPO comments and Amodei's public call for more careful pacing of AI development cap a week of loud AI warnings. OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast / \"선배 스타킹 빨아야 했다\"…前 승무원들 '그 시절' 고백 한국경제 \"선배 스타킹 빨아야 했다\"…前 승무원들 '그 시절' 고백 - 한국경제 / BRICS condemns ‘unilateral economic sanctions’, stops short of naming any actors WION BRICS condemns ‘unilateral economic sanctions’, stops short of naming any actors - WION",
   "invest_summary": ""
 }
