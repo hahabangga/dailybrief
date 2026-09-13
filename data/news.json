@@ -1,61 +1,59 @@
 {
-  "date": "2026-09-13",
-  "generated_at_utc": "2026-09-13T14:11:52Z",
-  "cutoff_kst": "2026-09-13T23:11:00+09:00",
+  "date": "2026-09-14",
+  "generated_at_utc": "2026-09-13T16:51:27Z",
+  "cutoff_kst": "2026-09-14T01:51:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Johnson calls for AI solutions but says Congress won't take the lead - Axios",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rX2UtSmVzWkNWTGpIUVpEZF9Ud3BOMUlIdDZnblVjcVB6OXZBNy1hU1o2UXh4dFYwZUtPX2lNSTl1YnJjTlc4SmVHMlZIWXFkOThLX1lZeHhFUGQ1aXZrdi1pMmVXaEdFN21CVC14TE5oZGZ3UGtR?oc=5",
-        "summary": "Johnson calls for AI solutions but says Congress won't take the lead Axios Johnson calls for AI solutions but says Congress won't take the lead - Axios",
-        "published": "Sun, 13 Sep 2026 14:03:59 GMT",
-        "published_kst": "2026-09-13T23:03:59+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjlxdEJuc05uQjJBcXJsU2cycGktTGlVMDVrVTdZcTRlMDRDNU9lWmhUaW9CTFB6cjhfdWpOaDkyaWhjeWp3amV1MkJmQXJkUjU1RERfWWY5T2hyNXhLX0puWHdFeFdCRHRRY0praXZPSjZGRmRQNDVuMUtBWjh3ME85endheVBtTXpxTjhXcXpaWER0X2dBTzFNeHd5bWtqdlE?oc=5",
-        "summary": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK The Guardian Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK - The Guardian",
-        "published": "Sun, 13 Sep 2026 13:56:00 GMT",
-        "published_kst": "2026-09-13T22:56:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-        "url": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-        "summary": "The U.S.-Iran war has caused oil prices to surge and added to freight stress from tariffs, but no shipping trade has boomed quite like crude oil tanker futures. Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-        "published": "Sun, 13 Sep 2026 13:50:00 GMT",
-        "published_kst": "2026-09-13T22:50:00+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "3,600%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-        "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-        "summary": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait. Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-        "published": "Sun, 13 Sep 2026 13:38:23 GMT",
-        "published_kst": "2026-09-13T22:38:23+09:00",
+        "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+        "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+        "summary": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal. Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+        "published": "Sun, 13 Sep 2026 16:39:24 GMT",
+        "published_kst": "2026-09-14T01:39:24+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US Consumer Price Index Prediction: How much is inflation expected to rise and what will it mean for COLA? - MARCA",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQURDWmV6cjJ4c1FNTVVXM3A1N3YtdkE3NlFWUFIwanFLMFRqRG1lZFpsYUxOdFViS1JYajFRQVRiMkUxVEhFZDZWLWtwTnVwWmViMFlDdG9yUFNWaEs4SkR1a1BxWmNvUU5lOWhBanpONnA2alRDZllRTFdwalZhb2liaFVMbXRhNTh5eUpnRFM5TFpOdGoxOTdJdzMwOURRWldUX21lcEdGQmtLWjFZTXFNZGRfbjBFY0dobk9IUm1HTEpSV29USEwyQTBGempQREloa2k3SXJkbnBMU0JseHdUR2EyaEl5NTg4NFl0eEhFLVFUb3Jpd0tJamJJMkNGS0VVNTZxRkdNTVhi0gGMAkFVX3lxTE1JeFAxcm1BamdaZTRUeXRyU2F0UTRDNnNxRGd6SHhIdXJER2tXd3A5RTZjeVNrX2dkd3cybFlSREcxS1BHazhTTW1Xb21pV0V1dXNMcDZmWGs5OGV4OUlWQkh2Q0Vkb0wzQ1JnUVBLZEhGSF8tWVlmVFlDMzhGVGtxN0RSNkREMklvR1BTdy1DdGRIaEpSY0FBbTJmS3haTnVVTGlEOTFyalU5eFlQODlZeXRQNzg4anR6MXRkbkpmSU96REtGNE4tMGFJbWU3d3RVVnpmLVJISXFQb2l4bHU5YkxWaHBTQm0taUNZQm5IMnVka3Y4RlhjWW5WUFpwcEpZSURXV1ZFazYwcVo?oc=5",
-        "summary": "MARCA US Consumer Price Index Prediction: How much is inflation expected to rise and what will it mean for COLA?",
-        "published": "Sun, 13 Sep 2026 13:38:21 GMT",
-        "published_kst": "2026-09-13T22:38:21+09:00",
+        "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+        "url": "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+        "summary": "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said. Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+        "published": "Sun, 13 Sep 2026 16:38:45 GMT",
+        "published_kst": "2026-09-14T01:38:45+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "All eyes on US Fed to tackle high inflation - Taipei Times",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83RmtoUmw1TDlGbHJJX3ZmUkZNQkFjeHF6Qlh5YkNtLXhoZGpHdWhXNnlQQmoxNUpxSFNtS3VHWVhqYjF3X3RaX2FkVGVSQ3lyVFJwbmJZY0NJVFY0ZDY2OExFMUY4T2JQUWtyQ25MSmxKV0htT3c?oc=5",
+        "summary": "All eyes on US Fed to tackle high inflation Taipei Times All eyes on US Fed to tackle high inflation - Taipei Times",
+        "published": "Sun, 13 Sep 2026 16:00:00 GMT",
+        "published_kst": "2026-09-14T01:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US jobs most likely to grow or shrink in the next decade - Bryan College Station Eagle",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGx5bloxbjlFVHNhQTc0c3VkbF8taUJHUXpJOVBGOHJYYUFOV1k3cnRWQUxPTmZPeVFsMkxxd3ZRekFOeTg4RDIyNE1USG9SWHR0dDB5NksyTFY2YTh2R05XREVVdW1lRGNaYW9HZUV6NWgyQkx3QTNRb01CdFNGYjRIYm1ySFJ4UjNhdFNBV2NDTEJVRm5GYjJfeWl0dWpmalJJaVkxZ3N1SW5z?oc=5",
+        "summary": "US jobs most likely to grow or shrink in the next decade Bryan College Station Eagle US jobs most likely to grow or shrink in the next decade - Bryan College Station Eagle",
+        "published": "Sun, 13 Sep 2026 15:37:19 GMT",
+        "published_kst": "2026-09-14T00:37:19+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US jobs most likely to grow or shrink in the next decade - nwitimes.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1RPSTZ1TEV6T1RiUEVkdXdObzFMTmpaTVhQWHpqUWFQSkZVV3pXZTU4ajBVQ2lSc1RzV1kzNzFHeTJxU1kwYzdHa3VmanN5a254d2lhcG5SV2dRdVItSVZzTHlkTUNhUDlRSHIzaktYZVRjb1F6RFdtZm05MVZTYVpoOXUwWHc3eXVZYjBDZEh5XzFYcjI4cUppMGZFQUZlbXlIWVJad09heEhW?oc=5",
+        "summary": "US jobs most likely to grow or shrink in the next decade nwitimes.com US jobs most likely to grow or shrink in the next decade - nwitimes.com",
+        "published": "Sun, 13 Sep 2026 15:36:50 GMT",
+        "published_kst": "2026-09-14T00:36:50+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -65,8 +63,8 @@
         "title": "I'm a psychologist who studies couples: Emotionally intelligent partners ask 1 question every morning—that most neglect",
         "url": "https://www.cnbc.com/2026/09/13/emotionally-intelligent-couples-ask-question-every-morning-psychologist.html",
         "summary": "A \"capacity check\" might be the most thoughtful question to ask in the morning, says Mark Travers, a psychologist who studies relationships. I'm a psychologist who studies couples: Emotionally intelligent partners ask 1 question every morning—that most neglect",
-        "published": "Sun, 13 Sep 2026 13:30:14 GMT",
-        "published_kst": "2026-09-13T22:30:14+09:00",
+        "published": "Sun, 13 Sep 2026 15:09:44 GMT",
+        "published_kst": "2026-09-14T00:09:44+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,70 +73,70 @@
     ],
     "kr": [
       {
-        "title": "[단독] \"걸리면 망한다\"더니…대기업들 1.3조 '폭탄' 맞았다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03c1JwblVnQ0JVYVBOUVZzX3NEa2stZ2JCUGV6U3JHNXVvNDFuN2loejlJdTJkSlYzZTFqUDctbEFmaWFYUVg5Q0p6aGZUT1NoS1FNRERZaUNBQQ?oc=5",
-        "summary": "[단독] \"걸리면 망한다\"더니…대기업들 1.3조 '폭탄' 맞았다 한국경제 [단독] \"걸리면 망한다\"더니…대기업들 1.3조 '폭탄' 맞았다 - 한국경제",
-        "published": "Sun, 13 Sep 2026 14:07:00 GMT",
-        "published_kst": "2026-09-13T23:07:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "인태연 ‘소진공’ 이사장 “소상공인은 한국 경제에 ‘갯벌’과 같은 존재” - khan.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xMko2NUlZYks2bVlUZFRLQXpqb0JLb3d3M0o1bDh4MzhaUloyalVRdkR6cE9neFJBazk5dnIzZjA1TmhsTkxjdGlTdkszTDdCWjhYWXdOeTl5UdIBX0FVX3lxTFA3WkwyVkR1YjNqSGFTRUNMZmVmdlBZY3JlU1RTVDZDVVZaZVI2Z1RXakQ2TlNZbWlUM0ZuN3pqdUtCLU9lNVRtS3BTb3gzXzR0ZnlQeTg0cmxfdlMtUEtj?oc=5",
-        "summary": "인태연 ‘소진공’ 이사장 “소상공인은 한국 경제에 ‘갯벌’과 같은 존재” khan.co.kr 인태연 ‘소진공’ 이사장 “소상공인은 한국 경제에 ‘갯벌’과 같은 존재” - khan.co.kr",
-        "published": "Sun, 13 Sep 2026 11:23:00 GMT",
-        "published_kst": "2026-09-13T20:23:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "한국 vs 베트남, 2026년 1~8월 무역 비교…수출은 한국, 성장률은 베트남 - 굿모닝베트남미디어",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjaFk0T2hXS0FvdlhOUXVEUEV4WXhLTy1KQUN4dW1qMXF4dnBMZjJMZVI3SlFsaS1NTXlSZEkyQ1Y2VGJkVmJLREV3c0pKNGtRNUJVMzZoM2hTai1RNzY4ZUwtcXJ5dmNMb0NnRHVIZjk?oc=5",
-        "summary": "한국 vs 베트남, 2026년 1~8월 무역 비교…수출은 한국, 성장률은 베트남 굿모닝베트남미디어 한국 vs 베트남, 2026년 1~8월 무역 비교…수출은 한국, 성장률은 베트남 - 굿모닝베트남미디어",
-        "published": "Sun, 13 Sep 2026 11:08:08 GMT",
-        "published_kst": "2026-09-13T20:08:08+09:00",
+        "title": "스타크래프트, 장르 바꾼다…\"2030년 슈팅게임으로 부활\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTeWZsQkhDMUFtTlBKYnNCWndGX0dzaVpkTXJ1U3Jzd1FVWGV6QUZmMVVFeS0wTTBjb0QwNGhHY1JRdmh0R0o5VnB6cFFwNlN6LXNQRUxlbE1GZw?oc=5",
+        "summary": "스타크래프트, 장르 바꾼다…\"2030년 슈팅게임으로 부활\" 한국경제 스타크래프트, 장르 바꾼다…\"2030년 슈팅게임으로 부활\" - 한국경제",
+        "published": "Sun, 13 Sep 2026 16:00:00 GMT",
+        "published_kst": "2026-09-14T01:00:00+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2026"
+          "2030"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "유럽 재무장 가속페달…K2 전차·천무 검색 쑥 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sZGJ4TlczT0N2cVdiNkhPRzlUSXBLNWhmZExDU2tDSkY1eXRaTGxVbDNMV291Wldfc0hNUkdZbGVsYWdtMzdSRl9OZ3JoejlKLUwwTUlEVTlMUQ?oc=5",
+        "summary": "유럽 재무장 가속페달…K2 전차·천무 검색 쑥 한국경제 유럽 재무장 가속페달…K2 전차·천무 검색 쑥 - 한국경제",
+        "published": "Sun, 13 Sep 2026 15:46:00 GMT",
+        "published_kst": "2026-09-14T00:46:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "셀트리온·삼성도 치료제 출시…환자 부담 줄어든다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxOVZZZFNSRF8yaUVKUWdlX3A5WFR6YkFBblhTb3cxQy12MnUxcG5PNkZ2QVJVVzRsdHp0NHBsRDdjR1BoX2poSlppNV9DM1I2WFlObTlOaG84UQ?oc=5",
+        "summary": "셀트리온·삼성도 치료제 출시…환자 부담 줄어든다 한국경제 셀트리온·삼성도 치료제 출시…환자 부담 줄어든다 - 한국경제",
+        "published": "Sun, 13 Sep 2026 15:45:00 GMT",
+        "published_kst": "2026-09-14T00:45:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
+        "title": "Crisis-ready means moving up the value chain - BusinessWorld Online",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1E0dnJTRWU2Q25oellXUU9EMVhsSVdYR1lIa3RydWpPeGhBQUJpa296bm5RdktFeUtIWDVGcWdYUkZKVndwQ25TNDctUVNkSWJ3YlhnOTdLbWpKZ0VzcGNrTmxfSVdJN2JnUnRpS0VKUzJBNU85c0pMc1ExLVZHb2p2UG5rSjQ0cFVSS3pJcDVRNGRFU0JBU0tZQVB3QUJnVmVuTlpzYw?oc=5",
+        "summary": "Crisis-ready means moving up the value chain BusinessWorld Online Crisis-ready means moving up the value chain - BusinessWorld Online",
+        "published": "Sun, 13 Sep 2026 16:12:16 GMT",
+        "published_kst": "2026-09-14T01:12:16+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
         "title": "At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability - The Seattle Times",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeWxaczQwVkNNN2N1dnR4OUM3TWZfc2NwTUdaaDcySGkxRzRnOW1VMDFqSjMwVkZ5amVESjBzcXNHV1hDbTVOTU9ZcWMyVkNDRTVvZXRXTXZ3Vmh6eUhGWXJBVnJhdVpNT0QtUWNiNllRMFZlcEtHcm1tUU83SjBrd3Ric1ViR3QtQjZjbHRJVERMaF9MSWRjSEJra1FPLVotWExpTVF5U2lGSTFTcmlFaWlBbG1oeUVwTERTcHliOUV0SWlGTGg1UmN2bDkwb25EUmQ0?oc=5",
         "summary": "At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability The Seattle Times At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability - The Seattle Times",
-        "published": "Sun, 13 Sep 2026 13:06:13 GMT",
-        "published_kst": "2026-09-13T22:06:13+09:00",
+        "published": "Sun, 13 Sep 2026 15:57:33 GMT",
+        "published_kst": "2026-09-14T00:57:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "BRICS Calls for Restraint in Iran War, Rejects Unilateral Sanctions - kurdistan24.net",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNckoyckRNZTlRaF9BU25zRGRzMGhrd3lGNGxUZVpoVm03dVkxM3pQV1d2Rl9pLW9CZWZCcWlZZHNLNjBnaVh6YXI3WUs1MzNYTUk5NkpQeHlSUmtSV0xndzBQTm54WFJIdjRiVmpFRGtiNVVXZWg0bnJTdS16YXpxb1EtZlZKd2poVDlvYk1UU1VQRmYyVU5hdkI5aGludXFVLUg3eFI3V0xMTWxNZVU0?oc=5",
-        "summary": "BRICS Calls for Restraint in Iran War, Rejects Unilateral Sanctions kurdistan24.net BRICS Calls for Restraint in Iran War, Rejects Unilateral Sanctions - kurdistan24.net",
-        "published": "Sun, 13 Sep 2026 12:57:00 GMT",
-        "published_kst": "2026-09-13T21:57:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "KT Strengthens Media Chipset Supply Chain with Amlogic, Expands AI Device Cooperation - Korea IT Times",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYzVkTDExOXlrdXlrbmlidVhQMWN0cXFJYWJUUklVdzBoZTRrRWdZYXExV3RlWTdPUUE0NWpqclZsenJTUTI2MWwzWjJJWFRmYU9IVkplY3BRcUNKOWZoX3lyQVhzMEhuVEE2SjBWay0?oc=5",
-        "summary": "KT Strengthens Media Chipset Supply Chain with Amlogic, Expands AI Device Cooperation Korea IT Times KT Strengthens Media Chipset Supply Chain with Amlogic, Expands AI Device Cooperation - Korea IT Times",
-        "published": "Sun, 13 Sep 2026 10:05:30 GMT",
-        "published_kst": "2026-09-13T19:05:30+09:00",
+        "title": "Drone Engine Supply Chain Stocks Investors Are Watching Beyond China - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOWF3NkZBWUxEcWtDU1pNckp6V2RrODhJT2lLXzdUSlFqNENqUFgtUmhseE1MMXZzYWFvRFNpZkt2YldfSmZkN2M5SWE0OU04Y00xTEVfR0lkRnVrMDBXbG5CYVBFNElPbExETVk1U2k1QTFHZ3kxTmduV2FIWjdELUxDYUE0WHMwYWptWWEtbXMtMFlaa1BvRVNFeFRTUEtDUm1XRlh0Y05NbXc1X3JfV3lid24xT0hnbFVVSFl2VHMwbU8xV1HSAcsBQVVfeXFMTUJJZXNhSjFMdEJCQ01GNUo0SFFJTXp0bmQ5NmlRV0gwLWRTZWRnRkowYmtfamxEQndhUjNfdWdaUFRwSVNCa00yUXJ3QmhLakZLUHVpMUxfbHQ1ZEJMd05OdmY4M0tNWXhTclZ2UFpQOXpoRFJrc2xVV3NwTklPeG83TkhtM3hZYm9PTWhsZ28wVVJGdm5MNzJGeTRaMU1VSFFiTGVuZGxRbERZU2w1Z0VKN0RweUIyYnNReXJSLTNfUG5Qa0pGeEU2Rlk?oc=5",
+        "summary": "Drone Engine Supply Chain Stocks Investors Are Watching Beyond China simplywall.st Drone Engine Supply Chain Stocks Investors Are Watching Beyond China - simplywall.st",
+        "published": "Sun, 13 Sep 2026 15:27:42 GMT",
+        "published_kst": "2026-09-14T00:27:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Johnson calls for AI solutions but says Congress won't take the lead Axios Johnson calls for AI solutions but says Congress won't take the lead - Axios / [단독] \"걸리면 망한다\"더니…대기업들 1.3조 '폭탄' 맞았다 한국경제 [단독] \"걸리면 망한다\"더니…대기업들 1.3조 '폭탄' 맞았다 - 한국경제 / At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability The Seattle Times At BRICS, India’s Modi warns geopolitical tensions and supply chain shocks threaten global stability - The Seattle Times",
+  "wrap_summary": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal. Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown / 스타크래프트, 장르 바꾼다…\"2030년 슈팅게임으로 부활\" 한국경제 스타크래프트, 장르 바꾼다…\"2030년 슈팅게임으로 부활\" - 한국경제 / Crisis-ready means moving up the value chain BusinessWorld Online Crisis-ready means moving up the value chain - BusinessWorld Online",
   "invest_summary": ""
 }
