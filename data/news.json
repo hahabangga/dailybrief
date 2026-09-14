@@ -1,109 +1,107 @@
 {
   "date": "2026-09-14",
-  "generated_at_utc": "2026-09-13T23:40:59Z",
-  "cutoff_kst": "2026-09-14T08:40:00+09:00",
+  "generated_at_utc": "2026-09-14T07:17:14Z",
+  "cutoff_kst": "2026-09-14T16:17:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike - fxstreet.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEh5SkxoZEdjbHNtWU1PU1c5YnZIM0NNUDBPbURtVGxieWJIRmN4dlZGaXBWUGJnMDFNNkU1NlZTa0ZEb3dMWHhpZVBEZkZEekRCd2dhLWtkVzQ1T2NaeVVxZHVqMXR0WGp1UWU4bWk4a2JTUTl0dktZSjI5dUkxMHZmQ3NsRENMOHhTX29sV2g4Y1JvQmFsV3ltUDBBZnJoWXhXNHVUTk5qdF9wUnpXcHI1LW10ZlVra3c5WHlkQ0N2VFlHZkpaVkpmLTYyQ190Z0Fj?oc=5",
-        "summary": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike fxstreet.com Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike - fxstreet.com",
-        "published": "Sun, 13 Sep 2026 23:39:47 GMT",
-        "published_kst": "2026-09-14T08:39:47+09:00",
+        "title": "Yen appreciation has carry-trade seekers looking at these two currencies",
+        "url": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+        "summary": "Yen appreciation has carry-trade seekers looking at these two currencies",
+        "published": "Mon, 14 Sep 2026 07:10:37 GMT",
+        "published_kst": "2026-09-14T16:10:37+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
+        "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+        "summary": "Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation. advanced drone over Hormuz as Middle East conflict intensifies",
+        "published": "Mon, 14 Sep 2026 07:02:21 GMT",
+        "published_kst": "2026-09-14T16:02:21+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
+        "url": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+        "summary": "The Danish drugmaker called the changes the beginning of a new chapter for the company, which faces stiff competition from Eli Lilly. Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
+        "published": "Mon, 14 Sep 2026 07:00:01 GMT",
+        "published_kst": "2026-09-14T16:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump touts White House renovations, says building was in ‘very bad condition’ - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXNSUmVUZ28wU25TQ0RSNHVyNnp2NlhEcFhSRHhEc3FtamlLaVd5RHZYREktUEhwWF80TzBmZm8tS2lta1hoWXJ1M0tzRVlBcmhTUXdYODNyaW1YX0hhZkc1Qm1jc0FLaGJ1X0NHSndSbHhFMzEzV0dGSzUwMVRrY2FVTFFRTEYyZUJnNGxpQzJMX0xvOEFpRUJ1ZERfZVBwQ0FV0gGoAUFVX3lxTE1KTEoxam0wRkdDLUF2aXFPZGdmWWluV0RMSWFCamRjaWZaREptSHhoRW41UDQ2LVhlaTFxeW94RnhGcFE0eDhsT2l2X1p6eHdsaEFackVnNlVKVjdONGxfMG9qc0p4ZkYyY1BEN3JnTTJETHVONnRvRjFVQ2tmSG1VdkNaYktaY0tPdmxIdE01azB6MHVzbDI3WDU0TjNFUE9EdlRVRlB0Sg?oc=5",
+        "summary": "Trump touts White House renovations, says building was in ‘very bad condition’ Fox News Trump touts White House renovations, says building was in ‘very bad condition’ - Fox News",
+        "published": "Mon, 14 Sep 2026 06:41:52 GMT",
+        "published_kst": "2026-09-14T15:41:52+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "High inflation or low credibility? - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWtOdzVFeXNxTWN3aUNpTjU2UHFta3c4N3lnQVpkRFp4NU9TdGFtRVdTRmRpRFkyZFdSQnVTZWtzSnFnN2ZYSzFubW1jWEJiRW5qSlZHRE9obFFDUG9DRWllUl92bXp6eThWRm1PQmN2N1l6TnhNOGxoTWx5WDkwc2d6bVc?oc=5",
+        "summary": "Financial Times High inflation or low credibility?",
+        "published": "Mon, 14 Sep 2026 05:30:02 GMT",
+        "published_kst": "2026-09-14T14:30:02+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US August Inflation Tops Fed Target Pace; 85% Odds of Rate Hike - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGJiLUdEbFRpRU4wWmUyOGJROERORDNIWk9zVXBlMndhUFZhUkhWQXdjMGx4eDZGMjZlZXJzQy1VU0ZnNjk0djNCUkdMdXJuem44YzNCUTQyaE5oYnctRlMtc1Boa3M4WGh5cEhIb29hN3RqbVN3ZTNOem1jWHhjbThFWlZZdlpUOG9GVUpyekdtRndMUUNBTkM0bG1RVTFJcUs0?oc=5",
+        "summary": "US August Inflation Tops Fed Target Pace; 85% Odds of Rate Hike - News and Statistics IndexBox US August Inflation Tops Fed Target Pace; 85% Odds of Rate Hike - News and Statistics - IndexBox",
+        "published": "Mon, 14 Sep 2026 04:20:24 GMT",
+        "published_kst": "2026-09-14T13:20:24+09:00",
         "domain": "google.com",
         "key_figures": [
-          "7150"
+          "85%"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump Sees Race Against China as Key Issue on AI Regulation - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOElEaDhNQW5QWVJ5Q0RMQ1M3S3B6OERSdkdoWDE2RGdXVk9XZF9ZOFE0NlY2N05BMzFZZFRBcHlKUkFMTGt2M1B4ODNDMmhtQTFKY0xodVJuRWhMMWYwMlpBZGNzTVZBTUFLMHRMUENiWEJfalVvbWhQOGtLOEdyQW9CZ1dqX1BQakdZbkh6M1RkYWxwMHRn?oc=5",
-        "summary": "Trump Sees Race Against China as Key Issue on AI Regulation WSJ Trump Sees Race Against China as Key Issue on AI Regulation - WSJ",
-        "published": "Sun, 13 Sep 2026 22:02:00 GMT",
-        "published_kst": "2026-09-14T07:02:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "AI Regulation Could Reshape Palo Alto Networks Stock And US Cloud Leaders - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZjA1b3pXd0g5ZG5PY3VLcGEteEdtOUg2MlQzOVJGdVdMTWZIWk13aFVZcExtNndONDczNklxLUFYTUZScS1XQVpaOHNiUkJ5cnNrTG9sU0RVWEVZRlFXaUlYMm5mbmhCSmVvTWE0WDdBc19KSm9EaVZvX0FOS0VFc0pMOTdnWXVRZW1OYllCdzcyM0dmd2Y2VkQ3MDMyU1llYlJVN2x1dFh6RVpwRWxDZU9adDB5NHMwR01xZTdLSG5fVmNCYWVnUWZ4c2ZHLWpzR1HSAdcBQVVfeXFMT0pKSXJZS0JXdEN0VDhpbkNzODlCRmItRlkxZ191d29UbGh1M0NzMXRfUnVsWkNWSk9LcFBhXzc2QVlrdkJpQjViRnMwNjJaQ2pfTEpGb18wTmRyc0pLbmthVXIwNkZkLVNDWkZocE9IRVg2OXlTaEhYbWFHUlpNanZxTHhaSUhNSW9jeDhjYm5OcGNQY0tJZno4bnUzR0FSalRITkJfbGxIS2tjUzIwXzB6U0FtbW9oUGtjZkdQc1lLQ0tCaU9KSmlwVjdkQ09XS1pfVWJ1cFE?oc=5",
-        "summary": "AI Regulation Could Reshape Palo Alto Networks Stock And US Cloud Leaders simplywall.st AI Regulation Could Reshape Palo Alto Networks Stock And US Cloud Leaders - simplywall.st",
-        "published": "Sun, 13 Sep 2026 21:31:10 GMT",
-        "published_kst": "2026-09-14T06:31:10+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-        "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-        "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation. Washington scrambles to meet calls for AI guardrails while the window to act closes",
-        "published": "Sun, 13 Sep 2026 17:48:53 GMT",
-        "published_kst": "2026-09-14T02:48:53+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Here are the 2 big things we're watching in this week's stock market",
-        "url": "https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
-        "summary": "We're looking forward to what promises to be a consequential Federal Reserve meeting and a slew of conferences. Here are the 2 big things we're watching in this week's stock market",
-        "published": "Sun, 13 Sep 2026 16:57:43 GMT",
-        "published_kst": "2026-09-14T01:57:43+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-        "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-        "summary": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal. Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-        "published": "Sun, 13 Sep 2026 16:39:24 GMT",
-        "published_kst": "2026-09-14T01:39:24+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "머니플러스 - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREc2aHFrbWVZTXpvOUx6TzREaEpkNFhzZFkzTFlyUDc0ckgzSGNpRWFqYUh0dExjM1JhRHZ5SVVUczdkLVB5NUtETkN5emxnbzMwTG9hXzJySzcyQzA3VWFwZmpsMTRIS1VfdEdyMmVkVEtLaUdUS1pMVW5vZWwtbHUtQVNpZVVJNmoyaFJYSDJ4Tnl4UUhoODYtREh5NFV3bkVB?oc=5",
-        "summary": "머니플러스 한국경제TV 머니플러스 - 한국경제TV",
-        "published": "Sun, 13 Sep 2026 23:27:47 GMT",
-        "published_kst": "2026-09-14T08:27:47+09:00",
+        "title": "진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSM2NHNDFpbFRURERZQk9IZS03ZkhsQUFqX2FBMVVfRXg2ZWdzYWQ3Qk1od0FOSmJYWTl0VkNVelI1Ymt2RUQ3N012NFpqamZiSHlDZ2ZHdTlGdw?oc=5",
+        "summary": "진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" 한국경제 진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" - 한국경제",
+        "published": "Mon, 14 Sep 2026 07:10:36 GMT",
+        "published_kst": "2026-09-14T16:10:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'대충 혼밥' 옛말…오마카세·뷔페 찾는 2030 나홀로족 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HZkZEMGxwQ0lwczU4U0NRdWZMVTAyeE9PYzZQdFpLUlBaY3k1VEJmWi1zYjBPWWRXVHdlSFpJUmg4cEs3YkY1VUdTNDY2U3BNUkctdTdSSUM0dw?oc=5",
-        "summary": "'대충 혼밥' 옛말…오마카세·뷔페 찾는 2030 나홀로족 한국경제 '대충 혼밥' 옛말…오마카세·뷔페 찾는 2030 나홀로족 - 한국경제",
-        "published": "Sun, 13 Sep 2026 23:24:59 GMT",
-        "published_kst": "2026-09-14T08:24:59+09:00",
+        "title": "매출 250억 핀테크社 매물로 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PUHNrb3NvUFFiblo0b1c2anRJRzNsSXVzUl9PUkw5MURub0pUMWRjMTdYT3kydFpZRUhCSGFMY3NXdjJzWnlGbFo4TXlLZEhYR21iNEpWZFJsdw?oc=5",
+        "summary": "매출 250억 핀테크社 매물로 한국경제 매출 250억 핀테크社 매물로 - 한국경제",
+        "published": "Mon, 14 Sep 2026 07:05:39 GMT",
+        "published_kst": "2026-09-14T16:05:39+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2030"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "박시동 소장, “투자는 경제적 주권의 문제…어떤 삶 살 것인지가 목표” - 비즈월드",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vNFdTdFRWXzhibk1LeXkxZFFlV1dwcllWZE1VRVg4c3pUYUdoc2NNSUpCeHdVZTlHX2hpR2JQOVZPSTJNX2tBODRZS3hhQWJVbE9JYy1BUWdKTVp0Q1NudHlmdG81aElLTkE?oc=5",
-        "summary": "박시동 소장, “투자는 경제적 주권의 문제…어떤 삶 살 것인지가 목표” 비즈월드 박시동 소장, “투자는 경제적 주권의 문제…어떤 삶 살 것인지가 목표” - 비즈월드",
-        "published": "Sun, 13 Sep 2026 23:23:00 GMT",
-        "published_kst": "2026-09-14T08:23:00+09:00",
+        "title": "외국인 매도 폭탄에 코스피 '풀썩' - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NXJmcllLVV83aVl2dDJlZVZfQmk3TE9PR3ItTXBZSjg0Z2xQUG1NWTFLTlRMdlQxUHhQcng1NkhnckVqZktGREVEWVZNS28?oc=5",
+        "summary": "외국인 매도 폭탄에 코스피 '풀썩' v.daum.net 외국인 매도 폭탄에 코스피 '풀썩' - v.daum.net",
+        "published": "Mon, 14 Sep 2026 07:03:49 GMT",
+        "published_kst": "2026-09-14T16:03:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +110,33 @@
     ],
     "world": [
       {
-        "title": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - Butler Eagle",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1ZrY0Z6cG9KQTZ4S0c3WXZMMmd6MzdSQzNDZVZreDdydS1XRlFVNG5aSFRzSTFvZUZ4Mk5KUG1mNnZvcjVieDJ6S3pZdTMyeVpJTEtmSmtoYUxhNi1FYlFjdVhMY2dxYW14OW4xaHhBT1ZVZFl4TFJPUjFLa3daMGlmMjAzYkRCREJNMy1kTmJZZzUzYXRkalFTMHNwY1luVzlPdWR5VnA2N1pJaTJtVGZJaGJaYXZrQjUtLUt4d2NvX2k0eGRiZXVnZGo1SFBiS2c?oc=5",
-        "summary": "At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability Butler Eagle At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - Butler Eagle",
-        "published": "Sun, 13 Sep 2026 22:24:23 GMT",
-        "published_kst": "2026-09-14T07:24:23+09:00",
+        "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXY4OVBBQUJpbURnX2hLN3p5a1JPa2tCemtkbnFBbXc0VGRJVnBoNXJNN21ZM0ZLNjN5OEJJNlYtMDF6VEFPMDZLbFhpSTJ4ZVBSLXFjaC1EbTc5TlZBZ3VKU24xaGhyaDdGeW1Kb1FwZndQbmM1a0xxM05oOEhCLUtXcGhjclNaUjJkczR2NzdvMXpoYnMtOFZZMm1UaW1OcG5lR3FGakRwYmJJdXfSAbMBQVVfeXFMUDkya0pKd0h5WWZScFlKTUNGQnR2aTN0V0ZPX0tpbkF1ZEdDYlNFZEFIcU9RSjJLWWVYbDA0S1plekNBajZQbkhGMTJVV3VhZkRLeEpTV3FVdzF6a20zNDctMWdnTVNuTFNib01SWlhTTTNvaUowbHBBVUI2VUpDM3I3aThtRnhXOVF4WlRlYkxzY1Z5VXdvWjI3ZnJ1QktJeU9TcWRRRmItb1lWcmdoQmxJa2s?oc=5",
+        "summary": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move CNBC Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move - CNBC",
+        "published": "Mon, 14 Sep 2026 04:25:17 GMT",
+        "published_kst": "2026-09-14T13:25:17+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "When geopolitics outruns the economics of supply chains - Lowy Institute",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeTBBZHJvSE1RMXpIT2hRT3NCVDVNYVk5RlIwUnFjUlhmZDdtYzdGUFl5MG5YaUxuTTlUS0h0Y0J1QWNObnJyLWlpT3AzVnlkZnVBLVhhRWcxaE1vYlpFOTBqQnZtU012Tm1McU9wRTdJVWZleUNDaWRnRFRLaXA0cmdxdmxNbGtra1NZSXdjam16dEZhZVk4ZVE3dkVJMEVvYVdZ?oc=5",
-        "summary": "When geopolitics outruns the economics of supply chains Lowy Institute When geopolitics outruns the economics of supply chains - Lowy Institute",
-        "published": "Sun, 13 Sep 2026 17:04:47 GMT",
-        "published_kst": "2026-09-14T02:04:47+09:00",
+        "title": "Europe must tighten grip on AI supply chain, experts warn - euractiv.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZEV0SmRDTGhaSkh2MnBPTjBsWjh4VGpLWGFESlYwSklXUUxBVkhIMXdDZGNaR2hZVFE1VXVxV0Q2VlJwYjV0alVxRnVpeERjY3NEMmZkNm91Tk5BYW1QU05DVmpyNGM1ZkN4aUlCLXFzbWNHUHZIZWw4a3V1OVA3cElQQWo2dGRBSzYwZW1DQXo?oc=5",
+        "summary": "Europe must tighten grip on AI supply chain, experts warn euractiv.com Europe must tighten grip on AI supply chain, experts warn - euractiv.com",
+        "published": "Mon, 14 Sep 2026 02:03:27 GMT",
+        "published_kst": "2026-09-14T11:03:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Crisis-ready means moving up the value chain - BusinessWorld Online",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1E0dnJTRWU2Q25oellXUU9EMVhsSVdYR1lIa3RydWpPeGhBQUJpa296bm5RdktFeUtIWDVGcWdYUkZKVndwQ25TNDctUVNkSWJ3YlhnOTdLbWpKZ0VzcGNrTmxfSVdJN2JnUnRpS0VKUzJBNU85c0pMc1ExLVZHb2p2UG5rSjQ0cFVSS3pJcDVRNGRFU0JBU0tZQVB3QUJnVmVuTlpzYw?oc=5",
-        "summary": "Crisis-ready means moving up the value chain BusinessWorld Online Crisis-ready means moving up the value chain - BusinessWorld Online",
-        "published": "Sun, 13 Sep 2026 16:12:16 GMT",
-        "published_kst": "2026-09-14T01:12:16+09:00",
+        "title": "Adobe to help NFL build AI-based global content supply chain - digitaltoday.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTl6Q1N6X2NycVVpYnd5NzFRdndsdVdqR3RlZEgtTnlxOUdnUmlXV0l1eGdBWFRXek1fOS0ySUVCaUZVT0pHYkhSeHIxLXBWUTZWMDQ1ZkRBekhyRzhlRndJS2Z3VGJ0Y3hlU3d2dTJKRFpZREJGY3JMdEhxX0hMaTRYTXo1bDVpM1otdDFGVU9ibGd6SjhLSFRuM3Q1YTZRMGFzZkVjS3MxQQ?oc=5",
+        "summary": "Adobe to help NFL build AI-based global content supply chain digitaltoday.co.kr Adobe to help NFL build AI-based global content supply chain - digitaltoday.co.kr",
+        "published": "Mon, 14 Sep 2026 01:49:01 GMT",
+        "published_kst": "2026-09-14T10:49:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike fxstreet.com Australian Dollar declines to near 0.7150 as hot US inflation data boost case for Fed rate hike - fxstreet.com / 머니플러스 한국경제TV 머니플러스 - 한국경제TV / At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability Butler Eagle At BRICS, India's Modi warns geopolitical tensions and supply chain shocks threaten global stability - Butler Eagle",
+  "wrap_summary": "Yen appreciation has carry-trade seekers looking at these two currencies / 진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" 한국경제 진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" - 한국경제 / Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move CNBC Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move - CNBC",
   "invest_summary": ""
 }
