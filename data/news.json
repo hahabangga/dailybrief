@@ -1,19 +1,17 @@
 {
   "date": "2026-09-15",
-  "generated_at_utc": "2026-09-14T16:15:39Z",
-  "cutoff_kst": "2026-09-15T01:15:00+09:00",
+  "generated_at_utc": "2026-09-14T18:22:52Z",
+  "cutoff_kst": "2026-09-15T03:22:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
-        "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
-        "summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days. Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
-        "published": "Mon, 14 Sep 2026 16:14:38 GMT",
-        "published_kst": "2026-09-15T01:14:38+09:00",
+        "title": "Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
+        "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
+        "summary": "\"The World's Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran,\" Trump said in a social media post. Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal",
+        "published": "Mon, 14 Sep 2026 18:21:45 GMT",
+        "published_kst": "2026-09-15T03:21:45+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "$106"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -21,87 +19,94 @@
         "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
         "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
         "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China. Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
-        "published": "Mon, 14 Sep 2026 16:08:15 GMT",
-        "published_kst": "2026-09-15T01:08:15+09:00",
+        "published": "Mon, 14 Sep 2026 18:21:18 GMT",
+        "published_kst": "2026-09-15T03:21:18+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump says Ukraine and Russia agreed not to hit energy targets",
-        "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
-        "summary": "\"The World's Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran,\" Trump said in a social media post. Trump says Ukraine and Russia agreed not to hit energy targets",
-        "published": "Mon, 14 Sep 2026 16:03:50 GMT",
-        "published_kst": "2026-09-15T01:03:50+09:00",
+        "title": "10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
+        "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+        "summary": "Treasury note yield moved lower after reaching a multiyear high on Monday ahead of this week's Federal Reserve interest rate decision. 10-year Treasury yield hits 5% before reversing as traders await Fed meeting",
+        "published": "Mon, 14 Sep 2026 18:10:43 GMT",
+        "published_kst": "2026-09-15T03:10:43+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "5%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Bunch Retires Amid Mounting Pressure from White House - The Chicago Crusader",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU0wUGp0VXotaTNXRjJLbzdMMkx4ZUlTX2VsaEh1YUhRUTZESW04WV9fSk95OThQakdBY2RpdTlRcldtaGx1ZnRHMTdWLU1iMi1DNXg1ZG85dTNnZ3dtM1ZRUklPLVZFZkhac1JaNzZEeDB0TkxUX2dRYW8tY2JQd3RvbUxFLTRrczhoag?oc=5",
-        "summary": "Bunch Retires Amid Mounting Pressure from White House The Chicago Crusader Bunch Retires Amid Mounting Pressure from White House - The Chicago Crusader",
-        "published": "Mon, 14 Sep 2026 15:58:39 GMT",
-        "published_kst": "2026-09-15T00:58:39+09:00",
+        "title": "The U.S. economy faces mounting headwinds. Here are the biggest risks. - cbsnews.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5",
+        "summary": "economy faces mounting headwinds. Here are the biggest risks.",
+        "published": "Mon, 14 Sep 2026 17:48:50 GMT",
+        "published_kst": "2026-09-15T02:48:50+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Bond Yield Curve Flattens as Inflation and Borrowing Costs Raise Recession Concerns - Межа. Новини України.",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVSEJaeWtSSnpsQmhGdGRoNzhDYlpoUkpfa2l2Z0t2aWJyQVNCeEhBZ01JX2R3WFl2SDZYdS1TVEFpa2M1cTlWdHVOczFVQW5wa2RYSGMwVHVyRkY5Uk1XS2hB?oc=5",
-        "summary": "Bond Yield Curve Flattens as Inflation and Borrowing Costs Raise Recession Concerns Межа.",
-        "published": "Mon, 14 Sep 2026 15:54:20 GMT",
-        "published_kst": "2026-09-15T00:54:20+09:00",
+        "title": "Warrior Ethos in Action: DUDE 44 Bravo’s Incredible Story - The White House (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUU9rTnZ0WDVqcnB0WFpvUEthM0U2NjNLbWhHdUY5RnFqRi15dlV6c0dOaHkxVzI4S2ZQbEppVnpnWGxEMkZic2lBZUk3blhqU3N2RWg1dHE0am9VY19OaGJZZHdKQVlJQkx3bXo5TUpkWVFNa3FETV9WTE9ra2w5TzF1ZUE5a043ZW85ZkNnbk5zM3gyN09QajFnNkhPcDBLbnc?oc=5",
+        "summary": "Warrior Ethos in Action: DUDE 44 Bravo’s Incredible Story The White House (.gov) Warrior Ethos in Action: DUDE 44 Bravo’s Incredible Story - The White House (.gov)",
+        "published": "Mon, 14 Sep 2026 17:45:59 GMT",
+        "published_kst": "2026-09-15T02:45:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Bernie and Bannon unite for \"pro-human\" AI - Axios",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04R3RNeThCd2RsemFiS3VKbTB4a1Y3aDd4UzgzdTJMSDlnSTEtTEY1MEVwV0RBclBCdGREQlhjTlBCdmUyZktDb2JCcXk2WVJPemJ6d2pzNFhVc1hWZEYzSXgyZThmZDl2N0d1dTNJdUw3akVkbHc?oc=5",
-        "summary": "Bernie and Bannon unite for \"pro-human\" AI Axios Bernie and Bannon unite for \"pro-human\" AI - Axios",
-        "published": "Mon, 14 Sep 2026 15:49:26 GMT",
-        "published_kst": "2026-09-15T00:49:26+09:00",
+        "title": "What Mike Johnson and Trump had to say about $5,000 payments this weekend - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnQtZnFiWkJFYmIyZjVJNVowbjd2VVhUSFNLU0VIOVFxb1dBWDZJQVhNUDlMNTVUcVZ2R08zcjBBLTFLSmdRb1ZTaW5BLXlfN2kyWmNGVk5NZjZGN2cwd3NnUXB3TnduenZZczdFNHo0LTM4dVpha2ViV2NGZVU0enVVMHRYaGZXOERvS0p2dVJjUHVIdldaU21XdXgwZ1kxbVlZT2hRZmhZMWk4YTlqUGxUbUI3Wkk?oc=5",
+        "summary": "What Mike Johnson and Trump had to say about $5,000 payments this weekend The Washington Post What Mike Johnson and Trump had to say about $5,000 payments this weekend - The Washington Post",
+        "published": "Mon, 14 Sep 2026 17:41:30 GMT",
+        "published_kst": "2026-09-15T02:41:30+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$5"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SX1VvNjJqOE1zZUp4MWRQWFEwbVI2TW1FNHFhWUF1REMtUUJPenJlSWdQZW5KUEExU1kxWmNUQzFXVVg2WDIyUE5OUk4xWXBKMEQ3OU5mWW9Pdw?oc=5",
-        "summary": "급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] 한국경제 급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] - 한국경제",
-        "published": "Mon, 14 Sep 2026 16:10:37 GMT",
-        "published_kst": "2026-09-15T01:10:37+09:00",
+        "title": "버지니아주 상업용 자율주행차 규제 윤곽 확정…한국 물류·모빌리티 기업에 실질적 진입 조건 생긴다 - 대한청년일보",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1YSTNKV0lnWF9tNmJRYWtEdFlpUHpBQW1HejVNUlh3alk3bW53cDJWV1hMekt6RmxyUXByMXVHVmhxOVU?oc=5",
+        "summary": "버지니아주 상업용 자율주행차 규제 윤곽 확정…한국 물류·모빌리티 기업에 실질적 진입 조건 생긴다 대한청년일보 버지니아주 상업용 자율주행차 규제 윤곽 확정…한국 물류·모빌리티 기업에 실질적 진입 조건 생긴다 - 대한청년일보",
+        "published": "Mon, 14 Sep 2026 17:08:22 GMT",
+        "published_kst": "2026-09-15T02:08:22+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "가장 먼저 사라질 공기업이라더니…'돈 방석' 팔자 대박 났다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tR1ZJNkhqV2xDNFpFeUwyMFRTTlVVQ3V1bVZWZDdJdXVMZGtvMlZfRUprelNjcHRNMm85RU1oU3hlaXBiV1p3U3gzRHpnSTR4T29UdVI3TlQ5Zw?oc=5",
-        "summary": "가장 먼저 사라질 공기업이라더니…'돈 방석' 팔자 대박 났다 한국경제 가장 먼저 사라질 공기업이라더니…'돈 방석' 팔자 대박 났다 - 한국경제",
-        "published": "Mon, 14 Sep 2026 16:10:00 GMT",
-        "published_kst": "2026-09-15T01:10:00+09:00",
+        "title": "70%→90%로 확 뛰었다…\"같은 생각\" 월가 IB들도 속속 합류 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51N0xfYzhpTEJHeFBXd2xXcmd0OUdsUzlaM0ZqV1dxczU0eTEyd2czVHdMMG5IcjdqajZQeEN5NzJJaUJFQ1A3ZUZUY1R6VXc?oc=5",
+        "summary": "70%→90%로 확 뛰었다…\"같은 생각\" 월가 IB들도 속속 합류 v.daum.net 70%→90%로 확 뛰었다…\"같은 생각\" 월가 IB들도 속속 합류 - v.daum.net",
+        "published": "Mon, 14 Sep 2026 16:50:52 GMT",
+        "published_kst": "2026-09-15T01:50:52+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "70%",
+          "90%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "美 기업에 날아드는 '고금리 청구서' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaeXBKNGpSY1dRN3VmOVd2RXZaTmdvSjFrZzZBRDJIQTZQWGlEMHZqZzRWZWR2VlM2QzcwTktZakpQay15VzlacUE3SDdGSDFTR3JtUFp6SDRqZw?oc=5",
-        "summary": "美 기업에 날아드는 '고금리 청구서' 한국경제 美 기업에 날아드는 '고금리 청구서' - 한국경제",
-        "published": "Mon, 14 Sep 2026 16:02:00 GMT",
-        "published_kst": "2026-09-15T01:02:00+09:00",
+        "title": "PGA 최다 우승 클럽, 올해도 타이틀리스트 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxeUJRS3dXOGZLMDJVaVhwTXdmVEg1NnNtOXRSUm1PQ240Z09iXzM4dWNCdlVsVTJlZGthdmJsdVAwd3dkYkFtLWVzSk5jWm5DTGpUVGFaaEprUQ?oc=5",
+        "summary": "PGA 최다 우승 클럽, 올해도 타이틀리스트 한국경제 PGA 최다 우승 클럽, 올해도 타이틀리스트 - 한국경제",
+        "published": "Mon, 14 Sep 2026 16:44:00 GMT",
+        "published_kst": "2026-09-15T01:44:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +115,35 @@
     ],
     "world": [
       {
-        "title": "Euro area: Supply chain risks and core goods outlook – Societe Generale - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM0dOMEo2cEptQVJidzdtbUFFZHN2ckhEdTJHVmlldnJiOHo2bmJwR2RDVkZKMXYwMVNhdnY3RTRJUmdnQXhMeXZwZ3BwLV80d0JORjJRN1Z1RkNzeVBzS3JLSzZzYkIxNWFhRXRveTJOeUlvTVJKeVhwbDJCdXh0UGFNTGJNOHNFN2FGUGR5WGZxRzg1VUtjeXFNRHc2bHNKVDdOTFljNnFuWWRGZmtPcQ?oc=5",
-        "summary": "Euro area: Supply chain risks and core goods outlook – Societe Generale FXStreet Euro area: Supply chain risks and core goods outlook – Societe Generale - FXStreet",
-        "published": "Mon, 14 Sep 2026 15:47:00 GMT",
-        "published_kst": "2026-09-15T00:47:00+09:00",
+        "title": "Here We Go Again: Costco Starts Rationing Motor Oil as Supply Chain Cracks - OFFGRID Survival",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSkFTZ29OakFDVXlieGFHWklVQUNCRF9vS3BhVVJueWlWNGdzM09JQS05RmVpbkZHTTlpR2RUV3p5QmxzbjhZQ2U0MUh0QTkzeWR5R0p6dkpOQzFWWE9fYTNNZ1lsbkJqYWlwcTNGZnd6OVRFVzdwcDVZamJmUzZDeDA1VGYza3VQOUhmdEdHenlVNlhpaFRnel91anM2RmQyMWc2Rg?oc=5",
+        "summary": "Here We Go Again: Costco Starts Rationing Motor Oil as Supply Chain Cracks OFFGRID Survival Here We Go Again: Costco Starts Rationing Motor Oil as Supply Chain Cracks - OFFGRID Survival",
+        "published": "Mon, 14 Sep 2026 18:05:52 GMT",
+        "published_kst": "2026-09-15T03:05:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI - WJTV",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNVSEgwWU9PTTkwQ1VPbVRCOVY4WDZEXzJ0SUx3MTBMUGZJZ2ZDU2w4djd2b2dkbnJkRUt4M1ZsOTBvMko1WGdoMUdoZS1ha29NVmg1LU1YQkg2VVQzRjRFMzlfdmpia21mUW93ck04YVBKdlVnSkt3Y3VhSjBQdTVqem9sdmVzcEV4VVVaYzREWHJMZms3QS1sS19yWTFIeV9TLTdkZFQ0QlhSVGRDalppQ0JsUnfSAbwBQVVfeXFMT1I4aXR5Q0tucDIxa1p2dHVBdjhVTmJfNTY2aUJoMjRaVUlqdlJfaWdTeWt4T3A1U2ZMa19oUWdKeHpvdnBNWWU2R2p6OWdVWVRRUktPMHF4MnN0cTRIWDI2TjZpLWRZaU03NDN4cWUtRUJPTWFIdkVhek1ZNjk1ZGFCOC04enJtOUNQQVhjOUp5bVphOFEySkxIbGs1Y1NvQU9RY2t3ZFJBRWtPNW8tcUtmNm5YSmhTeW1zdGg?oc=5",
-        "summary": "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI WJTV The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI - WJTV",
-        "published": "Mon, 14 Sep 2026 15:20:47 GMT",
-        "published_kst": "2026-09-15T00:20:47+09:00",
+        "title": "COMPLIMENTARY WEBINAR – Beyond the Standard: Turning LSRS & FLAG Into Supply-Chain Advantage in 2027 - CSRwire",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFlfaC1lOEFHZWdGMTk1dTdvUmFXcGZzckdpaWlScEtBQzgzeklESllaemxYWS1yOGdvR1B6QURnbVFFT0VmNUdCM2k4a3o1eGtfb0Y0Rl9FZktqa2dvRmF5TkJzdEdqUmpaRFVKbld4UFYzaVllQWpkQ3k5YlAyMW5GQXNpWEd3SXR5WWJ3YUUyb0xmRkpkWDlRSVdoSjRvVzd1dy1zbnJTdnIyTzdiRDlXOU1tNllQVWc?oc=5",
+        "summary": "COMPLIMENTARY WEBINAR – Beyond the Standard: Turning LSRS & FLAG Into Supply-Chain Advantage in 2027 CSRwire COMPLIMENTARY WEBINAR – Beyond the Standard: Turning LSRS & FLAG Into Supply-Chain Advantage in 2027 - CSRwire",
+        "published": "Mon, 14 Sep 2026 18:02:27 GMT",
+        "published_kst": "2026-09-15T03:02:27+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The Next Generation Will Expect Every Shipment to Be Explainable - globaltrademag.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFlUakFaRUJoamp3cGJoSHQzazJvNDBnRjgzS2RVWll2YVhVWFZkc0tLaU9ObzF3S0lXeHZMZ1p4dkxEdDU1OEZjWFlwVTlUdTFCNUYyc242dE54RGl3d3RidXpTOTcxWEljNVJRNHVRR0tCaEw5aS0xRVpSTzNxd0NCSEU0NmprTmhob3hCRzkxNFd4WEwzMmRNUlg?oc=5",
-        "summary": "The Next Generation Will Expect Every Shipment to Be Explainable globaltrademag.com The Next Generation Will Expect Every Shipment to Be Explainable - globaltrademag.com",
-        "published": "Mon, 14 Sep 2026 14:06:46 GMT",
-        "published_kst": "2026-09-14T23:06:46+09:00",
+        "title": "Childhood Friends Leave Major Corporations To Build 8-Figure African Supply Chain Business - blackenterprise.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVBMWFJ0TU0taEF2TXc3SVJ2UnlTbGxwQzBkcGdPVEtPbUZkQmhjcWw1NEx0Rk8xR2RCR0VFajdPY3pfN0NQWE9xZFJiRHVQVVk4SXJNVWdFYlRJazRkMTQydFFDdkJlc2Y5cVR5VW51Q1p1Um9nd1ZZQ0x6YzZ3UjBpdHVkdHRSN0V2ckF1bExCVjg?oc=5",
+        "summary": "Childhood Friends Leave Major Corporations To Build 8-Figure African Supply Chain Business blackenterprise.com Childhood Friends Leave Major Corporations To Build 8-Figure African Supply Chain Business - blackenterprise.com",
+        "published": "Mon, 14 Sep 2026 17:41:10 GMT",
+        "published_kst": "2026-09-15T02:41:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +151,6 @@
       }
     ]
   },
-  "wrap_summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days. Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz / 급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] 한국경제 급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] - 한국경제 / Euro area: Supply chain risks and core goods outlook – Societe Generale FXStreet Euro area: Supply chain risks and core goods outlook – Societe Generale - FXStreet",
+  "wrap_summary": "\"The World's Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran,\" Trump said in a social media post. Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal / 버지니아주 상업용 자율주행차 규제 윤곽 확정…한국 물류·모빌리티 기업에 실질적 진입 조건 생긴다 대한청년일보 버지니아주 상업용 자율주행차 규제 윤곽 확정…한국 물류·모빌리티 기업에 실질적 진입 조건 생긴다 - 대한청년일보 / Here We Go Again: Costco Starts Rationing Motor Oil as Supply Chain Cracks OFFGRID Survival Here We Go Again: Costco Starts Rationing Motor Oil as Supply Chain Cracks - OFFGRID Survival",
   "invest_summary": ""
 }
