@@ -1,75 +1,72 @@
 {
-  "date": "2026-09-14",
-  "generated_at_utc": "2026-09-14T11:00:51Z",
-  "cutoff_kst": "2026-09-14T20:00:00+09:00",
+  "date": "2026-09-15",
+  "generated_at_utc": "2026-09-14T16:15:39Z",
+  "cutoff_kst": "2026-09-15T01:15:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
-        "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
-        "summary": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns. OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
-        "published": "Mon, 14 Sep 2026 10:54:14 GMT",
-        "published_kst": "2026-09-14T19:54:14+09:00",
+        "title": "Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
+        "url": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+        "summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days. Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz",
+        "published": "Mon, 14 Sep 2026 16:14:38 GMT",
+        "published_kst": "2026-09-15T01:14:38+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$106"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+        "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+        "summary": "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China. Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei",
+        "published": "Mon, 14 Sep 2026 16:08:15 GMT",
+        "published_kst": "2026-09-15T01:08:15+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "India's inflation rises to 4.82% in August, marginally exceeding forecasts",
-        "url": "https://www.cnbc.com/2026/09/14/india-inflation-august-iran-war-energy-el-nino.html",
-        "summary": "India's inflation in August accelerated for the tenth month straight to 4.82% in August amid rising food and fuel prices. India's inflation rises to 4.82% in August, marginally exceeding forecasts",
-        "published": "Mon, 14 Sep 2026 10:51:53 GMT",
-        "published_kst": "2026-09-14T19:51:53+09:00",
+        "title": "Trump says Ukraine and Russia agreed not to hit energy targets",
+        "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html",
+        "summary": "\"The World's Diesel price rise is mostly caused by the Russia/Ukraine War, not Iran,\" Trump said in a social media post. Trump says Ukraine and Russia agreed not to hit energy targets",
+        "published": "Mon, 14 Sep 2026 16:03:50 GMT",
+        "published_kst": "2026-09-15T01:03:50+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "4.82%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US AI regulation calls gather pace - Semafor",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXRCWS1YT2xQbE1XaS1CVG9halIxTFBDQ1ZFeFlDMHpwZlVQTXpJRzdOYTJ3dk9FcU5Bc1pPcTRZRzBvVlhLS3J0cTMxckdfbG9xM3Ewcmc1OFZwUjVjYmNPTk5tM2NRWjF1Sy0tcEQ3RDZQM0xxNlhleGtjbDJKel81aw?oc=5",
-        "summary": "US AI regulation calls gather pace Semafor US AI regulation calls gather pace - Semafor",
-        "published": "Mon, 14 Sep 2026 10:46:00 GMT",
-        "published_kst": "2026-09-14T19:46:00+09:00",
+        "title": "Bunch Retires Amid Mounting Pressure from White House - The Chicago Crusader",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaU0wUGp0VXotaTNXRjJLbzdMMkx4ZUlTX2VsaEh1YUhRUTZESW04WV9fSk95OThQakdBY2RpdTlRcldtaGx1ZnRHMTdWLU1iMi1DNXg1ZG85dTNnZ3dtM1ZRUklPLVZFZkhac1JaNzZEeDB0TkxUX2dRYW8tY2JQd3RvbUxFLTRrczhoag?oc=5",
+        "summary": "Bunch Retires Amid Mounting Pressure from White House The Chicago Crusader Bunch Retires Amid Mounting Pressure from White House - The Chicago Crusader",
+        "published": "Mon, 14 Sep 2026 15:58:39 GMT",
+        "published_kst": "2026-09-15T00:58:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Treasury yields are steady as 10-year closes in on 5% ahead of Fed rates decision",
-        "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-        "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Treasury yields are steady as 10-year closes in on 5% ahead of Fed rates decision",
-        "published": "Mon, 14 Sep 2026 10:33:42 GMT",
-        "published_kst": "2026-09-14T19:33:42+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "5%",
-          "2023"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The ‘Trump before Donald Trump’ is favored to replace a centrist in Congress - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0E1cnpuQnZNQ2loNFpfcTFHOGNCejI2TmdkTkdvNHFGQkNoSlFqdmdtN2NVVW5DSnpoeXlndlVZZTNKcjhjRWM1aE9ZdXVEaVpzQUVCYjJZbFpiLTZtdVdTTEdMOWlJRjczd0M2U1doVFdtbW56TkM5VzZFSWpXNHBVcmx4Mk9yUDZXXzlIcE5GRktqOEtMQXo3akpicUQwUi14OHJVS2NBb0ZiVTMtS3FjbU1wc2hqR3hFam9PdUI5SFRCTWc?oc=5",
-        "summary": "The ‘Trump before Donald Trump’ is favored to replace a centrist in Congress The Washington Post The ‘Trump before Donald Trump’ is favored to replace a centrist in Congress - The Washington Post",
-        "published": "Mon, 14 Sep 2026 10:32:28 GMT",
-        "published_kst": "2026-09-14T19:32:28+09:00",
+        "title": "U.S. Bond Yield Curve Flattens as Inflation and Borrowing Costs Raise Recession Concerns - Межа. Новини України.",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVSEJaeWtSSnpsQmhGdGRoNzhDYlpoUkpfa2l2Z0t2aWJyQVNCeEhBZ01JX2R3WFl2SDZYdS1TVEFpa2M1cTlWdHVOczFVQW5wa2RYSGMwVHVyRkY5Uk1XS2hB?oc=5",
+        "summary": "Bond Yield Curve Flattens as Inflation and Borrowing Costs Raise Recession Concerns Межа.",
+        "published": "Mon, 14 Sep 2026 15:54:20 GMT",
+        "published_kst": "2026-09-15T00:54:20+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Who is Ellie Acra? White House says journo \"sick freak\" for staffer comment - Newsweek",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWxKOHRkQ1J2Nmh4Unk4QWRqWTBkd01FbTNRZnExMDUwdERsQV9IVVRFWEx4NXVoU0VHWFVRT25QSGJKWXQ4cGU1ZXRqXzFqUDQ4RlY5TFRtQW1MelBwM2puV3Fza182M3A1TXZVZEJxbW5tV2hlTTVFRE9DVS1NY1ZyZ2MzREw2Y1JaNVdJZ3NpVm4wRmVCMmJtc0sycmx5RWdOaUw3OUVBMG11d3c?oc=5",
-        "summary": "White House says journo \"sick freak\" for staffer comment Newsweek Who is Ellie Acra? Who is Ellie Acra?",
-        "published": "Mon, 14 Sep 2026 10:07:00 GMT",
-        "published_kst": "2026-09-14T19:07:00+09:00",
+        "title": "Bernie and Bannon unite for \"pro-human\" AI - Axios",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04R3RNeThCd2RsemFiS3VKbTB4a1Y3aDd4UzgzdTJMSDlnSTEtTEY1MEVwV0RBclBCdGREQlhjTlBCdmUyZktDb2JCcXk2WVJPemJ6d2pzNFhVc1hWZEYzSXgyZThmZDl2N0d1dTNJdUw3akVkbHc?oc=5",
+        "summary": "Bernie and Bannon unite for \"pro-human\" AI Axios Bernie and Bannon unite for \"pro-human\" AI - Axios",
+        "published": "Mon, 14 Sep 2026 15:49:26 GMT",
+        "published_kst": "2026-09-15T00:49:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -78,71 +75,68 @@
     ],
     "kr": [
       {
-        "title": "\"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53enkwVzFtOVh0RnJLN2ROOEFHanlmdzVvbzRmSWhvR3NOSG5kUEI0RzBtblZoZkYwYWhmZ01HWEtCM1JObTl3YzFkRDBhNVFaY010cldJaVdwZw?oc=5",
-        "summary": "\"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 한국경제 \"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 - 한국경제",
-        "published": "Mon, 14 Sep 2026 10:18:00 GMT",
-        "published_kst": "2026-09-14T19:18:00+09:00",
+        "title": "급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SX1VvNjJqOE1zZUp4MWRQWFEwbVI2TW1FNHFhWUF1REMtUUJPenJlSWdQZW5KUEExU1kxWmNUQzFXVVg2WDIyUE5OUk4xWXBKMEQ3OU5mWW9Pdw?oc=5",
+        "summary": "급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] 한국경제 급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] - 한국경제",
+        "published": "Mon, 14 Sep 2026 16:10:37 GMT",
+        "published_kst": "2026-09-15T01:10:37+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "우상호 \"강원 원주에 우크라이나 드론기업 유치할 것\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTUtzMGxXVGlzMGdjY3BRaV9hWnJvd3BJMmdtekE0c1U1ajR6QjRhaHZBZ1I4UFhzdjVpSm1fallyamRGQXJwLTFkRlRBd09SWGhXX2szZU9tUQ?oc=5",
-        "summary": "우상호 \"강원 원주에 우크라이나 드론기업 유치할 것\" 한국경제 우상호 \"강원 원주에 우크라이나 드론기업 유치할 것\" - 한국경제",
-        "published": "Mon, 14 Sep 2026 09:58:09 GMT",
-        "published_kst": "2026-09-14T18:58:09+09:00",
+        "title": "가장 먼저 사라질 공기업이라더니…'돈 방석' 팔자 대박 났다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tR1ZJNkhqV2xDNFpFeUwyMFRTTlVVQ3V1bVZWZDdJdXVMZGtvMlZfRUprelNjcHRNMm85RU1oU3hlaXBiV1p3U3gzRHpnSTR4T29UdVI3TlQ5Zw?oc=5",
+        "summary": "가장 먼저 사라질 공기업이라더니…'돈 방석' 팔자 대박 났다 한국경제 가장 먼저 사라질 공기업이라더니…'돈 방석' 팔자 대박 났다 - 한국경제",
+        "published": "Mon, 14 Sep 2026 16:10:00 GMT",
+        "published_kst": "2026-09-15T01:10:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국 학생들 경제 지식 수준? 교사 77.3% “낮다”…창업 희망 비율 7% 불과 - 문화일보",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wSGtUbDFscHB0OElmbjd3Sm1zS2w4TDY1Ym10QVc1R0x4RHhRa1BjVnRKaDBLMlFpQjBUajNpYUQ5LXU1akZ5SG1aUEQzXy03?oc=5",
-        "summary": "교사 77.3% “낮다”…창업 희망 비율 7% 불과 문화일보 한국 학생들 경제 지식 수준? 교사 77.3% “낮다”…창업 희망 비율 7% 불과 - 문화일보",
-        "published": "Mon, 14 Sep 2026 09:50:33 GMT",
-        "published_kst": "2026-09-14T18:50:33+09:00",
+        "title": "美 기업에 날아드는 '고금리 청구서' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaeXBKNGpSY1dRN3VmOVd2RXZaTmdvSjFrZzZBRDJIQTZQWGlEMHZqZzRWZWR2VlM2QzcwTktZakpQay15VzlacUE3SDdGSDFTR3JtUFp6SDRqZw?oc=5",
+        "summary": "美 기업에 날아드는 '고금리 청구서' 한국경제 美 기업에 날아드는 '고금리 청구서' - 한국경제",
+        "published": "Mon, 14 Sep 2026 16:02:00 GMT",
+        "published_kst": "2026-09-15T01:02:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "77.3%",
-          "7%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Who Won Enterprise of the Year at the Supply Chain Awards? - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekUyc2hkWnZIX1UtTkpjOTJPSHkycExCaEYwbTFrTXdEWlhORjFRVkZiSC13alltcm9CanpHT0JyXzRBeDNjVHVodzRvYnBlUFQyVmhNQ1d5bFhQVGQtSTJnUFZ6ZGRxRFNBX3duSnVWNU1KTXRGcUNTbXZMM1QtbktlbmgyWExSbVhaTjdRYUl5NUtteW1EMg?oc=5",
-        "summary": "Supply Chain Digital Who Won Enterprise of the Year at the Supply Chain Awards? - Supply Chain Digital",
-        "published": "Mon, 14 Sep 2026 10:37:06 GMT",
-        "published_kst": "2026-09-14T19:37:06+09:00",
+        "title": "Euro area: Supply chain risks and core goods outlook – Societe Generale - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM0dOMEo2cEptQVJidzdtbUFFZHN2ckhEdTJHVmlldnJiOHo2bmJwR2RDVkZKMXYwMVNhdnY3RTRJUmdnQXhMeXZwZ3BwLV80d0JORjJRN1Z1RkNzeVBzS3JLSzZzYkIxNWFhRXRveTJOeUlvTVJKeVhwbDJCdXh0UGFNTGJNOHNFN2FGUGR5WGZxRzg1VUtjeXFNRHc2bHNKVDdOTFljNnFuWWRGZmtPcQ?oc=5",
+        "summary": "Euro area: Supply chain risks and core goods outlook – Societe Generale FXStreet Euro area: Supply chain risks and core goods outlook – Societe Generale - FXStreet",
+        "published": "Mon, 14 Sep 2026 15:47:00 GMT",
+        "published_kst": "2026-09-15T00:47:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "DKSH\"s blueprint for resilient supply chains - Vietnam Investment Review - VIR",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlNm11TkY5VlpmQUtkZ2RpRVZvYVVYUVZ6Q3BJYnc1SjV2MVZkRHRfZkd0bTktMzBlZV9CQkptVUMzR1lWc2VkaXRMMnBRWUx4cndzU1FKR0VZbXlIN0M3ejR6TkpnMmNqalZ2QmJTMVVzSU9QWjFTaWp6ay1HS28?oc=5",
-        "summary": "DKSH\"s blueprint for resilient supply chains Vietnam Investment Review - VIR DKSH\"s blueprint for resilient supply chains - Vietnam Investment Review - VIR",
-        "published": "Mon, 14 Sep 2026 10:33:02 GMT",
-        "published_kst": "2026-09-14T19:33:02+09:00",
+        "title": "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI - WJTV",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNVSEgwWU9PTTkwQ1VPbVRCOVY4WDZEXzJ0SUx3MTBMUGZJZ2ZDU2w4djd2b2dkbnJkRUt4M1ZsOTBvMko1WGdoMUdoZS1ha29NVmg1LU1YQkg2VVQzRjRFMzlfdmpia21mUW93ck04YVBKdlVnSkt3Y3VhSjBQdTVqem9sdmVzcEV4VVVaYzREWHJMZms3QS1sS19yWTFIeV9TLTdkZFQ0QlhSVGRDalppQ0JsUnfSAbwBQVVfeXFMT1I4aXR5Q0tucDIxa1p2dHVBdjhVTmJfNTY2aUJoMjRaVUlqdlJfaWdTeWt4T3A1U2ZMa19oUWdKeHpvdnBNWWU2R2p6OWdVWVRRUktPMHF4MnN0cTRIWDI2TjZpLWRZaU03NDN4cWUtRUJPTWFIdkVhek1ZNjk1ZGFCOC04enJtOUNQQVhjOUp5bVphOFEySkxIbGs1Y1NvQU9RY2t3ZFJBRWtPNW8tcUtmNm5YSmhTeW1zdGg?oc=5",
+        "summary": "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI WJTV The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI - WJTV",
+        "published": "Mon, 14 Sep 2026 15:20:47 GMT",
+        "published_kst": "2026-09-15T00:20:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development - NPR",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzlDMS14ekNidjBCaUU2WVdmMTFnWnJoN3BYWDlKY0lPN2FqNVBMcDJlckVmMnM4ajFmZFF1Rk4zdTVJcFBiemgwQVhnUUliZEt0d3RaamNYbW1ldXNOX2I4RC1wVWpuTUJvMkpxamxUYk9adGk2NGs0bzZTQ2xxdA?oc=5",
-        "summary": "Beijing hits back at Anthropic CEO's call to curb China's AI development NPR Beijing hits back at Anthropic CEO's call to curb China's AI development - NPR",
-        "published": "Mon, 14 Sep 2026 10:09:08 GMT",
-        "published_kst": "2026-09-14T19:09:08+09:00",
+        "title": "The Next Generation Will Expect Every Shipment to Be Explainable - globaltrademag.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFlUakFaRUJoamp3cGJoSHQzazJvNDBnRjgzS2RVWll2YVhVWFZkc0tLaU9ObzF3S0lXeHZMZ1p4dkxEdDU1OEZjWFlwVTlUdTFCNUYyc242dE54RGl3d3RidXpTOTcxWEljNVJRNHVRR0tCaEw5aS0xRVpSTzNxd0NCSEU0NmprTmhob3hCRzkxNFd4WEwzMmRNUlg?oc=5",
+        "summary": "The Next Generation Will Expect Every Shipment to Be Explainable globaltrademag.com The Next Generation Will Expect Every Shipment to Be Explainable - globaltrademag.com",
+        "published": "Mon, 14 Sep 2026 14:06:46 GMT",
+        "published_kst": "2026-09-14T23:06:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -150,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns. OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control' / \"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 한국경제 \"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 - 한국경제 / Supply Chain Digital Who Won Enterprise of the Year at the Supply Chain Awards? - Supply Chain Digital",
+  "wrap_summary": "Saudi Arabia has faced escalating attacks from Iran-allied militant groups in recent days. Brent crude tops $106 after Saudi Arabia shuts down critical pipeline that bypasses Strait of Hormuz / 급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] 한국경제 급부상한 \"AI 규제\" 주장…투자자 대응법 [김현석의 퀵 브리프] - 한국경제 / Euro area: Supply chain risks and core goods outlook – Societe Generale FXStreet Euro area: Supply chain risks and core goods outlook – Societe Generale - FXStreet",
   "invest_summary": ""
 }
