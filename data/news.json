@@ -1,142 +1,148 @@
 {
   "date": "2026-09-14",
-  "generated_at_utc": "2026-09-14T07:17:14Z",
-  "cutoff_kst": "2026-09-14T16:17:00+09:00",
+  "generated_at_utc": "2026-09-14T11:00:51Z",
+  "cutoff_kst": "2026-09-14T20:00:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Yen appreciation has carry-trade seekers looking at these two currencies",
-        "url": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
-        "summary": "Yen appreciation has carry-trade seekers looking at these two currencies",
-        "published": "Mon, 14 Sep 2026 07:10:37 GMT",
-        "published_kst": "2026-09-14T16:10:37+09:00",
+        "title": "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+        "url": "https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html",
+        "summary": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns. OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
+        "published": "Mon, 14 Sep 2026 10:54:14 GMT",
+        "published_kst": "2026-09-14T19:54:14+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
-        "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
-        "summary": "Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation. advanced drone over Hormuz as Middle East conflict intensifies",
-        "published": "Mon, 14 Sep 2026 07:02:21 GMT",
-        "published_kst": "2026-09-14T16:02:21+09:00",
+        "title": "India's inflation rises to 4.82% in August, marginally exceeding forecasts",
+        "url": "https://www.cnbc.com/2026/09/14/india-inflation-august-iran-war-energy-el-nino.html",
+        "summary": "India's inflation in August accelerated for the tenth month straight to 4.82% in August amid rising food and fuel prices. India's inflation rises to 4.82% in August, marginally exceeding forecasts",
+        "published": "Mon, 14 Sep 2026 10:51:53 GMT",
+        "published_kst": "2026-09-14T19:51:53+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
-        "url": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
-        "summary": "The Danish drugmaker called the changes the beginning of a new chapter for the company, which faces stiff competition from Eli Lilly. Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
-        "published": "Mon, 14 Sep 2026 07:00:01 GMT",
-        "published_kst": "2026-09-14T16:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump touts White House renovations, says building was in ‘very bad condition’ - Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXNSUmVUZ28wU25TQ0RSNHVyNnp2NlhEcFhSRHhEc3FtamlLaVd5RHZYREktUEhwWF80TzBmZm8tS2lta1hoWXJ1M0tzRVlBcmhTUXdYODNyaW1YX0hhZkc1Qm1jc0FLaGJ1X0NHSndSbHhFMzEzV0dGSzUwMVRrY2FVTFFRTEYyZUJnNGxpQzJMX0xvOEFpRUJ1ZERfZVBwQ0FV0gGoAUFVX3lxTE1KTEoxam0wRkdDLUF2aXFPZGdmWWluV0RMSWFCamRjaWZaREptSHhoRW41UDQ2LVhlaTFxeW94RnhGcFE0eDhsT2l2X1p6eHdsaEFackVnNlVKVjdONGxfMG9qc0p4ZkYyY1BEN3JnTTJETHVONnRvRjFVQ2tmSG1VdkNaYktaY0tPdmxIdE01azB6MHVzbDI3WDU0TjNFUE9EdlRVRlB0Sg?oc=5",
-        "summary": "Trump touts White House renovations, says building was in ‘very bad condition’ Fox News Trump touts White House renovations, says building was in ‘very bad condition’ - Fox News",
-        "published": "Mon, 14 Sep 2026 06:41:52 GMT",
-        "published_kst": "2026-09-14T15:41:52+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "High inflation or low credibility? - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWtOdzVFeXNxTWN3aUNpTjU2UHFta3c4N3lnQVpkRFp4NU9TdGFtRVdTRmRpRFkyZFdSQnVTZWtzSnFnN2ZYSzFubW1jWEJiRW5qSlZHRE9obFFDUG9DRWllUl92bXp6eThWRm1PQmN2N1l6TnhNOGxoTWx5WDkwc2d6bVc?oc=5",
-        "summary": "Financial Times High inflation or low credibility?",
-        "published": "Mon, 14 Sep 2026 05:30:02 GMT",
-        "published_kst": "2026-09-14T14:30:02+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US August Inflation Tops Fed Target Pace; 85% Odds of Rate Hike - News and Statistics - IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGJiLUdEbFRpRU4wWmUyOGJROERORDNIWk9zVXBlMndhUFZhUkhWQXdjMGx4eDZGMjZlZXJzQy1VU0ZnNjk0djNCUkdMdXJuem44YzNCUTQyaE5oYnctRlMtc1Boa3M4WGh5cEhIb29hN3RqbVN3ZTNOem1jWHhjbThFWlZZdlpUOG9GVUpyekdtRndMUUNBTkM0bG1RVTFJcUs0?oc=5",
-        "summary": "US August Inflation Tops Fed Target Pace; 85% Odds of Rate Hike - News and Statistics IndexBox US August Inflation Tops Fed Target Pace; 85% Odds of Rate Hike - News and Statistics - IndexBox",
-        "published": "Mon, 14 Sep 2026 04:20:24 GMT",
-        "published_kst": "2026-09-14T13:20:24+09:00",
-        "domain": "google.com",
         "key_figures": [
-          "85%"
+          "4.82%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US AI regulation calls gather pace - Semafor",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXRCWS1YT2xQbE1XaS1CVG9halIxTFBDQ1ZFeFlDMHpwZlVQTXpJRzdOYTJ3dk9FcU5Bc1pPcTRZRzBvVlhLS3J0cTMxckdfbG9xM3Ewcmc1OFZwUjVjYmNPTk5tM2NRWjF1Sy0tcEQ3RDZQM0xxNlhleGtjbDJKel81aw?oc=5",
+        "summary": "US AI regulation calls gather pace Semafor US AI regulation calls gather pace - Semafor",
+        "published": "Mon, 14 Sep 2026 10:46:00 GMT",
+        "published_kst": "2026-09-14T19:46:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. Treasury yields are steady as 10-year closes in on 5% ahead of Fed rates decision",
+        "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+        "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Treasury yields are steady as 10-year closes in on 5% ahead of Fed rates decision",
+        "published": "Mon, 14 Sep 2026 10:33:42 GMT",
+        "published_kst": "2026-09-14T19:33:42+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "5%",
+          "2023"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The ‘Trump before Donald Trump’ is favored to replace a centrist in Congress - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0E1cnpuQnZNQ2loNFpfcTFHOGNCejI2TmdkTkdvNHFGQkNoSlFqdmdtN2NVVW5DSnpoeXlndlVZZTNKcjhjRWM1aE9ZdXVEaVpzQUVCYjJZbFpiLTZtdVdTTEdMOWlJRjczd0M2U1doVFdtbW56TkM5VzZFSWpXNHBVcmx4Mk9yUDZXXzlIcE5GRktqOEtMQXo3akpicUQwUi14OHJVS2NBb0ZiVTMtS3FjbU1wc2hqR3hFam9PdUI5SFRCTWc?oc=5",
+        "summary": "The ‘Trump before Donald Trump’ is favored to replace a centrist in Congress The Washington Post The ‘Trump before Donald Trump’ is favored to replace a centrist in Congress - The Washington Post",
+        "published": "Mon, 14 Sep 2026 10:32:28 GMT",
+        "published_kst": "2026-09-14T19:32:28+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Who is Ellie Acra? White House says journo \"sick freak\" for staffer comment - Newsweek",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWWxKOHRkQ1J2Nmh4Unk4QWRqWTBkd01FbTNRZnExMDUwdERsQV9IVVRFWEx4NXVoU0VHWFVRT25QSGJKWXQ4cGU1ZXRqXzFqUDQ4RlY5TFRtQW1MelBwM2puV3Fza182M3A1TXZVZEJxbW5tV2hlTTVFRE9DVS1NY1ZyZ2MzREw2Y1JaNVdJZ3NpVm4wRmVCMmJtc0sycmx5RWdOaUw3OUVBMG11d3c?oc=5",
+        "summary": "White House says journo \"sick freak\" for staffer comment Newsweek Who is Ellie Acra? Who is Ellie Acra?",
+        "published": "Mon, 14 Sep 2026 10:07:00 GMT",
+        "published_kst": "2026-09-14T19:07:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSM2NHNDFpbFRURERZQk9IZS03ZkhsQUFqX2FBMVVfRXg2ZWdzYWQ3Qk1od0FOSmJYWTl0VkNVelI1Ymt2RUQ3N012NFpqamZiSHlDZ2ZHdTlGdw?oc=5",
-        "summary": "진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" 한국경제 진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" - 한국경제",
-        "published": "Mon, 14 Sep 2026 07:10:36 GMT",
-        "published_kst": "2026-09-14T16:10:36+09:00",
+        "title": "\"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53enkwVzFtOVh0RnJLN2ROOEFHanlmdzVvbzRmSWhvR3NOSG5kUEI0RzBtblZoZkYwYWhmZ01HWEtCM1JObTl3YzFkRDBhNVFaY010cldJaVdwZw?oc=5",
+        "summary": "\"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 한국경제 \"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 - 한국경제",
+        "published": "Mon, 14 Sep 2026 10:18:00 GMT",
+        "published_kst": "2026-09-14T19:18:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "매출 250억 핀테크社 매물로 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PUHNrb3NvUFFiblo0b1c2anRJRzNsSXVzUl9PUkw5MURub0pUMWRjMTdYT3kydFpZRUhCSGFMY3NXdjJzWnlGbFo4TXlLZEhYR21iNEpWZFJsdw?oc=5",
-        "summary": "매출 250억 핀테크社 매물로 한국경제 매출 250억 핀테크社 매물로 - 한국경제",
-        "published": "Mon, 14 Sep 2026 07:05:39 GMT",
-        "published_kst": "2026-09-14T16:05:39+09:00",
+        "title": "우상호 \"강원 원주에 우크라이나 드론기업 유치할 것\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTUtzMGxXVGlzMGdjY3BRaV9hWnJvd3BJMmdtekE0c1U1ajR6QjRhaHZBZ1I4UFhzdjVpSm1fallyamRGQXJwLTFkRlRBd09SWGhXX2szZU9tUQ?oc=5",
+        "summary": "우상호 \"강원 원주에 우크라이나 드론기업 유치할 것\" 한국경제 우상호 \"강원 원주에 우크라이나 드론기업 유치할 것\" - 한국경제",
+        "published": "Mon, 14 Sep 2026 09:58:09 GMT",
+        "published_kst": "2026-09-14T18:58:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "외국인 매도 폭탄에 코스피 '풀썩' - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4NXJmcllLVV83aVl2dDJlZVZfQmk3TE9PR3ItTXBZSjg0Z2xQUG1NWTFLTlRMdlQxUHhQcng1NkhnckVqZktGREVEWVZNS28?oc=5",
-        "summary": "외국인 매도 폭탄에 코스피 '풀썩' v.daum.net 외국인 매도 폭탄에 코스피 '풀썩' - v.daum.net",
-        "published": "Mon, 14 Sep 2026 07:03:49 GMT",
-        "published_kst": "2026-09-14T16:03:49+09:00",
+        "title": "한국 학생들 경제 지식 수준? 교사 77.3% “낮다”…창업 희망 비율 7% 불과 - 문화일보",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wSGtUbDFscHB0OElmbjd3Sm1zS2w4TDY1Ym10QVc1R0x4RHhRa1BjVnRKaDBLMlFpQjBUajNpYUQ5LXU1akZ5SG1aUEQzXy03?oc=5",
+        "summary": "교사 77.3% “낮다”…창업 희망 비율 7% 불과 문화일보 한국 학생들 경제 지식 수준? 교사 77.3% “낮다”…창업 희망 비율 7% 불과 - 문화일보",
+        "published": "Mon, 14 Sep 2026 09:50:33 GMT",
+        "published_kst": "2026-09-14T18:50:33+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "77.3%",
+          "7%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZXY4OVBBQUJpbURnX2hLN3p5a1JPa2tCemtkbnFBbXc0VGRJVnBoNXJNN21ZM0ZLNjN5OEJJNlYtMDF6VEFPMDZLbFhpSTJ4ZVBSLXFjaC1EbTc5TlZBZ3VKU24xaGhyaDdGeW1Kb1FwZndQbmM1a0xxM05oOEhCLUtXcGhjclNaUjJkczR2NzdvMXpoYnMtOFZZMm1UaW1OcG5lR3FGakRwYmJJdXfSAbMBQVVfeXFMUDkya0pKd0h5WWZScFlKTUNGQnR2aTN0V0ZPX0tpbkF1ZEdDYlNFZEFIcU9RSjJLWWVYbDA0S1plekNBajZQbkhGMTJVV3VhZkRLeEpTV3FVdzF6a20zNDctMWdnTVNuTFNib01SWlhTTTNvaUowbHBBVUI2VUpDM3I3aThtRnhXOVF4WlRlYkxzY1Z5VXdvWjI3ZnJ1QktJeU9TcWRRRmItb1lWcmdoQmxJa2s?oc=5",
-        "summary": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move CNBC Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move - CNBC",
-        "published": "Mon, 14 Sep 2026 04:25:17 GMT",
-        "published_kst": "2026-09-14T13:25:17+09:00",
+        "title": "Who Won Enterprise of the Year at the Supply Chain Awards? - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOekUyc2hkWnZIX1UtTkpjOTJPSHkycExCaEYwbTFrTXdEWlhORjFRVkZiSC13alltcm9CanpHT0JyXzRBeDNjVHVodzRvYnBlUFQyVmhNQ1d5bFhQVGQtSTJnUFZ6ZGRxRFNBX3duSnVWNU1KTXRGcUNTbXZMM1QtbktlbmgyWExSbVhaTjdRYUl5NUtteW1EMg?oc=5",
+        "summary": "Supply Chain Digital Who Won Enterprise of the Year at the Supply Chain Awards? - Supply Chain Digital",
+        "published": "Mon, 14 Sep 2026 10:37:06 GMT",
+        "published_kst": "2026-09-14T19:37:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Europe must tighten grip on AI supply chain, experts warn - euractiv.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZEV0SmRDTGhaSkh2MnBPTjBsWjh4VGpLWGFESlYwSklXUUxBVkhIMXdDZGNaR2hZVFE1VXVxV0Q2VlJwYjV0alVxRnVpeERjY3NEMmZkNm91Tk5BYW1QU05DVmpyNGM1ZkN4aUlCLXFzbWNHUHZIZWw4a3V1OVA3cElQQWo2dGRBSzYwZW1DQXo?oc=5",
-        "summary": "Europe must tighten grip on AI supply chain, experts warn euractiv.com Europe must tighten grip on AI supply chain, experts warn - euractiv.com",
-        "published": "Mon, 14 Sep 2026 02:03:27 GMT",
-        "published_kst": "2026-09-14T11:03:27+09:00",
+        "title": "DKSH\"s blueprint for resilient supply chains - Vietnam Investment Review - VIR",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlNm11TkY5VlpmQUtkZ2RpRVZvYVVYUVZ6Q3BJYnc1SjV2MVZkRHRfZkd0bTktMzBlZV9CQkptVUMzR1lWc2VkaXRMMnBRWUx4cndzU1FKR0VZbXlIN0M3ejR6TkpnMmNqalZ2QmJTMVVzSU9QWjFTaWp6ay1HS28?oc=5",
+        "summary": "DKSH\"s blueprint for resilient supply chains Vietnam Investment Review - VIR DKSH\"s blueprint for resilient supply chains - Vietnam Investment Review - VIR",
+        "published": "Mon, 14 Sep 2026 10:33:02 GMT",
+        "published_kst": "2026-09-14T19:33:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Adobe to help NFL build AI-based global content supply chain - digitaltoday.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTl6Q1N6X2NycVVpYnd5NzFRdndsdVdqR3RlZEgtTnlxOUdnUmlXV0l1eGdBWFRXek1fOS0ySUVCaUZVT0pHYkhSeHIxLXBWUTZWMDQ1ZkRBekhyRzhlRndJS2Z3VGJ0Y3hlU3d2dTJKRFpZREJGY3JMdEhxX0hMaTRYTXo1bDVpM1otdDFGVU9ibGd6SjhLSFRuM3Q1YTZRMGFzZkVjS3MxQQ?oc=5",
-        "summary": "Adobe to help NFL build AI-based global content supply chain digitaltoday.co.kr Adobe to help NFL build AI-based global content supply chain - digitaltoday.co.kr",
-        "published": "Mon, 14 Sep 2026 01:49:01 GMT",
-        "published_kst": "2026-09-14T10:49:01+09:00",
+        "title": "Beijing hits back at Anthropic CEO's call to curb China's AI development - NPR",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzlDMS14ekNidjBCaUU2WVdmMTFnWnJoN3BYWDlKY0lPN2FqNVBMcDJlckVmMnM4ajFmZFF1Rk4zdTVJcFBiemgwQVhnUUliZEt0d3RaamNYbW1ldXNOX2I4RC1wVWpuTUJvMkpxamxUYk9adGk2NGs0bzZTQ2xxdA?oc=5",
+        "summary": "Beijing hits back at Anthropic CEO's call to curb China's AI development NPR Beijing hits back at Anthropic CEO's call to curb China's AI development - NPR",
+        "published": "Mon, 14 Sep 2026 10:09:08 GMT",
+        "published_kst": "2026-09-14T19:09:08+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +150,6 @@
       }
     ]
   },
-  "wrap_summary": "Yen appreciation has carry-trade seekers looking at these two currencies / 진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" 한국경제 진형석 \"호텔·AI 인프라…잘나가는 부동산 잡아라\" - 한국경제 / Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move CNBC Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move - CNBC",
+  "wrap_summary": "OpenAI's chief has made comments detailing how AI safety frameworks and a slowdown could work, as the industry unites behind concerns. OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control' / \"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 한국경제 \"우려가 현실로\" 3조 던지더니…삼전닉스 '와르르' 무너졌다 - 한국경제 / Supply Chain Digital Who Won Enterprise of the Year at the Supply Chain Awards? - Supply Chain Digital",
   "invest_summary": ""
 }
