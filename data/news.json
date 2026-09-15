@@ -1,29 +1,16 @@
 {
-  "date": "2026-09-15",
-  "generated_at_utc": "2026-09-15T14:47:23Z",
-  "cutoff_kst": "2026-09-15T23:47:00+09:00",
+  "date": "2026-09-16",
+  "generated_at_utc": "2026-09-15T17:30:03Z",
+  "cutoff_kst": "2026-09-16T02:30:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "U.S. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage",
-        "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-        "summary": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage",
-        "published": "Tue, 15 Sep 2026 14:44:26 GMT",
-        "published_kst": "2026-09-15T23:44:26+09:00",
+        "title": "Judge blocks Kennedy Center board from returning Trump's name to building",
+        "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+        "summary": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name Judge blocks Kennedy Center board from returning Trump's name to building",
+        "published": "Tue, 15 Sep 2026 17:24:49 GMT",
+        "published_kst": "2026-09-16T02:24:49+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "$104"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "WATCH LIVE: Attorney General Blanche holds White House briefing - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmJXTlVKUmdFOEswbUhvYU9JVDFWZ09wMVVVY0tPVTFRb21JZXdOWmhSNWlMTkpqRXl0OHFvNDA5VjlzZUtWbXZDcktwVG9ldF9DMXRfLTZLMXJiZkRPdC1HUF9Yd2IxR24zSFlDRXU4VGFKVkJicE5fQjNpaGxFQjVTc0xodWZubGJLT2N4SzNLbG5kTDRpaU5DamlGdHUwZ1HSAacBQVVfeXFMTXRiMkJ4c3RockhxVnJjNEtZb0YwdXN5RHNGMDVSaWJGZFFZazBlT3hKcHBCbzk2VFFpWlh3NmVsUUpYakxMMlpsMktvZGlYR2ptaVFHNlhKWEVkQ3NqU0o3cVRDSGo3MGt2bWFpNXJKc3RFckhMaF9fZDVVMTZ5WTF4SDBZLVQwVW9qaHItRDBuM3FleEY3WFliczZuX3N2LU9pUFRpT2M?oc=5",
-        "summary": "WATCH LIVE: Attorney General Blanche holds White House briefing PBS WATCH LIVE: Attorney General Blanche holds White House briefing - PBS",
-        "published": "Tue, 15 Sep 2026 14:30:15 GMT",
-        "published_kst": "2026-09-15T23:30:15+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -32,42 +19,55 @@
         "title": "Airfares, gas and hotel prices were up this summer—Americans traveled anyway",
         "url": "https://www.cnbc.com/2026/09/15/fall-travel-costs-vacation-demand.html",
         "summary": "If the fall travel season looks anything like the summer, costs for flights, hotels and gas will be higher and Americans will still find money for vacations. Airfares, gas and hotel prices were up this summer—Americans traveled anyway",
-        "published": "Tue, 15 Sep 2026 14:30:01 GMT",
-        "published_kst": "2026-09-15T23:30:01+09:00",
+        "published": "Tue, 15 Sep 2026 17:22:06 GMT",
+        "published_kst": "2026-09-16T02:22:06+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "MPA Projects Federal Film Incentive Would Double U.S. Production and Create 143,500 Jobs - Variety",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREpqdS1wdUtMNnBmUmRMbmNyM2VOYlc5R0RlZzdLYzhSdmhSd1NUd3VZY3J0aWdnZkpzZkQ1NnJFUldSVzdycUtiYVhrZmgtZ25POWRDTjRQcmZmS1pfTGJqejFkNWdxWVBUR1ZCZzN6MVlhTUJXSVY0U1dya2h2b3dsTTBzQ0xIYy1vcmpvM3N0OEVoSFZ2aHlZa2I?oc=5",
-        "summary": "Production and Create 143,500 Jobs Variety MPA Projects Federal Film Incentive Would Double U.S. MPA Projects Federal Film Incentive Would Double U.S.",
-        "published": "Tue, 15 Sep 2026 14:30:00 GMT",
-        "published_kst": "2026-09-15T23:30:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Industry Unites Behind U.S. Production Incentive As New Study Predicts Windfall In Jobs And Spending - Deadline",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzJYWkJ0dXZlLUVDaFkxcXVUaXh1V29qRE1zWUlOWndrWnZqT1ZvNlRPWHVfTFlaR2NVbDNwcDVQY1RCUkc3Y1Y1Zk9seGFtdHNkLWRGekcwd2hzSnE0Qk5ZY2ZEWDFxdWRZU1Q2MjcycEpvcFM0UTlNS0lraWhERGxEVWQxc29pZEhBb09JUGN6RFgyWjl5ZW9DR0g1dw?oc=5",
-        "summary": "Production Incentive As New Study Predicts Windfall In Jobs And Spending Deadline Industry Unites Behind U.S. Industry Unites Behind U.S.",
-        "published": "Tue, 15 Sep 2026 14:30:00 GMT",
-        "published_kst": "2026-09-15T23:30:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
-        "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-        "summary": "Treasury Secretary Scott Bessent may face questions on rising energy prices, Federal Reserve policy, government debt and the Trump team's economic agenda. What to watch as Treasury Secretary Scott Bessent testifies before Congress",
-        "published": "Tue, 15 Sep 2026 14:28:11 GMT",
-        "published_kst": "2026-09-15T23:28:11+09:00",
+        "title": "10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+        "url": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+        "summary": "government debt is deepening as investors price in an interest rate hike this week. 10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming",
+        "published": "Tue, 15 Sep 2026 17:17:40 GMT",
+        "published_kst": "2026-09-16T02:17:40+09:00",
         "domain": "cnbc.com",
+        "key_figures": [
+          "2007"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "‘We’re going to respect the process’: Top White House official softens on Fed rate hike - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2pMakFtNzFfbzRpV2tGTjQxNy05ZlprcE5lZ0lmMk5taFRPcUNBUEVNZEt3dUlFZnRXTVRaZzBldjY3TVR4eHFXY0swNUpNbWpFWFI4U2NMSHlhaXpTV3JNWE1iQjJSb1BiWEhFaDlzN2xjWGx0YlE1LUVNMVJlcXQ3YWg5QklGdEVUMUk1RW83OHVkcWoxNzRZMk8?oc=5",
+        "summary": "‘We’re going to respect the process’: Top White House official softens on Fed rate hike Yahoo Finance ‘We’re going to respect the process’: Top White House official softens on Fed rate hike - Yahoo Finance",
+        "published": "Tue, 15 Sep 2026 16:24:39 GMT",
+        "published_kst": "2026-09-16T01:24:39+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US household income top pre-pandemic levels for the 1st time as Americans struggle with inflation - Union-Bulletin",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQa0kxdnFfME9MN1NIS01wS1dIcHBlcHM3dUZhOEhnTGNEcjREN0RfVUNfYlA2dmRLMEpWLU9nNGk2VThYekxxX0FPc1VRNDJWREtGTGstcVQ1MmtNSy1OSWhNcDlnSVdnVUJ4MkUtVzUzY0ZtbzdlRnZBc3FDNG51blowVmhTTFBRVDZRU01XdEpPU1Y4MzQ3MTZwWFQ4YWllUzJDSWlOd2RKdEJBaThwTFYySlBPVElGdU5vMjIzY05kaW9yVjMzVTJxUjYtOFhIcUhHVW9iQ2tVVDJNckpib1VnUEVfbllUQ3puSDlWYVlSY2tRVGFQTWkyUlJGSi0yX0FpVkNNQmNfYW0wQmI0?oc=5",
+        "summary": "US household income top pre-pandemic levels for the 1st time as Americans struggle with inflation Union-Bulletin US household income top pre-pandemic levels for the 1st time as Americans struggle with inflation - Union-Bulletin",
+        "published": "Tue, 15 Sep 2026 16:16:42 GMT",
+        "published_kst": "2026-09-16T01:16:42+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "DaCunha, Green and Bollerman Break Down Where Executive Privilege and Congressional Subpoenas Collide - WilmerHale",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbDU1RDBMYUtDMlM3YmZqa293UEo2WUwwamxsN1pjVlVyOUU3SG1LZ0xEazkyd2ZZcEo3QXJRV0oxTzBKcjk4dzhzYTl1SHZHSDlUN0o2THF0eUhaM3R5UE9CS0FrNjFwaHd1QzBFYndXdHdMOXhGbVc5RG5UdHJKdGphYTJQQ3VaR0JsUDFQZTEwM0xRMzUwMndVNmFTTnFwbmRRTVZJMWQ1cUJzV0FfM3N0ZHNtLWlQNlE0SWdtWDN3VThERFRXY3ktU2FNYi1DTG5zV2dWVFpFV0JTUXVySHY1Uzl6N18wbjBHTFBQNmlFNmM?oc=5",
+        "summary": "DaCunha, Green and Bollerman Break Down Where Executive Privilege and Congressional Subpoenas Collide WilmerHale DaCunha, Green and Bollerman Break Down Where Executive Privilege and Congressional Subpoenas Collide - WilmerHale",
+        "published": "Tue, 15 Sep 2026 16:10:08 GMT",
+        "published_kst": "2026-09-16T01:10:08+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,33 +75,33 @@
     ],
     "kr": [
       {
-        "title": "AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qekM0WjNQTkc1b2tqRTFKQzN1T2lsRnA2MmZxR2dXVXVjQzlGQWZVQVB4b2pKR19rQ0NvLXQ3YW1GNnVGS3VFWVpyYWVNb1VjX1liR0lvTWlRQQ?oc=5",
-        "summary": "AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] 한국경제 AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] - 한국경제",
-        "published": "Tue, 15 Sep 2026 14:12:50 GMT",
-        "published_kst": "2026-09-15T23:12:50+09:00",
+        "title": "이소영 \"근로시간 획일적 규제, 일하는 방식과 안 맞아\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jaXhwckxDME1YVHhwN1dtcnZEMjc5ajBWcmFTZ0tieW8xUEhCOFFScHRpdmdfU0xIWWRLampzYl9DMzdxajJBOUsyampvWmlDTWZ3WExocjQyQQ?oc=5",
+        "summary": "이소영 \"근로시간 획일적 규제, 일하는 방식과 안 맞아\" 한국경제 이소영 \"근로시간 획일적 규제, 일하는 방식과 안 맞아\" - 한국경제",
+        "published": "Tue, 15 Sep 2026 16:33:00 GMT",
+        "published_kst": "2026-09-16T01:33:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "출발증시 2부 - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRl95MUFFSW1NZTJDNzJONkNpX1dJX2R3UTNzS29Gdzh3c1pkTlFLeHB1TDVhMlFWQnp2M1lKZzdlamlYQ09FMnZfYTN4NVZGd0c0eXlVVDFZWXN5VkMyZm1XUFF3M1J6aFYzazBUNDVEZW5MMXNucnRQa2F6TjZzM28tckp5TXV4UkFEZUlqTWRrZmMtYXBqalMtdUhEenhPeC1n?oc=5",
-        "summary": "출발증시 2부 한국경제TV 출발증시 2부 - 한국경제TV",
-        "published": "Tue, 15 Sep 2026 13:26:11 GMT",
-        "published_kst": "2026-09-15T22:26:11+09:00",
+        "title": "'성과급' 파업 리스크 여기까지…노사 갈등 폭발에 '초비상' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qem5OWDZtMDZaTDF2UTcxbEFGVjhzdU5oSEhadklSX291bWxab3M1WE5MalpUaC1RQWJSdkVOM2ROMmRGSVYzMWxUbW5PT2VRRWtyWGRCN2tlUQ?oc=5",
+        "summary": "'성과급' 파업 리스크 여기까지…노사 갈등 폭발에 '초비상' 한국경제 '성과급' 파업 리스크 여기까지…노사 갈등 폭발에 '초비상' - 한국경제",
+        "published": "Tue, 15 Sep 2026 16:31:00 GMT",
+        "published_kst": "2026-09-16T01:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "엄지성 전반 해트트릭…한국, 카타르 4-1 완파 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GSkdhc1A3ODkwQ25ZRWlrejhpTFNZdWszbU9ZR29yd0YxOVFBZ1pqQXRqTjJSMERLVFg4cHdiQjRXV2xnRXhCVkNXVVRNRlVDb2tFYmMtYVRDQQ?oc=5",
-        "summary": "엄지성 전반 해트트릭…한국, 카타르 4-1 완파 한국경제 엄지성 전반 해트트릭…한국, 카타르 4-1 완파 - 한국경제",
-        "published": "Tue, 15 Sep 2026 12:38:45 GMT",
-        "published_kst": "2026-09-15T21:38:45+09:00",
+        "title": "[양준영 칼럼] 'AI 종말론'에 대처하는 자세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByVEhiT0cxcEtoaTgwNThTM2I0ZHVCUkZqLTRLa3ZpODJDOWdIVmw5V0F3Z0FXLXhOMUl3VHVPMXFaU3l0SDlMS1FQdTNiSnE4TEN1WmQtS1NWQQ?oc=5",
+        "summary": "[양준영 칼럼] 'AI 종말론'에 대처하는 자세 한국경제 [양준영 칼럼] 'AI 종말론'에 대처하는 자세 - 한국경제",
+        "published": "Tue, 15 Sep 2026 16:08:00 GMT",
+        "published_kst": "2026-09-16T01:08:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +110,33 @@
     ],
     "world": [
       {
-        "title": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - American Journal of Transportation",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnc3WUhFRzBHQktEZUQ5RUUyYUFBS0VjbXVsa3huM0ROUFdsUzRLbXlrRmpUM1JsbGJ6aFZHTkJEMjVoM1VaQlJHUHdZYlFDZ0EzbVNNeXZYTDU3SnpTZ2x1bW1nQXhGZG53QjZUSzBiSGV2Mi1DY3c3UEJBVHpqOWpwYkt6cE4xb3pfemhONE9XR2JEOVlzZFRLVFVXc0hWSkZB?oc=5",
-        "summary": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain American Journal of Transportation VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - American Journal of Transportation",
-        "published": "Tue, 15 Sep 2026 14:25:00 GMT",
-        "published_kst": "2026-09-15T23:25:00+09:00",
+        "title": "Building Tomorrow's Supply Chain: Siemens' Success Story - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDRQd1ZTU0RsdVB4OVZ6MGU5ZFpZeFhDZUV6Q0t4WERsaGZvVGFzUDlXWHNfQ0Z1aUZhRzBlOFFFZlVzQ2V2RngwVUhRR2hoRmhjYzZ2eXBQVVdROGVGd3p4NGdBMDM2eHYyTUVWa0VUQlJScmhuVnp1dGxhU0lJWmhtdW9Qb2FaX2FaczlDTGVGWDg?oc=5",
+        "summary": "Building Tomorrow's Supply Chain: Siemens' Success Story Supply Chain Digital Building Tomorrow's Supply Chain: Siemens' Success Story - Supply Chain Digital",
+        "published": "Tue, 15 Sep 2026 16:06:40 GMT",
+        "published_kst": "2026-09-16T01:06:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "SPS Commerce Brings Network Intelligence to AI, Enabling Supply Chain Leaders to Turn Investment into Insight - Business Wire",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR1R6Zl80NE9kTm53ek1YYWdvMkNKRVpVVXZxWmNKRHhvbVctLTVOYTFmc1N0SE5VN1VleGRBb0MtY0RsZHpiajNwYTg1akljSEJJbFpIRFVqZTBTT0FiN3VNUHN4anRzU01BZWZFaklabWxlUUQzWEdYZ21hZ2pIX0UxcW16TXhNSWFneC11aGlNLTgtTnJMRHlEOEdxMmE1MzY1UllNMk9IdHVDZzZfaEV2Vl9sZDBXV0dLOGpQanBBeXVpaU1vaFhwQ0k0cW45ekFLRG5oUDFMaTRyYzVidS1IV2gyTTVOdk04T2JQaUh6aWEwVnV1MQ?oc=5",
-        "summary": "SPS Commerce Brings Network Intelligence to AI, Enabling Supply Chain Leaders to Turn Investment into Insight Business Wire SPS Commerce Brings Network Intelligence to AI, Enabling Supply Chain Leaders to Turn Investment into Insight - Business Wire",
-        "published": "Tue, 15 Sep 2026 14:00:00 GMT",
-        "published_kst": "2026-09-15T23:00:00+09:00",
+        "title": "Execution-Led Adaptability Is the New Supply Chain Advantage - Harvard Business Review",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWlPM2JLZDZpajVPZUJJNGRMYm5YUW5ldUFCNWk4aGx2QjdlX2lrRGFwMG0tb3VsdVQ4RFJVajRIdGdkQjNheFp1SS0wRFZwTnBUc3ZnRzFUdGNEYkJ4dEc1ak85aGdYNHUyMDZud3RsRXJVTTY3UHQ5VzhWdURHeDFSY0Uwc19VQlczU0x1VGkzX29pR0pMN0RR?oc=5",
+        "summary": "Execution-Led Adaptability Is the New Supply Chain Advantage Harvard Business Review Execution-Led Adaptability Is the New Supply Chain Advantage - Harvard Business Review",
+        "published": "Tue, 15 Sep 2026 16:00:04 GMT",
+        "published_kst": "2026-09-16T01:00:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Lippert Selects ketteQ as Strategic Partner for Supply Chain Planning - morningstar.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemZPOFBGbHRVMy1VaFVXZWRNR1JaTmxDZWRVWVFPbk9CWlozZ2VadTU1dnYzT21lVWNwaEdiUDNQXzA4Zk1CRXBYZUZMR21UWTdHSGloeVEtclZXcVFxYjB2Z2U1cnNTcm85WFE0NnZ2X1NnR3J4QXE4cksxS1ZGUVFqVTBvWjNKWFZNcm4xdHR6dHNmUjRGeWExNURrcEdDM1V5MlNCTjlNS2p2bENiNXpGdGQwc1ZmX185Um9faGs1NFB0TTlackdB?oc=5",
-        "summary": "Lippert Selects ketteQ as Strategic Partner for Supply Chain Planning morningstar.com Lippert Selects ketteQ as Strategic Partner for Supply Chain Planning - morningstar.com",
-        "published": "Tue, 15 Sep 2026 13:30:00 GMT",
-        "published_kst": "2026-09-15T22:30:00+09:00",
+        "title": "OXEA taps Uber Freight to manage North American, European logistics - FreightWaves",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQemF4OXBDTGh4bFdlVU50aTQyU1hDcnRGUy1FWmVjRzFJUTZzM09PUGI0YVBfUVpwNkhFLTJuckxzQUFxVjFVbjNxbi05aENLMndaV0JvU1I5V0ZyVURqMVRCVDVyMTJUMGUySkJNWEhmRFlDY1hhUGpTdlM2eFdCRlhGTlpwaUVreDhFV0NYNjhwbGpYLXp0blZnMlZPQ3dYRGc?oc=5",
+        "summary": "OXEA taps Uber Freight to manage North American, European logistics FreightWaves OXEA taps Uber Freight to manage North American, European logistics - FreightWaves",
+        "published": "Tue, 15 Sep 2026 16:00:00 GMT",
+        "published_kst": "2026-09-16T01:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage / AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] 한국경제 AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] - 한국경제 / VIKAND launches VIPHARMA to strengthen global maritime medical supply chain American Journal of Transportation VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - American Journal of Transportation",
+  "wrap_summary": "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name Judge blocks Kennedy Center board from returning Trump's name to building / 이소영 \"근로시간 획일적 규제, 일하는 방식과 안 맞아\" 한국경제 이소영 \"근로시간 획일적 규제, 일하는 방식과 안 맞아\" - 한국경제 / Building Tomorrow's Supply Chain: Siemens' Success Story Supply Chain Digital Building Tomorrow's Supply Chain: Siemens' Success Story - Supply Chain Digital",
   "invest_summary": ""
 }
