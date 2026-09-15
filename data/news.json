@@ -1,75 +1,73 @@
 {
   "date": "2026-09-15",
-  "generated_at_utc": "2026-09-15T10:31:03Z",
-  "cutoff_kst": "2026-09-15T19:31:00+09:00",
+  "generated_at_utc": "2026-09-15T14:47:23Z",
+  "cutoff_kst": "2026-09-15T23:47:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "U.S. Stock Futures Slip as Rising Oil Prices Lift Bond Yields, FOMC Meeting on Tap - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkk4Q1JVSXA0LVViWXdvTTJndXRsWWotaEpBVkVwX3RLQVRLd3lyV0l2ajBrUkVaZDE5VUV3VEEwR1V1cFZRSmJNdmxzeUlPYnFNaXpGUVlGNlJralU5eTN1WHdUa2ZZNW5sNXh6U1p6enNTelg1RnJVdmhhSTBROGlydjNIMUc2VkxNY1g1bzhFVFZRVEJpS192ZEdpblplVXB0T0phWGFQWkRlVGRIcVZCeXJRQW94ZzZ3cUF1N2VCdw?oc=5",
-        "summary": "Stock Futures Slip as Rising Oil Prices Lift Bond Yields, FOMC Meeting on Tap Barchart.com U.S.",
-        "published": "Tue, 15 Sep 2026 10:26:19 GMT",
-        "published_kst": "2026-09-15T19:26:19+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. Inflation Flips Rate Outlook as 85% of Economists See Fed Hike - Seoul Economic Daily",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ09LQUVQUmphR0JkRkw1NXhicnVQdHBjUFNkb05tTi1TZWIwbUx6ekZCb0UwY2NMM19YSUZDeTMzeXg5ZlhEMHMxbE5DdmVTa2oteTBpTXlNSFNRV3JFTWNJWmh1ZV9qNXZTYlhyZ284LXBrQTNzR01pbGNBQ2otbkkzUUc4VFNhRGVWQWhlb3NlQVE4NFA5bldLdW9hWnFMU2VQdUZWVW5TYm8?oc=5",
-        "summary": "Inflation Flips Rate Outlook as 85% of Economists See Fed Hike Seoul Economic Daily U.S.",
-        "published": "Tue, 15 Sep 2026 10:13:32 GMT",
-        "published_kst": "2026-09-15T19:13:32+09:00",
-        "domain": "google.com",
+        "title": "U.S. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage",
+        "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+        "summary": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage",
+        "published": "Tue, 15 Sep 2026 14:44:26 GMT",
+        "published_kst": "2026-09-15T23:44:26+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "85%"
+          "$104"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
-        "url": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
-        "summary": "Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019. Oil and Treasury yields haven’t moved this closely in seven years.",
-        "published": "Tue, 15 Sep 2026 10:01:19 GMT",
-        "published_kst": "2026-09-15T19:01:19+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2019"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-        "url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
-        "summary": "Philadelphia will release more cream cheese flavors as part of Kraft Heinz's turnaround. Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-        "published": "Tue, 15 Sep 2026 10:00:01 GMT",
-        "published_kst": "2026-09-15T19:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
-        "url": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
-        "summary": "Children's clothing brand Carter's is announcing a rebrand as it tries to keep up with the modern parent and its core customer base. Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
-        "published": "Tue, 15 Sep 2026 10:00:01 GMT",
-        "published_kst": "2026-09-15T19:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjNaU04zNl9wanVBQ2paNzNkR1R3X3hmeFJ4T0pZbVcxcVRIN1NYTjVvMHlSQ2JhZWFnTkY5azJaVjVsZnhEZzR5QWlUTHl4UnZLQjNWT0dEM1EwWi0tY3NQZDJxLUpTLWZDM0NjX1V5Q2FJQ25UVHE3dnd1YnNiU3o2WFhYQ2Vx0gGOAUFVX3lxTE55WmR4TTJPU2xlRExXbHBvYS15SjA2SlA0WGJNNWN6djJZbjQ0T0lWbU5OTkdhZnVDMkZXMmFoVXJvVVlmRG5tLWhjeWRaOHh2djRUNnJmQmhuX25yVHYyN21XV3NJQndscUhYXy1yZmZnYllmWktGNm9QSlItRWlUMGlNX3RadTFzSkRoQnc?oc=5",
-        "summary": "What to watch as Treasury Secretary Scott Bessent testifies before Congress CNBC What to watch as Treasury Secretary Scott Bessent testifies before Congress - CNBC",
-        "published": "Tue, 15 Sep 2026 09:00:01 GMT",
-        "published_kst": "2026-09-15T18:00:01+09:00",
+        "title": "WATCH LIVE: Attorney General Blanche holds White House briefing - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmJXTlVKUmdFOEswbUhvYU9JVDFWZ09wMVVVY0tPVTFRb21JZXdOWmhSNWlMTkpqRXl0OHFvNDA5VjlzZUtWbXZDcktwVG9ldF9DMXRfLTZLMXJiZkRPdC1HUF9Yd2IxR24zSFlDRXU4VGFKVkJicE5fQjNpaGxFQjVTc0xodWZubGJLT2N4SzNLbG5kTDRpaU5DamlGdHUwZ1HSAacBQVVfeXFMTXRiMkJ4c3RockhxVnJjNEtZb0YwdXN5RHNGMDVSaWJGZFFZazBlT3hKcHBCbzk2VFFpWlh3NmVsUUpYakxMMlpsMktvZGlYR2ptaVFHNlhKWEVkQ3NqU0o3cVRDSGo3MGt2bWFpNXJKc3RFckhMaF9fZDVVMTZ5WTF4SDBZLVQwVW9qaHItRDBuM3FleEY3WFliczZuX3N2LU9pUFRpT2M?oc=5",
+        "summary": "WATCH LIVE: Attorney General Blanche holds White House briefing PBS WATCH LIVE: Attorney General Blanche holds White House briefing - PBS",
+        "published": "Tue, 15 Sep 2026 14:30:15 GMT",
+        "published_kst": "2026-09-15T23:30:15+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Airfares, gas and hotel prices were up this summer—Americans traveled anyway",
+        "url": "https://www.cnbc.com/2026/09/15/fall-travel-costs-vacation-demand.html",
+        "summary": "If the fall travel season looks anything like the summer, costs for flights, hotels and gas will be higher and Americans will still find money for vacations. Airfares, gas and hotel prices were up this summer—Americans traveled anyway",
+        "published": "Tue, 15 Sep 2026 14:30:01 GMT",
+        "published_kst": "2026-09-15T23:30:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "MPA Projects Federal Film Incentive Would Double U.S. Production and Create 143,500 Jobs - Variety",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOREpqdS1wdUtMNnBmUmRMbmNyM2VOYlc5R0RlZzdLYzhSdmhSd1NUd3VZY3J0aWdnZkpzZkQ1NnJFUldSVzdycUtiYVhrZmgtZ25POWRDTjRQcmZmS1pfTGJqejFkNWdxWVBUR1ZCZzN6MVlhTUJXSVY0U1dya2h2b3dsTTBzQ0xIYy1vcmpvM3N0OEVoSFZ2aHlZa2I?oc=5",
+        "summary": "Production and Create 143,500 Jobs Variety MPA Projects Federal Film Incentive Would Double U.S. MPA Projects Federal Film Incentive Would Double U.S.",
+        "published": "Tue, 15 Sep 2026 14:30:00 GMT",
+        "published_kst": "2026-09-15T23:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Industry Unites Behind U.S. Production Incentive As New Study Predicts Windfall In Jobs And Spending - Deadline",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzJYWkJ0dXZlLUVDaFkxcXVUaXh1V29qRE1zWUlOWndrWnZqT1ZvNlRPWHVfTFlaR2NVbDNwcDVQY1RCUkc3Y1Y1Zk9seGFtdHNkLWRGekcwd2hzSnE0Qk5ZY2ZEWDFxdWRZU1Q2MjcycEpvcFM0UTlNS0lraWhERGxEVWQxc29pZEhBb09JUGN6RFgyWjl5ZW9DR0g1dw?oc=5",
+        "summary": "Production Incentive As New Study Predicts Windfall In Jobs And Spending Deadline Industry Unites Behind U.S. Industry Unites Behind U.S.",
+        "published": "Tue, 15 Sep 2026 14:30:00 GMT",
+        "published_kst": "2026-09-15T23:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+        "url": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+        "summary": "Treasury Secretary Scott Bessent may face questions on rising energy prices, Federal Reserve policy, government debt and the Trump team's economic agenda. What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+        "published": "Tue, 15 Sep 2026 14:28:11 GMT",
+        "published_kst": "2026-09-15T23:28:11+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,33 +75,33 @@
     ],
     "kr": [
       {
-        "title": "\"삼성전기 다음 상승엔진은 실리콘 커패시터\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZZTh4TkZDcmZOQmVUTk5kcFgybzlrazNlUGdrMUhvRG45N0FQbVhMMkFnS2lzbC10bURvUWZrX2Zra0pDQUt4cGYtT3BPb0lZcFFOdUFXUkdzQQ?oc=5",
-        "summary": "\"삼성전기 다음 상승엔진은 실리콘 커패시터\" 한국경제 \"삼성전기 다음 상승엔진은 실리콘 커패시터\" - 한국경제",
-        "published": "Tue, 15 Sep 2026 10:08:00 GMT",
-        "published_kst": "2026-09-15T19:08:00+09:00",
+        "title": "AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qekM0WjNQTkc1b2tqRTFKQzN1T2lsRnA2MmZxR2dXVXVjQzlGQWZVQVB4b2pKR19rQ0NvLXQ3YW1GNnVGS3VFWVpyYWVNb1VjX1liR0lvTWlRQQ?oc=5",
+        "summary": "AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] 한국경제 AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] - 한국경제",
+        "published": "Tue, 15 Sep 2026 14:12:50 GMT",
+        "published_kst": "2026-09-15T23:12:50+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "이소영 “한국의 엔비디아 나오려면 규제 문턱 낮춰야” - 데일리안",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQUjRXYlZzX2NkdjZIblZqVnFSMHNkUGw5eGRMQkw2Xy1KN3NLT2dOeVBDZjVUYktiTE5zWnJMUnc4S0Jnel9URTQ5TE9YVHRYYkcza2VieElwdmhtWEJQd1dETF8wSGdYR0ZVOXBYNFBwTllPYWdvODNGUEdIRmJ0b0dXMG56alY0T3BOSUdLYnpodHJfbks0eWJoSHVsMVZVaHFxb1BHZUx3UWEzQm13c19WbUJlYl9sdkRHdEhNaC05b3ZHcEU2YmEyMGgyRmRNYXdidlREZlIwcUswOFpGRWtUdmlSemtBRDE4bnBNam9jdU5Kby0ydlFLbFNSRWlmdU1oY3JaTTVXZVZLaWo1WDBXWlVnSUN0ZFExa0ZBLW5TdDQ?oc=5",
-        "summary": "이소영 “한국의 엔비디아 나오려면 규제 문턱 낮춰야” 데일리안 이소영 “한국의 엔비디아 나오려면 규제 문턱 낮춰야” - 데일리안",
-        "published": "Tue, 15 Sep 2026 09:34:00 GMT",
-        "published_kst": "2026-09-15T18:34:00+09:00",
+        "title": "출발증시 2부 - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRl95MUFFSW1NZTJDNzJONkNpX1dJX2R3UTNzS29Gdzh3c1pkTlFLeHB1TDVhMlFWQnp2M1lKZzdlamlYQ09FMnZfYTN4NVZGd0c0eXlVVDFZWXN5VkMyZm1XUFF3M1J6aFYzazBUNDVEZW5MMXNucnRQa2F6TjZzM28tckp5TXV4UkFEZUlqTWRrZmMtYXBqalMtdUhEenhPeC1n?oc=5",
+        "summary": "출발증시 2부 한국경제TV 출발증시 2부 - 한국경제TV",
+        "published": "Tue, 15 Sep 2026 13:26:11 GMT",
+        "published_kst": "2026-09-15T22:26:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[단독] 원·달러 환율 두달새 200원 급락 … 기업 사업계획 다시 짠다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lOHZZazdnS251NjFNUkt1R3VuQkxIaWlfZWphMGhIVzRoV2ZEUTlLVi1Oek5Lc2hwSi10VThwWUFHSWxIVFRCUHZpWFdXU0xPdnh5Ulo4aFRGZw?oc=5",
-        "summary": "[단독] 원·달러 환율 두달새 200원 급락 … 기업 사업계획 다시 짠다 한국경제 [단독] 원·달러 환율 두달새 200원 급락 … 기업 사업계획 다시 짠다 - 한국경제",
-        "published": "Tue, 15 Sep 2026 09:08:40 GMT",
-        "published_kst": "2026-09-15T18:08:40+09:00",
+        "title": "엄지성 전반 해트트릭…한국, 카타르 4-1 완파 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GSkdhc1A3ODkwQ25ZRWlrejhpTFNZdWszbU9ZR29yd0YxOVFBZ1pqQXRqTjJSMERLVFg4cHdiQjRXV2xnRXhCVkNXVVRNRlVDb2tFYmMtYVRDQQ?oc=5",
+        "summary": "엄지성 전반 해트트릭…한국, 카타르 4-1 완파 한국경제 엄지성 전반 해트트릭…한국, 카타르 4-1 완파 - 한국경제",
+        "published": "Tue, 15 Sep 2026 12:38:45 GMT",
+        "published_kst": "2026-09-15T21:38:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +110,33 @@
     ],
     "world": [
       {
-        "title": "Intelligent Supply Chain Partnership: \"NVIDIA and Palantir are transforming this vast operational graph into sovereign intelligence\" - EME Outlook Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdVhnVU1GamFLbjZna1ZzcDBXQ3BGUElLd2dJTkduSy05TEtVYmFvek5zMnhHeUIwam1wMGdmRzNiZ0JlY2RObmNHSlZOdkg2Tk80WFBrOVMyNGRZU0RsR2k5andhWmkxNHJnSHdFR1lmUXBPakVrNGZtLUR4WVdJSlBOa3R6aTZWZlVPcUdwVkpDZEw3dEs2YUtKVW1KRjAxTnFhOUFNU0ZvZDVfQ2llcy11OXVLS21QLVZhRWJfaUdidGlEYkdTOWJIR1JpTVpabkg3ZjFzWThNN3dZMHMzSzMxdmJzTWtxcXJ4WENWbFd2YTlLSThuNmdQenl3cXY0bUE?oc=5",
-        "summary": "Intelligent Supply Chain Partnership: \"NVIDIA and Palantir are transforming this vast operational graph into sovereign intelligence\" EME Outlook Magazine Intelligent Supply Chain Partnership: \"NVIDIA and Palantir are transforming this vast operational graph into sovereign intelligence\" - EME Outlook Magazine",
-        "published": "Tue, 15 Sep 2026 09:24:51 GMT",
-        "published_kst": "2026-09-15T18:24:51+09:00",
+        "title": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - American Journal of Transportation",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnc3WUhFRzBHQktEZUQ5RUUyYUFBS0VjbXVsa3huM0ROUFdsUzRLbXlrRmpUM1JsbGJ6aFZHTkJEMjVoM1VaQlJHUHdZYlFDZ0EzbVNNeXZYTDU3SnpTZ2x1bW1nQXhGZG53QjZUSzBiSGV2Mi1DY3c3UEJBVHpqOWpwYkt6cE4xb3pfemhONE9XR2JEOVlzZFRLVFVXc0hWSkZB?oc=5",
+        "summary": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain American Journal of Transportation VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - American Journal of Transportation",
+        "published": "Tue, 15 Sep 2026 14:25:00 GMT",
+        "published_kst": "2026-09-15T23:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Column: China's resilience premium -- policies, industrial depth, new geography of global supply chains - Xinhua",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1acDZlbWRBNUlzc2tqa0hjTi02SEx0QV84N254VmFMdnN3cWZsU2duVXd5RXAxRG1HSjBpaUdOSVJoWjZ4bjU5U0VBbTgyZkhxcmtPblpBV0JpbndpSFo2dHlKSTBBWGU1Qy14R2M4VWlsUzNqOG5HcUVvUTk?oc=5",
-        "summary": "Column: China's resilience premium -- policies, industrial depth, new geography of global supply chains Xinhua Column: China's resilience premium -- policies, industrial depth, new geography of global supply chains - Xinhua",
-        "published": "Tue, 15 Sep 2026 08:47:15 GMT",
-        "published_kst": "2026-09-15T17:47:15+09:00",
+        "title": "SPS Commerce Brings Network Intelligence to AI, Enabling Supply Chain Leaders to Turn Investment into Insight - Business Wire",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR1R6Zl80NE9kTm53ek1YYWdvMkNKRVpVVXZxWmNKRHhvbVctLTVOYTFmc1N0SE5VN1VleGRBb0MtY0RsZHpiajNwYTg1akljSEJJbFpIRFVqZTBTT0FiN3VNUHN4anRzU01BZWZFaklabWxlUUQzWEdYZ21hZ2pIX0UxcW16TXhNSWFneC11aGlNLTgtTnJMRHlEOEdxMmE1MzY1UllNMk9IdHVDZzZfaEV2Vl9sZDBXV0dLOGpQanBBeXVpaU1vaFhwQ0k0cW45ekFLRG5oUDFMaTRyYzVidS1IV2gyTTVOdk04T2JQaUh6aWEwVnV1MQ?oc=5",
+        "summary": "SPS Commerce Brings Network Intelligence to AI, Enabling Supply Chain Leaders to Turn Investment into Insight Business Wire SPS Commerce Brings Network Intelligence to AI, Enabling Supply Chain Leaders to Turn Investment into Insight - Business Wire",
+        "published": "Tue, 15 Sep 2026 14:00:00 GMT",
+        "published_kst": "2026-09-15T23:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Global PMI Hint At Stubborn Inflation Amid Energy And Supply Chain Pressures - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUU1M0loc2tZcmRwa1RjRkhENHVZVHJ3SGVDUG9kVWJSbXFzS2VSRVZCZHBvS19wd1g3YkhRMVpuY05Bb29OZVF3Rl9JRnFvOWxNV3ZwQ29NUHNCYlhFQzdldGtiWmF5MHpkOExOY01WUjZFQ1hWLXphSjdKa2ViSnRUYUhrLUozSkJJcmVBQnZ3X3M5bVZHSTBIR3k1RFVRVzVzRVB3R0g2bHpwV2hadWdpUQ?oc=5",
-        "summary": "Global PMI Hint At Stubborn Inflation Amid Energy And Supply Chain Pressures Seeking Alpha Global PMI Hint At Stubborn Inflation Amid Energy And Supply Chain Pressures - Seeking Alpha",
-        "published": "Tue, 15 Sep 2026 07:40:00 GMT",
-        "published_kst": "2026-09-15T16:40:00+09:00",
+        "title": "Lippert Selects ketteQ as Strategic Partner for Supply Chain Planning - morningstar.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemZPOFBGbHRVMy1VaFVXZWRNR1JaTmxDZWRVWVFPbk9CWlozZ2VadTU1dnYzT21lVWNwaEdiUDNQXzA4Zk1CRXBYZUZMR21UWTdHSGloeVEtclZXcVFxYjB2Z2U1cnNTcm85WFE0NnZ2X1NnR3J4QXE4cksxS1ZGUVFqVTBvWjNKWFZNcm4xdHR6dHNmUjRGeWExNURrcEdDM1V5MlNCTjlNS2p2bENiNXpGdGQwc1ZmX185Um9faGs1NFB0TTlackdB?oc=5",
+        "summary": "Lippert Selects ketteQ as Strategic Partner for Supply Chain Planning morningstar.com Lippert Selects ketteQ as Strategic Partner for Supply Chain Planning - morningstar.com",
+        "published": "Tue, 15 Sep 2026 13:30:00 GMT",
+        "published_kst": "2026-09-15T22:30:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Stock Futures Slip as Rising Oil Prices Lift Bond Yields, FOMC Meeting on Tap Barchart.com U.S. / \"삼성전기 다음 상승엔진은 실리콘 커패시터\" 한국경제 \"삼성전기 다음 상승엔진은 실리콘 커패시터\" - 한국경제 / Intelligent Supply Chain Partnership: \"NVIDIA and Palantir are transforming this vast operational graph into sovereign intelligence\" EME Outlook Magazine Intelligent Supply Chain Partnership: \"NVIDIA and Palantir are transforming this vast operational graph into sovereign intelligence\" - EME Outlook Magazine",
+  "wrap_summary": "Iran-backed Houthi militants in Yemen, meanwhile, carried out renewed strikes on Saudi Arabia this week. crude oil rises back above $104 as market awaits updates on Saudi pipeline outage / AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] 한국경제 AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만] - 한국경제 / VIKAND launches VIPHARMA to strengthen global maritime medical supply chain American Journal of Transportation VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - American Journal of Transportation",
   "invest_summary": ""
 }
