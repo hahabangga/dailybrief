@@ -1,76 +1,73 @@
 {
   "date": "2026-09-16",
-  "generated_at_utc": "2026-09-15T23:46:01Z",
-  "cutoff_kst": "2026-09-16T08:46:00+09:00",
+  "generated_at_utc": "2026-09-16T06:56:07Z",
+  "cutoff_kst": "2026-09-16T15:56:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-        "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-        "summary": "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety. Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-        "published": "Tue, 15 Sep 2026 23:25:43 GMT",
-        "published_kst": "2026-09-16T08:25:43+09:00",
+        "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+        "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+        "summary": "The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows.",
+        "published": "Wed, 16 Sep 2026 06:53:09 GMT",
+        "published_kst": "2026-09-16T15:53:09+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House preselects reporters to call on — after Trump criticized Biden for the same - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkJlR3VkSkJDMVRGSVdNQ2Vram9PeExveDFqZTJoS3pPU2c0Uy1wQVdsXzgwelVwNVBPTWptbWt4ZjhrTGlmNEltSGhCOW9icGFPamdfLTZmcXQ5TGVWZ0t2T3FiZW5SSENCMFNkN1Q1bk1HZ1EteDhQay1hN3hqM0FzNDRWQnBOd3lKcWduX3hOZl91S2gzZnNmTFV3VzNxXzVOU1R3dzA5V1J4VDlkWFVSRWJJZw?oc=5",
-        "summary": "White House preselects reporters to call on — after Trump criticized Biden for the same The Washington Post White House preselects reporters to call on — after Trump criticized Biden for the same - The Washington Post",
-        "published": "Tue, 15 Sep 2026 23:24:44 GMT",
-        "published_kst": "2026-09-16T08:24:44+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Photographer Chick Harrity, who documented history for AP from Vietnam to the White House, has died - Bozeman Daily Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNNXIyUjF0UjFEWmYxX2g4NmtYVUlZNUtPS3pnbHlZeGFYb0xZaTc2cG1RX3h2T1NPT3hMM0VQUHNhOGJrWXd4ZWE0dmhiUTdNaE5HNmNuVXFTdmRJbUcyTEZ3ZFNUbGRwcTYwMWhjVUtSTFowc1h5S3N0YVk2OHV4dnVxdW5sdjd3WXhnemZLd1pDYW5Kc1p5Z0hXSVBlOE5NU0FQRG94S1NiM3JvRXhmRVhRaFRXYk5zRXZjMkI5T2pybjJrMVdLUnU2UmtTRmxYbmZDM052TkdsMlpyNEtINUJwd1Q1RzJLSEFkcHJZWHlkUTJIc01rNHBzRDFTb1RYR0dGSWpOaTRXYlZZVVRFS3Q0dlZ6a0xSTnBsQ082WQ?oc=5",
-        "summary": "Photographer Chick Harrity, who documented history for AP from Vietnam to the White House, has died Bozeman Daily Chronicle Photographer Chick Harrity, who documented history for AP from Vietnam to the White House, has died - Bozeman Daily Chronicle",
-        "published": "Tue, 15 Sep 2026 23:15:55 GMT",
-        "published_kst": "2026-09-16T08:15:55+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Todd Blanche discusses Supreme Court and AI during White House press briefing - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGZ3emNXa18yYjMyRE9PQWl0aHVuM3VJUnFSaVc0Yko1aUdNMlFxTTBPWUJxQTZpSVJwX0hFZ2F4Q3huZWM3QjNrdjQ5YXJPV2QwWGQ5N1hiTkZycXNta3JXeHZ4QWVDeUp1MER6ZFZZbVJ3NGxfZjNHbkhNbUZhVWRwWVVoUGlTd2lmSjRTT2dSRE9jX3BxZVhpMXBNLUd1WjFNUV9IRTRjNk5oWGRyN2JISmZBWUVlenJpT3VaWHV1Zw?oc=5",
-        "summary": "Todd Blanche discusses Supreme Court and AI during White House press briefing NBC News Todd Blanche discusses Supreme Court and AI during White House press briefing - NBC News",
-        "published": "Tue, 15 Sep 2026 23:13:35 GMT",
-        "published_kst": "2026-09-16T08:13:35+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Iran war has cost on average $246 million per day in its first five months, CBO finds",
-        "url": "https://www.cnbc.com/2026/09/15/cbo-iran-war-cost-pentagon-weapons.html",
-        "summary": "CBO estimates the Iran war cost the Pentagon $38.1 billion through Aug. 1 and could cost another $2 billion to $3 billion each additional month.",
-        "published": "Tue, 15 Sep 2026 22:33:45 GMT",
-        "published_kst": "2026-09-16T07:33:45+09:00",
+        "title": "UK inflation jumps to 3.1% as energy costs soar",
+        "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+        "summary": "The reading comes just hours before the Bank of England updates its monetary policy. UK inflation jumps to 3.1% as energy costs soar",
+        "published": "Wed, 16 Sep 2026 06:40:44 GMT",
+        "published_kst": "2026-09-16T15:40:44+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$246",
-          "$38.1",
-          "$2",
-          "$3"
+          "3.1%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-        "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-        "summary": "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development. Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-        "published": "Tue, 15 Sep 2026 22:17:47 GMT",
-        "published_kst": "2026-09-16T07:17:47+09:00",
+        "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
+        "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
+        "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
+        "published": "Wed, 16 Sep 2026 06:38:40 GMT",
+        "published_kst": "2026-09-16T15:38:40+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "CNBC Daily Open: The rise of the White House contrarian trade - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNWpwWWJoMWx4VnNUaElmSEl3b0tXVkdmYXMtSmlFSHlDT0JyY2dlSzMwaURSck9ERi1JTExzNmw1TGV4XzV3UDh1YTU3MVNpR0R3WDBTYXhvWklqUWQwN2o3YUdmTUU4Sy1tUzJlVUoxeDjSAXhBVV95cUxOS180MDVBVlViSksydnZESWlVUk1kNFZvV3ZEVmh1NmdmemkxYzc0ME9BMnFPR1l0TUVEUDlETXRUNU1vS3dkX0E0R0FaTlZOcmNuSlFQUy1lLUdlbFNobnpyTHB5V1c1TXdWbEl5cGJ1NG9BTDZCVFY?oc=5",
+        "summary": "CNBC Daily Open: The rise of the White House contrarian trade CNBC CNBC Daily Open: The rise of the White House contrarian trade - CNBC",
+        "published": "Wed, 16 Sep 2026 06:25:29 GMT",
+        "published_kst": "2026-09-16T15:25:29+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Why a US-China AI regulation deal is nowhere in sight - Asia Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmppZkFOanBnV2VJNWdKaFNnbXRRclk1WkQ2Vkpmb3RUbV9kX0lRU3FzMEZlS0tmN0lWZHFSbjcteGxjNG0wczJlWGZoZzB1ZVhHX2RhdE9EY3poNjVycVFKOGxTWEE2THlmbjVqSk1oeFlzLVJtbkxTdmxYQzJLRnpxUXJoVmIyUm0zXw?oc=5",
+        "summary": "Why a US-China AI regulation deal is nowhere in sight Asia Times Why a US-China AI regulation deal is nowhere in sight - Asia Times",
+        "published": "Wed, 16 Sep 2026 05:45:29 GMT",
+        "published_kst": "2026-09-16T14:45:29+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Fed should defy Donald Trump with rate rise, top economists say - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVdob3AzUDBiZzZLRzFyQnZSZVhuTUxaT0ptay10LWtILU10RVkwTFZpa3dpRlQ1SUxzTm9GX0w5R1JHTkJXQ0MyYWlRUG5rRlc4Q3I1VGlocVhfU2RWQ0Z5TUFSM3J6ZjJ1SXRDM1dBWVBZOXQ3YnlBUkFaUTZzRlNFUTQ?oc=5",
+        "summary": "Fed should defy Donald Trump with rate rise, top economists say Financial Times Fed should defy Donald Trump with rate rise, top economists say - Financial Times",
+        "published": "Wed, 16 Sep 2026 04:01:48 GMT",
+        "published_kst": "2026-09-16T13:01:48+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -78,75 +75,83 @@
     ],
     "kr": [
       {
-        "title": "미 국채보다 주식 산 외국인…‘안전자산’ 위상 흔들 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lYno1djNTX24zWTR1VXl3ZVJZdzg5OXVUcVh6UkxLSHlDOExCUGMtbi1WMm5xWWlxelJmSGNqU1Y5OTkxQnBZTHk5SmdiLTJsU3ZhSUNlS0FNUQ?oc=5",
-        "summary": "미 국채보다 주식 산 외국인…‘안전자산’ 위상 흔들 한국경제 미 국채보다 주식 산 외국인…‘안전자산’ 위상 흔들 - 한국경제",
-        "published": "Tue, 15 Sep 2026 23:42:25 GMT",
-        "published_kst": "2026-09-16T08:42:25+09:00",
+        "title": "코스피, 반등해 6700선 회복…삼전닉스 급등 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54YWdGRDMyclRLZ2J4SThxR3czMklIMWtZa1QxMUZGNnJjcG02VkhwU0l5YVBzclowVzlsa1p6UDFHOWU2NDZzdWJLQzVuY09VNGhCZ20yNElaUQ?oc=5",
+        "summary": "코스피, 반등해 6700선 회복…삼전닉스 급등 한국경제 코스피, 반등해 6700선 회복…삼전닉스 급등 - 한국경제",
+        "published": "Wed, 16 Sep 2026 06:40:28 GMT",
+        "published_kst": "2026-09-16T15:40:28+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "6700"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "반도체 낙수효과 안보이는 한국경제… ‘임금 정체’ ‘청년고용 악화’ ‘국내투자 미흡’ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjV4VGdBeUNjeHA4WFlHYm12dnFVdVdFbU9HQnFDanl3Q3YyZEVCZFBHLXpiOVZzNFF3allwVHgwSFJNbEZ5dk1xRUwtN0pBMndwNWRnRUZhSG9zc0lCZXlGN3FMc1E4V3VCNHBJQlEwY09PMVVxMlpCNnE4TEJ2WEVJQ28ydw?oc=5",
+        "summary": "반도체 낙수효과 안보이는 한국경제… ‘임금 정체’ ‘청년고용 악화’ ‘국내투자 미흡’ Chosunbiz 반도체 낙수효과 안보이는 한국경제… ‘임금 정체’ ‘청년고용 악화’ ‘국내투자 미흡’ - Chosunbiz",
+        "published": "Wed, 16 Sep 2026 06:23:00 GMT",
+        "published_kst": "2026-09-16T15:23:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "추석 연휴, 조선호텔에서 보낼까? - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1TkplMW9iSGdqV3dOc2pUWlJiRUlLZFpqLUczd0lqbjB1cVVtMEdFcWNtMDdwWEJyZFFnRmUwZDZUUFFKa2UyajZNSnZWazlubGRoT0h2aE9rZw?oc=5",
-        "summary": "한국경제 추석 연휴, 조선호텔에서 보낼까?",
-        "published": "Tue, 15 Sep 2026 23:36:06 GMT",
-        "published_kst": "2026-09-16T08:36:06+09:00",
+        "title": "'헤지도 어려운데'...증권사 보유 채권 중 40%는 회사채 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjaXVvRG9OWTZ1aG5iMGdjLVhDc2J3MTNvaC02U2lBQmg3LVI5RnRUel9OOUZhQXZXT1BNbzRCNVdlcGs1cUNVaGo1bm01RWljZnNKQmxhRUlLZw?oc=5",
+        "summary": "'헤지도 어려운데'...증권사 보유 채권 중 40%는 회사채 한국경제 '헤지도 어려운데'...증권사 보유 채권 중 40%는 회사채 - 한국경제",
+        "published": "Wed, 16 Sep 2026 06:13:49 GMT",
+        "published_kst": "2026-09-16T15:13:49+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "루이비통 가방 대신 로레알 립스틱 사더니…시가총액 넘었다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FcHVURnNXLXNadVFKdTZXM1N5cUI5TnhXb0RUcjFCRFJsa1lzUkFvRzF4OFB2SmJFQ2ZRX0NzNmVuaHBkSkVzTEJ1cEtJcjR2eWhFLWlZSnpKZw?oc=5",
-        "summary": "루이비통 가방 대신 로레알 립스틱 사더니…시가총액 넘었다 한국경제 루이비통 가방 대신 로레알 립스틱 사더니…시가총액 넘었다 - 한국경제",
-        "published": "Tue, 15 Sep 2026 23:35:40 GMT",
-        "published_kst": "2026-09-16T08:35:40+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "40%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Inside the automotive supply chain: Empirical evidence from Italian business-to-business trade data - CEPR",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGJNZWZ4UmNtMjBNN3Z3LU5VS0xZNG9rT0txaE5pNEU3SWtRSnp0dDg3cld5bDN6bjAyT3lyVGIxd1dnQnlpV2Z1Q3JrLVROVDNZd1U4TEtZcWpRbmx3U0s3cHNfR2JuMm1YRXZERkxyWS1XRXpra0xpT1Biell2YkJKWGE3WjY5bjdJVFVycmJsb0hxRDlSOFluT0t3R0QxVWVFYjBKS3JHd0tLZG1lTjR3?oc=5",
-        "summary": "Inside the automotive supply chain: Empirical evidence from Italian business-to-business trade data CEPR Inside the automotive supply chain: Empirical evidence from Italian business-to-business trade data - CEPR",
-        "published": "Tue, 15 Sep 2026 23:27:15 GMT",
-        "published_kst": "2026-09-16T08:27:15+09:00",
+        "title": "US to Invest $450 Million to Secure Tungsten Supply Chain - mhlnews.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW1ibmt3dm5YOGp4SFdOQzJVcUVvU0VEc2hfY3BXLXRQeTctNkxPTFVwcmkxdXhyLUxDQ2xVVjhLeUxFU256dnZaNkZCR1ljZFYybzdqSk9CbjNGS2o2d1djcmx2c1d3OXhyQjBhLWpQdGRESnVETkFSR2haTFpLckVYS1V3MWg4VldMMkdhQW02VXhXR3VMLUVKbEtSNXNxb3E4OFk4dFA2OXlGYnFsQkhlQ0Y?oc=5",
+        "summary": "US to Invest $450 Million to Secure Tungsten Supply Chain mhlnews.com US to Invest $450 Million to Secure Tungsten Supply Chain - mhlnews.com",
+        "published": "Wed, 16 Sep 2026 06:10:18 GMT",
+        "published_kst": "2026-09-16T15:10:18+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$450"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - Cyprus Shipping News",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTIzem1OcTNsaEhBTmQ3bkJRcDg1bjRUS2F3Y2ZNSXdmM250VDhhYUw0V1R3ZGxpalNwX3BkN1lrLVppVC1DZFFuQW5EZUpSOGNCaGNGalRzTXdILVNXVmM2a2NtR0NJaENUNlpNbVZRQmttRUtibzlqTHFqQUlERDA4RldHUmlGTGNFbjloM2xQNGhBR3VMNGhBbDNyYkRUNG5HLUxwUTdicWRQbkVYRlhodjRiZWd0VFE?oc=5",
+        "summary": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain Cyprus Shipping News VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - Cyprus Shipping News",
+        "published": "Wed, 16 Sep 2026 02:46:31 GMT",
+        "published_kst": "2026-09-16T11:46:31+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The aluminum supply chain in Mexico is undergoing changes - mexico-now.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFRiQllKQUp1Zkh5Snd3SE12MW13MGYyZ0Y4OXFRaUhCVXJFdWFsTjBzOHJ2T0tzVEtOeU5RemhpaFgzVGtNYV83RVZfY2EtNzJFckg1Z1VzSjBsX1lmUHBTS1UyM0MzVjJjMWNxNHppMldGRDUwV1hLN04tNERnMzBLeU9IZUZ6?oc=5",
-        "summary": "The aluminum supply chain in Mexico is undergoing changes mexico-now.com The aluminum supply chain in Mexico is undergoing changes - mexico-now.com",
-        "published": "Tue, 15 Sep 2026 21:27:16 GMT",
-        "published_kst": "2026-09-16T06:27:16+09:00",
+        "title": "100% tariffs on India over Russian oil? The US Congress vote that has put New Delhi in focus - Open Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlhNclBGc3ZZendfR0VvamJnNi1zZ004eHYzT1FZa0lISUtNbDEyeFRKcjRic3NONS1lMXJJNlVwdkNtUWUwV2dadEdtUmhYS2NYeUJaR0NVVlVzSkdmNm1feVJ6d0sxdGNCa015MXozM1lOaDVrZHNBY2NkWDQ5eWlMUjBpRDZrZU1leGxyUUgzT2V1YVRmWXdKTHJVV0hiUGxHbFZBWE1iUk9oSDVqZUFIMEZvbVFhZzg0RXZZVGVtZw?oc=5",
+        "summary": "The US Congress vote that has put New Delhi in focus Open Magazine 100% tariffs on India over Russian oil? 100% tariffs on India over Russian oil?",
+        "published": "Wed, 16 Sep 2026 02:42:02 GMT",
+        "published_kst": "2026-09-16T11:42:02+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How Supply Chain Disruptions Can Impact Retail Inventory and Risk - Acrisure",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CTXFKZmItYUdybFAxY1hDTmtZZENhd1BucDFXQTJxZ2hUblVheWJlS1BUNnk3dzBYNWlDV2JtVFBBMWJkRTVsMjNGT0VGRjhUVHhjaVdGdm05WlctdGNZd2FuSWYyaU5qaHk3Y1RvdUhRb0E?oc=5",
-        "summary": "How Supply Chain Disruptions Can Impact Retail Inventory and Risk Acrisure How Supply Chain Disruptions Can Impact Retail Inventory and Risk - Acrisure",
-        "published": "Tue, 15 Sep 2026 20:06:03 GMT",
-        "published_kst": "2026-09-16T05:06:03+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "100%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety. Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown / 미 국채보다 주식 산 외국인…‘안전자산’ 위상 흔들 한국경제 미 국채보다 주식 산 외국인…‘안전자산’ 위상 흔들 - 한국경제 / Inside the automotive supply chain: Empirical evidence from Italian business-to-business trade data CEPR Inside the automotive supply chain: Empirical evidence from Italian business-to-business trade data - CEPR",
+  "wrap_summary": "The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows. / 코스피, 반등해 6700선 회복…삼전닉스 급등 한국경제 코스피, 반등해 6700선 회복…삼전닉스 급등 - 한국경제 / US to Invest $450 Million to Secure Tungsten Supply Chain mhlnews.com US to Invest $450 Million to Secure Tungsten Supply Chain - mhlnews.com",
   "invest_summary": ""
 }
