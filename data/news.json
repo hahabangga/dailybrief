@@ -1,109 +1,110 @@
 {
   "date": "2026-09-16",
-  "generated_at_utc": "2026-09-16T10:20:08Z",
-  "cutoff_kst": "2026-09-16T19:20:00+09:00",
+  "generated_at_utc": "2026-09-16T14:44:37Z",
+  "cutoff_kst": "2026-09-16T23:44:00+09:00",
   "regions": {
     "us": [
-      {
-        "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
-        "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
-        "summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business. Intel, SK Hynix shares jump on report they're discussing U.S.",
-        "published": "Wed, 16 Sep 2026 10:15:51 GMT",
-        "published_kst": "2026-09-16T19:15:51+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US military prepares ceremonial welcome for Xi Jinping at the White House - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTBlRThHTUR5OGxiNXBCSFhDM0xXUE94RnhpenRMSjlsUmdKVks3QkFuTGV4Q0JtRDducWtVU2o1d3g3OE5YU082VHhpRE9sSHJ2NWpYLTN3NHBMcXBYRjFfbFVYRHZYLVluV19CRTVyUjFfWlhoUndmeEJZMkFqb3lWamJnUGlHMmpzUEo1R3lpT0RTWXB6OGxnYVFJNm1RY3JVMHJrSm5WNVRmTnFqZE1tUUI3WVM3aTRWaNIBvAFBVV95cUxQX3dfZFA2MDlrb0VyUnFKMzVBOXQ3UUUzT1FLOGktNzFRdXdWeHprM0x3Wm1OWG1HQW1iVTh1b05qRGxNYXVhS1RVUXBJYjdvRFg0QXhuc0d3blBnSUMxQ3psZmpFM21SYnJmZkd3UGYtVFFJQ2UxT082dzl5V2tkdVBMRTA5akZ4dFVZWG01X29LVk5haFpuN1NKY3NvTFNkT0wzTnBEVTRkakcyVzhFWmtHSDd2d3ppYS1QYg?oc=5",
-        "summary": "US military prepares ceremonial welcome for Xi Jinping at the White House South China Morning Post US military prepares ceremonial welcome for Xi Jinping at the White House - South China Morning Post",
-        "published": "Wed, 16 Sep 2026 10:03:37 GMT",
-        "published_kst": "2026-09-16T19:03:37+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Why is the White House being so weird about Natalie Harp again? | Arwa Mahdawi - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQi1RdWRHdjZIbFpXUmV6cS1fODJ1VTBrRHc1T2hmUUFnYnJKVHpaSjFzanlka1dCR1RfTFVreENZOVd2WDVDTFdvRjJGS2xNTHBoNzV0Y1FTd1pKUlhCS0lJVHczNFlEWmUtVklXaER4bFY1YnhxamRhRzgtTU5pVWxDRVVMazh3UTJxSWFKNFpxM05JZU5WbnR6bjdvUHFyUTE4ZmtjTjl5d0hJektETG5YWHA2UHM?oc=5",
-        "summary": "| Arwa Mahdawi The Guardian Why is the White House being so weird about Natalie Harp again? | Arwa Mahdawi - The Guardian",
-        "published": "Wed, 16 Sep 2026 10:01:00 GMT",
-        "published_kst": "2026-09-16T19:01:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "People in these 30 states could receive $500 from feds: Who qualifies? When will the money arrive? - Cleveland.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFRSVmQ4Z1dyVHdXdDhxT3h6QzlWdVNoYTM5ODFvOE8wbnlkaGFXT0pXOERYdUxfdFFkalpZSkhsVDRaNndMZHM5bUFwbC12eWZkN05kMk8zbC05RkJKdU1oUlhnV2hTZ0d1RVN5SnRON3p6RHk5VG8yRG9PU3dtYU5ReVVPUVR0SVk3OWJaemE5YkhYcFpxTlRrV2pKYTV0aE5sRmFFNlNQOFYwa1EyLXNhM0RzRlE5UmlEU05YbnMwQUFoeE5ZMnNmNzI2WjJtbGU1UNIB6AFBVV95cUxPdW1FQkF5NUZjWGVET2hWMVBwOEdOMS1MZUU5aDZwVXNRZ0xuZDhPVk0taS1ULXhOcEpDWkNObmFxcVNIUDgxZXdXSTFXYWVVaktUTzR3RnMzc1NIOGhRTTZRT0hlNXVnLXd6WGZ0ZGxGTTJZcjhmTGRiX3plc3ZMNkNlNlJuZTJ0MXVSNkRrQk5rczJhR2dwX2RFZkJMVHBrNHVhYVd3ZmZrNGdFZTJkaG1fbDVneWN2OGVscUFjVHBsTDlwdXJyMkxxNEFFYjdrXzhHN2NzdmRSNHhHdG1jMlJEVEphMFAw?oc=5",
-        "summary": "Cleveland.com People in these 30 states could receive $500 from feds: Who qualifies? When will the money arrive?",
-        "published": "Wed, 16 Sep 2026 10:00:00 GMT",
-        "published_kst": "2026-09-16T19:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$500"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
       {
         "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
         "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
         "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties. Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
-        "published": "Wed, 16 Sep 2026 09:56:51 GMT",
-        "published_kst": "2026-09-16T18:56:51+09:00",
+        "published": "Wed, 16 Sep 2026 14:43:09 GMT",
+        "published_kst": "2026-09-16T23:43:09+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
-        "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
-        "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday. Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
-        "published": "Wed, 16 Sep 2026 08:58:16 GMT",
-        "published_kst": "2026-09-16T17:58:16+09:00",
+        "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+        "url": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+        "summary": "New Zealand's $54 billion pension fund returned 14.2% in the year to June. World's top-performing sovereign wealth fund warns of looming pullback in U.S.",
+        "published": "Wed, 16 Sep 2026 14:31:24 GMT",
+        "published_kst": "2026-09-16T23:31:24+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "5%"
+          "$54",
+          "14.2%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Costco expands Uber Eats delivery partnership to 47 states",
+        "url": "https://www.cnbc.com/2026/09/16/costco-and-uber-partnership.html",
+        "summary": "Uber and Costco announced an expansion of a partnership where Costco members can order delivery from the store on Uber Eats to 47 states, up from 17. Costco expands Uber Eats delivery partnership to 47 states",
+        "published": "Wed, 16 Sep 2026 14:31:09 GMT",
+        "published_kst": "2026-09-16T23:31:09+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Obama mourns death of 'cherished' family dog - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3k2dzlmbE1rRlYwaW0zXzRZdkZKVkNkSFM0alIxOG16cDRKYjdxQTJJWGRYb3hGT1BoRVo4Y2dORFRIWFI3aDZVeHFuMVpIVlktUjlVdVpld01UcXExY1JqWXlrbUgtZVlsZkszRWdkdFFCNFU5QzdsbEFWNTJ0VXFvd3Rja2dXcjM5bXZQd3h2TDg?oc=5",
+        "summary": "Obama mourns death of 'cherished' family dog USA Today Obama mourns death of 'cherished' family dog - USA Today",
+        "published": "Wed, 16 Sep 2026 14:13:00 GMT",
+        "published_kst": "2026-09-16T23:13:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Neal on the House Floor: The American People Can’t Afford Congress to Hand Trump More Tariff Power - Ways and Means - Democrats | (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWVFU0c2dXpfanhOOTNYR0tISlF5VS1nN0Y3czRJOFFvRVZ5RVI3M0d5S0pQczRFM3BmVkJxNlhaMmp0WjRHZ2RVQkUwUUFYdXNDVGFweGhKMnFvRnJocnFReHdmaVIxTGYxVkgyclZvd2UyODFMSkpndXFvNVJhTlU3OHo3cEtRZy1YX2xLM29jX3d0dWY5S1hjcnBrcmpEZ3Y3OTc2Q3JLaW1ycHVXcFg3UngxM1dyMVNWTVdqTS1pQ1U4SUM0RlJwNzBfTV9zNkVOMg?oc=5",
+        "summary": "Neal on the House Floor: The American People Can’t Afford Congress to Hand Trump More Tariff Power Ways and Means - Democrats | (.gov) Neal on the House Floor: The American People Can’t Afford Congress to Hand Trump More Tariff Power - Ways and Means - Democrats | (.gov)",
+        "published": "Wed, 16 Sep 2026 13:54:13 GMT",
+        "published_kst": "2026-09-16T22:54:13+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "ActBlue, the Democratic fundraising machine under GOP investigation, is fighting back - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmw1Y2lvcmFlSHNNa2g3MVIwTjRJam9oRUhFbVZuRW5STi1kMVUtZGhPZVc1bmttNEdwNzVyVEp4MlVOSlNnQXN2QTFjc3daYXZzTVBYT3hqMTVBd1R0QV9iU2xYQXFyYkRKdFI0T3pIVVV4WS1LYW9sWW0xRFdqc25RREUzdm5UaFk1aC1qRTdPRjlCNldpV2VjSVk5cDhJUTJpMVBCakxLMlFwNG1kdzJwZmtsRzViNGdkVEhGR21iRFNPRGN3aURiUQ?oc=5",
+        "summary": "ActBlue, the Democratic fundraising machine under GOP investigation, is fighting back The Washington Post ActBlue, the Democratic fundraising machine under GOP investigation, is fighting back - The Washington Post",
+        "published": "Wed, 16 Sep 2026 13:26:30 GMT",
+        "published_kst": "2026-09-16T22:26:30+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "정치를 소비하는 법 [똑똑! 한국사회] - 한겨레",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NQXpOdC15MkFDZnAtOXpWQTJwNnZTbEdBOTJ3RkM2OEtBSVdNcEZJanlhOFBwMXdlNWZZdXNGeTdHVzcxdjNOUlc3X3oxRlo2QUNjNW51b2E0RkNwOFhPZmJ5WlItQQ?oc=5",
-        "summary": "한국사회] 한겨레 정치를 소비하는 법 [똑똑!",
-        "published": "Wed, 16 Sep 2026 10:16:00 GMT",
-        "published_kst": "2026-09-16T19:16:00+09:00",
+        "title": "美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00QU5KT3ZTZ1NQRWozcjBraGUta1NvSzhVTS11ZW9wY1NRS2RIQk1hZkVqWHZFXzc3VzdFTURTaG83enBhTE5CQlNGc29yUGJCWXJsaHFsTWtJUQ?oc=5",
+        "summary": "美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 한국경제 美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 - 한국경제",
+        "published": "Wed, 16 Sep 2026 13:44:30 GMT",
+        "published_kst": "2026-09-16T22:44:30+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "1.2%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "연료전지주 일제히 강세…AI전력난 해결사로 부상 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidlhfQWNUVUtyNnNWY093ZFl5eUY4eDR3MTkyUTBaVmwzY0g1NFlIZEVlOHNlREl4b0U1bmZCdTZLZFZKaE43bmYtZ09IQld6WkxDYnhxZ2d2QQ?oc=5",
+        "summary": "연료전지주 일제히 강세…AI전력난 해결사로 부상 한국경제 연료전지주 일제히 강세…AI전력난 해결사로 부상 - 한국경제",
+        "published": "Wed, 16 Sep 2026 13:13:00 GMT",
+        "published_kst": "2026-09-16T22:13:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbHUzRGZVc0tmMk1NVjV0eTQtcjFvUEU5bHVSQmR5UVdPSEk3TVlOWDJ2c3ZwX3dBVlhYZXQyWTBBd29Cam5vdUJFVFhrNGRleXJtVFdwX0dRZw?oc=5",
-        "summary": "미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미] 한국경제 미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미] - 한국경제",
-        "published": "Wed, 16 Sep 2026 09:58:29 GMT",
-        "published_kst": "2026-09-16T18:58:29+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "국내 첫 에너지 전환 사업…구미 천연가스발전소 준공 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xVjJWMDREOWRjNWE2Y3IzZkswTjJ0Umc3T0ZqN21Ob05xOHFkaTNjVWk3M2NSVlh0SXQxMlJnc1lOLVV1dC0wR3hoNmJ0R1dpWmtmeHVmOFlLUQ?oc=5",
-        "summary": "국내 첫 에너지 전환 사업…구미 천연가스발전소 준공 한국경제 국내 첫 에너지 전환 사업…구미 천연가스발전소 준공 - 한국경제",
-        "published": "Wed, 16 Sep 2026 09:52:34 GMT",
-        "published_kst": "2026-09-16T18:52:34+09:00",
+        "title": "BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aTllMHNZazRHQzEzM01KeWMyRUlTTjNFSVp6a2gybVB0U3kyYjRIeGRxVlNzczMtcklNU3I3RW4xQm5Cb2VZSElmdDVsSER1WENaOVFjVGNkZw?oc=5",
+        "summary": "BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치] 한국경제 BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치] - 한국경제",
+        "published": "Wed, 16 Sep 2026 12:00:54 GMT",
+        "published_kst": "2026-09-16T21:00:54+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +113,33 @@
     ],
     "world": [
       {
-        "title": "Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns - Global Sources",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa3VmUGU0WDhCZWtaYXhMblpKSkdJRGJ6S1htWUpxdnhzQTY4bjRaT0dMSUtpSGU2ejBZenpCMk84OGxobFFHQjJOYjNWRzNkZ0EtNWFGVlBlTExYZ3VncUgzOHRsQ00zUWx6Y1FNLUtvUDhyVFRsbnU5TTFfUWlzRDl5MWxhaEhnSXJYcTVrc1E3U2ZVN093d3lyQ3c0LTNIWWczblk0NzFhSGxfalh6aXBHX3NackFvUFpDUDk4aUg5OGhmSzQ4MWRiWGFWMFE1QlgtTUpjd3A3X0ZIMlFDUWlzU0pBMHVjQjVCNzVZWEJwSDFpdlo5bw?oc=5",
-        "summary": "Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns Global Sources Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns - Global Sources",
-        "published": "Wed, 16 Sep 2026 10:12:11 GMT",
-        "published_kst": "2026-09-16T19:12:11+09:00",
+        "title": "Medtronic taps Zimmer Biomet executive as its new supply chain VP - Medical Design & Outsourcing",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzhLWmRnMWtfRlhFbVE4SG51WFprbFRmeWpPTWRjMlZ6cFBRRTQ5QzRKdjFCMWlBUEU5ME0xUmlwQzBmQXJJZ2tlZ1RmVnp5emttZHlGRE0tdnR2MkczQlE1bDg2dlRVWlc3d2tJUFZFSzBsZXJYZDluRzA0MzVvUGpFVHVTdkZXYUtUTlZDNkhITkpPRkl0SFdYS3BHTGd0d1dtazFRWjlkdGpsbC1N?oc=5",
+        "summary": "Medtronic taps Zimmer Biomet executive as its new supply chain VP Medical Design & Outsourcing Medtronic taps Zimmer Biomet executive as its new supply chain VP - Medical Design & Outsourcing",
+        "published": "Wed, 16 Sep 2026 14:29:36 GMT",
+        "published_kst": "2026-09-16T23:29:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "DHL Supply Chain expands presence in Colombia with Open Market acquisition - Parcel and Postal Technology International",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbzhkd19sLUZkUVlpMThVaVlsNTZyT1cwV1FCVG5LbXlFUVlOMUpvUExlTzhLQ3dJMGhCVVpYeGVramVENkJQYVhLRnl5ZUhBM1BDRndnTTFwc1ZicXpwX25yajNlSjI0QXd3THdjZ0N1UGtTMGptS2h4WTNsTFp1OG1vMDI0R2pGZW80UWMxT1BCcFpSc3c2cFZ2OUxlMkloemVsZEJtY0NsM1E4QllDa2FsczVmMVFQOE5OZ2cxczBlX0swZTBxZFdDclNRazM0bTRiV0hYY2lfQmZnSnh0S2VXdw?oc=5",
-        "summary": "DHL Supply Chain expands presence in Colombia with Open Market acquisition Parcel and Postal Technology International DHL Supply Chain expands presence in Colombia with Open Market acquisition - Parcel and Postal Technology International",
-        "published": "Wed, 16 Sep 2026 10:03:23 GMT",
-        "published_kst": "2026-09-16T19:03:23+09:00",
+        "title": "Rewiring the consumer supply chain: An AI use case roadmap - Supply Chain Management Review",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSjRMX2YyaGJVeDd0T0pHcW5NN1htQ0s3Z2NjTDNTbVBFb3R5a0FMNmN2c1d1LWJMeWNrVUxiV3ZhSFNKTk5pQ3JMdmpXWW0xQUhBRTE1dWxPZUFtYThEelQzSjZhbFFhb1ZwNWtScWFfaFVsYi1nM0ZqM0FmUzRtam9wbkhQYmhxbDdjWnBHOA?oc=5",
+        "summary": "Rewiring the consumer supply chain: An AI use case roadmap Supply Chain Management Review Rewiring the consumer supply chain: An AI use case roadmap - Supply Chain Management Review",
+        "published": "Wed, 16 Sep 2026 14:15:00 GMT",
+        "published_kst": "2026-09-16T23:15:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "India’s Manufacturing Moment Under Pressure From Supply Chain, Power & Policy Hurdles - BW Disrupt",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNak5hU1lTM05zSUtxWDlpeW9ERFNFMF9CWGdjbDE5djFLNXpsMlljSTNHX2QxbGpjaVJwR3FMbVh0VHBoTk4td1hlTmVXd3Y3OGs1aXdiREptaUdXQlJreVpKcEVTQUFFZVdhWUoxeElPMVNsOWRrX0gzejN4MHY1cjdIQlJ3NnVPSmZpS0ZfUXhuMDF3N1AzN3BrVVlxRl9LRkUxeUo3S2VzSl91VmluNElrcDdtWDVtSWJPTmxnM0c?oc=5",
-        "summary": "India’s Manufacturing Moment Under Pressure From Supply Chain, Power & Policy Hurdles BW Disrupt India’s Manufacturing Moment Under Pressure From Supply Chain, Power & Policy Hurdles - BW Disrupt",
-        "published": "Wed, 16 Sep 2026 09:41:41 GMT",
-        "published_kst": "2026-09-16T18:41:41+09:00",
+        "title": "Why ePost Global Won the Global Trade and Logistics Award - supplychaindigital.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3dnMkpUOEc1cVNYMHlpQUNlaFAtbmdSaDdPX1dQUXgzS2Y4dnluZUdaTVktRkZBTlpyZHcxMjZrZkk5UTdHa29QUDBSMDJoanJGYVdpRGpkUzRYcTVfTUFKZ1dqYXExcHY1MlYyUE8tMzBLemUxLWlpWVdBNS1lODVIWUF6bzM4cGFSM2xSSHo3WHc1cTluOQ?oc=5",
+        "summary": "Why ePost Global Won the Global Trade and Logistics Award supplychaindigital.com Why ePost Global Won the Global Trade and Logistics Award - supplychaindigital.com",
+        "published": "Wed, 16 Sep 2026 14:10:13 GMT",
+        "published_kst": "2026-09-16T23:10:13+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business. Intel, SK Hynix shares jump on report they're discussing U.S. / 한국사회] 한겨레 정치를 소비하는 법 [똑똑! / Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns Global Sources Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns - Global Sources",
+  "wrap_summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties. Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies / 美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 한국경제 美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 - 한국경제 / Medtronic taps Zimmer Biomet executive as its new supply chain VP Medical Design & Outsourcing Medtronic taps Zimmer Biomet executive as its new supply chain VP - Medical Design & Outsourcing",
   "invest_summary": ""
 }
