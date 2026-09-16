@@ -1,157 +1,151 @@
 {
   "date": "2026-09-16",
-  "generated_at_utc": "2026-09-16T06:56:07Z",
-  "cutoff_kst": "2026-09-16T15:56:00+09:00",
+  "generated_at_utc": "2026-09-16T10:20:08Z",
+  "cutoff_kst": "2026-09-16T19:20:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-        "url": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
-        "summary": "The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows.",
-        "published": "Wed, 16 Sep 2026 06:53:09 GMT",
-        "published_kst": "2026-09-16T15:53:09+09:00",
+        "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
+        "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
+        "summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business. Intel, SK Hynix shares jump on report they're discussing U.S.",
+        "published": "Wed, 16 Sep 2026 10:15:51 GMT",
+        "published_kst": "2026-09-16T19:15:51+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "UK inflation jumps to 3.1% as energy costs soar",
-        "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
-        "summary": "The reading comes just hours before the Bank of England updates its monetary policy. UK inflation jumps to 3.1% as energy costs soar",
-        "published": "Wed, 16 Sep 2026 06:40:44 GMT",
-        "published_kst": "2026-09-16T15:40:44+09:00",
-        "domain": "cnbc.com",
+        "title": "US military prepares ceremonial welcome for Xi Jinping at the White House - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcTBlRThHTUR5OGxiNXBCSFhDM0xXUE94RnhpenRMSjlsUmdKVks3QkFuTGV4Q0JtRDducWtVU2o1d3g3OE5YU082VHhpRE9sSHJ2NWpYLTN3NHBMcXBYRjFfbFVYRHZYLVluV19CRTVyUjFfWlhoUndmeEJZMkFqb3lWamJnUGlHMmpzUEo1R3lpT0RTWXB6OGxnYVFJNm1RY3JVMHJrSm5WNVRmTnFqZE1tUUI3WVM3aTRWaNIBvAFBVV95cUxQX3dfZFA2MDlrb0VyUnFKMzVBOXQ3UUUzT1FLOGktNzFRdXdWeHprM0x3Wm1OWG1HQW1iVTh1b05qRGxNYXVhS1RVUXBJYjdvRFg0QXhuc0d3blBnSUMxQ3psZmpFM21SYnJmZkd3UGYtVFFJQ2UxT082dzl5V2tkdVBMRTA5akZ4dFVZWG01X29LVk5haFpuN1NKY3NvTFNkT0wzTnBEVTRkakcyVzhFWmtHSDd2d3ppYS1QYg?oc=5",
+        "summary": "US military prepares ceremonial welcome for Xi Jinping at the White House South China Morning Post US military prepares ceremonial welcome for Xi Jinping at the White House - South China Morning Post",
+        "published": "Wed, 16 Sep 2026 10:03:37 GMT",
+        "published_kst": "2026-09-16T19:03:37+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Why is the White House being so weird about Natalie Harp again? | Arwa Mahdawi - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQi1RdWRHdjZIbFpXUmV6cS1fODJ1VTBrRHc1T2hmUUFnYnJKVHpaSjFzanlka1dCR1RfTFVreENZOVd2WDVDTFdvRjJGS2xNTHBoNzV0Y1FTd1pKUlhCS0lJVHczNFlEWmUtVklXaER4bFY1YnhxamRhRzgtTU5pVWxDRVVMazh3UTJxSWFKNFpxM05JZU5WbnR6bjdvUHFyUTE4ZmtjTjl5d0hJektETG5YWHA2UHM?oc=5",
+        "summary": "| Arwa Mahdawi The Guardian Why is the White House being so weird about Natalie Harp again? | Arwa Mahdawi - The Guardian",
+        "published": "Wed, 16 Sep 2026 10:01:00 GMT",
+        "published_kst": "2026-09-16T19:01:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "People in these 30 states could receive $500 from feds: Who qualifies? When will the money arrive? - Cleveland.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFRSVmQ4Z1dyVHdXdDhxT3h6QzlWdVNoYTM5ODFvOE8wbnlkaGFXT0pXOERYdUxfdFFkalpZSkhsVDRaNndMZHM5bUFwbC12eWZkN05kMk8zbC05RkJKdU1oUlhnV2hTZ0d1RVN5SnRON3p6RHk5VG8yRG9PU3dtYU5ReVVPUVR0SVk3OWJaemE5YkhYcFpxTlRrV2pKYTV0aE5sRmFFNlNQOFYwa1EyLXNhM0RzRlE5UmlEU05YbnMwQUFoeE5ZMnNmNzI2WjJtbGU1UNIB6AFBVV95cUxPdW1FQkF5NUZjWGVET2hWMVBwOEdOMS1MZUU5aDZwVXNRZ0xuZDhPVk0taS1ULXhOcEpDWkNObmFxcVNIUDgxZXdXSTFXYWVVaktUTzR3RnMzc1NIOGhRTTZRT0hlNXVnLXd6WGZ0ZGxGTTJZcjhmTGRiX3plc3ZMNkNlNlJuZTJ0MXVSNkRrQk5rczJhR2dwX2RFZkJMVHBrNHVhYVd3ZmZrNGdFZTJkaG1fbDVneWN2OGVscUFjVHBsTDlwdXJyMkxxNEFFYjdrXzhHN2NzdmRSNHhHdG1jMlJEVEphMFAw?oc=5",
+        "summary": "Cleveland.com People in these 30 states could receive $500 from feds: Who qualifies? When will the money arrive?",
+        "published": "Wed, 16 Sep 2026 10:00:00 GMT",
+        "published_kst": "2026-09-16T19:00:00+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "3.1%"
+          "$500"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-        "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-        "summary": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
-        "published": "Wed, 16 Sep 2026 06:38:40 GMT",
-        "published_kst": "2026-09-16T15:38:40+09:00",
+        "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+        "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+        "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties. Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+        "published": "Wed, 16 Sep 2026 09:56:51 GMT",
+        "published_kst": "2026-09-16T18:56:51+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CNBC Daily Open: The rise of the White House contrarian trade - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KNWpwWWJoMWx4VnNUaElmSEl3b0tXVkdmYXMtSmlFSHlDT0JyY2dlSzMwaURSck9ERi1JTExzNmw1TGV4XzV3UDh1YTU3MVNpR0R3WDBTYXhvWklqUWQwN2o3YUdmTUU4Sy1tUzJlVUoxeDjSAXhBVV95cUxOS180MDVBVlViSksydnZESWlVUk1kNFZvV3ZEVmh1NmdmemkxYzc0ME9BMnFPR1l0TUVEUDlETXRUNU1vS3dkX0E0R0FaTlZOcmNuSlFQUy1lLUdlbFNobnpyTHB5V1c1TXdWbEl5cGJ1NG9BTDZCVFY?oc=5",
-        "summary": "CNBC Daily Open: The rise of the White House contrarian trade CNBC CNBC Daily Open: The rise of the White House contrarian trade - CNBC",
-        "published": "Wed, 16 Sep 2026 06:25:29 GMT",
-        "published_kst": "2026-09-16T15:25:29+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Why a US-China AI regulation deal is nowhere in sight - Asia Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmppZkFOanBnV2VJNWdKaFNnbXRRclk1WkQ2Vkpmb3RUbV9kX0lRU3FzMEZlS0tmN0lWZHFSbjcteGxjNG0wczJlWGZoZzB1ZVhHX2RhdE9EY3poNjVycVFKOGxTWEE2THlmbjVqSk1oeFlzLVJtbkxTdmxYQzJLRnpxUXJoVmIyUm0zXw?oc=5",
-        "summary": "Why a US-China AI regulation deal is nowhere in sight Asia Times Why a US-China AI regulation deal is nowhere in sight - Asia Times",
-        "published": "Wed, 16 Sep 2026 05:45:29 GMT",
-        "published_kst": "2026-09-16T14:45:29+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Fed should defy Donald Trump with rate rise, top economists say - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVdob3AzUDBiZzZLRzFyQnZSZVhuTUxaT0ptay10LWtILU10RVkwTFZpa3dpRlQ1SUxzTm9GX0w5R1JHTkJXQ0MyYWlRUG5rRlc4Q3I1VGlocVhfU2RWQ0Z5TUFSM3J6ZjJ1SXRDM1dBWVBZOXQ3YnlBUkFaUTZzRlNFUTQ?oc=5",
-        "summary": "Fed should defy Donald Trump with rate rise, top economists say Financial Times Fed should defy Donald Trump with rate rise, top economists say - Financial Times",
-        "published": "Wed, 16 Sep 2026 04:01:48 GMT",
-        "published_kst": "2026-09-16T13:01:48+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "title": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+        "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+        "summary": "The Federal Reserve is widely expected to hike interest rates on Wednesday. Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+        "published": "Wed, 16 Sep 2026 08:58:16 GMT",
+        "published_kst": "2026-09-16T17:58:16+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "5%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "코스피, 반등해 6700선 회복…삼전닉스 급등 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54YWdGRDMyclRLZ2J4SThxR3czMklIMWtZa1QxMUZGNnJjcG02VkhwU0l5YVBzclowVzlsa1p6UDFHOWU2NDZzdWJLQzVuY09VNGhCZ20yNElaUQ?oc=5",
-        "summary": "코스피, 반등해 6700선 회복…삼전닉스 급등 한국경제 코스피, 반등해 6700선 회복…삼전닉스 급등 - 한국경제",
-        "published": "Wed, 16 Sep 2026 06:40:28 GMT",
-        "published_kst": "2026-09-16T15:40:28+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "6700"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "반도체 낙수효과 안보이는 한국경제… ‘임금 정체’ ‘청년고용 악화’ ‘국내투자 미흡’ - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbjV4VGdBeUNjeHA4WFlHYm12dnFVdVdFbU9HQnFDanl3Q3YyZEVCZFBHLXpiOVZzNFF3allwVHgwSFJNbEZ5dk1xRUwtN0pBMndwNWRnRUZhSG9zc0lCZXlGN3FMc1E4V3VCNHBJQlEwY09PMVVxMlpCNnE4TEJ2WEVJQ28ydw?oc=5",
-        "summary": "반도체 낙수효과 안보이는 한국경제… ‘임금 정체’ ‘청년고용 악화’ ‘국내투자 미흡’ Chosunbiz 반도체 낙수효과 안보이는 한국경제… ‘임금 정체’ ‘청년고용 악화’ ‘국내투자 미흡’ - Chosunbiz",
-        "published": "Wed, 16 Sep 2026 06:23:00 GMT",
-        "published_kst": "2026-09-16T15:23:00+09:00",
+        "title": "정치를 소비하는 법 [똑똑! 한국사회] - 한겨레",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NQXpOdC15MkFDZnAtOXpWQTJwNnZTbEdBOTJ3RkM2OEtBSVdNcEZJanlhOFBwMXdlNWZZdXNGeTdHVzcxdjNOUlc3X3oxRlo2QUNjNW51b2E0RkNwOFhPZmJ5WlItQQ?oc=5",
+        "summary": "한국사회] 한겨레 정치를 소비하는 법 [똑똑!",
+        "published": "Wed, 16 Sep 2026 10:16:00 GMT",
+        "published_kst": "2026-09-16T19:16:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'헤지도 어려운데'...증권사 보유 채권 중 40%는 회사채 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjaXVvRG9OWTZ1aG5iMGdjLVhDc2J3MTNvaC02U2lBQmg3LVI5RnRUel9OOUZhQXZXT1BNbzRCNVdlcGs1cUNVaGo1bm01RWljZnNKQmxhRUlLZw?oc=5",
-        "summary": "'헤지도 어려운데'...증권사 보유 채권 중 40%는 회사채 한국경제 '헤지도 어려운데'...증권사 보유 채권 중 40%는 회사채 - 한국경제",
-        "published": "Wed, 16 Sep 2026 06:13:49 GMT",
-        "published_kst": "2026-09-16T15:13:49+09:00",
+        "title": "미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkbHUzRGZVc0tmMk1NVjV0eTQtcjFvUEU5bHVSQmR5UVdPSEk3TVlOWDJ2c3ZwX3dBVlhYZXQyWTBBd29Cam5vdUJFVFhrNGRleXJtVFdwX0dRZw?oc=5",
+        "summary": "미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미] 한국경제 미국 경제의 조용한 암살자, 인플레이션 [박신영의 월가 아나토미] - 한국경제",
+        "published": "Wed, 16 Sep 2026 09:58:29 GMT",
+        "published_kst": "2026-09-16T18:58:29+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "40%"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "국내 첫 에너지 전환 사업…구미 천연가스발전소 준공 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xVjJWMDREOWRjNWE2Y3IzZkswTjJ0Umc3T0ZqN21Ob05xOHFkaTNjVWk3M2NSVlh0SXQxMlJnc1lOLVV1dC0wR3hoNmJ0R1dpWmtmeHVmOFlLUQ?oc=5",
+        "summary": "국내 첫 에너지 전환 사업…구미 천연가스발전소 준공 한국경제 국내 첫 에너지 전환 사업…구미 천연가스발전소 준공 - 한국경제",
+        "published": "Wed, 16 Sep 2026 09:52:34 GMT",
+        "published_kst": "2026-09-16T18:52:34+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "US to Invest $450 Million to Secure Tungsten Supply Chain - mhlnews.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW1ibmt3dm5YOGp4SFdOQzJVcUVvU0VEc2hfY3BXLXRQeTctNkxPTFVwcmkxdXhyLUxDQ2xVVjhLeUxFU256dnZaNkZCR1ljZFYybzdqSk9CbjNGS2o2d1djcmx2c1d3OXhyQjBhLWpQdGRESnVETkFSR2haTFpLckVYS1V3MWg4VldMMkdhQW02VXhXR3VMLUVKbEtSNXNxb3E4OFk4dFA2OXlGYnFsQkhlQ0Y?oc=5",
-        "summary": "US to Invest $450 Million to Secure Tungsten Supply Chain mhlnews.com US to Invest $450 Million to Secure Tungsten Supply Chain - mhlnews.com",
-        "published": "Wed, 16 Sep 2026 06:10:18 GMT",
-        "published_kst": "2026-09-16T15:10:18+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$450"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - Cyprus Shipping News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeTIzem1OcTNsaEhBTmQ3bkJRcDg1bjRUS2F3Y2ZNSXdmM250VDhhYUw0V1R3ZGxpalNwX3BkN1lrLVppVC1DZFFuQW5EZUpSOGNCaGNGalRzTXdILVNXVmM2a2NtR0NJaENUNlpNbVZRQmttRUtibzlqTHFqQUlERDA4RldHUmlGTGNFbjloM2xQNGhBR3VMNGhBbDNyYkRUNG5HLUxwUTdicWRQbkVYRlhodjRiZWd0VFE?oc=5",
-        "summary": "VIKAND launches VIPHARMA to strengthen global maritime medical supply chain Cyprus Shipping News VIKAND launches VIPHARMA to strengthen global maritime medical supply chain - Cyprus Shipping News",
-        "published": "Wed, 16 Sep 2026 02:46:31 GMT",
-        "published_kst": "2026-09-16T11:46:31+09:00",
+        "title": "Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns - Global Sources",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa3VmUGU0WDhCZWtaYXhMblpKSkdJRGJ6S1htWUpxdnhzQTY4bjRaT0dMSUtpSGU2ejBZenpCMk84OGxobFFHQjJOYjNWRzNkZ0EtNWFGVlBlTExYZ3VncUgzOHRsQ00zUWx6Y1FNLUtvUDhyVFRsbnU5TTFfUWlzRDl5MWxhaEhnSXJYcTVrc1E3U2ZVN093d3lyQ3c0LTNIWWczblk0NzFhSGxfalh6aXBHX3NackFvUFpDUDk4aUg5OGhmSzQ4MWRiWGFWMFE1QlgtTUpjd3A3X0ZIMlFDUWlzU0pBMHVjQjVCNzVZWEJwSDFpdlo5bw?oc=5",
+        "summary": "Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns Global Sources Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns - Global Sources",
+        "published": "Wed, 16 Sep 2026 10:12:11 GMT",
+        "published_kst": "2026-09-16T19:12:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "100% tariffs on India over Russian oil? The US Congress vote that has put New Delhi in focus - Open Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlhNclBGc3ZZendfR0VvamJnNi1zZ004eHYzT1FZa0lISUtNbDEyeFRKcjRic3NONS1lMXJJNlVwdkNtUWUwV2dadEdtUmhYS2NYeUJaR0NVVlVzSkdmNm1feVJ6d0sxdGNCa015MXozM1lOaDVrZHNBY2NkWDQ5eWlMUjBpRDZrZU1leGxyUUgzT2V1YVRmWXdKTHJVV0hiUGxHbFZBWE1iUk9oSDVqZUFIMEZvbVFhZzg0RXZZVGVtZw?oc=5",
-        "summary": "The US Congress vote that has put New Delhi in focus Open Magazine 100% tariffs on India over Russian oil? 100% tariffs on India over Russian oil?",
-        "published": "Wed, 16 Sep 2026 02:42:02 GMT",
-        "published_kst": "2026-09-16T11:42:02+09:00",
+        "title": "DHL Supply Chain expands presence in Colombia with Open Market acquisition - Parcel and Postal Technology International",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbzhkd19sLUZkUVlpMThVaVlsNTZyT1cwV1FCVG5LbXlFUVlOMUpvUExlTzhLQ3dJMGhCVVpYeGVramVENkJQYVhLRnl5ZUhBM1BDRndnTTFwc1ZicXpwX25yajNlSjI0QXd3THdjZ0N1UGtTMGptS2h4WTNsTFp1OG1vMDI0R2pGZW80UWMxT1BCcFpSc3c2cFZ2OUxlMkloemVsZEJtY0NsM1E4QllDa2FsczVmMVFQOE5OZ2cxczBlX0swZTBxZFdDclNRazM0bTRiV0hYY2lfQmZnSnh0S2VXdw?oc=5",
+        "summary": "DHL Supply Chain expands presence in Colombia with Open Market acquisition Parcel and Postal Technology International DHL Supply Chain expands presence in Colombia with Open Market acquisition - Parcel and Postal Technology International",
+        "published": "Wed, 16 Sep 2026 10:03:23 GMT",
+        "published_kst": "2026-09-16T19:03:23+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "100%"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "India’s Manufacturing Moment Under Pressure From Supply Chain, Power & Policy Hurdles - BW Disrupt",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNak5hU1lTM05zSUtxWDlpeW9ERFNFMF9CWGdjbDE5djFLNXpsMlljSTNHX2QxbGpjaVJwR3FMbVh0VHBoTk4td1hlTmVXd3Y3OGs1aXdiREptaUdXQlJreVpKcEVTQUFFZVdhWUoxeElPMVNsOWRrX0gzejN4MHY1cjdIQlJ3NnVPSmZpS0ZfUXhuMDF3N1AzN3BrVVlxRl9LRkUxeUo3S2VzSl91VmluNElrcDdtWDVtSWJPTmxnM0c?oc=5",
+        "summary": "India’s Manufacturing Moment Under Pressure From Supply Chain, Power & Policy Hurdles BW Disrupt India’s Manufacturing Moment Under Pressure From Supply Chain, Power & Policy Hurdles - BW Disrupt",
+        "published": "Wed, 16 Sep 2026 09:41:41 GMT",
+        "published_kst": "2026-09-16T18:41:41+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "The BOJ is expected to hike rates by 25 basis points to a fresh three-decade high, a CNBC survey shows. / 코스피, 반등해 6700선 회복…삼전닉스 급등 한국경제 코스피, 반등해 6700선 회복…삼전닉스 급등 - 한국경제 / US to Invest $450 Million to Secure Tungsten Supply Chain mhlnews.com US to Invest $450 Million to Secure Tungsten Supply Chain - mhlnews.com",
+  "wrap_summary": "The deal could be a big win for Intel which has been looking to gain marquee customers for its manufacturing, or foundry, business. Intel, SK Hynix shares jump on report they're discussing U.S. / 한국사회] 한겨레 정치를 소비하는 법 [똑똑! / Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns Global Sources Elon Musk's Terafab project accelerates US chip manufacturing ambitions amid supply chain concerns - Global Sources",
   "invest_summary": ""
 }
