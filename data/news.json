@@ -1,152 +1,157 @@
 {
-  "date": "2026-09-16",
-  "generated_at_utc": "2026-09-16T14:44:37Z",
-  "cutoff_kst": "2026-09-16T23:44:00+09:00",
+  "date": "2026-09-17",
+  "generated_at_utc": "2026-09-16T17:30:34Z",
+  "cutoff_kst": "2026-09-17T02:30:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
-        "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
-        "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties. Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
-        "published": "Wed, 16 Sep 2026 14:43:09 GMT",
-        "published_kst": "2026-09-16T23:43:09+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
-        "url": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
-        "summary": "New Zealand's $54 billion pension fund returned 14.2% in the year to June. World's top-performing sovereign wealth fund warns of looming pullback in U.S.",
-        "published": "Wed, 16 Sep 2026 14:31:24 GMT",
-        "published_kst": "2026-09-16T23:31:24+09:00",
+        "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+        "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
+        "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday. 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
+        "published": "Wed, 16 Sep 2026 17:29:19 GMT",
+        "published_kst": "2026-09-17T02:29:19+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$54",
-          "14.2%"
+          "$6.31"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Costco expands Uber Eats delivery partnership to 47 states",
-        "url": "https://www.cnbc.com/2026/09/16/costco-and-uber-partnership.html",
-        "summary": "Uber and Costco announced an expansion of a partnership where Costco members can order delivery from the store on Uber Eats to 47 states, up from 17. Costco expands Uber Eats delivery partnership to 47 states",
-        "published": "Wed, 16 Sep 2026 14:31:09 GMT",
-        "published_kst": "2026-09-16T23:31:09+09:00",
+        "title": "Continental Resources to develop massive oil patch in Venezuela",
+        "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
+        "summary": "Continental said it will develop and operate a patch in the Orinoco Belt that spans 126,000 acres and possesses an estimated 30 billion barrels of reserves. Continental Resources to develop massive oil patch in Venezuela",
+        "published": "Wed, 16 Sep 2026 17:28:25 GMT",
+        "published_kst": "2026-09-17T02:28:25+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Obama mourns death of 'cherished' family dog - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3k2dzlmbE1rRlYwaW0zXzRZdkZKVkNkSFM0alIxOG16cDRKYjdxQTJJWGRYb3hGT1BoRVo4Y2dORFRIWFI3aDZVeHFuMVpIVlktUjlVdVpld01UcXExY1JqWXlrbUgtZVlsZkszRWdkdFFCNFU5QzdsbEFWNTJ0VXFvd3Rja2dXcjM5bXZQd3h2TDg?oc=5",
-        "summary": "Obama mourns death of 'cherished' family dog USA Today Obama mourns death of 'cherished' family dog - USA Today",
-        "published": "Wed, 16 Sep 2026 14:13:00 GMT",
-        "published_kst": "2026-09-16T23:13:00+09:00",
+        "title": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs - PBS",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0lDTHNQYnZaU0dRNU1MU1d1RVdLTE9FbVlBYkl6czNMMzdLTUpvelA5a2QzSTZtREdvQWZIV3BIVk9majVuSmRWTWh1c25WWVhkcGl5eG1Bcm0zdUZIQnBwYU04dEJxeDktMzlVQjU2VFBsVy02WjEya3dwTFhETUlHNXUtYmZWN1Z2dXRKRlZUbHV4Q1JvOW9xa0swYVRvSlVVRU5RT0M0M1ppZy1fadIBtgFBVV95cUxOQktsdVVFOUxaem8zalA5WXVtVGZ2bk5uU29Rd3hQVnlTcll2X2RENk1qV0p2dFljXzFLQ01oSEpERmJUSUNTNW1PNUt0NXIyV1ZjdG5famFkNXFzSlUwVGcyRHlWaHJ4Y1YtUy1CTE5hSmRMbjd5ZE1RUGJRZzlHeHZ6R0p4RWVJZnB0VGczVFFHWlNfNHlfYlpPSTlHSEZ2WjN1cm1fT1liWl9JaG5BVE02elpwdw?oc=5",
+        "summary": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs PBS WATCH LIVE: House considers bills on Russia sanctions, AI data center costs - PBS",
+        "published": "Wed, 16 Sep 2026 17:14:15 GMT",
+        "published_kst": "2026-09-17T02:14:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Neal on the House Floor: The American People Can’t Afford Congress to Hand Trump More Tariff Power - Ways and Means - Democrats | (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWVFU0c2dXpfanhOOTNYR0tISlF5VS1nN0Y3czRJOFFvRVZ5RVI3M0d5S0pQczRFM3BmVkJxNlhaMmp0WjRHZ2RVQkUwUUFYdXNDVGFweGhKMnFvRnJocnFReHdmaVIxTGYxVkgyclZvd2UyODFMSkpndXFvNVJhTlU3OHo3cEtRZy1YX2xLM29jX3d0dWY5S1hjcnBrcmpEZ3Y3OTc2Q3JLaW1ycHVXcFg3UngxM1dyMVNWTVdqTS1pQ1U4SUM0RlJwNzBfTV9zNkVOMg?oc=5",
-        "summary": "Neal on the House Floor: The American People Can’t Afford Congress to Hand Trump More Tariff Power Ways and Means - Democrats | (.gov) Neal on the House Floor: The American People Can’t Afford Congress to Hand Trump More Tariff Power - Ways and Means - Democrats | (.gov)",
-        "published": "Wed, 16 Sep 2026 13:54:13 GMT",
-        "published_kst": "2026-09-16T22:54:13+09:00",
+        "title": "U.S. consumer strength raises new cost concerns for American agriculture - AgroLatam",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWhob3Atb0ZOOXhwajBNNlo0SXNSSUhUV29VUXdyUmpVbEZjVjdoOG1JN2U2SWdubXF3M0JOMTlEMENjUGZ2YXRQSmFoSE1mOHNhTVgzUHJaSkR4aGZLSDBpbG8yeHdZX2hxT3R6MmpXSzZaWmRBT3pMRmZUaXdzd2RvR1c5Rlp1SnRCQXowNG41UQ?oc=5",
+        "summary": "consumer strength raises new cost concerns for American agriculture AgroLatam U.S.",
+        "published": "Wed, 16 Sep 2026 17:13:35 GMT",
+        "published_kst": "2026-09-17T02:13:35+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "ActBlue, the Democratic fundraising machine under GOP investigation, is fighting back - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMmw1Y2lvcmFlSHNNa2g3MVIwTjRJam9oRUhFbVZuRW5STi1kMVUtZGhPZVc1bmttNEdwNzVyVEp4MlVOSlNnQXN2QTFjc3daYXZzTVBYT3hqMTVBd1R0QV9iU2xYQXFyYkRKdFI0T3pIVVV4WS1LYW9sWW0xRFdqc25RREUzdm5UaFk1aC1qRTdPRjlCNldpV2VjSVk5cDhJUTJpMVBCakxLMlFwNG1kdzJwZmtsRzViNGdkVEhGR21iRFNPRGN3aURiUQ?oc=5",
-        "summary": "ActBlue, the Democratic fundraising machine under GOP investigation, is fighting back The Washington Post ActBlue, the Democratic fundraising machine under GOP investigation, is fighting back - The Washington Post",
-        "published": "Wed, 16 Sep 2026 13:26:30 GMT",
-        "published_kst": "2026-09-16T22:26:30+09:00",
-        "domain": "google.com",
+        "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
+        "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+        "summary": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
+        "published": "Wed, 16 Sep 2026 17:03:21 GMT",
+        "published_kst": "2026-09-17T02:03:21+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Hawley rules out 2028 White House bid - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWUduM0JfeHpYb0dORlBra2hKVnZ6MmxhbFNkOEU3c0xWb24zYUVuREE3RVlBM2tDZnNqLXZjenloVzMwNTdLZVp5SVV5WjRMMEFpcmJiMGhiUlR6Rkg1SmpMdjc0TF9MSEg1WDZremVoS1M2dDdXckxxeExGLUU0blRaaXVhQkxJb09xNTFKY19MVVpG0gGaAUFVX3lxTE8yd2NFMG5QV2xFTElCNnUwZUNLT2pmNHU3RG16V2lnbkkxWFN1dHkwLTBQb1V1ZGMwc3NYMXFOQ0I2aWUzUVFGckVMNkFScFNaUG5QYkdlTFZMaUFkY2tfVi1xNGVuWk9XaW1NTU5KaWN0NWdUakEyenp3TGYweVlrbDZQcjBiY1Q5Sk1YMUU0dHFtM05nVlV5RlE?oc=5",
+        "summary": "Hawley rules out 2028 White House bid The Hill Hawley rules out 2028 White House bid - The Hill",
+        "published": "Wed, 16 Sep 2026 16:58:00 GMT",
+        "published_kst": "2026-09-17T01:58:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2028"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00QU5KT3ZTZ1NQRWozcjBraGUta1NvSzhVTS11ZW9wY1NRS2RIQk1hZkVqWHZFXzc3VzdFTURTaG83enBhTE5CQlNGc29yUGJCWXJsaHFsTWtJUQ?oc=5",
-        "summary": "美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 한국경제 美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 - 한국경제",
-        "published": "Wed, 16 Sep 2026 13:44:30 GMT",
-        "published_kst": "2026-09-16T22:44:30+09:00",
+        "title": "성장 한계 부딪힌 에버랜드·롯데월드의 고민 - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92a1ViajVqWnoyQ00wV2NXWkpReFAwMml6dHpBb3pSVHB4a2NySi1HV2swVnQydDlkeE5vYVhGNlFYaWJKa2hUeWlibXpxS1REOFNFZ1pFQmR1QQ?oc=5",
+        "summary": "성장 한계 부딪힌 에버랜드·롯데월드의 고민 hankyung.com 성장 한계 부딪힌 에버랜드·롯데월드의 고민 - hankyung.com",
+        "published": "Wed, 16 Sep 2026 16:35:00 GMT",
+        "published_kst": "2026-09-17T01:35:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "임박한 9월 美 FOMC, 주목해야 할 포인트 [Fed 워치] - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84SzNlNEUyQ1lvaW5oaURRMlJHM1dkZkJQZzVscHp1S2taYkxJZWI2QjVDdFlMVVJtNy1HMmxuMlVtcFdzVDJTS2NUNVNsd3FKREVqSHdLZkNmZw?oc=5",
+        "summary": "임박한 9월 美 FOMC, 주목해야 할 포인트 [Fed 워치] hankyung.com 임박한 9월 美 FOMC, 주목해야 할 포인트 [Fed 워치] - hankyung.com",
+        "published": "Wed, 16 Sep 2026 16:34:43 GMT",
+        "published_kst": "2026-09-17T01:34:43+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"2029년까지 못 기다려\"…美 결국 SOS? 한국 '역대급 기회' - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vR29DdFR6YzJQUVdQN24zVGJmYWZEQ1huRFJQRzVneUU1MkQ0U2JDZHU5X2t0SEZCSjhJUjhwVjVWbUEyc3c5MThyckU2Y1ExME9sNmg2RUxhUQ?oc=5",
+        "summary": "한국 '역대급 기회' hankyung.com \"2029년까지 못 기다려\"…美 결국 SOS? \"2029년까지 못 기다려\"…美 결국 SOS?",
+        "published": "Wed, 16 Sep 2026 16:24:00 GMT",
+        "published_kst": "2026-09-17T01:24:00+09:00",
         "domain": "google.com",
         "key_figures": [
-          "1.2%"
+          "2029"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "연료전지주 일제히 강세…AI전력난 해결사로 부상 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBidlhfQWNUVUtyNnNWY093ZFl5eUY4eDR3MTkyUTBaVmwzY0g1NFlIZEVlOHNlREl4b0U1bmZCdTZLZFZKaE43bmYtZ09IQld6WkxDYnhxZ2d2QQ?oc=5",
-        "summary": "연료전지주 일제히 강세…AI전력난 해결사로 부상 한국경제 연료전지주 일제히 강세…AI전력난 해결사로 부상 - 한국경제",
-        "published": "Wed, 16 Sep 2026 13:13:00 GMT",
-        "published_kst": "2026-09-16T22:13:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aTllMHNZazRHQzEzM01KeWMyRUlTTjNFSVp6a2gybVB0U3kyYjRIeGRxVlNzczMtcklNU3I3RW4xQm5Cb2VZSElmdDVsSER1WENaOVFjVGNkZw?oc=5",
-        "summary": "BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치] 한국경제 BYD 추격 나선 지리차…브라질 현지생산으로 승부수 [차이나 워치] - 한국경제",
-        "published": "Wed, 16 Sep 2026 12:00:54 GMT",
-        "published_kst": "2026-09-16T21:00:54+09:00",
-        "domain": "google.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Medtronic taps Zimmer Biomet executive as its new supply chain VP - Medical Design & Outsourcing",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzhLWmRnMWtfRlhFbVE4SG51WFprbFRmeWpPTWRjMlZ6cFBRRTQ5QzRKdjFCMWlBUEU5ME0xUmlwQzBmQXJJZ2tlZ1RmVnp5emttZHlGRE0tdnR2MkczQlE1bDg2dlRVWlc3d2tJUFZFSzBsZXJYZDluRzA0MzVvUGpFVHVTdkZXYUtUTlZDNkhITkpPRkl0SFdYS3BHTGd0d1dtazFRWjlkdGpsbC1N?oc=5",
-        "summary": "Medtronic taps Zimmer Biomet executive as its new supply chain VP Medical Design & Outsourcing Medtronic taps Zimmer Biomet executive as its new supply chain VP - Medical Design & Outsourcing",
-        "published": "Wed, 16 Sep 2026 14:29:36 GMT",
-        "published_kst": "2026-09-16T23:29:36+09:00",
+        "title": "GT Voice: Will US sourcing rules shock AI hardware supply chain? - Global Times",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRFR6TjJ4UlZzeGtjYWlyMTdWckFHMTFVRXRqNEc1YlVSenNiMVlzRzZVd0l1RFJrN1k1Q3RTU0ZERUtkT3Z0OW50OWU1ZVdDOHRXbzZ2azEyZjJBallBX3BB?oc=5",
+        "summary": "Global Times GT Voice: Will US sourcing rules shock AI hardware supply chain?",
+        "published": "Wed, 16 Sep 2026 15:44:00 GMT",
+        "published_kst": "2026-09-17T00:44:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Rewiring the consumer supply chain: An AI use case roadmap - Supply Chain Management Review",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSjRMX2YyaGJVeDd0T0pHcW5NN1htQ0s3Z2NjTDNTbVBFb3R5a0FMNmN2c1d1LWJMeWNrVUxiV3ZhSFNKTk5pQ3JMdmpXWW0xQUhBRTE1dWxPZUFtYThEelQzSjZhbFFhb1ZwNWtScWFfaFVsYi1nM0ZqM0FmUzRtam9wbkhQYmhxbDdjWnBHOA?oc=5",
-        "summary": "Rewiring the consumer supply chain: An AI use case roadmap Supply Chain Management Review Rewiring the consumer supply chain: An AI use case roadmap - Supply Chain Management Review",
-        "published": "Wed, 16 Sep 2026 14:15:00 GMT",
-        "published_kst": "2026-09-16T23:15:00+09:00",
+        "title": "Treasure Global Subsidiary Tadaa Secures US$52 Million Partnership to Develop AI-Powered EzyTrace Agricultural Supply Chain Platform for Malaysia’s Ministry of Agriculture and Food Security - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPM3V4b3g0UUtjSU8xRnBiekpnekpvbnlVQzc1dmJqSkJ4VWhUMHFqeldIbVVzaU05NFlELVRhWW1xOTFNWFJVeUNKWlZZMDkxVmlicUdVd3ZzZmVST0k3REtNeWdMTlFEbXQtU2pfM3ZUM1hGb09vcVpjRlBGWmRLWWM1WUxZeUtnSVZTUzRjR0VrYWdUZ3ZuZmt6WDdObThvZ3FuZk10QzdCaVQzZ1lnZFlUV2gtUmYwb2xqZTFMdG1fXzR2dGJLdWpFZmZ0RDVrLWhaVG5oR09XbEVtcHhQSFJNdmNzVUh4WHdNbkNDVVZaaWR1dmRZM1pvaTVjSFFIak9SSGhoNGlodzVsUzhqTEZaRUFuNTNRZXJsU3FtZE9jLVhsbHBOSDdHeXQ0eVZyMnlUbnpkMUZxVzJjSmk4TjZwUWt6T085QlNMQzQyLU1wQQ?oc=5",
+        "summary": "Treasure Global Subsidiary Tadaa Secures US$52 Million Partnership to Develop AI-Powered EzyTrace Agricultural Supply Chain Platform for Malaysia’s Ministry of Agriculture and Food Security Quiver Quantitative Treasure Global Subsidiary Tadaa Secures US$52 Million Partnership to Develop AI-Powered EzyTrace Agricultural Supply Chain Platform for Malaysia’s Ministry of Agriculture and Food Security - Quiver Quantitative",
+        "published": "Wed, 16 Sep 2026 15:40:00 GMT",
+        "published_kst": "2026-09-17T00:40:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$52"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why ePost Global Won the Global Trade and Logistics Award - supplychaindigital.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3dnMkpUOEc1cVNYMHlpQUNlaFAtbmdSaDdPX1dQUXgzS2Y4dnluZUdaTVktRkZBTlpyZHcxMjZrZkk5UTdHa29QUDBSMDJoanJGYVdpRGpkUzRYcTVfTUFKZ1dqYXExcHY1MlYyUE8tMzBLemUxLWlpWVdBNS1lODVIWUF6bzM4cGFSM2xSSHo3WHc1cTluOQ?oc=5",
-        "summary": "Why ePost Global Won the Global Trade and Logistics Award supplychaindigital.com Why ePost Global Won the Global Trade and Logistics Award - supplychaindigital.com",
-        "published": "Wed, 16 Sep 2026 14:10:13 GMT",
-        "published_kst": "2026-09-16T23:10:13+09:00",
+        "title": "A $52 million project will track farm supplies across Malaysia - stocktitan.net",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkFManI5TGIxZlJ4RE9mM05fbXJGbE41T01LWm1ycGFweVB5UmNvSDAwdTJvdFZzNkRRakRjN3JZNmRyTk5UQWdleDhvaFJueG5mMWlGZ3JJSGVOZGhXZlBZcVVnTHhnQ0NpQ1ZmWE9PSjRXZ1R3b0VxQ005cHA4cFZQSWh4YVpvdVpIMExaZm13R2tVNUQ1RHMxMS1XNzkzeEZTaVRLV3g0eng0MG94WU5SWTZGWWxKMkZ5cW93?oc=5",
+        "summary": "A $52 million project will track farm supplies across Malaysia stocktitan.net A $52 million project will track farm supplies across Malaysia - stocktitan.net",
+        "published": "Wed, 16 Sep 2026 15:33:00 GMT",
+        "published_kst": "2026-09-17T00:33:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$52"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties. Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies / 美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 한국경제 美 8월 소매판매 1.2% 급증…금리 인상 기대 강화 - 한국경제 / Medtronic taps Zimmer Biomet executive as its new supply chain VP Medical Design & Outsourcing Medtronic taps Zimmer Biomet executive as its new supply chain VP - Medical Design & Outsourcing",
+  "wrap_summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday. 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices / 성장 한계 부딪힌 에버랜드·롯데월드의 고민 hankyung.com 성장 한계 부딪힌 에버랜드·롯데월드의 고민 - hankyung.com / Global Times GT Voice: Will US sourcing rules shock AI hardware supply chain?",
   "invest_summary": ""
 }
