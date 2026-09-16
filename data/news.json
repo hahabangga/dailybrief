@@ -1,157 +1,151 @@
 {
   "date": "2026-09-17",
-  "generated_at_utc": "2026-09-16T17:30:34Z",
-  "cutoff_kst": "2026-09-17T02:30:00+09:00",
+  "generated_at_utc": "2026-09-16T23:55:00Z",
+  "cutoff_kst": "2026-09-17T08:55:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-        "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html",
-        "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday. 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-        "published": "Wed, 16 Sep 2026 17:29:19 GMT",
-        "published_kst": "2026-09-17T02:29:19+09:00",
+        "title": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates",
+        "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+        "summary": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S.",
+        "published": "Wed, 16 Sep 2026 23:45:02 GMT",
+        "published_kst": "2026-09-17T08:45:02+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$6.31"
+          "1%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Continental Resources to develop massive oil patch in Venezuela",
-        "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
-        "summary": "Continental said it will develop and operate a patch in the Orinoco Belt that spans 126,000 acres and possesses an estimated 30 billion barrels of reserves. Continental Resources to develop massive oil patch in Venezuela",
-        "published": "Wed, 16 Sep 2026 17:28:25 GMT",
-        "published_kst": "2026-09-17T02:28:25+09:00",
+        "title": "White House Chief of Staff has an update on her fight against cancer - Hays Post",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQTcxQVp6UDc5TTFVS1RiNmNibVdLRlAtX0h2c0dXMm1yUHBwckNGVi1ISmdWenJfUGQ0NEkxTWp1dmZQS20yTFlzaGc3bUN0VHEzamlNeng4UGVhY2tjcHc4QmVWTWtSbTVuSjFyZFc?oc=5",
+        "summary": "White House Chief of Staff has an update on her fight against cancer Hays Post White House Chief of Staff has an update on her fight against cancer - Hays Post",
+        "published": "Wed, 16 Sep 2026 23:15:00 GMT",
+        "published_kst": "2026-09-17T08:15:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Live Updates: Warsh and Fed Officials Raise Interest Rates to Fight Inflation - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2stY3BUc2U1Z0tFTDJIOWNLMlBTaFh3TUN0bTZ0REtxZnJGVDlFSjdEUjZuYmE3UnBkb2NtTC1UeFlPa2o0Uk9NdXZCX01GN0ZNMnFNTEhQa0l6eFYxMU9fdlVxWmhCdDZwdl9lUXRBWWo1SU9tZ3d1S0NfNEhNdjBVOGZOSDdi?oc=5",
+        "summary": "Live Updates: Warsh and Fed Officials Raise Interest Rates to Fight Inflation The New York Times Live Updates: Warsh and Fed Officials Raise Interest Rates to Fight Inflation - The New York Times",
+        "published": "Wed, 16 Sep 2026 23:10:47 GMT",
+        "published_kst": "2026-09-17T08:10:47+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+        "url": "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+        "summary": "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies. OpenAI reports 6 new instances of 'concerning model behavior' since March",
+        "published": "Wed, 16 Sep 2026 23:05:48 GMT",
+        "published_kst": "2026-09-17T08:05:48+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs - PBS",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0lDTHNQYnZaU0dRNU1MU1d1RVdLTE9FbVlBYkl6czNMMzdLTUpvelA5a2QzSTZtREdvQWZIV3BIVk9majVuSmRWTWh1c25WWVhkcGl5eG1Bcm0zdUZIQnBwYU04dEJxeDktMzlVQjU2VFBsVy02WjEya3dwTFhETUlHNXUtYmZWN1Z2dXRKRlZUbHV4Q1JvOW9xa0swYVRvSlVVRU5RT0M0M1ppZy1fadIBtgFBVV95cUxOQktsdVVFOUxaem8zalA5WXVtVGZ2bk5uU29Rd3hQVnlTcll2X2RENk1qV0p2dFljXzFLQ01oSEpERmJUSUNTNW1PNUt0NXIyV1ZjdG5famFkNXFzSlUwVGcyRHlWaHJ4Y1YtUy1CTE5hSmRMbjd5ZE1RUGJRZzlHeHZ6R0p4RWVJZnB0VGczVFFHWlNfNHlfYlpPSTlHSEZ2WjN1cm1fT1liWl9JaG5BVE02elpwdw?oc=5",
-        "summary": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs PBS WATCH LIVE: House considers bills on Russia sanctions, AI data center costs - PBS",
-        "published": "Wed, 16 Sep 2026 17:14:15 GMT",
-        "published_kst": "2026-09-17T02:14:15+09:00",
+        "title": "The Graham sanctions act is a chance to punish Putin. Here’s what the White House should do next. - Atlantic Council",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTVRSUEFIMEllM3NkeEIxaDV2YVZTa3dHX0tFTGllbWFkMEk3Wnc2MXpTR3lZOVpTdWE0TTZsaWxmVEh5Tmd1WXI5Z1N2UkJPcmtpdGxtTlJSbkdPeFl4X2JjYThKSFlJRXMtWTNaazhBX3phQWY2aXQyWG9BZGFneWxOVVllT3VlVWNOUUhqR083bVpFcE1YdE1FaXBBUWNvaWpfYkhSUkZRbzduczVaOFduejJ5S0cyOUY5VW85QW1Ob0FrUzF2LWpWSHZneDlnTnVIeQ?oc=5",
+        "summary": "Atlantic Council The Graham sanctions act is a chance to punish Putin. Here’s what the White House should do next.",
+        "published": "Wed, 16 Sep 2026 23:01:47 GMT",
+        "published_kst": "2026-09-17T08:01:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. consumer strength raises new cost concerns for American agriculture - AgroLatam",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWhob3Atb0ZOOXhwajBNNlo0SXNSSUhUV29VUXdyUmpVbEZjVjdoOG1JN2U2SWdubXF3M0JOMTlEMENjUGZ2YXRQSmFoSE1mOHNhTVgzUHJaSkR4aGZLSDBpbG8yeHdZX2hxT3R6MmpXSzZaWmRBT3pMRmZUaXdzd2RvR1c5Rlp1SnRCQXowNG41UQ?oc=5",
-        "summary": "consumer strength raises new cost concerns for American agriculture AgroLatam U.S.",
-        "published": "Wed, 16 Sep 2026 17:13:35 GMT",
-        "published_kst": "2026-09-17T02:13:35+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
-        "url": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
-        "summary": "The pipeline has allowed the Saudis to shift oil exports to the Red Sea while the U.S. and Iran battle for control over Hormuz.",
-        "published": "Wed, 16 Sep 2026 17:03:21 GMT",
-        "published_kst": "2026-09-17T02:03:21+09:00",
+        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+        "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+        "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor. House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+        "published": "Wed, 16 Sep 2026 22:32:18 GMT",
+        "published_kst": "2026-09-17T07:32:18+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Hawley rules out 2028 White House bid - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWUduM0JfeHpYb0dORlBra2hKVnZ6MmxhbFNkOEU3c0xWb24zYUVuREE3RVlBM2tDZnNqLXZjenloVzMwNTdLZVp5SVV5WjRMMEFpcmJiMGhiUlR6Rkg1SmpMdjc0TF9MSEg1WDZremVoS1M2dDdXckxxeExGLUU0blRaaXVhQkxJb09xNTFKY19MVVpG0gGaAUFVX3lxTE8yd2NFMG5QV2xFTElCNnUwZUNLT2pmNHU3RG16V2lnbkkxWFN1dHkwLTBQb1V1ZGMwc3NYMXFOQ0I2aWUzUVFGckVMNkFScFNaUG5QYkdlTFZMaUFkY2tfVi1xNGVuWk9XaW1NTU5KaWN0NWdUakEyenp3TGYweVlrbDZQcjBiY1Q5Sk1YMUU0dHFtM05nVlV5RlE?oc=5",
-        "summary": "Hawley rules out 2028 White House bid The Hill Hawley rules out 2028 White House bid - The Hill",
-        "published": "Wed, 16 Sep 2026 16:58:00 GMT",
-        "published_kst": "2026-09-17T01:58:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2028"
-        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "성장 한계 부딪힌 에버랜드·롯데월드의 고민 - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92a1ViajVqWnoyQ00wV2NXWkpReFAwMml6dHpBb3pSVHB4a2NySi1HV2swVnQydDlkeE5vYVhGNlFYaWJKa2hUeWlibXpxS1REOFNFZ1pFQmR1QQ?oc=5",
-        "summary": "성장 한계 부딪힌 에버랜드·롯데월드의 고민 hankyung.com 성장 한계 부딪힌 에버랜드·롯데월드의 고민 - hankyung.com",
-        "published": "Wed, 16 Sep 2026 16:35:00 GMT",
-        "published_kst": "2026-09-17T01:35:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "임박한 9월 美 FOMC, 주목해야 할 포인트 [Fed 워치] - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84SzNlNEUyQ1lvaW5oaURRMlJHM1dkZkJQZzVscHp1S2taYkxJZWI2QjVDdFlMVVJtNy1HMmxuMlVtcFdzVDJTS2NUNVNsd3FKREVqSHdLZkNmZw?oc=5",
-        "summary": "임박한 9월 美 FOMC, 주목해야 할 포인트 [Fed 워치] hankyung.com 임박한 9월 美 FOMC, 주목해야 할 포인트 [Fed 워치] - hankyung.com",
-        "published": "Wed, 16 Sep 2026 16:34:43 GMT",
-        "published_kst": "2026-09-17T01:34:43+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"2029년까지 못 기다려\"…美 결국 SOS? 한국 '역대급 기회' - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vR29DdFR6YzJQUVdQN24zVGJmYWZEQ1huRFJQRzVneUU1MkQ0U2JDZHU5X2t0SEZCSjhJUjhwVjVWbUEyc3c5MThyckU2Y1ExME9sNmg2RUxhUQ?oc=5",
-        "summary": "한국 '역대급 기회' hankyung.com \"2029년까지 못 기다려\"…美 결국 SOS? \"2029년까지 못 기다려\"…美 결국 SOS?",
-        "published": "Wed, 16 Sep 2026 16:24:00 GMT",
-        "published_kst": "2026-09-17T01:24:00+09:00",
+        "title": "집값은 높은데 금리까지 7%…美 주택시장 정체 심화 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91ZXl2WDNZYnpRVHpwZ3A4NHM0djQwQ2VJUExGN3Nzb1JoQllsNEc2TFEtQUR3c2FyNlBEb1VBQnRYQllYbkhfM1lEbjBaWFFrMlBxR0VRVnFKUQ?oc=5",
+        "summary": "집값은 높은데 금리까지 7%…美 주택시장 정체 심화 한국경제 집값은 높은데 금리까지 7%…美 주택시장 정체 심화 - 한국경제",
+        "published": "Wed, 16 Sep 2026 23:44:22 GMT",
+        "published_kst": "2026-09-17T08:44:22+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2029"
+          "7%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "한국기술교육대, 취업박람회 40개 기업 참여 '성황' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1NkFVVU1ZQXVPaVRoS0hwalpMeXVpOUJTUTNNaWh5R1Q1bzh5b2RPOUZ6SlBjUnJEYWdFT3lnSE4zSHM2a25EblRvVnJISG9ESXp6ekZsRVJ4Zw?oc=5",
+        "summary": "한국기술교육대, 취업박람회 40개 기업 참여 '성황' 한국경제 한국기술교육대, 취업박람회 40개 기업 참여 '성황' - 한국경제",
+        "published": "Wed, 16 Sep 2026 23:38:37 GMT",
+        "published_kst": "2026-09-17T08:38:37+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Fed '매파적 금리 인상'에 코스피도 긴장…\"믿을 건 반도체\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Va2VHQURFdmVyNG1LS0dHSm9BOEoydVM2TlMybGdkcEhhbktxTnI3aUd5M1BTdXJ6SDhRS2NTd1pZaDNXanhPU240ZzlBRGcydndaY082cnV4QQ?oc=5",
+        "summary": "Fed '매파적 금리 인상'에 코스피도 긴장…\"믿을 건 반도체\" 한국경제 Fed '매파적 금리 인상'에 코스피도 긴장…\"믿을 건 반도체\" - 한국경제",
+        "published": "Wed, 16 Sep 2026 23:24:02 GMT",
+        "published_kst": "2026-09-17T08:24:02+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "GT Voice: Will US sourcing rules shock AI hardware supply chain? - Global Times",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BRFR6TjJ4UlZzeGtjYWlyMTdWckFHMTFVRXRqNEc1YlVSenNiMVlzRzZVd0l1RFJrN1k1Q3RTU0ZERUtkT3Z0OW50OWU1ZVdDOHRXbzZ2azEyZjJBallBX3BB?oc=5",
-        "summary": "Global Times GT Voice: Will US sourcing rules shock AI hardware supply chain?",
-        "published": "Wed, 16 Sep 2026 15:44:00 GMT",
-        "published_kst": "2026-09-17T00:44:00+09:00",
+        "title": "Willog Launches Integrated Supply Chain Solution 'Willog Vision,' Connecting Record, Response, Prove, and Compensation as One - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZWtpcGxuMmtvTC0xQndRR2E3RTZYOEliZGw3S0ZpS1p3RUxXbWRCcm0zbVRBRVlOc2R1UFF2RzJXb1hlQ2owWV83N2tFREhodC1CZ3JINXIwR1JsWnJ5MVdIdHRnbEQ0cFJySXkxLTRfWnhZd1R3RXNCRzE4c181VFZzc3IzWldzVk9BcFdPX202TWpXSVluUzZJMGdsbkFyWkd2M0ZYcWpPSm5VM2w3Uno2XzZMVWNOTGo2Y1UwMUxxdnVfQWNhclVGb0ctWkhBdVIxOTNuZXg4eXVjeHJuZnk1bkN1Q3VRaFpueVRJOV9rYm1QMlZ2NUkyVEhXNi1QWXQ0OHh3?oc=5",
+        "summary": "Willog Launches Integrated Supply Chain Solution 'Willog Vision,' Connecting Record, Response, Prove, and Compensation as One PR Newswire Willog Launches Integrated Supply Chain Solution 'Willog Vision,' Connecting Record, Response, Prove, and Compensation as One - PR Newswire",
+        "published": "Wed, 16 Sep 2026 22:00:00 GMT",
+        "published_kst": "2026-09-17T07:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Treasure Global Subsidiary Tadaa Secures US$52 Million Partnership to Develop AI-Powered EzyTrace Agricultural Supply Chain Platform for Malaysia’s Ministry of Agriculture and Food Security - Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPM3V4b3g0UUtjSU8xRnBiekpnekpvbnlVQzc1dmJqSkJ4VWhUMHFqeldIbVVzaU05NFlELVRhWW1xOTFNWFJVeUNKWlZZMDkxVmlicUdVd3ZzZmVST0k3REtNeWdMTlFEbXQtU2pfM3ZUM1hGb09vcVpjRlBGWmRLWWM1WUxZeUtnSVZTUzRjR0VrYWdUZ3ZuZmt6WDdObThvZ3FuZk10QzdCaVQzZ1lnZFlUV2gtUmYwb2xqZTFMdG1fXzR2dGJLdWpFZmZ0RDVrLWhaVG5oR09XbEVtcHhQSFJNdmNzVUh4WHdNbkNDVVZaaWR1dmRZM1pvaTVjSFFIak9SSGhoNGlodzVsUzhqTEZaRUFuNTNRZXJsU3FtZE9jLVhsbHBOSDdHeXQ0eVZyMnlUbnpkMUZxVzJjSmk4TjZwUWt6T085QlNMQzQyLU1wQQ?oc=5",
-        "summary": "Treasure Global Subsidiary Tadaa Secures US$52 Million Partnership to Develop AI-Powered EzyTrace Agricultural Supply Chain Platform for Malaysia’s Ministry of Agriculture and Food Security Quiver Quantitative Treasure Global Subsidiary Tadaa Secures US$52 Million Partnership to Develop AI-Powered EzyTrace Agricultural Supply Chain Platform for Malaysia’s Ministry of Agriculture and Food Security - Quiver Quantitative",
-        "published": "Wed, 16 Sep 2026 15:40:00 GMT",
-        "published_kst": "2026-09-17T00:40:00+09:00",
+        "title": "Citi: Corporations holding onto cash as supply chain disruption becomes the norm - DC Velocity",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeU9WVHVuM05nanpvU3ZhMWJLY21yTTVZU1RQYzNsb0d5aXFnaWNjZjFoM2Z2RWVVTW5Jd3lXekFNMHFsVjU3MWt1dllEVDFMdVRpckQxTndWRzM5bWNFOWZKeHZuWnFvR2tmODZydDlFX19KcUJLNGY4NWtEeHd6N1M0MTF2cEhGRHg0VklvUmpxYW12YjhEbnREbElXMENrSlQxMGdSbHlZZHJmcjYtb3FxNG12MG5HVm9JU1F2cVc?oc=5",
+        "summary": "Citi: Corporations holding onto cash as supply chain disruption becomes the norm DC Velocity Citi: Corporations holding onto cash as supply chain disruption becomes the norm - DC Velocity",
+        "published": "Wed, 16 Sep 2026 19:44:43 GMT",
+        "published_kst": "2026-09-17T04:44:43+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$52"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "A $52 million project will track farm supplies across Malaysia - stocktitan.net",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkFManI5TGIxZlJ4RE9mM05fbXJGbE41T01LWm1ycGFweVB5UmNvSDAwdTJvdFZzNkRRakRjN3JZNmRyTk5UQWdleDhvaFJueG5mMWlGZ3JJSGVOZGhXZlBZcVVnTHhnQ0NpQ1ZmWE9PSjRXZ1R3b0VxQ005cHA4cFZQSWh4YVpvdVpIMExaZm13R2tVNUQ1RHMxMS1XNzkzeEZTaVRLV3g0eng0MG94WU5SWTZGWWxKMkZ5cW93?oc=5",
-        "summary": "A $52 million project will track farm supplies across Malaysia stocktitan.net A $52 million project will track farm supplies across Malaysia - stocktitan.net",
-        "published": "Wed, 16 Sep 2026 15:33:00 GMT",
-        "published_kst": "2026-09-17T00:33:00+09:00",
+        "title": "Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - Military Embedded Systems",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd25GWWpWc1Zrd3pqbU5MbWctQlJVNzNRbnN2NmU1RXRDQTIwbElCQXNLZWt1V0R4aG5HNWtBWHZGdklMR2hYTHU2TWFFUEhMSnhzRGRMaVFsWnZPV2E2b3BIUEFuekc5cU9VTVljN1JyS1I2bFljMWxZdk9YNkdxN29GaktOOWdBQVhSNjhKbURqZENhWXdMeXViQzlPellMMk41RUlScklfZEc4NmRtTUtZbzExVXpwdkphUmRKMU1xeVVPbFFuS25NN0lOSjYwbUd3V0huamNvTU00alJodQ?oc=5",
+        "summary": "defense supply chain Military Embedded Systems Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S.",
+        "published": "Wed, 16 Sep 2026 19:20:05 GMT",
+        "published_kst": "2026-09-17T04:20:05+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$52"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday. 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices / 성장 한계 부딪힌 에버랜드·롯데월드의 고민 hankyung.com 성장 한계 부딪힌 에버랜드·롯데월드의 고민 - hankyung.com / Global Times GT Voice: Will US sourcing rules shock AI hardware supply chain?",
+  "wrap_summary": "Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates President Donald Trump previously threatened to cut off trade with countries that have trade surpluses with the U.S. / 집값은 높은데 금리까지 7%…美 주택시장 정체 심화 한국경제 집값은 높은데 금리까지 7%…美 주택시장 정체 심화 - 한국경제 / Willog Launches Integrated Supply Chain Solution 'Willog Vision,' Connecting Record, Response, Prove, and Compensation as One PR Newswire Willog Launches Integrated Supply Chain Solution 'Willog Vision,' Connecting Record, Response, Prove, and Compensation as One - PR Newswire",
   "invest_summary": ""
 }
