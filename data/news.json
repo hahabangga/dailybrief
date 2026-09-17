@@ -1,70 +1,72 @@
 {
-  "date": "2026-09-17",
-  "generated_at_utc": "2026-09-17T14:48:07Z",
-  "cutoff_kst": "2026-09-17T23:48:00+09:00",
+  "date": "2026-09-18",
+  "generated_at_utc": "2026-09-17T17:30:39Z",
+  "cutoff_kst": "2026-09-18T02:30:00+09:00",
   "regions": {
     "us": [
-      {
-        "title": "GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
-        "url": "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
-        "summary": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things. GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
-        "published": "Thu, 17 Sep 2026 14:39:40 GMT",
-        "published_kst": "2026-09-17T23:39:40+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
       {
         "title": "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
         "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
         "summary": "President Donald Trump wants his name on the Kennedy Center. Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
-        "published": "Thu, 17 Sep 2026 14:38:23 GMT",
-        "published_kst": "2026-09-17T23:38:23+09:00",
+        "published": "Thu, 17 Sep 2026 17:14:39 GMT",
+        "published_kst": "2026-09-18T02:14:39+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "OPT fee proposal clears White House review - thepienews.com",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DOUJjWFZMTzJBMGpUdEV6QzJKVXc4bkxBd1Mzd0RyS2FfSjRwNzBSQzRmbDl2eUg0a1RQN2RoZzJPTXVETFFOTDdmNGJlSmdDV0xKa3pvT0NnNDh6dkhYeW4wTzJFeVVEMmZWVzljenE3U09I?oc=5",
-        "summary": "OPT fee proposal clears White House review thepienews.com OPT fee proposal clears White House review - thepienews.com",
-        "published": "Thu, 17 Sep 2026 14:37:30 GMT",
-        "published_kst": "2026-09-17T23:37:30+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "A Chinese AI company just connected its model to Wall Street's leading data providers",
-        "url": "https://www.cnbc.com/2026/09/17/china-moonshot-kimi-financial-services.html",
-        "summary": "The startup Moonshot said it signed on financial industry giants from investment bank CICC to venture capital firms A Chinese AI company just connected its model to Wall Street's leading data providers",
-        "published": "Thu, 17 Sep 2026 14:30:25 GMT",
-        "published_kst": "2026-09-17T23:30:25+09:00",
+        "title": "Stocks stage a comeback after Fed-induced declines — plus, what's ailing Boeing",
+        "url": "https://www.cnbc.com/2026/09/17/stocks-stage-a-comeback-after-fed-induced-declines-plus-whats-ailing-boeing.html",
+        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. Stocks stage a comeback after Fed-induced declines — plus, what's ailing Boeing",
+        "published": "Thu, 17 Sep 2026 17:12:19 GMT",
+        "published_kst": "2026-09-18T02:12:19+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House Weighs US Incubator for Cyber Research, Startups - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1lyWWxxQlhqYnJpMDBPRW5uOHBkZThPYklsaU5iVU5YLTAxNjVETkdyd1V0S0hMYjZXMy1Pamp3SVVJRFlfR2NFR0Ixb0Jpd1dJWjR1NEJ2azlud2VzY2R3WXdVS2xNLTBkMXJKS09EZ3NCNGltckxmV2Y3WTBuYlhUN0dJOGcwMGNjV0hlX09qRHZMMVN0TW0zd3FfMHJDMkVaXzIxTnRpVE9hQ2c2aXFpQ1FLTkpzdDN3NVVYcDBFU1BRM1ZMbmdMWThvUQ?oc=5",
-        "summary": "White House Weighs US Incubator for Cyber Research, Startups Bloomberg.com White House Weighs US Incubator for Cyber Research, Startups - Bloomberg.com",
-        "published": "Thu, 17 Sep 2026 14:00:28 GMT",
-        "published_kst": "2026-09-17T23:00:28+09:00",
+        "title": "White House Pulls Nomination of Lance Schroyer, Ally of Markwayne Mullin, for ICE Director - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPODZpNFUyekxELUZrWF81Sm9EVWc5eDItQ2JwTnhqNmczZEYwWkRYcE0yeXhibEtybXBGWTVLR0FibUZaNGFKOTdqRzRuWVNGbExRTFgydl9UUEJ0RDM2YXBGV2xiaU1jLVVHSlJVRVR6UmZRYkh6eWkxUVREY3FleGNxclJIcjRnV2Rn?oc=5",
+        "summary": "White House Pulls Nomination of Lance Schroyer, Ally of Markwayne Mullin, for ICE Director The New York Times White House Pulls Nomination of Lance Schroyer, Ally of Markwayne Mullin, for ICE Director - The New York Times",
+        "published": "Thu, 17 Sep 2026 17:07:21 GMT",
+        "published_kst": "2026-09-18T02:07:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House Chief of Staff Provides Health Update - The Presidential Prayer Team",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3RpOWJta1pGUXk0a2M4WWF2NGJoeHFSZXNxX2hCUS15ZGx1dWp3WEw4cGlDYUdqeWZjSEQ5bEpYR1lZNVZucGdUd3lURmFUR08yZDdXUjMwYk43dWxaNWRxM1dsTkpMVHJFVzhHSTNDMkY4QklPZFZDdjZzMUNCWm1lSFdTUmJuN1EwNy1NWmtmbjJVRzhrZ3c0Nmd0NVdsUEE?oc=5",
-        "summary": "White House Chief of Staff Provides Health Update The Presidential Prayer Team White House Chief of Staff Provides Health Update - The Presidential Prayer Team",
-        "published": "Thu, 17 Sep 2026 14:00:00 GMT",
-        "published_kst": "2026-09-17T23:00:00+09:00",
+        "title": "How record diesel prices will rip through the U.S. economy. Trucks, rails are only the start",
+        "url": "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
+        "summary": "Record diesel prices are already walloping the transportation sector, and if energy prices stay high, the economic impact will spread. How record diesel prices will rip through the U.S.",
+        "published": "Thu, 17 Sep 2026 17:02:07 GMT",
+        "published_kst": "2026-09-18T02:02:07+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "GM CEO blasts US's 'societal problem' with skilled trades -- says jobs can pay $100K and be 'more AI-proof' - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWW9uT3lsdnFFMHRaaUFTVXlfcjRGZTN5eHRZX000dWVoN192WGN5clFMQlp6U0l3Z19GbDJOYXRMRWwwWjA3N2dzYldzQkNDdmVtbTlnV193STFxeHcxeGVidjNCR05tN3V6MVR5TThmMzhVWGlEVFZGQnVvU2JyeDhHVUlCYmlaMzRBYWZ2Nk1PYm51djhUN213d2NjWDdPakFsZ0NaTWo2RVZ2OHlnQTVSZnVtdU53bHc3bGxXZ0d6VHU0N3huLUU3eUdPQVpoM0JmRw?oc=5",
+        "summary": "GM CEO blasts US's 'societal problem' with skilled trades -- says jobs can pay $100K and be 'more AI-proof' New York Post GM CEO blasts US's 'societal problem' with skilled trades -- says jobs can pay $100K and be 'more AI-proof' - New York Post",
+        "published": "Thu, 17 Sep 2026 17:01:00 GMT",
+        "published_kst": "2026-09-18T02:01:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$100"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House abandons Trump’s unqualified nominee to lead ICE, despite Mullin ties - MS NOW",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3lQNzJvak0yM09KWTRWb3NST1RNTkQxNU1hdVppY1dMdVV4c2lFQXZKem1zQlFvc0QxRTZ3dHVEdWRFdWExNXVTUGpETGd2MUI2eEdxXzI5VUN0RmtMNXV2OU44MU1ibWdxUUFhc0xYdEczdi1yTVFqU3RDTFRKcW5sWlk3c1YwMXZFT2hMZ1RjZDVndGVqdUx5MFVvT0JrVU55ZktGWElzanRfaWc?oc=5",
+        "summary": "White House abandons Trump’s unqualified nominee to lead ICE, despite Mullin ties MS NOW White House abandons Trump’s unqualified nominee to lead ICE, despite Mullin ties - MS NOW",
+        "published": "Thu, 17 Sep 2026 17:00:16 GMT",
+        "published_kst": "2026-09-18T02:00:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,35 +75,33 @@
     ],
     "kr": [
       {
-        "title": "미국 금리 4% 시대…한국 경제, 환율·물가·자금 유출 ‘삼중 부담’ - 뉴스비전e",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FZ0Q2dVRuUTZ6UUlJeHBuekl6dzR3NUR3Q3JfNk1JR3lkcTJhNTdPbUFSdWR1YzM0cnNsLUJEOFdxaUVIOGhNSE14dDZpbWRDZWJ0cmJoSlZqdWwtMnI1T2pFOVpHdw?oc=5",
-        "summary": "미국 금리 4% 시대…한국 경제, 환율·물가·자금 유출 ‘삼중 부담’ 뉴스비전e 미국 금리 4% 시대…한국 경제, 환율·물가·자금 유출 ‘삼중 부담’ - 뉴스비전e",
-        "published": "Thu, 17 Sep 2026 14:22:51 GMT",
-        "published_kst": "2026-09-17T23:22:51+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "4%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+] - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1paUhXZW5CSHVCRWV5R1FLTExvNDJDTTRCak1IVGtEQXRfS2h1SGc1MHNoa1RoVlY3ZDhQV2tycWZNTTZLSmhpWjBmOFlXT3dKcE9wekRGREdJdw?oc=5",
-        "summary": "\"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+] hankyung.com \"한동안 코스피 잠잠하더니\"…개미들 다시 '초긴장 모드' [분석+] - hankyung.com",
-        "published": "Thu, 17 Sep 2026 14:22:00 GMT",
-        "published_kst": "2026-09-17T23:22:00+09:00",
+        "title": "\"실리콘밸리 대신 오스틴 간다\"…27조 뭉칫돈 '싹쓸이' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qX1ZTRHBhT2NBOHgtM1JxdGVQX0NSSzc2c0w2X0ZIX014bkZLaUF4TlBxaTlGZ3RnSEo1X3owemJ6NnZSN2RJODljZzBVSTVSdG1zLXlQaEhodw?oc=5",
+        "summary": "\"실리콘밸리 대신 오스틴 간다\"…27조 뭉칫돈 '싹쓸이' 한국경제 \"실리콘밸리 대신 오스틴 간다\"…27조 뭉칫돈 '싹쓸이' - 한국경제",
+        "published": "Thu, 17 Sep 2026 17:02:00 GMT",
+        "published_kst": "2026-09-18T02:02:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "韓총리 \"한국, 미국이 가장 신뢰하는 동맹 되겠다\" - 더팩트",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jYjZJRllWc2hnMHhwRGRZOTJFdjdSdkZtUzNFdWJ2YzluMnNPUUtZODRZUzdybzlheXBOSXlJbXFSeHNjcDllTVFtSHZBQnR2QV9WVDdxYlXSAVNBVV95cUxORXVwSTMwblpGVVUxc2VLRUJkcTlUbTM2U1hwSGtrOWloMEhVRVFHUlRleWZzM1lud3NxQm9PcDJpT0U0UFFwTzNzRGp6VFVaY25Naw?oc=5",
-        "summary": "韓총리 \"한국, 미국이 가장 신뢰하는 동맹 되겠다\" 더팩트 韓총리 \"한국, 미국이 가장 신뢰하는 동맹 되겠다\" - 더팩트",
-        "published": "Thu, 17 Sep 2026 13:13:41 GMT",
-        "published_kst": "2026-09-17T22:13:41+09:00",
+        "title": "미성년자 미수거래 제한…증권사 '빚투' 관행 손본다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0teGVkSnFiNy12WGtCNXJ6elo2WTV5OXNWcWVLSjJ4NEI0YUlxVnBxNS1tVkFlZU0tZWJqTmpyS00wS1FLVGw3WnZBYlpkM0JnT1lvY1Q2SzVMdw?oc=5",
+        "summary": "미성년자 미수거래 제한…증권사 '빚투' 관행 손본다 한국경제 미성년자 미수거래 제한…증권사 '빚투' 관행 손본다 - 한국경제",
+        "published": "Thu, 17 Sep 2026 16:08:00 GMT",
+        "published_kst": "2026-09-18T01:08:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "중소형 증권사의 반격…회사채로 '실탄' 마련 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xaGZXWWtxS1FkWFRzWVFCdVNQV1MtaE9XYXk3VWc2bWM0UjVBZ2VhZ0VpZXh5cElPX1lZeUpYSFdQdU5LSkVSUzFGZUhLM3RQOGpLa1hWanE5dw?oc=5",
+        "summary": "중소형 증권사의 반격…회사채로 '실탄' 마련 한국경제 중소형 증권사의 반격…회사채로 '실탄' 마련 - 한국경제",
+        "published": "Thu, 17 Sep 2026 16:07:00 GMT",
+        "published_kst": "2026-09-18T01:07:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,42 +110,40 @@
     ],
     "world": [
       {
-        "title": "OECD: Turkish SMEs boost global supply chain integration - Yeni Safak English",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUm9lODlXeGpGSTMtVWp3blpzTDdzcGpLUG1rOVlHSUQ3cFJ1anROT19FN0N3TGs1V1poZXFTenBWbHlTcDBfV1ViaFlBWjBJTktEczJla21ZVzZHdmJSWkc0dmk5MGlLMVN6Q2FMa2w4YWZmWUZRRWhBYUNMMkdld2RCUUVlcHlYdXhDOWFWV0c2aUNzTVFyVU9LV2w?oc=5",
-        "summary": "OECD: Turkish SMEs boost global supply chain integration Yeni Safak English OECD: Turkish SMEs boost global supply chain integration - Yeni Safak English",
-        "published": "Thu, 17 Sep 2026 13:34:03 GMT",
-        "published_kst": "2026-09-17T22:34:03+09:00",
+        "title": "StarKist’s tuna supply chain partly relies on forced labor, report finds - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMy1jSHdiVFlleU96LWNfR2o3VDZwZDJuVW9xekFKQk5FbFE1YmctcHB1QVdmQ1AzaFdOOUtSa1hWTzE3a2JERURTd3FfSWVEUnJfbXNIZ2VBT0dxbFFVNFVnVFdZNm1GeFk1X0U2ZGhZUGRIVkZ5aG9HTG9mQUM2aHF0ekpXdHZmMlJQcnJEQldjMUlrekt6UjJjdVZMckN5dmNYMDlwV0tpZnA4Mk1yd0F3?oc=5",
+        "summary": "StarKist’s tuna supply chain partly relies on forced labor, report finds The Washington Post StarKist’s tuna supply chain partly relies on forced labor, report finds - The Washington Post",
+        "published": "Thu, 17 Sep 2026 17:03:01 GMT",
+        "published_kst": "2026-09-18T02:03:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US tariffs against Russian oil buyers pass: What it means for China, India - aljazeera.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEJUT1htTWxONlVOMWNoZHhkdTdacDF0Rm84Rkc3c2E3eE5IUTNfeU4wclhMYWhHQVkyVWZxTHFoMGxVRmZKRFFyMWpvWmNZdHdEWDQ0bGVySXhuTWp6MktCSjd5Q1lUdDRUUldEUlZWYUtrckZVMFgzb041WTRHeWV2R3JEUTVIUnRTaE95aUdGRzNhY1NKOXhtQ2FQNWkya0Q4dFpLMzF3M1IyQ2F5dNIBtgFBVV95cUxPN0hieUNPSkFYa3Z3QXAwTnhHRENsU2htdnFPX2JRNklvR2c5TnpCT256U2RaYTAwSFlqRzV0cWlfRFM5aE4tTkRsc3ZDbFpLYXJUSWtUVmVPeG94TXdSZ2ViQmZaLUJ3OEJad1JmbjRrd2NYczZCNFB4Nml6ZlBVamx0cEIxaGVia19rcDRxWkptbm1xbUE0QUxJQmx6enV1RWh5NHU4UHVLR3hBTzhXNXVYYV9fZw?oc=5",
-        "summary": "US tariffs against Russian oil buyers pass: What it means for China, India aljazeera.com US tariffs against Russian oil buyers pass: What it means for China, India - aljazeera.com",
-        "published": "Thu, 17 Sep 2026 13:02:54 GMT",
-        "published_kst": "2026-09-17T22:02:54+09:00",
+        "title": "EcoVadis on Data Quality in Supply Chain Decarbonisation - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFdUVG1VZmhaWjd6SU04WUxlcTkyTG4wSVJ5QmxPdEE5bXJ5NzdRU09GNUl3TG9DT3gwWVRZSFFRSjRGaW5jQUxTRUhQRVVqcUV1VTd1MTdXZDF3Um9GNjRLcGhvWFpLeEZhYU5HRUpzM2xpNDdrZU5qeWx4SGJNNk5MRU9YelpYZzR2TENmdzczZC1RQXpr?oc=5",
+        "summary": "EcoVadis on Data Quality in Supply Chain Decarbonisation Supply Chain Digital EcoVadis on Data Quality in Supply Chain Decarbonisation - Supply Chain Digital",
+        "published": "Thu, 17 Sep 2026 16:03:43 GMT",
+        "published_kst": "2026-09-18T01:03:43+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "EFESO Survey Finds Nearly 30% of Companies Fail to Turn Supply Chain Resilience into Stronger Performance - globenewswire.com",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPRGpaZWo3RzBPV0FLT3JPeUd4WEZoX0FBREdZSzJoYmlZX19wdTBiNEI0RVVhbDctc0MyeEtPUEwtSlZ0b05VdDNWMUpfOUpIaGIxT1RNSU83VEhOc1p0UHpsSjZrQzFnLVd4NmdRV3BhY1h3cEJwVGw4OFdpa3FzU1RqeDNaZ2NfWlJNVXNWdURTazBtaWF6U2VFS3hHNkh2VXFISm9sU09XQ0VWRjlJSXRoczBuRDBVN1BDS19RVW0wNFF1Y1I0MlpFRjlOZGl4RFA2Q1J5OUNmR2hOT1lua1A5bzBuOUJiQ2VKaF9EdjBwem1tY19hVmFLSkFDRDdWbUVmUVBDVQ?oc=5",
-        "summary": "EFESO Survey Finds Nearly 30% of Companies Fail to Turn Supply Chain Resilience into Stronger Performance globenewswire.com EFESO Survey Finds Nearly 30% of Companies Fail to Turn Supply Chain Resilience into Stronger Performance - globenewswire.com",
-        "published": "Thu, 17 Sep 2026 13:00:00 GMT",
-        "published_kst": "2026-09-17T22:00:00+09:00",
+        "title": "What are all the sanctions Iran is under? - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDNSdWU2Z3NCQWhfNU03dG5CcTc1bmxlZnZmaUdCbmRPRTRER19GTGQwWHIxUnppa0lVZkRhY2RqWDkwcnc5d1puMzc5Z2JYTzJNYUFfREp1VUdTd1VoN0Z4M3oyankwYzR4Y1hXV01BZ3ExdVY4VXNqS3J1ZDd2VHhic1A0dTNX0gGOAUFVX3lxTE80ZjJiVEE5MzRaWldZYmFjNU5iNkNmbFc5M1J2bUhySUQ3ME1MNDF1UGhqUS05aUMzNW9DZE5FdTlpNDdGLUNjdGZLbEIxUzdaQWFGSHA1SEFjeTdqTzJkZHliRUZxMEpwRkdISmFJZ3VOeEdqYmFRN2YyaEhoZ04tSW1vVVByamJ6VGhyR2c?oc=5",
+        "summary": "Al Jazeera What are all the sanctions Iran is under?",
+        "published": "Thu, 17 Sep 2026 15:05:21 GMT",
+        "published_kst": "2026-09-18T00:05:21+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "30%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things. GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales / 미국 금리 4% 시대…한국 경제, 환율·물가·자금 유출 ‘삼중 부담’ 뉴스비전e 미국 금리 4% 시대…한국 경제, 환율·물가·자금 유출 ‘삼중 부담’ - 뉴스비전e / OECD: Turkish SMEs boost global supply chain integration Yeni Safak English OECD: Turkish SMEs boost global supply chain integration - Yeni Safak English",
+  "wrap_summary": "President Donald Trump wants his name on the Kennedy Center. Trump photo seems to reference Kennedy Center demolition amid legal battle over closure / \"실리콘밸리 대신 오스틴 간다\"…27조 뭉칫돈 '싹쓸이' 한국경제 \"실리콘밸리 대신 오스틴 간다\"…27조 뭉칫돈 '싹쓸이' - 한국경제 / StarKist’s tuna supply chain partly relies on forced labor, report finds The Washington Post StarKist’s tuna supply chain partly relies on forced labor, report finds - The Washington Post",
   "invest_summary": ""
 }
