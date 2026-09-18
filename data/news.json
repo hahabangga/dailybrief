@@ -1,60 +1,29 @@
 {
-  "date": "2026-09-18",
-  "generated_at_utc": "2026-09-18T14:16:25Z",
-  "cutoff_kst": "2026-09-18T23:16:00+09:00",
+  "date": "2026-09-19",
+  "generated_at_utc": "2026-09-18T16:57:47Z",
+  "cutoff_kst": "2026-09-19T01:57:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-        "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
-        "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
-        "published": "Fri, 18 Sep 2026 14:06:46 GMT",
-        "published_kst": "2026-09-18T23:06:46+09:00",
+        "title": "Trump's $403 million war chest is finally being spent on the midterms. Now comes the hard part",
+        "url": "https://www.cnbc.com/2026/09/18/trump-election-ad-spend-maga-inc.html",
+        "summary": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets. Trump's $403 million war chest is finally being spent on the midterms.",
+        "published": "Fri, 18 Sep 2026 16:49:03 GMT",
+        "published_kst": "2026-09-19T01:49:03+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "$403"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House withdraws Trump's nominee to lead ICE - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXNacFc2YzdMZ014SzdHOFBVbEc2TkpUdERlQ3Q4S2JpUGU1S0pYT0lza1Z2ZTZRbER6VW5jU3BiNmthdEsyaHB5UXlDOHJnTXR1Y09maVdId2tfSlhFWU5rOENYTzhvZTVjTHNwdEJkUjI0b1Q3cURWMFZwbDJrRjlmd01yQTFBc3o5VmdoNVdIbkJ3dUkzOURYVXNkLXR5?oc=5",
-        "summary": "White House withdraws Trump's nominee to lead ICE NBC News White House withdraws Trump's nominee to lead ICE - NBC News",
-        "published": "Fri, 18 Sep 2026 14:01:57 GMT",
-        "published_kst": "2026-09-18T23:01:57+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. crude oil rises as market assesses disruption from Saudi pipeline closure",
-        "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-        "summary": "Saudi Arabia and the Houthis exchanged fresh attacks across their border, raising concerns that the widening Middle East conflict could further disrupt supplies U.S. crude oil rises as market assesses disruption from Saudi pipeline closure",
-        "published": "Fri, 18 Sep 2026 14:01:51 GMT",
-        "published_kst": "2026-09-18T23:01:51+09:00",
+        "title": "Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
+        "url": "https://www.cnbc.com/2026/09/18/kylian-mbappe-signs-with-on-after-nike-parts-ways.html",
+        "summary": "Mbappe had been signed with Nike for roughly two decades, and his agreement with On is the first it has made with a soccer player. Nike parts ways with Kylian Mbappé, soccer superstar signs with On",
+        "published": "Fri, 18 Sep 2026 16:42:14 GMT",
+        "published_kst": "2026-09-19T01:42:14+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House set to tout Medicaid most favored nation drug pricing deals - thehill.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44OTQ0T1pUVkVzdHBYZVlmTkU4cndfYkhYTnlKeWpDeTIxalpmV0lTYXpGZXJfOWNmS3hYc0VZYUJrRkk1eHk3bjMwYVNvQWRoZkJRRUxaVjNhYnc5aVNubnZvSl9KMEFOeFN4RU4xOS0yZlJacXVUUTh4VGRqR2PSAYQBQVVfeXFMTktPNlRlRE5PUUozYUlzZUFjWHJJY1RsRmEycmx0Y2p4WFE2ZnlZdWVHUXl5OEJhNlZoR0V6Z0UxcHFSSXpZbkNOS3N2V3RVaDBONmwtSDIwNjg0eEEtWVNpNkhnZzZSUDFpTTMxS1R1Q3pUbWdyaFJ5U0tnZlR0aWUxR0Z0?oc=5",
-        "summary": "White House set to tout Medicaid most favored nation drug pricing deals thehill.com White House set to tout Medicaid most favored nation drug pricing deals - thehill.com",
-        "published": "Fri, 18 Sep 2026 13:56:00 GMT",
-        "published_kst": "2026-09-18T22:56:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House chief of staff Susie Wiles says she's ‘cancer free' after treatment - NBC 6 South Florida",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWgwUkhBeHhBZDhRMzFqcEdta2tSLVg1eXRxYmllcnpteHRHcE0wU3lVdEVsbHM2YjZGX0Q5WVVjVFpzb0JoaDV1NjdvLUQtbThWX0FFSXFKOTI0bmpqM1gwYXJsa3dNbEw1T2xGZE5Ta05NZXRXcThVU3FVSlhDeF9ST1J6S19uS2pGYTVqRzI0UXNHMnFXNzQ2Z9IBowFBVV95cUxPZ1NhRnE1X2FNTVNncTgxWEh1ZjJtNzB0SUxRZ0RDRHpNTmtGNnQtby11X3dIYU1TczNpc0RUR0otNndUajFYd0xCVzdHRl9oSm80T3pVRzZhcTBXTVlTX2JFSmRZNHJFeWlzeUlTa1Q0TF9qeU5QOWs1Z2w4RWI5RFJEcE1INTVyS0QyTzB2LTRlQmJWY0JWMmtHY1JTOWtMNWI0?oc=5",
-        "summary": "White House chief of staff Susie Wiles says she's ‘cancer free' after treatment NBC 6 South Florida White House chief of staff Susie Wiles says she's ‘cancer free' after treatment - NBC 6 South Florida",
-        "published": "Fri, 18 Sep 2026 13:48:36 GMT",
-        "published_kst": "2026-09-18T22:48:36+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -63,82 +32,115 @@
         "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
         "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
         "summary": "Fed Vice Chair for Supervision Michelle Bowman said a new report indicates the central bank's staff missed signs ahead of Silicon Valley Bank's 2023 failure. Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
-        "published": "Fri, 18 Sep 2026 13:46:36 GMT",
-        "published_kst": "2026-09-18T22:46:36+09:00",
+        "published": "Fri, 18 Sep 2026 16:38:56 GMT",
+        "published_kst": "2026-09-19T01:38:56+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "2023"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak5GUzFuWWRqR1pyS1YtWkxtSXdRRXZQeTVOQzlEQmMtMVFteUxjYnRDRTdlRm91NFhacVJ4UkEwRVA1Slg3THlocElZRTZxdTh3TnNyZGlpRklMdFhyWndMaEVORS1JMUY0N3lLc0xQQkdTZHFhMzNtY0R1d01KeVhjRVI3SURHenRrVWVTME9TRDZl?oc=5",
+        "summary": "Inside the White House, the Debate Is More Complex. The New York Times Trump Calls A.I.",
+        "published": "Fri, 18 Sep 2026 16:36:47 GMT",
+        "published_kst": "2026-09-19T01:36:47+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Judge isn’t swayed by government’s claims that plans for an ‘anti-weaponization fund’ are dead - The Press Democrat",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNSjVSZklBTExMOFhVWWpMVjdVM1gyOXJ2RVVpUEplcmNEeWJSWlFOZWNPWHFvQXY5QTNtOUZidUhOVVhEb2tBajQzMkZ2ZnJuaDFyakhDd0NHeDY3Z0JZV2ZpaDlIRkQyY29mTXdrOEk0SkhQc2FQcXZ6TUVuQQ?oc=5",
+        "summary": "Judge isn’t swayed by government’s claims that plans for an ‘anti-weaponization fund’ are dead The Press Democrat Judge isn’t swayed by government’s claims that plans for an ‘anti-weaponization fund’ are dead - The Press Democrat",
+        "published": "Fri, 18 Sep 2026 16:28:25 GMT",
+        "published_kst": "2026-09-19T01:28:25+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Irish Engineering Firm Establishes North American HQ in Dallas, Plans 1,000 U.S. Jobs - D Magazine",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVlwUjEtQ042VFBVaW43Tld5S0prUDF0QTl2b0pzLVE0T3E5NERlSThLdGhCaWN0VEZkejJBdEpiZHNEVWhnVGFRajhfRENsSW9VdzlBRmJCVGVMSmZwWElDWVI4OWFVVU1ERUhjMWVLQnpMSDR5X3FoLWM0LUVhWmVkNA?oc=5",
+        "summary": "Jobs D Magazine Irish Engineering Firm Establishes North American HQ in Dallas, Plans 1,000 U.S. Jobs - D Magazine",
+        "published": "Fri, 18 Sep 2026 16:22:48 GMT",
+        "published_kst": "2026-09-19T01:22:48+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LRkFGTW5Ka0tSOGY1X2Jyb0s2QlhfMFRqemFvazB5N2NleGJQRDhpY04ybm55Y0hQT2Zlb3VFZmlrdjZmbGx1Y0N4ZFZGblktekZXX3g4NkU0Zw?oc=5",
-        "summary": "야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 한국경제 야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 - 한국경제",
-        "published": "Fri, 18 Sep 2026 12:51:30 GMT",
-        "published_kst": "2026-09-18T21:51:30+09:00",
+        "title": "두산, 호실적·주주환원에 '껑충' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtRlVpZ19NUXNiOU5DbDlEQmVhMU5hd3pmeHNoNm9NWGZURkFKZnAxbDVsTDd2V1BkaE5Wd2xWcU1NSTFLS1dFQkhvcHRWN1psZzNrUGdYT1M4QQ?oc=5",
+        "summary": "두산, 호실적·주주환원에 '껑충' 한국경제 두산, 호실적·주주환원에 '껑충' - 한국경제",
+        "published": "Fri, 18 Sep 2026 16:25:00 GMT",
+        "published_kst": "2026-09-19T01:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[속보] 남자농구 아시안게임 결승 '한일전 성사' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qZ1d5bGNXS0NYR1JGVWFwZE9md1dMM0dXN2ltRXJBMGU5dVFjWjVaT3V1MnFiSU1ramE5OTB2bTZhZWhHMHkyMnVkQl82UXJMeTVrY09MMExRQQ?oc=5",
-        "summary": "[속보] 남자농구 아시안게임 결승 '한일전 성사' 한국경제 [속보] 남자농구 아시안게임 결승 '한일전 성사' - 한국경제",
-        "published": "Fri, 18 Sep 2026 12:24:22 GMT",
-        "published_kst": "2026-09-18T21:24:22+09:00",
+        "title": "유동원 \"AI 사이클, 아직 종료 아냐…美 성장주 매력\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RRmZoMlRBSHZfM0E4QkJKQlFuWjNXcVlac0Zib2JnQ281LWFkOHg5ZTZvS3pITVFDeENQTjdUVlQtc1JIaWxuLVFKbEJtSEU3Q0JGNW9rN3NDQQ?oc=5",
+        "summary": "유동원 \"AI 사이클, 아직 종료 아냐…美 성장주 매력\" 한국경제 유동원 \"AI 사이클, 아직 종료 아냐…美 성장주 매력\" - 한국경제",
+        "published": "Fri, 18 Sep 2026 16:23:00 GMT",
+        "published_kst": "2026-09-19T01:23:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국 경기에 웬 북한 국가…체육회, 조직위에 항의 [2026 아시안게임] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS25pS3JRd3VneXBJMGU4NmxDa2VRUHpfUGRZT29xTDF5V1lvZFFScWV3aWkzcWh0X3dEMEJVQ0N4ZU5KdFV5MTh0cGVubUlDbUdaVVp3bHA0UQ?oc=5",
-        "summary": "한국 경기에 웬 북한 국가…체육회, 조직위에 항의 [2026 아시안게임] 한국경제 한국 경기에 웬 북한 국가…체육회, 조직위에 항의 [2026 아시안게임] - 한국경제",
-        "published": "Fri, 18 Sep 2026 11:38:28 GMT",
-        "published_kst": "2026-09-18T20:38:28+09:00",
+        "title": "[단독] 16만 미제사건 쌓였는데…검·경 '이관 엇박자' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kRlNkN3FMenEtMW1yQmpPSDVvdHlOY2MtZGxOV2N1WmpxQml6R1NmQVZ0MjhYRV80RXVDdFhpUnJpSGltTmNjcjcyeFVLYkl2SWExOHFEUU1SZw?oc=5",
+        "summary": "[단독] 16만 미제사건 쌓였는데…검·경 '이관 엇박자' 한국경제 [단독] 16만 미제사건 쌓였는데…검·경 '이관 엇박자' - 한국경제",
+        "published": "Fri, 18 Sep 2026 16:13:00 GMT",
+        "published_kst": "2026-09-19T01:13:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "FBS Supply Chain Strategies for Labs Facing Shortages - Lab Manager",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnlPYm9qU1V0ZGVDREp2UEloMlBZVHhsSHo3Z1J1RjZOM1ExNHNNYUttMExYZ1Zha2VCS21JTTY2ZzIxYzE5QTJVZldwcEhCQWtGU1VmZGlBVGltMDU2REpLYUFueWxpWEhIVFFzdGhTTm9TczBaSUlFMTVjZVdnekx3bWs0V1ZocFNORkVWaw?oc=5",
-        "summary": "FBS Supply Chain Strategies for Labs Facing Shortages Lab Manager FBS Supply Chain Strategies for Labs Facing Shortages - Lab Manager",
-        "published": "Fri, 18 Sep 2026 14:13:26 GMT",
-        "published_kst": "2026-09-18T23:13:26+09:00",
+        "title": "Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONkNlcmx2SVJuaFZnZ3ZVVnVoSDlLakRGYnl0WHVidzJobUIySGdydGRMcjFkU3FLQ2xvUFRab0pfUHFXOFVnYy1kWms1VTdwTlRmQTA4SjBlVnJSU0ZybmhrX2ZmMzlmWGxnRVByUGh4bHpvNTFSVFVDajdsR2NUdFN6SXQ0RVMyYmgzemhTNzdQUV9SSEFLeU16MDFKOHF4dHhjeWRCVl9malloZ1c1MGNSONIBuAFBVV95cUxNNFBkRHd2SWw0aGptb0JtTVB1RzRTVVJTaGo5cUYxY2lTQ3BQOVA2bmhNc3NhVEVJY2ZTX3pWOW56cGpzd0JCdGNVMDJCMnBWUWVCSG1tRlExSWJvTVJIcUI1cTg5U2dtZFp3UTdRSEJFcDNEQ1l6bU43ZnY1Q1FtYmNpLU1HNEZ6andiWUtIUGRYRjdnUk5PS0kwMDJhTnFyM0drdFppNklkems0QXpWaVFRSklMVnd0?oc=5",
+        "summary": "Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions Crude Oil Prices Today | OilPrice.com Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions - Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 18 Sep 2026 16:00:00 GMT",
+        "published_kst": "2026-09-19T01:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$118"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "How Warren Anderson Leads McDonald’s Supply Chain - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMjhkZ1YtY1pkWFBSOGtzYml6VGYxekxvV2R0bGJUSWpwV3lYMWhUUHZOMEtjRjZYak40VjlKR1BpTEdUYzBVQUh0UzJWZGNrajNsRmtxeWFsejJueFY4SG5vcFlaOVVNQzNRMW1LTjdMZnNTUEtnUFF5S3p1YV9zRnhQRGFrR05keUhTXw?oc=5",
+        "summary": "How Warren Anderson Leads McDonald’s Supply Chain Supply Chain Digital How Warren Anderson Leads McDonald’s Supply Chain - Supply Chain Digital",
+        "published": "Fri, 18 Sep 2026 15:36:23 GMT",
+        "published_kst": "2026-09-19T00:36:23+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Sojitz Corporation and NRS CORPORATION Announce Partnership to Develop Semiconductor Materials Supply Chain for Dholera Fab - Tata Electronics",
-        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWDBfU3hXb2FDNnlHcEtORmRTbjZjVXlKamxwQkxUcGU1RHUyQ2FoczhkYzc1YXgyZWIwZGl2UkNCWWlMRW1sbW9fNFFWajJYX0RfT0FfVGkwMmhPQWJWNldrX0VzS1Rpend3b1I3T242REVGd191NEdyeG1zRU04cTBmNkFKVmo2STJmbHFkTmtoeGRYZHFOcDh4dmhpUzZ5ZXlYUVRmWUhHVEpjUTVjU3J0eFAwcURqeXh4b2FLVFV0V2Z4Z09MeFFRbzlZem5aT3ZMWFdyUXZmUjZJVkRKUzJWaWFNZXBXWjFNejJxR1dLQk9zM0U3WFA4TjdOSnd0czQ0Qg?oc=5",
-        "summary": "Sojitz Corporation and NRS CORPORATION Announce Partnership to Develop Semiconductor Materials Supply Chain for Dholera Fab Tata Electronics Sojitz Corporation and NRS CORPORATION Announce Partnership to Develop Semiconductor Materials Supply Chain for Dholera Fab - Tata Electronics",
-        "published": "Fri, 18 Sep 2026 13:14:15 GMT",
-        "published_kst": "2026-09-18T22:14:15+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - Military Embedded Systems",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd25GWWpWc1Zrd3pqbU5MbWctQlJVNzNRbnN2NmU1RXRDQTIwbElCQXNLZWt1V0R4aG5HNWtBWHZGdklMR2hYTHU2TWFFUEhMSnhzRGRMaVFsWnZPV2E2b3BIUEFuekc5cU9VTVljN1JyS1I2bFljMWxZdk9YNkdxN29GaktOOWdBQVhSNjhKbURqZENhWXdMeXViQzlPellMMk41RUlScklfZEc4NmRtTUtZbzExVXpwdkphUmRKMU1xeVVPbFFuS25NN0lOSjYwbUd3V0huamNvTU00alJodQ?oc=5",
-        "summary": "defense supply chain Military Embedded Systems Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S.",
-        "published": "Fri, 18 Sep 2026 12:27:45 GMT",
-        "published_kst": "2026-09-18T21:27:45+09:00",
+        "title": "Midwest Manufacturers Invited to Free Supply Chain Conference Featuring Insights from Global Importers and Exporters - EIN Presswire",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTXljZHZFanFGeTg2bHVfenRWTVNDajlxUHJJbWtoMGVrTlY5M2N0WW5XQVhtT3hncVdyU1BqODdKa2djZGJLZEpzaURWX0Fqa1NUckpYY19lekY4dE1xVWR3TzBiTngzSXlhcVlTeWhjTFhmdGpSeUpzM18yTkhLcUI5eTdHYmlydDFlZmNvdEczaUlpVTVJYmU3eW9iRmlYT2pXdERGQmNtbzM3LVh4TnVwUWZVVnpEUHN3MVVOcUxqVGR0WS1XcHp5eUtaUGlYSWo1eUtCeXc2ejM0NVBDV2ZuOHhBbVdHcFNvak01S0tJZEs4TGc?oc=5",
+        "summary": "Midwest Manufacturers Invited to Free Supply Chain Conference Featuring Insights from Global Importers and Exporters EIN Presswire Midwest Manufacturers Invited to Free Supply Chain Conference Featuring Insights from Global Importers and Exporters - EIN Presswire",
+        "published": "Fri, 18 Sep 2026 15:17:00 GMT",
+        "published_kst": "2026-09-19T00:17:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC / 야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 한국경제 야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 - 한국경제 / FBS Supply Chain Strategies for Labs Facing Shortages Lab Manager FBS Supply Chain Strategies for Labs Facing Shortages - Lab Manager",
+  "wrap_summary": "Democratic Senate candidates entered summer with a cash edge, while Trump-linked groups now pour money into increasingly crowded and costly ad markets. Trump's $403 million war chest is finally being spent on the midterms. / 두산, 호실적·주주환원에 '껑충' 한국경제 두산, 호실적·주주환원에 '껑충' - 한국경제 / Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions Crude Oil Prices Today | OilPrice.com Russia's $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions - Crude Oil Prices Today | OilPrice.com",
   "invest_summary": ""
 }
