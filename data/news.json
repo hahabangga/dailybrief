@@ -1,143 +1,144 @@
 {
   "date": "2026-09-18",
-  "generated_at_utc": "2026-09-18T10:06:08Z",
-  "cutoff_kst": "2026-09-18T19:06:00+09:00",
+  "generated_at_utc": "2026-09-18T14:16:25Z",
+  "cutoff_kst": "2026-09-18T23:16:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-        "url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html",
-        "summary": "Buffett's son, Howard, will replace him as chairman as dictated by a long-standing succession plan, Berkshire said. Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins'",
-        "published": "Fri, 18 Sep 2026 10:00:10 GMT",
-        "published_kst": "2026-09-18T19:00:10+09:00",
+        "title": "OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+        "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+        "summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC",
+        "published": "Fri, 18 Sep 2026 14:06:46 GMT",
+        "published_kst": "2026-09-18T23:06:46+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AirAsia's Fernandes refutes financial concerns, points to new growth plans",
-        "url": "https://www.cnbc.com/2026/09/18/airasia-co-founder-tony-fernandes.html",
-        "summary": "AirAsia's Tony Fernandes pushed back against a report raising concerns over the airline’s financial health, while signaling plans to resume growth. AirAsia's Fernandes refutes financial concerns, points to new growth plans",
-        "published": "Fri, 18 Sep 2026 09:44:48 GMT",
-        "published_kst": "2026-09-18T18:44:48+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-        "url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
-        "summary": "Anthropic and OpenAI have announced a flurry of AI infrastructure deals over the past year as demand booms. Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity",
-        "published": "Fri, 18 Sep 2026 09:38:17 GMT",
-        "published_kst": "2026-09-18T18:38:17+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Inside the scramble for trusted AI cops - Axios",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVW93ZWtra3BJN0ZuUVNlbzZzamp0N0Y1RGpsLWJRR2RWU3BlUUFTT1ZOcTR5cDlZNVFFaXNQWWJ1NFN2cmdrYnNRNnhrbGNTZlJXTUJYU295RTBNd2g1VTVIRE5jd19qN2tUWDFEbjZMV2tGMWpwSFROQkxWeGVub2p3?oc=5",
-        "summary": "Inside the scramble for trusted AI cops Axios Inside the scramble for trusted AI cops - Axios",
-        "published": "Fri, 18 Sep 2026 09:01:18 GMT",
-        "published_kst": "2026-09-18T18:01:18+09:00",
+        "title": "White House withdraws Trump's nominee to lead ICE - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXNacFc2YzdMZ014SzdHOFBVbEc2TkpUdERlQ3Q4S2JpUGU1S0pYT0lza1Z2ZTZRbER6VW5jU3BiNmthdEsyaHB5UXlDOHJnTXR1Y09maVdId2tfSlhFWU5rOENYTzhvZTVjTHNwdEJkUjI0b1Q3cURWMFZwbDJrRjlmd01yQTFBc3o5VmdoNVdIbkJ3dUkzOURYVXNkLXR5?oc=5",
+        "summary": "White House withdraws Trump's nominee to lead ICE NBC News White House withdraws Trump's nominee to lead ICE - NBC News",
+        "published": "Fri, 18 Sep 2026 14:01:57 GMT",
+        "published_kst": "2026-09-18T23:01:57+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Consumer Prices Rise 0.4% In August While Phoenix Inflation Hits 2.5% - AZ FREE NEWS",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV1ZBVFF0Wm9BSWh1RjF6Mk9pVHVfU0k2SFJPMXVLWkdhT00tVXdRSWhQTkNMVm56cTRJc1MwWGtHNVRDY0l1ZGVybkUtY3VFSi1GNG9XOWZJYU1TRUU3V1I5bk5EbjdLX1I2WTZCU19JUUdZQlVGTW5DWkZYRmcwQXVjRXZkai1DVEVjanNvWnNXWnRkWGNaa2xhSEthd1FTNmJSQ1Bn?oc=5",
-        "summary": "Consumer Prices Rise 0.4% In August While Phoenix Inflation Hits 2.5% AZ FREE NEWS U.S.",
-        "published": "Fri, 18 Sep 2026 09:00:23 GMT",
-        "published_kst": "2026-09-18T18:00:23+09:00",
+        "title": "U.S. crude oil rises as market assesses disruption from Saudi pipeline closure",
+        "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+        "summary": "Saudi Arabia and the Houthis exchanged fresh attacks across their border, raising concerns that the widening Middle East conflict could further disrupt supplies U.S. crude oil rises as market assesses disruption from Saudi pipeline closure",
+        "published": "Fri, 18 Sep 2026 14:01:51 GMT",
+        "published_kst": "2026-09-18T23:01:51+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House set to tout Medicaid most favored nation drug pricing deals - thehill.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44OTQ0T1pUVkVzdHBYZVlmTkU4cndfYkhYTnlKeWpDeTIxalpmV0lTYXpGZXJfOWNmS3hYc0VZYUJrRkk1eHk3bjMwYVNvQWRoZkJRRUxaVjNhYnc5aVNubnZvSl9KMEFOeFN4RU4xOS0yZlJacXVUUTh4VGRqR2PSAYQBQVVfeXFMTktPNlRlRE5PUUozYUlzZUFjWHJJY1RsRmEycmx0Y2p4WFE2ZnlZdWVHUXl5OEJhNlZoR0V6Z0UxcHFSSXpZbkNOS3N2V3RVaDBONmwtSDIwNjg0eEEtWVNpNkhnZzZSUDFpTTMxS1R1Q3pUbWdyaFJ5U0tnZlR0aWUxR0Z0?oc=5",
+        "summary": "White House set to tout Medicaid most favored nation drug pricing deals thehill.com White House set to tout Medicaid most favored nation drug pricing deals - thehill.com",
+        "published": "Fri, 18 Sep 2026 13:56:00 GMT",
+        "published_kst": "2026-09-18T22:56:00+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House chief of staff Susie Wiles says she's ‘cancer free' after treatment - NBC 6 South Florida",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWgwUkhBeHhBZDhRMzFqcEdta2tSLVg1eXRxYmllcnpteHRHcE0wU3lVdEVsbHM2YjZGX0Q5WVVjVFpzb0JoaDV1NjdvLUQtbThWX0FFSXFKOTI0bmpqM1gwYXJsa3dNbEw1T2xGZE5Ta05NZXRXcThVU3FVSlhDeF9ST1J6S19uS2pGYTVqRzI0UXNHMnFXNzQ2Z9IBowFBVV95cUxPZ1NhRnE1X2FNTVNncTgxWEh1ZjJtNzB0SUxRZ0RDRHpNTmtGNnQtby11X3dIYU1TczNpc0RUR0otNndUajFYd0xCVzdHRl9oSm80T3pVRzZhcTBXTVlTX2JFSmRZNHJFeWlzeUlTa1Q0TF9qeU5QOWs1Z2w4RWI5RFJEcE1INTVyS0QyTzB2LTRlQmJWY0JWMmtHY1JTOWtMNWI0?oc=5",
+        "summary": "White House chief of staff Susie Wiles says she's ‘cancer free' after treatment NBC 6 South Florida White House chief of staff Susie Wiles says she's ‘cancer free' after treatment - NBC 6 South Florida",
+        "published": "Fri, 18 Sep 2026 13:48:36 GMT",
+        "published_kst": "2026-09-18T22:48:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+        "url": "https://www.cnbc.com/2026/09/18/fed-silicon-valley-bank.html",
+        "summary": "Fed Vice Chair for Supervision Michelle Bowman said a new report indicates the central bank's staff missed signs ahead of Silicon Valley Bank's 2023 failure. Fed staff should have known Silicon Valley Bank was vulnerable, new report finds",
+        "published": "Fri, 18 Sep 2026 13:46:36 GMT",
+        "published_kst": "2026-09-18T22:46:36+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "0.4%",
-          "2.5%"
+          "2023"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "More than 1,000 jobs at risk as US weighs higher tariffs on Norwegian seafood - intrafish.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYVBBNEdXWlo1UkhNNmRjdVVXYVFRX01Ka21DX0xrQ3FkVHZWRFJoUnJXZDVQMmNJZDVZSVRCRUpDbGNUNXE5S3Y5Y0pKYUNsNWxSTm56V2xZdUdxN1BER2NhNTlzdlVPeFRncXdDVU9uUWFuUHZKVmJUak82RF92UmZLWmpDcW84ZUlBSmU1Um1rUHl4RE16MXlFNVpkSkg2MkxJelhzaVpLNzRzTFZvY2dTY1RhbHI5eU4xNEZMWi1VWWJ6TXc?oc=5",
-        "summary": "More than 1,000 jobs at risk as US weighs higher tariffs on Norwegian seafood intrafish.com More than 1,000 jobs at risk as US weighs higher tariffs on Norwegian seafood - intrafish.com",
-        "published": "Fri, 18 Sep 2026 08:25:41 GMT",
-        "published_kst": "2026-09-18T17:25:41+09:00",
-        "domain": "google.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "한국이 「원화만 인정하는」 체인 구축을 추진… Maroo, 규제 준수를 인프라에 내장 - 深潮TechFlow",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55VVh1X2s3blIwS0tZWTR6RWN1SzlPSzQ5ejd2clc0QnA3NVEwWUczdDRfaXBROGh0UUtKUmZSN3ZFSGtYSzJYeGYyMTlraXdXUmNOeXhVTDBFY0tP?oc=5",
-        "summary": "한국이 「원화만 인정하는」 체인 구축을 추진… Maroo, 규제 준수를 인프라에 내장 深潮TechFlow 한국이 「원화만 인정하는」 체인 구축을 추진… Maroo, 규제 준수를 인프라에 내장 - 深潮TechFlow",
-        "published": "Fri, 18 Sep 2026 09:29:03 GMT",
-        "published_kst": "2026-09-18T18:29:03+09:00",
+        "title": "야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LRkFGTW5Ka0tSOGY1X2Jyb0s2QlhfMFRqemFvazB5N2NleGJQRDhpY04ybm55Y0hQT2Zlb3VFZmlrdjZmbGx1Y0N4ZFZGblktekZXX3g4NkU0Zw?oc=5",
+        "summary": "야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 한국경제 야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 - 한국경제",
+        "published": "Fri, 18 Sep 2026 12:51:30 GMT",
+        "published_kst": "2026-09-18T21:51:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[책마을] 20년간의 데이터로 추적한 '집값 상승 동력' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13NnNwbXZFdTNmYXFsTGNxem1qX1JVQWJTTzZfS3Y1T090c0NLTThKb1hWRE1IRGx4NDFsRXl2OWdxakh6SE5lSXl5NVdnOWtncDl2cXhUeWFlZw?oc=5",
-        "summary": "[책마을] 20년간의 데이터로 추적한 '집값 상승 동력' 한국경제 [책마을] 20년간의 데이터로 추적한 '집값 상승 동력' - 한국경제",
-        "published": "Fri, 18 Sep 2026 09:27:42 GMT",
-        "published_kst": "2026-09-18T18:27:42+09:00",
+        "title": "[속보] 남자농구 아시안게임 결승 '한일전 성사' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qZ1d5bGNXS0NYR1JGVWFwZE9md1dMM0dXN2ltRXJBMGU5dVFjWjVaT3V1MnFiSU1ramE5OTB2bTZhZWhHMHkyMnVkQl82UXJMeTVrY09MMExRQQ?oc=5",
+        "summary": "[속보] 남자농구 아시안게임 결승 '한일전 성사' 한국경제 [속보] 남자농구 아시안게임 결승 '한일전 성사' - 한국경제",
+        "published": "Fri, 18 Sep 2026 12:24:22 GMT",
+        "published_kst": "2026-09-18T21:24:22+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[책마을] 경제학 방법론으로 세상을 바꾸는 방법 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtWXRTVmk1bVNCelFobFFZcndDbEtacnBGTVJIaG13em8tdlh6OF9ReDZ0Z3BQckhFbzBzaEhRZ0ZJZHo2X1gtWUNqb3hBakJwa3F4aVIyRDlxUQ?oc=5",
-        "summary": "[책마을] 경제학 방법론으로 세상을 바꾸는 방법 한국경제 [책마을] 경제학 방법론으로 세상을 바꾸는 방법 - 한국경제",
-        "published": "Fri, 18 Sep 2026 09:26:48 GMT",
-        "published_kst": "2026-09-18T18:26:48+09:00",
+        "title": "한국 경기에 웬 북한 국가…체육회, 조직위에 항의 [2026 아시안게임] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mS25pS3JRd3VneXBJMGU4NmxDa2VRUHpfUGRZT29xTDF5V1lvZFFScWV3aWkzcWh0X3dEMEJVQ0N4ZU5KdFV5MTh0cGVubUlDbUdaVVp3bHA0UQ?oc=5",
+        "summary": "한국 경기에 웬 북한 국가…체육회, 조직위에 항의 [2026 아시안게임] 한국경제 한국 경기에 웬 북한 국가…체육회, 조직위에 항의 [2026 아시안게임] - 한국경제",
+        "published": "Fri, 18 Sep 2026 11:38:28 GMT",
+        "published_kst": "2026-09-18T20:38:28+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Global supply chain shifts create opportunities, challenges - vietnamnews.vn",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEVHbGtaT1hVVGNmSmM4Xy1ramZCQjlUMmlBa3U4UTVMR3FVYWV1T3dRSDJOdFd3QmVpc1FwRTdBaEtfMDdZWE5vTDdkeDlMT0VIZVFRaW14a1MwNlVyVDhMdFNjQ0ZfSVBrNU02dUt0R3NUU0NDcndaWmFuVmtSa0JHdzhURkliTC1KblhKSG93X25IeDdDX3A4VW1oQTl6NHk2UA?oc=5",
-        "summary": "Global supply chain shifts create opportunities, challenges vietnamnews.vn Global supply chain shifts create opportunities, challenges - vietnamnews.vn",
-        "published": "Fri, 18 Sep 2026 09:43:00 GMT",
-        "published_kst": "2026-09-18T18:43:00+09:00",
+        "title": "FBS Supply Chain Strategies for Labs Facing Shortages - Lab Manager",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWnlPYm9qU1V0ZGVDREp2UEloMlBZVHhsSHo3Z1J1RjZOM1ExNHNNYUttMExYZ1Zha2VCS21JTTY2ZzIxYzE5QTJVZldwcEhCQWtGU1VmZGlBVGltMDU2REpLYUFueWxpWEhIVFFzdGhTTm9TczBaSUlFMTVjZVdnekx3bWs0V1ZocFNORkVWaw?oc=5",
+        "summary": "FBS Supply Chain Strategies for Labs Facing Shortages Lab Manager FBS Supply Chain Strategies for Labs Facing Shortages - Lab Manager",
+        "published": "Fri, 18 Sep 2026 14:13:26 GMT",
+        "published_kst": "2026-09-18T23:13:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "EDGE’s POWERTECH targets global drone and missile engine market with proprietary designs and European supply chain - Defence Industry Europe",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR0h3NUJzc3FMRUVvLV85VWszQWYtcXZWano5SUQxSXlWclNFZlkxT3BzNjBlMmFpaVdMNmpYeUlBVENsdmllZGI5dmM4Y2RKVkZ1RGpkYmZ2Sms0UzZ4Q1pveXNlWVVYZkhDVjkxUFpYWDZNcEtTRWZBSC0zTUxOMkRhVTNvRXZNc3U4ajhDd0hBWjNPa1g4aEt5a1NiSnZuVXJJZTNWUEF0T1dLREd0MWdMWTY3VTM5UE1IQ1UtWGNNVWlmeWNFMVpWeDNBYzA1U1N3YmxnN3hSQQ?oc=5",
-        "summary": "EDGE’s POWERTECH targets global drone and missile engine market with proprietary designs and European supply chain Defence Industry Europe EDGE’s POWERTECH targets global drone and missile engine market with proprietary designs and European supply chain - Defence Industry Europe",
-        "published": "Fri, 18 Sep 2026 07:21:03 GMT",
-        "published_kst": "2026-09-18T16:21:03+09:00",
+        "title": "Sojitz Corporation and NRS CORPORATION Announce Partnership to Develop Semiconductor Materials Supply Chain for Dholera Fab - Tata Electronics",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWDBfU3hXb2FDNnlHcEtORmRTbjZjVXlKamxwQkxUcGU1RHUyQ2FoczhkYzc1YXgyZWIwZGl2UkNCWWlMRW1sbW9fNFFWajJYX0RfT0FfVGkwMmhPQWJWNldrX0VzS1Rpend3b1I3T242REVGd191NEdyeG1zRU04cTBmNkFKVmo2STJmbHFkTmtoeGRYZHFOcDh4dmhpUzZ5ZXlYUVRmWUhHVEpjUTVjU3J0eFAwcURqeXh4b2FLVFV0V2Z4Z09MeFFRbzlZem5aT3ZMWFdyUXZmUjZJVkRKUzJWaWFNZXBXWjFNejJxR1dLQk9zM0U3WFA4TjdOSnd0czQ0Qg?oc=5",
+        "summary": "Sojitz Corporation and NRS CORPORATION Announce Partnership to Develop Semiconductor Materials Supply Chain for Dholera Fab Tata Electronics Sojitz Corporation and NRS CORPORATION Announce Partnership to Develop Semiconductor Materials Supply Chain for Dholera Fab - Tata Electronics",
+        "published": "Fri, 18 Sep 2026 13:14:15 GMT",
+        "published_kst": "2026-09-18T22:14:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Sanofi, UCB and Opella Join ERM’s Clean Heat Programme to Tackle Supply Chain Emissions - EME Outlook Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1dMRnUxOHlPTmtVc0VEdFNxTWxXQlkySFlJVXV4bkhLdVFwMV9jRDJhaUp3c3RQcm9ZSDNubW1FWVp5WHIzY3hRTWN1MVk2RE92ejFFeVo4ZUEtV1ZTbjNPcW40WWdkOTM2TXBzaGhrMlQ1Z3lJb255MW5OUEZnVHlCdmhoREJTbGpoUGlIeklmRm5wc19DejZMRkQwcHQ2REJZa3lsY1hXd2FWMmhQQjhORmp1NWhJUTFSMnExX05rVzBrMnFqUWxn?oc=5",
-        "summary": "Sanofi, UCB and Opella Join ERM’s Clean Heat Programme to Tackle Supply Chain Emissions EME Outlook Magazine Sanofi, UCB and Opella Join ERM’s Clean Heat Programme to Tackle Supply Chain Emissions - EME Outlook Magazine",
-        "published": "Fri, 18 Sep 2026 06:00:00 GMT",
-        "published_kst": "2026-09-18T15:00:00+09:00",
+        "title": "Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - Military Embedded Systems",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd25GWWpWc1Zrd3pqbU5MbWctQlJVNzNRbnN2NmU1RXRDQTIwbElCQXNLZWt1V0R4aG5HNWtBWHZGdklMR2hYTHU2TWFFUEhMSnhzRGRMaVFsWnZPV2E2b3BIUEFuekc5cU9VTVljN1JyS1I2bFljMWxZdk9YNkdxN29GaktOOWdBQVhSNjhKbURqZENhWXdMeXViQzlPellMMk41RUlScklfZEc4NmRtTUtZbzExVXpwdkphUmRKMU1xeVVPbFFuS25NN0lOSjYwbUd3V0huamNvTU00alJodQ?oc=5",
+        "summary": "defense supply chain Military Embedded Systems Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S.",
+        "published": "Fri, 18 Sep 2026 12:27:45 GMT",
+        "published_kst": "2026-09-18T21:27:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -145,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Buffett's son, Howard, will replace him as chairman as dictated by a long-standing succession plan, Berkshire said. Warren Buffett stepping down as chairman of Berkshire Hathaway: 'Father Time always wins' / 한국이 「원화만 인정하는」 체인 구축을 추진… Maroo, 규제 준수를 인프라에 내장 深潮TechFlow 한국이 「원화만 인정하는」 체인 구축을 추진… Maroo, 규제 준수를 인프라에 내장 - 深潮TechFlow / Global supply chain shifts create opportunities, challenges vietnamnews.vn Global supply chain shifts create opportunities, challenges - vietnamnews.vn",
+  "wrap_summary": "Suleyman joined \"Squawk Box\" to discuss OpenAI's latest incidents of \"concerning model behavior\" disclosed earlier this week. OpenAI's latest AI revelation is a 'serious situation,' Microsoft's Suleyman tells CNBC / 야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 한국경제 야구대표팀 주장인데…노시환 단복에 '거꾸로 태극기' 어쩌다 - 한국경제 / FBS Supply Chain Strategies for Labs Facing Shortages Lab Manager FBS Supply Chain Strategies for Labs Facing Shortages - Lab Manager",
   "invest_summary": ""
 }
