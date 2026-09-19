@@ -1,27 +1,60 @@
 {
   "date": "2026-09-19",
-  "generated_at_utc": "2026-09-18T23:39:56Z",
-  "cutoff_kst": "2026-09-19T08:39:00+09:00",
+  "generated_at_utc": "2026-09-19T06:47:53Z",
+  "cutoff_kst": "2026-09-19T15:47:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-        "url": "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-        "summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-        "published": "Fri, 18 Sep 2026 23:28:06 GMT",
-        "published_kst": "2026-09-19T08:28:06+09:00",
+        "title": "A new arms race is unfolding on the ocean floor",
+        "url": "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+        "summary": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor. A new arms race is unfolding on the ocean floor",
+        "published": "Sat, 19 Sep 2026 05:00:01 GMT",
+        "published_kst": "2026-09-19T14:00:01+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump says he is banning CNN, MS NOW and Politico from the White House - apnews.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSmJvU3QxRHMzN3h2Umc4M3RyNFMtell5WGNTV1d2ampGY25aLUZjLVgxWlRmWS1JWVItZ3RoVXFtOUhlX01zdEhGbzhrN1VMUndiekJxOG1MZFNPTE1TZkJsZHRZb0doZUNid1NXVS1NTmtpV1FyQ3FGM0VLWDFnOWRjVXc5YnFsYTJiM3cwM21acFNYV3RieUYtcw?oc=5",
-        "summary": "Trump says he is banning CNN, MS NOW and Politico from the White House apnews.com Trump says he is banning CNN, MS NOW and Politico from the White House - apnews.com",
-        "published": "Fri, 18 Sep 2026 23:07:00 GMT",
-        "published_kst": "2026-09-19T08:07:00+09:00",
+        "title": "Trump says he’s banning CNN, MS NOW and Politico from the White House - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGtZOEtENzBjRHFyYlJjNERjYVVJQTVQVWdhRmloOXhDVnNraloyQVdwb1lyLU15YTVpV0UxbndPZURoTF9tRXMyRldVVi0tYzc4dE9vbUoxU0dyMGdMTnd4a3VfTTFLMHlYVXpCM0FlNWFweTFWVVdMYWRiMXdlLVl2TEthX2pRSWxFYW1GTlBGQjBfbzVJMWNLRDZMZWJRWHkxNFZST0p4dw?oc=5",
+        "summary": "Trump says he’s banning CNN, MS NOW and Politico from the White House The Washington Post Trump says he’s banning CNN, MS NOW and Politico from the White House - The Washington Post",
+        "published": "Sat, 19 Sep 2026 04:07:00 GMT",
+        "published_kst": "2026-09-19T13:07:00+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Is Trump's latest White House media ban legal? It could get complicated - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUDc1SFJncjFOSUh2Yk5oR1VnZkQxLTM3NlhBbjQ4MTUxbzNoS2VpWkRmUWZfVXJoUmdGQ29zQWRrVXVwYm5uSEYxeHBMSXZzVVdEbWZIZmc3eFRLWmhxVkZLZFdKUFJVZUlaeHFHUzFKLWJxYW9kZmllR2I3TXlVR09rRThDNm5ka3JMNWlteUl5X3Z1ZUFzT0VmR0g4Y3VrTS1Nanh1ajVXakZNdWM3WlN6bEhBNng0RVE?oc=5",
+        "summary": "It could get complicated USA Today Is Trump's latest White House media ban legal? Is Trump's latest White House media ban legal?",
+        "published": "Sat, 19 Sep 2026 03:51:00 GMT",
+        "published_kst": "2026-09-19T12:51:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump Bars CNN, MS NOW and Politico From White House - The Well News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLUhaMUlzQ3BaczNBckNNek13cTh2dUEtSHA5VmJZaEdkSzlOWXV0b0dDbWNmVVRZOVFlMkdacEh5OThYMXJmdTZGenIwSDJvdC1CSnFBRHNHUDk5U0VtM29Sa1NlNGZpNmdpR3ZmenhkZGhnbnUzMGtFcWVqcTZsT0NMancyUHNScXc3d0RjZXlTVnRfU1o4?oc=5",
+        "summary": "Trump Bars CNN, MS NOW and Politico From White House The Well News Trump Bars CNN, MS NOW and Politico From White House - The Well News",
+        "published": "Sat, 19 Sep 2026 02:52:29 GMT",
+        "published_kst": "2026-09-19T11:52:29+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+        "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+        "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley. Google's Gemini becomes latest AI model to break out and hack computer systems",
+        "published": "Sat, 19 Sep 2026 01:41:49 GMT",
+        "published_kst": "2026-09-19T10:41:49+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -30,41 +63,8 @@
         "title": "Trump says he's banning MS NOW, CNN and Politico from White House",
         "url": "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
         "summary": "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\" Trump says he's banning MS NOW, CNN and Politico from White House",
-        "published": "Fri, 18 Sep 2026 23:04:23 GMT",
-        "published_kst": "2026-09-19T08:04:23+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump targets more news outlets, saying he will ban CNN, MS NOW and Politico from the White House - WRAL",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdEpiMHhaUDBlSXNSd1lTNnV6cV95cGlvYXZrVDlxQjRVNWpVaUxzSU1pU0tOeS0yemN3amRMM05iQ000M2JkUDhCQnFVbUoxZ2JwaWhZWTQ5Y2tLd0hxWUxidFl4cFdzNjBFejZaX2NRLVNjSHhWVG91Vk9XQ2ZLbG05OFJ2R3ZQbHBhTmE3WlFobnpmLTV6XzVZN1BOQTE3RENVOFpZMA?oc=5",
-        "summary": "Trump targets more news outlets, saying he will ban CNN, MS NOW and Politico from the White House WRAL Trump targets more news outlets, saying he will ban CNN, MS NOW and Politico from the White House - WRAL",
-        "published": "Fri, 18 Sep 2026 22:59:56 GMT",
-        "published_kst": "2026-09-19T07:59:56+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump says he’s banning CNN, MS NOW and Politico from the White House - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzdpNXF5X3g3TXpyaTBFbWhzWDM1a0tPcF8wYzB6YjVhSndiZElGMkR1MGROM2EzQWp4dVRMWlpvOW56ZU1NMzFjSVZwdlNKclhlYXRBcUdhcXczSWZjZGlTeDI0ZDJSQ0k2eklTV3hrengwallScnUyTndGMDMwa3JTTW9GTmdHeVRrQ3JvV2toRElWMXVrLXRfbkhZc05fVGNyS1QyV0ZTNUJ6U3FlWk5GR3VhZw?oc=5",
-        "summary": "Trump says he’s banning CNN, MS NOW and Politico from the White House Los Angeles Times Trump says he’s banning CNN, MS NOW and Politico from the White House - Los Angeles Times",
-        "published": "Fri, 18 Sep 2026 22:46:00 GMT",
-        "published_kst": "2026-09-19T07:46:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Cramer’s week ahead: What to watch as Wall Street navigates a tough September",
-        "url": "https://www.cnbc.com/2026/09/18/jim-cramer-week-ahead-costco-okta.html",
-        "summary": "CNBC’s Jim Cramer said investors could be in for a relatively quiet week as Wall Street works its way through a historically difficult September. Cramer’s week ahead: What to watch as Wall Street navigates a tough September",
-        "published": "Fri, 18 Sep 2026 22:17:16 GMT",
-        "published_kst": "2026-09-19T07:17:16+09:00",
+        "published": "Fri, 18 Sep 2026 23:43:21 GMT",
+        "published_kst": "2026-09-19T08:43:21+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,33 +73,33 @@
     ],
     "kr": [
       {
-        "title": "워시는 언제, 얼마나 더 올릴까…모멘텀 되살아나는 반도체? [월가 백브리핑] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IN1g2bkRxeExGa0lQbkJCcUdScDhSV0F4ZlFqd3pZbF9TTHFJREY0M0hDdGtpWjlQcE1fV3Fwb2NVZFpDNks5OURkLUdjUWNXMWJGa1EyTnpvZw?oc=5",
-        "summary": "[월가 백브리핑] 한국경제 워시는 언제, 얼마나 더 올릴까…모멘텀 되살아나는 반도체? [월가 백브리핑] - 한국경제",
-        "published": "Fri, 18 Sep 2026 23:26:52 GMT",
-        "published_kst": "2026-09-19T08:26:52+09:00",
+        "title": "김승원 '추가 의혹 탄원서' 보도에…靑 \"확인 어렵다\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hXzFudFFicnFSLTh3NkdWdzhqRmxxMGtLRW1qZzRMbUVhQzlNQ2NmRmRaRm9EZlIxZ3U2ZXN1bkZWblNGX3VqVFFTMjR4d1lDM2tGaHludFVRUQ?oc=5",
+        "summary": "김승원 '추가 의혹 탄원서' 보도에…靑 \"확인 어렵다\" 한국경제 김승원 '추가 의혹 탄원서' 보도에…靑 \"확인 어렵다\" - 한국경제",
+        "published": "Sat, 19 Sep 2026 06:42:00 GMT",
+        "published_kst": "2026-09-19T15:42:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "김어준 말 맞았나…李 지지율, '코어층'서 더 크게 빠졌다 [신현보의 딥데이터] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oN042ZTNyX3UyNDhCQWNYLUVKYXBoMVdiN1hpaHNNR2kzSU5IckR2LU1KOHlnVmZNaWRNaEtTNTdYYURhaTdZVHVrVmdWbmZKWjl4UlBEWnMwdw?oc=5",
-        "summary": "김어준 말 맞았나…李 지지율, '코어층'서 더 크게 빠졌다 [신현보의 딥데이터] 한국경제 김어준 말 맞았나…李 지지율, '코어층'서 더 크게 빠졌다 [신현보의 딥데이터] - 한국경제",
-        "published": "Fri, 18 Sep 2026 23:05:19 GMT",
-        "published_kst": "2026-09-19T08:05:19+09:00",
+        "title": "김수영·이오욱 이어 다이나믹 듀오 등판…떼창 터졌다 [ATA 페스티벌] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WY3FWVmNzdzJHWHFQT3R2TW9BazAzVnhkY2ZqQmRhMFlDTGVuRG5UWkdqM2hlTWR3d295TkRxcGR6VVVCejloeDhUd192NThfa2NtdVh4b1VWdw?oc=5",
+        "summary": "김수영·이오욱 이어 다이나믹 듀오 등판…떼창 터졌다 [ATA 페스티벌] 한국경제 김수영·이오욱 이어 다이나믹 듀오 등판…떼창 터졌다 [ATA 페스티벌] - 한국경제",
+        "published": "Sat, 19 Sep 2026 06:29:13 GMT",
+        "published_kst": "2026-09-19T15:29:13+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "임은정 대표 \"두 차례 경력단절 딛고 창업 멘토 됐죠\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GV2VJaFU2M1dPRW9Ja25Ea0laM3ZMYnNXMnFhX0ozeVBsTFRKekktZUVnUGllODZONnZCaGlMU0NzT1lTelRSNWFVckxEcTNRaC03T3B3cGJkQQ?oc=5",
-        "summary": "임은정 대표 \"두 차례 경력단절 딛고 창업 멘토 됐죠\" 한국경제 임은정 대표 \"두 차례 경력단절 딛고 창업 멘토 됐죠\" - 한국경제",
-        "published": "Fri, 18 Sep 2026 23:00:06 GMT",
-        "published_kst": "2026-09-19T08:00:06+09:00",
+        "title": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iTjA5bmc4bmVPNWhXdG9xWUw5VldIQ1ZDWktfTUl5OGtOWnE3ZnZLcmJrd0c2bEwwaXloZGZDSHFwUFVORktuM1VyWEVLTjFDZXpQRWVRd1Njdw?oc=5",
+        "summary": "김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" 한국경제 김승원 \"기밀 유출 밝힐 것\"…한동훈 \"복수할 테면 하라\" - 한국경제",
+        "published": "Sat, 19 Sep 2026 06:17:16 GMT",
+        "published_kst": "2026-09-19T15:17:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -108,40 +108,44 @@
     ],
     "world": [
       {
-        "title": "Russia sanctions bill gives Trump sweeping new tariff powers - reuters.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWEtRUVNvYVIwTTZqQ3pmak0zd0NlNjZEcmxxQ3FUWTJKVUZjTHdjUmt1SThTNVFmZWl5OXVLUmljaWJoSFRQbU5qVnZDUjcyWEhJNk5yWjZDOTNzazlrenItWHdvODFNbE5Ka3ZoMGF4ZFRGcEFFeVhlWF8tWGZYYU1XWWttR3BuR0hmdF9iY0Z2WGQwbFJfV2lOT2FwSExyT21yUE80ZVM?oc=5",
-        "summary": "Russia sanctions bill gives Trump sweeping new tariff powers reuters.com Russia sanctions bill gives Trump sweeping new tariff powers - reuters.com",
-        "published": "Fri, 18 Sep 2026 22:38:44 GMT",
-        "published_kst": "2026-09-19T07:38:44+09:00",
+        "title": "As Trump gets 100% tariff power, why India will find it tough to cut Russian oil imports - The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVFvSE5SbnhUQkhncDltUE9VenNUdGJmZW1SNXQxMEkyR1JnZm9mQWY4M1FrY2xyeXh4S1czSHlXMjZBVHBPSm5GZzd3a3hRSk9lbndmUktTOWc1OU5SdXBoaVY1LS1wUzNUOGhwUnFNMThWdjBlSzFjYmhEWjF5dWZGMnFGeWV1ZElBRnptczNqUkNock9WOXU1ekZ2TGQxbTNodDV4b3B5a2pwUER3dXE5ZmVibGZKNjJmTmJscWtieWs1WENMNGcxNkJhYVd4M0HSAdgBQVVfeXFMUGRqcnV3TGpwSGVfYTZWX2t1N0JCQldRVDI0U2JyNUZ2MmFIMDZaTXR3ekZvUWM5SDVJbEljNVdpNnVmZVZCSm82SE80Ymk2WUE5X3lLa0drT2RwVkNOYjczWUwtcm1DSVdLMXFhMmc1Z1FwdnQ4cUU1WW5hTlRaU2llOTNMZTVQN0liVW1Dd0VjTWFaeDQtUFlKVEtzRjFlbnBFRmZXTnNtR1JvRFVnc0dJMEZETXVLYWhhMDlxLUY5ay1sQ2lQWkt6SEdyQ2p2ekVVM3h0cTVn?oc=5",
+        "summary": "As Trump gets 100% tariff power, why India will find it tough to cut Russian oil imports The Indian Express As Trump gets 100% tariff power, why India will find it tough to cut Russian oil imports - The Indian Express",
+        "published": "Sat, 19 Sep 2026 06:08:00 GMT",
+        "published_kst": "2026-09-19T15:08:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "100%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "StarKist's tuna supply chain partly relies on forced labor, report finds - Red Lake Nation News",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYTdRMFhOeldKWTBVbVd5SzhBMVFVTVpZZmVuTk51aXZ6Q3RBdzUwMGVMSXJyTllvMURibHZ6QUdJOVRKVUhBcUF3WVVEMUtOVjJURUdFbjgzVWNvU1djNzJKN2JId1ZTYnlxVEFOMTZxbnV1b25QbFNzNjhYaVdKckNueXo3cURCSjlhV194WldiSHotUk0xYllXSGlzWEs2bm9pekJUZ1J0OTlPSVJOaFl0dkFUM2o5VFBvelQyelpzV0FFTm8tLXJjbkg4RDdQR0c5WElNcTAwQQ?oc=5",
+        "summary": "StarKist's tuna supply chain partly relies on forced labor, report finds Red Lake Nation News StarKist's tuna supply chain partly relies on forced labor, report finds - Red Lake Nation News",
+        "published": "Sat, 19 Sep 2026 03:56:15 GMT",
+        "published_kst": "2026-09-19T12:56:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump signs Russia sanctions bill championed by Lindsey Graham - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVYwSFBVcFptYTZtUVNuOXNGMEJpRUluRXVET1lvVnFhT0pFUDN1Wks2bXl3NkM5ZGt4N0o3TW1nUk5fSC10VVVSRlJudlE5VVZTMnFqNHpTWDRPMEEyVU4xOHJoTGUyd1lqQmZtUXRGRllqOHAzY01idzQzTmo1U0xoRmU?oc=5",
-        "summary": "Trump signs Russia sanctions bill championed by Lindsey Graham CBS News Trump signs Russia sanctions bill championed by Lindsey Graham - CBS News",
-        "published": "Fri, 18 Sep 2026 22:01:08 GMT",
-        "published_kst": "2026-09-19T07:01:08+09:00",
+        "title": "Trump signs Russia sanctions law: India faces fresh 100% tariff threat over Russian oil - WION",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSUxzUEFjMU5hSU9OTFBCTkVDTjgteTF0a2tvNk11STRTbE9MeHdlUE5rR3dpVU8wV0VSTm5ZN2QyQkl0SHRLVG80QnJZNDh2Zm9GZ0x3YVpQcDlUSVRvWVVCTm9qNm0wQTVBMTVHbFljYldWMzkxcnIzcmpuOUc5UVpRQ0FlYk95QzlxaE96aUIzYjQ3QU8xZkRERWxveGNCLWNEbk5OTFlLU2lFdjhwUGM4WXNnREIyZUgzckpfaTM0a1RZcFg3SEpReXNqRUdBVGtsY3RtWVFCd9IB3wFBVV95cUxNTlUydHZQS0V2d1dycUppSnRXcWFNMTVRTkJmWVA5YzREUXBybFNDa25HUjRxckkwTnNqbWJPQTJPLUE0aDE2M2t6aUp6NkpwSmp0RFR3ajdzX1cxRFFmTEE2NGY2UklxYXFWTlh2anp1Tk9TQU5iR1ljU1hKN0FXbVVJYy1RcFhremM5NlF6ZG10ZTVzcmJVRjVYTjRWbEJxczloNXk4c0dUYk4yQ01ONjR0bWJhSXExYVc3NUlic1FUYUd4b3RBbThaN2daQThYZ2YwWElJTkptdV8tc3Fj?oc=5",
+        "summary": "Trump signs Russia sanctions law: India faces fresh 100% tariff threat over Russian oil WION Trump signs Russia sanctions law: India faces fresh 100% tariff threat over Russian oil - WION",
+        "published": "Sat, 19 Sep 2026 02:26:00 GMT",
+        "published_kst": "2026-09-19T11:26:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Federal probe into diversion of F-35 parts to Hong Kong - FreightWaves",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzBGMHNhX3A4R1V1bnEzcV9hbWVUQ01fYmdCLXFHMEJuQ0ljM2tudDlJVEhyT0FQN1BlZGVqTldjR1MyQTR0NDhRaFgxdGZ2UElrLWdrVnd4ck81M05mTGFNdmVVMUxTMDFmelBNbHN6V2Zrb3hBVnAwbF9iZ2Qwa1NjcFNLOFhqcGp0M003T0RYVUE?oc=5",
-        "summary": "Federal probe into diversion of F-35 parts to Hong Kong FreightWaves Federal probe into diversion of F-35 parts to Hong Kong - FreightWaves",
-        "published": "Fri, 18 Sep 2026 21:55:07 GMT",
-        "published_kst": "2026-09-19T06:55:07+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "100%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark / [월가 백브리핑] 한국경제 워시는 언제, 얼마나 더 올릴까…모멘텀 되살아나는 반도체? [월가 백브리핑] - 한국경제 / Russia sanctions bill gives Trump sweeping new tariff powers reuters.com Russia sanctions bill gives Trump sweeping new tariff powers - reuters.com",
+  "wrap_summary": "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor. A new arms race is unfolding on the ocean floor / 김승원 '추가 의혹 탄원서' 보도에…靑 \"확인 어렵다\" 한국경제 김승원 '추가 의혹 탄원서' 보도에…靑 \"확인 어렵다\" - 한국경제 / As Trump gets 100% tariff power, why India will find it tough to cut Russian oil imports The Indian Express As Trump gets 100% tariff power, why India will find it tough to cut Russian oil imports - The Indian Express",
   "invest_summary": ""
 }
