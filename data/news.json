@@ -1,105 +1,107 @@
 {
-  "date": "2026-09-19",
-  "generated_at_utc": "2026-09-19T13:48:31Z",
-  "cutoff_kst": "2026-09-19T22:48:00+09:00",
+  "date": "2026-09-20",
+  "generated_at_utc": "2026-09-19T16:16:52Z",
+  "cutoff_kst": "2026-09-20T01:16:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "MS NOW journalists blocked from White House after Trump bans three media outlets",
+        "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+        "url": "https://www.cnbc.com/2026/09/19/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week.html",
+        "summary": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI. Higher interest rates and AI safety fears put the stock market to the test last week",
+        "published": "Sat, 19 Sep 2026 16:03:09 GMT",
+        "published_kst": "2026-09-20T01:03:09+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House turns away CNN, MS NOW, Politico reporters after Trump announces ban - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJsM3I5a1ZRT3VKVlJvVkNNNHo4Z29nLU5wN2tZTzItaTJRTW9ncmkyME1iM1hsMnpLWl9FN2lCdl96aHFvRXhxN0xxV082RVpoM2dwZS1icFI5ME13V0VPaW9DMlFKSm1wci0zMGlVYjV1UWxXd2dZRDRmb0RmWXJRbnk3ekhHQ0ZkMUc1U0U1bW1GN1Z4NV83VmlfNDBaTVB2OGhOdTN4SDVXcEF2czQ5bktSc1pVVWtQbA?oc=5",
+        "summary": "White House turns away CNN, MS NOW, Politico reporters after Trump announces ban Reuters White House turns away CNN, MS NOW, Politico reporters after Trump announces ban - Reuters",
+        "published": "Sat, 19 Sep 2026 16:00:09 GMT",
+        "published_kst": "2026-09-20T01:00:09+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "CNN, MS NOW say journalists blocked from White House after Trump announces ban - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGJkU1ctMlBmRjBIWUlJQkpUVUFXVjdqUHM4MGQ0b29iZXF6SHh0eTdWWGx1TXdrSGhhNi03NU1IU3VNcXJTdW5BX0N0dUhMd3lRTFdmaTE2VUs4OUJDRFhuNkJfVW5RUWQzUHB2MlpXVUVDaGpXMG04TE1aVEY3OVVsRFNIcVFLMHpZRHIzTjVSNnBTeF9FVmxWZmpHMHIxTU4zenRyQm9xSE9ZV0F1WC00STI4NUkwY0ZEeWdn?oc=5",
+        "summary": "CNN, MS NOW say journalists blocked from White House after Trump announces ban The Washington Post CNN, MS NOW say journalists blocked from White House after Trump announces ban - The Washington Post",
+        "published": "Sat, 19 Sep 2026 15:44:19 GMT",
+        "published_kst": "2026-09-20T00:44:19+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUtVjNhMUdzOUo3alRhSVRGVF9aeFVBVUJlSjg0b1RvVnBJYjNXNzh5bWlnbEFjbDg0QWlVSlZueDZWYXltMW11ampFUHphekE1VVdDdlp5MFVhV0lWUUVySmNBT21TZGJNZGh0YlF6c0ZKbmMzMVhKLWlaQWx5Q0RwTUhPZ2dudWc?oc=5",
+        "summary": "MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban AP News MS NOW, CNN and Politico say their journalists were denied access to White House after Trump ban - AP News",
+        "published": "Sat, 19 Sep 2026 15:32:00 GMT",
+        "published_kst": "2026-09-20T00:32:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
         "url": "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-        "summary": "Journalists from MS NOW were denied access to the White House grounds early Saturday, one day after Trump banned three media outlets over their coverage of him. MS NOW journalists blocked from White House after Trump bans three media outlets",
-        "published": "Sat, 19 Sep 2026 13:35:19 GMT",
-        "published_kst": "2026-09-19T22:35:19+09:00",
+        "summary": "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him. MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
+        "published": "Sat, 19 Sep 2026 15:14:46 GMT",
+        "published_kst": "2026-09-20T00:14:46+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "MS NOW reporter, cameraman denied White House access after Trump's 'fake news' ban - KATU",
-        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxON2FXMGluQXBoTEU5cXJXRncxZ2l2enJmM3ltWVdlQ3A1Z21mOUZCc29iMEJ0ODUtNHozQlBnbXBCNmdkWlAzQ2V6M2J1d3dnc1RCdUVGR2xSby1BV0JSSkxiSkZja0Jlck10aEZjX3hWckltSkIxQ1NaSnkycXhyNVFud1VIQTc0cFJfT3h1aDMybnVCVWUyMXBtbER4MXhQRFV2SjBhNE0waGtlM1paU2o2V1ZWaDVvMGUtT19jZ01ndzdNY053ZFpHS1prSFQwSjhOejllY3NsbjdMampSSnNRREVEOVVEd3FFQWxwUHBoNlBEeC05dzBNVTJTSnpPMnJyTGdyY2lEdHFiZ0pvc1JreEdrdnBsV3JhcWVTcUM2TktMMUZNendMVVU5T1ppNm1MUHBpTkpBQldFZUQ1WndwNWdqT0wxOXdqaVlDeEdmUE5BeUl2UXdpeGtrRnc?oc=5",
-        "summary": "MS NOW reporter, cameraman denied White House access after Trump's 'fake news' ban KATU MS NOW reporter, cameraman denied White House access after Trump's 'fake news' ban - KATU",
-        "published": "Sat, 19 Sep 2026 13:32:38 GMT",
-        "published_kst": "2026-09-19T22:32:38+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Is Trump's latest White House media ban legal? It could get complicated - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUDc1SFJncjFOSUh2Yk5oR1VnZkQxLTM3NlhBbjQ4MTUxbzNoS2VpWkRmUWZfVXJoUmdGQ29zQWRrVXVwYm5uSEYxeHBMSXZzVVdEbWZIZmc3eFRLWmhxVkZLZFdKUFJVZUlaeHFHUzFKLWJxYW9kZmllR2I3TXlVR09rRThDNm5ka3JMNWlteUl5X3Z1ZUFzT0VmR0g4Y3VrTS1Nanh1ajVXakZNdWM3WlN6bEhBNng0RVE?oc=5",
-        "summary": "It could get complicated USA Today Is Trump's latest White House media ban legal? Is Trump's latest White House media ban legal?",
-        "published": "Sat, 19 Sep 2026 13:31:00 GMT",
-        "published_kst": "2026-09-19T22:31:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump bans CNN, MS NOW and Politico from White House - axios.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtVWpKOWNSbVY1Znl3Ym1HeF9uZGZ4ZjNIaWplekxZMnhLaDdoNTNIaXJHenZQZTUtb083SlFuWVBRS1RZVmlFZFUzV3FEbjN2MFlfSE1RUHM3aVlCQ3ozR1MzY2FzdFRYSl8xZ1o4UHVMb3dseTAwQUtHZ3gwWEk?oc=5",
-        "summary": "Trump bans CNN, MS NOW and Politico from White House axios.com Trump bans CNN, MS NOW and Politico from White House - axios.com",
-        "published": "Sat, 19 Sep 2026 13:29:30 GMT",
-        "published_kst": "2026-09-19T22:29:30+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-        "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-        "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along. Consumer sentiment is in the dumps despite a solid economy.",
-        "published": "Sat, 19 Sep 2026 12:50:49 GMT",
-        "published_kst": "2026-09-19T21:50:49+09:00",
+        "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
+        "url": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
+        "summary": "Zoe De La Paz quit her corporate job in Chicago and in June moved to Yellowstone to work as a seamstress. She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
+        "published": "Sat, 19 Sep 2026 14:10:02 GMT",
+        "published_kst": "2026-09-19T23:10:02+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Buffett takes next step in plan to keep Berkshire from straying",
-        "url": "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
-        "summary": "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard. Buffett takes next step in plan to keep Berkshire from straying",
-        "published": "Sat, 19 Sep 2026 12:43:56 GMT",
-        "published_kst": "2026-09-19T21:43:56+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "$96"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "선선하다고 뛰었더니 무릎이…방치했다가는 '충격' [건강!톡] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9USzJIam10SWozTi1Gc3pQekZQZTJha2liR3hlZFo3X1E0T0ZfbWYxYWJ2bUkzWjNLWldZN1dsOFZtWklQS0NtOXVSRW1BWDl2Y0Z0azZiOWNpQQ?oc=5",
-        "summary": "선선하다고 뛰었더니 무릎이…방치했다가는 '충격' [건강!톡] 한국경제 선선하다고 뛰었더니 무릎이…방치했다가는 '충격' [건강!톡] - 한국경제",
-        "published": "Sat, 19 Sep 2026 12:31:30 GMT",
-        "published_kst": "2026-09-19T21:31:30+09:00",
+        "title": "[보고서 리뷰] GDP 13위 한국, 경제 회복에도 삶은 여전히 고달파 - 리뷰타임스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ODBaSHJaZUxMbXBSWGlRajJvcXdKaklpM2JoSWN6Q0o2WEVJWlhKTWxROXM5Z2k0LW5YTmhGZUlOcV9Lb2pUVzZLak5tQXM5TW50TUdNVzN4VW1SOG5kMlJhM0RBVG9fcEJJcWFTOHA?oc=5",
+        "summary": "[보고서 리뷰] GDP 13위 한국, 경제 회복에도 삶은 여전히 고달파 리뷰타임스 [보고서 리뷰] GDP 13위 한국, 경제 회복에도 삶은 여전히 고달파 - 리뷰타임스",
+        "published": "Sat, 19 Sep 2026 15:12:39 GMT",
+        "published_kst": "2026-09-20T00:12:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'에바뛰' 하게 만든 씨엔블루, 헤드라이너의 정석 [ATA 페스티벌] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3Vm1xSmdfXzRzb0J4clFfdkdKYlE4NU8zYVNpVndlcUdpTW9lUWxQNFJNZlVMalBUTmlSWXRhdEwyY2xxSmZJZ09oLUJhT1FKV05kU21WQ1FoUQ?oc=5",
-        "summary": "'에바뛰' 하게 만든 씨엔블루, 헤드라이너의 정석 [ATA 페스티벌] 한국경제 '에바뛰' 하게 만든 씨엔블루, 헤드라이너의 정석 [ATA 페스티벌] - 한국경제",
-        "published": "Sat, 19 Sep 2026 12:24:24 GMT",
-        "published_kst": "2026-09-19T21:24:24+09:00",
+        "title": "'감성' 카더가든·'청량' 루시…완벽한 가을 무대 [ATA 페스티벌] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aRVFpQjNhQ3VpbG9KOWVzejhheU50LWRBY2E5TExsY1hNUWhvUkNaUmJPUzRkYm5tdF8zV0dMbTJ5MkF0QlpuZ3N6bXJacUNuNzhiN1p5ZkVvUQ?oc=5",
+        "summary": "'감성' 카더가든·'청량' 루시…완벽한 가을 무대 [ATA 페스티벌] 한국경제 '감성' 카더가든·'청량' 루시…완벽한 가을 무대 [ATA 페스티벌] - 한국경제",
+        "published": "Sat, 19 Sep 2026 15:07:00 GMT",
+        "published_kst": "2026-09-20T00:07:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "일본 금리 올렸는데 '급락'하자…포착된 심상찮은 신호 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PUEdxNHhDdzNqTDF3eWg2NFI0VkhSS0VCdVJzUlhlZ2VLaUxsQ1FjQm9EbG92NjdSMWZ5eUc2enJ1V05VcjVfVFZUUnVNM0E?oc=5",
-        "summary": "일본 금리 올렸는데 '급락'하자…포착된 심상찮은 신호 v.daum.net 일본 금리 올렸는데 '급락'하자…포착된 심상찮은 신호 - v.daum.net",
-        "published": "Sat, 19 Sep 2026 12:13:28 GMT",
-        "published_kst": "2026-09-19T21:13:28+09:00",
+        "title": "[ATA포토] 씨엔블루, '할 말을 잃게 만드는 완벽한 무대' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HRGtLcWVvZ0dVREZjNXVtYWdtS1l6QlNuaUNtOC1VTGtRbFNzUkh2cklUZEkybWZ4cm93c1hJTUtDS2xyV2gtUVh5dU1WNmduM2NUX2Z2NTh4dw?oc=5",
+        "summary": "[ATA포토] 씨엔블루, '할 말을 잃게 만드는 완벽한 무대' 한국경제 [ATA포토] 씨엔블루, '할 말을 잃게 만드는 완벽한 무대' - 한국경제",
+        "published": "Sat, 19 Sep 2026 15:02:00 GMT",
+        "published_kst": "2026-09-20T00:02:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -107,6 +109,17 @@
       }
     ],
     "world": [
+      {
+        "title": "Joerg Schmidt Joins Medtronic as Vice President & CFO, Global Operations & Supply Chain - hrtoday.in",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1psRE5DeG1pdXVfUktOSlVNbEJwSnVLNjIwRnVDODQ4UmlUNG1aWG00bDhkTlgtZU55Mm5PdmpXQk5SY2ZKenlwcjN4NjNPREdFYnp3TW45SjZSUnA0cTNSdS0xMkl4ME5qdFo3XzVPTjRHb1RnOHNKVnlMeTBEYll0ZkIzVHE5U0hQU3ZSQ0FOTHlUcmJHUmltUXVLRGRzLV82NA?oc=5",
+        "summary": "Joerg Schmidt Joins Medtronic as Vice President & CFO, Global Operations & Supply Chain hrtoday.in Joerg Schmidt Joins Medtronic as Vice President & CFO, Global Operations & Supply Chain - hrtoday.in",
+        "published": "Sat, 19 Sep 2026 15:26:49 GMT",
+        "published_kst": "2026-09-20T00:26:49+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 - Business Insider Africa",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFBZTWNtamNSVGd5Q0ZJT2VoRjBJTTNsZXBvbnRIYUM3d3NkSlFXdVl1TlVIcUI5czNZdThRYjVnQWFBcUV5U1VXdEtDWVl5UUFsYnEtVmF4cTNNb2hBVjZzOENQeXAzbXpWaV9jX1dXaHA5ZmlhUXFNM0FuQTEtM0lXTGoyREI4X3Z6MkpDeFpyY0tKVDlwRFlMOUwtaWZoQXgxQTdyaUw3WktLRHRONGFESWZaQURBc2J5d2tpMnY2ZTFSaGQ1WW9fcHZORldoaDFHeA?oc=5",
@@ -119,22 +132,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - Military Embedded Systems",
+        "title": "Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - militaryembedded.com",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd25GWWpWc1Zrd3pqbU5MbWctQlJVNzNRbnN2NmU1RXRDQTIwbElCQXNLZWt1V0R4aG5HNWtBWHZGdklMR2hYTHU2TWFFUEhMSnhzRGRMaVFsWnZPV2E2b3BIUEFuekc5cU9VTVljN1JyS1I2bFljMWxZdk9YNkdxN29GaktOOWdBQVhSNjhKbURqZENhWXdMeXViQzlPellMMk41RUlScklfZEc4NmRtTUtZbzExVXpwdkphUmRKMU1xeVVPbFFuS25NN0lOSjYwbUd3V0huamNvTU00alJodQ?oc=5",
-        "summary": "defense supply chain Military Embedded Systems Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S.",
+        "summary": "defense supply chain militaryembedded.com Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - militaryembedded.com",
         "published": "Sat, 19 Sep 2026 09:30:41 GMT",
         "published_kst": "2026-09-19T18:30:41+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Double standards in US sanctions law: No Russian oil for others, exception for own uranium imports - indianexpress.com",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ01tZXQzZDU1eFlfLVhDVXlVZlBQanA2SXdFTFM4ZGRjYjd5VXBlbnpQSS1mZVdCMTR5VXRuTUdXRlBQSkVxbHNoS0RURDFoWHpNdkdnMFRXNjZDMTdQNjVobXpleklnaWQtNXlxTWdQSHVfRWh5eWlyNlJHUGdqNDNESW90SkRtRWZkTERkNjdCVzRZd2Q5RjdkbEdMLTZIUkJOaWVoTFR4S2c5Q3FEb1d0SV9CT0pCeFRwMDU0dVpuRXlfMnlZdnlPcUUwbVUxOHN6LXVKMjXSAd8BQVVfeXFMUEo0T1F5cFU1eDR1TDlQYnNwdjFrRWxMTlFucVV6MXV1bHVNRERRdlFHR0JmT0VEd2pXRFpXLUVHVjMyN0FSbGUyNzRYa242TjRvX3Y5WU1FR2lMam5FcEYwcjZyTFZLU25pUFJ4cFRwX0tySm8yNFVwaDY5bUd6MmZETW05ZmJqUktvT3ZYYkh0OENJRDRRd1JBbVZqWDJNOG9wbkMxc21ndTBSUjlMeVh5RkJnVVRrSkptd0dTZGVFM0FoN2kySmdoQTQ1dHRlSjlkbTdUMTFtcVRrLUZQZw?oc=5",
-        "summary": "Double standards in US sanctions law: No Russian oil for others, exception for own uranium imports indianexpress.com Double standards in US sanctions law: No Russian oil for others, exception for own uranium imports - indianexpress.com",
-        "published": "Sat, 19 Sep 2026 07:14:18 GMT",
-        "published_kst": "2026-09-19T16:14:18+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -142,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Journalists from MS NOW were denied access to the White House grounds early Saturday, one day after Trump banned three media outlets over their coverage of him. MS NOW journalists blocked from White House after Trump bans three media outlets / 선선하다고 뛰었더니 무릎이…방치했다가는 '충격' [건강!톡] 한국경제 선선하다고 뛰었더니 무릎이…방치했다가는 '충격' [건강!톡] - 한국경제 / World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 Business Insider Africa World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 - Business Insider Africa",
+  "wrap_summary": "Investors wrestled with the prospect of a new Fed rate-hiking cycle and the raging debate on whether to slow down AI. Higher interest rates and AI safety fears put the stock market to the test last week / [보고서 리뷰] GDP 13위 한국, 경제 회복에도 삶은 여전히 고달파 리뷰타임스 [보고서 리뷰] GDP 13위 한국, 경제 회복에도 삶은 여전히 고달파 - 리뷰타임스 / Joerg Schmidt Joins Medtronic as Vice President & CFO, Global Operations & Supply Chain hrtoday.in Joerg Schmidt Joins Medtronic as Vice President & CFO, Global Operations & Supply Chain - hrtoday.in",
   "invest_summary": ""
 }
