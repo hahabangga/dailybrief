@@ -1,38 +1,49 @@
 {
   "date": "2026-09-20",
-  "generated_at_utc": "2026-09-19T23:39:56Z",
-  "cutoff_kst": "2026-09-20T08:39:00+09:00",
+  "generated_at_utc": "2026-09-20T07:11:57Z",
+  "cutoff_kst": "2026-09-20T16:11:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdGJkU1ctMlBmRjBIWUlJQkpUVUFXVjdqUHM4MGQ0b29iZXF6SHh0eTdWWGx1TXdrSGhhNi03NU1IU3VNcXJTdW5BX0N0dUhMd3lRTFdmaTE2VUs4OUJDRFhuNkJfVW5RUWQzUHB2MlpXVUVDaGpXMG04TE1aVEY3OVVsRFNIcVFLMHpZRHIzTjVSNnBTeF9FVmxWZmpHMHIxTU4zenRyQm9xSE9ZV0F1WC00STI4NUkwY0ZEeWdn?oc=5",
-        "summary": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban The Washington Post CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban - The Washington Post",
-        "published": "Sat, 19 Sep 2026 23:35:50 GMT",
-        "published_kst": "2026-09-20T08:35:50+09:00",
+        "title": "What to Expect in the Week Ahead (Costco Earnings, S&P 100 Rebalancing & US-China Summit) - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnJ3bEFkcjRsYVNqTEZ3NUQzcVRiZUZvM3ZjSUJ1OFJ0bE5GNFI0c3NTcGMtQ2FPdVpZX3VKZjdndW9sS1F5MnF1N0FIdHMwaUx0MVFDN3lkZ2JOZHdUazd6bGFXNDk2NFI2bVVuVHBUWHVqQTZ1aE80MXhsUDBfYWZQSkJLTERXM29RVUI0Qmgtc1kxLXY1WGFiX1NIelB2SEpVdGpZQQ?oc=5",
+        "summary": "What to Expect in the Week Ahead (Costco Earnings, S&P 100 Rebalancing & US-China Summit) Moomoo What to Expect in the Week Ahead (Costco Earnings, S&P 100 Rebalancing & US-China Summit) - Moomoo",
+        "published": "Sun, 20 Sep 2026 06:38:26 GMT",
+        "published_kst": "2026-09-20T15:38:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "3 U.S. Utility Stocks Built For Higher Rates And Inflation Pass Through - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVlRcHFLTFhzNVlScVh4XzFmUTlVYUI2YkZCRXpuNlNPOXQxU08xLVBYVS1TSWVzSU4tNE9PUThCbFJSYlhhZ1F5WGtDMS1wMmhzTVVNenB1WjRLN3Y2OEtTTllqQjZNSnM1N3hJLWV6N1g5NnVEMElPNWZNc2xRZE5KdDluNWphSXJjb0JNUTBEVnM?oc=5",
-        "summary": "Utility Stocks Built For Higher Rates And Inflation Pass Through Yahoo Finance 3 U.S.",
-        "published": "Sat, 19 Sep 2026 22:14:53 GMT",
-        "published_kst": "2026-09-20T07:14:53+09:00",
+        "title": "The Week Ahead: US-China Summit in Washington, Costco Earnings and Fed Rate Path in Focus - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFVyYjEyZk9BSzFDdjlCYkV2T19kUDFIRjdnakQ5NDljUlBpT182RlM5aDVrZjk1MmVBdHpWeklRdS0zelQ3MFZPdVBpMkFCc1FtOUxPQkFoYndWV0Q4eVBLRDNFb0RWcEo2Z1VsMF9oUWlHbVJzWHdrb1BsTjVQQVFkcnNvVFNsWEwtV1BlUFpzeVJnUVpyQVAxNTdRMC1ERF9vMzhRMXpRRzNHaHZwUkxza1B3clZGaUpRaldIVlY3VFp4SVlDUTgtN2JORG95?oc=5",
+        "summary": "The Week Ahead: US-China Summit in Washington, Costco Earnings and Fed Rate Path in Focus TradingKey The Week Ahead: US-China Summit in Washington, Costco Earnings and Fed Rate Path in Focus - TradingKey",
+        "published": "Sun, 20 Sep 2026 06:05:51 GMT",
+        "published_kst": "2026-09-20T15:05:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump bars CNN, Politico and MS NOW from the White House - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRkZSdjJQYTZia2FNSU1CMHNhWVMwRklFYWtiZ0JsME95aDRtLVZudWFsZS16aTVOSHlULWlpQzhVU0xZT3ZzZWVGZzNadFpSVHFaTzRVREtsU29KalNJRFJ0U1YzOWJVSmpCeGRlZnJiTE8xX1dCQkhtUzJia0ZkT3RJX2J1enVVUjVHS3NKUlp5b0RGVDVUcFRJdG9JaVZKTTdWSGZtc0pHUWRieVZmRG1haktpZkFmUVk4NA?oc=5",
-        "summary": "Trump bars CNN, Politico and MS NOW from the White House NBC News Trump bars CNN, Politico and MS NOW from the White House - NBC News",
-        "published": "Sat, 19 Sep 2026 21:53:08 GMT",
-        "published_kst": "2026-09-20T06:53:08+09:00",
+        "title": "Delek US Holdings (DK) Stock May Trade Above Fair Value On Earnings - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeTNyazB5bzNVb1lBVkc2WG9qWHZFWXZlVmMyTkVTUTAzRlQ2eTFzZXlTeURhZmFjNkRFUUUtcjdQaUt4dEhSVzJVa3hUTHQ0S0YzblplbUFQRHJJNElFbkU4bENpSzVXOXAzWl9PZWtiY2EtR0ZHV2c4bFlLUjJ2aA?oc=5",
+        "summary": "Delek US Holdings (DK) Stock May Trade Above Fair Value On Earnings Yahoo Finance UK Delek US Holdings (DK) Stock May Trade Above Fair Value On Earnings - Yahoo Finance UK",
+        "published": "Sun, 20 Sep 2026 05:12:00 GMT",
+        "published_kst": "2026-09-20T14:12:00+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
+        "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html",
+        "summary": "As the French wine industry reaches a crisis point, key players are considering new markets, products and generations. France’s wine production nears a 70-year low, leaving winemakers with tough choices",
+        "published": "Sun, 20 Sep 2026 05:00:01 GMT",
+        "published_kst": "2026-09-20T14:00:01+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -58,50 +69,39 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
-        "url": "https://www.cnbc.com/2026/09/19/living-in-yellowstone-for-96-dollars-a-month.html",
-        "summary": "Zoe De La Paz quit her corporate job in Chicago and in June moved to Yellowstone to work as a seamstress. She pays $96 a month to live in Yellowstone National Park: 'Being here has changed my life'",
-        "published": "Sat, 19 Sep 2026 14:10:02 GMT",
-        "published_kst": "2026-09-19T23:10:02+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$96"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "[금융권 말말말] 구윤철 \"재경부 무너지면 대한민국 무너져\" - 신아일보",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZVZnQWNSM3ZOdzRlTGswdFFQalE0ZmNKX1pMbUs0WERYclJQUUx2YU9OQVM0VVQwWlFTejdMU0tiRGhQOXRtaEkxZVllVGp2TmRpU1ZKcUx4OG5hQVFuOFdrMHpiRWc1Y0hiejhFNWw?oc=5",
-        "summary": "[금융권 말말말] 구윤철 \"재경부 무너지면 대한민국 무너져\" 신아일보 [금융권 말말말] 구윤철 \"재경부 무너지면 대한민국 무너져\" - 신아일보",
-        "published": "Sat, 19 Sep 2026 23:21:05 GMT",
-        "published_kst": "2026-09-20T08:21:05+09:00",
+        "title": "\"마지막이라는데 줄 서보자\"…백미당 앞 끝없는 대기 [2026 청춘커피페스티벌] - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41eThlWVJHNTFDYV9NbDQ5bzY3dFcxNDJMOU80UjM2WVVsTFlPQzQzdmlPeHI0RWlydmNCMFpOS1V2MExjNV9qQ0M4ajBwOEUzMVBIR2xQSks3QQ?oc=5",
+        "summary": "\"마지막이라는데 줄 서보자\"…백미당 앞 끝없는 대기 [2026 청춘커피페스티벌] hankyung.com \"마지막이라는데 줄 서보자\"…백미당 앞 끝없는 대기 [2026 청춘커피페스티벌] - hankyung.com",
+        "published": "Sun, 20 Sep 2026 07:04:36 GMT",
+        "published_kst": "2026-09-20T16:04:36+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "'DMZ영화제 계약 파기'라는 김민석…경기도 \"숫자를 봐라\" - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54RktfcUwtcllKOXZ6Y21XOWVxU3ZlQWQyVS1XalAyUzNKa2l2dVhrdmF2R2J6U1Z0UXJvUVhmMUNPVVVSbmROY0d0STRPQmdta1B1Z3hGY1Vndw?oc=5",
+        "summary": "'DMZ영화제 계약 파기'라는 김민석…경기도 \"숫자를 봐라\" hankyung.com 'DMZ영화제 계약 파기'라는 김민석…경기도 \"숫자를 봐라\" - hankyung.com",
+        "published": "Sun, 20 Sep 2026 06:25:32 GMT",
+        "published_kst": "2026-09-20T15:25:32+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "물가 잡으려 3년 침묵 깬 워시 연준… 한국 반도체 증설 비용 부담 준다 - g-enews.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0RZUENCVDdqRGF4ZEJSUFJiZEJCN01qWjc4Y3lGc1pjYXJDMXZaUGFlS24yeUVkYVgydjJURVVkVVdqcURFRkFWc3NCZDVBSVVZQ3BoeVhNMmktZFg1Y2xzcVBrcHBiU2dyWFllSzgxOThNUzB3WVhuU3JDVWFOb0xSRGg2NFlz?oc=5",
-        "summary": "물가 잡으려 3년 침묵 깬 워시 연준… 한국 반도체 증설 비용 부담 준다 g-enews.com 물가 잡으려 3년 침묵 깬 워시 연준… 한국 반도체 증설 비용 부담 준다 - g-enews.com",
-        "published": "Sat, 19 Sep 2026 23:12:43 GMT",
-        "published_kst": "2026-09-20T08:12:43+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "BGF리테일, 제6회 ‘아동 안전 그림 공모전’ 개최 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlNU45ZG9FaTZvb2JyTmlBNmJyQjBPV0t6cU5JN1UyeG9KdTUtWHlvaWZGMDc2aUE2SW1DRjRXZFdLMGhsQnlienFJTlFaT3NqOUJEV2dHRURDZw?oc=5",
-        "summary": "BGF리테일, 제6회 ‘아동 안전 그림 공모전’ 개최 한국경제 BGF리테일, 제6회 ‘아동 안전 그림 공모전’ 개최 - 한국경제",
-        "published": "Sat, 19 Sep 2026 23:00:59 GMT",
-        "published_kst": "2026-09-20T08:00:59+09:00",
+        "title": "[속보] 日방위성 \"北, 탄도미사일 가능성 물체 발사…낙하 추정\" - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kc3hYN0lEekZYaDRXTzZMa05WWE9wUjRDUzVPZ0NSWHFpWFcwdjFyZU54OXFucGNUQzlyS3BKenh6UXZyVEE2MlRlU3hRU19uTmpqVllDNGdRdw?oc=5",
+        "summary": "[속보] 日방위성 \"北, 탄도미사일 가능성 물체 발사…낙하 추정\" hankyung.com [속보] 日방위성 \"北, 탄도미사일 가능성 물체 발사…낙하 추정\" - hankyung.com",
+        "published": "Sun, 20 Sep 2026 06:23:02 GMT",
+        "published_kst": "2026-09-20T15:23:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +110,35 @@
     ],
     "world": [
       {
-        "title": "Trump signs Russia sanctions bill, may hit India's crude tap - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYXVxaUdlcHNOSlpNMlMyU0liaUNCN3UxNFdnNkZBa1VRTGdwRHpDb3Ita2MxNjlqR2pTRktFVnNmSmJKYlNlMnZ3bDl3WWw0cHdmaUlKQ1BRUUU3ekpxam8wQmRQbzFNckdmbEZTZkVEaEkxc1ZHQTRzQnJlWVhReUExLUtUQkFBcFpuOU8ydU5QTC1Gdkx0dTFKelUtcm9CYnJPOGNlZFZnM2o0a3YyRUpMNGNzTDFKMlZIX0RFczhCay1BbDZYS2gwVndvcDdnOHAtU0pRbGQ3bGp00gHiAUFVX3lxTFBNejRLM3RLWHc0TmF6YkJyLXVSWVFXWDZRVHJqYTNLTy1VT3hUQ0RVTGVzMWs4RmtyUlBkOXJra0dTRTZycUp5MllTcmxxbTFsUW1ldnVmTWJfWjBpVWlGaE5pcEZVQVh1RUJuZ1FsRjFPZXVhTXg2ekdPczhXeTZXc0RabWFBb3BzZkdBSkdPOU80Q25RdF9aSVB3eDBKWEJDTEJBbDZidHFsR3BmY3BLdXBELWFydjI4SGFXN0hkY1NuTVA4TFN0RTc5c0ZRS0NlY0E2dndYWE10LXpmbkxWV2c?oc=5",
-        "summary": "Trump signs Russia sanctions bill, may hit India's crude tap The Times of India Trump signs Russia sanctions bill, may hit India's crude tap - The Times of India",
-        "published": "Sat, 19 Sep 2026 22:24:00 GMT",
-        "published_kst": "2026-09-20T07:24:00+09:00",
+        "title": "Crude Oil, US Sanctions to Drive Stock Market This Week - Rediff MoneyWiz",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdnVzamVZYldEbnNaNTgwQk5iWEVCWm5IMWRWMENSSG5hMjJQVGY2bnBmT0xhU2piLTdJRERNWFE2ZzY2cEdSTGVrLUcydzFlNkMwR1Q0X19UalBwc1VUMGNWNjVIaW13a3BKVGxxN2M4VUp1bk04a1FVc05TZVVOU0xaZWNjN1BkU3E0blhucExFUzU2WVRURUdXMmIyRl9BMmpMNUR6QV9oUdIBrwFBVV95cUxOZ2ZOcjl1X2VsTE1SeGJyRms1d05LM3VXZVVrZmJaNWRzckZ2Yl9nTGpVUWlOekotNFY0bkw5Ri05d0h0dktyb3U1Ymd1VlZ3bWV2aDBORWJ1Wmw4OGtJS1VuVkl0bkJ1dk1YWlpMZURvUFpuMnhEb1NGUzFwcDQ2aWhWbGVTRjVRRlh6eXhabzhTVDdSakY1WkNNbEtKT2NWUkpDY0pWc192ZWpOZ0FV?oc=5",
+        "summary": "Crude Oil, US Sanctions to Drive Stock Market This Week Rediff MoneyWiz Crude Oil, US Sanctions to Drive Stock Market This Week - Rediff MoneyWiz",
+        "published": "Sun, 20 Sep 2026 06:32:59 GMT",
+        "published_kst": "2026-09-20T15:32:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 - Business Insider Africa",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFBZTWNtamNSVGd5Q0ZJT2VoRjBJTTNsZXBvbnRIYUM3d3NkSlFXdVl1TlVIcUI5czNZdThRYjVnQWFBcUV5U1VXdEtDWVl5UUFsYnEtVmF4cTNNb2hBVjZzOENQeXAzbXpWaV9jX1dXaHA5ZmlhUXFNM0FuQTEtM0lXTGoyREI4X3Z6MkpDeFpyY0tKVDlwRFlMOUwtaWZoQXgxQTdyaUw3WktLRHRONGFESWZaQURBc2J5d2tpMnY2ZTFSaGQ1WW9fcHZORldoaDFHeA?oc=5",
-        "summary": "World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 Business Insider Africa World’s largest economy joins Saudi Arabia, Turkey and Israel in battle for Red Sea influence as it lifts sanctions on Eritrea despite its role in Ethiopia war that killed 600,000 - Business Insider Africa",
-        "published": "Sat, 19 Sep 2026 11:30:25 GMT",
-        "published_kst": "2026-09-19T20:30:25+09:00",
+        "title": "Trump signs Russia sanction bill into law giving him power to impose 100% tariffs on India - The Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1RmRnJKeFZjT2Q0NkQwNG1KcHlPaEh1V1BxTHNqNlZaSWJyVl94dU5Ea3k3SEZJNy0tdmdYZGxzQmswT3dvajdVYWhUamtvYi1MQnRiVzVLT2JwVmRsdTh0bk1QdXhOakU4SExJZm9fNTdpTGpfaXl1WlJ0RlprSVJrX0Y4YmNkMnZGNW5rSWVkNVlpRlNDbUlpaVFZUFU4MUNlS2lsZzU5dXJlRUswTVlR0gG4AUFVX3lxTE96TjhIZ09VaXF6U3B0ZVZGRUVMLU5IUkNKNm5nWUY4MmViV0MtV3U4bk9zbkw1Y0ZSdjZiZE1hN2ZSMmpWZEh4Uzh2YnJNMWxsLXVTZk1aX2drMGxweTJIWHVZS1lXdmlyUXppY2NfZDFEby0xRmdIcnRGQTdGNE9hT1RLalAxMnYtU2o0c1d1N0hvM1VQZXZtaTFqZWlSLWFYd3B2WjRzb20yVGhHZ2p4bkdfRHFFV04?oc=5",
+        "summary": "Trump signs Russia sanction bill into law giving him power to impose 100% tariffs on India The Indian Express Trump signs Russia sanction bill into law giving him power to impose 100% tariffs on India - The Indian Express",
+        "published": "Sun, 20 Sep 2026 01:20:00 GMT",
+        "published_kst": "2026-09-20T10:20:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "100%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - Military Embedded Systems",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd25GWWpWc1Zrd3pqbU5MbWctQlJVNzNRbnN2NmU1RXRDQTIwbElCQXNLZWt1V0R4aG5HNWtBWHZGdklMR2hYTHU2TWFFUEhMSnhzRGRMaVFsWnZPV2E2b3BIUEFuekc5cU9VTVljN1JyS1I2bFljMWxZdk9YNkdxN29GaktOOWdBQVhSNjhKbURqZENhWXdMeXViQzlPellMMk41RUlScklfZEc4NmRtTUtZbzExVXpwdkphUmRKMU1xeVVPbFFuS25NN0lOSjYwbUd3V0huamNvTU00alJodQ?oc=5",
-        "summary": "defense supply chain Military Embedded Systems Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S.",
-        "published": "Sat, 19 Sep 2026 09:30:41 GMT",
-        "published_kst": "2026-09-19T18:30:41+09:00",
+        "title": "Dar discusses energy supply chain with Iran's Araghchi - The Express Tribune",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFJweElEb19ZV05xV0lBdmY3d3JzTFp4NE82dXN6Szl1M2x2YmRoT3Y0dzhqQ01TMzYxVGMzZ0lJTk13S01wSHliWFVPSmxJQmFfYWtCWVY5aTkxOXhpM2JRXzJMVzdEV2Z2enJVeUF1dGJPbVFkeVc1b0o3Z2NwZFJ3Qk9HMjV5TUJkcUhaeHRjUEp60gGcAUFVX3lxTFB2YkpHRFFsSHk0R2ViODdJTjRyM2VoVWdGN3kyVkhGU18wYVBUbHdyTnJFYThqWVM2NjN0NXd3cDZ2SWdETS1yZ0dHaXNpTW1rZG80T3R4VWlkVTJiWTczb3hxNG9hbHJuUzZUUFh2Z0NWdG1sQWM4WmwtZ2JjME5WMHJQcm5GMTBfd3dsVnBFT2l2QUdzeUN4TFRxRw?oc=5",
+        "summary": "Dar discusses energy supply chain with Iran's Araghchi The Express Tribune Dar discusses energy supply chain with Iran's Araghchi - The Express Tribune",
+        "published": "Sat, 19 Sep 2026 23:48:05 GMT",
+        "published_kst": "2026-09-20T08:48:05+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban The Washington Post CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban - The Washington Post / [금융권 말말말] 구윤철 \"재경부 무너지면 대한민국 무너져\" 신아일보 [금융권 말말말] 구윤철 \"재경부 무너지면 대한민국 무너져\" - 신아일보 / Trump signs Russia sanctions bill, may hit India's crude tap The Times of India Trump signs Russia sanctions bill, may hit India's crude tap - The Times of India",
+  "wrap_summary": "What to Expect in the Week Ahead (Costco Earnings, S&P 100 Rebalancing & US-China Summit) Moomoo What to Expect in the Week Ahead (Costco Earnings, S&P 100 Rebalancing & US-China Summit) - Moomoo / \"마지막이라는데 줄 서보자\"…백미당 앞 끝없는 대기 [2026 청춘커피페스티벌] hankyung.com \"마지막이라는데 줄 서보자\"…백미당 앞 끝없는 대기 [2026 청춘커피페스티벌] - hankyung.com / Crude Oil, US Sanctions to Drive Stock Market This Week Rediff MoneyWiz Crude Oil, US Sanctions to Drive Stock Market This Week - Rediff MoneyWiz",
   "invest_summary": ""
 }
