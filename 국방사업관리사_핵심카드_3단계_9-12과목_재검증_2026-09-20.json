@@ -1,0 +1,2529 @@
+{
+  "meta": {
+    "version": "2026.09-stage3-partial-blink-v3",
+    "created_at": "2026-09-20",
+    "law_checked_as_of": "2026-09-20",
+    "scope": "5단계 검증 중 3단계: 9~12과목",
+    "purpose": "시험 직전용 핵심이론 부분점멸 카드",
+    "rendering_contract": {
+      "visible": "answer_segments의 blink=false 조각은 항상 표시",
+      "blinking": "answer_segments의 blink=true 조각만 숨김·점멸·공개",
+      "fallback": "기존 앱은 reveal을 전체 정답으로 표시 가능"
+    },
+    "design_rules": [
+      "문장 전체가 아니라 정의·순서·행위자·조건의 핵심어만 점멸",
+      "1화면 1개념; 답은 되도록 1~3행",
+      "영문 약자는 한글명·영문명·쉬운 뜻을 term_glossary에 함께 제공",
+      "숫자는 적용 절차·대상·조건·결과와 함께 제시하고 단독 숫자문제는 배제",
+      "법령·훈령 발령번호는 출처 메타데이터로만 보존",
+      "기준교재를 기본으로 하되 현행 규정과 충돌하면 현행 규정을 우선",
+      "IPPD는 핵심카드에서 제외"
+    ],
+    "source_policy": {
+      "content_basis": "구글드라이브 기준교재",
+      "current_rule_check": "국가법령정보센터(law.go.kr)만 사용",
+      "other_sites": "사용자 사전승인 전 검색·사용 금지"
+    },
+    "subject_count": 4,
+    "card_count": 51,
+    "priority_A_count": 44,
+    "priority_B_count": 7
+  },
+  "sources": {
+    "G10-IPS": {
+      "type": "textbook",
+      "title": "전력화지원요소관리_KBK",
+      "url": "https://drive.google.com/file/d/14SkVtmcwgjKIGwm93-J2Nsqd_ybi4CIg/view"
+    },
+    "G11-PARTS": {
+      "type": "textbook",
+      "title": "무기체계 부품국산화개발 지원 강의자료(수원대)",
+      "url": "https://drive.google.com/file/d/1JrfHDoLunDXonOfw9xHFumClosh1CPyZ/view",
+      "note": "숫자·절차는 현행 규정과 충돌 여부를 재확인"
+    },
+    "G12-ANALYSIS": {
+      "type": "textbook",
+      "title": "국방사업관리사 분석평가 제도 및 규정",
+      "url": "https://drive.google.com/file/d/1wTzjzXKShPhAAcYMcDuXNnYBohUyZMPA/view",
+      "note": "2025 교재의 절차·수치는 현행 규정을 우선 적용"
+    },
+    "LAW-IO": {
+      "type": "law",
+      "title": "상호운용성 관리지침",
+      "status": "시행 2026.8.6.",
+      "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000283718&chrClsCd=010201",
+      "note": "발령번호는 출처 식별용이며 암기문제로 출제하지 않음"
+    },
+    "LAW-TLCSM": {
+      "type": "law",
+      "title": "총수명주기관리업무훈령",
+      "status": "시행 2026.3.3.",
+      "url": "https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulId=76181&efYd=0",
+      "note": "IPS 12대 요소와 획득·운영유지 역할의 현행 근거"
+    },
+    "LAW-PARTS": {
+      "type": "law",
+      "title": "무기체계 부품국산화개발 관리규정",
+      "status": "시행 2026.8.13.",
+      "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000283930&chrClsCd=010201",
+      "note": "발령번호는 출처 식별용이며 암기문제로 출제하지 않음"
+    },
+    "LAW-ANALYSIS": {
+      "type": "law",
+      "title": "분석평가업무 실무지침",
+      "status": "시행 2025.4.15.",
+      "url": "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000257830&chrClsCd=010201",
+      "note": "대상선정·위원회·결과처리·전문용역 기준의 현행 근거"
+    }
+  },
+  "subjects": [
+    {
+      "subject_no": 9,
+      "name": "합동성 및 상호운용성",
+      "cards": [
+        {
+          "id": "S9R-01",
+          "title": "합동성과 상호운용성",
+          "prompt": "합동성과 상호운용성의 차이는?",
+          "front": "합동성과 상호운용성의 차이는?",
+          "reveal": "합동성: 군종 전력을 함께 운용해 작전효과를 높이는 능력\n상호운용성: 체계 간 정보·서비스를 교환하고 공동 운용하는 능력",
+          "answer_segments": [
+            {
+              "text": "합동성: 군종 전력을 함께 운용해 ",
+              "blink": false
+            },
+            {
+              "text": "작전효과를 높이는 능력",
+              "blink": true
+            },
+            {
+              "text": "\n상호운용성: 체계 간 ",
+              "blink": false
+            },
+            {
+              "text": "정보·서비스를 교환하고 공동 운용하는 능력",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "작전효과를 높이는 능력",
+            "정보·서비스를 교환하고 공동 운용하는 능력"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "compare",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제6조·제67조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.96,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-02",
+          "title": "상호운용성 관리 목적",
+          "prompt": "상호운용성 관리는 무엇을 달성하려는가?",
+          "front": "상호운용성 관리는 무엇을 달성하려는가?",
+          "reveal": "NCW·합동개념 기반 체계연동 → 연합·합동작전 효율 향상 + 표준·기반기술 적용 → 중복개발 방지·재사용성 향상",
+          "answer_segments": [
+            {
+              "text": "NCW·합동개념 기반 체계연동 → ",
+              "blink": false
+            },
+            {
+              "text": "연합·합동작전 효율 향상",
+              "blink": true
+            },
+            {
+              "text": " + 표준·기반기술 적용 → ",
+              "blink": false
+            },
+            {
+              "text": "중복개발 방지·재사용성 향상",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "연합·합동작전 효율 향상",
+            "중복개발 방지·재사용성 향상"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "concept",
+          "priority": "A",
+          "term_glossary": {
+            "NCW": "네트워크 중심전(Network Centric Warfare): 네트워크로 전력을 연결해 정보우위와 작전효과를 높이는 개념"
+          },
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제6조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-03",
+          "title": "요구사항 식별 시점",
+          "prompt": "상호운용성 요구사항은 언제 무엇을 확인하는가?",
+          "front": "상호운용성 요구사항은 언제 무엇을 확인하는가?",
+          "reveal": "원칙: 소요제기·소요결정 시 식별\n연동체계가 있으면: 연동수준·정보교환능력·연동합의 검토",
+          "answer_segments": [
+            {
+              "text": "원칙: ",
+              "blink": false
+            },
+            {
+              "text": "소요제기·소요결정 시 식별",
+              "blink": true
+            },
+            {
+              "text": "\n연동체계가 있으면: ",
+              "blink": false
+            },
+            {
+              "text": "연동수준·정보교환능력·연동합의",
+              "blink": true
+            },
+            {
+              "text": " 검토",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "소요제기·소요결정 시 식별",
+            "연동수준·정보교환능력·연동합의"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제10조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-04",
+          "title": "기관별 핵심 역할",
+          "prompt": "상호운용성 관리의 주체별 역할은?",
+          "front": "상호운용성 관리의 주체별 역할은?",
+          "reveal": "방위사업정책국: 정책·조정·통제 / 사업본부·IPT: 요구 구현·수준측정 / 상호운용성센터: 기술지원·평가",
+          "answer_segments": [
+            {
+              "text": "방위사업정책국: ",
+              "blink": false
+            },
+            {
+              "text": "정책·조정·통제",
+              "blink": true
+            },
+            {
+              "text": " / 사업본부·IPT: ",
+              "blink": false
+            },
+            {
+              "text": "요구 구현·수준측정",
+              "blink": true
+            },
+            {
+              "text": " / 상호운용성센터: ",
+              "blink": false
+            },
+            {
+              "text": "기술지원·평가",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "정책·조정·통제",
+            "요구 구현·수준측정",
+            "기술지원·평가"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "role",
+          "priority": "A",
+          "term_glossary": {
+            "IPT": "통합사업관리팀(Integrated Project Team): 사업을 기능별로 통합 관리하는 방위사업청 조직"
+          },
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제5조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-05",
+          "title": "전 수명주기 확보 원칙",
+          "prompt": "사업관리자는 상호운용성을 어떻게 관리하는가?",
+          "front": "사업관리자는 상호운용성을 어떻게 관리하는가?",
+          "reveal": "획득 전 단계에 걸쳐 확보활동을 지속하고, 단계별 상호운용성 확보계획을 구체화",
+          "answer_segments": [
+            {
+              "text": "획득 전 단계에 걸쳐 ",
+              "blink": false
+            },
+            {
+              "text": "확보활동을 지속",
+              "blink": true
+            },
+            {
+              "text": "하고, 단계별 ",
+              "blink": false
+            },
+            {
+              "text": "상호운용성 확보계획",
+              "blink": true
+            },
+            {
+              "text": "을 구체화",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "확보활동을 지속",
+            "상호운용성 확보계획"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "process",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제7조·제8조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-06",
+          "title": "연구개발 평가 흐름",
+          "prompt": "연구개발사업의 단계별 상호운용성 평가 순서는?",
+          "front": "연구개발사업의 단계별 상호운용성 평가 순서는?",
+          "reveal": "탐색개발: 수준측정Ⅰ·운용성확인 → 체계개발: 수준측정Ⅱ·표준적합성시험·상호운용성시험평가",
+          "answer_segments": [
+            {
+              "text": "탐색개발: ",
+              "blink": false
+            },
+            {
+              "text": "수준측정Ⅰ·운용성확인",
+              "blink": true
+            },
+            {
+              "text": " → 체계개발: ",
+              "blink": false
+            },
+            {
+              "text": "수준측정Ⅱ·표준적합성시험·상호운용성시험평가",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "수준측정Ⅰ·운용성확인",
+            "수준측정Ⅱ·표준적합성시험·상호운용성시험평가"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "order",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제53조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-07",
+          "title": "탐색개발 확인",
+          "prompt": "탐색개발에서 수준측정Ⅰ과 운용성확인은 무엇을 보는가?",
+          "front": "탐색개발에서 수준측정Ⅰ과 운용성확인은 무엇을 보는가?",
+          "reveal": "수준측정Ⅰ: 초기 상호운용성 수준\n운용성확인: 요구사항 반영 여부·구현 가능성",
+          "answer_segments": [
+            {
+              "text": "수준측정Ⅰ: 초기 ",
+              "blink": false
+            },
+            {
+              "text": "상호운용성 수준",
+              "blink": true
+            },
+            {
+              "text": "\n운용성확인: 요구사항 ",
+              "blink": false
+            },
+            {
+              "text": "반영 여부·구현 가능성",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "상호운용성 수준",
+            "반영 여부·구현 가능성"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "compare",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제53조·제55조·제56조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-08",
+          "title": "체계개발 수준측정Ⅱ",
+          "prompt": "체계개발의 수준측정은 어느 구간에 수행하는가?",
+          "front": "체계개발의 수준측정은 어느 구간에 수행하는가?",
+          "reveal": "수행 구간: 상세설계 이후부터 체계통합시험 완료 이전까지",
+          "answer_segments": [
+            {
+              "text": "수행 구간: ",
+              "blink": false
+            },
+            {
+              "text": "상세설계 이후",
+              "blink": true
+            },
+            {
+              "text": "부터 ",
+              "blink": false
+            },
+            {
+              "text": "체계통합시험 완료 이전",
+              "blink": true
+            },
+            {
+              "text": "까지",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "상세설계 이후",
+            "체계통합시험 완료 이전"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "time",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제22조제20항"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-09",
+          "title": "DT 표준적합성시험",
+          "prompt": "개발시험평가(DT)에서 확인하는 상호운용성 항목은?",
+          "front": "개발시험평가(DT)에서 확인하는 상호운용성 항목은?",
+          "reveal": "대상체계가 적용한 국방정보화표준의 요구사항을 구현했는지 표준적합성시험으로 확인",
+          "answer_segments": [
+            {
+              "text": "대상체계가 적용한 국방정보화표준의 요구사항을 구현했는지 ",
+              "blink": false
+            },
+            {
+              "text": "표준적합성시험",
+              "blink": true
+            },
+            {
+              "text": "으로 확인",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "표준적합성시험"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "definition",
+          "priority": "A",
+          "term_glossary": {
+            "DT": "개발시험평가(Developmental Test and Evaluation): 설계·제작 결과가 기술적 요구를 충족하는지 확인하는 시험평가"
+          },
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제53조·제62조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-10",
+          "title": "OT 상호운용성시험평가",
+          "prompt": "운용시험평가(OT)에서는 무엇을 검증하는가?",
+          "front": "운용시험평가(OT)에서는 무엇을 검증하는가?",
+          "reveal": "실제 운용조건에서 체계 간 서비스·정보·데이터를 공유·교환·운용할 능력을 검증",
+          "answer_segments": [
+            {
+              "text": "실제 운용조건에서 체계 간 서비스·정보·데이터를 ",
+              "blink": false
+            },
+            {
+              "text": "공유·교환·운용할 능력",
+              "blink": true
+            },
+            {
+              "text": "을 검증",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "공유·교환·운용할 능력"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "definition",
+          "priority": "A",
+          "term_glossary": {
+            "OT": "운용시험평가(Operational Test and Evaluation): 실제 운용조건에서 군 운용 적합성을 확인하는 시험평가"
+          },
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제53조·제67조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-11",
+          "title": "검증 판정 3단계",
+          "prompt": "상호운용성 검증 결과는 어떻게 판정하는가?",
+          "front": "상호운용성 검증 결과는 어떻게 판정하는가?",
+          "reveal": "전력화 기준 충족 정도에 따라 승인 / 조건부 승인 / 승인불가",
+          "answer_segments": [
+            {
+              "text": "전력화 기준 충족 정도에 따라 ",
+              "blink": false
+            },
+            {
+              "text": "승인",
+              "blink": true
+            },
+            {
+              "text": " / ",
+              "blink": false
+            },
+            {
+              "text": "조건부 승인",
+              "blink": true
+            },
+            {
+              "text": " / ",
+              "blink": false
+            },
+            {
+              "text": "승인불가",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "승인",
+            "조건부 승인",
+            "승인불가"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "recall",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제68조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-12",
+          "title": "조건부 승인·승인불가 조치",
+          "prompt": "조건부 승인 또는 승인불가를 통보받으면?",
+          "front": "조건부 승인 또는 승인불가를 통보받으면?",
+          "reveal": "IPT가 조치계획 수립 → 보완 → 재검증 요청",
+          "answer_segments": [
+            {
+              "text": "IPT가 ",
+              "blink": false
+            },
+            {
+              "text": "조치계획 수립",
+              "blink": true
+            },
+            {
+              "text": " → 보완 → ",
+              "blink": false
+            },
+            {
+              "text": "재검증 요청",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "조치계획 수립",
+            "재검증 요청"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "process",
+          "priority": "A",
+          "term_glossary": {
+            "IPT": "통합사업관리팀(Integrated Project Team): 사업을 기능별로 통합 관리하는 방위사업청 조직"
+          },
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제54조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S9R-13",
+          "title": "DSS의 역할",
+          "prompt": "국방정보화표준은 어디에서 관리하는가?",
+          "front": "국방정보화표준은 어디에서 관리하는가?",
+          "reveal": "국방정보화표준은 DSS에서 등록·관리하고 최신 표준 적용을 지원",
+          "answer_segments": [
+            {
+              "text": "국방정보화표준은 ",
+              "blink": false
+            },
+            {
+              "text": "DSS",
+              "blink": true
+            },
+            {
+              "text": "에서 등록·관리하고 최신 표준 적용을 지원",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "DSS"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "definition",
+          "priority": "B",
+          "term_glossary": {
+            "DSS": "국방정보화표준관리시스템(Defence Information Standard Management System): 국방정보화표준을 등록·관리하는 시스템"
+          },
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제34조·제39조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": "구 SITES 표현을 현행 DSS로 교정"
+        },
+        {
+          "id": "S9R-14",
+          "title": "사이버보안 반영",
+          "prompt": "상호운용성 확보계획에서 보안은 어떻게 다루는가?",
+          "front": "상호운용성 확보계획에서 보안은 어떻게 다루는가?",
+          "reveal": "현행 적용항목은 사이버보안이며 획득 전 단계에서 정보보호 대책을 수립·갱신",
+          "answer_segments": [
+            {
+              "text": "현행 적용항목은 ",
+              "blink": false
+            },
+            {
+              "text": "사이버보안",
+              "blink": true
+            },
+            {
+              "text": "이며 획득 전 단계에서 정보보호 대책을 ",
+              "blink": false
+            },
+            {
+              "text": "수립·갱신",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "사이버보안",
+            "수립·갱신"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "B",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-IO"
+          ],
+          "source_pages": [
+            "LAW-IO:제8조·제43조"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.98,
+          "editor_note": "구자료의 포괄적 정보보호 표현을 현행 적용항목에 맞춰 정리"
+        }
+      ]
+    },
+    {
+      "subject_no": 10,
+      "name": "전력화지원요소관리(IPS)",
+      "cards": [
+        {
+          "id": "S10R-01",
+          "title": "전력화지원요소의 구성",
+          "prompt": "전력화지원요소는 무엇으로 구성되는가?",
+          "front": "전력화지원요소는 무엇으로 구성되는가?",
+          "reveal": "구성: 전투발전지원요소 + 통합체계지원요소(IPS)\n목적: 주장비 배치와 동시에 전력 발휘",
+          "answer_segments": [
+            {
+              "text": "구성: ",
+              "blink": false
+            },
+            {
+              "text": "전투발전지원요소",
+              "blink": true
+            },
+            {
+              "text": " + ",
+              "blink": false
+            },
+            {
+              "text": "통합체계지원요소(IPS)",
+              "blink": true
+            },
+            {
+              "text": "\n목적: 주장비 배치와 동시에 전력 발휘",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "전투발전지원요소",
+            "통합체계지원요소(IPS)"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "structure",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p13",
+            "LAW-TLCSM:제14조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-02",
+          "title": "IPS의 목적",
+          "prompt": "통합체계지원(IPS)은 무엇을 최적화하는가?",
+          "front": "통합체계지원(IPS)은 무엇을 최적화하는가?",
+          "reveal": "체계 가동률은 향상하고 운영유지비·수명주기비용은 최소화하도록 지원요소를 통합",
+          "answer_segments": [
+            {
+              "text": "체계 가동률은 ",
+              "blink": false
+            },
+            {
+              "text": "향상",
+              "blink": true
+            },
+            {
+              "text": "하고 운영유지비·수명주기비용은 ",
+              "blink": false
+            },
+            {
+              "text": "최소화",
+              "blink": true
+            },
+            {
+              "text": "하도록 지원요소를 통합",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "향상",
+            "최소화"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "concept",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p23-p24",
+            "LAW-TLCSM:제36조·제38조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-03",
+          "title": "IPS 12대 요소 1~4",
+          "prompt": "IPS 12대 요소 중 관리·설계·정비 기반 네 가지는?",
+          "front": "IPS 12대 요소 중 관리·설계·정비 기반 네 가지는?",
+          "reveal": "1 체계지원관리 / 2 연구 및 설계반영 / 3 유지관리 / 4 정비계획 및 관리",
+          "answer_segments": [
+            {
+              "text": "1 ",
+              "blink": false
+            },
+            {
+              "text": "체계지원관리",
+              "blink": true
+            },
+            {
+              "text": " / 2 ",
+              "blink": false
+            },
+            {
+              "text": "연구 및 설계반영",
+              "blink": true
+            },
+            {
+              "text": " / 3 ",
+              "blink": false
+            },
+            {
+              "text": "유지관리",
+              "blink": true
+            },
+            {
+              "text": " / 4 ",
+              "blink": false
+            },
+            {
+              "text": "정비계획 및 관리",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "체계지원관리",
+            "연구 및 설계반영",
+            "유지관리",
+            "정비계획 및 관리"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "recall",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p26-p29",
+            "LAW-TLCSM:제36조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-04",
+          "title": "IPS 12대 요소 5~8",
+          "prompt": "IPS 12대 요소 중 장비·보급·인력 네 가지는?",
+          "front": "IPS 12대 요소 중 장비·보급·인력 네 가지는?",
+          "reveal": "5 지원장비 / 6 보급지원 / 7 인력운용 / 8 교육훈련 및 지원",
+          "answer_segments": [
+            {
+              "text": "5 ",
+              "blink": false
+            },
+            {
+              "text": "지원장비",
+              "blink": true
+            },
+            {
+              "text": " / 6 ",
+              "blink": false
+            },
+            {
+              "text": "보급지원",
+              "blink": true
+            },
+            {
+              "text": " / 7 ",
+              "blink": false
+            },
+            {
+              "text": "인력운용",
+              "blink": true
+            },
+            {
+              "text": " / 8 ",
+              "blink": false
+            },
+            {
+              "text": "교육훈련 및 지원",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "지원장비",
+            "보급지원",
+            "인력운용",
+            "교육훈련 및 지원"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "recall",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p30-p33",
+            "LAW-TLCSM:제36조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-05",
+          "title": "IPS 12대 요소 9~12",
+          "prompt": "IPS 12대 요소 중 자료·이동·시설·정보 네 가지는?",
+          "front": "IPS 12대 요소 중 자료·이동·시설·정보 네 가지는?",
+          "reveal": "9 기술교범 및 기술자료 / 10 포장·취급·저장·수송 / 11 시설 / 12 지원정보체계",
+          "answer_segments": [
+            {
+              "text": "9 ",
+              "blink": false
+            },
+            {
+              "text": "기술교범 및 기술자료",
+              "blink": true
+            },
+            {
+              "text": " / 10 ",
+              "blink": false
+            },
+            {
+              "text": "포장·취급·저장·수송",
+              "blink": true
+            },
+            {
+              "text": " / 11 ",
+              "blink": false
+            },
+            {
+              "text": "시설",
+              "blink": true
+            },
+            {
+              "text": " / 12 ",
+              "blink": false
+            },
+            {
+              "text": "지원정보체계",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "기술교범 및 기술자료",
+            "포장·취급·저장·수송",
+            "시설",
+            "지원정보체계"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "recall",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p34-p38",
+            "LAW-TLCSM:제36조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-06",
+          "title": "관리·설계·유지의 구분",
+          "prompt": "체계지원관리·연구 및 설계반영·유지관리의 초점은?",
+          "front": "체계지원관리·연구 및 설계반영·유지관리의 초점은?",
+          "reveal": "체계지원관리: 전 요소 통합·추적\n연구 및 설계반영: 지원성의 설계 반영\n유지관리: 운용자료로 문제 개선",
+          "answer_segments": [
+            {
+              "text": "체계지원관리: ",
+              "blink": false
+            },
+            {
+              "text": "전 요소 통합·추적",
+              "blink": true
+            },
+            {
+              "text": "\n연구 및 설계반영: ",
+              "blink": false
+            },
+            {
+              "text": "지원성의 설계 반영",
+              "blink": true
+            },
+            {
+              "text": "\n유지관리: ",
+              "blink": false
+            },
+            {
+              "text": "운용자료로 문제 개선",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "전 요소 통합·추적",
+            "지원성의 설계 반영",
+            "운용자료로 문제 개선"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "compare",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p26-p28",
+            "LAW-TLCSM:제38조~제40조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-07",
+          "title": "정비·지원장비·보급",
+          "prompt": "정비계획, 지원장비, 보급지원은 어떻게 연결되는가?",
+          "front": "정비계획, 지원장비, 보급지원은 어떻게 연결되는가?",
+          "reveal": "정비개념·단계 설정 → 정비 자원 식별 → 지원장비 확보 + 초도·후속 보급소요 확보",
+          "answer_segments": [
+            {
+              "text": "정비개념·단계 설정 → ",
+              "blink": false
+            },
+            {
+              "text": "정비 자원 식별",
+              "blink": true
+            },
+            {
+              "text": " → 지원장비 확보 + ",
+              "blink": false
+            },
+            {
+              "text": "초도·후속 보급소요 확보",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "정비 자원 식별",
+            "초도·후속 보급소요 확보"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "order",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p29-p31",
+            "LAW-TLCSM:제41조~제43조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-08",
+          "title": "인력과 교육훈련",
+          "prompt": "인력운용과 교육훈련의 차이는?",
+          "front": "인력운용과 교육훈련의 차이는?",
+          "reveal": "인력운용: 운용·정비·보급·교관의 소요인원 식별·관리\n교육훈련: 해당 인력의 교육계획·장비·교보재 확보",
+          "answer_segments": [
+            {
+              "text": "인력운용: 운용·정비·보급·교관의 ",
+              "blink": false
+            },
+            {
+              "text": "소요인원 식별·관리",
+              "blink": true
+            },
+            {
+              "text": "\n교육훈련: 해당 인력의 ",
+              "blink": false
+            },
+            {
+              "text": "교육계획·장비·교보재 확보",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "소요인원 식별·관리",
+            "교육계획·장비·교보재 확보"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "compare",
+          "priority": "B",
+          "term_glossary": {},
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p32-p33",
+            "LAW-TLCSM:제44조·제45조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-09",
+          "title": "자료·시설·정보체계",
+          "prompt": "기술자료, 시설, 지원정보체계의 역할은?",
+          "front": "기술자료, 시설, 지원정보체계의 역할은?",
+          "reveal": "기술자료: 운용·정비·조달의 기준정보 / 시설: 운용·시험·훈련·정비·보급·저장의 물적 기반 / 지원정보체계: 자료·정비·보급·SW의 정보 기반",
+          "answer_segments": [
+            {
+              "text": "기술자료: 운용·정비·조달의 ",
+              "blink": false
+            },
+            {
+              "text": "기준정보",
+              "blink": true
+            },
+            {
+              "text": " / 시설: 운용·시험·훈련·정비·보급·저장의 ",
+              "blink": false
+            },
+            {
+              "text": "물적 기반",
+              "blink": true
+            },
+            {
+              "text": " / 지원정보체계: 자료·정비·보급·SW의 ",
+              "blink": false
+            },
+            {
+              "text": "정보 기반",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "기준정보",
+            "물적 기반",
+            "정보 기반"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "compare",
+          "priority": "B",
+          "term_glossary": {},
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p34,p36-p38",
+            "LAW-TLCSM:제46조·제48조·제49조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.97,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-10",
+          "title": "주장비와 동시 확보",
+          "prompt": "IPS 요소는 주장비와 어떤 관계로 확보하는가?",
+          "front": "IPS 요소는 주장비와 어떤 관계로 확보하는가?",
+          "reveal": "계획·제안·협상부터 반영 → 주장비와 병행 개발·동시 확보 → 적시 전력화 지원",
+          "answer_segments": [
+            {
+              "text": "계획·제안·협상부터 반영 → 주장비와 ",
+              "blink": false
+            },
+            {
+              "text": "병행 개발",
+              "blink": true
+            },
+            {
+              "text": "·",
+              "blink": false
+            },
+            {
+              "text": "동시 확보",
+              "blink": true
+            },
+            {
+              "text": " → 적시 전력화 지원",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "병행 개발",
+            "동시 확보"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "process",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p11-p13",
+            "LAW-TLCSM:제18조·제19조·제36조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-11",
+          "title": "IPS 테일러링",
+          "prompt": "IPS 12대 요소는 모든 사업에 똑같이 적용하는가?",
+          "front": "IPS 12대 요소는 모든 사업에 똑같이 적용하는가?",
+          "reveal": "일반 연구개발은 12대 요소 전체를 검토하되 사업 특성·자원에 따라 적용범위와 산출물을 조정",
+          "answer_segments": [
+            {
+              "text": "일반 연구개발은 ",
+              "blink": false
+            },
+            {
+              "text": "12대 요소 전체를 검토",
+              "blink": true
+            },
+            {
+              "text": "하되 사업 특성·자원에 따라 ",
+              "blink": false
+            },
+            {
+              "text": "적용범위와 산출물을 조정",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "12대 요소 전체를 검토",
+            "적용범위와 산출물을 조정"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p39",
+            "LAW-TLCSM:제31조·제34조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.97,
+          "editor_note": ""
+        },
+        {
+          "id": "S10R-12",
+          "title": "LCSP로 연결",
+          "prompt": "IPS 개발결과는 어떻게 수명주기까지 이어지는가?",
+          "front": "IPS 개발결과는 어떻게 수명주기까지 이어지는가?",
+          "reveal": "요구사항·확보계획·성과를 LCSP에 기록·최신화 → 전력화평가 후속조치 완료 뒤 소요군 인계",
+          "answer_segments": [
+            {
+              "text": "요구사항·확보계획·성과를 ",
+              "blink": false
+            },
+            {
+              "text": "LCSP에 기록·최신화",
+              "blink": true
+            },
+            {
+              "text": " → 전력화평가 후속조치 완료 뒤 ",
+              "blink": false
+            },
+            {
+              "text": "소요군 인계",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "LCSP에 기록·최신화",
+            "소요군 인계"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "order",
+          "priority": "A",
+          "term_glossary": {
+            "IPS": "통합체계지원(Integrated Product Support): 체계지원 요소를 수명주기 관점에서 통합하는 활동",
+            "LCSP": "수명주기관리계획서(Life Cycle Sustainment Plan): 획득·운영유지 전 단계의 체계지원 관리계획"
+          },
+          "source_refs": [
+            "G10-IPS",
+            "LAW-TLCSM"
+          ],
+          "source_pages": [
+            "G10-IPS:p27-p39",
+            "LAW-TLCSM:제19조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        }
+      ]
+    },
+    {
+      "subject_no": 11,
+      "name": "부품국산화관리",
+      "cards": [
+        {
+          "id": "S11R-01",
+          "title": "부품국산화 목적",
+          "prompt": "부품국산화는 무엇을 확보하려는가?",
+          "front": "부품국산화는 무엇을 확보하려는가?",
+          "reveal": "국외도입 부품을 국내 개발·생산하여 공급망 안정·기술자립과 무기체계의 운영유지성을 높이는 활동",
+          "answer_segments": [
+            {
+              "text": "국외도입 부품을 국내 개발·생산하여 ",
+              "blink": false
+            },
+            {
+              "text": "공급망 안정·기술자립",
+              "blink": true
+            },
+            {
+              "text": "과 무기체계의 ",
+              "blink": false
+            },
+            {
+              "text": "운영유지성",
+              "blink": true
+            },
+            {
+              "text": "을 높이는 활동",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "공급망 안정·기술자립",
+            "운영유지성"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "concept",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p9-p14",
+            "LAW-PARTS:제1조·제3조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.97,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-02",
+          "title": "부품국산화 10개 유형",
+          "prompt": "현행 부품국산화개발 유형은 어떻게 묶어 기억하는가?",
+          "front": "현행 부품국산화개발 유형은 어떻게 묶어 기억하는가?",
+          "reveal": "사업단계: 체계·양산 / 지원유형: 핵심·수출연계·전략·상생협력 / 기타: 일반·구매조건부·산업부협력·부품성능개량",
+          "answer_segments": [
+            {
+              "text": "사업단계: ",
+              "blink": false
+            },
+            {
+              "text": "체계·양산",
+              "blink": true
+            },
+            {
+              "text": " / 지원유형: ",
+              "blink": false
+            },
+            {
+              "text": "핵심·수출연계·전략·상생협력",
+              "blink": true
+            },
+            {
+              "text": " / 기타: ",
+              "blink": false
+            },
+            {
+              "text": "일반·구매조건부·산업부협력·부품성능개량",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "체계·양산",
+            "핵심·수출연계·전략·상생협력",
+            "일반·구매조건부·산업부협력·부품성능개량"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "structure",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p33-p35",
+            "LAW-PARTS:제4조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-03",
+          "title": "국산화인증 50% 기준",
+          "prompt": "부품국산화율 50% 이상이 적용되는 맥락은?",
+          "front": "부품국산화율 50% 이상이 적용되는 맥락은?",
+          "reveal": "① 국외조달가 대비 원가 20% 이상 절감 또는 ② 핵심·수출연계·전략·상생협력·산업부협력 개발",
+          "answer_segments": [
+            {
+              "text": "① 국외조달가 대비 ",
+              "blink": false
+            },
+            {
+              "text": "원가 20% 이상 절감",
+              "blink": true
+            },
+            {
+              "text": " 또는 ② ",
+              "blink": false
+            },
+            {
+              "text": "핵심·수출연계·전략·상생협력·산업부협력",
+              "blink": true
+            },
+            {
+              "text": " 개발",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "원가 20% 이상 절감",
+            "핵심·수출연계·전략·상생협력·산업부협력"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p27",
+            "LAW-PARTS:제19조제1항"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-04",
+          "title": "국산화인증 60%·70% 기준",
+          "prompt": "단종부품과 그 밖의 부품은 어떤 국산화율을 요구하는가?",
+          "front": "단종부품과 그 밖의 부품은 어떤 국산화율을 요구하는가?",
+          "reveal": "이미 단종·단종예상 부품: 60% 이상\n다른 인증기준에 해당하지 않는 부품: 70% 이상",
+          "answer_segments": [
+            {
+              "text": "이미 단종·단종예상 부품: ",
+              "blink": false
+            },
+            {
+              "text": "60% 이상",
+              "blink": true
+            },
+            {
+              "text": "\n다른 인증기준에 해당하지 않는 부품: ",
+              "blink": false
+            },
+            {
+              "text": "70% 이상",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "60% 이상",
+            "70% 이상"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "compare",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p27",
+            "LAW-PARTS:제19조제1항"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-05",
+          "title": "자체제조비용 조건",
+          "prompt": "국산화율 외에 모든 인증유형이 함께 충족해야 할 제조조건은?",
+          "front": "국산화율 외에 모든 인증유형이 함께 충족해야 할 제조조건은?",
+          "reveal": "단위부품 금액 기준 자체제조비용 30% 이상\n전자류는 통합비용 포함, 단순조립·수입품 구매는 제외",
+          "answer_segments": [
+            {
+              "text": "단위부품 금액 기준 자체제조비용 ",
+              "blink": false
+            },
+            {
+              "text": "30% 이상",
+              "blink": true
+            },
+            {
+              "text": "\n전자류는 ",
+              "blink": false
+            },
+            {
+              "text": "통합비용 포함",
+              "blink": true
+            },
+            {
+              "text": ", 단순조립·수입품 구매는 제외",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "30% 이상",
+            "통합비용 포함"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "LAW-PARTS:제19조제2항"
+          ],
+          "verification": "현행 규정 직접확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-06",
+          "title": "국산화율 적용 환율",
+          "prompt": "외화지출액·수입단가의 환율 기준시점은?",
+          "front": "외화지출액·수입단가의 환율 기준시점은?",
+          "reveal": "적용 환율: 개발계획 승인 당시의 기준환율 또는 재정환율",
+          "answer_segments": [
+            {
+              "text": "적용 환율: ",
+              "blink": false
+            },
+            {
+              "text": "개발계획 승인 당시",
+              "blink": true
+            },
+            {
+              "text": "의 ",
+              "blink": false
+            },
+            {
+              "text": "기준환율 또는 재정환율",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "개발계획 승인 당시",
+            "기준환율 또는 재정환율"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "time",
+          "priority": "B",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p27",
+            "LAW-PARTS:제17조제5항"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-07",
+          "title": "인증에서 확인서까지",
+          "prompt": "연구개발확인서는 어떤 절차 뒤 발급되는가?",
+          "front": "연구개발확인서는 어떤 절차 뒤 발급되는가?",
+          "reveal": "군사용·전투용 적합판정 → 국방규격 제·개정 → 국산화인증 합격 → 업체 요청 시 연구개발확인서 발급",
+          "answer_segments": [
+            {
+              "text": "군사용·전투용 적합판정 → ",
+              "blink": false
+            },
+            {
+              "text": "국방규격 제·개정",
+              "blink": true
+            },
+            {
+              "text": " → ",
+              "blink": false
+            },
+            {
+              "text": "국산화인증 합격",
+              "blink": true
+            },
+            {
+              "text": " → 업체 요청 시 연구개발확인서 발급",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "국방규격 제·개정",
+            "국산화인증 합격"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "order",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p26-p31",
+            "LAW-PARTS:제18조~제21조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-08",
+          "title": "수의계약 적용 기간",
+          "prompt": "개발부품 수의계약의 기간은 어떤 조건으로 적용되는가?",
+          "front": "개발부품 수의계약의 기간은 어떤 조건으로 적용되는가?",
+          "reveal": "시험평가 충족·국방규격·연구개발확인서를 갖춘 단일업체 개발품목은 완료 후 계약연수 5년 이내\n우선구매 기간 포함 최장: 규격 제정일·확인서 최초발행일부터 15년 이내",
+          "answer_segments": [
+            {
+              "text": "시험평가 충족·국방규격·연구개발확인서를 갖춘 단일업체 개발품목은 완료 후 ",
+              "blink": false
+            },
+            {
+              "text": "계약연수 5년 이내",
+              "blink": true
+            },
+            {
+              "text": "\n우선구매 기간 포함 최장: 규격 제정일·확인서 최초발행일부터 ",
+              "blink": false
+            },
+            {
+              "text": "15년 이내",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "계약연수 5년 이내",
+            "15년 이내"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p31",
+            "LAW-PARTS:제23조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-09",
+          "title": "개발완료기간",
+          "prompt": "지원과제의 개발기간과 연장은 어떻게 관리하는가?",
+          "front": "지원과제의 개발기간과 연장은 어떻게 관리하는가?",
+          "reveal": "협약상 원칙: 5년 이내 / 전문기관 인정 시: 1회, 최대 12개월 연장 / 특정 추가사유 포함 총 연구개발: 10년 이내",
+          "answer_segments": [
+            {
+              "text": "협약상 원칙: ",
+              "blink": false
+            },
+            {
+              "text": "5년 이내",
+              "blink": true
+            },
+            {
+              "text": " / 전문기관 인정 시: ",
+              "blink": false
+            },
+            {
+              "text": "1회, 최대 12개월 연장",
+              "blink": true
+            },
+            {
+              "text": " / 특정 추가사유 포함 총 연구개발: ",
+              "blink": false
+            },
+            {
+              "text": "10년 이내",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "5년 이내",
+            "1회, 최대 12개월 연장",
+            "10년 이내"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p41-p43",
+            "LAW-PARTS:제88조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": "구자료의 36·24·12·12개월 암기식을 현행 규정으로 교정"
+        },
+        {
+          "id": "S11R-10",
+          "title": "정부지원금 한도",
+          "prompt": "핵심부품국산화 지원과제에서 정부지원금은 어떻게 부담하는가?",
+          "front": "핵심부품국산화 지원과제에서 정부지원금은 어떻게 부담하는가?",
+          "reveal": "협약기간 정부지원금: 체계적합성 시험평가비를 포함해 최대 100억 원\n나머지: 연구개발기관 현금·현물 부담 / 체계적합성 시험평가비: 정부지원금 전액 지원",
+          "answer_segments": [
+            {
+              "text": "협약기간 정부지원금: 체계적합성 시험평가비를 포함해 ",
+              "blink": false
+            },
+            {
+              "text": "최대 100억 원",
+              "blink": true
+            },
+            {
+              "text": "\n나머지: ",
+              "blink": false
+            },
+            {
+              "text": "연구개발기관 현금·현물 부담",
+              "blink": true
+            },
+            {
+              "text": " / 체계적합성 시험평가비: ",
+              "blink": false
+            },
+            {
+              "text": "정부지원금 전액 지원",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "최대 100억 원",
+            "연구개발기관 현금·현물 부담",
+            "정부지원금 전액 지원"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p38",
+            "LAW-PARTS:제89조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-11",
+          "title": "상생협력기금 매칭",
+          "prompt": "상생협력부품국산화의 1:1 매칭 기준은?",
+          "front": "상생협력부품국산화의 1:1 매칭 기준은?",
+          "reveal": "상생협력기금은 체계적합성 시험평가비를 제외한 정부지원금과 1:1 매칭하며 시험평가비는 정부지원금으로 전액 지원",
+          "answer_segments": [
+            {
+              "text": "상생협력기금은 ",
+              "blink": false
+            },
+            {
+              "text": "체계적합성 시험평가비를 제외한 정부지원금",
+              "blink": true
+            },
+            {
+              "text": "과 ",
+              "blink": false
+            },
+            {
+              "text": "1:1 매칭",
+              "blink": true
+            },
+            {
+              "text": "하며 시험평가비는 정부지원금으로 전액 지원",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "체계적합성 시험평가비를 제외한 정부지원금",
+            "1:1 매칭"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p38-p41",
+            "LAW-PARTS:제106조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-12",
+          "title": "기술료 발생 조건",
+          "prompt": "지원과제가 성공하면 곧바로 기술료를 내는가?",
+          "front": "지원과제가 성공하면 곧바로 기술료를 내는가?",
+          "reveal": "아님. 연구개발성과물을 활용해 매출이 발생한 경우에만 매출액과 기업유형 기준으로 기술료 징수",
+          "answer_segments": [
+            {
+              "text": "아님. 연구개발성과물을 활용해 ",
+              "blink": false
+            },
+            {
+              "text": "매출이 발생한 경우",
+              "blink": true
+            },
+            {
+              "text": "에만 매출액과 기업유형 기준으로 ",
+              "blink": false
+            },
+            {
+              "text": "기술료 징수",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "매출이 발생한 경우",
+            "기술료 징수"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p32",
+            "LAW-PARTS:제82조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S11R-13",
+          "title": "대상품목 선정 관점",
+          "prompt": "부품국산화 대상품목은 어떤 관점으로 선정하는가?",
+          "front": "부품국산화 대상품목은 어떤 관점으로 선정하는가?",
+          "reveal": "국외수입·성능개량·단종·운영유지 필요 품목을 대상으로 경제성·원천기술·파급효과·개발가능성·운용성 향상을 검토",
+          "answer_segments": [
+            {
+              "text": "국외수입·성능개량·단종·운영유지 필요 품목을 대상으로 ",
+              "blink": false
+            },
+            {
+              "text": "경제성·원천기술·파급효과·개발가능성·운용성 향상",
+              "blink": true
+            },
+            {
+              "text": "을 검토",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "경제성·원천기술·파급효과·개발가능성·운용성 향상"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "structure",
+          "priority": "B",
+          "term_glossary": {},
+          "source_refs": [
+            "G11-PARTS",
+            "LAW-PARTS"
+          ],
+          "source_pages": [
+            "G11-PARTS:p16-p18",
+            "LAW-PARTS:제13조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        }
+      ]
+    },
+    {
+      "subject_no": 12,
+      "name": "분석평가제도 및 규정",
+      "cards": [
+        {
+          "id": "S12R-01",
+          "title": "분석평가의 목적",
+          "prompt": "획득단계 분석평가는 무엇을 지원하는가?",
+          "front": "획득단계 분석평가는 무엇을 지원하는가?",
+          "reveal": "사업목표 달성·자원배분·비용 적정성을 분석해 단계별 합리적 의사결정과 계획·예산·집행 개선을 지원",
+          "answer_segments": [
+            {
+              "text": "사업목표 달성·자원배분·비용 적정성을 분석해 단계별 ",
+              "blink": false
+            },
+            {
+              "text": "합리적 의사결정",
+              "blink": true
+            },
+            {
+              "text": "과 계획·예산·집행 개선을 지원",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "합리적 의사결정"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "concept",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p7-p9",
+            "LAW-ANALYSIS:제1조·제4조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.98,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-02",
+          "title": "사업분석과 비용분석",
+          "prompt": "사업분석과 비용분석의 초점은?",
+          "front": "사업분석과 비용분석의 초점은?",
+          "reveal": "사업분석: 사업목표·추진요소를 분석해 의사결정 지원\n비용분석: 적정비용·목표비용을 산정해 예산·단가·비용 통제",
+          "answer_segments": [
+            {
+              "text": "사업분석: 사업목표·추진요소를 분석해 ",
+              "blink": false
+            },
+            {
+              "text": "의사결정 지원",
+              "blink": true
+            },
+            {
+              "text": "\n비용분석: 적정비용·목표비용을 산정해 ",
+              "blink": false
+            },
+            {
+              "text": "예산·단가·비용 통제",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "의사결정 지원",
+            "예산·단가·비용 통제"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "compare",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p36-p37",
+            "LAW-ANALYSIS:제5조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-03",
+          "title": "단계별 분석 구분",
+          "prompt": "획득단계 분석평가는 사업단계별로 어떻게 구분되는가?",
+          "front": "획득단계 분석평가는 사업단계별로 어떻게 구분되는가?",
+          "reveal": "계획단계 → 예산단계 → 집행단계의 집행 중 분석·집행성과분석",
+          "answer_segments": [
+            {
+              "text": "계획단계 → ",
+              "blink": false
+            },
+            {
+              "text": "예산단계",
+              "blink": true
+            },
+            {
+              "text": " → 집행단계의 ",
+              "blink": false
+            },
+            {
+              "text": "집행 중 분석·집행성과분석",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "예산단계",
+            "집행 중 분석·집행성과분석"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "order",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p34-p38",
+            "LAW-ANALYSIS:제5조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-04",
+          "title": "계획·예산단계 대상기준",
+          "prompt": "계획·예산단계 분석평가 대상선정의 금액·변경 기준은?",
+          "front": "계획·예산단계 분석평가 대상선정의 금액·변경 기준은?",
+          "reveal": "중기계획 또는 예산편성 신규 반영사업 중 총사업비 100억 원 이상 또는 기존 계획 대비 총사업비 20% 이상 변경\n예산단계 사업타당성조사 대상은 그 결과로 대체 가능",
+          "answer_segments": [
+            {
+              "text": "중기계획 또는 예산편성 신규 반영사업 중 ",
+              "blink": false
+            },
+            {
+              "text": "총사업비 100억 원 이상",
+              "blink": true
+            },
+            {
+              "text": " 또는 기존 계획 대비 ",
+              "blink": false
+            },
+            {
+              "text": "총사업비 20% 이상 변경",
+              "blink": true
+            },
+            {
+              "text": "\n예산단계 사업타당성조사 대상은 그 결과로 대체 가능",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "총사업비 100억 원 이상",
+            "총사업비 20% 이상 변경"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p39",
+            "LAW-ANALYSIS:제8조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-05",
+          "title": "집행 중 분석 대상",
+          "prompt": "집행 중 사업분석에서 20% 기준은 어디에 적용되는가?",
+          "front": "집행 중 사업분석에서 20% 기준은 어디에 적용되는가?",
+          "reveal": "총사업비 관리대상 사업 중 최초 총사업비 대비 20% 이상 증가한 사업을 집행 중 분석 대상으로 포함",
+          "answer_segments": [
+            {
+              "text": "총사업비 관리대상 사업 중 ",
+              "blink": false
+            },
+            {
+              "text": "최초 총사업비 대비 20% 이상 증가",
+              "blink": true
+            },
+            {
+              "text": "한 사업을 집행 중 분석 대상으로 포함",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "최초 총사업비 대비 20% 이상 증가"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p47",
+            "LAW-ANALYSIS:제25조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-06",
+          "title": "수행주체별 구분",
+          "prompt": "분석평가는 수행주체에 따라 어떻게 나뉘는가?",
+          "front": "분석평가는 수행주체에 따라 어떻게 나뉘는가?",
+          "reveal": "사업담당의 자체분석 / 사업본부 원가팀 비용분석 / 방위사업정책국 분석 / 외부기관 전문용역분석",
+          "answer_segments": [
+            {
+              "text": "사업담당의 ",
+              "blink": false
+            },
+            {
+              "text": "자체분석",
+              "blink": true
+            },
+            {
+              "text": " / 사업본부 ",
+              "blink": false
+            },
+            {
+              "text": "원가팀 비용분석",
+              "blink": true
+            },
+            {
+              "text": " / ",
+              "blink": false
+            },
+            {
+              "text": "방위사업정책국 분석",
+              "blink": true
+            },
+            {
+              "text": " / 외부기관 ",
+              "blink": false
+            },
+            {
+              "text": "전문용역분석",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "자체분석",
+            "원가팀 비용분석",
+            "방위사업정책국 분석",
+            "전문용역분석"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "structure",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p37",
+            "LAW-ANALYSIS:제5조제3항"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-07",
+          "title": "분석평가심의위원회",
+          "prompt": "대상사업 선정 심의위원회는 어떻게 구성되는가?",
+          "front": "대상사업 선정 심의위원회는 어떻게 구성되는가?",
+          "reveal": "위원장 포함 12명 = 위원장 1 + 내부 5 + 외부 6\n의결위원과 별도로 간사 1명",
+          "answer_segments": [
+            {
+              "text": "위원장 포함 ",
+              "blink": false
+            },
+            {
+              "text": "12명",
+              "blink": true
+            },
+            {
+              "text": " = 위원장 1 + 내부 5 + 외부 6",
+              "blink": false
+            },
+            {
+              "text": "\n의결위원과 별도로 ",
+              "blink": false
+            },
+            {
+              "text": "간사 1명",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "12명",
+            "간사 1명"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "structure",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p39-p40",
+            "LAW-ANALYSIS:제9조제4항"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": "구자료의 10명 구성을 현행 12명으로 교정"
+        },
+        {
+          "id": "S12R-08",
+          "title": "분석결과 보고·통보",
+          "prompt": "분석평가 종료 후 결과는 언제 처리하는가?",
+          "front": "분석평가 종료 후 결과는 언제 처리하는가?",
+          "reveal": "방위사업정책국이 종료 후 2주 이내 국방부에 보고하고 관련 기관에 통보",
+          "answer_segments": [
+            {
+              "text": "방위사업정책국이 종료 후 ",
+              "blink": false
+            },
+            {
+              "text": "2주 이내",
+              "blink": true
+            },
+            {
+              "text": " 국방부에 보고하고 관련 기관에 통보",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "2주 이내"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "time",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p40",
+            "LAW-ANALYSIS:제10조제1항"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-09",
+          "title": "정책반영 계획",
+          "prompt": "분석결과를 받은 기관은 어떻게 후속조치하는가?",
+          "front": "분석결과를 받은 기관은 어떻게 후속조치하는가?",
+          "reveal": "접수 후 3개월 이내 정책반영 계획을 통보하고, 반영이 어려우면 사유를 첨부",
+          "answer_segments": [
+            {
+              "text": "접수 후 ",
+              "blink": false
+            },
+            {
+              "text": "3개월 이내",
+              "blink": true
+            },
+            {
+              "text": " 정책반영 계획을 통보하고, 반영이 어려우면 ",
+              "blink": false
+            },
+            {
+              "text": "사유를 첨부",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "3개월 이내",
+            "사유를 첨부"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "time",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p40",
+            "LAW-ANALYSIS:제10조제1항"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-10",
+          "title": "전문용역분석 기준",
+          "prompt": "전문용역분석 대상의 사업비 기준은?",
+          "front": "전문용역분석 대상의 사업비 기준은?",
+          "reveal": "연구개발사업: 총사업비 500억 원 이상 또는 사전 500억 미만이어도 후속양산이 500억 원 이상",
+          "answer_segments": [
+            {
+              "text": "연구개발사업: 총사업비 ",
+              "blink": false
+            },
+            {
+              "text": "500억 원 이상",
+              "blink": true
+            },
+            {
+              "text": " 또는 사전 500억 미만이어도 후속양산이 ",
+              "blink": false
+            },
+            {
+              "text": "500억 원 이상",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "500억 원 이상"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p62",
+            "LAW-ANALYSIS:제48조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-11",
+          "title": "대규모 전문용역 공동참여",
+          "prompt": "총사업비 5,000억 원 이상 사업의 전문용역분석 방식은?",
+          "front": "총사업비 5,000억 원 이상 사업의 전문용역분석 방식은?",
+          "reveal": "객관성·종합성을 높이기 위해 2개 이상 전문연구기관이 공동 참여",
+          "answer_segments": [
+            {
+              "text": "객관성·종합성을 높이기 위해 ",
+              "blink": false
+            },
+            {
+              "text": "2개 이상 전문연구기관",
+              "blink": true
+            },
+            {
+              "text": "이 공동 참여",
+              "blink": false
+            }
+          ],
+          "blink_terms": [
+            "2개 이상 전문연구기관"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "A",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p62",
+            "LAW-ANALYSIS:제48조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        },
+        {
+          "id": "S12R-12",
+          "title": "단계별 중복 방지",
+          "prompt": "같은 사항을 단계마다 반복 분석하는가?",
+          "front": "같은 사항을 단계마다 반복 분석하는가?",
+          "reveal": "단계별 중점을 구분해 중복분석을 피하고, 여건이 변해 필요할 때만 재분석",
+          "answer_segments": [
+            {
+              "text": "단계별 중점을 구분해 ",
+              "blink": false
+            },
+            {
+              "text": "중복분석을 피하고",
+              "blink": true
+            },
+            {
+              "text": ", 여건이 변해 필요할 때만 ",
+              "blink": false
+            },
+            {
+              "text": "재분석",
+              "blink": true
+            }
+          ],
+          "blink_terms": [
+            "중복분석을 피하고",
+            "재분석"
+          ],
+          "ui_rule": "answer_segments 중 blink=true인 조각만 점멸하고 나머지 문맥은 항상 표시",
+          "card_type": "rule",
+          "priority": "B",
+          "term_glossary": {},
+          "source_refs": [
+            "G12-ANALYSIS",
+            "LAW-ANALYSIS"
+          ],
+          "source_pages": [
+            "G12-ANALYSIS:p37",
+            "LAW-ANALYSIS:제6조"
+          ],
+          "verification": "교재·현행 규정 교차확인",
+          "confidence": 0.99,
+          "editor_note": ""
+        }
+      ]
+    }
+  ],
+  "corrected_or_excluded": [
+    {
+      "topic": "법령·훈령 발령번호 맞히기",
+      "action": "핵심카드 제외",
+      "reason": "절차 이해와 시험효용이 낮아 출처 메타데이터로만 보존"
+    },
+    {
+      "topic": "상호운용성 현행 용어",
+      "action": "교정",
+      "current_rule": "구 SITES는 DSS로, 보안 적용항목은 사이버보안으로 정리",
+      "source": "LAW-IO",
+      "confidence": 0.99
+    },
+    {
+      "topic": "부품국산화 개발완료기간",
+      "action": "교정",
+      "old_material": "36개월·24개월·12개월·12개월 단독 암기",
+      "current_rule": "협약상 5년 이내, 전문기관 인정 시 1회 최대 12개월, 특정 추가사유 포함 전체 연구개발 10년 이내",
+      "source": "LAW-PARTS:제88조",
+      "confidence": 0.99
+    },
+    {
+      "topic": "분석평가심의위원회 구성",
+      "action": "교정",
+      "old_material": "위원 10명 취지의 구 구성",
+      "current_rule": "위원장 포함 12명(위원장 1·내부 5·외부 6), 간사 1명 별도",
+      "source": "LAW-ANALYSIS:제9조",
+      "confidence": 0.99
+    },
+    {
+      "topic": "맥락 없는 기간·금액·비율",
+      "action": "전면 재작성",
+      "reason": "모든 숫자를 적용 절차·대상·조건·후속조치와 함께 제시"
+    }
+  ]
+}
