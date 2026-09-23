@@ -78,3 +78,16 @@
 </script>
 </body>
 </html>
+
+<script>
+/* 2026.17.1: 전 조문 원문, Recall Flash 용어, 버전 배너 */
+(()=>{
+ const S='https://www.law.go.kr/LSW/admRulLsInfoR.do?admRulSeq=2100000281472&admRulId=38290&joTpYn=Y&languageType=KO&chrClsCd=010202&prmlNo=3184&prmlYd=20260701&efYd=20260701';
+ const study=document.getElementById('study');
+ if(study){study.innerHTML='<div class="notice"><b>전 조문 원문</b>입니다. 제1조부터 부칙까지 국가법령정보센터 2026.7.1 시행본을 생략·요약 없이 표시합니다. 각 조문 안에서 <b>항 → 호 → 목</b> 순서로 읽고, 암기는 <b>Recall Flash</b>에서 진행하세요.</div><div class="toolrow"><a class="btn primary" href="'+S+'" target="_blank" rel="noopener">공식 원문 새 창</a><button class="btn" id="goRecall">Recall Flash 시작</button></div><iframe class="official" title="국방전력발전업무훈령 전 조문 원문" src="'+S+'"></iframe>';const g=document.getElementById('goRecall');if(g)g.onclick=()=>document.querySelector('[data-view="flash"]').click()}
+ const status=document.getElementById('status');if(status)status.textContent='국가법령정보센터 현행본 전 조문을 표시합니다. (제1조부터 부칙까지)';
+ const legacy=document.getElementById('legacy');
+ function unify(){try{const d=legacy.contentDocument;if(!d||!d.body)return;const w=d.createTreeWalker(d.body,NodeFilter.SHOW_TEXT),a=[];while(w.nextNode())a.push(w.currentNode);a.forEach(n=>{if(n.nodeValue.includes('깜빡이'))n.nodeValue=n.nodeValue.replaceAll('깜빡이','Recall Flash')});d.querySelectorAll('[title],[aria-label],[placeholder]').forEach(e=>['title','aria-label','placeholder'].forEach(k=>{const v=e.getAttribute(k);if(v&&v.includes('깜빡이'))e.setAttribute(k,v.replaceAll('깜빡이','Recall Flash'))}));if(!d.getElementById('studyVersionBadge')){const b=d.createElement('span');b.id='studyVersionBadge';b.textContent='버전 2026.17 · 수정 2026-09-23';b.style.cssText='display:inline-flex;align-items:center;margin:8px 12px;padding:5px 10px;border:1px solid rgba(255,255,255,.38);border-radius:999px;background:rgba(8,24,55,.24);color:inherit;font:700 12px/1.2 system-ui,sans-serif;letter-spacing:.02em;white-space:nowrap;vertical-align:middle';const h=d.querySelector('.topbar,.app-header,.header,header,.hero')||d.body;h.insertBefore(b,h.firstChild)}}catch(_){}}
+ legacy.addEventListener('load',unify);unify();
+})();
+</script>
