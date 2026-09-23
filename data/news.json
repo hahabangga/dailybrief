@@ -1,107 +1,86 @@
 {
-  "date": "2026-09-23",
-  "generated_at_utc": "2026-09-23T14:49:29Z",
-  "cutoff_kst": "2026-09-23T23:49:00+09:00",
+  "date": "2026-09-24",
+  "generated_at_utc": "2026-09-23T17:44:29Z",
+  "cutoff_kst": "2026-09-24T02:44:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
-        "url": "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
-        "summary": "Tehran's proposal could pave the way for restoring traffic through the Strait of Hormuz, reviving fragile hopes for a diplomatic off-ramp. Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
-        "published": "Wed, 23 Sep 2026 14:47:28 GMT",
-        "published_kst": "2026-09-23T23:47:28+09:00",
+        "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
+        "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+        "summary": "Recent weeks have seen AI safety fears reach new heights. and Chinese leaders, analysts told CNBC.",
+        "published": "Wed, 23 Sep 2026 17:39:36 GMT",
+        "published_kst": "2026-09-24T02:39:36+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "‘I am the code’: Trump clashed with ballroom architect over safety issues - washingtonpost.com",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaENidlZPVnhtMnoxbE9lQWpTV2phTEdYaWUwT1FZakF6VXRUZEltb1I0YmZ0aHE3QXliN0pCM0tRVU1NTEUyc214N2V6RzcwaXQwVDR4UWMzUmR2WFdlRmthWGZaZmlEVlREcWJWUG13VnNNa1FLSmRDOHlEbmROUjFlTDNMd3BiTnJTM09nNDRFeDYxV0hFT0ZmZnFkOF9vUTdYVWdLY3hvSTZPa1NsZjd2aVprcWlVRkJqdGxxdlFjQQ?oc=5",
-        "summary": "‘I am the code’: Trump clashed with ballroom architect over safety issues washingtonpost.com ‘I am the code’: Trump clashed with ballroom architect over safety issues - washingtonpost.com",
-        "published": "Wed, 23 Sep 2026 14:43:14 GMT",
-        "published_kst": "2026-09-23T23:43:14+09:00",
+        "title": "Iran's president blames U.S., Israel for global instability in defiant UN speech",
+        "url": "https://www.cnbc.com/2026/09/23/iran-united-nations-trump-israel.html",
+        "summary": "Pezeshkian began his address to the U.N. General Assembly in New York City by holding up photos of children he said were killed by U.S.",
+        "published": "Wed, 23 Sep 2026 17:38:47 GMT",
+        "published_kst": "2026-09-24T02:38:47+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump tells judge media ban is necessary to protect national security - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXRpYlQ0bzVKcFVjMEdaQ194MlJXckNJYUtwVUh3REFkNERvRUo1dGYydG9vLXVGaE9SQUhDVUd4S1NJSlN5UjNxaG9TZ3lHSmVnbDkyNDVRaS1jQlEyWG8wQ1RseGdPMmhYREwwQ1pVQmV6d3h3S3Rfbi1GdThDZVpiTVB4Nl9nRkJjTUR4aXhBbVJ5WUNSQjlwa0ZMYy1sTlVtaEpHejFnQTdPaWlsYWJNZ2Y2MzAxb1E?oc=5",
+        "summary": "Trump tells judge media ban is necessary to protect national security The Washington Post Trump tells judge media ban is necessary to protect national security - The Washington Post",
+        "published": "Wed, 23 Sep 2026 17:37:31 GMT",
+        "published_kst": "2026-09-24T02:37:31+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Zelenskyy says Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting with Putin, Trump",
-        "url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
-        "summary": "Zelenskyy said Ukraine is ready for an “energy ceasefire” with Russia, provided Moscow stops attacks on critical infrastructure. Zelenskyy says Ukraine ready for ‘energy ceasefire,’ calls for trilateral meeting with Putin, Trump",
-        "published": "Wed, 23 Sep 2026 14:41:48 GMT",
-        "published_kst": "2026-09-23T23:41:48+09:00",
-        "domain": "cnbc.com",
+        "title": "CNN, Politico and MSNOW Sue Trump After White House Ban - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0VsX2hWOXZ5QnpwTWZ0MFNqLWpTdHFmTzlxeWsyR0pkamxxNXRFN3JZTGdYZDJzZ3VnV3VpNFRBdlloRU0wVHVLNGFkTnN5VVRIQ3k2ck8zYTZGRU5YRFExcEpEWjlGcFFQT3p1S2xhVlpPS0xocGUzaFhreHJOdm5MUnNKcHR0bERfdndn?oc=5",
+        "summary": "CNN, Politico and MSNOW Sue Trump After White House Ban The New York Times CNN, Politico and MSNOW Sue Trump After White House Ban - The New York Times",
+        "published": "Wed, 23 Sep 2026 17:31:00 GMT",
+        "published_kst": "2026-09-24T02:31:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "McDonald's CEO expects high inflation, flat traffic are not going away for restaurant industry",
+        "title": "McDonald's CEO expects high inflation, fewer diner visits are here to stay",
         "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-        "summary": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry. McDonald's CEO expects high inflation, flat traffic are not going away for restaurant industry",
-        "published": "Wed, 23 Sep 2026 14:40:04 GMT",
-        "published_kst": "2026-09-23T23:40:04+09:00",
+        "summary": "McDonald's CEO Chris Kempczinski said that he expects that high inflation and flat traffic will continue to weigh on the restaurant industry. McDonald's CEO expects high inflation, fewer diner visits are here to stay",
+        "published": "Wed, 23 Sep 2026 17:25:26 GMT",
+        "published_kst": "2026-09-24T02:25:26+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "News outlets will ask judge to end Trump's White House ban at hearing - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHZCTDh5UkxYMTBaTFJxcElhNlpvemdJMmYxUnRleHFwTWNRdDBoNjRmcEoyMmJMWVluLVZOelE5ek9oQ2EydlpVcUp4aUQ4TF9DTGtOSnhDVFJlSmU0cUhFY2ZNQzJLUzhJaVBQUDkyLS1lbGlCSXNPMzVsWVF3c3NkNjQ0QzJuVDFMd0xDaENVNmRHbGxlMUhIem1ESXN1Z1kzaHVoZXhCSE9KVGV4dnlBNUEtUQ?oc=5",
-        "summary": "News outlets will ask judge to end Trump's White House ban at hearing Reuters News outlets will ask judge to end Trump's White House ban at hearing - Reuters",
-        "published": "Wed, 23 Sep 2026 13:17:39 GMT",
-        "published_kst": "2026-09-23T22:17:39+09:00",
+        "title": "$6.53 Diesel US Avg, $8.25 In California, Worsens Inflation, Amid Record US Diesel Exports - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWWpkZ1JxNm1HclRRcE9MWlNlMXNYb3lQQzBDaE4wMUdUemJNY2c4VGxKR0REd1ZVRTBkTExFVW5RMHBoUlJZRUR0S3dfbW51cHhfbUJGa0hHMDJhcGs2YzhHdjZySmdvOXdySG4yWkdfYzJjN0s1WnJURk8xcE9yLVJ1QTY3ZU1jZXIxZWNFWFM3c1kzNEdSeDhkdElDLUcwbk5rZTBmUW9KOS1PRzI3WGJ3bW1sWG4yZnZKSVRQdFNLR284TnZkSmRtaHRyNEU1eEhXQVAtOWE5d1YxVTg0R0NMdkxoajA?oc=5",
+        "summary": "$6.53 Diesel US Avg, $8.25 In California, Worsens Inflation, Amid Record US Diesel Exports Seeking Alpha $6.53 Diesel US Avg, $8.25 In California, Worsens Inflation, Amid Record US Diesel Exports - Seeking Alpha",
+        "published": "Wed, 23 Sep 2026 17:20:00 GMT",
+        "published_kst": "2026-09-24T02:20:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "DOJ fights lawsuit challenging Trump’s White House media ban: Access is a ‘privilege’ - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDltUXFRbHJXTjNFSEZNLXI4RzhCSGtRWWNTbXNBVHRZWmpTLUFSWU9sa19JT1lrMXlwcktTRV9aMnQ4N0IyMUM0ZldUQ3M1Zks4VktxaGNoakdOUVpQSjV6TlIzeHI0eTBtanN2VTBlMmoxMU40cDFCcWstaEdXMVVTUU4zMlcyT014eFJOYmJSM0JyQzhmVkVmbE9qMUpiQm0xWFNpWlVYVVnSAbABQVVfeXFMT1VpWExELVJZQmZkY1VCVGN2dVZWaXg1NWVoWWtCamE5b0d1RnljYmdWcUdVMXQ2MzVibEh1R0o5djFHYjJVSXN6clFtS2ljQlBkaW1lODEyNU1Td0pkQVZlME82clQtRFl3ZU1TT3NGNUZYZmNGSEFuNVFXdWRBLUJlQ1N5N3FBRUdVaWhYQWJJY1ZNU1BLeWF5NXdlbGtsR1BrZTRkbGFxeDJpVjJZZEw?oc=5",
-        "summary": "DOJ fights lawsuit challenging Trump’s White House media ban: Access is a ‘privilege’ The Hill DOJ fights lawsuit challenging Trump’s White House media ban: Access is a ‘privilege’ - The Hill",
-        "published": "Wed, 23 Sep 2026 12:30:00 GMT",
-        "published_kst": "2026-09-23T21:30:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$6.53",
+          "$8.25"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "\"이렇게 좋은 걸 아재들만 했다고?\"…2030 여성들 푹 빠졌다 [트렌드+] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80V1YxWG9XUkw1emxBWU1YUkZMajNvdExRcXpwSVpQcG13aThxR1BYSV9FLWNqX0xFclRpaFBnaDcyUkxzMjNJRHdrbVlGVFdxOU5zbEgxcW5pdw?oc=5",
-        "summary": "\"이렇게 좋은 걸 아재들만 했다고?\"…2030 여성들 푹 빠졌다 [트렌드+] 한국경제 \"이렇게 좋은 걸 아재들만 했다고?\"…2030 여성들 푹 빠졌다 [트렌드+] - 한국경제",
-        "published": "Wed, 23 Sep 2026 13:59:00 GMT",
-        "published_kst": "2026-09-23T22:59:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2030"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"없어서 못 팔아요\"…전세계 휩쓴 '보라색 디저트'에 초강수 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DLUlnWUVNa0Q0RDJpNnZwOERvVDd1NEI2RXpwT0ZqQTh2MlF4NTlwcWpUR1NfYi0tVlhXRG1qUE9aRjQ1a3ZhVHJNOG1FR1I4ajZMdnFaTGQxQQ?oc=5",
-        "summary": "\"없어서 못 팔아요\"…전세계 휩쓴 '보라색 디저트'에 초강수 한국경제 \"없어서 못 팔아요\"…전세계 휩쓴 '보라색 디저트'에 초강수 - 한국경제",
-        "published": "Wed, 23 Sep 2026 13:04:00 GMT",
-        "published_kst": "2026-09-23T22:04:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "OECD, 올해 한국 경제성장률 전망치 2.6%→3.7%로 수정 발표 - 경북구미신문",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85S0FoYnRReXhzYkFxcjBqMHdCeVB3YkNWRVVtcVR4NDUzZWpWTjZ0eERsN09Hbnd5WngxV3piVlFtQ1NzNEJUd2F5T25ZejRKOWhNSzBSNVhQTF9mLWNqd25fVFlJV0Y0NkE?oc=5",
-        "summary": "OECD, 올해 한국 경제성장률 전망치 2.6%→3.7%로 수정 발표 경북구미신문 OECD, 올해 한국 경제성장률 전망치 2.6%→3.7%로 수정 발표 - 경북구미신문",
-        "published": "Wed, 23 Sep 2026 12:43:56 GMT",
-        "published_kst": "2026-09-23T21:43:56+09:00",
+        "title": "OECD, 올해 韓성장률 전망… 석달만에 2.6%→3.7% 상향 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01RDFHWjhSV2N0WXBHaEZ1X05LdzBmRXNyZTk4eWY3NlFvZE1tR3ZDWktSRU1PRkJBZE5QZmdYbmFBQzB4MnowbEdicjNJMXc?oc=5",
+        "summary": "OECD, 올해 韓성장률 전망… 석달만에 2.6%→3.7% 상향 v.daum.net OECD, 올해 韓성장률 전망… 석달만에 2.6%→3.7% 상향 - v.daum.net",
+        "published": "Wed, 23 Sep 2026 16:43:56 GMT",
+        "published_kst": "2026-09-24T01:43:56+09:00",
         "domain": "google.com",
         "key_figures": [
           "2.6%",
@@ -109,44 +88,70 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "中자본 유치 나선 형지, 부동산 매각 타진 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiaDBQdnE2eW1sYzI2bm1qcHVGdHpjYWZqWV8zc2M0dmUxczkzWkRrUUlHMlJUYk5PVlhoaVI0dFVORHpOVXREUHpxNWRBRml2NUFSTl9CT0ZUdw?oc=5",
+        "summary": "中자본 유치 나선 형지, 부동산 매각 타진 한국경제 中자본 유치 나선 형지, 부동산 매각 타진 - 한국경제",
+        "published": "Wed, 23 Sep 2026 16:33:00 GMT",
+        "published_kst": "2026-09-24T01:33:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "가온전선 뜀박질…이달 전선주 상승률 1위 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iQkFZRkZhWEprNkZZemZzcUJUZ0ozemsycXB6RE9nQjdlQmNkdk5FNDJSWkZ1aGhROVpVaUxLQV9sU3pOX3JYdmZ1Ukd5WW5kcUVlZkRrM3BlUQ?oc=5",
+        "summary": "가온전선 뜀박질…이달 전선주 상승률 1위 한국경제 가온전선 뜀박질…이달 전선주 상승률 1위 - 한국경제",
+        "published": "Wed, 23 Sep 2026 16:18:00 GMT",
+        "published_kst": "2026-09-24T01:18:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Amazon debuts direct rail service for Los Angeles-to-East Coast shipments - Supply Chain Dive",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMXoxcmZjSGhIdmhwcWJyZ1RwZmRUUk0zSTlfNkRtVVdGV2xSX09zaXpHLXRCSXRwbnVfcE5oOTBnVXowX2V2RGlpaTdwVXVqVGdnaUlzb2pOU19ndGV2RWNwUEhNblVSVG1SdElfQ3BnSWlyanJRVTdDVm5UVHFOUlN3TnFQQnRlNGplY2hxUm5LclVWUHZ6Sk40SXpwYzZyM25GQzZkN0czVWJJaGJKQUV1WXdZc195VEE?oc=5",
-        "summary": "Amazon debuts direct rail service for Los Angeles-to-East Coast shipments Supply Chain Dive Amazon debuts direct rail service for Los Angeles-to-East Coast shipments - Supply Chain Dive",
-        "published": "Wed, 23 Sep 2026 13:48:26 GMT",
-        "published_kst": "2026-09-23T22:48:26+09:00",
+        "title": "Alcott Global Announces the Top 30 Supply Chain Leaders of 2026 - markets.businessinsider.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOenBUaVdOT05Kc084Sml0cFRUZ0FyTGFzWXNlb1VFanVoZXNyRGJOV3BpNUN3cWtCSGV1VEhMMFpNd0lUb2RPY2lFOU9JTktia3FtWnB6d1BQcDFhbmw3WG9pTUdRTU5nVGJnUW9wajdaNmRhbFJENnVMRTg3MWozLTJjQjY1ZFVnT0tzcjhPRVlkdm1LaF84QV95QVlqdERHbTV6U05ac3hyaFlSUTJkRzhSOVVLcGpaNHdKT0NLTQ?oc=5",
+        "summary": "Alcott Global Announces the Top 30 Supply Chain Leaders of 2026 markets.businessinsider.com Alcott Global Announces the Top 30 Supply Chain Leaders of 2026 - markets.businessinsider.com",
+        "published": "Wed, 23 Sep 2026 17:04:59 GMT",
+        "published_kst": "2026-09-24T02:04:59+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "A look at AI doomsday scenarios that researchers say could put humanity at risk - The Mercury News",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ndlpXdVQzZldNaGxMb0tvdGpRWGNGaXdGc3J4Si1PNU9WWmVrc0VXS2ZocUswb0dqdHNEUk5JMnlpNkVreWhzNzBsNy1JNVdNRG5HX21CeWhZb0Q4RW5ERnVIWG9sdWljRW9XeTB6cEh3QVBIWEpVc3Nud9IBgAFBVV95cUxOeDJXcWFKc0xwSmlUMzVRUUpJZld4Yk02NjRPUGFGaTBrb3hBYzlHSThsZ3ZqX2huUHdoUlB6NWtMSmtSaUtLM0pLVzNmOWhlZm9FVlpmbmRyeGtQTFpuTG1JMUZGMVUzRUoyNXBjMm5RbEZEU1A4cUh5VDdtdTRvTg?oc=5",
+        "summary": "A look at AI doomsday scenarios that researchers say could put humanity at risk The Mercury News A look at AI doomsday scenarios that researchers say could put humanity at risk - The Mercury News",
+        "published": "Wed, 23 Sep 2026 16:19:37 GMT",
+        "published_kst": "2026-09-24T01:19:37+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains - The Quantum Insider",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGozWHdET1FPUjAzN3cxT1Z0LUw5YmhwcXU2aWc3aWxOUERqSjg3b1BnbENkQl9UUUVheVM4cHVQRG5LVXRxUHNLdU1rdkdRN1gtS2oyaGdrLUVmX2NJaXBKM3ZWNGVuWC1FXzF4TnVTbml5Mjh0X0J0cUV2ZFdIRXZMcGtVTExLOXhIM0lDVm9rUjk0OTJjZDlzVEtaNTdIYXRoOVJIYWpUM1A4SG5iM1dhLXMwOFJs?oc=5",
-        "summary": "Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains The Quantum Insider Global Study Finds Quantum Industry Dependent on Cross-Border Supply Chains - The Quantum Insider",
-        "published": "Wed, 23 Sep 2026 13:38:05 GMT",
-        "published_kst": "2026-09-23T22:38:05+09:00",
+        "title": "Why Coca-Cola is Investing $10bn in US Supply Chain - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUJxVFUxOF9PeGVicG1takVqOUw3VTVCdnBHUlVCR0FJQ0dyb01vSkhiU2R2WXRidzlQR0tscjBLcU5oVUVLWUxlSFJYYVFaOFc5SGgtc3ZNUkdGVF9pZ25XX3FxaW4wUTRIRXM1M3BzOVR2Vll3M195Y2E0cEtJdGFpend4TlFKeUVMcXk5dw?oc=5",
+        "summary": "Why Coca-Cola is Investing $10bn in US Supply Chain Supply Chain Digital Magazine Why Coca-Cola is Investing $10bn in US Supply Chain - Supply Chain Digital Magazine",
+        "published": "Wed, 23 Sep 2026 16:17:37 GMT",
+        "published_kst": "2026-09-24T01:17:37+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Levi Strauss, M&S, Schneider Electric Launch Fashion Supply Chain Clean Energy Initiative - esgtoday.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV0JuOG1CT21UOW1FeHVCSU9xcHZVNHRMdks5UFdFUVNmU05GaTNWRUN5Yl9DZlA5ZlJKbE81Nkl0RWVtZkZST2ljN0hSM0VhaWIxODhHZW5TNmI5YXIwN3hpYkZrTEtBSUd6OWtYOUdvaElJOE1aNW1NWHJ5MU5tUURmakRvSS1TdjJuXzBpMUFXcVJ3V2ZBWlRyenJpczFjUjk2dnhXNTlxMW9UaDdxTUVR?oc=5",
-        "summary": "Levi Strauss, M&S, Schneider Electric Launch Fashion Supply Chain Clean Energy Initiative esgtoday.com Levi Strauss, M&S, Schneider Electric Launch Fashion Supply Chain Clean Energy Initiative - esgtoday.com",
-        "published": "Wed, 23 Sep 2026 13:31:48 GMT",
-        "published_kst": "2026-09-23T22:31:48+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$10"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Tehran's proposal could pave the way for restoring traffic through the Strait of Hormuz, reviving fragile hopes for a diplomatic off-ramp. Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening / \"이렇게 좋은 걸 아재들만 했다고?\"…2030 여성들 푹 빠졌다 [트렌드+] 한국경제 \"이렇게 좋은 걸 아재들만 했다고?\"…2030 여성들 푹 빠졌다 [트렌드+] - 한국경제 / Amazon debuts direct rail service for Los Angeles-to-East Coast shipments Supply Chain Dive Amazon debuts direct rail service for Los Angeles-to-East Coast shipments - Supply Chain Dive",
+  "wrap_summary": "Recent weeks have seen AI safety fears reach new heights. and Chinese leaders, analysts told CNBC. / OECD, 올해 韓성장률 전망… 석달만에 2.6%→3.7% 상향 v.daum.net OECD, 올해 韓성장률 전망… 석달만에 2.6%→3.7% 상향 - v.daum.net / Alcott Global Announces the Top 30 Supply Chain Leaders of 2026 markets.businessinsider.com Alcott Global Announces the Top 30 Supply Chain Leaders of 2026 - markets.businessinsider.com",
   "invest_summary": ""
 }
