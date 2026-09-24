@@ -3,3 +3,59 @@
 <script>(()=>{const a=document.querySelector('#modal aside');if(!a||document.getElementById('directiveTab'))return;const b=document.createElement('button');b.id='directiveTab';b.className='tab';b.innerHTML='국방전력발전업무훈령<small>226개 조문 · 2026.7.1 시행</small>';b.onclick=()=>{document.getElementById('modal').style.display='none';const f=document.getElementById('legacy'),o=()=>{const x=f.contentDocument&&f.contentDocument.getElementById('openLaw');if(x)x.click()};o();f.addEventListener('load',o,{once:true})};a.insertBefore(b,document.getElementById('close'))})();</script>
 
 <script>(()=>{const m=document.getElementById('modal'),f=document.getElementById('legacy');function hook(d){const b=d.getElementById('closeLaw');if(!b||b.dataset.lawBack)return;b.dataset.lawBack='1';b.addEventListener('click',e=>{e.preventDefault();e.stopImmediatePropagation();const x=d.getElementById('lawModal');if(x)x.style.display='none';m.style.display='block'},true)}function openDirective(){m.style.display='none';const go=()=>{const d=f.contentDocument;if(!d)return;hook(d);const x=d.getElementById('openLaw');if(x)x.click()};if(f.contentDocument&&f.contentDocument.readyState==='complete')go();else f.addEventListener('load',go,{once:true})}const nav=document.getElementById('directiveTab');if(nav)nav.onclick=openDirective;const b=document.createElement('button');b.id='mobileDirective';b.className='launch';b.textContent='훈령 원문 · Recall Flash';b.onclick=openDirective;document.body.append(b);const s=document.createElement('style');s.textContent='#mobileDirective{display:none}@media(max-width:720px){#mobileDirective{display:block;bottom:130px}}';document.head.append(s)})();</script>
+
+
+<script>
+(()=>{
+  const launchId='theorySprintLaunch';
+  const isVisible=el=>!!(el&&el.getClientRects().length&&getComputedStyle(el).visibility!=='hidden'&&getComputedStyle(el).display!=='none');
+  const updateVersion=doc=>{
+    if(!doc||!doc.body) return;
+    const walker=doc.createTreeWalker(doc.body,NodeFilter.SHOW_TEXT);
+    let node;
+    while((node=walker.nextNode())) node.nodeValue=node.nodeValue.replace('버전 2026.17 · 수정 2026-09-23','버전 2026.18 · 수정 2026-09-24');
+  };
+  const addLaunch=doc=>{
+    if(doc.getElementById(launchId)) return;
+    const style=doc.createElement('style');
+    style.id=launchId+'Style';
+    style.textContent='#'+launchId+'{position:fixed;z-index:2147483000;top:12px;right:12px;display:flex;align-items:center;gap:9px;max-width:320px;padding:9px 12px;border:1px solid #54e2c6;border-radius:14px;background:linear-gradient(120deg,#08243a,#0b4650);color:#f4fbff;text-decoration:none;box-shadow:0 10px 30px #0009;font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;line-height:1.2}#'+launchId+' .ts-new{padding:4px 7px;border-radius:999px;background:#39d1b4;color:#042025;font-size:10px;font-weight:900}#'+launchId+' strong{display:block;font-size:14px}#'+launchId+' small{display:block;margin-top:3px;color:#c5d8eb;font-size:10px}#'+launchId+':hover{transform:translateY(-1px);border-color:#b8fff1}#'+launchId+':focus-visible{outline:3px solid #ffc857;outline-offset:2px}@media(max-width:720px){#'+launchId+'{top:9px;right:9px;max-width:245px;padding:8px 10px}#'+launchId+' small{max-width:150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}';
+    doc.head.append(style);
+    const link=doc.createElement('a');
+    link.id=launchId;
+    link.href='/dailybrief/theory-sprint/';
+    link.target='_top';
+    link.setAttribute('aria-label','THEORY SPRINT 이론 자동학습 열기');
+    link.innerHTML='<span class="ts-new">NEW</span><span><strong>THEORY SPRINT →</strong><small>검증 이론 자동학습 · 17과목 647장</small></span>';
+    doc.body.append(link);
+  };
+  const watchGate=doc=>{
+    if(!doc||!doc.body) return false;
+    const password=doc.querySelector('input[type="password"],input[placeholder*="비밀번호"],[aria-label*="비밀번호"]');
+    if(!password) return false;
+    const sync=()=>{
+      updateVersion(doc);
+      if(isVisible(password)){
+        const old=doc.getElementById(launchId); if(old) old.remove();
+      }else addLaunch(doc);
+    };
+    sync();
+    new MutationObserver(sync).observe(doc.body,{subtree:true,childList:true,attributes:true,characterData:true});
+    return true;
+  };
+  const scan=doc=>{
+    try{
+      updateVersion(doc);
+      if(watchGate(doc)) return true;
+      let found=false;
+      doc.querySelectorAll('iframe').forEach(frame=>{
+        const run=()=>{try{if(scan(frame.contentDocument)) found=true}catch(_){}};
+        frame.addEventListener('load',run); run();
+      });
+      return found;
+    }catch(_){return false}
+  };
+  const boot=()=>scan(document);
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',boot,{once:true}); else boot();
+})();
+</script>
