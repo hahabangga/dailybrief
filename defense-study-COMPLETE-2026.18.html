@@ -59,3 +59,44 @@
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',boot,{once:true}); else boot();
 })();
 </script>
+
+
+<script>
+(()=>{
+  const id='theorySprintLaunch';
+  const visible=el=>!!(el&&el.getClientRects().length&&getComputedStyle(el).visibility!=='hidden'&&getComputedStyle(el).display!=='none');
+  const add=doc=>{
+    if(doc.getElementById(id)) return;
+    if(!doc.getElementById(id+'Style')){
+      const style=doc.createElement('style');
+      style.id=id+'Style';
+      style.textContent='#'+id+'{position:fixed;z-index:2147483000;top:12px;right:12px;display:flex;align-items:center;gap:9px;max-width:320px;padding:9px 12px;border:1px solid #54e2c6;border-radius:14px;background:linear-gradient(120deg,#08243a,#0b4650);color:#f4fbff;text-decoration:none;box-shadow:0 10px 30px #0009;font-family:system-ui,-apple-system,"Malgun Gothic",sans-serif;line-height:1.2}#'+id+' .ts-new{padding:4px 7px;border-radius:999px;background:#39d1b4;color:#042025;font-size:10px;font-weight:900}#'+id+' strong{display:block;font-size:14px}#'+id+' small{display:block;margin-top:3px;color:#c5d8eb;font-size:10px}#'+id+':hover{transform:translateY(-1px);border-color:#b8fff1}#'+id+':focus-visible{outline:3px solid #ffc857;outline-offset:2px}@media(max-width:720px){#'+id+'{top:9px;right:9px;max-width:245px;padding:8px 10px}#'+id+' small{max-width:150px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}}';
+      doc.head.append(style);
+    }
+    const link=doc.createElement('a');
+    link.id=id;
+    link.href='/dailybrief/theory-sprint/';
+    link.target='_top';
+    link.setAttribute('aria-label','THEORY SPRINT 이론 자동학습 열기');
+    link.innerHTML='<span class="ts-new">NEW</span><span><strong>THEORY SPRINT →</strong><small>검증 이론 자동학습 · 17과목 647장</small></span>';
+    doc.body.append(link);
+  };
+  const visit=doc=>{
+    try{
+      if(!doc||!doc.body) return;
+      const walker=doc.createTreeWalker(doc.body,NodeFilter.SHOW_TEXT);
+      let node;
+      while((node=walker.nextNode())) node.nodeValue=node.nodeValue.replace('버전 2026.17 · 수정 2026-09-23','버전 2026.18 · 수정 2026-09-24');
+      const password=doc.querySelector('input[type="password"],input[placeholder*="비밀번호"],[aria-label*="비밀번호"]');
+      const text=doc.body.innerText||'';
+      if(password&&visible(password)){
+        const launch=doc.getElementById(id); if(launch) launch.remove();
+      }else if(text.includes('오늘의 학습')&&text.includes('검증이론')) add(doc);
+      doc.querySelectorAll('iframe').forEach(frame=>visit(frame.contentDocument));
+    }catch(_){}
+  };
+  const tick=()=>visit(document);
+  tick();
+  setInterval(tick,750);
+})();
+</script>
