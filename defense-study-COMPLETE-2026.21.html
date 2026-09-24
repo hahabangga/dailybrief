@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>국방사업관리사 Study COMPLETE 2026.21</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#07111f}
+#legacy{border:0;width:100%;height:100dvh;display:block}
+#badge{position:fixed;z-index:2147483647;left:10px;bottom:10px;padding:6px 9px;border-radius:10px;background:rgba(7,17,31,.86);color:#dcecff;font:800 11px/1.3 system-ui,-apple-system,"Malgun Gothic",sans-serif;pointer-events:none}
+</style>
+</head>
+<body>
+<iframe id="legacy" src="./defense-study-COMPLETE-2026.18.html" title="COMPLETE 2026.21"></iframe>
+<div id="badge">2026.21 · Theory Sprint 현행훈령·가독성 보완본</div>
+<script>
+(()=>{
+  const target='/dailybrief/theory-sprint-CURRENT-2026.21.html';
+  const seen=new WeakSet();
+  function patchDoc(d){
+    if(!d||!d.documentElement||seen.has(d)) return;
+    seen.add(d);
+    try{
+      d.querySelectorAll('a[href*="/dailybrief/theory-sprint/"],a[href="./theory-sprint/"],a[href="/dailybrief/theory-sprint/"]').forEach(a=>a.href=target);
+      const launch=d.getElementById('theorySprintLaunch');
+      if(launch) launch.href=target;
+      const walker=d.createTreeWalker(d.body||d.documentElement,NodeFilter.SHOW_TEXT);
+      let n;
+      while((n=walker.nextNode())){
+        if(n.nodeValue&&n.nodeValue.includes('2026.18')) n.nodeValue=n.nodeValue.replaceAll('2026.18','2026.21');
+      }
+      d.querySelectorAll('iframe').forEach(f=>{
+        const run=()=>{try{patchDoc(f.contentDocument)}catch(_){}};
+        f.addEventListener('load',run);
+        run();
+      });
+      new MutationObserver(()=>{
+        try{
+          d.querySelectorAll('a[href*="/dailybrief/theory-sprint/"]').forEach(a=>a.href=target);
+          d.querySelectorAll('iframe').forEach(f=>{try{patchDoc(f.contentDocument)}catch(_){}});
+        }catch(_){}
+      }).observe(d.documentElement,{subtree:true,childList:true,attributes:true,attributeFilter:['href']});
+    }catch(_){}
+  }
+  const f=document.getElementById('legacy');
+  const run=()=>{try{patchDoc(f.contentDocument)}catch(_){}};
+  f.addEventListener('load',run);
+  run();
+  setTimeout(run,1000);
+  setTimeout(()=>document.getElementById('badge')?.remove(),2600);
+})();
+</script>
+</body>
+</html>
