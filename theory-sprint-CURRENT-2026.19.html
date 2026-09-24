@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Theory Sprint · 2026.19 현행훈령 교정본</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#f3f1e8}
+#app{border:0;width:100%;height:100dvh;display:block}
+#status{position:fixed;left:10px;bottom:10px;z-index:999999;padding:6px 9px;border-radius:10px;background:rgba(20,35,31,.88);color:#fff;font:700 11px/1.3 system-ui,-apple-system,"Malgun Gothic",sans-serif;pointer-events:none}
+</style>
+</head>
+<body>
+<iframe id="app" src="./theory-sprint/" title="Theory Sprint 2026.19"></iframe>
+<div id="status">2026.7 현행 국방전력발전업무훈령 교정 적용 중</div>
+<script>
+const PATCH="(()=>{\n  const getScene=(id)=>{\n    if(typeof THEORY_COURSES==='undefined') return null;\n    for(const course of THEORY_COURSES){\n      const scene=(course.scenes||[]).find(s=>s.id===id);\n      if(scene) return {course,scene};\n    }\n    return null;\n  };\n  const set=(id,fn)=>{\n    const hit=getScene(id);\n    if(!hit) return false;\n    fn(hit.scene,hit.course);\n    return true;\n  };\n  const applied=[];\n\n  if(set('pp-doc-periods',(s)=>{\n    s.memory='[[DIE 1~15·5년·2월 / DPG 0~7·매년·3월 / JSOP 3~7·F+1 2월]]';\n    s.rows=(s.rows||[]).map(r=>r[0]==='JSOP'\n      ? ['JSOP','합참 전략기획본부 / F+3∼F+7 / 매년 F+1 2월 말']\n      : r);\n    s.source=[...new Set([...(s.source||[]),'FD26'])];\n  })) applied.push('JSOP 발간시기: 12월 → F+1년 2월 말');\n\n  if(set('rq-screen',(s)=>{\n    s.lead='합참은 소요검토요청서와 국방연의 통합소요분석자료 등을 검토해 통합소요기획 대상 전력 등을 선정하고 합동전략회의에 상정한다.';\n    s.memory='[[요청서 + 통합소요분석 → 대상전력 선정 → 합동전략회의]]';\n    s.rows=[\n      ['고려','군사적 효용성·국방재원·기술수준·분석 및 연구수행능력'],\n      ['정책','국방전략·정책·합동군사전략서·국방기획지침의 군사력 건설방향'],\n      ['시급성','전력의 시급성을 함께 고려'],\n      ['절차','이 경우 합동전략실무회의는 생략']\n    ];\n  })) applied.push('통합소요검토회의 설명을 제14조제4항 기준으로 교정');\n\n  if(set('rq-rapid',(s)=>{\n    s.rows=(s.rows||[]).map(r=>r[0]==='선행연구'\n      ? ['선행연구','신속소요는 선행연구를 거치지 않고 방위력개선사업 추진방법을 결정할 수 있음']\n      : r);\n  })) applied.push('신속소요 선행연구 예외 요건 교정');\n\n  if(set('rq-emergency',(s)=>{\n    s.lead='사변·해외파병·침투·도발·테러, 명백하고 현저한 적 위협, 예기치 못한 도태·치명적 결함에 따른 작전공백, 시범운용을 통해 신기술의 군 활용성이 확인된 경우에는 긴급소요로 결정할 수 있다.';\n    s.memory='[[긴급사정 / 현저한 위협 / 전력공백 / 시범운용 적합]]';\n    s.rows=[\n      ['결정','합참이 긴급소요 해당 여부를 판단'],\n      ['사유1','사변·해외파병·침투·도발·테러 등 긴급사정'],\n      ['사유2','명백·현저한 적 위협 또는 예기치 못한 도태·치명적 결함'],\n      ['예외','긴급소요는 선행연구 없이 추진방법 결정 가능']\n    ];\n  })) applied.push('긴급소요 사유를 제14조의3 기준으로 재정렬');\n\n  if(set('rq-decision',(s)=>{\n    s.lead='합참은 전력소요서(안)을 작성하고 관련기관 검토와 통합개념팀의 종합검토를 거쳐 합동참모회의 심의·의결로 소요를 결정한다. 위임대상은 각군 참모총장·해병대사령관이 자체 절차로 결정할 수 있다.';\n    s.memory='[[전력소요서안 → 관련기관 검토·통합개념팀 → 합동참모회의 심의·의결 / 위임은 각군·해병대]]';\n    s.rows=[\n      ['원칙','합동참모회의 심의·의결을 거쳐 소요 결정'],\n      ['종합검토','군사·작전효과·기술·경제·획득·정책·대안분석'],\n      ['위임','선정된 위임소요는 각군·해병대가 자체 절차로 결정'],\n      ['통보','국방부·소요제기기관·방사청 및 관련기관']\n    ];\n  })) applied.push('소요결정 절차의 회의체 과잉표현 교정');\n\n  if(set('rq-delegation',(s)=>{\n    s.lead='통합소요검토에서 합동성, 총사업비 규모, 적기 전력화 적절성 등을 고려해 위임대상으로 선정된 소요는 각군·해병대가 자체 절차로 결정하고 관련기관에 통보한다.';\n    s.memory='[[합동성·사업규모·적기전력화 검토 → 위임대상 선정 → 각군·해병대 결정]]';\n    s.rows=[\n      ['선정기준','합동성·총사업비 규모·적기 전력화 적절성 등'],\n      ['사업규모','사업타당성조사 대상 이하 규모를 원칙'],\n      ['결정','해당 군 자체 회의체를 통해 결정'],\n      ['통보','국방부·합참·방사청 등 관련기관']\n    ];\n  })) applied.push('소요결정 위임 선정기준을 제14조제10항 기준으로 교정');\n\n  if(set('rq-validation',(s)=>{\n    s.lead='국방부는 소요의 적절성과 상대적 우선순위 등을 검증하고 결과를 관련기관에 통보한다. 관련기관은 국방중기계획 및 전력소요서 반영 등 필요한 후속조치를 한다.';\n    s.memory='[[적절성 + 상대적 우선순위 → 중기계획·전력소요서 반영]]';\n    s.rows=[\n      ['주관','국방부 전력정책국'],\n      ['단위','개별 소요의 적절성 판단'],\n      ['통합','다수 소요의 상대적 우선순위 판단'],\n      ['후속','국방중기계획·전력소요서 반영 등 필요한 조치']\n    ];\n  })) applied.push('소요검증 결과·후속조치를 제29·35조 기준으로 교정');\n\n  if(set('rq-integrated-validation',(s)=>{\n    s.rows=(s.rows||[]).map(r=>r[0]==='대상축'\n      ? ['대상축','F+1∼F+5 국방중기계획 중 방위력개선사업 분야 반영 필요 소요']\n      : r);\n  })) applied.push('통합 소요검증 대상기간: F+2∼F+6 → F+1∼F+5');\n\n  if(set('rq-common',(s)=>{\n    s.title='무인체계는 [[모듈화·공통화·개방화]] 적용을 검토';\n    s.lead='국방부·합참·각군 및 해병대·방사청 등 관련기관은 무인체계를 소요결정하거나 획득하는 과정에서 기술 발전속도를 고려해 모듈화·공통화·개방화 방안 적용을 검토해야 한다.';\n    s.memory='[[무인체계 소요·획득 → 모듈화·공통화·개방화 검토]]';\n    s.rows=[\n      ['대상','무인체계의 소요결정 또는 획득 과정'],\n      ['지침','국방부 국방인공지능기획국이 적용 지침 제공'],\n      ['지원','관련기관은 국과연 등에 기술지원 요청 가능'],\n      ['주의','모든 공통장비의 통합획득 의무라는 뜻이 아님']\n    ];\n    s.source=['FD26'];\n  })) applied.push('근거 없는 공통장비 통합획득 의무 표현 제거·제13조의3으로 대체');\n\n  if(set('te-purchase',(s)=>{\n    s.lead=(s.lead||'').replaceAll('통합체계지원요소','전력화지원요소');\n  })) applied.push('구매시험 평가영역 용어를 전력화지원요소로 교정');\n\n  if(set('te-ot-judgment',(s)=>{\n    s.title='무기체계 연구개발 OT는 [[적합·조건부 적합·부적합]]';\n    s.lead='무기체계 연구개발 운용시험평가는 전투용 적합·전투용 조건부 적합·전투용 부적합으로 판정한다. 항공기·함정·위성 등 장기간 개발사업은 필요 시 잠정 전투용 적합 또는 잠정 전투용 부적합으로 판정할 수 있다.';\n    s.memory='[[전투용 적합 / 조건부 적합 / 부적합 + 장기사업 잠정판정]]';\n    s.rows=[\n      ['적합','전투용 적합'],\n      ['조건부','일부 기준미달 시 정해진 절차로 전투용 조건부 적합 가능'],\n      ['부적합','전투용 부적합'],\n      ['장기사업','항공기·함정·위성 등은 잠정 전투용 적합·부적합 가능']\n    ];\n  })) applied.push('무기체계 R&D OT 잠정판정 반영');\n\n  if(set('te-core-tech-branches',(s)=>{\n    const rows=(s.rows||[]).filter(r=>r[0]!=='판정');\n    rows.push(['판정','핵심기술 DT=기준 충족/미달, OT=군사용 적합/부적합(잠정 군사용 적합 가능)']);\n    s.rows=rows;\n  })) applied.push('핵심기술 시험평가 판정용어 보강');\n\n  if(set('te-committee',(s)=>{\n    s.title='5,000억 기준은 [[무기체계 R&D OT·구매시험]]에 적용';\n    s.lead='총사업비 5,000억 원 이상 무기체계 연구개발사업의 운용시험평가와 구매사업의 구매시험평가 결과는 시험평가위원회에서 심의하고, 5,000억 원 미만은 시험평가실무위원회에서 심의한다. 그 밖의 시험평가 결과는 합참 주관부서에서 심의한다.';\n    s.memory='[[5천억 이상=위원회 / 미만=실무위 / 그 밖=합참 주관부서]]';\n    s.rows=[\n      ['적용대상','무기체계 연구개발 OT·구매시험'],\n      ['5,000억 이상','시험평가위원회'],\n      ['5,000억 미만','시험평가실무위원회'],\n      ['그 밖','핵심기술 등 그 밖의 시험평가는 합참 주관부서 심의']\n    ];\n  })) applied.push('시험평가 5,000억 기준에서 핵심기술 OT 제외');\n\n  if(set('te-authority',(s)=>{\n    s.lead='합참이 시험평가 결과 판정(안)을 작성하고, 대상에 따라 시험평가위원회·시험평가실무위원회 또는 합참 주관부서의 심의를 거쳐 국방부(전력정책국)에 제출하면 국방부가 최종 판정한다.';\n    s.memory='[[합참 판정안 → 대상별 심의 → 국방부 판정]]';\n    s.rows=[\n      ['5,000억 이상','무기체계 R&D OT·구매시험 → 시험평가위원회'],\n      ['5,000억 미만','무기체계 R&D OT·구매시험 → 시험평가실무위원회'],\n      ['그 밖','합참 주관부서 심의'],\n      ['국방부','판정 후 합참·방사청 통보']\n    ];\n  })) applied.push('시험평가 판정 심의체계의 적용범위 교정');\n\n  if(set('te-traps',(s)=>{\n    s.lead='DT는 기준 충족·미달, 무기체계 연구개발 OT는 전투용 적합·조건부 적합·부적합, 핵심기술 OT는 군사용 적합·부적합, 구매는 전투용 적합·부적합이다. 5,000억 기준은 무기체계 R&D OT와 구매시험에 적용하며 핵심기술 등 그 밖의 시험평가는 합참 주관부서가 심의한다.';\n    s.memory='[[DT 2 / 무기 OT 3 / 핵심기술 OT 2 / 구매 2 / 5천억 적용범위]]';\n    s.rows=[\n      ['오답1','DT를 전투용 적합으로 판정'],\n      ['오답2','핵심기술 OT를 전투용 적합으로 판정'],\n      ['오답3','구매에도 조건부 적합 적용'],\n      ['오답4','5,000억 기준을 모든 시험평가에 적용']\n    ];\n  })) applied.push('시험평가 판정용어·5,000억 함정 교정');\n\n  if(set('te-recall',(s)=>{\n    s.rows=(s.rows||[]).map(r=>{\n      if(r[0]==='질문3') return ['질문3','5,000억 기준이 적용되는 대상과 그 밖 시험평가의 심의주체는?'];\n      if(r[0]==='완전회상') return ['완전회상','무기체계 OT·핵심기술 OT·구매 판정용어와 장기개발 잠정판정까지'];\n      return r;\n    });\n  })) applied.push('시험평가 회상문항 현행화');\n\n  const badge=document.querySelector('.version');\n  if(badge) badge.textContent='AUDIT 27 · 2026.7 현행훈령 재검증';\n  document.documentElement.dataset.currentDirectiveHotfix='2026-09-24';\n  window.__CURRENT_DIRECTIVE_HOTFIX__={version:'2026.19',applied};\n  if(typeof home==='function') home();\n})();";
+const frame=document.getElementById('app');
+const status=document.getElementById('status');
+function inject(){
+  try{
+    const d=frame.contentDocument;
+    if(!d||!d.body) return;
+    if(d.documentElement.dataset.currentDirectiveHotfix==='2026-09-24'){
+      status.textContent='현행훈령 교정 적용 완료';
+      setTimeout(()=>status.remove(),1800);
+      return;
+    }
+    const s=d.createElement('script');
+    s.textContent=PATCH;
+    d.body.appendChild(s);
+    setTimeout(()=>{
+      try{
+        const ok=d.documentElement.dataset.currentDirectiveHotfix==='2026-09-24';
+        status.textContent=ok?'현행훈령 교정 적용 완료':'교정 적용 상태 확인 필요';
+        if(ok)setTimeout(()=>status.remove(),1800);
+      }catch(_){}
+    },150);
+  }catch(e){
+    status.textContent='동일 도메인에 업로드 후 교정이 적용됩니다.';
+  }
+}
+frame.addEventListener('load',inject);
+setTimeout(inject,1200);
+</script>
+</body>
+</html>
