@@ -1,107 +1,107 @@
 {
-  "date": "2026-09-25",
-  "generated_at_utc": "2026-09-25T10:36:57Z",
-  "cutoff_kst": "2026-09-25T19:36:00+09:00",
+  "date": "2026-09-26",
+  "generated_at_utc": "2026-09-25T15:05:18Z",
+  "cutoff_kst": "2026-09-26T00:05:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
-        "url": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
-        "summary": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible. Warsh's regime change at the Fed pushes ahead – and meets resistance",
-        "published": "Fri, 25 Sep 2026 10:30:01 GMT",
-        "published_kst": "2026-09-25T19:30:01+09:00",
+        "title": "New study reveals the estate-planning choices that are likely to pit heirs against each other",
+        "url": "https://www.cnbc.com/2026/09/25/study-estate-planning-heirs-legal-battles.html",
+        "summary": "The study identified contested trust disputes by examining thousands of civil filings that were scheduled to come before San Francisco Superior Court. New study reveals the estate-planning choices that are likely to pit heirs against each other",
+        "published": "Fri, 25 Sep 2026 15:01:50 GMT",
+        "published_kst": "2026-09-26T00:01:50+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
-        "url": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
-        "summary": "A private survey shows a rebound in China's exports to the U.S. orders ahead of Trump-Xi summit, private survey shows",
-        "published": "Fri, 25 Sep 2026 10:25:01 GMT",
-        "published_kst": "2026-09-25T19:25:01+09:00",
+        "title": "CNN, MS NOW access unresolved as White House bars some journalists from state dinner event - washingtonpost.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYWRqVjhhMVRSQWVBZ0lXOU1CY3V5bk1rQ1NiSjQ2UHptUnhfVXJLXzhqZ2RoSnNfT3dWOTROUVpsYWJMbGZURUlXOGF3czU4SUlUUXM1X1NPWjBJdTVuV09zVndLMFNPUkZwZzJjN2F4ckVHSkl3NmpmemhZbjVMdzk0NDBLUERuc0UzUXdlX0VyVl8yaFN6MUNYZC0yRlNIdDZLbm9wcHE5T2s?oc=5",
+        "summary": "CNN, MS NOW access unresolved as White House bars some journalists from state dinner event washingtonpost.com CNN, MS NOW access unresolved as White House bars some journalists from state dinner event - washingtonpost.com",
+        "published": "Fri, 25 Sep 2026 15:01:26 GMT",
+        "published_kst": "2026-09-26T00:01:26+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
+        "url": "https://www.cnbc.com/2026/09/25/the-tech-download-trump-xi-ai-talks.html",
+        "summary": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks. Trump and Xi dined with AI's biggest names.",
+        "published": "Fri, 25 Sep 2026 14:43:23 GMT",
+        "published_kst": "2026-09-25T23:43:23+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why the court fight over the White House media ban isn't over - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHFTMXpVcE8tSTcteVZvR0tiMVM2dXNORGFoZ1ZoQU05S0JHNDZZbU4yVXlHaHhpUGx5TVVYOVpnTVIxYmxIb01QYlhVQnU1YlhmMGVjb3czODZRQkhLdWdYMkxUdW1SNmJGNm1MdW9RQS04WkZFYUxoYmJSajhPaUJGdUNQUk9UZWJFRlJZM1hSaDZRa2VwUXFseXVSODhRVHpMZ2lIcTY?oc=5",
-        "summary": "Why the court fight over the White House media ban isn't over Reuters Why the court fight over the White House media ban isn't over - Reuters",
-        "published": "Fri, 25 Sep 2026 10:14:10 GMT",
-        "published_kst": "2026-09-25T19:14:10+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jobs report, inflation data to test US rate path, economic strength - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnItZ1V3al9XREVBMURZMkd0ZlZOdFY2VEFGYmtscUhJTVU1LUZHel9GRHd0T1lyNGZGc29IZWF0UElOY1pyeFhiX2Y0dmN0R2tyQXZvLWxxcDBVeXEzUEstTEZKUTNmZ0ZVQVIyRWNXRS0xTXdPbnkzeGVtYmgtNldvTUV6eVg5dERpUnRPUkpETEhqZmV0R0N0WDI?oc=5",
-        "summary": "Jobs report, inflation data to test US rate path, economic strength Yahoo Finance Jobs report, inflation data to test US rate path, economic strength - Yahoo Finance",
-        "published": "Fri, 25 Sep 2026 10:06:45 GMT",
-        "published_kst": "2026-09-25T19:06:45+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Calendar of U.S. Earnings Expected in the Week Ahead - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3J4YVRqcGZpQm1fZHpmeElrVHN4VnhwT1VLbWVhVGxtdGw1WlBRdk9oU01haVB3UTI0UHFaU3lOeUttb2VVQ3p1ZnBJd3I5NUwyUUR0cTc1Sm1nbWlOa3hpblBZeEZIdDRaODRDQlZtZWdwWjlCN1lDREZ1ZnltVzJiU1RpQm1EQnI1cy05LTVCYzVtUUhldkFn?oc=5",
-        "summary": "Earnings Expected in the Week Ahead Moomoo Calendar of U.S. Earnings Expected in the Week Ahead - Moomoo",
-        "published": "Fri, 25 Sep 2026 10:04:20 GMT",
-        "published_kst": "2026-09-25T19:04:20+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
-        "url": "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
-        "summary": "House 2026 midterm election races expected to help decide control of Congress. Incumbents hold commanding cash advantages in many of the U.S.",
-        "published": "Fri, 25 Sep 2026 10:00:01 GMT",
-        "published_kst": "2026-09-25T19:00:01+09:00",
+        "title": "Here's who attended the Trump-Xi state dinner",
+        "url": "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+        "summary": "President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping. Here's who attended the Trump-Xi state dinner",
+        "published": "Fri, 25 Sep 2026 14:41:24 GMT",
+        "published_kst": "2026-09-25T23:41:24+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump welcomes China's Xi for state dinner at White House after touting \"truly great friendship\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1F6dWRlbTNWNnJPa21UVXhzOWtkd0xJZFFGbmFpUmRuSjRLMFBFSThXU3YxS3BseEdVaFljREtKQTlvdFlDQVBMS3FuR1JNZWE2WDhTc1hHWEV4aTBJYTJWbEdRTWZJNW8tZzVoYVVRRzdmRVk5c3BQbkQzbElZcERrVjNJTk1zRXhyc3hXVzd0VjNB?oc=5",
+        "summary": "Trump welcomes China's Xi for state dinner at White House after touting \"truly great friendship\" CBS News Trump welcomes China's Xi for state dinner at White House after touting \"truly great friendship\" - CBS News",
+        "published": "Fri, 25 Sep 2026 13:38:23 GMT",
+        "published_kst": "2026-09-25T22:38:23+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "3 US news outlets return to White House after judge orders Trump to lift ban - Free Speech Center",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZlF2Tkt3RHBCQjhNLTdGZWxuRHpsdmpYQVpUdmFxVjUyaXdOSHFCOHd4cjVMdzJpVUEyZEVBUndiQTFMUDZoQzJwM0NidFc1SDEwWU1wbHUxSFp1N2l2bktZMEZYTGFIcEFDbEtWM1huejU0eHpIUlFmRUxjVUdwZ3J4ZS1iZk5mN0tYZ3RmcTRIZXFKUnFHcHhWaTZONmVteGhGdHhUXzZ2YmU3ZFBzM19xR3c?oc=5",
+        "summary": "3 US news outlets return to White House after judge orders Trump to lift ban Free Speech Center 3 US news outlets return to White House after judge orders Trump to lift ban - Free Speech Center",
+        "published": "Fri, 25 Sep 2026 13:33:24 GMT",
+        "published_kst": "2026-09-25T22:33:24+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "이재명 대통령 \"대한민국 대도약에 투자\"…글로벌 금융계에 적극 세일즈 - 한국미디어뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yb2VDOFB4ODAtRXBkcEFsdXp1aEhsSEhfZUl5WEVJa3M4RWpuakRsZG9GSzVTTDN3alloMDBFYVdGQUVpcGFnb2ZYTHpsNDVSN3pMT1pET0Y3R2tKZTFMTlZvT3Y3Zw?oc=5",
-        "summary": "이재명 대통령 \"대한민국 대도약에 투자\"…글로벌 금융계에 적극 세일즈 한국미디어뉴스 이재명 대통령 \"대한민국 대도약에 투자\"…글로벌 금융계에 적극 세일즈 - 한국미디어뉴스",
-        "published": "Fri, 25 Sep 2026 10:30:38 GMT",
-        "published_kst": "2026-09-25T19:30:38+09:00",
+        "title": "USTR 대표 \"미중 무역 협상 진전…28일 결과 발표\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XNUE2cnpmZ0lKZEF3aUlrcGU4WjdoQzRLaEdHcmxOSzkzdG1EeXhkTmR3aEtmX29GYnV4UUlNdXRPNUxnUTYzLTA2LV83MTExN3hUX2R2azNNZw?oc=5",
+        "summary": "USTR 대표 \"미중 무역 협상 진전…28일 결과 발표\" 한국경제 USTR 대표 \"미중 무역 협상 진전…28일 결과 발표\" - 한국경제",
+        "published": "Fri, 25 Sep 2026 15:00:54 GMT",
+        "published_kst": "2026-09-26T00:00:54+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "추석 저녁 귀성길 정체 완화…귀경길은 여전히 혼잡 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYR25EaW5sSFNDMUtSdjhrMTlrel9XeldZd1JWNUdxX1RHY1E1TS1XN1RmUTVEUFE2NnF5RkV0LXFHQkxxTzZDS05wZV9YWHB0SUhseDl3Z3hCdw?oc=5",
-        "summary": "추석 저녁 귀성길 정체 완화…귀경길은 여전히 혼잡 한국경제 추석 저녁 귀성길 정체 완화…귀경길은 여전히 혼잡 - 한국경제",
-        "published": "Fri, 25 Sep 2026 10:27:42 GMT",
-        "published_kst": "2026-09-25T19:27:42+09:00",
+        "title": "[오늘의 운세] 2026년 9월 26일 별자리 운세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HbXJlV1llVng1eWF0Z0t6LVNZZnJCUWNEb053NVN5dHZPT3lmdWl0bzM0engtaG4xYjU5anZmVTJZOVhzTnhfWmx1QVZDRUhTNGJfQnRJT1pTdw?oc=5",
+        "summary": "[오늘의 운세] 2026년 9월 26일 별자리 운세 한국경제 [오늘의 운세] 2026년 9월 26일 별자리 운세 - 한국경제",
+        "published": "Fri, 25 Sep 2026 15:00:08 GMT",
+        "published_kst": "2026-09-26T00:00:08+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "추석 저녁 귀성길 정체 해소…귀경길은 여전히 혼잡 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMGRWamVfYndyT0hWRHJYMUZURl9mT0lFaV9KaURldlBTelVmWEZlTUMydy1wLUg3RUNLZzZ1YmpaWnNUSUVWZzA0TWVtbWQwb2FBb1lqUDh6Zw?oc=5",
-        "summary": "추석 저녁 귀성길 정체 해소…귀경길은 여전히 혼잡 한국경제 추석 저녁 귀성길 정체 해소…귀경길은 여전히 혼잡 - 한국경제",
-        "published": "Fri, 25 Sep 2026 10:18:40 GMT",
-        "published_kst": "2026-09-25T19:18:40+09:00",
+        "title": "한국 여자축구, 우즈베크 잡고 준결승행…일본과 격돌 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WVjlIM1BXYnpTcW1uS1NVWTNvZEQyT3pvUkNmY1h2VHZaUU9UMUVtdGZqbkZNaXhUY2xGU0JIaURmaHd5eGVONGNPQndhYlM3QkxSalZlQUNGdw?oc=5",
+        "summary": "한국 여자축구, 우즈베크 잡고 준결승행…일본과 격돌 한국경제 한국 여자축구, 우즈베크 잡고 준결승행…일본과 격돌 - 한국경제",
+        "published": "Fri, 25 Sep 2026 12:30:44 GMT",
+        "published_kst": "2026-09-25T21:30:44+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,42 +110,42 @@
     ],
     "world": [
       {
-        "title": "How Foreign Companies Can Navigate the U.S. Media Landscape - Global Trade Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQa0w5RXdPbFdiN0VnMksxMkNEdENScTdQaF82ZllSWHJnX3JPUUpNQjhyVUtLWG9feFVYeFN3dVcyaU5SLS1zVlB0bUUxWHZrRlB2WVFfUjZCUUVkLVFaUHBiczdhc256b2owVUc0MExtWWJpSk1rNWhaNzlOemVvam9wMzFKQmNiVDVyODNxQ1MyRnhf?oc=5",
-        "summary": "Media Landscape Global Trade Magazine How Foreign Companies Can Navigate the U.S. Media Landscape - Global Trade Magazine",
-        "published": "Fri, 25 Sep 2026 08:41:19 GMT",
-        "published_kst": "2026-09-25T17:41:19+09:00",
+        "title": "6 food manufacturers talk supply chain tactics - Supply Chain Dive",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU3hUUTEydG5nX1EzQmlKODYzc1VoTzZfcDRuZ19USjk0S2w2YXF1WE5YZklSVWtfM3UyM0d4NmxuTG5PMFB5SlBBd0dxdlJ0VXJRekFudm9EMHZWejBuMmNzQURqWGNlNnhYQXlwVzVBTU5XU2JSejd0NzB5dzRMMWh4cFFiNWdHRnV2a1FkbzVVYXhaaGc?oc=5",
+        "summary": "6 food manufacturers talk supply chain tactics Supply Chain Dive 6 food manufacturers talk supply chain tactics - Supply Chain Dive",
+        "published": "Fri, 25 Sep 2026 14:52:45 GMT",
+        "published_kst": "2026-09-25T23:52:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Korean, Mexican leaders agree to launch dialogue on supply chains, deepen AI and defense ties - Korea JoongAng Daily",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2JYZE0zTXBHc3ktUHFpMHZrUVN4VDkxaE9JNWgwVmZGLThmZW4yN1F6alM0dmZfNTFZQWx1ZGx5STcxTWpQWXFHaEVZUlFfcDVZZHZUd1dyZFVva1dXOEYwQlpVWXRtbXpSRDdSWndWdUwtaFpDaTZHS1dXNFFVZTJJMHBjcnVfTDNWaGRKQXNyeXY0WFJVcUJuUE5tcmZBeUlNQ1NMMnkzN3pURFhwZ1VTUGVJN1lWb2k3VWRXdUszSDZVQy1LNnlPWndvdFBSVjMza0VPaVc?oc=5",
-        "summary": "Korean, Mexican leaders agree to launch dialogue on supply chains, deepen AI and defense ties Korea JoongAng Daily Korean, Mexican leaders agree to launch dialogue on supply chains, deepen AI and defense ties - Korea JoongAng Daily",
-        "published": "Fri, 25 Sep 2026 00:24:36 GMT",
-        "published_kst": "2026-09-25T09:24:36+09:00",
+        "title": "Climate Week NYC: Building Resilient Food Supply Chains - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0hmc2tJaU9qejdYeXM4d2RMMGlpQ2VGVjVPNlMwdlh1czltUWhldDlocnFMVkk3RjJHbFVRLVFYSjVHSDdxTTFKZlp0dEotYmxQd0dJMDQtc1o1YTFvMDI2Z3J2UncyQTJ0MkF3UVczWTUxVHlGMENYenpUcl9kZURnRnNwdGFWcjRET1oyaU1UVWJD?oc=5",
+        "summary": "Climate Week NYC: Building Resilient Food Supply Chains Supply Chain Digital Magazine Climate Week NYC: Building Resilient Food Supply Chains - Supply Chain Digital Magazine",
+        "published": "Fri, 25 Sep 2026 14:45:25 GMT",
+        "published_kst": "2026-09-25T23:45:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Fruit Attraction 2026 Connects Middle East Buyers With the Global Fresh Produce Supply Chain - Food & Beverage Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZndaZ2xEYzdoVEZYcFU1bERUd05DZDZDMW9vRmg3bkk1Q0tQZDg3a01nVmR0LVg0a3pNTVkwU3UzTjBvSnN3YU1xN0ZHMC1ueTlMUFRjQV9HUTFNckpDWG80Z01HWnQ1VUtESUZWTC16ZEd2ak9oTndpM0ZXYzJsSVptZG9XNVhBekFDSnJGd05rMHVEN3A1Rw?oc=5",
-        "summary": "Fruit Attraction 2026 Connects Middle East Buyers With the Global Fresh Produce Supply Chain Food & Beverage Magazine Fruit Attraction 2026 Connects Middle East Buyers With the Global Fresh Produce Supply Chain - Food & Beverage Magazine",
-        "published": "Thu, 24 Sep 2026 20:45:48 GMT",
-        "published_kst": "2026-09-25T05:45:48+09:00",
+        "title": "Lego to spend $400M to add warehouse space at Mexico plant - Supply Chain Dive",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ1lITlRIUy1NV19peFRJQm8weElBTmp4NDcyclBUcUpvTF8tdWMtMkpYVzdNV25neHRkN0hLaXFXRGl0OEQ5dGJ0VDJQYWM1cE9YTVpZZDhobGtqTTBKbmY4d25pWGJvVHpkOGNSV3FmTllsSHRRTU9XNzJNd1k1Szkxb2h4NHdNVjkyUndLZ0EyR2JWVGJQalducFlQVXc1TWUxWA?oc=5",
+        "summary": "Lego to spend $400M to add warehouse space at Mexico plant Supply Chain Dive Lego to spend $400M to add warehouse space at Mexico plant - Supply Chain Dive",
+        "published": "Fri, 25 Sep 2026 14:31:49 GMT",
+        "published_kst": "2026-09-25T23:31:49+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2026"
+          "$400"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible. Warsh's regime change at the Fed pushes ahead – and meets resistance / 이재명 대통령 \"대한민국 대도약에 투자\"…글로벌 금융계에 적극 세일즈 한국미디어뉴스 이재명 대통령 \"대한민국 대도약에 투자\"…글로벌 금융계에 적극 세일즈 - 한국미디어뉴스 / Media Landscape Global Trade Magazine How Foreign Companies Can Navigate the U.S. Media Landscape - Global Trade Magazine",
+  "wrap_summary": "The study identified contested trust disputes by examining thousands of civil filings that were scheduled to come before San Francisco Superior Court. New study reveals the estate-planning choices that are likely to pit heirs against each other / USTR 대표 \"미중 무역 협상 진전…28일 결과 발표\" 한국경제 USTR 대표 \"미중 무역 협상 진전…28일 결과 발표\" - 한국경제 / 6 food manufacturers talk supply chain tactics Supply Chain Dive 6 food manufacturers talk supply chain tactics - Supply Chain Dive",
   "invest_summary": ""
 }
