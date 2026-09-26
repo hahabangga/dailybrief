@@ -1,75 +1,73 @@
 {
   "date": "2026-09-27",
-  "generated_at_utc": "2026-09-26T16:53:39Z",
-  "cutoff_kst": "2026-09-27T01:53:00+09:00",
+  "generated_at_utc": "2026-09-26T23:56:41Z",
+  "cutoff_kst": "2026-09-27T08:56:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-        "url": "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
-        "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-        "published": "Sat, 26 Sep 2026 16:30:59 GMT",
-        "published_kst": "2026-09-27T01:30:59+09:00",
-        "domain": "cnbc.com",
+        "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMjRkR3B5TlR0VXpxZjhXdXVIQm1WU1VNd1lOR2RvUnpKY2NLekJ5VmE5bWY0ci1BbjZWbWFDWHVzZDN6a2xuNjVWQnhlQjFObkxqWHdra2tud2lQM0gzbHV2VENfSWRVNkJMRm5INnpLa0xvUEJaVkctMWE1RUJOTGZuNWVhWDhDMmhmSA?oc=5",
+        "summary": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN The New York Times TV Networks to Resume Trump Coverage, Even as White House Excludes CNN - The New York Times",
+        "published": "Sat, 26 Sep 2026 23:47:55 GMT",
+        "published_kst": "2026-09-27T08:47:55+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Lawmakers slam Trump’s move to cancel $810M in funding approved by Congress - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXVETWhHaVFMQlVkMnZ2alg5REZhdmlBT01qc0xHdlBlbjJOWV9DSlllOWxXT0N6RTYzRklKZlZvZ2pYZ002YjFQeHZYZUNkY2hmcWJvdjNSb0ZucE9wQ2hpZXlDUWJxVGNPTVZfWEJoQjhncTN3MU92SnNRV2J3QkV2dHVROUF0d0xTdEVOcjhOSTc5aHI3UmZLQXNlaEQ2dUFvTElja20tU0pEbExubnhMbzdGaFo1M25B?oc=5",
+        "summary": "Lawmakers slam Trump’s move to cancel $810M in funding approved by Congress The Washington Post Lawmakers slam Trump’s move to cancel $810M in funding approved by Congress - The Washington Post",
+        "published": "Sat, 26 Sep 2026 22:34:13 GMT",
+        "published_kst": "2026-09-27T07:34:13+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "$5.7"
+          "$810"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Oracle layoffs 2026: Company cuts 546 cloud workers jobs in US as AI spending rises - indianexpress.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU25vbjlhZndXX1BVeERJa0V4Z3k0XzJ0a2l1R3NkWjdMdWlUSFk5dWYzVnloUGxTNUFxeUVPdzd2Q2dXVktRQ3dkb29Geksxa1ZQaDhpYzZaYUVYemZGTExXZ0taem5ZVkp0c2wyQ3J5WlAyRkZhME5MaWNLRHRleC1lMDRoMzlyeWxsUk5kNHRqYktpSUFzVTRCLVdhS2o4cjFpZFI0M05mNm5admJfSjRHOTJOcEpEc0hr0gHCAUFVX3lxTE45NjZrRG4wNlpnV0h5Um45QWg0aW0xTzRCVlNyaC0tNWp3VVZVRjdGOHpIWDdzbnFLNG9mNmpTcDJ4YmVtbUR3dGoxWXNGNmhjYkRSX2xfV2NGTERMVUpRVDhSeXhNck5FLWhqQnBmMk9Qbk1FTWFJSkNGMEhTS2dQRC0zdDJzYWk3cDE4R3ZuRVFQRkItQTQ5ZmNlMDJCUnpXcjFsdnJmcHBZTkFxU21ZbGUydlpkeUNmOTNYS2Y4bkF3?oc=5",
-        "summary": "Oracle layoffs 2026: Company cuts 546 cloud workers jobs in US as AI spending rises indianexpress.com Oracle layoffs 2026: Company cuts 546 cloud workers jobs in US as AI spending rises - indianexpress.com",
-        "published": "Sat, 26 Sep 2026 15:22:10 GMT",
-        "published_kst": "2026-09-27T00:22:10+09:00",
+        "title": "CNN left off Air Force One for Trump’s trip, White House signals in new media restriction - Free Speech Center",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMTFqczBSaF9wTnAtdlI2bFVfZ01VelZXM29JZXZBRUNQWHVrQmI1Ymg1OEZ5bFZkX0tuaER6amxJYTVHYWlPQlpuYVZKc2ZwREZ5UGZ3c21vdG5mZnVqZC1IUmhQc3FyOUZUQ1hNWDNMbElqa21wSVRQMUpmREREZ3dBVkNNd2FUSmtIejMtTXJobjhQQ21Ea0I1RnRNQUFCV1lVbFA2d2tHT0ZUZDl5M2g1NFlXZ3pzcUdkQmVSRTlOdkk?oc=5",
+        "summary": "CNN left off Air Force One for Trump’s trip, White House signals in new media restriction Free Speech Center CNN left off Air Force One for Trump’s trip, White House signals in new media restriction - Free Speech Center",
+        "published": "Sat, 26 Sep 2026 22:05:58 GMT",
+        "published_kst": "2026-09-27T07:05:58+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-        "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-        "summary": "bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles. Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-        "published": "Sat, 26 Sep 2026 15:05:38 GMT",
-        "published_kst": "2026-09-27T00:05:38+09:00",
+        "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+        "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
+        "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach. Boeing flags 737 Max software glitch affecting some automated approach functions",
+        "published": "Sat, 26 Sep 2026 21:55:01 GMT",
+        "published_kst": "2026-09-27T06:55:01+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure",
-        "url": "https://www.cnbc.com/2026/09/26/ai-portfolios-may-need-china-to-grab-the-biggest-gains.html",
-        "summary": "Matthews Asia portfolio manager Andrew Mattock delivers a strategy that revolves around the world's second largest economy. This may be the ‘missing piece’ for investors looking to boost AI exposure",
-        "published": "Sat, 26 Sep 2026 15:00:01 GMT",
-        "published_kst": "2026-09-27T00:00:01+09:00",
+        "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+        "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
+        "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption. Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+        "published": "Sat, 26 Sep 2026 21:21:04 GMT",
+        "published_kst": "2026-09-27T06:21:04+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House blocks CNN from traveling with Trump on Air Force One - Politico",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOGVTcE00R05DNzNrNjlvRUFsVnpSNnRYYTh1MzhtU2pOOW9seklpMUoxX1UwSjQyNkhZSFVCSlhsLVJCUVJmSGxSekZvd09OSUFScUpnaWFBeEVONVdHcF9ncFBOVFhpYjlITmhjNDZUeXhFVUZfWlY0ck9jVHRuUE41V2ptYUVxTlZ6c0Naanhha2g0SWZCbUcyTEo?oc=5",
-        "summary": "White House blocks CNN from traveling with Trump on Air Force One Politico White House blocks CNN from traveling with Trump on Air Force One - Politico",
-        "published": "Sat, 26 Sep 2026 14:32:00 GMT",
-        "published_kst": "2026-09-26T23:32:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House Removes CNN From Planned Weekend Trip - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelIzWWZscEtXeWpPVk9xZkxMUGRQTFB4OUlidDRONUdLS1FQdUZRdDdNRDM1R3NUQ1YyR0RSeE1pb1lVMlFqNS1mUU5IOVhHeGdNcXNHdkdpZ0FOazVvLVR4NnMxWUl0UWxPVV81OFZFVDI0VDNZRHc5d2ZGNDRnSVdYWmRNNURUZ25iMDJldGp1Ry1JdXJKcTdB?oc=5",
-        "summary": "White House Removes CNN From Planned Weekend Trip WSJ White House Removes CNN From Planned Weekend Trip - WSJ",
-        "published": "Sat, 26 Sep 2026 14:17:00 GMT",
-        "published_kst": "2026-09-26T23:17:00+09:00",
-        "domain": "google.com",
+        "title": "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+        "url": "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+        "summary": "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends. Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+        "published": "Sat, 26 Sep 2026 19:23:56 GMT",
+        "published_kst": "2026-09-27T04:23:56+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,11 +75,22 @@
     ],
     "kr": [
       {
-        "title": "누리호 5차 발사·우주경제 시대 본격화… ‘제2회 국제우주항공기술대전’ 창원서 개막 - koreasprint.com",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtSmdrMVhUTnduM3NuM042c2U2dDAyZUFLejE1QnZ1cFRQbGFyci1nRE9fdjVpUG1ZdU1CWGROdUlzSFJHcG42bXk5U2dTMlZKSE1nN2tYMlBsNVU0VElsZzktTEdwZ1JnNWlCOVBB?oc=5",
-        "summary": "누리호 5차 발사·우주경제 시대 본격화… ‘제2회 국제우주항공기술대전’ 창원서 개막 koreasprint.com 누리호 5차 발사·우주경제 시대 본격화… ‘제2회 국제우주항공기술대전’ 창원서 개막 - koreasprint.com",
-        "published": "Sat, 26 Sep 2026 16:24:00 GMT",
-        "published_kst": "2026-09-27T01:24:00+09:00",
+        "title": "챗GPT에 맡긴 내 사진이…AI 에이전트 '유출' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoVlpmYWFwbGFmVEJid3JmZnNJSTZmRlFOcUpXa1lUN0VLV0VsbV92NS12c2ZCdF9veHU1SzJJeFQwSG9pcE5PVEw2VXZwS1JYelVnVU12aDBkUQ?oc=5",
+        "summary": "챗GPT에 맡긴 내 사진이…AI 에이전트 '유출' 한국경제 챗GPT에 맡긴 내 사진이…AI 에이전트 '유출' - 한국경제",
+        "published": "Sat, 26 Sep 2026 23:52:52 GMT",
+        "published_kst": "2026-09-27T08:52:52+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rY01ScGdpUmdXX19OV2Ria0gzdkI1RVdsaExPajRjdDRpVUpfWUViaHFKeUZod0ZoLW1CQVBXTHhNTjhjTVB6WkcxdHpSR2RaTmU5MkFVWDE4QQ?oc=5",
+        "summary": "\"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음 한국경제 \"K푸드 수출 늘었다는데\"…180억 지원해도 뒷걸음 - 한국경제",
+        "published": "Sat, 26 Sep 2026 23:38:52 GMT",
+        "published_kst": "2026-09-27T08:38:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -91,19 +100,8 @@
         "title": "\"아빠 요즘 이게 유행이래\"…초등생 딸 춤 보고 '화들짝' [유지희의 ITMI] - 한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yUFFUVXUzN2k3c1J3SlZ3aVFHakE0RVhsU2NIejVROU53cmNCQWNpa1liZnlYMmZpblJtcVVoUlcxLVlIMjE5cFBxZWRKTXRxZFZBNlE5OGJPQQ?oc=5",
         "summary": "\"아빠 요즘 이게 유행이래\"…초등생 딸 춤 보고 '화들짝' [유지희의 ITMI] 한국경제 \"아빠 요즘 이게 유행이래\"…초등생 딸 춤 보고 '화들짝' [유지희의 ITMI] - 한국경제",
-        "published": "Sat, 26 Sep 2026 16:06:39 GMT",
-        "published_kst": "2026-09-27T01:06:39+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "국채도 '디지털 토큰'으로 발행할까…한은, '전담 조직' 만들었다 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ba1g4M2doR1QzQ3N6ek1SZnVKdlExLU9LYTAzcVAwNnFuZ09mSVZTeFN1RlZvN2tWY1FBS1ExUjlMeEM1MGxrSVFWYmRMN0U?oc=5",
-        "summary": "국채도 '디지털 토큰'으로 발행할까…한은, '전담 조직' 만들었다 v.daum.net 국채도 '디지털 토큰'으로 발행할까…한은, '전담 조직' 만들었다 - v.daum.net",
-        "published": "Sat, 26 Sep 2026 15:08:00 GMT",
-        "published_kst": "2026-09-27T00:08:00+09:00",
+        "published": "Sat, 26 Sep 2026 23:36:40 GMT",
+        "published_kst": "2026-09-27T08:36:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,40 +110,44 @@
     ],
     "world": [
       {
-        "title": "Food for Thought: The Intersection of Gender, Climate, and Trade Policy in Global Supply Chain Resilience and Food Security - NATO Association",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQWEzUkxFSUdEMnBwajdOd0RwOHF5TWd3aGNsTTVFMXZFWGdHY2xqeFlNNlZpMDFqam9zSEhUT0lJZmN5NlZnSGJ1WEI4TzhGbnhsT0V6Q0FJQU00eDgyOExyY0ZrWllFX1l1Sk14NjFhTWVKVHBVODJ2Z0tCZ1IxVVZwTmQ4dU5fd1AxUm5pZ1VnUHR6SnppVlRPT0ZVSjcyT1ZMb1VKaHEzcmlJR05kazhjZlE3QWZiWFRVcGJaMWd4YmhQV2hsX2JnTm5Vc3k2Vm80T2o4R0F4VmlTQnc5TldB?oc=5",
-        "summary": "Food for Thought: The Intersection of Gender, Climate, and Trade Policy in Global Supply Chain Resilience and Food Security NATO Association Food for Thought: The Intersection of Gender, Climate, and Trade Policy in Global Supply Chain Resilience and Food Security - NATO Association",
-        "published": "Sat, 26 Sep 2026 12:00:00 GMT",
-        "published_kst": "2026-09-26T21:00:00+09:00",
+        "title": "From Hormuz to Saudi to US sanctions, world feels the oil heat - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcG9aMGlybXdaWXZXRGhqdlNlOW13SndXM3dnYzVTUTNBYVMzT2x4azI1Vks0SWRYX053alRnTkJTMU16a2cwS3dXanJUSHFDMkI0T2V1REJfR1JxUl83SU0xNmY0QTRUZ2VQWGdIVWFaOUt2Sk1SaFh3c3ZPN21rNDBnNjZuTXFHclFEc0tFOGZUS2VmeWlKNUt5ZldVVmUwMXhSeXk0dXlJWUltU19FSUducmxNMFRjUmQyeUwyZnZvd0hmWFV1Ylk2b0dBSlhUd3NhLU04RnNLc0pzU0HSAeMBQVVfeXFMUEhFV3lBaU1mLWNtU01ESHFueWlmeWdGUHNhalhQNHhjWmNBd1BiQW80Y0VWQlRsbFBrUklEdktZUVNZZGI3eWhqYkhHYkZiSDVXNlE4Um9MWG0zYmxZMUp5clp5QU5LQnd0ZjdNVlFxQ1ctNkRJZ1VxYmlZZlUwNmszd01zNWdrbnczV3VYcWIyWmpQZ282cEFqeldVOXU2OFRyU1VUSE1wMWhjQkZKRTQwLTNWeExZMlppWjVCUnBZcXlwU1F5TWRqT0dWTjZVYnlBOXQ5aXNFeFg0SHNXN2xJQW8?oc=5",
+        "summary": "From Hormuz to Saudi to US sanctions, world feels the oil heat The Economic Times From Hormuz to Saudi to US sanctions, world feels the oil heat - The Economic Times",
+        "published": "Sat, 26 Sep 2026 18:27:41 GMT",
+        "published_kst": "2026-09-27T03:27:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Delta Faucet Company Announces Vahan Badalow as SVP, Supply Chain & Service - buildingindiana.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjFpc1ViU2ZNM0ZwVXM3S0ZTaG5CMHduTTU5RmdCRmx1WFYxX2hlcl91UF9ydDJyZl9zaXktWTV2RW1CMnM1dkpMQnBVY3F4djdOczd3M2cycmZmVjZ3cUVrTlQ3NEZ3ajB0bHl5RDRUbFZSVklhRk9GWndiRTBERkhQZG5obXBQMnV3Yll2T2dvSldfdHZhdkFaM2xHRk1Ra09Bak5CazduUjRPMG5YS3U4TW9OZWNM?oc=5",
-        "summary": "Delta Faucet Company Announces Vahan Badalow as SVP, Supply Chain & Service buildingindiana.com Delta Faucet Company Announces Vahan Badalow as SVP, Supply Chain & Service - buildingindiana.com",
-        "published": "Sat, 26 Sep 2026 11:00:00 GMT",
-        "published_kst": "2026-09-26T20:00:00+09:00",
+        "title": "Rare Earth Supply Chain Leaders by 2030 Ranked - Rare Earth Exchanges",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazNfN25pS0xvbENnVWVNa2I0RFZDRVNvWjdmWEtUejFDRkZId2llUThWRVA2a1YwRnJOUkI0ZG9ZY1ROc3FLVHpWa2dmYW4tSm5oU2hrZXZJQU16LWhXdXk0U295SVVPQ0dGMWxlVkRvTUZOdlhHOGd2OWpOY0ZlOG1xZmFIS3VDZmc?oc=5",
+        "summary": "Rare Earth Supply Chain Leaders by 2030 Ranked Rare Earth Exchanges Rare Earth Supply Chain Leaders by 2030 Ranked - Rare Earth Exchanges",
+        "published": "Sat, 26 Sep 2026 16:56:59 GMT",
+        "published_kst": "2026-09-27T01:56:59+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2030"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Wunti: No Country Can Secure Energy Supply Alone, Critical Minerals Require Global Partnerships - Arise News",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMV9XWGNxYlNJZ2Q1YjNVT3BIUW5SNGxVc3dwVjYtNnNadDJScFBhOEhVc1BSTkpPcGtDSURHRDFpWXZ3TDlncm1kWno0WF9LYXRTTFJPYzltTG1yQnQ5dkZaR0t3OHBLelhIOG9BTElIVGl6OG5YUDVOZVFQeXhNTnJGV3M3N3c0S2RJV2VWSDFCQWRBZDlncnBZd1ZCbmJEM2NvdUllS2kxMGVHUGJ5Z2dlTGRqUQ?oc=5",
-        "summary": "Wunti: No Country Can Secure Energy Supply Alone, Critical Minerals Require Global Partnerships Arise News Wunti: No Country Can Secure Energy Supply Alone, Critical Minerals Require Global Partnerships - Arise News",
-        "published": "Sat, 26 Sep 2026 09:16:29 GMT",
-        "published_kst": "2026-09-26T18:16:29+09:00",
+        "title": "Gen Alpha takes centre stage at UP International Trade Show-2026 - The Statesman",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRDNac2lYeVpiUU95emZrdlVRUzV4VzYyWE1UcjhOSVA3emV4VGY3RWo1dzdtNmdwdWNvSmpSWlROTEgxQnFHdUhkRnV2bm5jU1NyNlYyRUVOeXpzMVFHLV9ZaVVfMnM5TG9EanBqeEN6VEVLQjFCU0swejdpQ1VDc01Xc1hfNEZXTXZGS3I2Z1pFWHZfNDQ4VFhPNkFVVjFJOFg2QXJPUk5tUW9qV2FKLURxbnlSNnQ0TUHSAb8BQVVfeXFMTWhmX2pqOUw4R1hsUzdqbkR3YzNPMWtmd29YRVhCVEhRUzMxSW00Zkk1ZjdUQ1A5WVl0cHhKNHNqTThXWjJxbkJuc3laRUJqMG12MlZxT2FCbDRHRlJQNXNjaGlqTDNqcUh6OEtzY25yX2dTeXV5VUxDbTJQc1YtOC1uaHNxZEZVWlRfdHBpQnZBMWZZU09qenRnUFVlNmlmaWRHbmN3ZnJPWVloMjE1YXBkS3hXNk9MbTZCdFRtSUE?oc=5",
+        "summary": "Gen Alpha takes centre stage at UP International Trade Show-2026 The Statesman Gen Alpha takes centre stage at UP International Trade Show-2026 - The Statesman",
+        "published": "Sat, 26 Sep 2026 16:17:00 GMT",
+        "published_kst": "2026-09-27T01:17:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics / 누리호 5차 발사·우주경제 시대 본격화… ‘제2회 국제우주항공기술대전’ 창원서 개막 koreasprint.com 누리호 5차 발사·우주경제 시대 본격화… ‘제2회 국제우주항공기술대전’ 창원서 개막 - koreasprint.com / Food for Thought: The Intersection of Gender, Climate, and Trade Policy in Global Supply Chain Resilience and Food Security NATO Association Food for Thought: The Intersection of Gender, Climate, and Trade Policy in Global Supply Chain Resilience and Food Security - NATO Association",
+  "wrap_summary": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN The New York Times TV Networks to Resume Trump Coverage, Even as White House Excludes CNN - The New York Times / 챗GPT에 맡긴 내 사진이…AI 에이전트 '유출' 한국경제 챗GPT에 맡긴 내 사진이…AI 에이전트 '유출' - 한국경제 / From Hormuz to Saudi to US sanctions, world feels the oil heat The Economic Times From Hormuz to Saudi to US sanctions, world feels the oil heat - The Economic Times",
   "invest_summary": ""
 }
