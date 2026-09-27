@@ -1,75 +1,71 @@
 {
-  "date": "2026-09-27",
-  "generated_at_utc": "2026-09-27T10:52:37Z",
-  "cutoff_kst": "2026-09-27T19:52:00+09:00",
+  "date": "2026-09-28",
+  "generated_at_utc": "2026-09-27T15:03:01Z",
+  "cutoff_kst": "2026-09-28T00:03:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% - finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lS0U4VGRJTGdSZ3J3SFVvNk5TRFItWVhEdUhtZUw2WEZpd2pzNi1LLXBwdm9EdzhxQUFiY3VGbzFDVzdLOXFzUVBCclVqZTQ4ZVFzOFhqaVdtZ2d2R3kyejN5NkhtZXA2VXJ2TElRRVlxdDBaQmc?oc=5",
-        "summary": "US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% finance.biggo.com US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% - finance.biggo.com",
-        "published": "Sun, 27 Sep 2026 09:05:00 GMT",
-        "published_kst": "2026-09-27T18:05:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "70%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0psVXktQkRyTjdzQnViWmF6VElPTUx3bXg3T3dBb1lEbzY4Q3ctLUt0RzdQVi1ESlgxaWo3MUdLYzVVS09HQ2xwR1owN2NpQnJPUkV2VFBkRnBlOUlmOW40V29XbXBiXzFLWGtSS0N2dzhCZWt6ZzNGTktqUXBTRFNhU3lOUDg?oc=5",
-        "summary": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers The New York Times White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers - The New York Times",
-        "published": "Sun, 27 Sep 2026 09:01:11 GMT",
-        "published_kst": "2026-09-27T18:01:11+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$250"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "What to Expect in Markets This Week: Latest US Inflation, Jobs Data; Micron, CarMax Report - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFFrR2lJSXVYME5xcS15M2wzWl9UZUxHSzFSRGc5OXFXSUc0cENNOTUyc0x4NzJhMzJOSzBaMkhFYjh2X2lkNzdtZmNfSHh5Y203SmNhdEt5bnNFUGVNRy1KM0tPbTZFWEdXZElxOVJSbTBMN1FiVG54V2h6eGhWQjAwWlVMRkphRmNxWGRDYmZsYjVtUFp2dG1pM0RZSDBWNFhIX1FKZnZNY1ZIck1NUHhQbjAyb0YyX19OZzgzY1ZaUQ?oc=5",
-        "summary": "What to Expect in Markets This Week: Latest US Inflation, Jobs Data; Micron, CarMax Report Investopedia What to Expect in Markets This Week: Latest US Inflation, Jobs Data; Micron, CarMax Report - Investopedia",
-        "published": "Sun, 27 Sep 2026 09:00:00 GMT",
-        "published_kst": "2026-09-27T18:00:00+09:00",
+        "title": "AG Blanche addresses White House news outlet ban amid litigation, calls access 'a privilege ... not a right' - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRC1UVkY0RHNOVFpXcEZvdGp5UWpaWW16cW10SU41TWNTMXo1NEgta1JaTDZCSHBnRF90Nl84RnctdDNrbElXUDdGYzZLa2d2N2tmRzZzSnhlc09SNjBpdmlCTlBMMFNSVkRTblhuUko1aGdTWDNXaldWLXRDanJOMnNmRnZRU0RuSnhQYXUxbDZvWTBMZnJLMjFMdGLSAaIBQVVfeXFMTnJ5OHlqYk1KbUx4RS1HTlhRTGhPRkpRMGQ5VUQ1RWxZazBhZDZzb2lxVVlpUEZXdUhyQlNobGtSVHVmY1ZId3dkcmJoX1NlX3VnYTBKcFg3a25XTENFTGVhNjl0b2kxVk8zeGNKNlZLaVQ3YWVtSkp3RXUwX1o1YkJreElUcnpGb253UE1HYTMwR3NpMlJ2US1TNVFpcDBXbjZR?oc=5",
+        "summary": "not a right' ABC News - Breaking News, Latest News and Videos AG Blanche addresses White House news outlet ban amid litigation, calls access 'a privilege ... AG Blanche addresses White House news outlet ban amid litigation, calls access 'a privilege ...",
+        "published": "Sun, 27 Sep 2026 14:48:03 GMT",
+        "published_kst": "2026-09-27T23:48:03+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
-        "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
-        "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare. 'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
-        "published": "Sun, 27 Sep 2026 05:00:02 GMT",
-        "published_kst": "2026-09-27T14:00:02+09:00",
+        "title": "Blanche says president has right to restrict access to White House and Air Force One - Politico",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY3lTN3RJYm1ndDQ4SkRjLVJibDdWa2l4YzB0S1M1cVVfMTBzNWJBNHhsUHU5clMyVlpINWJxWnR0Y1NsdFRiNTIwQUY0VS1SaGsxRXFmWlZPQndhTk56US1HUThVaXI3WEI5MktnQm53cWJtVjQ3TVZJck96NDk5Z0dGQ3J5RlN5eFdZZA?oc=5",
+        "summary": "Blanche says president has right to restrict access to White House and Air Force One Politico Blanche says president has right to restrict access to White House and Air Force One - Politico",
+        "published": "Sun, 27 Sep 2026 14:38:00 GMT",
+        "published_kst": "2026-09-27T23:38:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+        "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+        "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+        "published": "Sun, 27 Sep 2026 14:33:22 GMT",
+        "published_kst": "2026-09-27T23:33:22+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
-        "url": "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
-        "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach. Boeing flags 737 Max software glitch affecting some automated approach functions",
-        "published": "Sat, 26 Sep 2026 21:55:01 GMT",
-        "published_kst": "2026-09-27T06:55:01+09:00",
+        "title": "Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+        "url": "https://www.cnbc.com/2026/09/25/flights-storm-new-york-boston-east-coast.html",
+        "summary": "Flight disruptions were rising in Boston over the weekend. Airlines waive change fees ahead of nor'easter as flight disruptions trickle in",
+        "published": "Sun, 27 Sep 2026 13:39:11 GMT",
+        "published_kst": "2026-09-27T22:39:11+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-        "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-        "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption. Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-        "published": "Sat, 26 Sep 2026 21:21:04 GMT",
-        "published_kst": "2026-09-27T06:21:04+09:00",
+        "title": "Iran's foreign minister keeps indirect talks with the U.S. open; Iranian navy claims capture of underwater drone",
+        "url": "https://www.cnbc.com/2026/09/27/iran-foreign-minister-keeps-indirect-talks-with-us-open-state-media.html",
+        "summary": "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. open; Iranian navy claims capture of underwater drone",
+        "published": "Sun, 27 Sep 2026 13:30:02 GMT",
+        "published_kst": "2026-09-27T22:30:02+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "MLB, White House discuss playing game at national park - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXZyWGpsaS1fNDV3U0hSNVAwZmZBR3dNS053ZXdpUFpjV1JsTjBzN3lSTDJkS1I4cGNsdl9UaWdFSVQ2UHcyOXJZa3d2SVhjSEJzYWJLRXVFZExmMzJabXVmb1BHVmhZc3B2MTRiNkJKSUMyZng3UFdzcTA2RzBDMW1XdkM3S1doS2Y0UFVDdXBzbW1LVWlTNlJoTQ?oc=5",
+        "summary": "MLB, White House discuss playing game at national park ESPN MLB, White House discuss playing game at national park - ESPN",
+        "published": "Sun, 27 Sep 2026 12:04:00 GMT",
+        "published_kst": "2026-09-27T21:04:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,33 +73,33 @@
     ],
     "kr": [
       {
-        "title": "[속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HZG55RXMyTm9zN3RvNlhqckp3blNlXzJsRU9GQmFkS20xSW14VGt2VjR2ZlZ4Tm5UdTZYLUNkXzVTWG9rSUVYdGlZalUwYWtMcUczWFQtanVrUQ?oc=5",
-        "summary": "[속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" 한국경제 [속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" - 한국경제",
-        "published": "Sun, 27 Sep 2026 10:24:51 GMT",
-        "published_kst": "2026-09-27T19:24:51+09:00",
+        "title": "한국 야구, 일본 꺾고 '금빛 홈런'…5연속 아시아 정상 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3WUdNcHRVSlVDcWJZNE5yNXRTaDRpYTR2VnBrMFlXRGExcS14ZnYzemZVOWNDX09qODcyS29tTHdVVDM5YVBIbmlIczJmaWhtQ3NidU0zdnozQQ?oc=5",
+        "summary": "한국 야구, 일본 꺾고 '금빛 홈런'…5연속 아시아 정상 한국경제 한국 야구, 일본 꺾고 '금빛 홈런'…5연속 아시아 정상 - 한국경제",
+        "published": "Sun, 27 Sep 2026 14:00:39 GMT",
+        "published_kst": "2026-09-27T23:00:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "“암표상 박멸할까”...가을야구 앞두고 주목받는 ‘이 기술’[허진의 테크토닉] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RTEc1UHdsQWxzWEJEUktDTE1EYzVWVzZzbE5VdWpyeFBZVllCWnZqcWJqSFJQdTRlOWxTSjNfc21zbjlDM1lNemdROUNnbDg3WmhpSjB1ZjRfUQ?oc=5",
-        "summary": "“암표상 박멸할까”...가을야구 앞두고 주목받는 ‘이 기술’[허진의 테크토닉] 한국경제 “암표상 박멸할까”...가을야구 앞두고 주목받는 ‘이 기술’[허진의 테크토닉] - 한국경제",
-        "published": "Sun, 27 Sep 2026 10:05:01 GMT",
-        "published_kst": "2026-09-27T19:05:01+09:00",
+        "title": "女사브르 단체전 '金 찌르기'…AG 펜싱 마지막 퍼즐 완성 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mNDA0MGNCTFdxbW9JNUZvbkd1UV9TbzFQZUN5a0hGOW1IamR6OXFZWEw5OE5lOXpwUGk1YXlrNExBcjJrZUJiS1JBTWZNVklIcE5uSDB3eGZpZw?oc=5",
+        "summary": "女사브르 단체전 '金 찌르기'…AG 펜싱 마지막 퍼즐 완성 한국경제 女사브르 단체전 '金 찌르기'…AG 펜싱 마지막 퍼즐 완성 - 한국경제",
+        "published": "Sun, 27 Sep 2026 13:01:13 GMT",
+        "published_kst": "2026-09-27T22:01:13+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "유망 부동산은 '공공·민간 분양'이 1순위 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nenhmbU9MeVpqcHpqZkJndFNUQXI0YWFpUjVwaThma0pSMzdhMlpVRXBOVG42Sm1keGhDVVN0c2RzMno3X1hvY3c2SnREU0NLeWJ6aDFLTGpyZw?oc=5",
-        "summary": "유망 부동산은 '공공·민간 분양'이 1순위 한국경제 유망 부동산은 '공공·민간 분양'이 1순위 - 한국경제",
-        "published": "Sun, 27 Sep 2026 08:56:17 GMT",
-        "published_kst": "2026-09-27T17:56:17+09:00",
+        "title": "[특집] 당신의 종목, 안녕한가요 4부 - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQ3E1S0gxVE5XbTcxMEhhWTRhdEdRa1psbjJuX3Vuc3U1QTZteVRhaVVGanRCRTgtMWMxQ0twem5qNE9yNlVjRUg5WWpIemw1emU0WWJwTnF4X296d3Rrc2lHX0RWRlRtMlJ6T1lCcEplU1cwUE4tZVotSEhPd3gwVXg3ZXNwaFFlN25ySTZhREJVaDF1dnY1UV9wLTdCYWpaZ0dz?oc=5",
+        "summary": "[특집] 당신의 종목, 안녕한가요 4부 한국경제TV [특집] 당신의 종목, 안녕한가요 4부 - 한국경제TV",
+        "published": "Sun, 27 Sep 2026 13:00:20 GMT",
+        "published_kst": "2026-09-27T22:00:20+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -111,6 +107,17 @@
       }
     ],
     "world": [
+      {
+        "title": "Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain - NDTV",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa2ktOFNPWXg1X2tjMl9yRzV3cXU3b2ZUNzF0dUVzRG5aYjhnZ2cwam10NTBMWnFSaWs4dEZFUFpUVlFNbG5MY2RrX21GU3VsMzFETjVqdUlTSDNxUjZuZjIyNDZqRkx0ZjFWb2xPOVpNUUJJMHZkZnNtam1GdjlNanhGcW9lTThUbVU2S3p2MWVUMEJDQkZ4X3RyUTZteHVNRHZ6YmhsdllNNDJzV0s3S0JUSF91eXpVOG9HaTMyQ3BZZnBuWS1NZ1plaEdJQXdwSWo4TnpNZkotS0MzTXfSAeYBQVVfeXFMT0JYTS1nUFdnbmhpenNYVkk3NkhPU0tGYXNXb3hrRUhjTmhJVUZIX1ozNGVxaGNQOVJMY2IyR25UWV9ocUcwTVhJbXcySFVrY2tGbzhITmFBZ04xczlCZnpjaGNBV2ZtTjNPSlhtYUZMWmdfRkdQREE5SFZTUGUwMGd5dWpOMzJVLUhwWWFqN0FRYTJVVTV1SXFXalhPWk9yMnF0ZDdvSTRYZ3BEaXhTZjM2ajdENWxIbnI2U2pUcmxsUVVnLTJCdW1aSUhvU3lCdW92ZVh0aE0tZ3JDQmc3YjBWRXQ1bWc?oc=5",
+        "summary": "Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain NDTV Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain - NDTV",
+        "published": "Sun, 27 Sep 2026 12:15:45 GMT",
+        "published_kst": "2026-09-27T21:15:45+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ - Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWVzV1dCWUFLbHJZcHZ0ZE9kQWE1VHo0NDRET0Yxak1xM2EtT0JDTlZLcmdtZUZNMy1SUjMwSDBjNzlURkNXT3o2Q2ZWRVBFbXRfLS0tcVlZQ0RxbWdiLUhIcTFqRFcyVnh1TC1VRXpybG5YbkpieVhiRUo5UlRVanNn0gGWAUFVX3lxTE9KQ2VXOFBCZmpZZkJnLUh5cElwaVVfZVVQY0g2ZjM0SzQxUDRwenY2bGUyb3RKRHJSQXhVbXRUSjRsSDRJY29xX3RRTktwd1VINGFEd0hETTdvM0xwSkQ1Rnh3VEt0ang1WWJlT3d0MEVHM0E2QnA5Z2dJR0xBRktGSXp2d1RBbTNOMDVjeFlhM0FHNkdtdw?oc=5",
@@ -132,20 +139,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "AstraZeneca's Pam Cheng’s Road to Sustainability Leadership - Sustainability Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWjV4TnFmQmtDaUQ3Y3pHYXVVZkoybUhUSG5uN0VCNERyUU5ZaU5TLTJIbm1qcWs0UG1iZF9lamhOaVRlU0IyUENUNXJGNUJla3Rad2t4cW1CNVRMb24wbXBXZ0FsdzBqNGFidzl4RktEUXpVeGVlYk1LN0tGdXZtSjdqTVNmdXdmMVJfc3F2Y2s3X3VFaF9r?oc=5",
-        "summary": "AstraZeneca's Pam Cheng’s Road to Sustainability Leadership Sustainability Magazine AstraZeneca's Pam Cheng’s Road to Sustainability Leadership - Sustainability Magazine",
-        "published": "Sun, 27 Sep 2026 07:18:45 GMT",
-        "published_kst": "2026-09-27T16:18:45+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% finance.biggo.com US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% - finance.biggo.com / [속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" 한국경제 [속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" - 한국경제 / HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ Chosunbiz HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ - Chosunbiz",
+  "wrap_summary": "not a right' ABC News - Breaking News, Latest News and Videos AG Blanche addresses White House news outlet ban amid litigation, calls access 'a privilege ... AG Blanche addresses White House news outlet ban amid litigation, calls access 'a privilege ... / 한국 야구, 일본 꺾고 '금빛 홈런'…5연속 아시아 정상 한국경제 한국 야구, 일본 꺾고 '금빛 홈런'…5연속 아시아 정상 - 한국경제 / Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain NDTV Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain - NDTV",
   "invest_summary": ""
 }
