@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Theory Sprint · 2026.22 감사반영·RECHECK 분리본</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#f3f1e8}
+#app{border:0;width:100%;height:100dvh;display:block}
+#source{display:none}
+#status{position:fixed;left:10px;bottom:10px;z-index:999999;padding:6px 9px;border-radius:10px;background:rgba(20,35,31,.9);color:#fff;font:700 11px/1.3 system-ui,-apple-system,"Malgun Gothic",sans-serif;pointer-events:none}
+</style>
+</head>
+<body>
+<iframe id="app" src="./theory-sprint/" title="Theory Sprint 2026.22"></iframe>
+<iframe id="source" src="./theory-sprint-CURRENT-2026.21.html" aria-hidden="true"></iframe>
+<div id="status">2026.22 감사패치 적용 중 · RECHECK 별도관리</div>
+<script>
+(()=>{
+  const app=document.getElementById('app');
+  const source=document.getElementById('source');
+  const status=document.getElementById('status');
+
+  const OVERRIDE=`(()=>{
+    const getScene=(id)=>{
+      if(typeof THEORY_COURSES==='undefined') return null;
+      for(const course of THEORY_COURSES){
+        const scene=(course.scenes||[]).find(s=>s.id===id);
+        if(scene) return {course,scene};
+      }
+      return null;
+    };
+    const set=(id,fn)=>{
+      const hit=getScene(id);
+      if(!hit) return false;
+      fn(hit.scene,hit.course);
+      return true;
+    };
+    const applied=[];
+
+    // 6. 소요기획: 기간을 성급히 확정하지 않고 RECHECK
+    if(set('rq-integrated-validation',(s)=>{
+      s.title='통합 소요검증 대상기간은 [[RECHECK]]';
+      s.lead='2026년 7월 개정으로 소요검증 수행시기가 조정된 항목이다. F+1∼F+5 또는 F+2∼F+6을 현재 단계에서 단순 확정하지 않고, 국방전력발전업무훈령 제3184호 해당 조문 직접대조 후 LOCKED한다.';
+      s.memory='[[통합 소요검증 기간 = RECHECK / 제3184호 직접대조 후 확정]]';
+      s.rows=[
+        ['확정','통합 소요검증은 다수 소요의 상대적 우선순위를 판단'],
+        ['주의','F+1 예외를 전체 대상기간으로 일반화하지 않음'],
+        ['상태','정확한 대상기간·예외조건은 RECHECK'],
+        ['다음','제3184호 해당 조문 직접대조 후 LOCKED']
+      ];
+    })) applied.push('6 소요기획: 통합소요검증 기간을 RECHECK로 분리');
+
+    // 9. 상호운용성: CIT 단일개념으로 외우지 않도록 구조 분리
+    if(set('io-cit',(s)=>{
+      s.title='연합 전술데이터링크는 [[SCT와 CIT를 구분]]';
+      s.lead='연합연동시험을 CIT 하나와 같은 말로 외우지 않는다. SCT와 CIT를 구분해 시험명·적용대상·시점·주관을 각각 연결하고, 세부 상하위 관계와 적용조건은 현행 상호운용성 관리지침 기준으로 최종 대조한다.';
+      s.memory='[[연합연동시험 ≠ CIT 단일개념 / SCT·CIT 구분]]';
+      s.rows=[
+        ['구분원칙','SCT와 CIT를 하나의 시험명으로 합치지 않음'],
+        ['연계','CCIB 등 연합 상호운용 협의와 연계'],
+        ['학습','시험명·주관·대상·시점을 각각 연결'],
+        ['상태','구조 수정 반영 / 세부 적용조건 계속 검증']
+      ];
+    })) applied.push('9 상호운용성: SCT/CIT 구분');
+
+    // 12. 분석평가: 12명 값을 구자료 10명으로 되돌리지 않되 RECHECK 표시
+    if(set('an-committee',(s)=>{
+      s.title='분석평가심의위원회 [[12명(1+5+6) · RECHECK]]';
+      s.lead='현재 앱의 12명(위원장 1·내부 5·외부 6)은 구자료 10명으로 되돌리지 않는다. 다만 현행 제978호 본문 직접대조가 끝날 때까지 RECHECK 상태로 관리한다.';
+      s.memory='[[12명(1+5+6) 유지 / 간사 별도 / 현행 제978호 직접대조 전 RECHECK]]';
+      s.rows=[
+        ['현재값','위원장 1 + 내부위원 5 + 외부위원 6 = 12명'],
+        ['간사','위원 수 밖 별도'],
+        ['금지','구 제691호의 10명(1+4+5)으로 임의 회귀 금지'],
+        ['상태','현행 제978호 직접대조 전 RECHECK']
+      ];
+    })) applied.push('12 분석평가: 12명 유지 + RECHECK');
+
+    // 13. 국방R&D: 핵심기술 80·70과 미래도전 90·70 분리
+    if(set('rd-future-eval',(s)=>{
+      s.title='미래도전 평가는 [[90·70 기준]]을 별도로 본다';
+      s.lead='미래도전국방기술의 단계전환·종료평가는 핵심기술의 80·70 평가체계와 구분한다. 모든 80점을 일괄 치환하지 않고 평가제도별 기준을 따로 학습한다.';
+      s.memory='[[핵심기술 80·70 ≠ 미래도전 90·70]]';
+      s.rows=[
+        ['핵심기술','중간·단계전환 등 80·70 체계는 해당 규정 문맥에서 유지'],
+        ['미래도전','단계전환·종료평가의 90·70 기준을 별도 적용'],
+        ['금지','앱의 모든 80점을 90으로 일괄 치환하지 않음'],
+        ['학습','평가명 → 점수기준 → 후속조치를 한 세트로 연결']
+      ];
+    })) applied.push('13 국방R&D: 80·70 / 90·70 평가체계 분리');
+
+    // 16. 방산계약: 일반입찰과 협상계약 공고기간을 두 카드축으로 분리
+    if(set('ct-notice',(s)=>{
+      s.title='입찰기간은 [[일반입찰 7·5 / 협상계약 40·10]]으로 분리';
+      s.lead='일반 경쟁입찰 공고기간과 협상에 의한 계약의 제안서 제출기간은 서로 다른 규정축이다. 한 줄 7-40-5로 외우지 않는다.';
+      s.memory='[[일반입찰: 7일·예외 5일 / 협상계약: 40일·예외 10일]]';
+      s.rows=[
+        ['일반 경쟁입찰','7일'],
+        ['일반입찰 긴급·재공고','5일'],
+        ['협상에 의한 계약','40일'],
+        ['협상계약 예외','10일']
+      ];
+    })) applied.push('16 방산계약: 입찰기간 7/5와 협상 40/10 분리');
+
+    // 17. 시험평가: 공식용어 교정 + 45일은 RECHECK
+    if(set('te-ot-result',(s)=>{
+      s.title='OT 결과는 [[일반 1개월 / 전장관리정보체계 45일(RECHECK)]]';
+      s.lead='용어는 전장정보관리체계가 아니라 전장관리정보체계로 교정한다. 45일 기한 자체는 국방전력발전업무훈령 제3184호 본문 직접대조가 끝날 때까지 RECHECK로 둔다.';
+      s.memory='[[일반 1개월 / 전장관리정보체계 45일 = RECHECK]]';
+      s.rows=[
+        ['일반','완료 후 1개월 이내'],
+        ['전장관리정보체계','45일 이내 — RECHECK'],
+        ['용어','전장정보관리체계 → 전장관리정보체계'],
+        ['상태','45일은 제3184호 직접대조 후 LOCKED']
+      ];
+    })) applied.push('17 시험평가: 전장관리정보체계 용어 교정 + 45일 RECHECK');
+
+    // 17. 5,000억 적용대상은 현행 조문 대조 전 확정하지 않음
+    if(set('te-committee',(s)=>{
+      s.title='시험평가위원회 [[5,000억 적용대상 RECHECK]]';
+      s.lead='5,000억원 기준의 존재와 적용범위를 구분한다. 무기체계 연구개발 OT·구매시험 및 핵심기술 OT 포함 여부는 제3184호 해당 조문 직접대조 전 확정하지 않는다.';
+      s.memory='[[5,000억 기준 적용대상 = RECHECK]]';
+      s.rows=[
+        ['확인중','5,000억원 기준의 정확한 적용대상'],
+        ['쟁점','핵심기술 OT 포함 여부'],
+        ['금지','검증 전 특정 대상목록을 LOCKED하지 않음'],
+        ['다음','제3184호 해당 조문 직접대조 후 확정']
+      ];
+    })) applied.push('17 시험평가: 5,000억 적용대상 RECHECK');
+
+    if(set('te-authority',(s)=>{
+      s.lead='합참의 결과 검토·판정안과 대상별 심의, 국방부 최종판정 흐름을 구분한다. 5,000억원 기준의 세부 적용대상은 현행 제3184호 직접대조 전 RECHECK다.';
+      s.memory='[[결과검토 → 판정안 → 대상별 심의 → 국방부 판정 / 5천억 대상 RECHECK]]';
+      s.rows=[
+        ['흐름','수행결과 → 합참 검토·판정안 → 심의 → 국방부 판정'],
+        ['확정','통합시험평가팀은 최종판정기관이 아님'],
+        ['RECHECK','5,000억원 기준의 정확한 적용대상'],
+        ['다음','제3184호 직접대조 후 위원회/실무위 범위 LOCKED']
+      ];
+    })) applied.push('17 시험평가: 판정체계 내 5,000억 RECHECK 표시');
+
+    if(set('te-traps',(s)=>{
+      s.lead='DT·OT·구매시험의 판정용어는 구분하되, 5,000억원 심의기준의 정확한 적용대상은 검증 전 단정하지 않는다.';
+      s.memory='[[DT 2 / 연구개발 OT 3 / 구매 2 / 5천억 대상 RECHECK]]';
+      s.rows=[
+        ['암기 체크포인트1','DT를 전투용 적합으로 판정하지 않음'],
+        ['암기 체크포인트2','구매에 조건부 적합을 기계적으로 붙이지 않음'],
+        ['암기 체크포인트3','통합시험평가팀을 최종 판정기관으로 보지 않음'],
+        ['RECHECK','5,000억원 기준의 정확한 적용대상']
+      ];
+    })) applied.push('17 시험평가: 5,000억 단정 제거');
+
+    // 구매시험 공식 표현을 명확화
+    if(set('te-types',(s)=>{
+      s.memory='[[연구개발: DT·OT / 구매: 실물에 의한 시험평가·자료에 의한 시험평가]]';
+      s.rows=(s.rows||[]).map(r=>r[0]==='구매'
+        ? ['구매','실물에 의한 시험평가 또는 자료에 의한 시험평가']
+        : r);
+    })) applied.push('17 시험평가: 실물/자료에 의한 시험평가 용어 명확화');
+
+    if(set('te-purchase-method-rule',(s)=>{
+      s.title='구매는 [[실물에 의한 시험평가 원칙·자료에 의한 시험평가 허용]]';
+      s.lead='구매시험은 실제 장비를 대상으로 하는 실물에 의한 시험평가를 원칙으로 하고, 현행 규정이 허용하는 경우 자료에 의한 시험평가를 적용하며 필요하면 두 증거를 상호 보완한다.';
+      s.memory='[[실물에 의한 시험평가 → 허용요건이면 자료에 의한 시험평가 → 부족항목 보완]]';
+    })) applied.push('17 시험평가: 구매시험 공식 표현 보강');
+
+    if(set('te-fms-2026',(s)=>{
+      s.title='2026 개정은 [[FMS 자료에 의한 시험평가]] 근거를 명시';
+      s.memory='[[FMS 정부자료 활용 가능 ≠ 자동 적합·시험면제]]';
+    })) applied.push('17 시험평가: FMS 자료에 의한 시험평가 표현');
+
+    // '함정'은 trap 의미의 행 레이블만 바꾸고, 艦艇(ship) 의미는 절대 전역치환하지 않음
+    const normalizeRowLabels=(value)=>{
+      if(Array.isArray(value)){
+        if(value.length>=2 && value[0]==='함정') value[0]='암기 체크포인트';
+        for(const v of value) normalizeRowLabels(v);
+      }else if(value && typeof value==='object'){
+        for(const k of Object.keys(value)) normalizeRowLabels(value[k]);
+      }
+    };
+    if(typeof THEORY_COURSES!=='undefined') normalizeRowLabels(THEORY_COURSES);
+    applied.push('표현 교정: trap 행 레이블만 체크포인트로 변경, 艦艇 의미 함정 보존');
+
+    const badge=document.querySelector('.version');
+    if(badge) badge.textContent='AUDIT 30 · 확정수정+RECHECK 분리';
+    document.documentElement.dataset.currentDirectiveHotfix='2026-09-27';
+    window.__CURRENT_DIRECTIVE_HOTFIX__={
+      version:'2026.22',
+      applied,
+      recheck:[
+        '6 통합소요검증 정확한 대상기간·예외',
+        '12 분석평가심의위원회 12명',
+        '17 시험평가 5,000억 적용대상',
+        '17 전장관리정보체계 결과제출 45일'
+      ],
+      note:'패치 적용 완료는 현행법 전수검증 완료를 의미하지 않음'
+    };
+    if(typeof home==='function') home();
+  })();`;
+
+  function getSanitizedPreviousPatch(){
+    try{
+      const p=source.contentWindow.eval('PATCH');
+      if(typeof p!=='string') return null;
+      return p.replace(".replaceAll('함정','암기 체크포인트');",";");
+    }catch(_){
+      return null;
+    }
+  }
+
+  function injectCode(code){
+    const d=app.contentDocument;
+    if(!d||!d.body) return false;
+    const s=d.createElement('script');
+    s.textContent=code;
+    d.body.appendChild(s);
+    return true;
+  }
+
+  function apply(){
+    try{
+      const d=app.contentDocument;
+      if(!d||!d.body||typeof app.contentWindow.THEORY_COURSES==='undefined') return false;
+      const prev=getSanitizedPreviousPatch();
+      if(!prev) return false;
+      injectCode(prev);
+      injectCode(OVERRIDE);
+      const ok=d.documentElement.dataset.currentDirectiveHotfix==='2026-09-27';
+      if(ok){
+        status.textContent='2026.22 감사패치 적용 완료 · RECHECK 검증 계속';
+        setTimeout(()=>status.remove(),2600);
+      }else{
+        status.textContent='2026.22 패치 상태 확인 필요';
+      }
+      return ok;
+    }catch(_){
+      status.textContent='동일 도메인에 업로드 후 패치가 적용됩니다.';
+      return false;
+    }
+  }
+
+  let tries=0;
+  function retry(){
+    if(apply()) return;
+    if(++tries<20) setTimeout(retry,250);
+  }
+  app.addEventListener('load',()=>setTimeout(retry,250));
+  source.addEventListener('load',()=>setTimeout(retry,250));
+  setTimeout(retry,900);
+})();
+</script>
+</body>
+</html>
