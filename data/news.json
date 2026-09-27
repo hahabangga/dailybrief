@@ -1,9 +1,46 @@
 {
   "date": "2026-09-27",
-  "generated_at_utc": "2026-09-27T07:15:21Z",
-  "cutoff_kst": "2026-09-27T16:15:00+09:00",
+  "generated_at_utc": "2026-09-27T10:52:37Z",
+  "cutoff_kst": "2026-09-27T19:52:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lS0U4VGRJTGdSZ3J3SFVvNk5TRFItWVhEdUhtZUw2WEZpd2pzNi1LLXBwdm9EdzhxQUFiY3VGbzFDVzdLOXFzUVBCclVqZTQ4ZVFzOFhqaVdtZ2d2R3kyejN5NkhtZXA2VXJ2TElRRVlxdDBaQmc?oc=5",
+        "summary": "US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% finance.biggo.com US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% - finance.biggo.com",
+        "published": "Sun, 27 Sep 2026 09:05:00 GMT",
+        "published_kst": "2026-09-27T18:05:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "70%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0psVXktQkRyTjdzQnViWmF6VElPTUx3bXg3T3dBb1lEbzY4Q3ctLUt0RzdQVi1ESlgxaWo3MUdLYzVVS09HQ2xwR1owN2NpQnJPUkV2VFBkRnBlOUlmOW40V29XbXBiXzFLWGtSS0N2dzhCZWt6ZzNGTktqUXBTRFNhU3lOUDg?oc=5",
+        "summary": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers The New York Times White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers - The New York Times",
+        "published": "Sun, 27 Sep 2026 09:01:11 GMT",
+        "published_kst": "2026-09-27T18:01:11+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$250"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "What to Expect in Markets This Week: Latest US Inflation, Jobs Data; Micron, CarMax Report - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUFFrR2lJSXVYME5xcS15M2wzWl9UZUxHSzFSRGc5OXFXSUc0cENNOTUyc0x4NzJhMzJOSzBaMkhFYjh2X2lkNzdtZmNfSHh5Y203SmNhdEt5bnNFUGVNRy1KM0tPbTZFWEdXZElxOVJSbTBMN1FiVG54V2h6eGhWQjAwWlVMRkphRmNxWGRDYmZsYjVtUFp2dG1pM0RZSDBWNFhIX1FKZnZNY1ZIck1NUHhQbjAyb0YyX19OZzgzY1ZaUQ?oc=5",
+        "summary": "What to Expect in Markets This Week: Latest US Inflation, Jobs Data; Micron, CarMax Report Investopedia What to Expect in Markets This Week: Latest US Inflation, Jobs Data; Micron, CarMax Report - Investopedia",
+        "published": "Sun, 27 Sep 2026 09:00:00 GMT",
+        "published_kst": "2026-09-27T18:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
         "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
@@ -38,9 +75,77 @@
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "kr": [],
-    "world": []
+    "kr": [
+      {
+        "title": "[속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HZG55RXMyTm9zN3RvNlhqckp3blNlXzJsRU9GQmFkS20xSW14VGt2VjR2ZlZ4Tm5UdTZYLUNkXzVTWG9rSUVYdGlZalUwYWtMcUczWFQtanVrUQ?oc=5",
+        "summary": "[속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" 한국경제 [속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" - 한국경제",
+        "published": "Sun, 27 Sep 2026 10:24:51 GMT",
+        "published_kst": "2026-09-27T19:24:51+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "“암표상 박멸할까”...가을야구 앞두고 주목받는 ‘이 기술’[허진의 테크토닉] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RTEc1UHdsQWxzWEJEUktDTE1EYzVWVzZzbE5VdWpyeFBZVllCWnZqcWJqSFJQdTRlOWxTSjNfc21zbjlDM1lNemdROUNnbDg3WmhpSjB1ZjRfUQ?oc=5",
+        "summary": "“암표상 박멸할까”...가을야구 앞두고 주목받는 ‘이 기술’[허진의 테크토닉] 한국경제 “암표상 박멸할까”...가을야구 앞두고 주목받는 ‘이 기술’[허진의 테크토닉] - 한국경제",
+        "published": "Sun, 27 Sep 2026 10:05:01 GMT",
+        "published_kst": "2026-09-27T19:05:01+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "유망 부동산은 '공공·민간 분양'이 1순위 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nenhmbU9MeVpqcHpqZkJndFNUQXI0YWFpUjVwaThma0pSMzdhMlpVRXBOVG42Sm1keGhDVVN0c2RzMno3X1hvY3c2SnREU0NLeWJ6aDFLTGpyZw?oc=5",
+        "summary": "유망 부동산은 '공공·민간 분양'이 1순위 한국경제 유망 부동산은 '공공·민간 분양'이 1순위 - 한국경제",
+        "published": "Sun, 27 Sep 2026 08:56:17 GMT",
+        "published_kst": "2026-09-27T17:56:17+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ],
+    "world": [
+      {
+        "title": "HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWVzV1dCWUFLbHJZcHZ0ZE9kQWE1VHo0NDRET0Yxak1xM2EtT0JDTlZLcmdtZUZNMy1SUjMwSDBjNzlURkNXT3o2Q2ZWRVBFbXRfLS0tcVlZQ0RxbWdiLUhIcTFqRFcyVnh1TC1VRXpybG5YbkpieVhiRUo5UlRVanNn0gGWAUFVX3lxTE9KQ2VXOFBCZmpZZkJnLUh5cElwaVVfZVVQY0g2ZjM0SzQxUDRwenY2bGUyb3RKRHJSQXhVbXRUSjRsSDRJY29xX3RRTktwd1VINGFEd0hETTdvM0xwSkQ1Rnh3VEt0ang1WWJlT3d0MEVHM0E2QnA5Z2dJR0xBRktGSXp2d1RBbTNOMDVjeFlhM0FHNkdtdw?oc=5",
+        "summary": "HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ Chosunbiz HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ - Chosunbiz",
+        "published": "Sun, 27 Sep 2026 08:03:00 GMT",
+        "published_kst": "2026-09-27T17:03:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "A manufacturing supply chain will be established in Gumi, North Gyeongsang Province, for the first t.. - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CLXpRcUoxc0pmb1VtLWNCRU1pV3puZlZidHFWMXVqUTBJc2RWTGUycWx1YW0zbk4tTjVidFo0YUlPN3g5RzF3OGFHR2JreHpUMGc?oc=5",
+        "summary": "매일경제 A manufacturing supply chain will be established in Gumi, North Gyeongsang Province, for the first t..",
+        "published": "Sun, 27 Sep 2026 07:41:03 GMT",
+        "published_kst": "2026-09-27T16:41:03+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "AstraZeneca's Pam Cheng’s Road to Sustainability Leadership - Sustainability Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWjV4TnFmQmtDaUQ3Y3pHYXVVZkoybUhUSG5uN0VCNERyUU5ZaU5TLTJIbm1qcWs0UG1iZF9lamhOaVRlU0IyUENUNXJGNUJla3Rad2t4cW1CNVRMb24wbXBXZ0FsdzBqNGFidzl4RktEUXpVeGVlYk1LN0tGdXZtSjdqTVNmdXdmMVJfc3F2Y2s3X3VFaF9r?oc=5",
+        "summary": "AstraZeneca's Pam Cheng’s Road to Sustainability Leadership Sustainability Magazine AstraZeneca's Pam Cheng’s Road to Sustainability Leadership - Sustainability Magazine",
+        "published": "Sun, 27 Sep 2026 07:18:45 GMT",
+        "published_kst": "2026-09-27T16:18:45+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ]
   },
-  "wrap_summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare. 'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+  "wrap_summary": "US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% finance.biggo.com US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% - finance.biggo.com / [속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" 한국경제 [속보] 軍·유엔사, DMZ 폭발현장 조사…\"추가 조사 예정\" - 한국경제 / HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ Chosunbiz HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ - Chosunbiz",
   "invest_summary": ""
 }
