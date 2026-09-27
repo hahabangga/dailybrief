@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Theory Sprint · 2026.24 재검증본</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#f3f1e8}
+#base{border:0;width:100%;height:100dvh;display:block}
+#status{position:fixed;left:10px;bottom:10px;z-index:999999;padding:6px 9px;border-radius:10px;background:rgba(20,35,31,.92);color:#fff;font:700 11px/1.3 system-ui,-apple-system,"Malgun Gothic",sans-serif;pointer-events:none}
+</style>
+</head>
+<body>
+<iframe id="base" src="./theory-sprint-CURRENT-2026.23.html" title="Theory Sprint 2026.24"></iframe>
+<div id="status">2026.24 재검증패치 적용 중</div>
+<script>
+(()=>{
+  const base=document.getElementById('base'),status=document.getElementById('status');
+  const PATCH24=`(()=>{
+    const getScene=(id)=>{
+      if(typeof THEORY_COURSES==='undefined') return null;
+      for(const course of THEORY_COURSES){
+        const scene=(course.scenes||[]).find(item=>item.id===id);
+        if(scene) return {course,scene};
+      }
+      return null;
+    };
+    const set=(id,fn)=>{const hit=getScene(id);if(!hit)return false;fn(hit.scene,hit.course);return true;};
+    const addAfter=(anchorId,scene)=>{
+      const hit=getScene(anchorId);if(!hit)return false;
+      const scenes=hit.course.scenes||[];
+      if(scenes.some(item=>item.id===scene.id))return true;
+      const idx=scenes.findIndex(item=>item.id===anchorId);
+      scenes.splice(idx+1,0,scene);return true;
+    };
+    const applied=[];
+
+    if(set('tl-lcsp-timing',s=>{
+      s.title='LCSP 작성·최신화는 [[선행-탐색-체계-양산·전력화평가]]';
+      s.lead='LCSP는 선행연구에서 개략 계획, 탐색개발에서 초안을 작성하고, 체계개발에서는 상세설계검토 후·운용시험평가 후·체계개발 종료 후 최신화한다. 이후 양산단계 및 전력화평가 시 최신화한다.';
+      s.memory='[[선행(개략) → 탐색(초안) → 체계(CDR·OT·종료 후) → 양산·전력화평가]]';
+      s.rows=[['선행연구','개략 수명주기관리계획'],['탐색개발','수명주기관리계획서 초안'],['체계개발','상세설계검토 후 · 운용시험평가 후 · 체계개발 종료 후'],['양산·전력화평가','작성·최신화 및 운영유지 인계'],['운영유지','각 군·해병대가 중요도에 따라 1~5년 주기로 최신화']];
+    })) applied.push('LCSP 정확한 작성·최신화 시점 복원');
+
+    if(set('io-cit',s=>{
+      s.title='연합 전술데이터링크는 [[SCT → 보완 → CIT]]';
+      s.lead='SCT와 CIT는 별도 시험이다. 연구개발주관기관 또는 구매 계약업체는 미 JITC로부터 통보된 SCT 결과보고서를 10근무일 이내 IPT에 제출하고, 보완 필요 결함을 통보받으면 10근무일 이내 보완계획을 제출하여 CIT 전까지 보완한다.';
+      s.memory='[[SCT 결과보고 10근무일 제출 → 보완계획 10근무일 → CIT 전 보완]]';
+      s.rows=[['SCT','연합 전술데이터링크 표준 준수 여부 확인'],['결과보고','미 JITC 통보 후 10근무일 이내 IPT 제출'],['보완계획','필요 결함 통보 후 10근무일 이내 제출'],['실제 보완','연합상호운용성시험(CIT) 전까지 완료'],['CIT','SCT 통과 후 실제 연합 전술데이터링크 운용 가능성 확인']];
+    })) applied.push('SCT·CIT 10근무일 절차 분리');
+
+    if(set('lc-standard-flow',s=>{
+      s.rows=[['체계·양산','국산화추진계획을 체계·양산계획과 연동'],['일반','IPT 또는 업체가 국기연에 소요제기'],['개발기간','일반부품국산화는 개발승인 다음 달부터 36개월 이내'],['공통검토','대상·제외·경제성·기술수준·예상소요'],['완료','적합·규격·인증 뒤 연구개발확인서']];
+    })) applied.push('일반부품국산화 기본기간 유지');
+
+    if(addAfter('lc-standard-flow',{
+      id:'lc-general-period',core:true,chapter:'일반부품',
+      title:'일반부품은 [[36개월 + 사유별 연장]]',
+      lead:'일반부품국산화는 개발승인 다음 달부터 36개월 이내가 기본이며 연장승인이 없으면 기간 경과로 자동 종료된다. 연장 사유별 기간을 구분한다.',
+      memory:'[[36개월 / 규격·시험지연=해당기간 / 국외시험=24개월 / 기타 비귀책=12개월 / 추가 12개월]]',
+      rows:[['기본','개발승인 다음 달부터 36개월 이내'],['자동종료','연장승인 없이 개발기간 경과 시 자동 종료'],['1차 연장','규격화 지연·적용장비 사정 시험지연=해당기간 / 국외 시험평가=24개월 / 업체 귀책 아닌 기타 사유=12개월'],['추가 연장','1차 연장 후에도 필요하면 경제적 영향 등을 고려해 12개월까지 추가'],['주의','지원사업의 전체 연구개발기간 10년 상한을 일반부품 규정과 혼합하지 않음']],
+      source:['LC26']
+    })) applied.push('일반부품국산화 연장 규칙 추가');
+
+    if(set('rd-future-eval',s=>{
+      s.title='핵심기술과 미래도전은 [[평가 점수 구조가 다름]]';
+      s.lead='핵심기술은 중간·단계전환평가에서 80·70 기준을 쓰지만 종료평가는 80점 단일 문턱이다. 미래도전국방기술은 단계전환·종료평가 모두 90·70 기준을 적용한다.';
+      s.memory='[[핵심: 중간·전환 80/70, 종료 80 / 미래도전: 전환·종료 90/70]]';
+      s.rows=[['핵심기술 중간','80↑ 정상 / 70~80 계획조정 / 70↓ 중단'],['핵심기술 단계전환','80↑ 합격 / 70~80 계획조정 / 70↓ 불합격'],['핵심기술 종료','80↑ 합격 / 80↓ 불합격'],['미래도전 단계전환·종료','90↑ 우수 / 70~90 보통 / 70↓ 극히 불량']];
+    })) applied.push('핵심기술·미래도전 평가점수 정밀화');
+
+    if(addAfter('pc-domestic',{
+      id:'pc-procedure-levels',core:true,chapter:'구매절차',
+      title:'구매절차 숫자는 [[규정 층위부터 구분]]',
+      lead:'방위사업법 시행령의 일반 구매절차와 방위사업관리규정의 협상계약 세부절차는 단계 수가 다르다. 같은 국내·국외구매라도 어느 절차를 묻는지 먼저 본다.',
+      memory:'[[시행령 국내4·국외7 / 관리규정 협상 국내9·국외10]]',
+      rows:[['시행령 국내구매','계획 → 공고 → 계약대상자 선정 → 계약 : 4단계'],['시행령 국외구매','계획 → 공고 → 제안평가 → 시험대상선정 → 시험·협상 → 기종결정 → 계약 : 7단계'],['관리규정 협상 국내','RFP 작성·교부 등을 포함한 9단계'],['관리규정 협상 국외','가계약을 포함한 10단계'],['핵심 차이','국외 10단계의 가계약은 기종결정 전에 위치']],
+      source:['DM26']
+    })) applied.push('구매절차 4·7 vs 9·10 추가');
+
+    if(addAfter('pc-notice',{
+      id:'pc-debrief',core:true,chapter:'제안서평가',
+      title:'디브리핑·이의제기는 [[3-5-3-7 근무일]]',
+      lead:'제안서 평가결과 설명은 연구개발 및 국내구매사업에 적용하며 국외구매는 제외한다. 요청·실시·이의신청·처리 기한을 근무일 기준으로 구분한다.',
+      memory:'[[요청3 → 실시5 → 이의3 → 처리7 / 국외구매 제외]]',
+      rows:[['설명 요청','인터넷 결과 공개일부터 3근무일 이내'],['설명 실시','요청 접수일부터 5근무일 이내'],['이의신청','설명 실시 후 3근무일 이내'],['처리','신청일부터 7근무일 이내, 필요 시 연장 가능'],['대상','연구개발·국내구매 / 국외구매 제외']],
+      source:['NEG26']
+    })) applied.push('디브리핑 3·5·3·7 추가');
+
+    if(set('co-sga',s=>{
+      s.title='일반관리비율 상한은 [[업종과 기업유형을 함께]]';
+      s.lead='일반기업과 중소기업·유예기간 만료 후 5년 이내 중견기업의 일반관리비율 상한을 업종별로 구분한다.';
+      s.memory='[[조함 6/8 · 조립금속 7/9 · 용역 6/8 · 기타 8/10]]';
+      s.rows=[['조함공사','일반 6% / 중소·해당 중견 8%'],['조립금속','일반 7% / 중소·해당 중견 9%'],['용역','일반 6% / 중소·해당 중견 8%'],['화학·섬유·고무·의복·가죽 및 기타 물품','일반 8% / 중소·해당 중견 10%'],['산정기초','관급재료비를 포함한 제조원가가 원칙']];
+    })) applied.push('일반관리비율 4업종 분리');
+
+    if(set('te-traps',s=>{
+      s.lead='DT·무기체계 OT·핵심기술 OT·구매시험의 판정용어를 서로 바꾸지 않는다.';
+      s.memory='[[DT 2 / 무기체계 OT 3 / 핵심기술 OT 2 / 구매 2]]';
+      s.rows=[['DT','기준 충족 / 기준 미달'],['무기체계 연구개발 OT','전투용 적합 / 전투용 조건부 적합 / 전투용 부적합'],['핵심기술 연구개발 OT','군사용 적합 / 군사용 부적합'],['구매시험','전투용 적합 / 전투용 부적합'],['주의','통합시험평가팀은 최종 판정기관이 아님']];
+    })) applied.push('시험평가 핵심기술 OT 판정 복원');
+
+    if(addAfter('te-traps',{
+      id:'te-provisional',core:true,chapter:'판정',
+      title:'장기사업은 [[잠정 전투용]], 핵심기술은 [[잠정 군사용]]',
+      lead:'항공기·함정·위성 등 장기간 개발사업은 계속 추진·최초양산 승인·후속사업 결정을 위해 잠정 전투용 적합 또는 부적합으로 판정할 수 있다. 최초·후속 OT로 구분하면 후속 OT에서 최종 판정한다. 핵심기술은 잠정 군사용 적합 용어를 쓴다.',
+      memory:'[[무기체계=잠정 전투용 / 핵심기술=잠정 군사용 / 최종=후속 OT]]',
+      rows:[['무기체계 대상','항공기·함정·위성 등 장기간 개발·설계 사업'],['목적','계속 추진·후속단계(최초양산)·후속사업 결정'],['잠정 판정','잠정 전투용 적합 또는 잠정 전투용 부적합'],['최종판정','최초·후속 OT 구분 시 후속 OT에서 전투용 적합 여부 최종 판정'],['핵심기술','필요 시 잠정 군사용 적합 판정 가능']],
+      source:['FD26']
+    })) applied.push('잠정 전투용·군사용 판정 추가');
+
+    if(set('te-purchase-method-rule',s=>{
+      s.title='구매는 [[실물시험 원칙·자료평가 허용]]';
+      s.lead='구매시험은 실물에 의한 시험평가를 원칙으로 하되, 시제품 부재·재구매 또는 일부개조·복합체계 통합·외국정부 계약 등 허용요건에서는 자료에 의한 시험평가를 수행할 수 있다.';
+      s.memory='[[실물 원칙 / 허용요건 시 자료평가]]';
+    })) applied.push('구매시험 적용 원칙 보완');
+
+    if(addAfter('te-purchase-method-rule',{
+      id:'te-seasonal-purchase',core:true,chapter:'구매시험',
+      title:'구매시험의 혹한·혹서는 [[자료평가가 원칙]]',
+      lead:'구매시험 전체는 실물에 의한 평가가 원칙이지만 혹한기·혹서기 성능평가는 자료에 의한 평가가 원칙이다. 다만 무기체계 특성·운용환경상 필요하면 선행연구 결과를 반영해 실물평가를 추진할 수 있다.',
+      memory:'[[전체 구매시험=실물 원칙 / 혹한·혹서=자료 원칙]]',
+      rows:[['전체 구매시험','실물에 의한 시험평가 원칙'],['혹한기·혹서기','자료에 의한 성능평가 원칙'],['실물 필요 조건','합동성·상호운용성 영향 확인 또는 자료로 확인 불가능한 항목 등'],['반영','선행연구 판단을 사업추진기본전략에 반영']],
+      source:['FD26']
+    })) applied.push('구매시험 혹한·혹서 자료평가 원칙 추가');
+
+    const badge=document.querySelector('.version');
+    if(badge) badge.textContent='2026.24 · 재검증본';
+    document.documentElement.dataset.currentDirectiveHotfix='2026-09-27-24';
+    window.__CURRENT_DIRECTIVE_HOTFIX_24__={version:'2026.24',applied};
+    if(typeof home==='function') home();
+  })();`;
+
+  function injectIntoInner(){
+    try{
+      const wrapper=base.contentWindow;
+      const inner=wrapper&&wrapper.document&&wrapper.document.getElementById('app');
+      if(!inner||!inner.contentDocument||!inner.contentDocument.body)return false;
+      const w=inner.contentWindow;
+      const d=inner.contentDocument;
+      if(typeof w.THEORY_COURSES==='undefined')return false;
+      if(d.documentElement.dataset.currentDirectiveHotfix!=='2026-09-27-23')return false;
+      const script=d.createElement('script');script.textContent=PATCH24;d.body.appendChild(script);
+      const ok=d.documentElement.dataset.currentDirectiveHotfix==='2026-09-27-24';
+      status.textContent=ok?'2026.24 재검증패치 적용 완료':'2026.24 적용 상태 확인 필요';
+      if(ok)setTimeout(()=>status.remove(),2200);
+      return ok;
+    }catch(_){return false;}
+  }
+  let tries=0;
+  function retry(){if(injectIntoInner())return;if(++tries<36)setTimeout(retry,250);else status.textContent='2026.24 적용 상태 확인 필요';}
+  base.addEventListener('load',()=>setTimeout(retry,350));
+  setTimeout(retry,1000);
+})();
+</script>
+</body>
+</html>
