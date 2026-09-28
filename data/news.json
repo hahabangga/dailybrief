@@ -1,107 +1,109 @@
 {
   "date": "2026-09-28",
-  "generated_at_utc": "2026-09-28T00:01:43Z",
-  "cutoff_kst": "2026-09-28T09:01:00+09:00",
+  "generated_at_utc": "2026-09-28T07:50:36Z",
+  "cutoff_kst": "2026-09-28T16:50:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-        "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-        "summary": "President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict. Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-        "published": "Sun, 27 Sep 2026 23:58:57 GMT",
-        "published_kst": "2026-09-28T08:58:57+09:00",
+        "title": "CNBC Daily Open: A tale of two truces",
+        "url": "https://www.cnbc.com/2026/09/28/daily-open-iran-war-trump-xi-summit.html",
+        "summary": "Chinese president's state visit to Washington appears to have produced more personal diplomacy than breakthroughs. CNBC Daily Open: A tale of two truces",
+        "published": "Mon, 28 Sep 2026 07:39:36 GMT",
+        "published_kst": "2026-09-28T16:39:36+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "UK police 'investigate Iran link' to alleged bomb threat against base hosting U.S. Air Force",
+        "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+        "summary": "counter-terrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces UK police 'investigate Iran link' to alleged bomb threat against base hosting U.S.",
+        "published": "Mon, 28 Sep 2026 07:30:14 GMT",
+        "published_kst": "2026-09-28T16:30:14+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+        "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+        "summary": "President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year. Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+        "published": "Mon, 28 Sep 2026 07:22:06 GMT",
+        "published_kst": "2026-09-28T16:22:06+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Week Ahead for FX, Bonds : U.S. Jobs Data in Focus -2- - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWkZxZzl6SDFZN09OQXhLVS1Id0VJaUI1YWdXTU9kbE1mQnZSbTVPOGs0dTRrY3FMVU5QX1pqbFN6YTJlV0hJek5vWWkzOGlka1diVTNOallGai1QLThwRTNiakg4bzZ3WEtjem1kb1R4cjduR3kzUHNvOUlZSW55MGd5RVotNmluZTJVMFFuSmMzNmhkLUhzQzV0cE82RFFuOFdz?oc=5",
+        "summary": "Jobs Data in Focus -2- marketscreener.com Week Ahead for FX, Bonds : U.S. Jobs Data in Focus -2- - marketscreener.com",
+        "published": "Mon, 28 Sep 2026 07:15:55 GMT",
+        "published_kst": "2026-09-28T16:15:55+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House Rescinds Millions for International Ed Programs - Inside Higher Ed",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcHhkQnpETm0zMkRrb2JqNlpwRDYyNFBkR2ZIR0U4UzBWSjFNUzFCS2NnOUZwajdjb3dlVXJST0lHQmNiNFNYSm9ZVDRmcUxPckQ4Wm1mOVNpZEVNd3FvT2h2ODlleHRMcG9qcE9iR0VUY0NQc1VDajhwUjB6dlIwWEo5ZFdENVRKdXZBYW1uY05OdmFQY2FGMTQ0LWc3andRWThGVVdMYlNiVE9KeTl4U3h5Vm0?oc=5",
+        "summary": "White House Rescinds Millions for International Ed Programs Inside Higher Ed White House Rescinds Millions for International Ed Programs - Inside Higher Ed",
+        "published": "Mon, 28 Sep 2026 07:02:31 GMT",
+        "published_kst": "2026-09-28T16:02:31+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House’s New Taxpayer-Funded Ad Is A Rehash Of Trump’s 2024 Campaign Promo - forbes.com",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRThUSVBwTm43eU9NU01yRTYyWTFBVjRpUktfaXhNdHg2VExKSE9GS2hILTJGcU1NSXpHMllXV2RoUkkyLS1ybi1ZTmxaV08zUm1HMno3bXNJQzkzNDBfbzYwY0pFeXdrOF9pakhFRDJfVUFHeFV3ZUxDUnhZLWdGZWhyLTBhOUFjYThPYVNsYWREM2tIbUgtOXFfbUpjeWxYdGhhbHZCRGVydDVyakZab2Y0YTFSOHdsTDZ2UUFjaWdlanh0TWphTEJxQQ?oc=5",
+        "summary": "White House’s New Taxpayer-Funded Ad Is A Rehash Of Trump’s 2024 Campaign Promo forbes.com White House’s New Taxpayer-Funded Ad Is A Rehash Of Trump’s 2024 Campaign Promo - forbes.com",
+        "published": "Mon, 28 Sep 2026 05:40:31 GMT",
+        "published_kst": "2026-09-28T14:40:31+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "1%"
+          "2024"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
-        "url": "https://www.cnbc.com/2026/09/27/jim-cramer-apple-microsoft-and-meta-prove-stock-picking-for-individuals-is-not-a-fools-errand.html",
-        "summary": "Apple, Microsoft, and Meta prove stock picking for individuals is not a fool's errand",
-        "published": "Sun, 27 Sep 2026 23:33:21 GMT",
-        "published_kst": "2026-09-28T08:33:21+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "A 7-Day Standoff That Said So Much About Trump and the Media - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM29XcGJEeG1uT1ZSeUQ2NVpGZnFSQlhDU0pROTJsTzFKb3RhWjh6SlM2YW1JcGlqc2FoSS1ZS2N1TU1SSWN0TjFGN2piNXN5TmJQaHBlMm8yQXJxY3V1TUctNklLNy1VQmZWaXhQcU9sdk1HQVAtQ1ZBMWN4QTV2YnVsT1hsdDh0SVE?oc=5",
-        "summary": "A 7-Day Standoff That Said So Much About Trump and the Media The New York Times A 7-Day Standoff That Said So Much About Trump and the Media - The New York Times",
-        "published": "Sun, 27 Sep 2026 22:44:52 GMT",
-        "published_kst": "2026-09-28T07:44:52+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXhWMktSSF9XWkdfZm92cWticXh4YjRrdnBSRDE3UzdlQ2FZUG9MMS1TaGJ4NDNJNHRrY2gydS1oNVlSd29TTWxZdTVESXhCTERWMlJBSjhSeE9scy1reWtLOGJpZUdKLUNpN1dUaFh4bGg4ZlVWVFFIZXJEaW9xbWdueFBKQ2xjZEhqaFEzdFVjeUxheWdsY2JSNE1YLV81Q0FjWU5TaHJ1cnJ1NnBKQXNn?oc=5",
-        "summary": "White House expands taxpayer-paid ad campaign boosting Trump The Washington Post White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post",
-        "published": "Sun, 27 Sep 2026 22:39:30 GMT",
-        "published_kst": "2026-09-28T07:39:30+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Dario Amodei of Anthropic to Dine With Trump at White House - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUVEUkVPXzdxVUc2VXA2LW1nS3hRWVM4U3hwWmptYnRQdEZJbWZjeXZEczJ2NFpmWWMyNDNOSHl0Y0thUTFJd05aZTRRTDRqNFUzSTZMNnFYU08yMzh3Q3JMNF80SlVjR0FnRFJfcFRNN0tTdE1kamFYc2xrd0FVWmZObHdDdmFldnU3MmJBaERob045a190QmNkN1JyZXc?oc=5",
-        "summary": "Dario Amodei of Anthropic to Dine With Trump at White House The New York Times Dario Amodei of Anthropic to Dine With Trump at White House - The New York Times",
-        "published": "Sun, 27 Sep 2026 22:12:24 GMT",
-        "published_kst": "2026-09-28T07:12:24+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-        "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-        "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity. Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-        "published": "Sun, 27 Sep 2026 21:38:59 GMT",
-        "published_kst": "2026-09-28T06:38:59+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "리튬 대안 나트륨 배터리…서방보다 먼저 치고 나간 중국 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6ZlZXOWFmZW5FejJsMGprSWkwVEozLWdjajhTeEZFb1JRYXNBTTRpV2stbTZONkVWRmFqNWdyNWRqOWlHeldmdEJzT29QaWpRU2hiVjE5cTBmUQ?oc=5",
-        "summary": "리튬 대안 나트륨 배터리…서방보다 먼저 치고 나간 중국 한국경제 리튬 대안 나트륨 배터리…서방보다 먼저 치고 나간 중국 - 한국경제",
-        "published": "Sun, 27 Sep 2026 23:58:29 GMT",
-        "published_kst": "2026-09-28T08:58:29+09:00",
+        "title": "\"AI끼리 사고파는 시대…스테이블코인이 '핵심'\" [이스트포인트 : 서울 2026] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzZGw2YkFicFl2MGR2YWk2U1FLcktkek5wZmV0YVJLdTVPVlhhS2poYVVmbFhBdi1nUzk3M01QRjEwLWRBeTYzWVhiMlEwd2FWNV92MnJMMHc5dw?oc=5",
+        "summary": "\"AI끼리 사고파는 시대…스테이블코인이 '핵심'\" [이스트포인트 : 서울 2026] 한국경제 \"AI끼리 사고파는 시대…스테이블코인이 '핵심'\" [이스트포인트 : 서울 2026] - 한국경제",
+        "published": "Mon, 28 Sep 2026 07:30:37 GMT",
+        "published_kst": "2026-09-28T16:30:37+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"구글·배민 대표 나와라\"…국회, 국정감사 증인 채택 의결 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KUkxhejdKbHIzendtazNUVkw5OU4xWUtib09qZEVwWE1FcU9NckRjS0RzNG9JTEtzRV9kc3RJX081U25GRVZNX1dwTDQ3SEF0YUZrZHZPeThvZw?oc=5",
+        "summary": "\"구글·배민 대표 나와라\"…국회, 국정감사 증인 채택 의결 한국경제 \"구글·배민 대표 나와라\"…국회, 국정감사 증인 채택 의결 - 한국경제",
+        "published": "Mon, 28 Sep 2026 07:26:46 GMT",
+        "published_kst": "2026-09-28T16:26:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AI 전력 수요 폭증…중국 차세대 원전에 돈 쏟는다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1URnRZb3FYUGduZnJvSldHbnJRMkZybC1zS0cwMnVtNjJ5cGpsSzFhWlBFRDBpbldIWGhIVkxaLXdORVVFNnMwdndoMVlhVWVqVHB6NUY0c0xFUQ?oc=5",
-        "summary": "AI 전력 수요 폭증…중국 차세대 원전에 돈 쏟는다 한국경제 AI 전력 수요 폭증…중국 차세대 원전에 돈 쏟는다 - 한국경제",
-        "published": "Sun, 27 Sep 2026 23:50:05 GMT",
-        "published_kst": "2026-09-28T08:50:05+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "확 좁혀진 미 장단기 금리차…경기침체 신호 주목 - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0dxclNmWDEweXBJMHpQR0UtWjFwVzdQeXQwSWRDdVlIbWg2SzRDZGxXZUJEeTdxcHpMOVZSWlplbzhuV29KZGlpWHdBYWNfN0thR2t3UWJvRFFJWjhoVlJ3Skt1YmdJWmo1YzgzVGRZY2xlRFRIa2RXSV83TUNjVA?oc=5",
-        "summary": "확 좁혀진 미 장단기 금리차…경기침체 신호 주목 한국경제TV 확 좁혀진 미 장단기 금리차…경기침체 신호 주목 - 한국경제TV",
-        "published": "Sun, 27 Sep 2026 23:49:00 GMT",
-        "published_kst": "2026-09-28T08:49:00+09:00",
+        "title": "휘발유·경유 수출 묶인 사이에…정유업계 ‘효자’된 항공유 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3LXZtR2dCNlF3NVZiU01idmNMMURsUFlsb2FtSjhzcE5vUUhEY05NSFJHSkNvdHdYbkZwa3R1TjN4Tl85WnUweEpnTkRISmR6dEVhUmdRMDctUQ?oc=5",
+        "summary": "휘발유·경유 수출 묶인 사이에…정유업계 ‘효자’된 항공유 한국경제 휘발유·경유 수출 묶인 사이에…정유업계 ‘효자’된 항공유 - 한국경제",
+        "published": "Mon, 28 Sep 2026 07:14:04 GMT",
+        "published_kst": "2026-09-28T16:14:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +112,33 @@
     ],
     "world": [
       {
-        "title": "Critical Minerals Supply Chain Bottlenecks Beyond Mining - Rare Earth Exchanges",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUNsWTRQeUlYaldUVkhocmRTTG1BRVhjZkREem9xSWNnTzlqOGZVMXd5V1d4eUI2LUEzRmIwdmc4MVNXelFEdGd1akVtT1FOTno5X0NRUUwtUFBDdlU5RnMyTTN2anRiWFlaOW0tUUJkb19QQ3g4bERYZGpob1ZxSS1ES2E?oc=5",
-        "summary": "Critical Minerals Supply Chain Bottlenecks Beyond Mining Rare Earth Exchanges Critical Minerals Supply Chain Bottlenecks Beyond Mining - Rare Earth Exchanges",
-        "published": "Sun, 27 Sep 2026 17:19:16 GMT",
-        "published_kst": "2026-09-28T02:19:16+09:00",
+        "title": "Driving Global Trade: Nina Luu on Turning Supply Chain Chaos into Actionable Data - TechBullion",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWWNYZmZhMHdxWi1jNllQQzBXNENJQjhMWWFfcEFKQVRVSmRkNHNvQ3kxM0lNbzlYS1pxZUFLXzRlRkVSV3VFMk44UTFmdWFBWnE4NjRLUGNoWmk2cktiTEFSam9QVk5sb05Rd3NaVDliV1JNR2F5cE9RZjd5OFlMa0JvZ25CVFB4Y19BUnI1cUZGNmFXWFJqQXRRaGpKM1FnN005aHp2dTk?oc=5",
+        "summary": "Driving Global Trade: Nina Luu on Turning Supply Chain Chaos into Actionable Data TechBullion Driving Global Trade: Nina Luu on Turning Supply Chain Chaos into Actionable Data - TechBullion",
+        "published": "Mon, 28 Sep 2026 07:48:58 GMT",
+        "published_kst": "2026-09-28T16:48:58+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain - ndtv.com",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQa2ktOFNPWXg1X2tjMl9yRzV3cXU3b2ZUNzF0dUVzRG5aYjhnZ2cwam10NTBMWnFSaWs4dEZFUFpUVlFNbG5MY2RrX21GU3VsMzFETjVqdUlTSDNxUjZuZjIyNDZqRkx0ZjFWb2xPOVpNUUJJMHZkZnNtam1GdjlNanhGcW9lTThUbVU2S3p2MWVUMEJDQkZ4X3RyUTZteHVNRHZ6YmhsdllNNDJzV0s3S0JUSF91eXpVOG9HaTMyQ3BZZnBuWS1NZ1plaEdJQXdwSWo4TnpNZkotS0MzTXfSAeYBQVVfeXFMT0JYTS1nUFdnbmhpenNYVkk3NkhPU0tGYXNXb3hrRUhjTmhJVUZIX1ozNGVxaGNQOVJMY2IyR25UWV9ocUcwTVhJbXcySFVrY2tGbzhITmFBZ04xczlCZnpjaGNBV2ZtTjNPSlhtYUZMWmdfRkdQREE5SFZTUGUwMGd5dWpOMzJVLUhwWWFqN0FRYTJVVTV1SXFXalhPWk9yMnF0ZDdvSTRYZ3BEaXhTZjM2ajdENWxIbnI2U2pUcmxsUVVnLTJCdW1aSUhvU3lCdW92ZVh0aE0tZ3JDQmc3YjBWRXQ1bWc?oc=5",
-        "summary": "Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain ndtv.com Swedish Defence Firm SAAB Wants Indian Suppliers As Part Of Global Supply Chain - ndtv.com",
-        "published": "Sun, 27 Sep 2026 12:15:45 GMT",
-        "published_kst": "2026-09-27T21:15:45+09:00",
+        "title": "Accenture and osapiens Make DS Smith’s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYjQ0Y1dMRVRUVmFYUE9wZ0htUFRNWTlrRDBpbWhBTWJ0U2RBZHZJZkkwYTNaTXFUQU84RkZEY2EwN0hxOTVVUW0ySjMxZlRHMHJ5UEtpb0NkWWpTcG5jbEoxcEM1ZjNmcWNQZDN5ZGotNm05RDVES0FWdk1za2JkbjZaSWxVQXh2WE1sb09ZMS1MWXRFMWVGN0Y1RkRzMWplcGg1N3AzUFdjMTBscTF1Nk5BR2xlN2JxZ2M5M3Z2cVdmek1LNEVpTl9MSFVxX294VWRhQkFJTEZibWJLVVNXNDd0TnVxZDhfX213SGZzazU3LTJsdkZYUTk1czNuQl9Pajdz?oc=5",
+        "summary": "Accenture and osapiens Make DS Smith’s Global Supply Chain More Transparent and Ready for Evolving EU Regulation Morningstar Accenture and osapiens Make DS Smith’s Global Supply Chain More Transparent and Ready for Evolving EU Regulation - Morningstar",
+        "published": "Mon, 28 Sep 2026 07:11:04 GMT",
+        "published_kst": "2026-09-28T16:11:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWVzV1dCWUFLbHJZcHZ0ZE9kQWE1VHo0NDRET0Yxak1xM2EtT0JDTlZLcmdtZUZNMy1SUjMwSDBjNzlURkNXT3o2Q2ZWRVBFbXRfLS0tcVlZQ0RxbWdiLUhIcTFqRFcyVnh1TC1VRXpybG5YbkpieVhiRUo5UlRVanNn0gGWAUFVX3lxTE9KQ2VXOFBCZmpZZkJnLUh5cElwaVVfZVVQY0g2ZjM0SzQxUDRwenY2bGUyb3RKRHJSQXhVbXRUSjRsSDRJY29xX3RRTktwd1VINGFEd0hETTdvM0xwSkQ1Rnh3VEt0ang1WWJlT3d0MEVHM0E2QnA5Z2dJR0xBRktGSXp2d1RBbTNOMDVjeFlhM0FHNkdtdw?oc=5",
-        "summary": "HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ Chosunbiz HS Hyosung builds Mexico hub to expand North America supply chain - CHOSUNBIZ - Chosunbiz",
-        "published": "Sun, 27 Sep 2026 08:03:00 GMT",
-        "published_kst": "2026-09-27T17:03:00+09:00",
+        "title": "AI doomsday scenarios that researchers say could put humanity at risk - 1news.co.nz",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2JlUmt3NVp5SWNRdlV5Q0N4b0hlUC1ZMm1sUDZ4ZDB1SlA3MHRZRXVaMXBCZXJLY3B5Ulh6YlRsRXRROGxLN3JLejQxUmJvSzY1WWNOVENsRExHSkcwUVFSMzU2VWNEalF4Wm9JV3hxc2hDeFZBZkdWVHNlVkZTVkxDTkpPS2JXZFBnOS02WFljQjFyZThMX3lXZHFWQmN1Y0pDX3RQRTc?oc=5",
+        "summary": "AI doomsday scenarios that researchers say could put humanity at risk 1news.co.nz AI doomsday scenarios that researchers say could put humanity at risk - 1news.co.nz",
+        "published": "Mon, 28 Sep 2026 05:08:02 GMT",
+        "published_kst": "2026-09-28T14:08:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict. Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait / 리튬 대안 나트륨 배터리…서방보다 먼저 치고 나간 중국 한국경제 리튬 대안 나트륨 배터리…서방보다 먼저 치고 나간 중국 - 한국경제 / Critical Minerals Supply Chain Bottlenecks Beyond Mining Rare Earth Exchanges Critical Minerals Supply Chain Bottlenecks Beyond Mining - Rare Earth Exchanges",
+  "wrap_summary": "Chinese president's state visit to Washington appears to have produced more personal diplomacy than breakthroughs. CNBC Daily Open: A tale of two truces / \"AI끼리 사고파는 시대…스테이블코인이 '핵심'\" [이스트포인트 : 서울 2026] 한국경제 \"AI끼리 사고파는 시대…스테이블코인이 '핵심'\" [이스트포인트 : 서울 2026] - 한국경제 / Driving Global Trade: Nina Luu on Turning Supply Chain Chaos into Actionable Data TechBullion Driving Global Trade: Nina Luu on Turning Supply Chain Chaos into Actionable Data - TechBullion",
   "invest_summary": ""
 }
