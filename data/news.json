@@ -1,75 +1,73 @@
 {
   "date": "2026-09-29",
-  "generated_at_utc": "2026-09-28T20:00:48Z",
-  "cutoff_kst": "2026-09-29T05:00:00+09:00",
+  "generated_at_utc": "2026-09-29T01:18:34Z",
+  "cutoff_kst": "2026-09-29T10:18:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-        "url": "https://www.cnbc.com/2026/09/28/trump-ai-tech-lunch.html",
-        "summary": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models. Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
-        "published": "Mon, 28 Sep 2026 19:49:50 GMT",
-        "published_kst": "2026-09-29T04:49:50+09:00",
+        "title": "Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
+        "url": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+        "summary": "Luckin is weighing a push into Middle East markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions. Luckin Coffee, flush with investor cash, weighs entry into Middle East markets",
+        "published": "Tue, 29 Sep 2026 01:10:41 GMT",
+        "published_kst": "2026-09-29T10:10:41+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
-        "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
-        "summary": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft. Boeing 737 Max 10 certification delayed by software issue, FAA says",
-        "published": "Mon, 28 Sep 2026 19:46:42 GMT",
-        "published_kst": "2026-09-29T04:46:42+09:00",
+        "title": "RFK Jr.’s Push to Revamp American Food Runs Into White House Resistance - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3lCRE0taVltUTVtalZZdE1LN19vX2lSWUhJaDl4YnZOOG1Da29sUkczY1gwVDVrODd5NDJFUWdlSmZaajJ3RlVVTTdfekZLbFpWdjlCdWRUTGc4Si1QSVFKaHJsYnAxclg5dnNrTlZSTXNpb2g1cmQ2M1Q4R1FJSENaTTlENkNZVWRqR2tVTkZhX0tjc19Na1p0Y00wVk9KeFZnbUxPZFFBeHY4dXYxV2kyQUs5UQ?oc=5",
+        "summary": "RFK Jr.’s Push to Revamp American Food Runs Into White House Resistance WSJ RFK Jr.’s Push to Revamp American Food Runs Into White House Resistance - WSJ",
+        "published": "Tue, 29 Sep 2026 01:00:00 GMT",
+        "published_kst": "2026-09-29T10:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "3 Defensive US Stocks For Higher Inflation and Rate Pressure - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYjhnM0pBeEhfUHo4QUNNaWM2Mk9yMi0wZS11aUxmYWN0OGk0eXZ4eExNYjh3c0RzN3E4aFVsbGY2Mjl1bjZxNmhWcVFSakhINkdabUhxdkI1UU8yOGRZWmhLa3J4ZjVYMnBucm96REpYVWVybkpMUGhFSko1M2g1RTAwMFFLWWpkdFRBM2szZVg1OVVabTNGVQ?oc=5",
+        "summary": "3 Defensive US Stocks For Higher Inflation and Rate Pressure Yahoo Finance 3 Defensive US Stocks For Higher Inflation and Rate Pressure - Yahoo Finance",
+        "published": "Tue, 29 Sep 2026 00:10:00 GMT",
+        "published_kst": "2026-09-29T09:10:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+        "url": "https://www.cnbc.com/2026/09/29/samsung-investment-nvidia-kkr-ai-helix-digital.html",
+        "summary": "Samsung Electronics and its five affiliates are investing $1 billion in KKR-launched Helix as the group expands its push into global AI infrastructure. Samsung to inject $1 billion into Nvidia- and KKR-backed AI infrastructure firm",
+        "published": "Tue, 29 Sep 2026 00:00:10 GMT",
+        "published_kst": "2026-09-29T09:00:10+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House weighs red-dyed diesel tax relief to lower fuel prices - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGVaUEhyZkFiZjllQjF6QzRaV2ZmVXk4TVdaUnJQNzg0VEhUZFFleC1WVHByOE16QV8wb3lucjNybVdCM2sxU1NWMTJTamV0MENoMVktQ0h0d0Y1VlpDRmhfbVBybng4dFhDTHN5WWQxZDV2V2lsWUtRUllsci1FQzk0S0cteTQxNlo1WU90UGg5dG4ydmpid3BPSjNGMlNQYl9xYWhMMFJjeFFRMUh6OHhncHhybmM?oc=5",
-        "summary": "White House weighs red-dyed diesel tax relief to lower fuel prices Reuters White House weighs red-dyed diesel tax relief to lower fuel prices - Reuters",
-        "published": "Mon, 28 Sep 2026 19:44:55 GMT",
-        "published_kst": "2026-09-29T04:44:55+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump unveils $15 billion planned Iowa steel project - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzlRa1o0d2xQUGs4MFBWWmNOVUlwYUUtbjBLTFE4Si10R0dodU1fY2QtVGxBaDRhVkx3d1RLMGhhbm9VbDM1VmhzdFU4cDFPclM3QjZKSlNUUDZpODNTTWZLRWVjeXhqZXR6SlFfQWFLTmlEbTVOWkd4REJYazhXTFFVOXlwTW5jYXV0c3dUVTFmUFdFRWVva2ZNNA?oc=5",
-        "summary": "Trump unveils $15 billion planned Iowa steel project Reuters Trump unveils $15 billion planned Iowa steel project - Reuters",
-        "published": "Mon, 28 Sep 2026 19:38:17 GMT",
-        "published_kst": "2026-09-29T04:38:17+09:00",
-        "domain": "google.com",
         "key_figures": [
-          "$15"
+          "$1"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-        "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-        "summary": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election. Trump announces plan for $15 billion steel plant, would be largest in U.S.",
-        "published": "Mon, 28 Sep 2026 19:37:50 GMT",
-        "published_kst": "2026-09-29T04:37:50+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$15"
-        ],
+        "title": "Trump, Johnson to meet with AI execs at White House amid growing debate over safety guardrails - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXU1eXlFVDhsYlA5SVdRYVo2eXlGaXl1RHhwMXo3bUk2cUVrNTNhVzdIcGpIYVl0c0Q1WmZScXpMekNOUkpoNmFJVy01NGRmNTZLRDNhdDlPdV9ubjVhYmFCNENydE5HMTA4NXdvcURWenRqVUdYMEt3RTZwcUVSZnZmLWZ6VUtFelE?oc=5",
+        "summary": "Trump, Johnson to meet with AI execs at White House amid growing debate over safety guardrails CBS News Trump, Johnson to meet with AI execs at White House amid growing debate over safety guardrails - CBS News",
+        "published": "Mon, 28 Sep 2026 23:43:00 GMT",
+        "published_kst": "2026-09-29T08:43:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump announces plans for largest steel plant in U.S. history to be built in Iowa - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yYjlIMHdrVERqc2FGTi1DVWZ4U3VkQ0x0b2JnMTVsR0tFZ3J2bHNFRUdGZGpsc0pwR1dzaVlYVWxXUWd4UXljNjZZRE9tR1NmeWpGYS1kNi1vX0Fnc0I5WS1R?oc=5",
-        "summary": "history to be built in Iowa CBS News Trump announces plans for largest steel plant in U.S. Trump announces plans for largest steel plant in U.S.",
-        "published": "Mon, 28 Sep 2026 18:43:33 GMT",
-        "published_kst": "2026-09-29T03:43:33+09:00",
-        "domain": "google.com",
+        "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+        "url": "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+        "summary": "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development. OpenAI abandons plan to release upcoming model as safety concerns escalate",
+        "published": "Mon, 28 Sep 2026 23:19:46 GMT",
+        "published_kst": "2026-09-29T08:19:46+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,33 +75,33 @@
     ],
     "kr": [
       {
-        "title": "반도체는 날아가는데, 경제 체력은 왜 떨어지나 [아침을 열며] - 한국일보",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwTUE1YXNWZG44SjBsSEMyb1VtVGxMcWNiYm1QTktLZzQxVV9KMXJyVzBTR2RCdWNsQ0s1OWgyY0M4RFF2anJHcURCYTQ5OGdsTHA2U3YwR2JDZ3dfa1BOVzVqWjd5WlNFeW1LZ3l30gFzQVVfeXFMTkstS0ZYQms1VjViMzJLdldwbl9IU2FlNDR2SXYtOWpucGxTZWEtZGtPSmUxaEd5M2NxVkE1QVlxWktNYmcyQzEyQXJGSVRzaExrZHp1OF8yX1U3d0JXRFdLTWNUWFgtVElfZ1BSSVdqWHlPdw?oc=5",
-        "summary": "반도체는 날아가는데, 경제 체력은 왜 떨어지나 [아침을 열며] 한국일보 반도체는 날아가는데, 경제 체력은 왜 떨어지나 [아침을 열며] - 한국일보",
-        "published": "Mon, 28 Sep 2026 15:00:00 GMT",
-        "published_kst": "2026-09-29T00:00:00+09:00",
+        "title": "'거장' 미샤 마이스키 “나는 세상에서 제일 운 좋은 첼리스트” - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoZDllZ19sdXFsX0NEVEc2NUhVLVNqUUdOcWg2bUpyQnZicXdwT3BfR1MyZ01DWmM0YW9kRFA5NVFuMzNOTlJfX21hdlZhOU5nUEZ5ZGIxR09wUQ?oc=5",
+        "summary": "'거장' 미샤 마이스키 “나는 세상에서 제일 운 좋은 첼리스트” 한국경제 '거장' 미샤 마이스키 “나는 세상에서 제일 운 좋은 첼리스트” - 한국경제",
+        "published": "Tue, 29 Sep 2026 01:10:49 GMT",
+        "published_kst": "2026-09-29T10:10:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AI 증시, 체력 시험 주간…뮤즈AI가 뱅크런 촉발?[박신영의 개장전 요것만] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UYXZsZ05INkhZZ0ZuVG01elJkUFZsNmJMblZmZGh4eE84Tm9nd2hmb0J0bGhnclJ0T1JMbklyN0dkbUo1dFgyZU11SFc4Y0VtcFRLdkNsUEgwdw?oc=5",
-        "summary": "AI 증시, 체력 시험 주간…뮤즈AI가 뱅크런 촉발?[박신영의 개장전 요것만] 한국경제 AI 증시, 체력 시험 주간…뮤즈AI가 뱅크런 촉발?[박신영의 개장전 요것만] - 한국경제",
-        "published": "Mon, 28 Sep 2026 14:51:02 GMT",
-        "published_kst": "2026-09-28T23:51:02+09:00",
+        "title": "'빈손 회담'에 中이 환호하는 이유는 [차이나 워치] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMERVRHpybGtUZHVhNm8wQlY5WHg1LWFnbDVUeVFuaEVfa2lYTEZZZjlUbFlyN2FRVmZURTkzWlpPcDFFa1YxeUNaVTR0am5iTWM2UC1pZjhqQQ?oc=5",
+        "summary": "'빈손 회담'에 中이 환호하는 이유는 [차이나 워치] 한국경제 '빈손 회담'에 中이 환호하는 이유는 [차이나 워치] - 한국경제",
+        "published": "Tue, 29 Sep 2026 01:04:01 GMT",
+        "published_kst": "2026-09-29T10:04:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "이상로 - 텐텐배거 투자공식 시즌2 - wowtv.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd2FNRGxEWURzejBIbnE3QjlOTzNJeHQxQ0pteFlnXzFTaUh2eEROeXdVT3NKd3pZdWxqVFdrSWVFa3AyS01CUURYLUh5dWlPR2pjbnVWaTRwLTZZTU1Qd0xGVy1lOFRGNUV2eXJjQUVVZlVSVE5hcXB3OV9IWFZMWFEyd2ViMWZub1FRdUNJcHJSak13YWYwNllEbnNTdm94bnhj?oc=5",
-        "summary": "이상로 - 텐텐배거 투자공식 시즌2 wowtv.co.kr 이상로 - 텐텐배거 투자공식 시즌2 - wowtv.co.kr",
-        "published": "Mon, 28 Sep 2026 14:05:57 GMT",
-        "published_kst": "2026-09-28T23:05:57+09:00",
+        "title": "SK하이닉스, TSMC 행사서 '차세대 메모리' 솔루션 공개 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DcE5Td0NZRnNzS1dibTJ3aTBvQnozWUZCMTNEd2otNGJGbEhpR3poWjBYTzZUeGtvSWYydVNDQjFGTUMyNGdqcHZBeWJOLXo1bkFWUDhuaVdkZw?oc=5",
+        "summary": "SK하이닉스, TSMC 행사서 '차세대 메모리' 솔루션 공개 한국경제 SK하이닉스, TSMC 행사서 '차세대 메모리' 솔루션 공개 - 한국경제",
+        "published": "Tue, 29 Sep 2026 00:53:30 GMT",
+        "published_kst": "2026-09-29T09:53:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,42 +110,40 @@
     ],
     "world": [
       {
-        "title": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzQ3aEVfbHBIQXpubzhTUE9YSXVvUTA1XzE1OXlUZXB0NDM1V05DODd5YUlVbzVCbWlTNHd1ZTJreTJ6WWxMYURoanlMcndjS2RhVVczSVJrV1NUVjNsU3BrRHVpVkIxdm5hNDRrSlJ1M09LWU9jOUNzQXFMWkFrYlFLWk85MW9XckpTb1NVMUtpVDFfWlBEZ1otMC1Bd2d0LWxaeEVRb2tvdXdRSUlabDU1bFBfZw?oc=5",
-        "summary": "Crude Oil round-trips between a rejected Iran plan and a sanctions offer FXStreet Crude Oil round-trips between a rejected Iran plan and a sanctions offer - FXStreet",
-        "published": "Mon, 28 Sep 2026 17:37:50 GMT",
-        "published_kst": "2026-09-29T02:37:50+09:00",
+        "title": "Building the Institutional Architecture for Australia–Japan Supply Chain Security - Australian Institute of International Affairs",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUkx1VV83X3k4WmNRTHpRcmM3OUpBdUJTZEdvaTlPZ3haUkEyRlk4ajBpQkhaTzhXQ2tYSG9URW9nSExKOGhKMUFNeTVfTkxFbndZaWluQUFucG9HMWI0eXFqT3FKVkRSaXNuTlpnMFM4MFhmdy1GR25IbUV6QjJRUVY4OTlNYzZvdVRmMkpkS0lLRkNfemE5dW1IamtaVjVhbjZzYjRLbTg5RkFwb002OHpZMF9CT2hVQlRjWVcwS2ZOQUo1Wm5lVk1vdlF2OHFRNm1tNkhLYw?oc=5",
+        "summary": "Building the Institutional Architecture for Australia–Japan Supply Chain Security Australian Institute of International Affairs Building the Institutional Architecture for Australia–Japan Supply Chain Security - Australian Institute of International Affairs",
+        "published": "Tue, 29 Sep 2026 01:06:10 GMT",
+        "published_kst": "2026-09-29T10:06:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "DHL: Agentic AI Reshapes Supply Chains and Workforce - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNXpNNklvODdlQmpobkY3QXBjRkZFVkt0d2dNbmtYd25WU0RvOWlQUVB2NHJHZ3BrQjFsYW1GQTFyLVJ0YlpQOU9vc0I2NjQyQmN4ZnRMbUdMaUZDZWFfQnU4akw4ano0ZTBEbi1ZV1V0VUVfbDBoOHJtQzBoUmhtbkF3alBjUkJiTWdWRUdjWW4?oc=5",
-        "summary": "DHL: Agentic AI Reshapes Supply Chains and Workforce Supply Chain Digital Magazine DHL: Agentic AI Reshapes Supply Chains and Workforce - Supply Chain Digital Magazine",
-        "published": "Mon, 28 Sep 2026 16:28:52 GMT",
-        "published_kst": "2026-09-29T01:28:52+09:00",
+        "title": "Supply-Chain Visibility Needs Leadership, Not Just Tech Tools - IndustryWeek",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMkhuQXp6eDFaY283c3hzNnpkd1dqRU9wS3BPZDhrNXplcVZQZ2kyRjJQTEhCRGdLUEJZNnRteWtzeTJaT1NDd2laeGhwZ1JDSFQwR210aS05alFBUnppbE5WZUxGa29raEpNcElfMGg5R09ueU5KVlN3LUl6WHNOTGlqU3hjS1BsNnRPUU96MnJUWTVrLWpEdl9DWUktUXRMbmlOLVV6U1JYTnVKb05tVDBfU3RHYUROWk9aM1ZCQXM5VkhDeU5LY21GN1hZZ1BENTR4aTdFVlhkZw?oc=5",
+        "summary": "Supply-Chain Visibility Needs Leadership, Not Just Tech Tools IndustryWeek Supply-Chain Visibility Needs Leadership, Not Just Tech Tools - IndustryWeek",
+        "published": "Mon, 28 Sep 2026 21:27:04 GMT",
+        "published_kst": "2026-09-29T06:27:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "John Galt Solutions to Present Interactive Session on AI-Driven Supply Chain Planning at Reuters Supply Chain Europe 2026 - ACCESS Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdDU5VUs0ZmRwZUZUYXhKTWZjUmlSSWNIMDR1cTJfVUNwZWlvSVN5N3o0a0gzVnVBOFk0bEhFdzlsd0drRXZkclJyanczRG9JWldhUF9GOUVZR2dndnB1N096X0w0XzVncEczeGs0TVJfT2pQQS1JT3pwWFpxRFdBUDRrXzBBNVphaUg1b3JSaUtwSi1vZ1BFd0dhczhfZE1MSUM1NWlENldGUGpxc3pWV0YxNkRGNUYtSTZndzNyZjV3TVpzMjhfNndtdGpRRlNiUW0yN0JvX2dxelVVOE5GbUd5VUU?oc=5",
-        "summary": "John Galt Solutions to Present Interactive Session on AI-Driven Supply Chain Planning at Reuters Supply Chain Europe 2026 ACCESS Newswire John Galt Solutions to Present Interactive Session on AI-Driven Supply Chain Planning at Reuters Supply Chain Europe 2026 - ACCESS Newswire",
-        "published": "Mon, 28 Sep 2026 16:10:33 GMT",
-        "published_kst": "2026-09-29T01:10:33+09:00",
+        "title": "CPTPP offers opportunities for supply-chain diversification amid global trade shifts - Vietnam+ (VietnamPlus)",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM1U2bmt4U1VXNVhFUXR3c01vRmppU0UydmR3eXlpUUJlR1ZqVnZSRVZPeC1SRUxQcDg3d3pKQ25MYUNwczRTT0NpV2d2SC1BdVFOZ1NNN0VlLV9HR0NpeWJGWDBOYUZuUkVZZ3NoeFVyOEhRWTdzdGVsTzh4N2tvWEVJNlZrLTZjV21wVnhJT3A2dXNVQml2U1pjUHhDM3lWQmhxNEt5UG1IZnYzbEJCUlU3bnlxM0NiQTFJWFpHVW9jVTQ?oc=5",
+        "summary": "CPTPP offers opportunities for supply-chain diversification amid global trade shifts Vietnam+ (VietnamPlus) CPTPP offers opportunities for supply-chain diversification amid global trade shifts - Vietnam+ (VietnamPlus)",
+        "published": "Mon, 28 Sep 2026 20:21:16 GMT",
+        "published_kst": "2026-09-29T05:21:16+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models. Zuckerberg, Amodei among tech executives set to meet Trump Tuesday / 반도체는 날아가는데, 경제 체력은 왜 떨어지나 [아침을 열며] 한국일보 반도체는 날아가는데, 경제 체력은 왜 떨어지나 [아침을 열며] - 한국일보 / Crude Oil round-trips between a rejected Iran plan and a sanctions offer FXStreet Crude Oil round-trips between a rejected Iran plan and a sanctions offer - FXStreet",
+  "wrap_summary": "Luckin is weighing a push into Middle East markets while deepening its foothold in Southeast Asia, with backing from sovereign wealth funds in both regions. Luckin Coffee, flush with investor cash, weighs entry into Middle East markets / '거장' 미샤 마이스키 “나는 세상에서 제일 운 좋은 첼리스트” 한국경제 '거장' 미샤 마이스키 “나는 세상에서 제일 운 좋은 첼리스트” - 한국경제 / Building the Institutional Architecture for Australia–Japan Supply Chain Security Australian Institute of International Affairs Building the Institutional Architecture for Australia–Japan Supply Chain Security - Australian Institute of International Affairs",
   "invest_summary": ""
 }
