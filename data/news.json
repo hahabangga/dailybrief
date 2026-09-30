@@ -1,70 +1,72 @@
 {
   "date": "2026-09-30",
-  "generated_at_utc": "2026-09-29T18:28:48Z",
-  "cutoff_kst": "2026-09-30T03:28:00+09:00",
+  "generated_at_utc": "2026-09-30T00:47:22Z",
+  "cutoff_kst": "2026-09-30T09:47:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
-        "url": "https://www.cnbc.com/2026/09/29/disney-layoffs-josh-damaro.html",
-        "summary": "Disney warned about the most recent round of cuts in its August earnings report as one of the levers it was evaluating to reduce costs at the company. Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro",
-        "published": "Tue, 29 Sep 2026 18:21:27 GMT",
-        "published_kst": "2026-09-30T03:21:27+09:00",
+        "title": "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
+        "url": "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
+        "summary": "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability. Hedge funds hold a record share of the $30 trillion Treasury market.",
+        "published": "Wed, 30 Sep 2026 00:19:09 GMT",
+        "published_kst": "2026-09-30T09:19:09+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "$30"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Property Play: Homeowners are sitting on record equity – and not using it",
-        "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
-        "summary": "homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. Property Play: Homeowners are sitting on record equity – and not using it",
-        "published": "Tue, 29 Sep 2026 18:19:31 GMT",
-        "published_kst": "2026-09-30T03:19:31+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. inflation, Iran war boosting Scottsdale’s revenue, budget director says - yourvalley.net",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaklBWGRnRXgtTUxQd0ZqTng5NWVwREhoN3Vsd0EzZ215U2tRNzItS0xFZVlTdHJlVXAydEZRZE5jZlM2eWxsVDBpMTJiVUg1STh2S3R3d0t3UkZqc2FfbENaNEM1NjlQOG1NU3hxcWxKenNldzB4clVuSVVZeGNjR3Jkd2FPck1SclV1Z2E4ajl0N3V0SnhfNkJzVDAzU21NZnB1eGttZ3lyQ3BBNktsdWVwVQ?oc=5",
-        "summary": "inflation, Iran war boosting Scottsdale’s revenue, budget director says yourvalley.net U.S.",
-        "published": "Tue, 29 Sep 2026 18:08:00 GMT",
-        "published_kst": "2026-09-30T03:08:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb18zQ09KUDBEWE84aWZOQlFjZm5tTFNVSWR2dTZQY1REVG1uZnRZWlhYR1pCeDBvU0VNMFFZRmNvcjlZOFVUZzNrMERlLU0zZ3JtY1k1RFFWM2c4VENzcGYzYWtJTTdWNExrMjk0OU9tbGhCaElYcWptaDEtQWp1bVlwalk2R0hCNFV6dVRwRm0yVHZOaHJ5SU5NNmptRV9vQ18zX3dhN3MzUHJseWhzdHA5bDA?oc=5",
-        "summary": "Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs FXStreet Forex Today: Focus shifts to US PCE, ADP, inflation in OZ and Chinese PMIs - FXStreet",
-        "published": "Tue, 29 Sep 2026 18:06:59 GMT",
-        "published_kst": "2026-09-30T03:06:59+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump launches government chatbot, urging a wary public not to fear AI - The Washington Post",
+        "title": "Trump urges public to trust industry self-policing of AI technology - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3RubTFVMl8zTXl3UHFxNnoxOU5BSTVCSHFxSkZINzNJNExKbmo1RmVoSS1yeVBqeXk5ODQtc1EzOFo1S042NzZGX2hocDcxUlcyRl95b1dnWUNtTWU4eF90cXdNeUJEdGVfbmxzWjkwd0NtNl9SREJRSlpGWWsxQWdtNENRcmNURFBCRWl4RGxLcVJPM0lydWxiajl0bk9KT0YwMEs0TU1iMVpkcUxJLXVibw?oc=5",
-        "summary": "Trump launches government chatbot, urging a wary public not to fear AI The Washington Post Trump launches government chatbot, urging a wary public not to fear AI - The Washington Post",
-        "published": "Tue, 29 Sep 2026 18:04:27 GMT",
-        "published_kst": "2026-09-30T03:04:27+09:00",
+        "summary": "Trump urges public to trust industry self-policing of AI technology The Washington Post Trump urges public to trust industry self-policing of AI technology - The Washington Post",
+        "published": "Wed, 30 Sep 2026 00:04:28 GMT",
+        "published_kst": "2026-09-30T09:04:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
-        "url": "https://www.cnbc.com/2026/09/29/boeing-max-delay-alaska-airlines-ceo.html",
-        "summary": "Alaska Airlines CEO downplayed concerns about a new delay to the Boeing Max 10's certification. Alaska Airlines CEO 'not overly concerned' about new Boeing Max 10 delay",
-        "published": "Tue, 29 Sep 2026 18:03:56 GMT",
-        "published_kst": "2026-09-30T03:03:56+09:00",
+        "title": "At A.I. Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMxeU5wLWV6cXdTcHk5T0k2d0VDbnRoT3BSNUFULW9DYmh1VTdSUy1aU3k5cksta1dXTV9DU0Joa2Rib19WLWV4alc5OW5DYkU0d2lrcUVKR0I0NGpkOVRvSVkyR1hXU2JybG1DUmc3emt3ajJmcDB2WlFtcUpBd0V4Q3NJU1lma2c?oc=5",
+        "summary": "Event, Trump Asks Meta, OpenAI and Microsoft to Make Safety Decisions Themselves The New York Times At A.I.",
+        "published": "Tue, 29 Sep 2026 23:20:43 GMT",
+        "published_kst": "2026-09-30T08:20:43+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House unveils ‘super intelligence’ executive order and industry accord - Nextgov/FCW",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOREh3eFJNT2NXZE5tU213TFRNc2FSSkw1U21TMEM5VEthVVZRb2xaeTlnMG1oRVN4WTQwWkdpcm10WnNmSjJzZ2kzSE8zejg2TEpLUlFacWMyYUZ2SmJHb0dEOGZTcVdsNkRzZ2l4dFdsVC1UcVZJVFA5MTRleS1zcnR0Smh6eU1SbEtaVlJIcDRqTGNSbzJaTnpPMXlqYjBqLVRNS2Ztdnp4OXIwRmhmWmNEVjJINXNlRUNjdmlEUXU4ZlZSVUgwNXJtcHd4YkVJQnFtNG5HYnkybi0wdkNaaWluM3Z2S0pvVkl5dG1yWU92Q2s?oc=5",
+        "summary": "White House unveils ‘super intelligence’ executive order and industry accord Nextgov/FCW White House unveils ‘super intelligence’ executive order and industry accord - Nextgov/FCW",
+        "published": "Tue, 29 Sep 2026 23:20:00 GMT",
+        "published_kst": "2026-09-30T08:20:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+        "url": "https://www.cnbc.com/2026/09/29/trump-ai-super-intelligence.html",
+        "summary": "Trump shrugged when asked if he is concerned that his support for AI and data centers could hurt Republicans in the upcoming midterm election. Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue",
+        "published": "Tue, 29 Sep 2026 22:42:35 GMT",
+        "published_kst": "2026-09-30T07:42:35+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gina Raimondo thinks AI ultimately will create jobs. It's the initial mass layoffs wave that worries her",
+        "url": "https://www.cnbc.com/2026/09/29/ai-job-losses-layoffs.html",
+        "summary": "No one knows what AI will mean for jobs long-term, but the layoffs are likely to hit first without proper planning, says former US Commerce Sec. Gina Raimondo thinks AI ultimately will create jobs.",
+        "published": "Tue, 29 Sep 2026 22:40:20 GMT",
+        "published_kst": "2026-09-30T07:40:20+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,73 +75,68 @@
     ],
     "kr": [
       {
-        "title": "DB그룹 \"보유 부지에 데이터센터 착공 검토\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84N2dkMlE0V2k4RFBVOEktOGg1WHp0eW1SNVN3VUFaQWZqSDNrbi1jVGNPZXF0QXNrbHhjTmFFUTNTcUR1Z2dleUJkQl9ZMXh3TG5nRzBYZ2dwZw?oc=5",
-        "summary": "DB그룹 \"보유 부지에 데이터센터 착공 검토\" 한국경제 DB그룹 \"보유 부지에 데이터센터 착공 검토\" - 한국경제",
-        "published": "Tue, 29 Sep 2026 16:34:00 GMT",
-        "published_kst": "2026-09-30T01:34:00+09:00",
+        "title": "유엔사 \"DMZ 지뢰 폭발 사고, 정전협정 위반 판단\" - 한국일보",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TazR0Sy1WSUFSLUpjWlUydENJN2ZNQU1lUFdqaTRKQXh2Uy1DUDA1OGpLZDRZWEI4X25ENk8tNW90YlM2YUIxUG4ybHNyNnN1SmVLRW5MbVZ0cGIta2dyazBNVl9rZzZqa2NhRVd30gFzQVVfeXFMUEpiWTZnTk1mSHBibFVMSlpiZmN0eXNQUDNtVF9jYng0WE8tTkZTRVJ5RWJweUZ1SWFNTnU4bnEwLTNoOUNuVU94RU9sbmNGNW5PWGg2WU5kRXBEOGxrZkIxTGhtME1oSzl6clEwUEdDblM0Yw?oc=5",
+        "summary": "유엔사 \"DMZ 지뢰 폭발 사고, 정전협정 위반 판단\" 한국일보 유엔사 \"DMZ 지뢰 폭발 사고, 정전협정 위반 판단\" - 한국일보",
+        "published": "Wed, 30 Sep 2026 00:35:00 GMT",
+        "published_kst": "2026-09-30T09:35:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "美 30년물국채 수익률 5.609%…2002년 이후 최고치 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jOHR3Q0pMdGc5RUVsakdFaW8zYkFrVVI0eDdneHRCakh3OFY5TUcyZS02Q3NjWk1nWS1jSXZhSFk5MGFNRXZBVm5IaUJ5TEdIYXJ3WDZveXZBdw?oc=5",
-        "summary": "美 30년물국채 수익률 5.609%…2002년 이후 최고치 한국경제 美 30년물국채 수익률 5.609%…2002년 이후 최고치 - 한국경제",
-        "published": "Tue, 29 Sep 2026 16:05:38 GMT",
-        "published_kst": "2026-09-30T01:05:38+09:00",
+        "title": "[단독] LS전선, 경북 구미에 희토류 영구자석 공장 짓는다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oNUJvOExvU2NIUVNNdndhdlB3TGhZd3V4OTRQOUtOc1MwV1p2RUdMbG1MY21MZkxVYnlWY2o3dk5ISEN4Q25kWUtCR0F6RmdCWVROcDU2elFudw?oc=5",
+        "summary": "[단독] LS전선, 경북 구미에 희토류 영구자석 공장 짓는다 한국경제 [단독] LS전선, 경북 구미에 희토류 영구자석 공장 짓는다 - 한국경제",
+        "published": "Wed, 30 Sep 2026 00:31:05 GMT",
+        "published_kst": "2026-09-30T09:31:05+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "5.609%",
-          "2002"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "마이크론 순익 940% 폭증 예상…메모리 '정점론'잠재울까 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40WVgyQUZna0tMSkdTcDBsbDlObkxhM1B4MlVEMkVWTEwtTXF5bHZkWmtBSjN5U18xZmZGSXJqWFFKTktmN1pnSVQ4Sm03MTRfUFhlVklRZVAtdw?oc=5",
-        "summary": "마이크론 순익 940% 폭증 예상…메모리 '정점론'잠재울까 한국경제 마이크론 순익 940% 폭증 예상…메모리 '정점론'잠재울까 - 한국경제",
-        "published": "Tue, 29 Sep 2026 15:41:19 GMT",
-        "published_kst": "2026-09-30T00:41:19+09:00",
+        "title": "코스모로보틱스, '매출 부풀리기 의혹'에 하한가 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kYjhfZmJnOGI0R2dwR3ZqbTRTc3k4NFhKdTRRZnBCenlHZFM0QVZWNnFnQ2xoM2RzeEpfSVhVM3VDMHotTkQzVDBzcVg2Y2FaZlBEbGlvOWY5QQ?oc=5",
+        "summary": "코스모로보틱스, '매출 부풀리기 의혹'에 하한가 한국경제 코스모로보틱스, '매출 부풀리기 의혹'에 하한가 - 한국경제",
+        "published": "Wed, 30 Sep 2026 00:18:33 GMT",
+        "published_kst": "2026-09-30T09:18:33+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "940%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Managing manufacturing disruption: five supply chain and labour risks - Economist Intelligence Unit",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXIwWU4wUGVpUkhOU3NuUmRQa0h6NFNXVDl3dGxpME1HWF9oTlFBQ1NxbnMzMlFURXlnSHZ6clZWbG5ZMWdGalhTM21MYUdJM193aEU1Mm44bzVZWG1LajJhbnE0RkNSWWRhczg4cWd3OXkzRXZBYzhocVJuVDUxRG13TURMUmM?oc=5",
-        "summary": "Managing manufacturing disruption: five supply chain and labour risks Economist Intelligence Unit Managing manufacturing disruption: five supply chain and labour risks - Economist Intelligence Unit",
-        "published": "Tue, 29 Sep 2026 18:27:10 GMT",
-        "published_kst": "2026-09-30T03:27:10+09:00",
+        "title": "Ciudad Juarez Expands Role in Mexico’s AI Supply Chain - mexicobusiness.news",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmR2end5T3F1OGs0RUJ3UkJmLThhOTA3bzd4WXAzcjhBRzltcmVadXB3cmRPN19SMUpYTEF2YWhyQS1paFVhUUdtQ3NpNW9mZVRPOWV3SGJfOVBfaWF6aF9NeEUwempyYURPM3l3Wl93UTNZY1RqZ0FESjJLU2xCY3lWanpaSk1ybTYyRWVTcjVsbnVoMzdhZk9QTlVvUk9ST0EtUmVQVQ?oc=5",
+        "summary": "Ciudad Juarez Expands Role in Mexico’s AI Supply Chain mexicobusiness.news Ciudad Juarez Expands Role in Mexico’s AI Supply Chain - mexicobusiness.news",
+        "published": "Tue, 29 Sep 2026 23:57:34 GMT",
+        "published_kst": "2026-09-30T08:57:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "See How the U.S. Is Attacking China’s Control of Critical Minerals - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSzNvZHFZMURId2VObGpJNUJCckRGaDVQcnZMRDZ3XzNhWEhkNGV4RmZ2dmJDUU10am9MdmpVSVF5QkxURVdZYnMzbld1U1NVaEpGRFpRX0hXb2EtdDltRFhRZDdCRGhnd2JCYjgtV1lncGhobC1OOGFlY3dvOG5TdEZKNkVOVG9fR3B2WThuUFJXWmV0X0lEVnFjU2ExaUFD?oc=5",
-        "summary": "Is Attacking China’s Control of Critical Minerals WSJ See How the U.S. Is Attacking China’s Control of Critical Minerals - WSJ",
-        "published": "Tue, 29 Sep 2026 18:07:00 GMT",
-        "published_kst": "2026-09-30T03:07:00+09:00",
+        "title": "US sanctions 10 entities for allegedly supporting Iran’s military - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM21LMDMtUHZ6V1dZelNGTGVNOXdBb2lVWndHWnJlclVGWUFCNE1kSGVSRmVsWktxeG5CZEtKWnVKOHc3MVI3eXFsaFV2ZXVWMVhaT0xyVnFIMHQ1TWQ0dDltM0ZQZ0l4SXlUbjRtQW9rdzdlNW9sWmlMYTZLQWg1VFkzYkFuc1pKTFpuWHVoejY2WjlLVmRWcm5fcUMzOUJQM1VjN2RWZF_SAa4BQVVfeXFMUGs2WXZKVnVUQ2NJZVRNWHBpTW9oOHpsbXBWcjlwSHpnTmtFLWx0eFRlSmRDNkNrSkpJdE8wTzVxaVZaRG83bXRiYmx1amZONkhOaGk2UXNoNDBfQXBfczFZbU81RmJiamdmX3RYZFEyY0R5YzRscHVPWkJ5LTJhTHBZSnlfaG9kX2c1QmlpNmJ2eFVubHFZYjF5Q0RHOWFDemQ4QWJmcmQweXMzOWFR?oc=5",
+        "summary": "US sanctions 10 entities for allegedly supporting Iran’s military Al Jazeera US sanctions 10 entities for allegedly supporting Iran’s military - Al Jazeera",
+        "published": "Tue, 29 Sep 2026 20:51:46 GMT",
+        "published_kst": "2026-09-30T05:51:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US targets Iran's military supply chain as the status of diplomatic talks remains uncertain - ca.finance.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2JmbWw4ZnM3Q24tOTZIaHlobmtQSGZsRnJwaGxJakZ1SlZ0NEpYVnNXOVNqNF9QOU1lY3AxbVVMX0pGcnJzTVV5N0JId192ZmpnLUdwRFhDd2JHSkxCa1VwMjVtYVVMa0pwRWwxNUhqMzdQZGpTOHJ6SmQtaTJMVlpETkdRNFBv?oc=5",
-        "summary": "US targets Iran's military supply chain as the status of diplomatic talks remains uncertain ca.finance.yahoo.com US targets Iran's military supply chain as the status of diplomatic talks remains uncertain - ca.finance.yahoo.com",
-        "published": "Tue, 29 Sep 2026 17:07:45 GMT",
-        "published_kst": "2026-09-30T02:07:45+09:00",
+        "title": "Cotton to Hegseth: Secure Defense Supply Chain - Arkansas Money & Politics",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OcVlwajlqS2t2Y0xQNXVDMnM4NVZSOGdSRUxveHNzX3BPNENYTHVmSnFUT2Nwdy1OTzRQWEg2UnZobEdMZnBUQ2JUd2tQQkRSQUowNUpaME10eE84czZZMUFVVnlNUlY1bDBsaGtTX3hlYzgzV1E?oc=5",
+        "summary": "Cotton to Hegseth: Secure Defense Supply Chain Arkansas Money & Politics Cotton to Hegseth: Secure Defense Supply Chain - Arkansas Money & Politics",
+        "published": "Tue, 29 Sep 2026 19:28:15 GMT",
+        "published_kst": "2026-09-30T04:28:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -147,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Disney warned about the most recent round of cuts in its August earnings report as one of the levers it was evaluating to reduce costs at the company. Disney laying off around 300 employees in latest cuts under new CEO Josh D'Amaro / DB그룹 \"보유 부지에 데이터센터 착공 검토\" 한국경제 DB그룹 \"보유 부지에 데이터센터 착공 검토\" - 한국경제 / Managing manufacturing disruption: five supply chain and labour risks Economist Intelligence Unit Managing manufacturing disruption: five supply chain and labour risks - Economist Intelligence Unit",
+  "wrap_summary": "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability. Hedge funds hold a record share of the $30 trillion Treasury market. / 유엔사 \"DMZ 지뢰 폭발 사고, 정전협정 위반 판단\" 한국일보 유엔사 \"DMZ 지뢰 폭발 사고, 정전협정 위반 판단\" - 한국일보 / Ciudad Juarez Expands Role in Mexico’s AI Supply Chain mexicobusiness.news Ciudad Juarez Expands Role in Mexico’s AI Supply Chain - mexicobusiness.news",
   "invest_summary": ""
 }
