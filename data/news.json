@@ -1,74 +1,72 @@
 {
-  "date": "2026-10-01",
-  "generated_at_utc": "2026-10-01T11:52:27Z",
-  "cutoff_kst": "2026-10-01T20:52:00+09:00",
+  "date": "2026-10-02",
+  "generated_at_utc": "2026-10-01T16:57:01Z",
+  "cutoff_kst": "2026-10-02T01:57:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "AI is operating inside the healthcare billing system. Patients may already be paying the price",
-        "url": "https://www.cnbc.com/2026/10/01/health-care-costs-insurance-claims-billing-ai.html",
-        "summary": "As AI codes billing inside hospitals, insurers say costs are being added to a bloated health care system. AI is operating inside the healthcare billing system.",
-        "published": "Thu, 01 Oct 2026 11:30:01 GMT",
-        "published_kst": "2026-10-01T20:30:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$1"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
-        "url": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-        "summary": "SpaceX plans to launch Google tensor processing units into orbit on Planet Labs satellites. SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
-        "published": "Thu, 01 Oct 2026 11:20:15 GMT",
-        "published_kst": "2026-10-01T20:20:15+09:00",
+        "title": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
+        "url": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
+        "summary": "President Donald Trump had criticized U.S. Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
+        "published": "Thu, 01 Oct 2026 16:56:34 GMT",
+        "published_kst": "2026-10-02T01:56:34+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "David Sachs: FDA-style AI regulation would cause US to lose tech race to China - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHNnRQaDlmSUI0UllFa2VMdkY1UjVnTDJkeHVXWDBnNFQwNGZSNnpnU3FGZGtvQVAtU3doX2lPVW54S3BoTWYtRUlGN2IzcGFiRU9yQ043UFZUVUk?oc=5",
-        "summary": "David Sachs: FDA-style AI regulation would cause US to lose tech race to China Fox Business David Sachs: FDA-style AI regulation would cause US to lose tech race to China - Fox Business",
-        "published": "Thu, 01 Oct 2026 11:16:35 GMT",
-        "published_kst": "2026-10-01T20:16:35+09:00",
+        "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
+        "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
+        "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes. General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
+        "published": "Thu, 01 Oct 2026 16:52:47 GMT",
+        "published_kst": "2026-10-02T01:52:47+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "5.5%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
+        "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
+        "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC. Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
+        "published": "Thu, 01 Oct 2026 16:52:22 GMT",
+        "published_kst": "2026-10-02T01:52:22+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump’s White House visitor screening center poised for approval - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2pGYWZ4d192UnRMTDlpaWpuWlg1SGdnQTF1VjBrcFF5U3NncmZDVlBTUHVOOGx5R3VtVExyLWVrSjV3YmxySnJQV0lrblc3aEtlMnVtZ0ptT2UxbWhUWXdXaWFDTlhUY3dGRFNEV1htU25fUDN0eDlJSGl4MWY0c001VkdDckhtUHo4UnZOd0ZnRG5hZG1RRTNtRXAtaGllNy1WRFptNnVqNkkzcjBhZg?oc=5",
+        "summary": "Trump’s White House visitor screening center poised for approval The Washington Post Trump’s White House visitor screening center poised for approval - The Washington Post",
+        "published": "Thu, 01 Oct 2026 16:00:00 GMT",
+        "published_kst": "2026-10-02T01:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude back above $100",
-        "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-        "summary": "It comes after a report that Chinese refiners suspended October fuel exports to protect domestic supplies. Oil prices rise as Chinese refiners reportedly ban October fuel exports; Brent crude back above $100",
-        "published": "Thu, 01 Oct 2026 11:15:41 GMT",
-        "published_kst": "2026-10-01T20:15:41+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$100"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Americans Shrug Off Inflation and Weak Income Gains to Keep on Spending - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbE1TaWx2eXA0Y2ZIWEZhMm4wc1ZmN3g5d1NKUVF2VFhScHBfcUZHLWpDbzc4dnBmSTBRYmxlTFQwRnp6Rk8tbURhbGFwRnpUbUtSeDZrV2ZOSjR0d3N2ckswZlpqWDlmcEtvQVpQMXFHNjEzZGJRaml2N19fSDUyRGdwdzQ5bmMyX2pNMzJtUVNlMHYxSjlWbHljcFFFbUJkUWRlalZFbmwyRVM0cF9pMGwyLXNOSGo0TXRSWGRubGFMX1RHNnA3YU9QREd1LWFyZEsxYV9OV3RKQkxPVnRvek1maw?oc=5",
-        "summary": "Americans Shrug Off Inflation and Weak Income Gains to Keep on Spending Bloomberg.com Americans Shrug Off Inflation and Weak Income Gains to Keep on Spending - Bloomberg.com",
-        "published": "Thu, 01 Oct 2026 11:00:53 GMT",
-        "published_kst": "2026-10-01T20:00:53+09:00",
+        "title": "The White House’s taxpayer-financed election ads were shaped by Trump personally - MS NOW",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFJGVUtLUERCM3Fpb1otcEdvOW5hMC1ycGE4cy1zYW81SmhtdU1EbmpHcGNmOUFSUXZ1d1otT2ZnNlJKZHNienNOVmR3ME9JMTF0Nk43djI5NXBTSl82ZFUzeEV1TVVGVkhTRE9LUU5pVDNSNzhSOWtEeS1KZWxwVUhjQkxxY3RtdTM3NVdCUExSTEcyUHV5eFRPbDdvdnJNUkZQM05NUlRuOWZsRXJNWg?oc=5",
+        "summary": "The White House’s taxpayer-financed election ads were shaped by Trump personally MS NOW The White House’s taxpayer-financed election ads were shaped by Trump personally - MS NOW",
+        "published": "Thu, 01 Oct 2026 15:53:21 GMT",
+        "published_kst": "2026-10-02T00:53:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Read TIME’s ‘What Trump Has Built’ Interview Transcript - Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmIwV3hxbExoTzdoYWttcjVVVVliQnM3TEVDdUFfZEhhOUxYdzhDV3N1QlVoa0M3VVAzMjRhNzluZjIza19NOGVRR3dZemdUNEE3OGhlOTAwWkVpb1pMTXhsaVZmWDVRRzJlTXNUbV9MVEJqbGg2VjhlTEFiUG1KWg?oc=5",
-        "summary": "Read TIME’s ‘What Trump Has Built’ Interview Transcript Time Magazine Read TIME’s ‘What Trump Has Built’ Interview Transcript - Time Magazine",
-        "published": "Thu, 01 Oct 2026 11:00:04 GMT",
-        "published_kst": "2026-10-01T20:00:04+09:00",
+        "title": "US rate hike bets fade as revised inflation data points to October pause - Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemRiOUR0aEZfNnRzU2tpX2lZMl9rMU9XX0JyVk5kRnI3ckg1RDNBd1dkZWFnY19ZRWRmTE1kY0psNk9VcEJoNktpejQ5cUVsX3diaFNiNHhkSDVmMEFpMTJSVGx0Z1JUSGRkd1djVnZQQW1mZWQ3R0x5alFZeXZEMFlrNVFhalNzaFZjdUR4SEtsblVEazJLOTRYUXUtYV90ejZ6enBDVUxoN3ZoWWdlMGE5UQ?oc=5",
+        "summary": "US rate hike bets fade as revised inflation data points to October pause Nikkei Asia US rate hike bets fade as revised inflation data points to October pause - Nikkei Asia",
+        "published": "Thu, 01 Oct 2026 15:41:00 GMT",
+        "published_kst": "2026-10-02T00:41:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -77,35 +75,33 @@
     ],
     "kr": [
       {
-        "title": "취득세 의존 낮춘다…경기도 '14조 세입개편' 시동 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZWEdBUGxwUk80X0tUZ1RBQ2ZPa1RmYlAtUWpGWkFDdnB4THJ1bHZGTHpYcnlndzlYMmtEMkdkT2VxSU9QTVR5NTRlTzZLanlyQUIxa21UU2JEUQ?oc=5",
-        "summary": "취득세 의존 낮춘다…경기도 '14조 세입개편' 시동 한국경제 취득세 의존 낮춘다…경기도 '14조 세입개편' 시동 - 한국경제",
-        "published": "Thu, 01 Oct 2026 11:25:08 GMT",
-        "published_kst": "2026-10-01T20:25:08+09:00",
+        "title": "[단독] 미소금융 연체채권, 새도약기금에 넘긴다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KaXo2WHkzcnpZSlRweGx4a2IyOHJZUUZibHVXQmdYRzVwVy1LMGFBSFlwN3N0aTYzT1RGVkVxWjRpeUMxODVkeU42SUVOc2pwZHYtak9iOXdWUQ?oc=5",
+        "summary": "[단독] 미소금융 연체채권, 새도약기금에 넘긴다 한국경제 [단독] 미소금융 연체채권, 새도약기금에 넘긴다 - 한국경제",
+        "published": "Thu, 01 Oct 2026 16:25:00 GMT",
+        "published_kst": "2026-10-02T01:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "백종원 매장 줄줄이 폐점…주가 40% 급락에 꺼낸 승부수 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CazVzM04xdWFXUkpwVVBnNFdYSXo5eEx5RWs3ZHN2V3lZWDkzeGdLa0RJVlJQRTQ1S2JoWmRtdmUwZTNGZzZhaS00VVVFR1R1bm5VdENpNzhfUQ?oc=5",
-        "summary": "백종원 매장 줄줄이 폐점…주가 40% 급락에 꺼낸 승부수 한국경제 백종원 매장 줄줄이 폐점…주가 40% 급락에 꺼낸 승부수 - 한국경제",
-        "published": "Thu, 01 Oct 2026 11:18:00 GMT",
-        "published_kst": "2026-10-01T20:18:00+09:00",
+        "title": "No.1 경제·증권 채널 : @HKWOWTV - wowtv.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmxBMXl1UElKY3dOWk1sS2xHY3NtRVdQNzBYRFB4WTdweXZHejhYNVJBYUJ2NnBxMGZFZWZrYnNOSjRDSk44NGhXMmhRaHhoeURFQkdoU0ZuZWQ3bVlBdDdnUjdiM3BzZ0tPcHJxblpMQzEtRllrMjk5ZEpCblRLR2d4WWhtOW8yeUJmY1d6N01OckNtb0x4ZHpSMTh5RlJiM1BN?oc=5",
+        "summary": "No.1 경제·증권 채널 : @HKWOWTV wowtv.co.kr No.1 경제·증권 채널 : @HKWOWTV - wowtv.co.kr",
+        "published": "Thu, 01 Oct 2026 16:02:40 GMT",
+        "published_kst": "2026-10-02T01:02:40+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "40%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"청약 당첨돼도 대출 걱정…규제 완화를\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TYWIzSU4wdDBNY2FqTG0yYXJsWGg2RGs1dXZha1YxQUxBb3prWHJkeldJTlgzYWQ3U1NMa0pYLTh5VU1IbHRfSXJhY2NITXlHNW03bmdkc0lPdw?oc=5",
-        "summary": "\"청약 당첨돼도 대출 걱정…규제 완화를\" 한국경제 \"청약 당첨돼도 대출 걱정…규제 완화를\" - 한국경제",
-        "published": "Thu, 01 Oct 2026 09:52:02 GMT",
-        "published_kst": "2026-10-01T18:52:02+09:00",
+        "title": "보유 주택 수 정확히 아는 게 '절세 1원칙' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYLWJQSXZGN3ZaRlF3aEdKaU1vM2w5a2RPT0MzdE5COG05OEhTczBVT2RRb2hmR0d4Szlic1JsS0kzc0o0U1dzVXpJdE0wWDZBRUw0c3FKR0NJdw?oc=5",
+        "summary": "보유 주택 수 정확히 아는 게 '절세 1원칙' 한국경제 보유 주택 수 정확히 아는 게 '절세 1원칙' - 한국경제",
+        "published": "Thu, 01 Oct 2026 15:54:00 GMT",
+        "published_kst": "2026-10-02T00:54:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,40 +110,43 @@
     ],
     "world": [
       {
-        "title": "DS Smith Builds EUDR Supply Chain Readiness With Accenture and osapiens - IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcTE2SEpaZktDem1FMXpOUGQ0WWJqdWhDMVNyN1RXVnkweTJwRlN6S09Nd2g2ZVdwcUp5YUpWRlg2RENyVnZnNU1yRkh5Ukd2MU5TNlJieGJmekdDcFNpdlgzWWxEaVhwRzd3YlM2dmo3MUFBRHZQT0hPOGhGczR1RTdFWVNsS1dIMEZTbHlHdGpZcy0yZ25mOXpfMGdBLUViaHRB?oc=5",
-        "summary": "DS Smith Builds EUDR Supply Chain Readiness With Accenture and osapiens IndexBox DS Smith Builds EUDR Supply Chain Readiness With Accenture and osapiens - IndexBox",
-        "published": "Thu, 01 Oct 2026 11:14:03 GMT",
-        "published_kst": "2026-10-01T20:14:03+09:00",
+        "title": "Chemical manufacturer selects Uber Freight to manage global logistics - Supply Chain Dive",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVpLSDdueTIteGxieXZSa3VYdzN4YnE4cmhZMjNUY3BRMHFJWHRibUdnYXctVmxkaGFwUDJEN1VCakJZcG1DTHVDeklVVTNQNU9vWk1jaG1JUks2WVVNQTBfa1lET0RQY1JadDI2VEM4eVA5aGZ1TzdZSUR5eFR4alRwRmZTRGhtM1FDOWxvbHcwN2RfVkF1MzFmYVIyY3k1T2k2WDNOWFk4cmNwMlIyNmFXQXo?oc=5",
+        "summary": "Chemical manufacturer selects Uber Freight to manage global logistics Supply Chain Dive Chemical manufacturer selects Uber Freight to manage global logistics - Supply Chain Dive",
+        "published": "Thu, 01 Oct 2026 16:18:45 GMT",
+        "published_kst": "2026-10-02T01:18:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Mondelēz Canada Invests in Sustainable Supply Chains - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUJPaDlkQ0pKZG1VRWU5M01aakM0Q0k4eFdMQWJ6MnN5bm1NZmZrSEc2WmhyRVhkR21FQTQxYWdYNWl1Vk12U0h3MWwxdm51OTJEejc5X1lzMEJhNWlQbjc3cTdHYmQzeWVzT285TXdLNUdhbGM5eVZUM2d3U05KT0hMOWJqZGNCdS1qZEU5R1RzZw?oc=5",
-        "summary": "Mondelēz Canada Invests in Sustainable Supply Chains Supply Chain Digital Mondelēz Canada Invests in Sustainable Supply Chains - Supply Chain Digital",
-        "published": "Thu, 01 Oct 2026 10:38:47 GMT",
-        "published_kst": "2026-10-01T19:38:47+09:00",
+        "title": "Collaboration boosts supply chain readiness for EUDR - Packaging Europe",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlVmLTVDTTl4cVBWZFpwaTR0eTdpc2l2TWFiX1R4QlJDcGVqNU4xZXJ2LTBQMF8tRkJ3dnFyVHlhOEtoaWZKR0ZHcnNNX3dkOUtaMl95TE9ZU0ZvenYybHhrQmhYemNFVFRmMUJlRkRoSVdyenJMMnEwTWhrckRyd1IzNmVVM1BPYldqa3ZlZFhPbnBPVFRKYTBxTnk0eDZ5?oc=5",
+        "summary": "Collaboration boosts supply chain readiness for EUDR Packaging Europe Collaboration boosts supply chain readiness for EUDR - Packaging Europe",
+        "published": "Thu, 01 Oct 2026 16:07:12 GMT",
+        "published_kst": "2026-10-02T01:07:12+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "GM's supply chain is becoming more flexible to adapt to volatility - automotivelogistics.media",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNGw5UlZnTkdULWtPV0tRTHpMSnpwZkx4MlVxWHIwam5vNEc1LXVjYzRjN3kzekZBbkxxQWVBQVE5a3k5dFlQQzNRcTZiRFJqR0U2Y0NKc2pRS3l5cjhrTmhlTnBzS1J1bHUzQzctdmlLWkFPMFpzN3k4YWNzRmo4QWtuOHpPelZFWmNnUzRQNXFCYUI0aF9MSTlkMGJneG5CSnJ3MFllcUR5ZUpZZXFrVms5Qm85Vm01VDNsSWlHQXdiVWVMNjRBeDFKT3U2ZkNIMFg1eG1vZXMtWE16eVM5VEdn?oc=5",
-        "summary": "GM's supply chain is becoming more flexible to adapt to volatility automotivelogistics.media GM's supply chain is becoming more flexible to adapt to volatility - automotivelogistics.media",
-        "published": "Thu, 01 Oct 2026 09:30:29 GMT",
-        "published_kst": "2026-10-01T18:30:29+09:00",
+        "title": "Healthcare Supply Chain Management Market worth $5.31 billion by 2031 - Exclusive Report by MarketsandMarkets - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVA5R0NteE9jVThVZFllOFFSTVJ1VGRyZDhSdm5LbWx1YlEwNTktRGNmYjIxVGNqQnlza0pabnRqY3RzSUhNMUVlMTdmckFfNmJPR3hBejItRUp3UGJ2T0t4WEtvTnJkRm1PMWxzZnFFZGdqUGxfcUlvMlVNR2ZuZ1lqNnBnYUFhbG1IalpTcHhSWWR5S1oxRy0zUzFDT3RFbm1USEc5Q0ZsRHdqWmkxREFkVGZYaUdHRjhNVWVNTWstUW1pYy1SM2MzZ0FMN1hYSW1ubFYyTkNPZ2lqT3dyYkxnblF3TnEzVXA3QmtSbFZLdVhrZ0tMWDNR?oc=5",
+        "summary": "Healthcare Supply Chain Management Market worth $5.31 billion by 2031 - Exclusive Report by MarketsandMarkets Morningstar Healthcare Supply Chain Management Market worth $5.31 billion by 2031 - Exclusive Report by MarketsandMarkets - Morningstar",
+        "published": "Thu, 01 Oct 2026 14:30:00 GMT",
+        "published_kst": "2026-10-01T23:30:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$5.31",
+          "2031"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "As AI codes billing inside hospitals, insurers say costs are being added to a bloated health care system. AI is operating inside the healthcare billing system. / 취득세 의존 낮춘다…경기도 '14조 세입개편' 시동 한국경제 취득세 의존 낮춘다…경기도 '14조 세입개편' 시동 - 한국경제 / DS Smith Builds EUDR Supply Chain Readiness With Accenture and osapiens IndexBox DS Smith Builds EUDR Supply Chain Readiness With Accenture and osapiens - IndexBox",
+  "wrap_summary": "President Donald Trump had criticized U.S. Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges / [단독] 미소금융 연체채권, 새도약기금에 넘긴다 한국경제 [단독] 미소금융 연체채권, 새도약기금에 넘긴다 - 한국경제 / Chemical manufacturer selects Uber Freight to manage global logistics Supply Chain Dive Chemical manufacturer selects Uber Freight to manage global logistics - Supply Chain Dive",
   "invest_summary": ""
 }
