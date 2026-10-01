@@ -1,72 +1,70 @@
 {
   "date": "2026-10-02",
-  "generated_at_utc": "2026-10-01T16:57:01Z",
-  "cutoff_kst": "2026-10-02T01:57:00+09:00",
+  "generated_at_utc": "2026-10-01T18:42:45Z",
+  "cutoff_kst": "2026-10-02T03:42:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
-        "url": "https://www.cnbc.com/2026/10/01/reflecting-pool-vandalism-dismissed-hearn-trump.html",
-        "summary": "President Donald Trump had criticized U.S. Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges",
-        "published": "Thu, 01 Oct 2026 16:56:34 GMT",
-        "published_kst": "2026-10-02T01:56:34+09:00",
+        "title": "Nike's new Caitlin Clark shoes are already almost sold out",
+        "url": "https://www.cnbc.com/2026/10/01/nikes-new-caitlin-clark-shoes-are-already-almost-sold-out.html",
+        "summary": "Nike's Caitlin 1s, the first signature shoe for Indiana Fever basketball star Caitlin Clark, have nearly sold out less than two hours after their U.S. Nike's new Caitlin Clark shoes are already almost sold out",
+        "published": "Thu, 01 Oct 2026 18:39:40 GMT",
+        "published_kst": "2026-10-02T03:39:40+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-        "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-        "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes. General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-        "published": "Thu, 01 Oct 2026 16:52:47 GMT",
-        "published_kst": "2026-10-02T01:52:47+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "5.5%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-        "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-        "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC. Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-        "published": "Thu, 01 Oct 2026 16:52:22 GMT",
-        "published_kst": "2026-10-02T01:52:22+09:00",
+        "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+        "url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
+        "summary": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August. Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+        "published": "Thu, 01 Oct 2026 18:37:16 GMT",
+        "published_kst": "2026-10-02T03:37:16+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump’s White House visitor screening center poised for approval - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ2pGYWZ4d192UnRMTDlpaWpuWlg1SGdnQTF1VjBrcFF5U3NncmZDVlBTUHVOOGx5R3VtVExyLWVrSjV3YmxySnJQV0lrblc3aEtlMnVtZ0ptT2UxbWhUWXdXaWFDTlhUY3dGRFNEV1htU25fUDN0eDlJSGl4MWY0c001VkdDckhtUHo4UnZOd0ZnRG5hZG1RRTNtRXAtaGllNy1WRFptNnVqNkkzcjBhZg?oc=5",
-        "summary": "Trump’s White House visitor screening center poised for approval The Washington Post Trump’s White House visitor screening center poised for approval - The Washington Post",
-        "published": "Thu, 01 Oct 2026 16:00:00 GMT",
-        "published_kst": "2026-10-02T01:00:00+09:00",
+        "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+        "url": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
+        "summary": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents. Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+        "published": "Thu, 01 Oct 2026 18:29:49 GMT",
+        "published_kst": "2026-10-02T03:29:49+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump defends his White House renovations: ‘I made it beautiful’ - New York Post",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDZiSmxVQ3pfV1pTRWtEa2t6WUFGQ2ZWUnJmVDNXNFMydnhjUno0Zi1TOUpSTlFwUzFncEw2YWtTdXhyY3dmQlhWYi1PZXQ2aDZVVXJwTUhkVUVuY2ZhMUc5X21QU2g2aVprRmNCTS0yanpmRWU1R29sYkNhaUNMMkxEcDREeUZNVmFINDJRYjBaLTh0MnhFbkNDR2taeFR1bFE?oc=5",
+        "summary": "Trump defends his White House renovations: ‘I made it beautiful’ New York Post Trump defends his White House renovations: ‘I made it beautiful’ - New York Post",
+        "published": "Thu, 01 Oct 2026 17:45:00 GMT",
+        "published_kst": "2026-10-02T02:45:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The White House’s taxpayer-financed election ads were shaped by Trump personally - MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFJGVUtLUERCM3Fpb1otcEdvOW5hMC1ycGE4cy1zYW81SmhtdU1EbmpHcGNmOUFSUXZ1d1otT2ZnNlJKZHNienNOVmR3ME9JMTF0Nk43djI5NXBTSl82ZFUzeEV1TVVGVkhTRE9LUU5pVDNSNzhSOWtEeS1KZWxwVUhjQkxxY3RtdTM3NVdCUExSTEcyUHV5eFRPbDdvdnJNUkZQM05NUlRuOWZsRXJNWg?oc=5",
-        "summary": "The White House’s taxpayer-financed election ads were shaped by Trump personally MS NOW The White House’s taxpayer-financed election ads were shaped by Trump personally - MS NOW",
-        "published": "Thu, 01 Oct 2026 15:53:21 GMT",
-        "published_kst": "2026-10-02T00:53:21+09:00",
+        "title": "Despite praise and White House visits, Trump avoids endorsing Netanyahu - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFpyYk5MLTRqU3RnUFZQNFpEaEpLRGV1bmJrRU9RRXVqRW9rRndrSm1fNzd4eEs1OGlYNWFCRU1vOEJlOWdzU3RtMUdWUzRUaUNkOFhKeEZiaUJFUEIwMTZscXJFMXcyR09Ec3laWGstZ3NfR2lSdkJBU2pIWWNCT2tOR1ZKQWR5aVZTLTVRVGpXT3lKZURPbU5NU05aZnp6UDR1T1ZDR1ZlMmxrOUpyS9IBtgFBVV95cUxOeXNPemhyVGgzRlVLeC01MnloMkNTX3dFcENKTHcyR01aRkdvbkJqTmJkOTZyc1Q2U0JvQXpJbGV6TDBkbGItYnoyQm1sdVFBODdYdWUtX19EcldQMTdiV1RkN183bDJZTUd6NEdtclZoTkNVWGpuRnFyUWN1WXVaaFd5OEFXVmhIMTFmZ2JXUVMyaTFBQldjWVJvUnVkN3FkaGkxT2dRbDhPTDNVaXcyTC0yTTVGQQ?oc=5",
+        "summary": "Despite praise and White House visits, Trump avoids endorsing Netanyahu Al Jazeera Despite praise and White House visits, Trump avoids endorsing Netanyahu - Al Jazeera",
+        "published": "Thu, 01 Oct 2026 17:27:08 GMT",
+        "published_kst": "2026-10-02T02:27:08+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US rate hike bets fade as revised inflation data points to October pause - Nikkei Asia",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemRiOUR0aEZfNnRzU2tpX2lZMl9rMU9XX0JyVk5kRnI3ckg1RDNBd1dkZWFnY19ZRWRmTE1kY0psNk9VcEJoNktpejQ5cUVsX3diaFNiNHhkSDVmMEFpMTJSVGx0Z1JUSGRkd1djVnZQQW1mZWQ3R0x5alFZeXZEMFlrNVFhalNzaFZjdUR4SEtsblVEazJLOTRYUXUtYV90ejZ6enBDVUxoN3ZoWWdlMGE5UQ?oc=5",
-        "summary": "US rate hike bets fade as revised inflation data points to October pause Nikkei Asia US rate hike bets fade as revised inflation data points to October pause - Nikkei Asia",
-        "published": "Thu, 01 Oct 2026 15:41:00 GMT",
-        "published_kst": "2026-10-02T00:41:00+09:00",
+        "title": "Dollar hits 17-month high versus euro as bond selloff lifts yields - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWhvUDJnYm05ejFnZVNQNTZMUXFoampoVmg1bmNwYllIdURyN2MxWWU0eHhQMVZ4c09wbjFzOEVKLURULXFGMlRQSTdIT2xyZjRiSFJ1ZktSc1JMNllreS1JaUZYam1oWHZYSThvaVFUZmpVZWZ1UWFyYy14YzBxTG9PQ291QjJfelk3LWdRS2pGTExvNnBKTGtEWElOZXJJ?oc=5",
+        "summary": "Dollar hits 17-month high versus euro as bond selloff lifts yields Yahoo Finance Dollar hits 17-month high versus euro as bond selloff lifts yields - Yahoo Finance",
+        "published": "Thu, 01 Oct 2026 16:15:15 GMT",
+        "published_kst": "2026-10-02T01:15:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,33 +73,33 @@
     ],
     "kr": [
       {
-        "title": "[단독] 미소금융 연체채권, 새도약기금에 넘긴다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KaXo2WHkzcnpZSlRweGx4a2IyOHJZUUZibHVXQmdYRzVwVy1LMGFBSFlwN3N0aTYzT1RGVkVxWjRpeUMxODVkeU42SUVOc2pwZHYtak9iOXdWUQ?oc=5",
-        "summary": "[단독] 미소금융 연체채권, 새도약기금에 넘긴다 한국경제 [단독] 미소금융 연체채권, 새도약기금에 넘긴다 - 한국경제",
-        "published": "Thu, 01 Oct 2026 16:25:00 GMT",
-        "published_kst": "2026-10-02T01:25:00+09:00",
+        "title": "\"반도체 하나로 日 전체급\"…한국이 세운 '역대급 기록' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SSXp5LVRkUFFkd0hreDlBcFdMNFhHcFVsc1NlMDdITjJnRVhqbE1DYWZxbHo4VnhoU3EtQ213aUtiUEtOSFY1N1ZxeVFRb0NtRzE2UU1USEszdw?oc=5",
+        "summary": "\"반도체 하나로 日 전체급\"…한국이 세운 '역대급 기록' 한국경제 \"반도체 하나로 日 전체급\"…한국이 세운 '역대급 기록' - 한국경제",
+        "published": "Thu, 01 Oct 2026 17:50:00 GMT",
+        "published_kst": "2026-10-02T02:50:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "No.1 경제·증권 채널 : @HKWOWTV - wowtv.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNmxBMXl1UElKY3dOWk1sS2xHY3NtRVdQNzBYRFB4WTdweXZHejhYNVJBYUJ2NnBxMGZFZWZrYnNOSjRDSk44NGhXMmhRaHhoeURFQkdoU0ZuZWQ3bVlBdDdnUjdiM3BzZ0tPcHJxblpMQzEtRllrMjk5ZEpCblRLR2d4WWhtOW8yeUJmY1d6N01OckNtb0x4ZHpSMTh5RlJiM1BN?oc=5",
-        "summary": "No.1 경제·증권 채널 : @HKWOWTV wowtv.co.kr No.1 경제·증권 채널 : @HKWOWTV - wowtv.co.kr",
-        "published": "Thu, 01 Oct 2026 16:02:40 GMT",
-        "published_kst": "2026-10-02T01:02:40+09:00",
+        "title": "靑 정책실장 하준경·경제수석에 문신학 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIS0VveDBJZXhXTmdqNzFWUXNGZkttRGFLTWJxX1EtcUFvX05PRFZRN25fZG1vV2s3N2NxT0J6N0pETzZ0cDREWTExelpTYkpSazRmbDJXd2JEQQ?oc=5",
+        "summary": "靑 정책실장 하준경·경제수석에 문신학 한국경제 靑 정책실장 하준경·경제수석에 문신학 - 한국경제",
+        "published": "Thu, 01 Oct 2026 17:36:00 GMT",
+        "published_kst": "2026-10-02T02:36:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "보유 주택 수 정확히 아는 게 '절세 1원칙' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYLWJQSXZGN3ZaRlF3aEdKaU1vM2w5a2RPT0MzdE5COG05OEhTczBVT2RRb2hmR0d4Szlic1JsS0kzc0o0U1dzVXpJdE0wWDZBRUw0c3FKR0NJdw?oc=5",
-        "summary": "보유 주택 수 정확히 아는 게 '절세 1원칙' 한국경제 보유 주택 수 정확히 아는 게 '절세 1원칙' - 한국경제",
-        "published": "Thu, 01 Oct 2026 15:54:00 GMT",
-        "published_kst": "2026-10-02T00:54:00+09:00",
+        "title": "No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGtMWlBMbWtDR3I5YWtrY0RhNHVDc2hPdVR6MUFwRnl1azNha3FHSFMxa3N3QWJoczk2bmRfdWljRVUtTkVGR01rRUxxRU5SOXlhaFBIb1dWdlJaTXNicTQzWHRYUnNLc1hGSk1idGxRWXRYUk8wdERXeThKcGxidFF2M1BSc2d3bjNkWFpqSDNqakhuMVhoQ2JPaXEyNWVLeFJN?oc=5",
+        "summary": "No.1 경제·증권 채널 : @HKWOWTV 한국경제TV No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
+        "published": "Thu, 01 Oct 2026 17:01:45 GMT",
+        "published_kst": "2026-10-02T02:01:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -109,6 +107,17 @@
       }
     ],
     "world": [
+      {
+        "title": "Putin says Russia won't supply diesel to global markets until sanctions are lifted - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzhQTjB5ZXN3SEtZaWVlUm4tNHJZdnhxNUZveGlzZ1ZTWm9xVkNZTGxjazlGRk5PMWEtQWZaVUZqaDQ5M09zQ1g4U0VEZHhLcFhVeXR5NXc2TEIxekxQeWZ5VGRCdUxqTE4xRTFMbG9TeUt5cFM1eEw5ZkI1aTBlSElTX2g3Y3NiUzBYbHBBZHF6UkZwblpkUjZzQ2F0YlZ1WXhJaGJUUGpxMmFqZ1EyVkdWa2xDQWhaeTdRVnE1R292RzRpbnpfV0ZsSXhqaVdZ?oc=5",
+        "summary": "Putin says Russia won't supply diesel to global markets until sanctions are lifted marketscreener.com Putin says Russia won't supply diesel to global markets until sanctions are lifted - marketscreener.com",
+        "published": "Thu, 01 Oct 2026 17:32:25 GMT",
+        "published_kst": "2026-10-02T02:32:25+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Chemical manufacturer selects Uber Freight to manage global logistics - Supply Chain Dive",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVpLSDdueTIteGxieXZSa3VYdzN4YnE4cmhZMjNUY3BRMHFJWHRibUdnYXctVmxkaGFwUDJEN1VCakJZcG1DTHVDeklVVTNQNU9vWk1jaG1JUks2WVVNQTBfa1lET0RQY1JadDI2VEM4eVA5aGZ1TzdZSUR5eFR4alRwRmZTRGhtM1FDOWxvbHcwN2RfVkF1MzFmYVIyY3k1T2k2WDNOWFk4cmNwMlIyNmFXQXo?oc=5",
@@ -130,23 +139,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Healthcare Supply Chain Management Market worth $5.31 billion by 2031 - Exclusive Report by MarketsandMarkets - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVA5R0NteE9jVThVZFllOFFSTVJ1VGRyZDhSdm5LbWx1YlEwNTktRGNmYjIxVGNqQnlza0pabnRqY3RzSUhNMUVlMTdmckFfNmJPR3hBejItRUp3UGJ2T0t4WEtvTnJkRm1PMWxzZnFFZGdqUGxfcUlvMlVNR2ZuZ1lqNnBnYUFhbG1IalpTcHhSWWR5S1oxRy0zUzFDT3RFbm1USEc5Q0ZsRHdqWmkxREFkVGZYaUdHRjhNVWVNTWstUW1pYy1SM2MzZ0FMN1hYSW1ubFYyTkNPZ2lqT3dyYkxnblF3TnEzVXA3QmtSbFZLdVhrZ0tMWDNR?oc=5",
-        "summary": "Healthcare Supply Chain Management Market worth $5.31 billion by 2031 - Exclusive Report by MarketsandMarkets Morningstar Healthcare Supply Chain Management Market worth $5.31 billion by 2031 - Exclusive Report by MarketsandMarkets - Morningstar",
-        "published": "Thu, 01 Oct 2026 14:30:00 GMT",
-        "published_kst": "2026-10-01T23:30:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$5.31",
-          "2031"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "President Donald Trump had criticized U.S. Judge dismisses Reflecting Pool case permanently, cites risk Trump will force new charges / [단독] 미소금융 연체채권, 새도약기금에 넘긴다 한국경제 [단독] 미소금융 연체채권, 새도약기금에 넘긴다 - 한국경제 / Chemical manufacturer selects Uber Freight to manage global logistics Supply Chain Dive Chemical manufacturer selects Uber Freight to manage global logistics - Supply Chain Dive",
+  "wrap_summary": "Nike's Caitlin 1s, the first signature shoe for Indiana Fever basketball star Caitlin Clark, have nearly sold out less than two hours after their U.S. Nike's new Caitlin Clark shoes are already almost sold out / \"반도체 하나로 日 전체급\"…한국이 세운 '역대급 기록' 한국경제 \"반도체 하나로 日 전체급\"…한국이 세운 '역대급 기록' - 한국경제 / Putin says Russia won't supply diesel to global markets until sanctions are lifted marketscreener.com Putin says Russia won't supply diesel to global markets until sanctions are lifted - marketscreener.com",
   "invest_summary": ""
 }
