@@ -1,85 +1,48 @@
 {
   "date": "2026-10-02",
-  "generated_at_utc": "2026-10-02T07:39:41Z",
-  "cutoff_kst": "2026-10-02T16:39:00+09:00",
+  "generated_at_utc": "2026-10-02T11:24:43Z",
+  "cutoff_kst": "2026-10-02T20:24:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "FTSE 100 today: Stocks rebound modestly after gilt rout; U.S. jobs data in focus - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlIwQzFhNGRzRmVuNUFrdDdHTWhCOF9aQzJaMk9MVkFBNDM5b0M1aXd5T1lIeVJWRkhXaXJGR29iQzNJcFJ3dXBSNlFfdmxwdjZTdV81dHhyLVdWNk91OFdvSl81TDcxWEFNWVBhQjZja3lrQjlxUW5wTmNYaExvRVBLU0hTbHkteWxLMUhCOG11VmN5ZF8yZzlHTUpWTUZKbHpIOTI2REk4ZE5KMUhiam5HR1Jxczd4U294VFZKYVkwdDBmTnVvbnoxak9GUQ?oc=5",
-        "summary": "jobs data in focus Investing.com FTSE 100 today: Stocks rebound modestly after gilt rout; U.S. jobs data in focus - Investing.com",
-        "published": "Fri, 02 Oct 2026 07:24:40 GMT",
-        "published_kst": "2026-10-02T16:24:40+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Volvo Car Scraps Outlook as China, US Weakness Curb Earnings - bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTExuWEpJQzRIdG9ubUFZMXBTNXIyUGpYaGtmZFhjZ3hSelV5U0E3dGU3TUJQRkFsOE5ROENDT3JEUkhFVWJWaTZJdXlCdzFHNmV6M3p2TVlVSkZlblpYZXRWc2FpNkY0LXRWSXFTWGpoQWNmOWVQZDFMREFrNDFLQkZVUEdKU2xiUWhPZmlPUmhubkxrLVNGRF9ZTnNmY3FGcFJfa2xkWUt1TnhScmNz?oc=5",
-        "summary": "Volvo Car Scraps Outlook as China, US Weakness Curb Earnings bloomberg.com Volvo Car Scraps Outlook as China, US Weakness Curb Earnings - bloomberg.com",
-        "published": "Fri, 02 Oct 2026 07:19:31 GMT",
-        "published_kst": "2026-10-02T16:19:31+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
-        "url": "https://www.cnbc.com/2026/10/02/us-iran-war-trump-hormuz-.html",
-        "summary": "is reportedly sending a third aircraft carrier strike group to the Middle East, as Trump weighs resuming bombing Iran after the midterms. to send third carrier group to Mideast as Trump warns of new Iran strikes",
-        "published": "Fri, 02 Oct 2026 06:51:41 GMT",
-        "published_kst": "2026-10-02T15:51:41+09:00",
+        "title": "Big Pharma turns to China for new drugs as patent cliff drives multibillion-dollar deals",
+        "url": "https://www.cnbc.com/2026/10/02/novartis-abogen-china-biotech-deal.html",
+        "summary": "Western biopharma companies are increasingly turning to China to source innovation, as pharma's dreaded \"patent cliff\" draws closer. Big Pharma turns to China for new drugs as patent cliff drives multibillion-dollar deals",
+        "published": "Fri, 02 Oct 2026 11:18:16 GMT",
+        "published_kst": "2026-10-02T20:18:16+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
-        "url": "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html",
-        "summary": "\"As this is a matter concerning the honor of the Republic of Korea's people and nation, we cannot overlook it,\" he said. South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
-        "published": "Fri, 02 Oct 2026 06:36:56 GMT",
-        "published_kst": "2026-10-02T15:36:56+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jewelry giant Pandora is getting in on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia",
-        "url": "https://www.cnbc.com/2026/10/02/-jewelry-giant-pandora-vietnam-asia-growth-.html",
-        "summary": "Pandora is expanding its manufacturing footprint beyond Thailand with a new $150 million Vietnam facility as the Danish jeweler eyes further growth across Asia. Jewelry giant Pandora is getting in on lab-grown diamonds and hoping a new Vietnam plant helps growth in Asia",
-        "published": "Fri, 02 Oct 2026 06:27:58 GMT",
-        "published_kst": "2026-10-02T15:27:58+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$150"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Shafaq News..Gold holds firm ahead of US jobs data - شفق نيوز",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uaE1IOWRyLTlSVmt6Ykk3aC1Xa3lOLVJDYnZaMzlmUUJSUVR0bzBsMUtxdDVUZW9sMkRqZmhlZ3pPckQxeFcxam1qSkRYaHBhaG9Oc3lUYlBTcm1ESVZ3VjAxT1ZleHNIaHlWWGlQUTFVT2h6LXc?oc=5",
-        "summary": "Shafaq News..Gold holds firm ahead of US jobs data شفق نيوز Shafaq News..Gold holds firm ahead of US jobs data - شفق نيوز",
-        "published": "Fri, 02 Oct 2026 06:13:47 GMT",
-        "published_kst": "2026-10-02T15:13:47+09:00",
+        "title": "US Jobs Report To Help Resolve Tension Between Firm Greenback And Softer Short-Term Rates - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmlDbnhvTFpuSnZLNDFTN2RmZ3RTVWRndHdoNUdvYktQS0lDTVlPOGR0eVJWV1VTdkVkVDFqOUdSdWhqMnNjUUhaanJELTNScWVrUUY3NTVCaTV3V0ZhMTRNbmNRUW4wd29rNHM3VDVMWjF1S1BLT0dEQWtESnpNYXpFa2pMTEpkV2loZUR5SXBUdlBRVmwzWHhJcHFoT1d0ZFpsQUtreGRsM1FuVWVzUVQ3Wkk4VEVGYWlSbmxfMkVVeThK?oc=5",
+        "summary": "US Jobs Report To Help Resolve Tension Between Firm Greenback And Softer Short-Term Rates Seeking Alpha US Jobs Report To Help Resolve Tension Between Firm Greenback And Softer Short-Term Rates - Seeking Alpha",
+        "published": "Fri, 02 Oct 2026 11:10:00 GMT",
+        "published_kst": "2026-10-02T20:10:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      }
-    ],
-    "kr": [
+      },
       {
-        "title": "부산진구, ‘2026 한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 국제신문",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDNiaW1JVEo0bG9pampBRFMyeVFVRkdUT0NfYmhzRVROSllrY0NYT0V3aU54LUxwU3ZKbU1IZ1l2WVp0M2RYclpMLWxOUzNFdDctSGY5NHpuX1BtLVRyd2RGTjZ5cFRQUzNNZFFWUExzaDhNZmZvRWRMcjN0akVJWEJvWUxpM1lFQUM5bENB?oc=5",
-        "summary": "부산진구, ‘2026 한국경제 최고의 리더’ 혁신경제도시 부문 선정 국제신문 부산진구, ‘2026 한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 국제신문",
-        "published": "Fri, 02 Oct 2026 07:28:00 GMT",
-        "published_kst": "2026-10-02T16:28:00+09:00",
+        "title": "Global equity funds draw inflows for second week as AI optimism holds - The Mighty 790 KFGO",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONG04TjFacl9UZG82c2UxZTE1WGF0ZHVVbzdzNGpZVXdPczNyLVZ3RVhHZldIeWY5b3V5WEhqLXM0Z0xyWE5VdnpWUmlDZ21ZczR4VmMydVoyTXY0cVFmT01WTnR3elZSVmN0Wm1zdHo0N0xNZjJzNG40azRGLWJZOHA4eWZVN3NKLUxGMm02QVZrM2cwTE1oeUVDUERUbGs?oc=5",
+        "summary": "Global equity funds draw inflows for second week as AI optimism holds The Mighty 790 KFGO Global equity funds draw inflows for second week as AI optimism holds - The Mighty 790 KFGO",
+        "published": "Fri, 02 Oct 2026 11:06:36 GMT",
+        "published_kst": "2026-10-02T20:06:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US jobs report September 2026: Payrolls, unemployment and Fed rates - equiti.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMW1tMmpVSTRrYl9rcGthbXRDbE44NHFIVlRQZnd3ZUwyUTVDM0Z3Uzd0S1ZwVFVxdzdOTnNlYzFudmpsdk1UNUpnSjRiWWozSG5wT3lYT3N4OW5UUGZSYXpCdjcwWEM2ZGZoRmhpdUoyeWZUUmtjNGljWVdDWkp4RWdEb09tMUlsTkxteHoxV21GMEcxTmtKNjZB?oc=5",
+        "summary": "US jobs report September 2026: Payrolls, unemployment and Fed rates equiti.com US jobs report September 2026: Payrolls, unemployment and Fed rates - equiti.com",
+        "published": "Fri, 02 Oct 2026 11:02:53 GMT",
+        "published_kst": "2026-10-02T20:02:53+09:00",
         "domain": "google.com",
         "key_figures": [
           "2026"
@@ -88,24 +51,61 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "인텍플러스 목표가 한달새 24% 껑충…하반기 수주 '봇물' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXbEpic3I3V25CUy16RlJxdWpCaWR4V0R2eTZOVjBMWWo3UmQ5dkp4eU5JMnB6NGdWYTFzb2RMUEp5VlFncGxrOE1MQ0xRRHdnSThhYzZPd3VZZw?oc=5",
-        "summary": "인텍플러스 목표가 한달새 24% 껑충…하반기 수주 '봇물' 한국경제 인텍플러스 목표가 한달새 24% 껑충…하반기 수주 '봇물' - 한국경제",
-        "published": "Fri, 02 Oct 2026 07:21:53 GMT",
-        "published_kst": "2026-10-02T16:21:53+09:00",
+        "title": "Burger King is betting on local franchisees to fuel its U.S. comeback",
+        "url": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html",
+        "summary": "Burger King is refranchising hundreds of its company-owned restaurants as part of its turnaround, while prioritizing local operators. Burger King is betting on local franchisees to fuel its U.S.",
+        "published": "Fri, 02 Oct 2026 11:00:01 GMT",
+        "published_kst": "2026-10-02T20:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+        "url": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+        "summary": "Google has been trailing OpenAI and Anthropic for much of 2026, analysts say Gemini 4 puts it back in the frontier AI conversation. Google has been playing catch up with OpenAI and Anthropic.",
+        "published": "Fri, 02 Oct 2026 11:00:01 GMT",
+        "published_kst": "2026-10-02T20:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ],
+    "kr": [
+      {
+        "title": "[단독] 네이버, 지도 앞세워 글로벌 확장…'내수용' 꼬리표 뗀다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00Zmc1OWhKRzlhbko3MGcySGNNemxlelZCdjFCTXdwV2YxQ1VOdTVRSm1reTFQSGVTdC1ncHZuM01EQ0NVYW5yOGFkQ3B1NlB4SURzazNuSGhVUQ?oc=5",
+        "summary": "[단독] 네이버, 지도 앞세워 글로벌 확장…'내수용' 꼬리표 뗀다 한국경제 [단독] 네이버, 지도 앞세워 글로벌 확장…'내수용' 꼬리표 뗀다 - 한국경제",
+        "published": "Fri, 02 Oct 2026 10:55:00 GMT",
+        "published_kst": "2026-10-02T19:55:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "부산진구, '2026 한국경제 최고의 리더' 혁신경제도시 부문 선정 - 국토일보",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOZDAwZmFKWTlEMkowaFZodVZTMC0zT3BnWmk0RGw3dGJIUGVtMGg2anZvakttTDEyb3ktbElmZU0yMnU1cjFkcTU3TzNnMXNfZjNWSmQ3N3VYN2h3WTJYRERLZw?oc=5",
+        "summary": "부산진구, '2026 한국경제 최고의 리더' 혁신경제도시 부문 선정 국토일보 부산진구, '2026 한국경제 최고의 리더' 혁신경제도시 부문 선정 - 국토일보",
+        "published": "Fri, 02 Oct 2026 10:54:32 GMT",
+        "published_kst": "2026-10-02T19:54:32+09:00",
         "domain": "google.com",
         "key_figures": [
-          "24%"
+          "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[지평선] 국방장관의 군복 - 한국일보",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tdENGN1JoaHRvUmdtTzVJNDVpbmZaT3FiNER2Z1hqanlEWnR1ZGFuMklOak1Fb21WTG5aSUpHQnFfVGlrckM5c295Z3VpQkxxeWM0aE54MDRWNEZ4dmNWVVV5S041TW9ib3gzeFB3?oc=5",
-        "summary": "[지평선] 국방장관의 군복 한국일보 [지평선] 국방장관의 군복 - 한국일보",
-        "published": "Fri, 02 Oct 2026 07:00:00 GMT",
-        "published_kst": "2026-10-02T16:00:00+09:00",
+        "title": "WCC는 한국 민주화에 어떤 역할 했나…조정식 국회의장, 베드포드-스트롬 WCC 중앙위 의장 접견 - 창업일보",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZmstU0Q3a2lmUUFxbTJScU5rR0UyYTdaUkstMTJSZTBUSVFKQkJGbnRsMGFFRmNxSnpncWtNdTlldmt2M256Vkd3NGhwOW1LZXp2SGkxU2JHdzd0aXllenlselk3c081?oc=5",
+        "summary": "WCC는 한국 민주화에 어떤 역할 했나…조정식 국회의장, 베드포드-스트롬 WCC 중앙위 의장 접견 창업일보 WCC는 한국 민주화에 어떤 역할 했나…조정식 국회의장, 베드포드-스트롬 WCC 중앙위 의장 접견 - 창업일보",
+        "published": "Fri, 02 Oct 2026 10:42:33 GMT",
+        "published_kst": "2026-10-02T19:42:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,40 +114,44 @@
     ],
     "world": [
       {
-        "title": "Scott Bessent Says Iran Transported 'Zero' Oil Onto Tankers Last Month — Trump’s Sanctions Are Targeting - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPLWpSRzgxU3hHNjZacFZTMjhOMElOYldhbDZnNmVxcDEzcGRFT0tVVFl6UVlmRWNVZTFiV1l1cmhveElBdWpCZ2gxTmt3T056WTZJZF84QnRhbndaTVVsa1NyNWlwMVF0a2dKbHhOa055MXQ5ZGoxa1VaVFZxVThrSmNwTkFrNWQ0N1hYckhoaUc2M2Zja29jb29GWGdIVjFEMVJVUlRoVllMNnpWc1I3a3NaRkZuLXVSVTVVSnFLSUV6Q18yMzhfeGZwN0R0ZnZRTGl6SFVfYUJxcUhSVjRYTW9KRUc5cDRxY2paWUZ1NV9Ha2E0Z3BZVGZtNk5oMGphWE5yVzhRRXhBLS1oM3JvV0ZmMks1NndsZWc?oc=5",
-        "summary": "Scott Bessent Says Iran Transported 'Zero' Oil Onto Tankers Last Month — Trump’s Sanctions Are Targeting Benzinga Scott Bessent Says Iran Transported 'Zero' Oil Onto Tankers Last Month — Trump’s Sanctions Are Targeting - Benzinga",
-        "published": "Fri, 02 Oct 2026 04:28:51 GMT",
-        "published_kst": "2026-10-02T13:28:51+09:00",
+        "title": "DHL reports AI moves from assistant to autonomous supply chain force - Global Sources",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMC0wNW1MbjhHdFU0cXVmazQ5Z3hmUkZDX2lQTG1CVjRQRlFYdzl5bHFuQmpkOHhTUDQwWlRuQjJieXhpV2c4c3E3RTlUQlQxODVMVERna3REOGp4eTB5VkpWR1lIYi00RlhsaUM3Z1FQemZnektsaVpQaVhGT0tNNDF3OVNvZGQ1SDlGUDZPQ1Z0LTVQVHE2bldHcGM2WS05LXQ2bDhaUDlXZmJkc0JUazZyTDZuRFNBZnA5bGpIOHctcEJnRDZYY3pfZjFLZEQ2?oc=5",
+        "summary": "DHL reports AI moves from assistant to autonomous supply chain force Global Sources DHL reports AI moves from assistant to autonomous supply chain force - Global Sources",
+        "published": "Fri, 02 Oct 2026 10:52:30 GMT",
+        "published_kst": "2026-10-02T19:52:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US manufacturing rebound continues, despite rising costs and supply chain challenges - WBFF",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNm5kZWdTZ0JLcUowVEZWRUN0ZDVoSGwyMnpCSmhMblBhUHpSd3RDZlgwbE1pVmJPYlE4bzNBTGdkQy05XzRUV184QTdXUng0ejBoenpTT0k4b1EwUjM2NUhKMFhseXBPQ0U0VDBhdHJ4OTREUlg4Z0N4bDUwdmV1YUJOQjNraXF5MlBUc1F5R0M2dThjb0N2eUZrdFFGQThrd2R6V21TN0NTaFl0bU1PNGtMZXJDd0t1S0pQeW9GSmJqbmJV?oc=5",
-        "summary": "US manufacturing rebound continues, despite rising costs and supply chain challenges WBFF US manufacturing rebound continues, despite rising costs and supply chain challenges - WBFF",
-        "published": "Thu, 01 Oct 2026 22:14:15 GMT",
-        "published_kst": "2026-10-02T07:14:15+09:00",
+        "title": "Meta's Message at SEMICON Taiwan 2026: Taiwan's Semiconductor Supply Chain Essential for the AI Revolution - 天下雜誌",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13LU4tdVNvWmh3S1lIMUZ2UjFvMm83VUlBbEpFYzlKbUtZSlY3M3pZY19ySEgwdFBzWGdaZzBrTFNmUy01N1JmMlRzcGZQSTBSWUc0amIyLXE5enVMNkNPTkJ0VnJqWjQ?oc=5",
+        "summary": "Meta's Message at SEMICON Taiwan 2026: Taiwan's Semiconductor Supply Chain Essential for the AI Revolution 天下雜誌 Meta's Message at SEMICON Taiwan 2026: Taiwan's Semiconductor Supply Chain Essential for the AI Revolution - 天下雜誌",
+        "published": "Fri, 02 Oct 2026 10:37:39 GMT",
+        "published_kst": "2026-10-02T19:37:39+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The Semiconductor Industry Is Scaling Fast. Can Its Supply Chain Keep Up? - Manufacturing.net",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLWJnaG5VdTUtRHczZm8wMEJYOTkxQjBjRHVITU5SSGM3RmlxajFweV8tdW1HejNpNzd6YWRIZ1l3N21MWkliN1l4eTBTVm9Yam5TRUdrN3p0QU5wYWp1U2laRWJYY0Q4WFhNMDFlbXAzdWpUNlhGamVPVDUtbDFNUnlsbVVNV3N5dTh1RGVyU0Y4dnpHbkUxUmRvTWZKVVhXeEpvM0ZUdmEwdnBzRUpIUTFsYU44Z3dHeUxfd3E3N2dpb1pScE5N?oc=5",
-        "summary": "Manufacturing.net The Semiconductor Industry Is Scaling Fast. Can Its Supply Chain Keep Up?",
-        "published": "Thu, 01 Oct 2026 21:28:43 GMT",
-        "published_kst": "2026-10-02T06:28:43+09:00",
+        "title": "Press Release Moddule Supply Chain Forum Gathers 25 Top Leaders to Define the Supply Chain of 2030 - The Loadstar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnhNYjFsdDZHb19QbndoYmlFTlItN1FZaDBVNUI3VUF6RzhoMlphQ1lpakdaMVl6VlBrZmg2c2dlVW1ES3FuY2JQQTlvdFFJdzVDTkNadjh1RG52NFVxb25KOEpuY1BxV0xTUXBNMnA4a3pxSG5LenM4Yl9Fam5TQ2JlZnY2UVotbHJpZG8taVVuakQ1aERDYk50V2RLSE5maFVuZ3RKQ0RaRGpGQUZfMVc1LXlXNXFXZjhsdDdIWFM1RTFl?oc=5",
+        "summary": "Press Release Moddule Supply Chain Forum Gathers 25 Top Leaders to Define the Supply Chain of 2030 The Loadstar Press Release Moddule Supply Chain Forum Gathers 25 Top Leaders to Define the Supply Chain of 2030 - The Loadstar",
+        "published": "Fri, 02 Oct 2026 09:22:42 GMT",
+        "published_kst": "2026-10-02T18:22:42+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2030"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "jobs data in focus Investing.com FTSE 100 today: Stocks rebound modestly after gilt rout; U.S. jobs data in focus - Investing.com / 부산진구, ‘2026 한국경제 최고의 리더’ 혁신경제도시 부문 선정 국제신문 부산진구, ‘2026 한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 국제신문 / Scott Bessent Says Iran Transported 'Zero' Oil Onto Tankers Last Month — Trump’s Sanctions Are Targeting Benzinga Scott Bessent Says Iran Transported 'Zero' Oil Onto Tankers Last Month — Trump’s Sanctions Are Targeting - Benzinga",
+  "wrap_summary": "Western biopharma companies are increasingly turning to China to source innovation, as pharma's dreaded \"patent cliff\" draws closer. Big Pharma turns to China for new drugs as patent cliff drives multibillion-dollar deals / [단독] 네이버, 지도 앞세워 글로벌 확장…'내수용' 꼬리표 뗀다 한국경제 [단독] 네이버, 지도 앞세워 글로벌 확장…'내수용' 꼬리표 뗀다 - 한국경제 / DHL reports AI moves from assistant to autonomous supply chain force Global Sources DHL reports AI moves from assistant to autonomous supply chain force - Global Sources",
   "invest_summary": ""
 }
