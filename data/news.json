@@ -1,140 +1,150 @@
 {
   "date": "2026-10-03",
-  "generated_at_utc": "2026-10-02T18:13:51Z",
-  "cutoff_kst": "2026-10-03T03:13:00+09:00",
+  "generated_at_utc": "2026-10-03T00:46:05Z",
+  "cutoff_kst": "2026-10-03T09:46:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "‘Blackmail’: Europe fumes against White House demand for more diesel - Politico",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa0RxWmxlZUNXbTNUZHVHcWl1YmhRSE15TldHWEl6QUhLd19JblRhQUFzelBBYnVPUjhZeVh0SmRGOFQwSFJEV29oQWMtTC11bGl5QzJMb3lISjlTOHhGdkpTMzRxY01KSzJka1ExYWZ6WmpuQlRrRU5RNl9BUGJoMQ?oc=5",
-        "summary": "‘Blackmail’: Europe fumes against White House demand for more diesel Politico ‘Blackmail’: Europe fumes against White House demand for more diesel - Politico",
-        "published": "Fri, 02 Oct 2026 18:05:00 GMT",
-        "published_kst": "2026-10-03T03:05:00+09:00",
+        "title": "Court challenges mount over Trump’s funding clawback - Roll Call",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkZUUmtkOHE4ZjNxZGtrOS12ckpIN0phMzNqdnBfeEVUdjVRb3Byb2FVWjlPeGZLMHpIZGJBRE9rNXJDNHhMT1FvSFFpYkozM0p1b3l0Z2N0VGJZeERieTRkNmNxenl2MGw5R2ZEZkFadDlJN3pJWTZNTVJJaFJ3M1UyV09JTzBJUlh3WA?oc=5",
+        "summary": "Court challenges mount over Trump’s funding clawback Roll Call Court challenges mount over Trump’s funding clawback - Roll Call",
+        "published": "Fri, 02 Oct 2026 23:47:15 GMT",
+        "published_kst": "2026-10-03T08:47:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Friday's rally in the S&P 500 might not be enough, but Linde is out of this world",
-        "url": "https://www.cnbc.com/2026/10/02/fridays-rally-in-the-sp-500-might-not-be-enough-but-linde-is-out-of-this-world.html",
-        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Friday's rally in the S&P 500 might not be enough, but Linde is out of this world",
-        "published": "Fri, 02 Oct 2026 18:03:35 GMT",
-        "published_kst": "2026-10-03T03:03:35+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
+        "title": "President Trump Gaggles with Press Upon Departure from the White House, Oct. 2, 2026 - The White House (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWRTRlU3X0hieUljcktPNFQ2Sy1qVW5TZ243cjlWLXBoMThtWENtT255VTZQTHE3VjBpVktyczkzY3Z4RUdKN0R4MTRlX2VsNEpNT3ZZTVJzNkVqeVJ3eVAxTG11bGFKcVZSSWpzZ0k5RTV6UjF1MkNBam02S0JvWk5teWRPNzhrNjRqbTV5UjZjZG9xaHJrbzUyQldaTzN4NTlTYXpQV3hwYi0yYWNZa3E5Tm1LR1k?oc=5",
+        "summary": "2, 2026 The White House (.gov) President Trump Gaggles with Press Upon Departure from the White House, Oct. 2, 2026 - The White House (.gov)",
+        "published": "Fri, 02 Oct 2026 22:46:11 GMT",
+        "published_kst": "2026-10-03T07:46:11+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-        "url": "https://www.cnbc.com/2026/10/02/lilly-novo-amylin-obesity-drugs.html",
-        "summary": "Eli Lilly and Novo are developing new amylin drugs that serve as another biological lever to pull in treating obesity and diabetes. Why Lilly and Novo are betting on amylin to power a new wave of obesity drugs after GLP-1s",
-        "published": "Fri, 02 Oct 2026 17:55:26 GMT",
-        "published_kst": "2026-10-03T02:55:26+09:00",
+        "title": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+        "url": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+        "summary": "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff. Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+        "published": "Fri, 02 Oct 2026 22:38:49 GMT",
+        "published_kst": "2026-10-03T07:38:49+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "20%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
-        "url": "https://www.cnbc.com/2026/10/02/treasury-yields-bonds-nonfarm-payrolls.html",
-        "summary": "Treasury yields rose despite a September jobs report came in much weaker than expected. 10-year Treasury yield ticks higher despite weaker-than-expected jobs report",
-        "published": "Fri, 02 Oct 2026 17:54:42 GMT",
-        "published_kst": "2026-10-03T02:54:42+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "New federal report finds faltering labor market, rising unemployment - Deseret News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHZ4U0NsbEtOMC05UmxhREE2VlRKdkU5N0lCR3ctNXVqY2xfWHRUdkN1QTU3cEdNUlhwc3JLUmdGd2lTV3AycXhSSnYxejBRcEd5UkVoTXRiT0k3Umo5aXVPSTMzb3JoWjIzSWNRZlBCd0w5RTRUSV9uOXpSSHhmU0VySHpIMXVnZ2hxN25LQmwzM0FZMmFBQ2syajdFQVdvNFhRUmxrRnBKdGd1Sy1OREtSc2tzRWdIckduOHd3cHhodw?oc=5",
-        "summary": "New federal report finds faltering labor market, rising unemployment Deseret News New federal report finds faltering labor market, rising unemployment - Deseret News",
-        "published": "Fri, 02 Oct 2026 17:13:14 GMT",
-        "published_kst": "2026-10-03T02:13:14+09:00",
+        "title": "The cancer survivor and political operative says his appointment signals Trump’s interest in cancer, survivorship - The Cancer Letter",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LMkZNcDNzRWlIWXo4QUlhWG5CLXozUnVrTTZnQzVWY2lVcmJWaVQzRkg2RnM4MENSRkpWWEFwdldBSmpZLV96RVU4X1kxRWxwa0kwVy1HZHhhNmtS?oc=5",
+        "summary": "The cancer survivor and political operative says his appointment signals Trump’s interest in cancer, survivorship The Cancer Letter The cancer survivor and political operative says his appointment signals Trump’s interest in cancer, survivorship - The Cancer Letter",
+        "published": "Fri, 02 Oct 2026 22:32:34 GMT",
+        "published_kst": "2026-10-03T07:32:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US senators expect vote before December 13 on Trump's nuclear power pact with Saudi Arabia - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzRTNFR3cXdZcnJ1NTZWcTl0RXZRZFpRS09tQW5lQ0lDZDdoSGdtcXdGRGJyaV9QR1VnZnJJNFlRZzU5R25MTUl5Z1IzRU5abFZHQlRlWGREQ1YtMDNrR0F6NzNiQUlXUVVpMHRkWDI0TkNZTld2WmVfY0ptQjF0cGJzclBFV3hTMVhqQTRMRmNuZTJfOEg1Y0kxSEVPb2xacXM2dHZnQmhLdkUyT29ETGlFeTBqSDBTdUtxdlktU19UTW9pcUpvMGRhazZGdw?oc=5",
-        "summary": "US senators expect vote before December 13 on Trump's nuclear power pact with Saudi Arabia Reuters US senators expect vote before December 13 on Trump's nuclear power pact with Saudi Arabia - Reuters",
-        "published": "Fri, 02 Oct 2026 17:07:43 GMT",
-        "published_kst": "2026-10-03T02:07:43+09:00",
-        "domain": "google.com",
+        "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+        "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
+        "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation. DOJ says it will not reopen criminal probe into former Fed Chair Powell",
+        "published": "Fri, 02 Oct 2026 22:01:17 GMT",
+        "published_kst": "2026-10-03T07:01:17+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Anthropic to invest $100 million to train AI engineer talent",
+        "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
+        "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms. Anthropic to invest $100 million to train AI engineer talent",
+        "published": "Fri, 02 Oct 2026 21:03:06 GMT",
+        "published_kst": "2026-10-03T06:03:06+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$100"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "미국 예산관리국장 \"한국과 조선논의 많아…대미투자 기업 보상해야\" - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvS0lmMFZpQlJiOW5adXZXX3FzQ2dBZ0pIZTFfRlhucEpXdk9qYk9QOVprTHg2azNxM1laUkxQNWhVMFJUQ1BfOGUxdUdSc0E?oc=5",
-        "summary": "미국 예산관리국장 \"한국과 조선논의 많아…대미투자 기업 보상해야\" v.daum.net 미국 예산관리국장 \"한국과 조선논의 많아…대미투자 기업 보상해야\" - v.daum.net",
-        "published": "Fri, 02 Oct 2026 18:03:00 GMT",
-        "published_kst": "2026-10-03T03:03:00+09:00",
+        "title": "유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOTdLZUdmbkJoQm9BY2xSVTFsa3VWODRlZFRvcFBSS3ZhT0NmQ1AyVGJpVG0yVUl1Mll4NUpmeXBGM1Vvenc1b3pRdHJfVmpOSkxtWXNKVjJoaG1SUE5KZWd4RUNIcnhIOGtzeUFvTHlMYVgyanN4bHZuTDhTU1FVUGZBdTA4MEZS?oc=5",
+        "summary": "유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 글로벌이코노믹 유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 - 글로벌이코노믹",
+        "published": "Sat, 03 Oct 2026 00:40:33 GMT",
+        "published_kst": "2026-10-03T09:40:33+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2029"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"금리 올라도 방법은 있다\"...투자 몰린 ETF 꼽아보니 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KOUp4ZW04OG00OFRybU5wVnJGYmg0YkJtUmZlTi1neVRrLVdGemxTX3ItaHFXdmYySGdxMWFUSHNMb3pzUWpXWUJTQW9ON28?oc=5",
+        "summary": "\"금리 올라도 방법은 있다\"...투자 몰린 ETF 꼽아보니 v.daum.net \"금리 올라도 방법은 있다\"...투자 몰린 ETF 꼽아보니 - v.daum.net",
+        "published": "Sat, 03 Oct 2026 00:12:01 GMT",
+        "published_kst": "2026-10-03T09:12:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"7천피서 꼼짝 못하네\"…증시 발목 잡힌 이유 있었다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41R0lqaHVQUUhyVVVYbnBXMDI4WkZmMWx2eDZkWElOeGViTDM3eXBVVGNuUHljUFR4NE8xTjJpVEhZV3dpYUNSM1ozZmJYNnVXM1dkZVZWcU5XQQ?oc=5",
-        "summary": "\"7천피서 꼼짝 못하네\"…증시 발목 잡힌 이유 있었다 한국경제 \"7천피서 꼼짝 못하네\"…증시 발목 잡힌 이유 있었다 - 한국경제",
-        "published": "Fri, 02 Oct 2026 17:25:00 GMT",
-        "published_kst": "2026-10-03T02:25:00+09:00",
+        "title": "[위클리 PICK 3] 트럼프, 한국 對美 투자 계획 일방 발표부터 수출 '8000억 달러' 돌파까지 - 오피니언뉴스",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04UE54bDRnb0pnM1NILV94R1dqQ0dTZzhHQVBXeUtRLU9Mb3BQcnF0NVZYSWJGemdwNFBwbnB2VEU4bTdneFBoeXNJeFdmOWFQSFJwc3NUMXlfUEs0dnQtM2pmS0Y3SU13clBGcEJJSEI?oc=5",
+        "summary": "[위클리 PICK 3] 트럼프, 한국 對美 투자 계획 일방 발표부터 수출 '8000억 달러' 돌파까지 오피니언뉴스 [위클리 PICK 3] 트럼프, 한국 對美 투자 계획 일방 발표부터 수출 '8000억 달러' 돌파까지 - 오피니언뉴스",
+        "published": "Sat, 03 Oct 2026 00:00:00 GMT",
+        "published_kst": "2026-10-03T09:00:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "김미혜 동물병원장 \"아픈 도마뱀·햄스터 전국에서 찾아와요\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56aGhFMVpfZERqNEZTRDYzVXcyVTN1TTFGNDBhWTFKbE9nLUhGSHd2djdMSU9ybnJzT1JlZVlmV2I4Q2J1OEFSNHhDRERodzh3eUJTREEzQXpTQQ?oc=5",
-        "summary": "김미혜 동물병원장 \"아픈 도마뱀·햄스터 전국에서 찾아와요\" 한국경제 김미혜 동물병원장 \"아픈 도마뱀·햄스터 전국에서 찾아와요\" - 한국경제",
-        "published": "Fri, 02 Oct 2026 17:13:00 GMT",
-        "published_kst": "2026-10-03T02:13:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "8000"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Diesel and jet fuel prices spike supply chain costs - CFO Brew",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcUpwcnl1RW5relBBZjVselFuR3VhMi1FUTUxdjNhMnI4Mi1QQ1I3U1Jvc3BhcGFJZ3czcTRRdFNNeDZ4Y21BRC16bWY5MFV5LXpzN0NMOWpaV21TOTZRWWFRS0h2UFpEa3dmWmFOaXUwNjBNY2JvblQtbmlHUkFJMlR2VmR0Nk84eTlJ?oc=5",
-        "summary": "Diesel and jet fuel prices spike supply chain costs CFO Brew Diesel and jet fuel prices spike supply chain costs - CFO Brew",
-        "published": "Fri, 02 Oct 2026 16:11:00 GMT",
-        "published_kst": "2026-10-03T01:11:00+09:00",
+        "title": "Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnBVV0NkZ0xvampPbG5pcWxaVXl5UjVHeUl1bklRYzBBR2VOc2VWZHhXLVY5b1draUM1Z1JLcFk2SDRaYUFEdEREZGRaUHlVb2xObUdwN3BvcG5LQ3JsZ0E3R0hSVVFWSGNnX1FSTWUxSFZfZlRqd3kzc1dzZnlLdWlEQjE0YVoyUFJHeHZRcGF6anpjeG5ibXdXcU81Y3ZURTdzV0tB?oc=5",
+        "summary": "Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc GuruFocus Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc - GuruFocus",
+        "published": "Fri, 02 Oct 2026 21:11:06 GMT",
+        "published_kst": "2026-10-03T06:11:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AutoZone hones in on domestic distribution network - Supply Chain Dive",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjQyaUN1dXYzc2VfQjUybXN4cVZvaXdROWVKdW96ZlRQS2d0X1FTTFNmakFqdGswa2dhemZTNkJWOEIxeUFnUWdsZXJ5eHh0V3JGRHlXYTBYUGpXaVBPbEU2NUthNFREYUtQTXNWeGZKQkV4VmZZRHdaRlYzTEJNaU42anNDRzZnVTB1MVZCOGhZbThOV25VZWJCZw?oc=5",
-        "summary": "AutoZone hones in on domestic distribution network Supply Chain Dive AutoZone hones in on domestic distribution network - Supply Chain Dive",
-        "published": "Fri, 02 Oct 2026 15:08:18 GMT",
-        "published_kst": "2026-10-03T00:08:18+09:00",
+        "title": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - foley.com",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2stYzBaVm81RFQ4UW1UdWdMSWhZSXppbUxqZ3BoYjZscmNESmdYRVdhaU1zclZRX0huUk1zRjZOY1Q0R0dqN0pYUFJKaXZUOS14NHhnUkFyUWZIUXVRXzY2RHAwMEJxQ21obi02bWVlZGFnTGpPclJ3aW1neXBHam5jblZwTVNsWFo0VmxKMjlheEVlUl9mdG9jaWZTZVBUSnA4VnNUbEpfbThKcnhMOUptbzF1c3FoZWc4a1NhZGszcXd5eS1zcm94STFhMEJnWkxHX2R1dWdjOFIzWUE?oc=5",
+        "summary": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 foley.com Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - foley.com",
+        "published": "Fri, 02 Oct 2026 19:47:46 GMT",
+        "published_kst": "2026-10-03T04:47:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The Age of Parity Makes Affordability Real - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWTg1Qy1sTjdHYjF4cUhfSmJidlpwbW5WNGtSRzFnaElISTAwekRfc3oydVJGVTVuWmp1cHZwTEdEUUhyMWl0R0ttWTY2TWQ5YlB1N2ZSY2NzbUw0azFCYjc4X3gwTTFjWmRWNEpEYlgzbkJwTjRLdW9UcnVpcFBDQ0tlNm1zOXdTOW1EX1VfZFpNaW5ncmcyWTdMSWo0OUhQMTlxSg?oc=5",
-        "summary": "The Age of Parity Makes Affordability Real TradingView The Age of Parity Makes Affordability Real - TradingView",
-        "published": "Fri, 02 Oct 2026 14:30:00 GMT",
-        "published_kst": "2026-10-02T23:30:00+09:00",
+        "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRSYWU1SUxvN2pWS0dKdWluZndLaDY3UU9RVUxxTFpxWFVjeE1OcDFLZVZmTXB6OERkQlFqVjJpb1otYXZodnJ1dU1kWWxFbU12UXpYMUNYajBWbXdKSW1EMUh1UnZqM1VFWUtNUU05UDFLMzV1VjNOS3RRQWMwaFR4N2JvLVVzdW0tdHhqTE8xdzIxUXI0ZXdMcjZLc3JscENHMGFyU2ZLRjI5ZU8zN2pQWlHSAboBQVVfeXFMTnY5R1VtbDhFX0p0TW9ETjMyQkhpNXNFb3Z1OV9pRjZucEdHQ0xPempFazIwOGdvUHpxTTg5cU1oMkd3ajY5TE5UTlg5aVhiYzJ0dzMySDQ4QlJrd2hETmxqb2otRTBVbTVaXzJkYWZsRnZ6Mkc1NTBReXc0bEs1ZU5vTEV5OEFlUGZrSXlxeVI0WlV6ZVJuZXpSU0ItRDBFN3I1d2pkZExyTkc3OWg3NVlESEVYX1E5NkNR?oc=5",
+        "summary": "Sanctions Risk Crude Oil Prices Today | OilPrice.com Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk - Crude Oil Prices Today | OilPrice.com",
+        "published": "Fri, 02 Oct 2026 19:00:00 GMT",
+        "published_kst": "2026-10-03T04:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -142,6 +152,6 @@
       }
     ]
   },
-  "wrap_summary": "‘Blackmail’: Europe fumes against White House demand for more diesel Politico ‘Blackmail’: Europe fumes against White House demand for more diesel - Politico / 미국 예산관리국장 \"한국과 조선논의 많아…대미투자 기업 보상해야\" v.daum.net 미국 예산관리국장 \"한국과 조선논의 많아…대미투자 기업 보상해야\" - v.daum.net / Diesel and jet fuel prices spike supply chain costs CFO Brew Diesel and jet fuel prices spike supply chain costs - CFO Brew",
+  "wrap_summary": "Court challenges mount over Trump’s funding clawback Roll Call Court challenges mount over Trump’s funding clawback - Roll Call / 유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 글로벌이코노믹 유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 - 글로벌이코노믹 / Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc GuruFocus Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc - GuruFocus",
   "invest_summary": ""
 }
