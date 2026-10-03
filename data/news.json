@@ -1,9 +1,64 @@
 {
-  "date": "2026-10-03",
-  "generated_at_utc": "2026-10-03T14:37:08Z",
-  "cutoff_kst": "2026-10-03T23:37:00+09:00",
+  "date": "2026-10-04",
+  "generated_at_utc": "2026-10-03T17:00:54Z",
+  "cutoff_kst": "2026-10-04T02:00:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "US jobs data boosts stocks as oil prices dip - newagebd.net",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1BEOTgteUw2bGt2a3pGNXdXVDQzal9ZZnJZWFJBaUh3MF9qRVhnem5PZGprWUFQOUV6NlJVVU9mY19lMmF0OWVpVTRkU2ZwWEpGUi1CTkR3Vng4SnRlYkxkZHk0d3hqSXA2QUFFSk9qdU1WODRLY24wY0l1bkduMDQ4UFlaZlFOUVdubHpIYW80bmM?oc=5",
+        "summary": "US jobs data boosts stocks as oil prices dip newagebd.net US jobs data boosts stocks as oil prices dip - newagebd.net",
+        "published": "Sat, 03 Oct 2026 16:57:25 GMT",
+        "published_kst": "2026-10-04T01:57:25+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "High interest rates are foreclosing on the American dream of home remodeling",
+        "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
+        "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap. High interest rates are foreclosing on the American dream of home remodeling",
+        "published": "Sat, 03 Oct 2026 16:33:06 GMT",
+        "published_kst": "2026-10-04T01:33:06+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaExtakh2Sk9wRXZHZGdwZUZQNFMyYjRGNmZoVW5TemhFdUl4MFFTR1lJM0V1OFJ0R3VvTkZWUTFxSVJHc2loUXZ5R1I2Q2kyTllPaXVGcWRUb0ZjUUIzRWhfVkFFZlJhWmZEOEZja0lMajBOb0lYUGxXMEJIbVNLUjl1M01XYjk5RlYteGF0a0MyN0hTVGNiUFlGMzNldw?oc=5",
+        "summary": "The Guardian A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House?",
+        "published": "Sat, 03 Oct 2026 16:11:00 GMT",
+        "published_kst": "2026-10-04T01:11:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US adds nonfarm jobs to September job report - WPLG Local 10",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaE1SQlRwb3VuODcxNXBzenR0UGlUQ3I1YTZPY3pBVWc2dUxGeUNlbDNZYVg4bnZPWkdFSEczRWdWT09aYll3b3A2c00zSTY2OUFfd1pGcUc0Sm9lbmpKS2lGWXZyX3kzQXRBNW5DWWdBdTMzLU5kUHJpWjVreE14d21wTHEtdG1DX2pPT1FxQmZQbnBTNmc?oc=5",
+        "summary": "US adds nonfarm jobs to September job report WPLG Local 10 US adds nonfarm jobs to September job report - WPLG Local 10",
+        "published": "Sat, 03 Oct 2026 15:42:36 GMT",
+        "published_kst": "2026-10-04T00:42:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
+        "url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
+        "summary": "How Nvidia, Micron and a surprising jobs report drove last week's stock action Here's a closer look at the three developments that drove the action in our portfolio last week.",
+        "published": "Sat, 03 Oct 2026 15:06:10 GMT",
+        "published_kst": "2026-10-04T00:06:10+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
         "url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
@@ -14,96 +69,39 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
-        "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
-        "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume. Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
-        "published": "Sat, 03 Oct 2026 13:30:48 GMT",
-        "published_kst": "2026-10-03T22:30:48+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-        "url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html",
-        "summary": "With the first round of Brazil's presidential election taking place Sunday, Wall Street is gearing up with starkly different market predictions. Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election",
-        "published": "Sat, 03 Oct 2026 13:12:27 GMT",
-        "published_kst": "2026-10-03T22:12:27+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The U.S. jobs market just took a turn for the worse. Or did it? - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEQ3QWZwNGM0WUlMNl9ySTFkYkh3V1p2amVDcS1qSXd4Y2ZDa3RLUXBZclZQRzQ0bkt1OEdZSzFUQ0h4Y1NTZkR4dDBFdUZpYTJkVThqN1RadDZndzlOZG4tUGdkczNBSkw2RkRCMU16dnJFSDRVZEVTWmR3aUNLUUV3SllVUUhTb1lVNEpSazUzYjNSMGFoMTJ0QVVnR1EwYnREMFhn?oc=5",
-        "summary": "jobs market just took a turn for the worse.",
-        "published": "Sat, 03 Oct 2026 13:00:00 GMT",
-        "published_kst": "2026-10-03T22:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Nasdaq gains 1.2% as weak jobs data lifts U.S. stocks - Beinsure",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3UwNnVfZkJkQUw0QnhmNnpQQmY5M0dhcGNFUEFsYzBWTV9zWFZudUdlSnJYbnQyODNNZDl6ZjZFUlJjd2RkS1piWHVVeWpVdmZQVkplN2JmMVRjOEJxYnZ2NmtGQ2Qxb3plamZzUTVoS250bnNLT1VkRllyNEp3Sm9kRnM?oc=5",
-        "summary": "stocks Beinsure Nasdaq gains 1.2% as weak jobs data lifts U.S.",
-        "published": "Sat, 03 Oct 2026 12:57:04 GMT",
-        "published_kst": "2026-10-03T21:57:04+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "1.2%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Medicare Part B Enrollees to Receive One-Time $90 Payment, White House Says - Northeast Times",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHNpbzNfUHVhVkFscjFyeWNKTWdCRlo1VWx2MHJsNjIzTXB5bW1kVzh3U04xWkQzWXU3ZWp4NWluWGY4amRwZVc0LTF2RlhtOWdZRmlwQk03U3ZqWXcwXzUwYmJFNWFRS3Bka3RLU1kxNHpGWE9aRWZaaWZtME1aN0hJQXZ2Z2xOMWk2TUhmZ2tZem9hSWM4SFlmVDRQS1k3RHpVUUt4Z0NqZFU?oc=5",
-        "summary": "Medicare Part B Enrollees to Receive One-Time $90 Payment, White House Says Northeast Times Medicare Part B Enrollees to Receive One-Time $90 Payment, White House Says - Northeast Times",
-        "published": "Sat, 03 Oct 2026 12:16:52 GMT",
-        "published_kst": "2026-10-03T21:16:52+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$90"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
+      {
+        "title": "[오늘의 운세] 2026년 10월 4일 별자리 운세 - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FX0RUWVJleTRKSk9oeWloNVlLdnRYQmdoaDRzSjZCNV9CMEJfRjlQX3oxWE96TmJSUXMwY1FWUFNmZ1dUYllReUJXaWhzVXFNRFl4ZWFpSE55dw?oc=5",
+        "summary": "[오늘의 운세] 2026년 10월 4일 별자리 운세 hankyung.com [오늘의 운세] 2026년 10월 4일 별자리 운세 - hankyung.com",
+        "published": "Sat, 03 Oct 2026 15:00:12 GMT",
+        "published_kst": "2026-10-04T00:00:12+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[오늘의 운세] 10월 4일 띠별 운세 - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdnZDYldNejNvN2FNdHg3U0tmc1NGUzE4WTRaMVNycUtIbzctXzJrLUlTWWs3V1ZZN1FmVGozaUQzVDN1RTZNMlVMRmJybU83UTR5VjZhRkNDUQ?oc=5",
+        "summary": "[오늘의 운세] 10월 4일 띠별 운세 hankyung.com [오늘의 운세] 10월 4일 띠별 운세 - hankyung.com",
+        "published": "Sat, 03 Oct 2026 15:00:07 GMT",
+        "published_kst": "2026-10-04T00:00:07+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 중도일보",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qY2hlR3dyWVlDaGtxREF1NVFuRlRSVlFyNnVjOVJBT1JObl9aeWk0bmNTWkUtNzBGSnNrWVByNURsZnd1cmpVT1UxWk1rTWZvZW1kRzhQSzh2R090cDAzNEVMdU5kQVBNdTNTbA?oc=5",
         "summary": "부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 중도일보 부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 중도일보",
         "published": "Sat, 03 Oct 2026 13:07:08 GMT",
         "published_kst": "2026-10-03T22:07:08+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"5억 내면 시민권 드립니다\"…파격 승부수 던진 '이 나라' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pMXFTWHM1M3NWV2NUbFZULWc0N3lTbkx6c1ZGSXBCb29wMTcyVEdNcm5EMWVjdHB1cTV1RVprZnhEbXc5ek05UmRubUVEVE1TNnU2a1FOT002Zw?oc=5",
-        "summary": "\"5억 내면 시민권 드립니다\"…파격 승부수 던진 '이 나라' 한국경제 \"5억 내면 시민권 드립니다\"…파격 승부수 던진 '이 나라' - 한국경제",
-        "published": "Sat, 03 Oct 2026 12:20:16 GMT",
-        "published_kst": "2026-10-03T21:20:16+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인사이드] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fQkYta21SLWNaREtrYWRGdjdBczByVHY1OU9VX2VhQWF5b0xxQmJIMDZTSlJISS1LeVA1aVBkcm9HSENia0FQMUVZV084N2sycVZrVGQyRUNjQQ?oc=5",
-        "summary": "'잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인사이드] 한국경제 '잭팟' 꿈꾸고 뛰어들었다가…AI 숏드라마의 '눈물' [김예랑의 K컬처인사이드] - 한국경제",
-        "published": "Sat, 03 Oct 2026 12:10:44 GMT",
-        "published_kst": "2026-10-03T21:10:44+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -134,11 +132,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnBVV0NkZ0xvampPbG5pcWxaVXl5UjVHeUl1bklRYzBBR2VOc2VWZHhXLVY5b1draUM1Z1JLcFk2SDRaYUFEdEREZGRaUHlVb2xObUdwN3BvcG5LQ3JsZ0E3R0hSVVFWSGNnX1FSTWUxSFZfZlRqd3kzc1dzZnlLdWlEQjE0YVoyUFJHeHZRcGF6anpjeG5ibXdXcU81Y3ZURTdzV0tB?oc=5",
-        "summary": "Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc GuruFocus Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc - GuruFocus",
-        "published": "Fri, 02 Oct 2026 21:11:06 GMT",
-        "published_kst": "2026-10-03T06:11:06+09:00",
+        "title": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - Foley & Lardner LLP",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2stYzBaVm81RFQ4UW1UdWdMSWhZSXppbUxqZ3BoYjZscmNESmdYRVdhaU1zclZRX0huUk1zRjZOY1Q0R0dqN0pYUFJKaXZUOS14NHhnUkFyUWZIUXVRXzY2RHAwMEJxQ21obi02bWVlZGFnTGpPclJ3aW1neXBHam5jblZwTVNsWFo0VmxKMjlheEVlUl9mdG9jaWZTZVBUSnA4VnNUbEpfbThKcnhMOUptbzF1c3FoZWc4a1NhZGszcXd5eS1zcm94STFhMEJnWkxHX2R1dWdjOFIzWUE?oc=5",
+        "summary": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 Foley & Lardner LLP Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - Foley & Lardner LLP",
+        "published": "Fri, 02 Oct 2026 20:12:39 GMT",
+        "published_kst": "2026-10-03T05:12:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Gen Alpha kids are earning and spending their own money. Gen Alpha kids are earning money. / 부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 중도일보 부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 중도일보 / SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent Pulse 2.0 SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent - Pulse 2.0",
+  "wrap_summary": "US jobs data boosts stocks as oil prices dip newagebd.net US jobs data boosts stocks as oil prices dip - newagebd.net / [오늘의 운세] 2026년 10월 4일 별자리 운세 hankyung.com [오늘의 운세] 2026년 10월 4일 별자리 운세 - hankyung.com / SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent Pulse 2.0 SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent - Pulse 2.0",
   "invest_summary": ""
 }
