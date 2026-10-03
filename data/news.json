@@ -1,30 +1,50 @@
 {
   "date": "2026-10-03",
-  "generated_at_utc": "2026-10-03T00:46:05Z",
-  "cutoff_kst": "2026-10-03T09:46:00+09:00",
+  "generated_at_utc": "2026-10-03T07:11:47Z",
+  "cutoff_kst": "2026-10-03T16:11:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Court challenges mount over Trump’s funding clawback - Roll Call",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZkZUUmtkOHE4ZjNxZGtrOS12ckpIN0phMzNqdnBfeEVUdjVRb3Byb2FVWjlPeGZLMHpIZGJBRE9rNXJDNHhMT1FvSFFpYkozM0p1b3l0Z2N0VGJZeERieTRkNmNxenl2MGw5R2ZEZkFadDlJN3pJWTZNTVJJaFJ3M1UyV09JTzBJUlh3WA?oc=5",
-        "summary": "Court challenges mount over Trump’s funding clawback Roll Call Court challenges mount over Trump’s funding clawback - Roll Call",
-        "published": "Fri, 02 Oct 2026 23:47:15 GMT",
-        "published_kst": "2026-10-03T08:47:15+09:00",
+        "title": "Labor Dept. says US added 29K jobs in September - WAVY.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbG1XMkl6dWQ1TmNjbVdQRGt3Z0c1eWZ4MldpQlRSVWNaMkx3eFFDLUprWHpFWWpaZFU1aUZOR1NTX193d251Nnc1WjFHa1NFVG5KWXBGVWJUVE9iMG42MnE5RkNUc0F5SnhRSkhCTE9YTGhieHZpV3dCdFdLMXFSOU1zVzlQNUE2bjNJ?oc=5",
+        "summary": "says US added 29K jobs in September WAVY.com Labor Dept.",
+        "published": "Sat, 03 Oct 2026 05:54:07 GMT",
+        "published_kst": "2026-10-03T14:54:07+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "President Trump Gaggles with Press Upon Departure from the White House, Oct. 2, 2026 - The White House (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWRTRlU3X0hieUljcktPNFQ2Sy1qVW5TZ243cjlWLXBoMThtWENtT255VTZQTHE3VjBpVktyczkzY3Z4RUdKN0R4MTRlX2VsNEpNT3ZZTVJzNkVqeVJ3eVAxTG11bGFKcVZSSWpzZ0k5RTV6UjF1MkNBam02S0JvWk5teWRPNzhrNjRqbTV5UjZjZG9xaHJrbzUyQldaTzN4NTlTYXpQV3hwYi0yYWNZa3E5Tm1LR1k?oc=5",
-        "summary": "2, 2026 The White House (.gov) President Trump Gaggles with Press Upon Departure from the White House, Oct. 2, 2026 - The White House (.gov)",
-        "published": "Fri, 02 Oct 2026 22:46:11 GMT",
-        "published_kst": "2026-10-03T07:46:11+09:00",
+        "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+        "url": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+        "summary": "America’s fight over data centers is going global. America’s data center fight is a preview of what's to come for the rest of the world",
+        "published": "Sat, 03 Oct 2026 05:00:01 GMT",
+        "published_kst": "2026-10-03T14:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "DOJ Argues CNN & Other Outlets Can Be Banned From White House - Deadline",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1RSZ2xGS1h4alNuWVZXeVA4cS1iZmZ4N1paeU4xTElxSWc2QkM5eU5yeFZocmJCaHpHdHZ5aVM0aUdkY2dtZXVYdWdEYzBVT0JOdERBc3BFVmRKRDhsajRTWmUzLXB4ZHBFQkRuSk8yZFdxYThDaktBVVJPLUd0SGNoRWlzcEVqbzdNZQ?oc=5",
+        "summary": "DOJ Argues CNN & Other Outlets Can Be Banned From White House Deadline DOJ Argues CNN & Other Outlets Can Be Banned From White House - Deadline",
+        "published": "Sat, 03 Oct 2026 04:36:00 GMT",
+        "published_kst": "2026-10-03T13:36:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "September US jobs data shows stagnant employment and lagging wages, as AI-driven layoffs deepen - World Socialist Web Site",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PX0JSMUxWZVlQZzE4VklPbEdhZkRTQk15aG9FVnE2WmFrdGRGVjZSb29aRXF6UHVwMDhTNzZ1Vk9Tem8xdGtDTEFqTTBGRWVlWWcyZ1lRc2Q2VWhmQmNPM19kOElZMjhQ?oc=5",
+        "summary": "September US jobs data shows stagnant employment and lagging wages, as AI-driven layoffs deepen World Socialist Web Site September US jobs data shows stagnant employment and lagging wages, as AI-driven layoffs deepen - World Socialist Web Site",
+        "published": "Sat, 03 Oct 2026 03:32:39 GMT",
+        "published_kst": "2026-10-03T12:32:39+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -42,17 +62,6 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The cancer survivor and political operative says his appointment signals Trump’s interest in cancer, survivorship - The Cancer Letter",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LMkZNcDNzRWlIWXo4QUlhWG5CLXozUnVrTTZnQzVWY2lVcmJWaVQzRkg2RnM4MENSRkpWWEFwdldBSmpZLV96RVU4X1kxRWxwa0kwVy1HZHhhNmtS?oc=5",
-        "summary": "The cancer survivor and political operative says his appointment signals Trump’s interest in cancer, survivorship The Cancer Letter The cancer survivor and political operative says his appointment signals Trump’s interest in cancer, survivorship - The Cancer Letter",
-        "published": "Fri, 02 Oct 2026 22:32:34 GMT",
-        "published_kst": "2026-10-03T07:32:34+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
         "title": "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
         "url": "https://www.cnbc.com/2026/10/02/doj-says-it-will-not-reopen-criminal-probe-into-former-fed-chair-powell.html",
         "summary": "The confirmation comes after the Fed's inspector general report that said there were no grounds for a criminal referral over the mismanaged headquarters renovation. DOJ says it will not reopen criminal probe into former Fed Chair Powell",
@@ -62,61 +71,66 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Anthropic to invest $100 million to train AI engineer talent",
-        "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-        "summary": "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms. Anthropic to invest $100 million to train AI engineer talent",
-        "published": "Fri, 02 Oct 2026 21:03:06 GMT",
-        "published_kst": "2026-10-03T06:03:06+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$100"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 - 글로벌이코노믹",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOTdLZUdmbkJoQm9BY2xSVTFsa3VWODRlZFRvcFBSS3ZhT0NmQ1AyVGJpVG0yVUl1Mll4NUpmeXBGM1Vvenc1b3pRdHJfVmpOSkxtWXNKVjJoaG1SUE5KZWd4RUNIcnhIOGtzeUFvTHlMYVgyanN4bHZuTDhTU1FVUGZBdTA4MEZS?oc=5",
-        "summary": "유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 글로벌이코노믹 유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 - 글로벌이코노믹",
-        "published": "Sat, 03 Oct 2026 00:40:33 GMT",
-        "published_kst": "2026-10-03T09:40:33+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2029"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"금리 올라도 방법은 있다\"...투자 몰린 ETF 꼽아보니 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KOUp4ZW04OG00OFRybU5wVnJGYmg0YkJtUmZlTi1neVRrLVdGemxTX3ItaHFXdmYySGdxMWFUSHNMb3pzUWpXWUJTQW9ON28?oc=5",
-        "summary": "\"금리 올라도 방법은 있다\"...투자 몰린 ETF 꼽아보니 v.daum.net \"금리 올라도 방법은 있다\"...투자 몰린 ETF 꼽아보니 - v.daum.net",
-        "published": "Sat, 03 Oct 2026 00:12:01 GMT",
-        "published_kst": "2026-10-03T09:12:01+09:00",
+        "title": "[단독] 위험하다던 '중국산 CCTV'…군대에 쫙 깔렸다 '비상' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QcThwV3J4R0lTUnpPOFl2M2pmdGVpOVkya2ZkWTdBN2RUZDN1WXpkYld1ZTBvODh0MjY3TURoMjgwUkJEQ1pSaHNGd3ZaREYwZUlSOFB2Nm9ZZw?oc=5",
+        "summary": "[단독] 위험하다던 '중국산 CCTV'…군대에 쫙 깔렸다 '비상' 한국경제 [단독] 위험하다던 '중국산 CCTV'…군대에 쫙 깔렸다 '비상' - 한국경제",
+        "published": "Sat, 03 Oct 2026 06:29:00 GMT",
+        "published_kst": "2026-10-03T15:29:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[위클리 PICK 3] 트럼프, 한국 對美 투자 계획 일방 발표부터 수출 '8000억 달러' 돌파까지 - 오피니언뉴스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04UE54bDRnb0pnM1NILV94R1dqQ0dTZzhHQVBXeUtRLU9Mb3BQcnF0NVZYSWJGemdwNFBwbnB2VEU4bTdneFBoeXNJeFdmOWFQSFJwc3NUMXlfUEs0dnQtM2pmS0Y3SU13clBGcEJJSEI?oc=5",
-        "summary": "[위클리 PICK 3] 트럼프, 한국 對美 투자 계획 일방 발표부터 수출 '8000억 달러' 돌파까지 오피니언뉴스 [위클리 PICK 3] 트럼프, 한국 對美 투자 계획 일방 발표부터 수출 '8000억 달러' 돌파까지 - 오피니언뉴스",
-        "published": "Sat, 03 Oct 2026 00:00:00 GMT",
-        "published_kst": "2026-10-03T09:00:00+09:00",
+        "title": "[속보] 금메달 또 쐈다…이우석, 일본 꺾고 개인전도 우승 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxZVd4SGtLUVFqWFNFa20tcElUZllWTU1aazhfd1dvenZsX2liLUpvTFFHM2p1eW0yV0lIUlRWSGRZLUo5MktYY2VRMG02ZDBZVE5qQVJrbDVOdw?oc=5",
+        "summary": "[속보] 금메달 또 쐈다…이우석, 일본 꺾고 개인전도 우승 한국경제 [속보] 금메달 또 쐈다…이우석, 일본 꺾고 개인전도 우승 - 한국경제",
+        "published": "Sat, 03 Oct 2026 06:03:37 GMT",
+        "published_kst": "2026-10-03T15:03:37+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "8000"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"삼전닉스보다 소부장\"…수익률 상위권 오른 상품 보니 [이수의 ETF줌인] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5heGQ5VUNqXzc5OVg1WE1jMzJPR3hWZ1p0RWpmRXlabkd0XzhXajFNSVdRZDl3blNSdmNqZGY5Sm9xQmRoVlNzMFB0bnhtMUNfck1XN0Zzekh2dw?oc=5",
+        "summary": "\"삼전닉스보다 소부장\"…수익률 상위권 오른 상품 보니 [이수의 ETF줌인] 한국경제 \"삼전닉스보다 소부장\"…수익률 상위권 오른 상품 보니 [이수의 ETF줌인] - 한국경제",
+        "published": "Sat, 03 Oct 2026 06:00:07 GMT",
+        "published_kst": "2026-10-03T15:00:07+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
+      {
+        "title": "From crude to rice: the long tail of US sanctions - The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbnptVXJ5N1lEaEJXeW9RdmJJNGpYejFiRzlKZzhDeUVYRDgwSFJDWHBxRUZIMmlUajJVdUZaY0lGejBUaWhCSVFZaUJYS0wzY3V4YzZjQ2lsck9uSXBWd1hBSTlSdndjMnVGNG9uZDVsWlJqWW1XZ2RHbk1VTkE?oc=5",
+        "summary": "From crude to rice: the long tail of US sanctions The Business Standard From crude to rice: the long tail of US sanctions - The Business Standard",
+        "published": "Sat, 03 Oct 2026 07:03:57 GMT",
+        "published_kst": "2026-10-03T16:03:57+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Malaysia eyes role in Brazilian aircraft maker Embraer’s global supply chain - Malay Mail",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSWhpeWItR0NKdDJTcXNlTGx2ekpkRmI2NlhicnZmS1pqZlN6RVUxdVhEM184OW1RVlcwUzZFeWtwYmk0LWNqbmo3MkNxdjJ6cmVrNGQtc2hCU1g5OTNpSXNydjVVa040ZUladWVnVWRWMDhOMW12bmxKNG9PYV8wNHNEQmM0eHd6eURmWnhCay1VbWxmM2pZVmJ3X09rWk9NblVZVXo0cGZKeElxYnBEeE5FREJjRGhmQUFBdXJaNHpkQ3ZZcWFMTklqLWlYQdIB0wFBVV95cUxQMVZCR0dRakNlcm1XT0NxTjExRy1ENlYzbGpKNTNjWkxKTEtLSy1BdGNTVl9RcmwtNGpnWElHTGQ3NFpaMlUzb1VVQlhVd2Q3QkRZQzRKejZlNnYxY1hRX2hzTnZzR3U5QUR5ZGdDbGZzOWxOcWJlUlFzbTBpb0RyUkh3OVFkYWhpbHVlWVg4TGNuZUttU1BNSEo1Qjd6V1NFaHVzeVl5RkJDOXIyVmFZVnZVTVZKdTBIQUY2bkxZaV9sVXFTTHBXaG9tRUFSbmlRMVBF?oc=5",
+        "summary": "Malaysia eyes role in Brazilian aircraft maker Embraer’s global supply chain Malay Mail Malaysia eyes role in Brazilian aircraft maker Embraer’s global supply chain - Malay Mail",
+        "published": "Sat, 03 Oct 2026 02:52:50 GMT",
+        "published_kst": "2026-10-03T11:52:50+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc - GuruFocus",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnBVV0NkZ0xvampPbG5pcWxaVXl5UjVHeUl1bklRYzBBR2VOc2VWZHhXLVY5b1draUM1Z1JLcFk2SDRaYUFEdEREZGRaUHlVb2xObUdwN3BvcG5LQ3JsZ0E3R0hSVVFWSGNnX1FSTWUxSFZfZlRqd3kzc1dzZnlLdWlEQjE0YVoyUFJHeHZRcGF6anpjeG5ibXdXcU81Y3ZURTdzV0tB?oc=5",
@@ -127,31 +141,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - foley.com",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2stYzBaVm81RFQ4UW1UdWdMSWhZSXppbUxqZ3BoYjZscmNESmdYRVdhaU1zclZRX0huUk1zRjZOY1Q0R0dqN0pYUFJKaXZUOS14NHhnUkFyUWZIUXVRXzY2RHAwMEJxQ21obi02bWVlZGFnTGpPclJ3aW1neXBHam5jblZwTVNsWFo0VmxKMjlheEVlUl9mdG9jaWZTZVBUSnA4VnNUbEpfbThKcnhMOUptbzF1c3FoZWc4a1NhZGszcXd5eS1zcm94STFhMEJnWkxHX2R1dWdjOFIzWUE?oc=5",
-        "summary": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 foley.com Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - foley.com",
-        "published": "Fri, 02 Oct 2026 19:47:46 GMT",
-        "published_kst": "2026-10-03T04:47:46+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk - Crude Oil Prices Today | OilPrice.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRSYWU1SUxvN2pWS0dKdWluZndLaDY3UU9RVUxxTFpxWFVjeE1OcDFLZVZmTXB6OERkQlFqVjJpb1otYXZodnJ1dU1kWWxFbU12UXpYMUNYajBWbXdKSW1EMUh1UnZqM1VFWUtNUU05UDFLMzV1VjNOS3RRQWMwaFR4N2JvLVVzdW0tdHhqTE8xdzIxUXI0ZXdMcjZLc3JscENHMGFyU2ZLRjI5ZU8zN2pQWlHSAboBQVVfeXFMTnY5R1VtbDhFX0p0TW9ETjMyQkhpNXNFb3Z1OV9pRjZucEdHQ0xPempFazIwOGdvUHpxTTg5cU1oMkd3ajY5TE5UTlg5aVhiYzJ0dzMySDQ4QlJrd2hETmxqb2otRTBVbTVaXzJkYWZsRnZ6Mkc1NTBReXc0bEs1ZU5vTEV5OEFlUGZrSXlxeVI0WlV6ZVJuZXpSU0ItRDBFN3I1d2pkZExyTkc3OWg3NVlESEVYX1E5NkNR?oc=5",
-        "summary": "Sanctions Risk Crude Oil Prices Today | OilPrice.com Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk - Crude Oil Prices Today | OilPrice.com",
-        "published": "Fri, 02 Oct 2026 19:00:00 GMT",
-        "published_kst": "2026-10-03T04:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Court challenges mount over Trump’s funding clawback Roll Call Court challenges mount over Trump’s funding clawback - Roll Call / 유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 글로벌이코노믹 유럽연합 인구 2029년 정점 찍고 감소세 전환…한국 수출 전선도 늙어가는 유럽에 대응 서둘러야 - 글로벌이코노믹 / Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc GuruFocus Nike (NKE) Plans Supply Chain Overhaul Amid Q1 Profitability Foc - GuruFocus",
+  "wrap_summary": "says US added 29K jobs in September WAVY.com Labor Dept. / [단독] 위험하다던 '중국산 CCTV'…군대에 쫙 깔렸다 '비상' 한국경제 [단독] 위험하다던 '중국산 CCTV'…군대에 쫙 깔렸다 '비상' - 한국경제 / From crude to rice: the long tail of US sanctions The Business Standard From crude to rice: the long tail of US sanctions - The Business Standard",
   "invest_summary": ""
 }
