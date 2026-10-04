@@ -1,9 +1,55 @@
 {
   "date": "2026-10-04",
-  "generated_at_utc": "2026-10-04T00:08:52Z",
-  "cutoff_kst": "2026-10-04T09:08:00+09:00",
+  "generated_at_utc": "2026-10-04T07:31:24Z",
+  "cutoff_kst": "2026-10-04T16:31:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - orlandosentinel.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcXZMRmlmc29mNHBDZHJuM1EyaTFneERQbDRLTVY0WXBDXzlZaVhVMjczS3RfVHhxUWJGbTdFUmIwTzk3elZFNU42M1F6WGRSU1M2aFdBU2h2MXVaV215RXEzM2oxcnRiM3J5d1pTdGoxbjhRSVNLTm9jM2V1YUt3blBaREpobkZQZGhuaVVSbUFvNkFnNU83Q2w2YTlPalpvTzV5aWZBaVVoUGpWdV9fcFd4WEh5LTMxUnd2bW1HbzBCUE5sdkJlWmxQbF9zWHFJUTBNLTFTWQ?oc=5",
+        "summary": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs orlandosentinel.com Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - orlandosentinel.com",
+        "published": "Sun, 04 Oct 2026 07:04:46 GMT",
+        "published_kst": "2026-10-04T16:04:46+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$90"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Opinion | The Knicks should decline Trump's White House invitation - The Boston Globe",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUt6V1oxbmFkbUREOUR5MGFyTTdwSEFWMnlqYnpPQmxCa1VkZ25xLTRGZHUtVEYyOEJvTjFvT2RuazN1NGhCVVZpamRNVXlTQXluVXk1Wk12S1AwdHU2S0ozczE4b1JVZ2RqcDNaNGpWblR3bXZBbTgza2ktdVhxSG1OZ3FjbzJKSmdtcERRZ3lDeVpmbURGQ3JpdFNGWWtYMW5WcUpxcDdBT3ZhYTFlZ0J3?oc=5",
+        "summary": "Opinion | The Knicks should decline Trump's White House invitation The Boston Globe Opinion | The Knicks should decline Trump's White House invitation - The Boston Globe",
+        "published": "Sun, 04 Oct 2026 07:03:31 GMT",
+        "published_kst": "2026-10-04T16:03:31+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Vile Image Emerges of New White House Press Aide Beni Rae Harmony - The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNE41eEVfZU9ub0NUaXN3ZnR2Z3lJaFZtQy1MMEg5MWtUMHYtZkJON0hCb2VqVGlFYlJZbjVBU1B1U1RMTEduSkdSclBCbzBPTG9LUDZoZjlnOWNxQ0wwTWtoSjV0NEFGbkFHc3ptbFNhb2VCVjZ6YWtQQnhsbkJlRUVIMUtxcmE2VlZhNmZZY05yS2xYNlZLRzVVeks?oc=5",
+        "summary": "Vile Image Emerges of New White House Press Aide Beni Rae Harmony The Daily Beast Vile Image Emerges of New White House Press Aide Beni Rae Harmony - The Daily Beast",
+        "published": "Sun, 04 Oct 2026 07:02:00 GMT",
+        "published_kst": "2026-10-04T16:02:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+        "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+        "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare. Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+        "published": "Sun, 04 Oct 2026 05:00:01 GMT",
+        "published_kst": "2026-10-04T14:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
         "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
@@ -12,30 +58,6 @@
         "published_kst": "2026-10-04T08:37:23+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
-        "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ",
-        "published": "Sat, 03 Oct 2026 23:19:00 GMT",
-        "published_kst": "2026-10-04T08:19:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - Orlando Sentinel",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcXZMRmlmc29mNHBDZHJuM1EyaTFneERQbDRLTVY0WXBDXzlZaVhVMjczS3RfVHhxUWJGbTdFUmIwTzk3elZFNU42M1F6WGRSU1M2aFdBU2h2MXVaV215RXEzM2oxcnRiM3J5d1pTdGoxbjhRSVNLTm9jM2V1YUt3blBaREpobkZQZGhuaVVSbUFvNkFnNU83Q2w2YTlPalpvTzV5aWZBaVVoUGpWdV9fcFd4WEh5LTMxUnd2bW1HbzBCUE5sdkJlWmxQbF9zWHFJUTBNLTFTWQ?oc=5",
-        "summary": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs Orlando Sentinel Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - Orlando Sentinel",
-        "published": "Sat, 03 Oct 2026 22:34:41 GMT",
-        "published_kst": "2026-10-04T07:34:41+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$90"
-        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -49,59 +71,37 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House defends media outlet bans, now citing ‘professionalism’ standards - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGdRek1mdHhOaWJkM2J4LTFnRElZdE83aGFVclc2bnN3dl9FampVTk94SXA3WnVwdjFaRWRvNmRaZ3FRZUlkd0hDQXVkMzZVRjIxZXFTbml2aE5KVmtJOUM5dUY3aHVzcG9jS0Z4czRrM2hqSHd5SjFmZWtRQmlJZFN1endPNHBncVo1U0NNTEJxYno5NFd0dE9FODNyVlE50gGmAUFVX3lxTE16d3ZRdEFuMUl1a3JhaEZ2U1ZXSUxvalRUSHJVaUhQbHJQQlBwSlgxN2g4a2luaWhzSlRISThIUDRnamZ0Q0VTVlczOUx6VTYyTmRfUlVfNjJZaXRaQk5wTzZKNmFvLU84NkE3YUZJdE00N0xRTTBfQ29UdW9SdEhkZXFiTVNOT0VKZkZuMTkwNzRUWU5OZmhBTm1sbmZOWHhkejNlblE?oc=5",
-        "summary": "White House defends media outlet bans, now citing ‘professionalism’ standards The Hill White House defends media outlet bans, now citing ‘professionalism’ standards - The Hill",
-        "published": "Sat, 03 Oct 2026 19:22:00 GMT",
-        "published_kst": "2026-10-04T04:22:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
-        "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
-        "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap. High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
-        "published": "Sat, 03 Oct 2026 17:57:40 GMT",
-        "published_kst": "2026-10-04T02:57:40+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
-        "summary": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] hankyung.com \"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] - hankyung.com",
-        "published": "Sun, 04 Oct 2026 00:00:01 GMT",
-        "published_kst": "2026-10-04T09:00:01+09:00",
+        "title": "맑은 가을 하늘 아래 경복궁 나들이 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DZmdfcEl1MTk5T2Jud2VYbW43bC1QTHlLWFVGODZZQWFuWXhqV05GVEN4dFc3NnIzcVZxWTU2cUdCb3ctWkdHblR0SV9iT1BtSnpVQUg5dk1ZQQ?oc=5",
+        "summary": "맑은 가을 하늘 아래 경복궁 나들이 한국경제 맑은 가을 하늘 아래 경복궁 나들이 - 한국경제",
+        "published": "Sun, 04 Oct 2026 07:19:51 GMT",
+        "published_kst": "2026-10-04T16:19:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "반도체 뺀 대한민국 수출은 ‘정체’…착시현상 심화 - 빅데이터뉴스",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kdDVfT205WUEzUW5BelNtLXRqbFBLbk9Oa0dONTFaTl9QSERxVDEwOVphVm1mYi0xZnZPbWhEY0x5VG1kUlNYZW5aSUtqdUF6NnNLcUVQWHJlUEdXWFBneVhxc2wtZGZwOWtpRUFfd21TTllHWjRyZ2VrOVk?oc=5",
-        "summary": "반도체 뺀 대한민국 수출은 ‘정체’…착시현상 심화 빅데이터뉴스 반도체 뺀 대한민국 수출은 ‘정체’…착시현상 심화 - 빅데이터뉴스",
-        "published": "Sat, 03 Oct 2026 23:57:08 GMT",
-        "published_kst": "2026-10-04T08:57:08+09:00",
+        "title": "최근 침해위협 대응 전금융권 긴급 점검회의 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QTUc0X2RqYlNsTTM2cnZyVF91YnBRcmFfSWFLb2JFbEI1Zl9mQ1dOWHJaemItV1BkVjRKTVNpOTVOUTJ3NzR0ZzZWS09ybEtJRXZpN2J2NC14Zw?oc=5",
+        "summary": "최근 침해위협 대응 전금융권 긴급 점검회의 한국경제 최근 침해위협 대응 전금융권 긴급 점검회의 - 한국경제",
+        "published": "Sun, 04 Oct 2026 07:17:36 GMT",
+        "published_kst": "2026-10-04T16:17:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "美연준 인사들 잇단 발언...10월 금리 인상 기대 후퇴 - v.daum.net",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FM1hRVzV0dFZYMXoyUmcxZUNtQ1N1MjRQRjI5akV3Sng0dE5ETUZHS3dRZ3k0QnJST0JVenJOVWRNMjJ5eEI3S3AwU1NDZ00?oc=5",
-        "summary": "美연준 인사들 잇단 발언...10월 금리 인상 기대 후퇴 v.daum.net 美연준 인사들 잇단 발언...10월 금리 인상 기대 후퇴 - v.daum.net",
-        "published": "Sat, 03 Oct 2026 23:28:01 GMT",
-        "published_kst": "2026-10-04T08:28:01+09:00",
+        "title": "[포토] 제14회 완주와일드&로컬푸드축제 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCV2ZaQ29UdDd1Yl9xSjBRUnVVT0hZUXN3ZGVCR09ZWHFVM015WlhFNU5hd2xnWXhWUmJESVVnYWNidU9CRkQtZHhpN3huV1hYVnBrcXFGOFBjZw?oc=5",
+        "summary": "[포토] 제14회 완주와일드&로컬푸드축제 한국경제 [포토] 제14회 완주와일드&로컬푸드축제 - 한국경제",
+        "published": "Sun, 04 Oct 2026 07:12:33 GMT",
+        "published_kst": "2026-10-04T16:12:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,11 +110,22 @@
     ],
     "world": [
       {
-        "title": "Ghana, Nigeria unite to drive global supply chain transformation - Ghana News Agency",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmxtSDZDRWJNMXFqUGN4Tkplbm5KcG9MX2lwTF9OR2FXT3hzUnJVY3hzX3JBaUpIajNyUXVEVFJaRmIzU0pVdGhjaVo1S3ZuWkdmaVpxbUd3ZlJGdXV2Z0tsV01hb3VibkNyelNQamVMVnRDNml4SXJpRHc3QkdIRFpnOTlSVnUyRlpxTG5ONkx4S2NtSHc?oc=5",
-        "summary": "Ghana, Nigeria unite to drive global supply chain transformation Ghana News Agency Ghana, Nigeria unite to drive global supply chain transformation - Ghana News Agency",
-        "published": "Sat, 03 Oct 2026 19:06:21 GMT",
-        "published_kst": "2026-10-04T04:06:21+09:00",
+        "title": "Planning beyond contingency for supply chain resilience - todaysmedicaldevelopments.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONk5najdMaVZzZ0hSaVc0MWt3bmVEOHBQU3BlSUk0enY0b3A5ZlAyWkJ6Yll0bU5fMHJkX2xUNTF0M25admNGTVVYeXJGNkxlTWYyN0pxYlhNVnRWa0d0eThET3IyWDUxSXhkd2Z3bENYc0VJcV9PU2FHTUI3SjJteVpZczRsb2xWVXBGSl9UTGdJX2UtTWo0eldRQWwxUTJi?oc=5",
+        "summary": "Planning beyond contingency for supply chain resilience todaysmedicaldevelopments.com Planning beyond contingency for supply chain resilience - todaysmedicaldevelopments.com",
+        "published": "Sun, 04 Oct 2026 06:00:00 GMT",
+        "published_kst": "2026-10-04T15:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Where do Vietnamese firms stand in Pandora's supply chain? - Theinvestor",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPamd6N1JsWVUzTWszVUQwdm53VFpfbFVmWHhIWlVtVU1aOXFtVXJvdmlkXzZCcFB5QVFjU3RCTjBRV2J4VExsQk9oNjhGMmlwZkM5d3MzaXFTNnhHQkpqbTQ5ZEFYTFliY0FWQkVieGd6Rkk5WDVXeTIxTEhEd2VvSFY2SXQ2ZmVUaGRnNnNNMXpvc2RHMGc?oc=5",
+        "summary": "Theinvestor Where do Vietnamese firms stand in Pandora's supply chain?",
+        "published": "Sun, 04 Oct 2026 01:00:00 GMT",
+        "published_kst": "2026-10-04T10:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -130,20 +141,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Alamein-Africa Forum Catalyses Continental Supply Chain Overhaul - DNE Africa",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFdkxYZmloSDBrOUF1aXRDLTZBZ2F1SDlLNVlXNEpiRWRkUlJMNllqVFRYVmxoU09iUW56OUpjbkxCakdBSVVBVzRSbFIyYnVneGxpN19SZVIxY0pud0poY2NUWFVZMWFYVDNzMVNpR2U2MURPbmxJ?oc=5",
-        "summary": "Alamein-Africa Forum Catalyses Continental Supply Chain Overhaul DNE Africa Alamein-Africa Forum Catalyses Continental Supply Chain Overhaul - DNE Africa",
-        "published": "Sat, 03 Oct 2026 16:52:34 GMT",
-        "published_kst": "2026-10-04T01:52:34+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday. Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports / \"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] hankyung.com \"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] - hankyung.com / Ghana, Nigeria unite to drive global supply chain transformation Ghana News Agency Ghana, Nigeria unite to drive global supply chain transformation - Ghana News Agency",
+  "wrap_summary": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs orlandosentinel.com Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - orlandosentinel.com / 맑은 가을 하늘 아래 경복궁 나들이 한국경제 맑은 가을 하늘 아래 경복궁 나들이 - 한국경제 / Planning beyond contingency for supply chain resilience todaysmedicaldevelopments.com Planning beyond contingency for supply chain resilience - todaysmedicaldevelopments.com",
   "invest_summary": ""
 }
