@@ -113,6 +113,85 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#07111f}
     });
   }
 
+  const r19NavStack=[];
+
+  function paragraphMark(n){
+    if(!n)return null;
+    const circ=['①','②','③','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪','⑫','⑬','⑭','⑮','⑯','⑰','⑱','⑲','⑳'];
+    const i=Number(n);
+    return (i>=1&&i<=circ.length)?circ[i-1]:null;
+  }
+
+  function currentLegalState(doc){
+    try{
+      const modal=doc.getElementById('modal');
+      const active=[...doc.querySelectorAll('.tab.on')].find(x=>x.dataset.doc)?.dataset.doc || 'law';
+      const directiveVisible=modal && modal.style.display==='none';
+      let sourceDoc=doc, kind=active;
+      if(directiveVisible){
+        const lf=doc.getElementById('legacy');
+        if(lf&&lf.contentDocument){sourceDoc=lf.contentDocument;kind='directive';}
+      }
+      const opened=[...sourceDoc.querySelectorAll('.article[open] summary')][0];
+      return {
+        kind,
+        article: opened ? opened.textContent.trim().match(/^제\s*\d+(?:의\d+)?조/)?.[0]?.replace(/\s+/g,'') : null,
+        scrollY: sourceDoc.defaultView ? sourceDoc.defaultView.scrollY : 0
+      };
+    }catch(_){ return null; }
+  }
+
+  function ensureBackButton(doc){
+    try{
+      if(doc.getElementById('r19BackRef'))return;
+      const b=doc.createElement('button');
+      b.id='r19BackRef';
+      b.textContent='← 이전 조문으로';
+      b.style.cssText='display:none;position:fixed;z-index:2147483647;right:14px;top:12px;padding:9px 12px;border:1px solid #7aa7c9;border-radius:10px;background:#112b3f;color:#fff;font:800 12px system-ui,-apple-system,"Malgun Gothic",sans-serif;box-shadow:0 7px 22px #0008;cursor:pointer';
+      b.onclick=()=>restorePrevious(doc);
+      doc.body.append(b);
+    }catch(_){}
+  }
+
+  function showBackButton(doc){
+    ensureBackButton(doc);
+    const b=doc.getElementById('r19BackRef');
+    if(b)b.style.display=r19NavStack.length?'block':'none';
+  }
+
+  function restorePrevious(doc){
+    const st=r19NavStack.pop();
+    if(!st)return;
+    try{
+      if(st.kind==='directive'){
+        const tab=doc.getElementById('directiveTab');
+        if(tab)tab.click();
+        setTimeout(()=>{
+          const lf=doc.getElementById('legacy'), d=lf&&lf.contentDocument; if(!d)return;
+          enhanceHierarchy(d); markRefs(d);
+          if(st.article){
+            const s=[...d.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(st.article));
+            if(s)s.parentElement.open=true;
+          }
+          d.defaultView?.scrollTo(0,st.scrollY||0);
+          showBackButton(doc);
+        },300);
+      }else{
+        const tab=[...doc.querySelectorAll('.tab')].find(x=>x.dataset.doc===st.kind);
+        if(tab)tab.click();
+        setTimeout(()=>{
+          enhanceHierarchy(doc);markRefs(doc);
+          if(st.article){
+            const s=[...doc.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(st.article));
+            if(s)s.parentElement.open=true;
+          }
+          doc.defaultView?.scrollTo(0,st.scrollY||0);
+          showBackButton(doc);
+        },120);
+      }
+    }catch(_){}
+  }
+
   function markRefs(doc){
     if(!doc)return;
     [...doc.querySelectorAll('.node,.r19Para>summary,.r19Sub>summary')].forEach(el=>{
@@ -121,12 +200,13 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#07111f}
       const texts=[]; let t; while((t=walker.nextNode()))texts.push(t);
       texts.forEach(node=>{
         const txt=node.nodeValue; if(!txt)return;
-        const re=/(방위사업법|방위사업관리규정|국방전력발전업무훈령|법)\s*제\s*(\d+(?:의\d+)?)조/g;
+        const re=/(방위사업법|방위사업관리규정|국방전력발전업무훈령|법|영)\s*제\s*(\d+(?:의\d+)?)조(?:\s*제?\s*(\d+)항)?/g;
         let m,last=0,hit=false; const frag=doc.createDocumentFragment();
         while((m=re.exec(txt))){
           hit=true; frag.append(txt.slice(last,m.index));
           const a=doc.createElement('span'); a.className='r19Ref'; a.textContent=m[0];
           a.dataset.article='제'+m[2]+'조';
+          a.dataset.para=m[3]||'';
           a.dataset.doc=(m[1]==='방위사업관리규정')?'reg':(m[1]==='국방전력발전업무훈령'?'directive':'law');
           frag.append(a); last=re.lastIndex;
         }
@@ -135,22 +215,50 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#07111f}
     });
   }
 
-  function jumpTopDoc(doc,kind,article){
+  function focusParagraph(targetDoc, para){
+    if(!para)return;
+    const mark=paragraphMark(para);
+    if(!mark)return;
+    const candidates=[...targetDoc.querySelectorAll('.r19Para>summary,.node.d1,.node.depth-1')];
+    const p=candidates.find(x=>x.textContent.trim().includes(mark));
+    if(p){
+      const d=p.closest('details'); if(d)d.open=true;
+      p.scrollIntoView({behavior:'smooth',block:'center'});
+      const old=p.style.outline;
+      p.style.outline='3px solid #ffc857';
+      setTimeout(()=>p.style.outline=old,1800);
+    }
+  }
+
+  function jumpTopDoc(doc,kind,article,para){
     try{
+      const st=currentLegalState(doc);
+      if(st)r19NavStack.push(st);
+      showBackButton(doc);
+
       if(kind==='directive'){
         const b=doc.getElementById('directiveTab'); if(b)b.click();
         setTimeout(()=>{
           const lf=doc.getElementById('legacy'), d=lf&&lf.contentDocument; if(!d)return;
           enhanceHierarchy(d); markRefs(d);
-          const target=[...d.querySelectorAll('.article summary')].find(x=>x.textContent.trim().startsWith(article));
-          if(target){target.parentElement.open=true; target.scrollIntoView({behavior:'smooth',block:'start'});}
+          const target=[...d.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(article));
+          if(target){
+            target.parentElement.open=true;
+            target.scrollIntoView({behavior:'smooth',block:'start'});
+            setTimeout(()=>focusParagraph(d,para),180);
+          }
         },350); return;
       }
+
       const tab=[...doc.querySelectorAll('.tab')].find(x=>x.dataset.doc===kind); if(tab)tab.click();
       setTimeout(()=>{
         enhanceHierarchy(doc); markRefs(doc);
-        const target=[...doc.querySelectorAll('.article summary')].find(x=>x.textContent.trim().startsWith(article));
-        if(target){target.parentElement.open=true; target.scrollIntoView({behavior:'smooth',block:'start'});}
+        const target=[...doc.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(article));
+        if(target){
+          target.parentElement.open=true;
+          target.scrollIntoView({behavior:'smooth',block:'start'});
+          setTimeout(()=>focusParagraph(doc,para),160);
+        }
       },120);
     }catch(_){}
   }
@@ -164,7 +272,7 @@ html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#07111f}
       doc.documentElement.dataset.r19click='1';
       doc.addEventListener('click',e=>{
         const r=e.target.closest&&e.target.closest('.r19Ref');
-        if(r){e.preventDefault();e.stopPropagation();jumpTopDoc(doc,r.dataset.doc,r.dataset.article);}
+        if(r){e.preventDefault();e.stopPropagation();jumpTopDoc(doc,r.dataset.doc,r.dataset.article,r.dataset.para);}
       },true);
     }
     const nested=doc.getElementById('legacy');
