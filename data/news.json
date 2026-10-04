@@ -1,70 +1,72 @@
 {
   "date": "2026-10-04",
-  "generated_at_utc": "2026-10-03T17:00:54Z",
-  "cutoff_kst": "2026-10-04T02:00:00+09:00",
+  "generated_at_utc": "2026-10-04T00:08:52Z",
+  "cutoff_kst": "2026-10-04T09:08:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "US jobs data boosts stocks as oil prices dip - newagebd.net",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ1BEOTgteUw2bGt2a3pGNXdXVDQzal9ZZnJZWFJBaUh3MF9qRVhnem5PZGprWUFQOUV6NlJVVU9mY19lMmF0OWVpVTRkU2ZwWEpGUi1CTkR3Vng4SnRlYkxkZHk0d3hqSXA2QUFFSk9qdU1WODRLY24wY0l1bkduMDQ4UFlaZlFOUVdubHpIYW80bmM?oc=5",
-        "summary": "US jobs data boosts stocks as oil prices dip newagebd.net US jobs data boosts stocks as oil prices dip - newagebd.net",
-        "published": "Sat, 03 Oct 2026 16:57:25 GMT",
-        "published_kst": "2026-10-04T01:57:25+09:00",
+        "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+        "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
+        "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday. Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+        "published": "Sat, 03 Oct 2026 23:37:23 GMT",
+        "published_kst": "2026-10-04T08:37:23+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzllZ3FlUmNzR3pPMkNlbDRWSU5yT2lZLXA0bnpMZjI5VmxNTG5KZFBfZEp3elVXSG1XOU5jckVlRVA1M05oRHNtMDdhVDQyY0pLdXlScG54OXJpZlZJSTFtZkMxVVBHOWlaM2hKVmpuaFpwR3c3c05ITDU1N19IcnhENHQwdTAxeGtmRnVpNDdSc0IwWFowTmlxREVocURBVFppVFRoaVdLYXpsbXBmSUxqUTZ6MG1GSjE3RHRmVQ?oc=5",
+        "summary": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force WSJ Exclusive | New AI Czar Unveils Goals, Members of White House Task Force - WSJ",
+        "published": "Sat, 03 Oct 2026 23:19:00 GMT",
+        "published_kst": "2026-10-04T08:19:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "High interest rates are foreclosing on the American dream of home remodeling",
+        "title": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - Orlando Sentinel",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcXZMRmlmc29mNHBDZHJuM1EyaTFneERQbDRLTVY0WXBDXzlZaVhVMjczS3RfVHhxUWJGbTdFUmIwTzk3elZFNU42M1F6WGRSU1M2aFdBU2h2MXVaV215RXEzM2oxcnRiM3J5d1pTdGoxbjhRSVNLTm9jM2V1YUt3blBaREpobkZQZGhuaVVSbUFvNkFnNU83Q2w2YTlPalpvTzV5aWZBaVVoUGpWdV9fcFd4WEh5LTMxUnd2bW1HbzBCUE5sdkJlWmxQbF9zWHFJUTBNLTFTWQ?oc=5",
+        "summary": "Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs Orlando Sentinel Trump announces $90 payments for seniors on Medicare ahead of midterm elections for premium costs - Orlando Sentinel",
+        "published": "Sat, 03 Oct 2026 22:34:41 GMT",
+        "published_kst": "2026-10-04T07:34:41+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$90"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
+        "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+        "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago. Tesla’s Cybercab had a rocky first month in Austin.",
+        "published": "Sat, 03 Oct 2026 20:29:07 GMT",
+        "published_kst": "2026-10-04T05:29:07+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House defends media outlet bans, now citing ‘professionalism’ standards - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGdRek1mdHhOaWJkM2J4LTFnRElZdE83aGFVclc2bnN3dl9FampVTk94SXA3WnVwdjFaRWRvNmRaZ3FRZUlkd0hDQXVkMzZVRjIxZXFTbml2aE5KVmtJOUM5dUY3aHVzcG9jS0Z4czRrM2hqSHd5SjFmZWtRQmlJZFN1endPNHBncVo1U0NNTEJxYno5NFd0dE9FODNyVlE50gGmAUFVX3lxTE16d3ZRdEFuMUl1a3JhaEZ2U1ZXSUxvalRUSHJVaUhQbHJQQlBwSlgxN2g4a2luaWhzSlRISThIUDRnamZ0Q0VTVlczOUx6VTYyTmRfUlVfNjJZaXRaQk5wTzZKNmFvLU84NkE3YUZJdE00N0xRTTBfQ29UdW9SdEhkZXFiTVNOT0VKZkZuMTkwNzRUWU5OZmhBTm1sbmZOWHhkejNlblE?oc=5",
+        "summary": "White House defends media outlet bans, now citing ‘professionalism’ standards The Hill White House defends media outlet bans, now citing ‘professionalism’ standards - The Hill",
+        "published": "Sat, 03 Oct 2026 19:22:00 GMT",
+        "published_kst": "2026-10-04T04:22:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
         "url": "https://www.cnbc.com/2026/10/03/mortgage-rates-home-equity-heloc-remodeling.html",
-        "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap. High interest rates are foreclosing on the American dream of home remodeling",
-        "published": "Sat, 03 Oct 2026 16:33:06 GMT",
-        "published_kst": "2026-10-04T01:33:06+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House? - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaExtakh2Sk9wRXZHZGdwZUZQNFMyYjRGNmZoVW5TemhFdUl4MFFTR1lJM0V1OFJ0R3VvTkZWUTFxSVJHc2loUXZ5R1I2Q2kyTllPaXVGcWRUb0ZjUUIzRWhfVkFFZlJhWmZEOEZja0lMajBOb0lYUGxXMEJIbVNLUjl1M01XYjk5RlYteGF0a0MyN0hTVGNiUFlGMzNldw?oc=5",
-        "summary": "The Guardian A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House?",
-        "published": "Sat, 03 Oct 2026 16:11:00 GMT",
-        "published_kst": "2026-10-04T01:11:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US adds nonfarm jobs to September job report - WPLG Local 10",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaE1SQlRwb3VuODcxNXBzenR0UGlUQ3I1YTZPY3pBVWc2dUxGeUNlbDNZYVg4bnZPWkdFSEczRWdWT09aYll3b3A2c00zSTY2OUFfd1pGcUc0Sm9lbmpKS2lGWXZyX3kzQXRBNW5DWWdBdTMzLU5kUHJpWjVreE14d21wTHEtdG1DX2pPT1FxQmZQbnBTNmc?oc=5",
-        "summary": "US adds nonfarm jobs to September job report WPLG Local 10 US adds nonfarm jobs to September job report - WPLG Local 10",
-        "published": "Sat, 03 Oct 2026 15:42:36 GMT",
-        "published_kst": "2026-10-04T00:42:36+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How Nvidia, Micron and a surprising jobs report drove last week's stock action",
-        "url": "https://www.cnbc.com/2026/10/03/how-nvidia-micron-and-a-surprising-jobs-report-drove-last-weeks-stock-action.html",
-        "summary": "How Nvidia, Micron and a surprising jobs report drove last week's stock action Here's a closer look at the three developments that drove the action in our portfolio last week.",
-        "published": "Sat, 03 Oct 2026 15:06:10 GMT",
-        "published_kst": "2026-10-04T00:06:10+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gen Alpha kids are earning money. Here's how parents can help them save and invest",
-        "url": "https://www.cnbc.com/2026/10/03/investing-for-kids-accounts.html",
-        "summary": "Gen Alpha kids are earning and spending their own money. Gen Alpha kids are earning money.",
-        "published": "Sat, 03 Oct 2026 14:00:01 GMT",
-        "published_kst": "2026-10-03T23:00:01+09:00",
+        "summary": "Homeowners are stuck in houses they might have left by now due to the low mortgage rates of the past, and can't even remodel with HELOCs too expensive to tap. High mortgage rates are trapping homeowners in place, and making renovations harder to afford",
+        "published": "Sat, 03 Oct 2026 17:57:40 GMT",
+        "published_kst": "2026-10-04T02:57:40+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,35 +75,33 @@
     ],
     "kr": [
       {
-        "title": "[오늘의 운세] 2026년 10월 4일 별자리 운세 - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FX0RUWVJleTRKSk9oeWloNVlLdnRYQmdoaDRzSjZCNV9CMEJfRjlQX3oxWE96TmJSUXMwY1FWUFNmZ1dUYllReUJXaWhzVXFNRFl4ZWFpSE55dw?oc=5",
-        "summary": "[오늘의 운세] 2026년 10월 4일 별자리 운세 hankyung.com [오늘의 운세] 2026년 10월 4일 별자리 운세 - hankyung.com",
-        "published": "Sat, 03 Oct 2026 15:00:12 GMT",
-        "published_kst": "2026-10-04T00:00:12+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[오늘의 운세] 10월 4일 띠별 운세 - hankyung.com",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwdnZDYldNejNvN2FNdHg3U0tmc1NGUzE4WTRaMVNycUtIbzctXzJrLUlTWWs3V1ZZN1FmVGozaUQzVDN1RTZNMlVMRmJybU83UTR5VjZhRkNDUQ?oc=5",
-        "summary": "[오늘의 운세] 10월 4일 띠별 운세 hankyung.com [오늘의 운세] 10월 4일 띠별 운세 - hankyung.com",
-        "published": "Sat, 03 Oct 2026 15:00:07 GMT",
-        "published_kst": "2026-10-04T00:00:07+09:00",
+        "title": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] - hankyung.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zS09falY4Vkg4YmJ5NjFyRFJEN0tUMklMMFZsNzBjNEtxVElkQXo0eG1KRnZvQ2M3SDhrZXo4Z1JoYlNQNDViT0FoZkZ3OE80cHo1LXlRQTAtQQ?oc=5",
+        "summary": "\"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] hankyung.com \"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] - hankyung.com",
+        "published": "Sun, 04 Oct 2026 00:00:01 GMT",
+        "published_kst": "2026-10-04T09:00:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 중도일보",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qY2hlR3dyWVlDaGtxREF1NVFuRlRSVlFyNnVjOVJBT1JObl9aeWk0bmNTWkUtNzBGSnNrWVByNURsZnd1cmpVT1UxWk1rTWZvZW1kRzhQSzh2R090cDAzNEVMdU5kQVBNdTNTbA?oc=5",
-        "summary": "부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 중도일보 부산진구, ‘한국경제 최고의 리더’ 혁신경제도시 부문 선정 - 중도일보",
-        "published": "Sat, 03 Oct 2026 13:07:08 GMT",
-        "published_kst": "2026-10-03T22:07:08+09:00",
+        "title": "반도체 뺀 대한민국 수출은 ‘정체’…착시현상 심화 - 빅데이터뉴스",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kdDVfT205WUEzUW5BelNtLXRqbFBLbk9Oa0dONTFaTl9QSERxVDEwOVphVm1mYi0xZnZPbWhEY0x5VG1kUlNYZW5aSUtqdUF6NnNLcUVQWHJlUEdXWFBneVhxc2wtZGZwOWtpRUFfd21TTllHWjRyZ2VrOVk?oc=5",
+        "summary": "반도체 뺀 대한민국 수출은 ‘정체’…착시현상 심화 빅데이터뉴스 반도체 뺀 대한민국 수출은 ‘정체’…착시현상 심화 - 빅데이터뉴스",
+        "published": "Sat, 03 Oct 2026 23:57:08 GMT",
+        "published_kst": "2026-10-04T08:57:08+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "美연준 인사들 잇단 발언...10월 금리 인상 기대 후퇴 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FM1hRVzV0dFZYMXoyUmcxZUNtQ1N1MjRQRjI5akV3Sng0dE5ETUZHS3dRZ3k0QnJST0JVenJOVWRNMjJ5eEI3S3AwU1NDZ00?oc=5",
+        "summary": "美연준 인사들 잇단 발언...10월 금리 인상 기대 후퇴 v.daum.net 美연준 인사들 잇단 발언...10월 금리 인상 기대 후퇴 - v.daum.net",
+        "published": "Sat, 03 Oct 2026 23:28:01 GMT",
+        "published_kst": "2026-10-04T08:28:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,11 +110,11 @@
     ],
     "world": [
       {
-        "title": "SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent - Pulse 2.0",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsS3FYcjAySVk2b01yZFMxZHFvdWVCZ3lnVVk0ckp3MFNPVy1kNTg3dEhWU0U0UURUS3dieW9YUllBSVotczR2T2luVDVRVTNtS3ZkUkRhQ0RBV2RSNG53dVdzVFpKTVUtQko1ZjRSS1RscF84RlJxTTNR0gF_QVVfeXFMUHlBcWxINWpzX1ZOZjBkNkZHc2xlUldoamRMQ1pUNHZGal9yLTIzM0NOdU4wYVhfSGtyTFl3TTY3YWFjRzZmemhyeDJUbjZDU1R1b3JSTnA0M1h6YjhOSG5JVm1lZ2ZhZmhHWU5JejR3ZmtFZTFHbTI2WGxTNDdsRQ?oc=5",
-        "summary": "SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent Pulse 2.0 SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent - Pulse 2.0",
-        "published": "Sat, 03 Oct 2026 11:28:05 GMT",
-        "published_kst": "2026-10-03T20:28:05+09:00",
+        "title": "Ghana, Nigeria unite to drive global supply chain transformation - Ghana News Agency",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmxtSDZDRWJNMXFqUGN4Tkplbm5KcG9MX2lwTF9OR2FXT3hzUnJVY3hzX3JBaUpIajNyUXVEVFJaRmIzU0pVdGhjaVo1S3ZuWkdmaVpxbUd3ZlJGdXV2Z0tsV01hb3VibkNyelNQamVMVnRDNml4SXJpRHc3QkdIRFpnOTlSVnUyRlpxTG5ONkx4S2NtSHc?oc=5",
+        "summary": "Ghana, Nigeria unite to drive global supply chain transformation Ghana News Agency Ghana, Nigeria unite to drive global supply chain transformation - Ghana News Agency",
+        "published": "Sat, 03 Oct 2026 19:06:21 GMT",
+        "published_kst": "2026-10-04T04:06:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -124,19 +124,19 @@
         "title": "From crude to rice: The long tail of US sanctions - The Business Standard",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbnptVXJ5N1lEaEJXeW9RdmJJNGpYejFiRzlKZzhDeUVYRDgwSFJDWHBxRUZIMmlUajJVdUZaY0lGejBUaWhCSVFZaUJYS0wzY3V4YzZjQ2lsck9uSXBWd1hBSTlSdndjMnVGNG9uZDVsWlJqWW1XZ2RHbk1VTkE?oc=5",
         "summary": "From crude to rice: The long tail of US sanctions The Business Standard From crude to rice: The long tail of US sanctions - The Business Standard",
-        "published": "Sat, 03 Oct 2026 07:03:57 GMT",
-        "published_kst": "2026-10-03T16:03:57+09:00",
+        "published": "Sat, 03 Oct 2026 18:56:15 GMT",
+        "published_kst": "2026-10-04T03:56:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - Foley & Lardner LLP",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2stYzBaVm81RFQ4UW1UdWdMSWhZSXppbUxqZ3BoYjZscmNESmdYRVdhaU1zclZRX0huUk1zRjZOY1Q0R0dqN0pYUFJKaXZUOS14NHhnUkFyUWZIUXVRXzY2RHAwMEJxQ21obi02bWVlZGFnTGpPclJ3aW1neXBHam5jblZwTVNsWFo0VmxKMjlheEVlUl9mdG9jaWZTZVBUSnA4VnNUbEpfbThKcnhMOUptbzF1c3FoZWc4a1NhZGszcXd5eS1zcm94STFhMEJnWkxHX2R1dWdjOFIzWUE?oc=5",
-        "summary": "Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 Foley & Lardner LLP Five Checks For … What Supply Chain Leaders Should Rethink in the Trump Tariff Environment 2.0 - Foley & Lardner LLP",
-        "published": "Fri, 02 Oct 2026 20:12:39 GMT",
-        "published_kst": "2026-10-03T05:12:39+09:00",
+        "title": "Alamein-Africa Forum Catalyses Continental Supply Chain Overhaul - DNE Africa",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFdkxYZmloSDBrOUF1aXRDLTZBZ2F1SDlLNVlXNEpiRWRkUlJMNllqVFRYVmxoU09iUW56OUpjbkxCakdBSVVBVzRSbFIyYnVneGxpN19SZVIxY0pud0poY2NUWFVZMWFYVDNzMVNpR2U2MURPbmxJ?oc=5",
+        "summary": "Alamein-Africa Forum Catalyses Continental Supply Chain Overhaul DNE Africa Alamein-Africa Forum Catalyses Continental Supply Chain Overhaul - DNE Africa",
+        "published": "Sat, 03 Oct 2026 16:52:34 GMT",
+        "published_kst": "2026-10-04T01:52:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "US jobs data boosts stocks as oil prices dip newagebd.net US jobs data boosts stocks as oil prices dip - newagebd.net / [오늘의 운세] 2026년 10월 4일 별자리 운세 hankyung.com [오늘의 운세] 2026년 10월 4일 별자리 운세 - hankyung.com / SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent Pulse 2.0 SCOPE Recruiting: Interview With Co-Founder Friddy Hoegener About Supply Chain Recruiting And Passive Talent - Pulse 2.0",
+  "wrap_summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday. Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports / \"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] hankyung.com \"반도체만 믿다간 큰일\" 직장인들 돌변하더니…'대이동' [김연지의 연금빌드업] - hankyung.com / Ghana, Nigeria unite to drive global supply chain transformation Ghana News Agency Ghana, Nigeria unite to drive global supply chain transformation - Ghana News Agency",
   "invest_summary": ""
 }
