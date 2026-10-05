@@ -1,71 +1,71 @@
 {
   "date": "2026-10-05",
-  "generated_at_utc": "2026-10-05T07:49:31Z",
-  "cutoff_kst": "2026-10-05T16:49:00+09:00",
+  "generated_at_utc": "2026-10-05T12:45:00Z",
+  "cutoff_kst": "2026-10-05T21:45:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
-        "url": "https://www.cnbc.com/2026/10/05/euro-dollar-spain-france-risk.html",
-        "summary": "Political and fiscal concerns are mounting in two of the euro area's biggest economies. Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
-        "published": "Mon, 05 Oct 2026 07:45:54 GMT",
-        "published_kst": "2026-10-05T16:45:54+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
-        "url": "https://www.cnbc.com/2026/10/05/spain-sanchez-snap-election-housing-protests.html",
-        "summary": "Spain's PM Sanchez calls snap election after housing crisis protests",
-        "published": "Mon, 05 Oct 2026 07:44:56 GMT",
-        "published_kst": "2026-10-05T16:44:56+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House Rages at TV Legend’s Fiery Trump Tirade - The Daily Beast",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmE5eERHZlU0ak16Ykd3anZjVGJrTW8tWkF1UWZpRUtkQWNMTVhSTVVzQlpCMFgtQ3U3akdudnk3LVRZTTZQanFPeGltSGxQLVBrSXVob3p0LU1sSnRZTUZ5RVVHUlkxVnRuRlBxREYtMG81czlBem41TVYwbGNhYmt2TlNRaTliSW9hUW9qVDU1MmRSMkFOWU1vbUhDekRyeS00U3R2cHJuLXM?oc=5",
-        "summary": "White House Rages at TV Legend’s Fiery Trump Tirade The Daily Beast White House Rages at TV Legend’s Fiery Trump Tirade - The Daily Beast",
-        "published": "Mon, 05 Oct 2026 07:27:00 GMT",
-        "published_kst": "2026-10-05T16:27:00+09:00",
+        "title": "Sen. Kennedy says he’s weighing White House run: ‘Why not me on a rainy day?’ - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNXk4cVJkMzBZMWVSRjdVREVabVFiNGpVNFFySmFCdXpCeENRV045NXN6ZmpSWEV0MDJDeGxNUUZXQVN5ZzlQd1NXOWZib1Rxd05NRjc0S1JzRVo1ZXJ6STJWb0dielkzQllOQmNNT0lFNkhGOTVlcXFNR1NNVVRaS29pbzEyTUdZOVBNMkMyZHhXby01cGtOVFFlTWhiZHRkVk1iNW5LZU5vSmtSbFRqVElnTkNfT0pYOXc?oc=5",
+        "summary": "Kennedy says he’s weighing White House run: ‘Why not me on a rainy day?’ The Washington Post Sen.",
+        "published": "Mon, 05 Oct 2026 12:33:52 GMT",
+        "published_kst": "2026-10-05T21:33:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Analysis: Data centers are the first test for White House hopefuls - Arizona Capitol Times",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3owSEtrRGtsa0Q1Mk5tb3U3eVcyYVpERlU0aXdfLXVYNnNubl9FLXZrY3F1RnBfSlNVMG1FSERSM2hTS2owVjV3MWltUjlKWnRLVWJUYmNVX2paRjdRX2hLclptY3NReUQzSFlnSUVZMUFjSnd4NThZeVJHcWFWT3pRN1A5UzJzdm5BVDVPdVhkTFBjazhQUS1CZVZRVXpnSFpoOXZtaklnN21FTHc?oc=5",
-        "summary": "Analysis: Data centers are the first test for White House hopefuls Arizona Capitol Times Analysis: Data centers are the first test for White House hopefuls - Arizona Capitol Times",
-        "published": "Mon, 05 Oct 2026 06:46:47 GMT",
-        "published_kst": "2026-10-05T15:46:47+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Clarence Page: Trump’s ‘truth’ betrayed by White House chatbot - Daily Freeman",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3BVZzNxQ0xiTHBuR3NTeG5VWFprYUFwNkdIRE1IUkk2WU1VQk41aF9GOHpWSVQzbDNVZGFaMWx2MzNmVUxBd1UxOXFVdVIyUTJ5bnRsdjdOcE9PaUc0LXZ0cGdpbUQxZnlLbFY2Nk0zMXBGUVBBc1VVMHR0bjh3emU3M0ZUVTB2d1lrTmZIUEl5OGdpOGtQZ0NFV29XTF93?oc=5",
-        "summary": "Clarence Page: Trump’s ‘truth’ betrayed by White House chatbot Daily Freeman Clarence Page: Trump’s ‘truth’ betrayed by White House chatbot - Daily Freeman",
-        "published": "Mon, 05 Oct 2026 06:31:54 GMT",
-        "published_kst": "2026-10-05T15:31:54+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
-        "url": "https://www.cnbc.com/2026/10/05/suspected-plague-cases-reported-in-russias-irkutsk-region.html",
-        "summary": "Nearly 200 people are under medical observation in Russia’s Irkutsk region over suspected exposure to plague, according to local media reports. Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
-        "published": "Mon, 05 Oct 2026 05:34:17 GMT",
-        "published_kst": "2026-10-05T14:34:17+09:00",
+        "title": "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+        "url": "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
+        "summary": "Hybrids are growing in popularity, as sales of the vehicles keep climbing. GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+        "published": "Mon, 05 Oct 2026 12:30:01 GMT",
+        "published_kst": "2026-10-05T21:30:01+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death",
+        "url": "https://www.cnbc.com/2026/10/05/russia-plague-suspected-case-irkutsk.html",
+        "summary": "According to local media reports, as many as 189 people have also been placed under medical observation in Irkutsk in Eastern Russia. Russia plague: What we know about the suspected case reportedly linked to a lab worker’s death",
+        "published": "Mon, 05 Oct 2026 12:22:41 GMT",
+        "published_kst": "2026-10-05T21:22:41+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+        "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
+        "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices. Anthropic, OpenAI, Google and Meta execs set to testify at NYC Council hearing on AI risks",
+        "published": "Mon, 05 Oct 2026 12:19:26 GMT",
+        "published_kst": "2026-10-05T21:19:26+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US jobs revision turns July’s 21,000 gain into a 10,000 loss - CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejhJNmsyUlNmczFMNXZwNF9IdDZKTGxzWHMyVGhMOXFNZ29Ya1plR1JyWUN6OG1xVVo2Z2QyNHRtakdfT2lBYURsZ1Axa3IzY1pPbWs3c1A2SlJ5YzkwQ2liaWFFLTlVMG03MGo4MFQ5UEM0Y1RWdXNFMEFxdnFMOFBDT2x3TzFlcDE5b0JPZktVTmlCWHR2eDNvQQ?oc=5",
+        "summary": "US jobs revision turns July’s 21,000 gain into a 10,000 loss CryptoRank US jobs revision turns July’s 21,000 gain into a 10,000 loss - CryptoRank",
+        "published": "Mon, 05 Oct 2026 11:52:50 GMT",
+        "published_kst": "2026-10-05T20:52:50+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Wisconsin farm to supply White House Blue Room Christmas tree - WUSA9",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbDZpZjJ0U1VxSDRIalBPYjlZUEQwYUFORzR3dzM1ODhxMzBPdGRRMkZMc0RuMktYay1QTnN2OXpoRlRhcS11VGt4SzJPdHcxUDhpRTh1enJ2UFNfck5pTktzblE5aEVveUFzRWQ1bGF3X2dKTVgxMnFIZVFMTVhkTWJKd3BmUmFhQXc3Vko0NGxBM1Q2Y1haREwzZW45V1JBbmlOazhhUmNhdkYybU1Pa1lNb0QxdE1ibEZMbmJPOTBRZk45UnpKaTJsX2UxelJTcHZtN0pnbjVLeDg?oc=5",
+        "summary": "Wisconsin farm to supply White House Blue Room Christmas tree WUSA9 Wisconsin farm to supply White House Blue Room Christmas tree - WUSA9",
+        "published": "Mon, 05 Oct 2026 11:50:00 GMT",
+        "published_kst": "2026-10-05T20:50:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,71 +73,74 @@
     ],
     "kr": [
       {
-        "title": "\"달려라 한국경제\"…직장 동료들도 함께 뛴 '한경서울마라톤' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xNGxpYlN6VU9MV0hCaGVjQUlXZFFERzZ6Qk5ZM1B1ZmZ2amZUcFo0STA3cUxGS1M0bnd5a2tWZjJEejFRbFpuVlMzQ3FVWFBBTTZKY0Z2WEYwZw?oc=5",
-        "summary": "\"달려라 한국경제\"…직장 동료들도 함께 뛴 '한경서울마라톤' 한국경제 \"달려라 한국경제\"…직장 동료들도 함께 뛴 '한경서울마라톤' - 한국경제",
-        "published": "Mon, 05 Oct 2026 07:41:09 GMT",
-        "published_kst": "2026-10-05T16:41:09+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "‘AI 전도사’ 손정의, 이번엔 “초지능, 잘못 들어가면 위험” - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nSlYzai12Z0NiRmU5OUhiaWVKVjZtNWhjeUZlNHVnNFJ4aWRra3cyZmFqS1BHMkF3eDlya3NGOTU0QXhmeGVYOVpCUDdrckZpNEVDbmZ4UTFtQQ?oc=5",
-        "summary": "‘AI 전도사’ 손정의, 이번엔 “초지능, 잘못 들어가면 위험” 한국경제 ‘AI 전도사’ 손정의, 이번엔 “초지능, 잘못 들어가면 위험” - 한국경제",
-        "published": "Mon, 05 Oct 2026 07:34:26 GMT",
-        "published_kst": "2026-10-05T16:34:26+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "AMRO, 한국 성장률 3.3%… 내년도 0.5%p 상향 - 천지일보",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xblZSV1dfRF9ERk9wWXh2RmJjZ2lkMFpLU1FTajh5b3ZRd0lSY2ZtVExkemVPRWNxT2U4TzNIWHpfTWowQkhldjZPNGs3UXVUb0pHd29pallINUlwMFQyMVJPZVh4bl9tUGc?oc=5",
-        "summary": "AMRO, 한국 성장률 3.3%… 내년도 0.5%p 상향 천지일보 AMRO, 한국 성장률 3.3%… 내년도 0.5%p 상향 - 천지일보",
-        "published": "Mon, 05 Oct 2026 07:33:16 GMT",
-        "published_kst": "2026-10-05T16:33:16+09:00",
+        "title": "폭스콘,AI수요 힙입어 3분기매출 47% 급증 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MUlB5R1B3Q1ljME5RYnpreEtuVUNqMzc3SUs4U010ZGNLdnlWTFpNRGR5bjdHU09YQ0x2dDZwMkdqMmpMV1pROWU0U2tMUTVfZ2Q5NUVfenFfUQ?oc=5",
+        "summary": "폭스콘,AI수요 힙입어 3분기매출 47% 급증 한국경제 폭스콘,AI수요 힙입어 3분기매출 47% 급증 - 한국경제",
+        "published": "Mon, 05 Oct 2026 11:29:08 GMT",
+        "published_kst": "2026-10-05T20:29:08+09:00",
         "domain": "google.com",
         "key_figures": [
-          "3.3%",
-          "0.5%"
+          "47%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "부산관광공사 이정실 사장, ‘2026 한국경제 최고의 리더’ 선정 - 영남신문",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jNElBckRhZG5PcndwNHJ5NkNZWUNaMWowb0VQNGY4c3h1U3JOUllZa1VSUEpKbTl2THFhLTRycXB1TzVPOGxVSDd3TVJvRnF1MWNGelNGc0k1ZVFwQTVOcWF2aURrdC00aWhDblhR?oc=5",
+        "summary": "부산관광공사 이정실 사장, ‘2026 한국경제 최고의 리더’ 선정 영남신문 부산관광공사 이정실 사장, ‘2026 한국경제 최고의 리더’ 선정 - 영남신문",
+        "published": "Mon, 05 Oct 2026 11:24:56 GMT",
+        "published_kst": "2026-10-05T20:24:56+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"누가 많이 벌었대?\" 국장 올인 개미들 '술렁'…삼전, 스타트 끊는다 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RZ09tUGdUNk5BOEI0ZUEzZkE5RDJKSVd1bmg1UDY4MklKOUNiMjZZU2VsWGQ1S3hMQzdDR3FQMUJuOFczbW9IVmlJa1pBUFk?oc=5",
+        "summary": "\"누가 많이 벌었대?\" 국장 올인 개미들 '술렁'…삼전, 스타트 끊는다 v.daum.net \"누가 많이 벌었대?\" 국장 올인 개미들 '술렁'…삼전, 스타트 끊는다 - v.daum.net",
+        "published": "Mon, 05 Oct 2026 10:24:33 GMT",
+        "published_kst": "2026-10-05T19:24:33+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Why ‘China plus one’ is paying off less than Southeast Asia hoped - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG1CUXlXR3NzMExSU21RSHlfTnRnNTJ5VWI1MktxTjVCbHZfSTVzUXo2aU9FSlNxVWJ0aFBTREIxb0lXN2FwVTdTVVNhWVBXMWVxWV81VTNUVGFWTUJMMmNWVjF3M2c4bjN3QWpfb0duX19leTVqNjNScEllQlFMRg?oc=5",
-        "summary": "Why ‘China plus one’ is paying off less than Southeast Asia hoped Fortune Why ‘China plus one’ is paying off less than Southeast Asia hoped - Fortune",
-        "published": "Mon, 05 Oct 2026 07:15:00 GMT",
-        "published_kst": "2026-10-05T16:15:00+09:00",
+        "title": "IFR: Professional Service Robot Sales Surge 24% Worldwide - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjhLbGY4dTZxTmtoallkWDNTcEltWmZTRWdOcVJjcVZqSnZZSGh2Rk9RRG1lQmxMWnlrZU5feVdoTHBDLV9DWFFYRXFwV2RaYzlvdDgtZjg3eEpjUHlFNmsxRlI5Ri11bWMteXFRVGZFcWFrbG9STVozVXpoUnJjSExNUFVaUUdPWG5EMHNjb3ZmbWRIVHc?oc=5",
+        "summary": "IFR: Professional Service Robot Sales Surge 24% Worldwide Supply Chain Digital IFR: Professional Service Robot Sales Surge 24% Worldwide - Supply Chain Digital",
+        "published": "Mon, 05 Oct 2026 12:10:58 GMT",
+        "published_kst": "2026-10-05T21:10:58+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "24%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Competitiveness follows ethics and supply chain leadership - bworldonline.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc2J2Ny1kTzlqVzhKc2RkTzRYYUhBcGMyZE10Q3JjVzhGZzdqR2N6dEUwYk44SUpiMTlOdVc3MDlETlFNSnNlbmpFM2dNb2gzS19fZWpvNC1mZk5KeG1zaGRHZldzMkg5RzVsbjVuX2ZMY29Cbkl5aHpIWkg3bjJkOGdmTVp3UDBHX2VPRFg2NFZ1SVlnakVCZ0Z1Um9aMDB3Qkk3RTZPWUEweFFEN2Vj?oc=5",
+        "summary": "Competitiveness follows ethics and supply chain leadership bworldonline.com Competitiveness follows ethics and supply chain leadership - bworldonline.com",
+        "published": "Mon, 05 Oct 2026 12:10:39 GMT",
+        "published_kst": "2026-10-05T21:10:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Comac C919 faces delivery delays amid supply chain constraints - Global Sources",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGktZHFHWW1ac2dtb3lnVk5yY2N4WFdNbG1wMlk1NWNBTzVPWFJsN19kX0dxQnhFdE5JRmNIVWFwejRrVVdybXlPdlUtRThET0ZsREtGRy1UXzVRbUlzTnZBT2ZlTGNFaWo2b0dBMGVSdzlBNERpVWx6SE95bWhCLXUwckpFN3dORmd0eGVOT2NvbDUxSS1zQW1IYmd0eVA4UHVCTktXeWthdS1pUUVoUW5hMWZoT19ueVhRdThHRHZkNzBkSDBXWQ?oc=5",
-        "summary": "Comac C919 faces delivery delays amid supply chain constraints Global Sources Comac C919 faces delivery delays amid supply chain constraints - Global Sources",
-        "published": "Mon, 05 Oct 2026 06:03:15 GMT",
-        "published_kst": "2026-10-05T15:03:15+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "China's complete supply chain, rapid growth lure global manufacturers - 巴士的報",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeE1rRHBZWW5oTmJpZllmVjN5OHFpTkRYUGpfMV9oNGZNaXhQbXdCYXVvM2xkSkxVWG4wbDM2YjlUdlVHLU9DdngxejlTSWZ6LUdIam9zODRhYmJoT2lESkJsUW5hQ25ad1VmRHR2bWx2a21nYnlJVVBnWm5paGh2VWF0bTBqZEpHa0trYjV1MXZtOVR5NW9xQUJNc0kxRzVieGlVSzNVRkUyaWc5OWlrUGtINFlvQ0hjalE4?oc=5",
-        "summary": "China's complete supply chain, rapid growth lure global manufacturers 巴士的報 China's complete supply chain, rapid growth lure global manufacturers - 巴士的報",
-        "published": "Mon, 05 Oct 2026 05:47:07 GMT",
-        "published_kst": "2026-10-05T14:47:07+09:00",
+        "title": "DP World Strengthens Thailand Supply Chain with New 10,000-Square-Metre Centre - Construction Business News Middle East",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0kyNWlxTmQ1VldDRFczN1JXMFBHSS1ieDJLay1Lc0ZUT212anBScVBLQV9pZnVHZGR1X0djNVE3QTQ4WnhwQXR2MzRMeVdtZUZzdjlWYUxLdFdfVlNBTWpCcUdfMHhDbzZOMUpETENJRGZlMUlpQXdVY3BkTTQxZzEzSVlabWxWZ0JhcnhfNWM1NVRoWklJc19jRDM3X2I3M2pMSXJsYUJ4M2xlaGNXWjhyWUZ1UQ?oc=5",
+        "summary": "DP World Strengthens Thailand Supply Chain with New 10,000-Square-Metre Centre Construction Business News Middle East DP World Strengthens Thailand Supply Chain with New 10,000-Square-Metre Centre - Construction Business News Middle East",
+        "published": "Mon, 05 Oct 2026 11:32:14 GMT",
+        "published_kst": "2026-10-05T20:32:14+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -145,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Political and fiscal concerns are mounting in two of the euro area's biggest economies. Euro hits 17-month low as political uncertainty in Spain and France rattles markets / \"달려라 한국경제\"…직장 동료들도 함께 뛴 '한경서울마라톤' 한국경제 \"달려라 한국경제\"…직장 동료들도 함께 뛴 '한경서울마라톤' - 한국경제 / Why ‘China plus one’ is paying off less than Southeast Asia hoped Fortune Why ‘China plus one’ is paying off less than Southeast Asia hoped - Fortune",
+  "wrap_summary": "Kennedy says he’s weighing White House run: ‘Why not me on a rainy day?’ The Washington Post Sen. / 폭스콘,AI수요 힙입어 3분기매출 47% 급증 한국경제 폭스콘,AI수요 힙입어 3분기매출 47% 급증 - 한국경제 / IFR: Professional Service Robot Sales Surge 24% Worldwide Supply Chain Digital IFR: Professional Service Robot Sales Surge 24% Worldwide - Supply Chain Digital",
   "invest_summary": ""
 }
