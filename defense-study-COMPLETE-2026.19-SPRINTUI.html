@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>국방사업관리사 Study COMPLETE 2026.19 · R4 연동</title>
+<style>
+html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#07111f}
+#legacy{border:0;width:100%;height:100dvh;display:block}
+#badge{position:fixed;z-index:2147483647;left:10px;bottom:10px;padding:6px 9px;border-radius:10px;background:rgba(7,17,31,.86);color:#dcecff;font:800 11px/1.3 system-ui,-apple-system,"Malgun Gothic",sans-serif;pointer-events:none}
+#legalLaunch{position:fixed;z-index:2147483600;right:14px;bottom:18px;border:1px solid #6ce7d1;border-radius:999px;background:linear-gradient(120deg,#083445,#0b5a5d);color:#fff;padding:11px 15px;font:850 13px/1.2 system-ui,-apple-system,"Malgun Gothic",sans-serif;box-shadow:0 8px 28px #0009;cursor:pointer}
+#legalLaunch small{display:block;margin-top:3px;color:#cfece8;font-size:10px;font-weight:650}
+#legalOverlay{display:none;position:fixed;inset:0;z-index:2147483640;background:#030a13}
+#legalFrame{border:0;width:100%;height:100%;display:block;background:#07111f}
+#legalBack{position:fixed;z-index:2147483646;left:12px;top:10px;border:1px solid #728aa4;border-radius:10px;background:#12273a;color:#fff;padding:8px 11px;font:800 12px system-ui,-apple-system,"Malgun Gothic",sans-serif;cursor:pointer}
+@media(max-width:720px){#legalLaunch{right:10px;bottom:12px;padding:10px 12px}#legalLaunch small{display:none}}
+</style>
+</head>
+<body>
+<iframe id="legacy" src="./defense-study-ALL-2026-10-04-R4.html" title="국방사업관리사 R4"></iframe>
+<button id="legalLaunch" aria-haspopup="dialog">📚 법령·훈령 원문<small>조·항·호·목 접기 · 상호조문 이동</small></button>
+<section id="legalOverlay" role="dialog" aria-modal="true" aria-label="법령·훈령 원문 학습">
+  <button id="legalBack">← R4 학습으로</button>
+  <iframe id="legalFrame" title="법령·훈령 원문 뷰어"></iframe>
+</section>
+<div id="badge">2026.19 · R4 검증본 + 법령·훈령 원문</div>
+<script>
+(()=>{
+  const THEORY='/dailybrief/theory-sprint-CURRENT-2026.19.html';
+  const LEGAL='./defense-study-COMPLETE-2026.18.html';
+  const main=document.getElementById('legacy');
+  const overlay=document.getElementById('legalOverlay');
+  const frame=document.getElementById('legalFrame');
+  const seen=new WeakSet();
+
+  function patchTheory(doc){
+    if(!doc||!doc.documentElement||seen.has(doc))return;
+    seen.add(doc);
+    try{
+      doc.querySelectorAll('a[href*="/dailybrief/theory-sprint/"],a[href="./theory-sprint/"],a[href="/dailybrief/theory-sprint/"]').forEach(a=>a.href=THEORY);
+      const launch=doc.getElementById('theorySprintLaunch'); if(launch) launch.href=THEORY;
+      doc.querySelectorAll('iframe').forEach(f=>{
+        const run=()=>{try{patchTheory(f.contentDocument)}catch(_){}}; f.addEventListener('load',run); run();
+      });
+    }catch(_){}
+  }
+  const patchMain=()=>{try{patchTheory(main.contentDocument)}catch(_){}};
+  main.addEventListener('load',patchMain); setTimeout(patchMain,900);
+
+  function addLegalCss(doc){
+    if(!doc||doc.getElementById('r19LegalStyle'))return;
+    const s=doc.createElement('style'); s.id='r19LegalStyle';
+    s.textContent=`
+      :root{
+        --r19-ink:#14231f;--r19-muted:#68746f;--r19-paper:#f3f1e8;
+        --r19-card:#fffdf7;--r19-line:#d9ded7;--r19-accent:#246b58;
+        --r19-soft:#dcefe7;--r19-shadow:0 14px 45px rgba(23,59,50,.07)
+      }
+      html,body{background:var(--r19-paper)!important;color:var(--r19-ink)!important;font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif!important;-webkit-font-smoothing:antialiased}
+      #modal,#lawModal{background:var(--r19-paper)!important}
+      .shell,.modal-shell{background:var(--r19-paper)!important}
+      aside,.side{background:#ebece5!important;border-color:var(--r19-line)!important}
+      .brand{color:var(--r19-ink)!important;font-size:18px!important;font-weight:950!important;letter-spacing:-.045em}
+      .version{color:var(--r19-accent)!important;background:#dfe8e2!important;border-radius:99px!important;padding:5px 9px!important}
+      .source,.meta{color:var(--r19-muted)!important}
+      .tab,.navbtn{color:var(--r19-ink)!important;border-radius:14px!important;font-weight:850!important}
+      .tab.on,.tab:hover,.navbtn.on,.navbtn:hover{background:var(--r19-card)!important;border-color:var(--r19-line)!important;box-shadow:0 7px 22px rgba(23,59,50,.05)}
+      .close{background:#fff7f5!important;color:#8a4637!important;border-color:#dfc7c0!important;border-radius:13px!important}
+      main{background:var(--r19-paper)!important}
+      .top{background:rgba(243,241,232,.94)!important;border-color:var(--r19-line)!important;backdrop-filter:blur(14px)!important;padding:15px 22px!important}
+      .top h1,#title,#lawTitle{color:var(--r19-ink)!important;font-size:clamp(1.25rem,4vw,1.8rem)!important;font-weight:950!important;letter-spacing:-.055em}
+      .top p,#status{color:var(--r19-muted)!important}
+      .content{max-width:860px!important;margin:auto!important;padding:20px 16px 110px!important}
+      .notice{background:var(--r19-soft)!important;color:#234f43!important;border:0!important;border-radius:18px!important;padding:15px 17px!important;font-weight:750!important}
+      .notice a{color:var(--r19-accent)!important;font-weight:900!important}
+      .toolrow{gap:8px!important;margin-bottom:14px!important}
+      .toolrow input{background:var(--r19-card)!important;color:var(--r19-ink)!important;border:1px solid var(--r19-line)!important;border-radius:14px!important;padding:12px 14px!important;font-size:15px!important}
+      .btn{background:#eef1ec!important;color:var(--r19-ink)!important;border:1px solid var(--r19-line)!important;border-radius:13px!important;padding:10px 13px!important;font-weight:900!important}
+      .btn.primary{background:var(--r19-accent)!important;color:#fff!important;border-color:var(--r19-accent)!important}
+      .article{background:var(--r19-card)!important;border:1px solid var(--r19-line)!important;border-radius:22px!important;box-shadow:var(--r19-shadow)!important;margin:12px 0!important;overflow:hidden!important}
+      .article>summary{color:var(--r19-ink)!important;font-size:clamp(1.06rem,3.5vw,1.28rem)!important;line-height:1.45!important;font-weight:950!important;letter-spacing:-.035em!important;padding:17px 18px!important;background:var(--r19-card)!important}
+      .article>summary:before{border-color:var(--r19-accent)!important;color:var(--r19-accent)!important}
+      .article-body{padding:2px 14px 16px!important}
+      .node{color:var(--r19-ink)!important;background:#f6f6f0!important;border:0!important;border-radius:14px!important;margin:8px 0!important;padding:12px 13px!important}
+      .node b{color:var(--r19-accent)!important}
+      .node.d1,.node.depth-1{font-size:clamp(1.02rem,3.6vw,1.18rem)!important;font-weight:900!important;line-height:1.75!important;background:var(--r19-soft)!important;border-left:5px solid var(--r19-accent)!important;padding:14px!important}
+      .node.d2,.node.depth-2{font-size:.96rem!important;font-weight:760!important;line-height:1.65!important;background:#f0f2ed!important;margin-left:14px!important}
+      .node.d3,.node.depth-3{font-size:.9rem!important;font-weight:680!important;line-height:1.6!important;background:#f7f1e6!important;margin-left:28px!important}
+      .r19Para,.r19Sub{border:0!important;margin:9px 0!important;background:transparent!important}
+      .r19Para>summary,.r19Sub>summary{list-style:none!important;cursor:pointer!important;border-radius:16px!important;padding:13px 14px!important;color:var(--r19-ink)!important}
+      .r19Para>summary::-webkit-details-marker,.r19Sub>summary::-webkit-details-marker{display:none}
+      .r19Para>summary{font-size:clamp(1.02rem,3.7vw,1.2rem)!important;font-weight:930!important;line-height:1.7!important;background:var(--r19-soft)!important;border-left:5px solid var(--r19-accent)!important}
+      .r19Sub>summary{font-size:.96rem!important;font-weight:820!important;line-height:1.6!important;background:#f0f2ed!important;border-left:4px solid #9cad9f!important}
+      .r19Para>summary:before,.r19Sub>summary:before{content:'▸';display:inline-grid;place-items:center;width:22px;height:22px;margin-right:5px;border-radius:50%;color:var(--r19-accent);font-weight:950}
+      .r19Para[open]>summary:before,.r19Sub[open]>summary:before{content:'▾'}
+      .r19Children{padding-left:13px!important}
+      .r19Ref{display:inline;border-radius:7px;padding:1px 4px;background:#e7f0ff;color:#245f9b!important;text-decoration:none!important;box-shadow:inset 0 -1px 0 #8ab8e6;cursor:pointer;font-weight:950!important}
+      .r19Ref:after{content:' ↗';font-size:.7em;opacity:.72}
+      .flash{background:var(--r19-card)!important;color:var(--r19-ink)!important;border:1px solid var(--r19-line)!important;border-radius:24px!important;box-shadow:var(--r19-shadow)!important}
+      .flash .tag{color:var(--r19-accent)!important}
+      .prompt{background:#f4f6f1!important;color:var(--r19-ink)!important;border-color:#b8c9bf!important;border-radius:16px!important}
+      .answer{background:var(--r19-soft)!important;color:var(--r19-ink)!important;border-color:#9ac2b3!important;border-radius:16px!important}
+      #r19BackRef{background:rgba(20,35,31,.94)!important;color:#fff!important;border:0!important;border-radius:16px!important;padding:11px 14px!important;font-weight:950!important;box-shadow:0 12px 35px rgba(0,0,0,.18)!important}
+      @media(max-width:760px){
+        aside,.side{background:rgba(243,241,232,.96)!important}
+        .content{padding:14px 12px 100px!important}
+        .article{border-radius:20px!important}
+        .article>summary{padding:16px 14px!important}
+        .article-body{padding:1px 10px 13px!important}
+        .node.d2,.node.depth-2{margin-left:7px!important}
+        .node.d3,.node.depth-3{margin-left:14px!important}
+        .r19Children{padding-left:7px!important}
+      }
+    `;
+    doc.head.append(s);
+  }
+
+  function enhanceHierarchy(doc){
+    if(!doc)return;
+    addLegalCss(doc);
+    doc.querySelectorAll('.article').forEach(article=>{
+      article.open=false;
+      const body=article.querySelector('.article-body');
+      if(!body||body.dataset.r19done)return;
+      body.dataset.r19done='1';
+      const nodes=[...body.children].filter(x=>x.classList.contains('node'));
+      if(!nodes.length)return;
+      const frag=doc.createDocumentFragment();
+      let i=0;
+      const isPara=n=>n.classList.contains('d1')||n.classList.contains('depth-1');
+      const isSub=n=>n.classList.contains('d2')||n.classList.contains('depth-2');
+      const isItem=n=>n.classList.contains('d3')||n.classList.contains('depth-3');
+      while(i<nodes.length){
+        const n=nodes[i];
+        if(!isPara(n)){frag.append(n);i++;continue;}
+        let j=i+1; while(j<nodes.length&&!isPara(nodes[j]))j++;
+        const group=nodes.slice(i,j);
+        const hasChild=group.slice(1).some(x=>isSub(x)||isItem(x));
+        if(!hasChild){frag.append(n);i=j;continue;}
+        const d=doc.createElement('details'); d.className='r19Para';
+        const sm=doc.createElement('summary'); sm.innerHTML=n.innerHTML; d.append(sm);
+        const ch=doc.createElement('div'); ch.className='r19Children';
+        let k=1;
+        while(k<group.length){
+          const g=group[k];
+          if(!isSub(g)){ch.append(g);k++;continue;}
+          let h=k+1; while(h<group.length&&!isSub(group[h]))h++;
+          const sg=group.slice(k,h); const hasItem=sg.slice(1).some(isItem);
+          if(!hasItem){ch.append(g);k=h;continue;}
+          const sd=doc.createElement('details'); sd.className='r19Sub';
+          const ss=doc.createElement('summary'); ss.innerHTML=g.innerHTML; sd.append(ss);
+          const sc=doc.createElement('div'); sc.className='r19Children'; sg.slice(1).forEach(x=>sc.append(x));
+          sd.append(sc); ch.append(sd); k=h;
+        }
+        d.append(ch); frag.append(d); i=j;
+      }
+      body.replaceChildren(frag);
+    });
+  }
+
+  const r19NavStack=[];
+
+  function paragraphMark(n){
+    if(!n)return null;
+    const circ=['①','②','③','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪','⑫','⑬','⑭','⑮','⑯','⑰','⑱','⑲','⑳'];
+    const i=Number(n);
+    return (i>=1&&i<=circ.length)?circ[i-1]:null;
+  }
+
+  function currentLegalState(doc){
+    try{
+      const modal=doc.getElementById('modal');
+      const active=[...doc.querySelectorAll('.tab.on')].find(x=>x.dataset.doc)?.dataset.doc || 'law';
+      const directiveVisible=modal && modal.style.display==='none';
+      let sourceDoc=doc, kind=active;
+      if(directiveVisible){
+        const lf=doc.getElementById('legacy');
+        if(lf&&lf.contentDocument){sourceDoc=lf.contentDocument;kind='directive';}
+      }
+      const opened=[...sourceDoc.querySelectorAll('.article[open] summary')][0];
+      return {
+        kind,
+        article: opened ? opened.textContent.trim().match(/^제\s*\d+(?:의\d+)?조/)?.[0]?.replace(/\s+/g,'') : null,
+        scrollY: sourceDoc.defaultView ? sourceDoc.defaultView.scrollY : 0
+      };
+    }catch(_){ return null; }
+  }
+
+  function ensureBackButton(doc){
+    try{
+      if(doc.getElementById('r19BackRef'))return;
+      const b=doc.createElement('button');
+      b.id='r19BackRef';
+      b.textContent='← 이전 조문으로';
+      b.style.cssText='display:none;position:fixed;z-index:2147483647;right:14px;top:12px;padding:9px 12px;border:1px solid #7aa7c9;border-radius:10px;background:#112b3f;color:#fff;font:800 12px system-ui,-apple-system,"Malgun Gothic",sans-serif;box-shadow:0 7px 22px #0008;cursor:pointer';
+      b.onclick=()=>restorePrevious(doc);
+      doc.body.append(b);
+    }catch(_){}
+  }
+
+  function showBackButton(doc){
+    ensureBackButton(doc);
+    const b=doc.getElementById('r19BackRef');
+    if(b)b.style.display=r19NavStack.length?'block':'none';
+  }
+
+  function restorePrevious(doc){
+    const st=r19NavStack.pop();
+    if(!st)return;
+    try{
+      if(st.kind==='directive'){
+        const tab=doc.getElementById('directiveTab');
+        if(tab)tab.click();
+        setTimeout(()=>{
+          const lf=doc.getElementById('legacy'), d=lf&&lf.contentDocument; if(!d)return;
+          enhanceHierarchy(d); markRefs(d);
+          if(st.article){
+            const s=[...d.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(st.article));
+            if(s)s.parentElement.open=true;
+          }
+          d.defaultView?.scrollTo(0,st.scrollY||0);
+          showBackButton(doc);
+        },300);
+      }else{
+        const tab=[...doc.querySelectorAll('.tab')].find(x=>x.dataset.doc===st.kind);
+        if(tab)tab.click();
+        setTimeout(()=>{
+          enhanceHierarchy(doc);markRefs(doc);
+          if(st.article){
+            const s=[...doc.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(st.article));
+            if(s)s.parentElement.open=true;
+          }
+          doc.defaultView?.scrollTo(0,st.scrollY||0);
+          showBackButton(doc);
+        },120);
+      }
+    }catch(_){}
+  }
+
+  function markRefs(doc){
+    if(!doc)return;
+    [...doc.querySelectorAll('.node,.r19Para>summary,.r19Sub>summary')].forEach(el=>{
+      if(el.dataset.r19refs)return; el.dataset.r19refs='1';
+      const walker=doc.createTreeWalker(el,NodeFilter.SHOW_TEXT);
+      const texts=[]; let t; while((t=walker.nextNode()))texts.push(t);
+      texts.forEach(node=>{
+        const txt=node.nodeValue; if(!txt)return;
+        const re=/(방위사업법|방위사업관리규정|국방전력발전업무훈령|법|영)\s*제\s*(\d+(?:의\d+)?)조(?:\s*제?\s*(\d+)항)?/g;
+        let m,last=0,hit=false; const frag=doc.createDocumentFragment();
+        while((m=re.exec(txt))){
+          hit=true; frag.append(txt.slice(last,m.index));
+          const a=doc.createElement('span'); a.className='r19Ref'; a.textContent=m[0];
+          a.dataset.article='제'+m[2]+'조';
+          a.dataset.para=m[3]||'';
+          a.dataset.doc=(m[1]==='방위사업관리규정')?'reg':(m[1]==='국방전력발전업무훈령'?'directive':'law');
+          frag.append(a); last=re.lastIndex;
+        }
+        if(hit){frag.append(txt.slice(last)); node.parentNode.replaceChild(frag,node);}
+      });
+    });
+  }
+
+  function focusParagraph(targetDoc, para){
+    if(!para)return;
+    const mark=paragraphMark(para);
+    if(!mark)return;
+    const candidates=[...targetDoc.querySelectorAll('.r19Para>summary,.node.d1,.node.depth-1')];
+    const p=candidates.find(x=>x.textContent.trim().includes(mark));
+    if(p){
+      const d=p.closest('details'); if(d)d.open=true;
+      p.scrollIntoView({behavior:'smooth',block:'center'});
+      const old=p.style.outline;
+      p.style.outline='3px solid #ffc857';
+      setTimeout(()=>p.style.outline=old,1800);
+    }
+  }
+
+  function jumpTopDoc(doc,kind,article,para){
+    try{
+      const st=currentLegalState(doc);
+      if(st)r19NavStack.push(st);
+      showBackButton(doc);
+
+      if(kind==='directive'){
+        const b=doc.getElementById('directiveTab'); if(b)b.click();
+        setTimeout(()=>{
+          const lf=doc.getElementById('legacy'), d=lf&&lf.contentDocument; if(!d)return;
+          enhanceHierarchy(d); markRefs(d);
+          const target=[...d.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(article));
+          if(target){
+            target.parentElement.open=true;
+            target.scrollIntoView({behavior:'smooth',block:'start'});
+            setTimeout(()=>focusParagraph(d,para),180);
+          }
+        },350); return;
+      }
+
+      const tab=[...doc.querySelectorAll('.tab')].find(x=>x.dataset.doc===kind); if(tab)tab.click();
+      setTimeout(()=>{
+        enhanceHierarchy(doc); markRefs(doc);
+        const target=[...doc.querySelectorAll('.article summary')].find(x=>x.textContent.replace(/\s+/g,'').startsWith(article));
+        if(target){
+          target.parentElement.open=true;
+          target.scrollIntoView({behavior:'smooth',block:'start'});
+          setTimeout(()=>focusParagraph(doc,para),160);
+        }
+      },120);
+    }catch(_){}
+  }
+
+  function patchLegal(doc){
+    if(!doc)return;
+    addLegalCss(doc);
+    const open=doc.getElementById('open'); if(open&&doc.getElementById('modal')?.style.display!=='block')open.click();
+    setTimeout(()=>{enhanceHierarchy(doc);markRefs(doc);},120);
+    if(!doc.documentElement.dataset.r19click){
+      doc.documentElement.dataset.r19click='1';
+      doc.addEventListener('click',e=>{
+        const r=e.target.closest&&e.target.closest('.r19Ref');
+        if(r){e.preventDefault();e.stopPropagation();jumpTopDoc(doc,r.dataset.doc,r.dataset.article,r.dataset.para);}
+      },true);
+    }
+    const nested=doc.getElementById('legacy');
+    if(nested){
+      const run=()=>{try{
+        const nd=nested.contentDocument; addLegalCss(nd); enhanceHierarchy(nd); markRefs(nd);
+      }catch(_){}};
+      nested.addEventListener('load',run); run();
+    }
+    const mo=new MutationObserver(()=>{try{
+      enhanceHierarchy(doc); markRefs(doc);
+      if(nested&&nested.contentDocument){enhanceHierarchy(nested.contentDocument);markRefs(nested.contentDocument);}
+    }catch(_){}});
+    mo.observe(doc.documentElement,{subtree:true,childList:true});
+  }
+
+  document.getElementById('legalLaunch').onclick=()=>{
+    overlay.style.display='block';
+    if(!frame.src) frame.src=LEGAL; else {try{patchLegal(frame.contentDocument)}catch(_){}}
+  };
+  document.getElementById('legalBack').onclick=()=>overlay.style.display='none';
+  frame.addEventListener('load',()=>{try{patchLegal(frame.contentDocument)}catch(_){}});
+  setTimeout(()=>document.getElementById('badge')?.remove(),3200);
+})();
+</script>
+</body>
+</html>
