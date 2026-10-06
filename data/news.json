@@ -1,72 +1,70 @@
 {
   "date": "2026-10-06",
-  "generated_at_utc": "2026-10-06T08:14:43Z",
-  "cutoff_kst": "2026-10-06T17:14:00+09:00",
+  "generated_at_utc": "2026-10-06T12:15:52Z",
+  "cutoff_kst": "2026-10-06T21:15:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Treasury yields fall as oil prices slide",
+        "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+        "summary": "Treasury yields were broadly lower on Tuesday morning after reaching fresh highs the previous day. Treasury yields fall as oil prices slide",
+        "published": "Tue, 06 Oct 2026 12:06:39 GMT",
+        "published_kst": "2026-10-06T21:06:39+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Russia’s neighbor could lift its ban on nuclear weapons, prompting outcry from Moscow",
+        "url": "https://www.cnbc.com/2026/10/06/russia-ukraine-lithuania-trump-nato.html",
+        "summary": "Lithuania is seeking to bolster its security amid growing concerns over Russia. Russia’s neighbor could lift its ban on nuclear weapons, prompting outcry from Moscow",
+        "published": "Tue, 06 Oct 2026 12:04:46 GMT",
+        "published_kst": "2026-10-06T21:04:46+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
+        "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
+        "summary": "The personal agent boom is lifting the fortunes of AMD and Intel, which have outperformed their megacap tech peers over the past month. Meta Muse gives AMD a boost as AI momentum shifts to personal agents",
+        "published": "Tue, 06 Oct 2026 12:04:09 GMT",
+        "published_kst": "2026-10-06T21:04:09+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Election Dispatches:: Trump Rallies in Nebraska to Try to Lift Republican Incumbents - The New York Times",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OZDZUMXpEeGtFVmVFVElveVJ0NlJaRXNoMkJGUXpmMjVWRlRKeG5aWmlpVEFjQzJjelBkeEthdHFGRE9IMk1WWWR6Ul9BNFhWWC1sXzM5T2dYVktKUnlBOTNyQ0JrLTk2Z2tqY21B?oc=5",
         "summary": "Election Dispatches:: Trump Rallies in Nebraska to Try to Lift Republican Incumbents The New York Times Election Dispatches:: Trump Rallies in Nebraska to Try to Lift Republican Incumbents - The New York Times",
-        "published": "Tue, 06 Oct 2026 07:19:00 GMT",
-        "published_kst": "2026-10-06T16:19:00+09:00",
+        "published": "Tue, 06 Oct 2026 11:57:00 GMT",
+        "published_kst": "2026-10-06T20:57:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
-        "url": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
-        "summary": "national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the country. Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
-        "published": "Tue, 06 Oct 2026 07:05:36 GMT",
-        "published_kst": "2026-10-06T16:05:36+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$6"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Treasury yields are broadly flat as investors anticipate FOMC minutes",
-        "url": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
-        "summary": "Treasury yields were broadly flat on Tuesday morning after reaching fresh highs the previous day. Treasury yields are broadly flat as investors anticipate FOMC minutes",
-        "published": "Tue, 06 Oct 2026 07:05:14 GMT",
-        "published_kst": "2026-10-06T16:05:14+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Karoline Leavitt has a new gig at Fox News. The former White House press secretary is joining the network as a contributor. Read more below. - facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnhubW4xOV9kbEVocGFBRzhLMGp4a2N5cks4Y3Q5LXdRT3o1WHZReVVWNkFzTXh6UlM5U3JodGpWY3RFQ21VMXRXWWx5clZMVExFR2hRR21hSzN6VmRjOUdrYXBWZU5WZlVPcThJNU54cy1JVTIwV2dpRGZTMmV3YUp1aUhsSHM1ZU0wa2h1NmpkQjFuUnEwRnNENlluZWdHcXZpLXFfM2IycGl3OHRYb2lONjdlQlNQa3JQOVpEai1idG5lR05tNnpIMlh5bzhBRmVsdQ?oc=5",
-        "summary": "facebook.com Karoline Leavitt has a new gig at Fox News. The former White House press secretary is joining the network as a contributor.",
-        "published": "Tue, 06 Oct 2026 07:02:43 GMT",
-        "published_kst": "2026-10-06T16:02:43+09:00",
+        "title": "Trump's sweeping makeover of the White House and Washington - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNVdYRlI5dkdEVm9XTXdsSzBFcmNSd0NrUHY2aUtYRVE3MkZqYWZqbWdWM0J2SlJrUWVpZWJ5d0pobERwQWNEbmo4MjdWci0wUEgxNWZJUEN3MkpRdjRKYk9GbnJiMVNjYy1NMGVFSzhSYzJyMThVQjgweGdFSVYwQUVYck5JV2tra1hrcGZXazZVUXRXQl9UOVlFS3VURVhEUm40MQ?oc=5",
+        "summary": "Trump's sweeping makeover of the White House and Washington Reuters Trump's sweeping makeover of the White House and Washington - Reuters",
+        "published": "Tue, 06 Oct 2026 11:11:58 GMT",
+        "published_kst": "2026-10-06T20:11:58+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How quant funds beat the market by being 'early, contrarian and right'",
-        "url": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
-        "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year. How quant funds beat the market by being 'early, contrarian and right'",
-        "published": "Tue, 06 Oct 2026 06:57:42 GMT",
-        "published_kst": "2026-10-06T15:57:42+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Inflation-Employment Projection: U.S. Neutral Rate May Linger at High Levels - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUd5bDZLT19MTHBXeE5MNVZ2dDNSNnpEMHFIX1RwVlFXSGQ5RXhaSW15bVNCRFJkajk5VUVQRklwWk82WUt5aUxDaENGdEh2WnIzZUtpN1BLeTVYRUl3ZjlDOFhWTFlhM05YMUFZcEotYmdWYkJTNzBTc041NnRCbjNyLTBadGFlTVdVSWExU29Lakp3dkl6VGlOd1FTWm9vTDEwTFd1NW54RUh3alFV?oc=5",
-        "summary": "Neutral Rate May Linger at High Levels Moomoo Inflation-Employment Projection: U.S.",
-        "published": "Tue, 06 Oct 2026 04:36:06 GMT",
-        "published_kst": "2026-10-06T13:36:06+09:00",
+        "title": "U.S. Bancorp Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORG1uNzRRLU5vRzNkSE1pNlFEM0JTT0FjOVAzU0Y5cTVONkRjTFVld1FlM1ZvUVY0ODdlS0piMFdOOHVKLTJmdkdSR0RfT2E4WXJ6YmpQR2JULTVzZDBsLXBvQzBYeEUwVjZ5ZGctUHRrNkt4cFVQWnhoc3A2TWZ1Qi1rMVR4T3pWclM0NERhVndVSlZSSDNtbmxIWnE3d09QUmgzbFViNUlxQlFlREFYTGhTWkp3RTBCSE03QUpELWZpMWJONS1WOWEwUzNKT28yWGxxVXFucU5xUm02Zm9JRjNrQjRUUWNFYUFqN0dscTFJTk5UUTNjZmRPWmNYd2RNUnRxYkVQUUlDTVVaMEdaX0xhbnpwaHFFUDUw?oc=5",
+        "summary": "Bancorp Likely To Report Higher Q3 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Benzinga U.S.",
+        "published": "Tue, 06 Oct 2026 11:10:06 GMT",
+        "published_kst": "2026-10-06T20:10:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,35 +73,35 @@
     ],
     "kr": [
       {
-        "title": "믿었던 채권에 발등…퇴직연금 TDF 열에 아홉 '마이너스' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTG5VbTBwYzBxT2ltbEVHeXNyNFMyc1A5a01jeXlfT25CTDNXUEktcEJ6VEFvdHdiZ0FUWEpoeVhja1JmZXFTcV9FdlJOaFFEN1dHNFRCYXpOZw?oc=5",
-        "summary": "믿었던 채권에 발등…퇴직연금 TDF 열에 아홉 '마이너스' 한국경제 믿었던 채권에 발등…퇴직연금 TDF 열에 아홉 '마이너스' - 한국경제",
-        "published": "Tue, 06 Oct 2026 07:52:55 GMT",
-        "published_kst": "2026-10-06T16:52:55+09:00",
+        "title": "초선의원에 한국정치 오늘과 내일을 묻다 (2) [2026 창간특집] - 경인일보",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NX0huZDdocWhYRU1HRDRNMlM1Zmx1d1lmX1FmRk5GQ0llNHBYYm5YaFJPUVppTTFUczY1MlJhcXk0WFhJWDFPblluQUo2WWQ3WEE?oc=5",
+        "summary": "초선의원에 한국정치 오늘과 내일을 묻다 (2) [2026 창간특집] 경인일보 초선의원에 한국정치 오늘과 내일을 묻다 (2) [2026 창간특집] - 경인일보",
+        "published": "Tue, 06 Oct 2026 11:10:50 GMT",
+        "published_kst": "2026-10-06T20:10:50+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"현금 안 가져왔는데 어쩌죠?\"…성당서 벌어진 '낯선 풍경' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yeEtoOWcwYXhDSWoydEZjQUxGWG9GSlJKdzl6VVVtamE5bmlHYXpPU1RBZDF1RTRjRUN3MnQwRTBwYzd6NW82TExuWW9HUWRGWHh0cnJaYWdEUQ?oc=5",
+        "summary": "\"현금 안 가져왔는데 어쩌죠?\"…성당서 벌어진 '낯선 풍경' 한국경제 \"현금 안 가져왔는데 어쩌죠?\"…성당서 벌어진 '낯선 풍경' - 한국경제",
+        "published": "Tue, 06 Oct 2026 11:06:00 GMT",
+        "published_kst": "2026-10-06T20:06:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "이천시, 2027년 지방세 세입예산 추계 심의… 한국마사회 유치 의지 밝혀 - 웹이코노미",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FNkhuOC1HV2RqbDBZenRfVnhSdDRDM2NxcGt6M19KcUs2M19QVzNObFF3TnFwYUhxRy1mWlpNMnRzYTlDUklKa2Y3MU15RXRWODdYT2RNSEtTZ2RmYjY2eU9rTmpjdU1WbmJkSlVRWmxDQQ?oc=5",
-        "summary": "이천시, 2027년 지방세 세입예산 추계 심의… 한국마사회 유치 의지 밝혀 웹이코노미 이천시, 2027년 지방세 세입예산 추계 심의… 한국마사회 유치 의지 밝혀 - 웹이코노미",
-        "published": "Tue, 06 Oct 2026 07:46:52 GMT",
-        "published_kst": "2026-10-06T16:46:52+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2027"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "“예산시네마로 공짜 한국영화 8편 보러 오세요” - 로컬투데이",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CeEUyT3pwNDVrMVp1RVdpT1NHNFdtZ0hscnVtcDVtZ2J0Q2pJYXQ4bEZpazVLS0ptSGFWSGJEazVJcTJINzFVUFVWQ3luaDhYRzZ3VHpLeHRtUFFjNjlpbVNvR2ltS0NRWmJoX1Vwd0k?oc=5",
-        "summary": "“예산시네마로 공짜 한국영화 8편 보러 오세요” 로컬투데이 “예산시네마로 공짜 한국영화 8편 보러 오세요” - 로컬투데이",
-        "published": "Tue, 06 Oct 2026 07:44:52 GMT",
-        "published_kst": "2026-10-06T16:44:52+09:00",
+        "title": "北 \"한국, 비무장지대 폭발사고 책임 전가…중대한 도발\" - gukjenews.com",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtdFFqSHN4WlpwR3lpQTQ2cDY2ekM3SllKaHRuMTA5c3AtM2lfSHNDSUlDS0lRd0lTTlo4TzZ4YXBKWWc0NjlKYUtnOXdLTUV4d0h0NmR4S2NyVWdFTTVIZWFsMjhnZ3JZNnBIN3JR?oc=5",
+        "summary": "北 \"한국, 비무장지대 폭발사고 책임 전가…중대한 도발\" gukjenews.com 北 \"한국, 비무장지대 폭발사고 책임 전가…중대한 도발\" - gukjenews.com",
+        "published": "Tue, 06 Oct 2026 11:02:26 GMT",
+        "published_kst": "2026-10-06T20:02:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +110,35 @@
     ],
     "world": [
       {
-        "title": "Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow (NYSE:COR) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQTZhWmI1WmdrVmVRd01EekZ2dndlNHVSblk5SkUxRDhhRFp1dlFqbEZ6SGJnYTBYZVJpcFdFQVlLMzB2TXdzQ3NuZ3QtU3N4dWtEd2dNdUVZRlBtTEQ0eDVqaURfTFZWaDFkWnBSUHdkMDJxSGdGMnRlb0d5bktYVl9kcjlCUmhMWG4wWGU2THpEbUI3RlJMWHJsXzd6VVJQV3g4NnJPWGFweTA5RmpNRm5CYVRpVG8?oc=5",
-        "summary": "Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow (NYSE:COR) Seeking Alpha Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow (NYSE:COR) - Seeking Alpha",
-        "published": "Tue, 06 Oct 2026 07:48:19 GMT",
-        "published_kst": "2026-10-06T16:48:19+09:00",
+        "title": "GC Rieber VivoMega to highlight $20m supply chain expansion at SupplySide Global - Nutraceutical Business Review",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZW16WVpKbDh4cE9DRHBPTW9MOHgwSFB5SW1NVXBHUFExYkNqcFpiZTRPVEJqSDFUZm9QTm5QY2tia3ZpQTUtME1qZVcxTE0zeEtWMTdnT0JkZHFISW9QbVAyTEJCbG9ZSG9CRUYzM2FMSzZzSjFhMlp5VnVlMG01WEk2d3B5LUJMbnNyQWYwU094UTdDYmlWYzNSMkM?oc=5",
+        "summary": "GC Rieber VivoMega to highlight $20m supply chain expansion at SupplySide Global Nutraceutical Business Review GC Rieber VivoMega to highlight $20m supply chain expansion at SupplySide Global - Nutraceutical Business Review",
+        "published": "Tue, 06 Oct 2026 12:10:40 GMT",
+        "published_kst": "2026-10-06T21:10:40+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$20"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "C.H. Robinson and RXO: Transforming Third-Party Logistics - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmZtWFVlX0pESndzaU5GaHRxbW91cDlEWWtxWElWM2R0SkNodDBNaDhmeXdlaTRCOUptYm1rY3FrcXdZU2lyTmxZQnBVUW9oclVVYmU2NEJ3dE1wWmExM09NLXZ4eDNGejRmbFZZSVc4TVh2bUxnX3QwVldQcHJzZkpvamk5X0ZqUG5QYUowTDdYdG9pclE?oc=5",
+        "summary": "Robinson and RXO: Transforming Third-Party Logistics Supply Chain Digital C.H.",
+        "published": "Tue, 06 Oct 2026 11:10:41 GMT",
+        "published_kst": "2026-10-06T20:10:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Top Security Executives Gather at ISCPO Mexico City Summit to Discuss Supply Chain Issues - Loss Prevention Magazine",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFkxSE9CMWRZcjVISEtlbl9BRDUwSEhFVmZmakdha2J2LXFZSTFqVU9ZNjl1U2lxUjFJaXBxem9YZHRSM1RrdFo2UURuLTdobW5WcTZtVG9Sei1jUWFjXy1MdW9VZVJIazQ3WmdYUE1FZzN6QzQwRFdHWGhrU0RsVUo3SHVIYmRKR0hSc3V6X1g1UEJVWDBmZUNfR3JrZ24yak9GMWdmVDFFbzBRcWRsTDM2TmhHZ09Tc0VMRWpMWQ?oc=5",
-        "summary": "Top Security Executives Gather at ISCPO Mexico City Summit to Discuss Supply Chain Issues Loss Prevention Magazine Top Security Executives Gather at ISCPO Mexico City Summit to Discuss Supply Chain Issues - Loss Prevention Magazine",
-        "published": "Tue, 06 Oct 2026 07:24:58 GMT",
-        "published_kst": "2026-10-06T16:24:58+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Smart Payment Association Warns of Growing Supply Chain Pressures on Payment Card Industry | Corporate - EQS News",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQR2FQRlNTOWR1eU45RF9wZ3NCa2VjNEszVUVJN1BvNmU0SS1DZmowYkRMT1JMcm5FaG5XSWZMT1dIYUVMZUU3VE4tRXRyaVdYX1pRZUZMenZ6NlZzSExRTnlPLUhmYl9BSG13VG5ackU0NTZGVUhraU90Mk1fVlJHcGVMYlFsaU54UkJUak1Xa0wwWGpTVUQ1R0liZU5uMGJzaVV5Nl9lTG1VbWluOUlERkQxOU5hTzdDVzVwbUxGa2VHaWwxREpmUzFvSXB0alp3Qy1oZlNFNENwb3pQb0h2ZjdSOGdDMlBkcHNOZlFJMzZGOFdVcXYzZkVoZWwyMkk?oc=5",
-        "summary": "Smart Payment Association Warns of Growing Supply Chain Pressures on Payment Card Industry | Corporate EQS News Smart Payment Association Warns of Growing Supply Chain Pressures on Payment Card Industry | Corporate - EQS News",
-        "published": "Tue, 06 Oct 2026 06:23:48 GMT",
-        "published_kst": "2026-10-06T15:23:48+09:00",
+        "title": "Descartes Unveils Next Step in Supply Chain AI with Agent Control Plane - Macau Business",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckNHVTViSVBXdExldlF1NEJIOFcwOUlvOU1HTjdRblBtVXBMZVppWlBySm8yRVRnc2tuOXhpWEE3MzhXdnpkWU9YcHN2aFhTUmFiTTc4eTM3NE5zQmdfdjFQeVk4WVR5ZnFHcXN2UDZsWUNsN0hFeEVCcGY4WjV1YWtKUF9PNzRmYzU0dF9FM1RpZkJxVWZtR0hydHBPZm8?oc=5",
+        "summary": "Descartes Unveils Next Step in Supply Chain AI with Agent Control Plane Macau Business Descartes Unveils Next Step in Supply Chain AI with Agent Control Plane - Macau Business",
+        "published": "Tue, 06 Oct 2026 10:57:11 GMT",
+        "published_kst": "2026-10-06T19:57:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Election Dispatches:: Trump Rallies in Nebraska to Try to Lift Republican Incumbents The New York Times Election Dispatches:: Trump Rallies in Nebraska to Try to Lift Republican Incumbents - The New York Times / 믿었던 채권에 발등…퇴직연금 TDF 열에 아홉 '마이너스' 한국경제 믿었던 채권에 발등…퇴직연금 TDF 열에 아홉 '마이너스' - 한국경제 / Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow (NYSE:COR) Seeking Alpha Cencora Remains A Buy At These Prices, As Healthcare Supply-Chain Needs Grow (NYSE:COR) - Seeking Alpha",
+  "wrap_summary": "Treasury yields were broadly lower on Tuesday morning after reaching fresh highs the previous day. Treasury yields fall as oil prices slide / 초선의원에 한국정치 오늘과 내일을 묻다 (2) [2026 창간특집] 경인일보 초선의원에 한국정치 오늘과 내일을 묻다 (2) [2026 창간특집] - 경인일보 / GC Rieber VivoMega to highlight $20m supply chain expansion at SupplySide Global Nutraceutical Business Review GC Rieber VivoMega to highlight $20m supply chain expansion at SupplySide Global - Nutraceutical Business Review",
   "invest_summary": ""
 }
