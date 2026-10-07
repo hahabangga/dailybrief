@@ -1,37 +1,39 @@
 {
   "date": "2026-10-07",
-  "generated_at_utc": "2026-10-07T01:02:55Z",
-  "cutoff_kst": "2026-10-07T10:02:00+09:00",
+  "generated_at_utc": "2026-10-07T07:49:28Z",
+  "cutoff_kst": "2026-10-07T16:49:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "White House aide: Trump did not call for attacks on US cities but explained how he’s preventing them - The Seattle Times",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQlUwcEFjX1NlMWpkenZtWUJhM3A3MXRLcGZVOHBFNlk3MlloMlNEZ2hMNUtRSFJTVVdScGtwU3VmSWhXd2pvcnJobzNDNUo0alF1b0Ytb053YmZsSldIZW5RR0NGWDduSXVPRlpaMDFWeTBIbkw2Y1BvdXp1R2JaM1BBVWd6aWxQRHdMOHVJbTlWcGY0U3Z1X2wwWDJNdzlZQ1NRV1gxRERIYVZ6YVVrbkthTWR2ZTM2dm1yYmhESm4zbldidjRuYnlGamxCYS1hZEtPT2NYQXA1aWtwREQ1bjR3?oc=5",
-        "summary": "White House aide: Trump did not call for attacks on US cities but explained how he’s preventing them The Seattle Times White House aide: Trump did not call for attacks on US cities but explained how he’s preventing them - The Seattle Times",
-        "published": "Wed, 07 Oct 2026 00:57:11 GMT",
-        "published_kst": "2026-10-07T09:57:11+09:00",
+        "title": "Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
+        "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
+        "summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric. Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
+        "published": "Wed, 07 Oct 2026 07:10:01 GMT",
+        "published_kst": "2026-10-07T16:10:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$130"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmN5T2dZMHU3bTVsWE9RRXFtLUZvbG4tOGdLWm9Cc3Rxb0NHLWliSGhjTUtvRl9pbWtwRndRT0NLNzh4Wlg1ZVY1Z2xsU3ZUR1VVVGhmUDNMZUltMzJza1VvUUpTaEhvdXZGQzg0RE5vbWZDZm9WMHVMNlF4REg4OVlrQUlOaUVzU3h3aDl6b0pzcUJZTjZkdm1PdzIwQi16d1RsZGhCMzJjSTB1NDJLR0w0U3ZrRDhjVHZsNA?oc=5",
+        "summary": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes FXStreet Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
+        "published": "Wed, 07 Oct 2026 06:55:04 GMT",
+        "published_kst": "2026-10-07T15:55:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
-        "url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
-        "summary": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher. Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says.",
-        "published": "Wed, 07 Oct 2026 00:49:34 GMT",
-        "published_kst": "2026-10-07T09:49:34+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Letter: Bringing US inflation to heel needs more aggressive tightening - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYX2pMNVRyTWtHcFJLY3pTUGdNX2VDSHRBSko5N00zQU90U0xlcXdLWDZwNlBZQVU4dkFFZmpOS3FqemVzNnRJdFdPVWZDVDk1RWNQM19Mc01zeEpBVms3Z3c4a3R4MloxNzVoWWVwY3I?oc=5",
-        "summary": "Letter: Bringing US inflation to heel needs more aggressive tightening Financial Times Letter: Bringing US inflation to heel needs more aggressive tightening - Financial Times",
-        "published": "Wed, 07 Oct 2026 00:34:47 GMT",
-        "published_kst": "2026-10-07T09:34:47+09:00",
+        "title": "US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeS0wTXBRYktWT3F4ZUxLWHpaUEFBcjBhV0NfVFpvaVNJWEtkUENEdHdOMEhlT21XdjNtcVhGT0RIcUVWNUdtQWZRNnJIemdpMXh0Q3FiQ29pOW9mUzFFOUhBMjdNQ3QtNFB1eUM4U2Mwa1Q5TWxOZXhnY1pQTXlCeUR1OUxBYl8wdlRKdTBwSUtLTU02Z2pJbG5XZVlsZFQtcDZ3eVd2X0VCRmdJZ1A4LWlMTUVIb1A5S1QzZDJEZWN6LWxP?oc=5",
+        "summary": "US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes FXStreet US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes - FXStreet",
+        "published": "Wed, 07 Oct 2026 06:41:19 GMT",
+        "published_kst": "2026-10-07T15:41:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -41,8 +43,8 @@
         "title": "How the Pulling Power of Diesel Risks Higher Inflation Into 2027 - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0xYR1NCdVp1SUFUYmtYWWVteWtVSmxxTTczQWl1bUNhaFRWTU4tNjNPZTBOcEhGUkVxbVZad0VwUHlUQnp2V0NZWHpWcWhuS0YtcGtTcU1tQjNKM0pCS3l4TFloNmcycmlNN3E4MzZLcXpjVW8tQnRMbjBEa3VwME1YdGZCS3ZOYnlTQjc5TlBlZzh2dG42MjZBYWdFTGpXTDFPem5wUVU?oc=5",
         "summary": "How the Pulling Power of Diesel Risks Higher Inflation Into 2027 Bloomberg.com How the Pulling Power of Diesel Risks Higher Inflation Into 2027 - Bloomberg.com",
-        "published": "Wed, 07 Oct 2026 00:31:24 GMT",
-        "published_kst": "2026-10-07T09:31:24+09:00",
+        "published": "Wed, 07 Oct 2026 06:31:25 GMT",
+        "published_kst": "2026-10-07T15:31:25+09:00",
         "domain": "google.com",
         "key_figures": [
           "2027"
@@ -51,22 +53,22 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-        "url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html",
-        "summary": "The S&P 500 returned to an intraday record Tuesday as tech gains, easing oil prices and Treasury yields helped stocks overcome months of market shocks. Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
-        "published": "Tue, 06 Oct 2026 22:23:01 GMT",
-        "published_kst": "2026-10-07T07:23:01+09:00",
+        "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+        "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+        "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose. Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+        "published": "Wed, 07 Oct 2026 06:16:39 GMT",
+        "published_kst": "2026-10-07T15:16:39+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
-        "url": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
-        "summary": "Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom. Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
-        "published": "Tue, 06 Oct 2026 22:13:04 GMT",
-        "published_kst": "2026-10-07T07:13:04+09:00",
+        "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+        "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+        "summary": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders. Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+        "published": "Wed, 07 Oct 2026 05:29:30 GMT",
+        "published_kst": "2026-10-07T14:29:30+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,33 +77,33 @@
     ],
     "kr": [
       {
-        "title": "잔금 앞두고 “60만달러 깎자”……美 부동산 뒤집은 금리 인상 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OVBNZDJpNjZoU3hFbEVScGFNSERFRkRjTWx1OTVhdHBXLXVKNENDNUJ0dlYtRkNGc2FQWHVUNkhkbnhvZHhJS3BNN1VMLWFBdXpncXA5eFRXQQ?oc=5",
-        "summary": "잔금 앞두고 “60만달러 깎자”……美 부동산 뒤집은 금리 인상 한국경제 잔금 앞두고 “60만달러 깎자”……美 부동산 뒤집은 금리 인상 - 한국경제",
-        "published": "Wed, 07 Oct 2026 00:53:54 GMT",
-        "published_kst": "2026-10-07T09:53:54+09:00",
+        "title": "손배찬 “접경도시 넘어 자족도시로” - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UdFNENnhGOGxEdy00Sm9QUWRVVG9CRE1VeXJ4VFRUQzNZODBValVRTGN6Qm9lZ1FKNmhJODNnOWhPb0dtbXY1NFppLTItVzdMM2JmQWZqSWRiUQ?oc=5",
+        "summary": "손배찬 “접경도시 넘어 자족도시로” 한국경제 손배찬 “접경도시 넘어 자족도시로” - 한국경제",
+        "published": "Wed, 07 Oct 2026 07:42:26 GMT",
+        "published_kst": "2026-10-07T16:42:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "우크라 \"韓, 러시아 도와\"…'석유공급' 보도 인용하며 비판 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMl9NenBSMzJ1OE5kUWQ1M2lqQzBlYi1wek9FVTA5dmFrZnFQWXppWXlDOFhhWm9tcjQ3N016ZTYxQ0pSeXJ2aldKXzM4MmI1VWItd1V3Mm5zdw?oc=5",
-        "summary": "우크라 \"韓, 러시아 도와\"…'석유공급' 보도 인용하며 비판 한국경제 우크라 \"韓, 러시아 도와\"…'석유공급' 보도 인용하며 비판 - 한국경제",
-        "published": "Wed, 07 Oct 2026 00:47:48 GMT",
-        "published_kst": "2026-10-07T09:47:48+09:00",
+        "title": "한국경제평론가협회, 8일 '한국경제와 부동산 정책 어디로 가나' 세미나 - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2MDl3MElZQlhxcC0tNnN2c2ZUZ3dfZUNqYUd4ci0wVGt3aTRhbTFJQnZzVlh4dGtBQWF1dHBocWxQZjFJUnVVNUZCZk9PNmx4ZXlScy1uS2s1OFk0?oc=5",
+        "summary": "한국경제평론가협회, 8일 '한국경제와 부동산 정책 어디로 가나' 세미나 뉴스핌 한국경제평론가협회, 8일 '한국경제와 부동산 정책 어디로 가나' 세미나 - 뉴스핌",
+        "published": "Wed, 07 Oct 2026 07:31:00 GMT",
+        "published_kst": "2026-10-07T16:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "풍산, 3분기 '어닝 쇼크' 전망에 약세 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rejV1eDZSUG12N1M2SUxXUzl1cjJRa3o4aXB3N1JRcTZyZlpLdElOT2J4RUJtYzMwU0lkX29rcnRzazlndDVBd1MySnV1UnlXVXQzRkdaWVdxZw?oc=5",
-        "summary": "풍산, 3분기 '어닝 쇼크' 전망에 약세 한국경제 풍산, 3분기 '어닝 쇼크' 전망에 약세 - 한국경제",
-        "published": "Wed, 07 Oct 2026 00:46:51 GMT",
-        "published_kst": "2026-10-07T09:46:51+09:00",
+        "title": "국회 과방위, 나로우주센터서 누리호 5차 발사 성공 참관 - 한국철도일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LSHZ5TFotdi01TWxFSWhXZWxxRVZPUjZ4OUJ0TEN2clhRMEJRN3lwZ08tWk9PNFZGTXVlQnQ3bklsUzNwQjU0bTlodWwyWUM5WHhNek00eEdRNHdORlJ4a1diUGtfcnh2a0U1UGJ4YzU?oc=5",
+        "summary": "국회 과방위, 나로우주센터서 누리호 5차 발사 성공 참관 한국철도일보 국회 과방위, 나로우주센터서 누리호 5차 발사 성공 참관 - 한국철도일보",
+        "published": "Wed, 07 Oct 2026 07:30:55 GMT",
+        "published_kst": "2026-10-07T16:30:55+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -109,6 +111,28 @@
       }
     ],
     "world": [
+      {
+        "title": "TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain - Vocal",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2UwV0gyaElINkVpRk1RaWNqdlZOU2lCV0ZjaXFQUUx6dktOcjJfbE9jUkU3eEhnS2RMZEFlYXh3ekpVaVhrNlduRWhiMXFPQWZORnl4QkY5S2w3UE1CY1ExNXNwMldMQ0NKT1N1alRnUExueHNDamxZWVIwS29QUktzai1peHhvdGVpSmRzMDJRYndpYVQ3dElLTGlVWlpsUzFLUw?oc=5",
+        "summary": "TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain Vocal TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain - Vocal",
+        "published": "Wed, 07 Oct 2026 07:14:01 GMT",
+        "published_kst": "2026-10-07T16:14:01+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Q&A: Software's Next Role In Pharma Supply Chains - Pharmaceutical Commerce",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnBqdjFGV1FJTXZiZ3hldWppV19rRXBLMTRtN0c5eGdwZGZVcWoyeno3ZkQyc2cyazVGRUpvNnVENEdJYXJjczhKMm5seUNBUUxxSWEwUzkyXzB0WURzb2dRbDlpY1Z2RjNqZDZta1FuYTNaUDgzU2FMdU1pODlaSmowLVdFVUhuNHg1UXByUzU5MXR6c29v?oc=5",
+        "summary": "Q&A: Software's Next Role In Pharma Supply Chains Pharmaceutical Commerce Q&A: Software's Next Role In Pharma Supply Chains - Pharmaceutical Commerce",
+        "published": "Wed, 07 Oct 2026 01:18:13 GMT",
+        "published_kst": "2026-10-07T10:18:13+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Global Data Center Cooling Market Analysis and Forecast, 2026-2036 | AI and High-Density Computing Propel Liquid Cooling Market to $141.19 Billion by 2036 - Supply Chain Digital",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HVkVRM3RjS0pmaEFBa05seEhTUXpEWkF1bGY5cGFYbDBrX0laNzRGYkQ2RHlNemlGd1FYbHJVOVhOSjlBczNGUGNydm50Wms3bWlaX1NicU9XTEVlNDBTRUJB?oc=5",
@@ -123,39 +147,9 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "USA Semiconductor Foundry Market - Strategic Insights and Forecasts, 2026-2031 | AI, Automotive, and Domestic Fab Investments Drive Growth to $23.9 Billion at a 7.8% CAGR - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmRlZQejFSRlRqWGtiSHF1UUFvN185UWR1cGFGS2pMVURhRmZwcTljbHJCMHZNY2NYY1NpdTdoaC1Hc3YyTjY0bEtEZC15M200cEFmX3N5eEVUcktFUVpONmV3?oc=5",
-        "summary": "USA Semiconductor Foundry Market - Strategic Insights and Forecasts, 2026-2031 | AI, Automotive, and Domestic Fab Investments Drive Growth to $23.9 Billion at a 7.8% CAGR Supply Chain Digital USA Semiconductor Foundry Market - Strategic Insights and Forecasts, 2026-2031 | AI, Automotive, and Domestic Fab Investments Drive Growth to $23.9 Billion at a 7.8% CAGR - Supply Chain Digital",
-        "published": "Wed, 07 Oct 2026 00:17:58 GMT",
-        "published_kst": "2026-10-07T09:17:58+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026",
-          "2031",
-          "$23.9",
-          "7.8%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "United States Electric Vehicle Market; Market Forecast to Reach US$630.2 Million by 2030 as Affordability, Charging Access, and Localized Production Reshape Competition - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TaGNTTW1vOXdJU2drNkhpeTJpWnlPWTVOTzBmczNhbzNXeC1XYVFjTXJHSldieEx3cTdBUTI2em43TjVMdlRHRGlqci14MUR1RzREN05fUHl6Sy1QdGZyNmNn?oc=5",
-        "summary": "United States Electric Vehicle Market; Market Forecast to Reach US$630.2 Million by 2030 as Affordability, Charging Access, and Localized Production Reshape Competition Supply Chain Digital United States Electric Vehicle Market; Market Forecast to Reach US$630.2 Million by 2030 as Affordability, Charging Access, and Localized Production Reshape Competition - Supply Chain Digital",
-        "published": "Wed, 07 Oct 2026 00:17:58 GMT",
-        "published_kst": "2026-10-07T09:17:58+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$630.2",
-          "2030"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "White House aide: Trump did not call for attacks on US cities but explained how he’s preventing them The Seattle Times White House aide: Trump did not call for attacks on US cities but explained how he’s preventing them - The Seattle Times / 잔금 앞두고 “60만달러 깎자”……美 부동산 뒤집은 금리 인상 한국경제 잔금 앞두고 “60만달러 깎자”……美 부동산 뒤집은 금리 인상 - 한국경제 / Global Data Center Cooling Market Analysis and Forecast, 2026-2036 | AI and High-Density Computing Propel Liquid Cooling Market to $141.19 Billion by 2036 Supply Chain Digital Global Data Center Cooling Market Analysis and Forecast, 2026-2036 | AI and High-Density Computing Propel Liquid Cooling Market to $141.19 Billion by 2036 - Supply Chain Digital",
+  "wrap_summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric. Jaguar unveils $130,500 electric vehicle two years after controversial rebrand / 손배찬 “접경도시 넘어 자족도시로” 한국경제 손배찬 “접경도시 넘어 자족도시로” - 한국경제 / TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain Vocal TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain - Vocal",
   "invest_summary": ""
 }
