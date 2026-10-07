@@ -1,38 +1,49 @@
 {
-  "date": "2026-10-07",
-  "generated_at_utc": "2026-10-07T12:06:48Z",
-  "cutoff_kst": "2026-10-07T21:06:00+09:00",
+  "date": "2026-10-08",
+  "generated_at_utc": "2026-10-07T17:21:23Z",
+  "cutoff_kst": "2026-10-08T02:21:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-        "url": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
-        "summary": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday. Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
-        "published": "Wed, 07 Oct 2026 12:02:50 GMT",
-        "published_kst": "2026-10-07T21:02:50+09:00",
+        "title": "Meta's Muse assistant tops app charts. Now it needs to become a habit",
+        "url": "https://www.cnbc.com/2026/10/07/meta-muse-personal-ai-agents-dazzle.html",
+        "summary": "Meta’s Muse is free for now as the company searches for a business surrounding its personal AI agent. Meta's Muse assistant tops app charts.",
+        "published": "Wed, 07 Oct 2026 17:20:12 GMT",
+        "published_kst": "2026-10-08T02:20:12+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
-        "url": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
-        "summary": "Mortgage rates rose to the highest level in nearly three years, causing demand for both refinancing and homebuying to decline even further. Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
-        "published": "Wed, 07 Oct 2026 12:00:21 GMT",
-        "published_kst": "2026-10-07T21:00:21+09:00",
+        "title": "10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
+        "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+        "summary": "Treasury yields came off their highs after a solid sale of 10-year notes. 10-year Treasury yield falls from 24-year high after solid bond auction eases demand fears",
+        "published": "Wed, 07 Oct 2026 17:17:24 GMT",
+        "published_kst": "2026-10-08T02:17:24+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-        "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
-        "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well. India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-        "published": "Wed, 07 Oct 2026 11:55:36 GMT",
-        "published_kst": "2026-10-07T20:55:36+09:00",
+        "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’",
+        "url": "https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html",
+        "summary": "Finland has emerged as a key location for data centers amid the AI boom. Google ordered to halt work on two data centers in ‘Texas of Europe’",
+        "published": "Wed, 07 Oct 2026 17:16:28 GMT",
+        "published_kst": "2026-10-08T02:16:28+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US inflation expectations rise to highest since May 2023 By Investing.com - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVBGRWluLVdBY3pLeHBZVzg4S2ZUNTFuYkJxc2lBTjE0YUI0Ull3dFB6Y093VXVkbXY0V3VSaEJQTjVVSDJWRnpFTVdlVTRMZENIZjNkcWtqTUVOaV9VdHBoSFJRNnlMSjVtdzdGeWtLQm9FOWZOWGhDWEEyNmdnZnYxckluWUNQX3ZyZXBaakZiMUFZdHl0Q1VfT1RDVmcwb09wUkQwaWJCdXJIWXRkQ2FQZWp5MElH?oc=5",
+        "summary": "US inflation expectations rise to highest since May 2023 By Investing.com Investing.com Canada US inflation expectations rise to highest since May 2023 By Investing.com - Investing.com Canada",
+        "published": "Wed, 07 Oct 2026 17:10:05 GMT",
+        "published_kst": "2026-10-08T02:10:05+09:00",
+        "domain": "google.com",
         "key_figures": [
           "2023"
         ],
@@ -40,72 +51,57 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US Dollar Rises Early Wednesday Ahead of Oil Stocks, New York Fed Inflation Expectations, FOMC Minutes - www.marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmowT1dPVzUzdTA1VTExN3dGS2RYSDlEZ0JGdWpqbjNMYWZvTnVMMkd5d0FUeldDdGZyVmhvQVJwLTFsLVNpTngwNXFGcE9kbF9vMHpXVEVSdGFzMXphS1lhaUNuUkU0N1Q2RXhyLVVLS0VIbHFwMVRPSlVZeXd2TnFGVVk2T1ZTa2YzQW91cWhSSDRRN2h0Zi1mQ0xJZU9NRlJ2WVAzVy00d21TU3EzMi12eTBpR29tOUpjSzgyNVl0V1NKWXJGZk9YZk1aZmR6WjZTWS1Cb25fQTZyUTk1NmJ6V3k4Zw?oc=5",
-        "summary": "US Dollar Rises Early Wednesday Ahead of Oil Stocks, New York Fed Inflation Expectations, FOMC Minutes www.marketscreener.com US Dollar Rises Early Wednesday Ahead of Oil Stocks, New York Fed Inflation Expectations, FOMC Minutes - www.marketscreener.com",
-        "published": "Wed, 07 Oct 2026 11:28:25 GMT",
-        "published_kst": "2026-10-07T20:28:25+09:00",
+        "title": "Senators push the Trump administration to act swiftly on Russian sanctions to help Ukraine - Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2bWxjY3RLVW1WLW9kY1Y4U0JlMFVfc1BpTEZkQ3dGT1M3ZGlZenJrQ0VsX21XQkZ1Zlp3M0hOSlYzWUkta0FQS1NCelBDVW9PN2RPV1g5dzhyeTRtNlkwbVZJbktyYm9Vb01DMzNxd0hGQmZZQTIzbUozU2Y?oc=5",
+        "summary": "Senators push the Trump administration to act swiftly on Russian sanctions to help Ukraine Boston Herald Senators push the Trump administration to act swiftly on Russian sanctions to help Ukraine - Boston Herald",
+        "published": "Wed, 07 Oct 2026 16:50:41 GMT",
+        "published_kst": "2026-10-08T01:50:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Full Transcript: US Foods Hldg Q2 2026 Earnings Call - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFN2b2tlTG45MTRST2ZsMUQwNzRHNDdnZE44ZlEtVnJEMk1xeGNxcnVKLVZLS1hlbVpEQ1hRU0g3T0twLUlpbXpWcUk2eFgxTnZ4eWJCWEhoTk8zMDBmS0dNMTFxb0FNMWN0d1hGZ2Z4VlJleFhZS3JjWFBIT3EzZmRfZG1wbUVGVzF6R3VfaWlXQ2R5NDNKNkVHWl8?oc=5",
-        "summary": "Full Transcript: US Foods Hldg Q2 2026 Earnings Call Benzinga Full Transcript: US Foods Hldg Q2 2026 Earnings Call - Benzinga",
-        "published": "Wed, 07 Oct 2026 11:13:44 GMT",
-        "published_kst": "2026-10-07T20:13:44+09:00",
+        "title": "Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpHUU05ZlNYUVZhUDRvOEtsU2tKOWJWLWM4OUZFWm1PRkJDZDJCZzBIenFyenhDT3o2T1c0QzhJRG4xS2xQTUMxX0VyZVZoSm92ZG8wdGlKdjRmeTI3SldqeHgxM3FabHRZMHI1SXA2dUsySGtza0dWNllWT21ZeVdPWEwwaHdoeUowSEJ2dWdqakxFTDNiQ1dUNkZhT0xyRThrZTM2Z0lmM1JKa2xManNhLUphOVlOOUJ0eVJzdw?oc=5",
+        "summary": "Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds Reuters Most Republicans in tight midterm races distance themselves from Trump, Reuters review finds - Reuters",
+        "published": "Wed, 07 Oct 2026 16:33:40 GMT",
+        "published_kst": "2026-10-08T01:33:40+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Sen. Ruben Gallego rolls out an economic agenda as he weighs a 2028 White House bid - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ0hfdXV3VTF3cnBVYXJ0V2pBRVRYN3VybEI3R01Rd2RXa0VpeFVLVGNvMHVCLXZSUEtxZjdVd01CUFpCTGMtTjFvd016eXU1UExjeTJxOGhYV2x0b0djbTNlelNIVHJFaGF0ZWwzX0dmdWZ2SHdTY1M3VG50NGxjQVVRQzVRWWdUNTNKMEJRQmJXOW8wUTB2dmk3cGlWbHFWRXZ5c2JnU19RX2lVZ0k1R3gxS0EtR3JlcWIxNjBJeDF3THo2NVE?oc=5",
-        "summary": "Ruben Gallego rolls out an economic agenda as he weighs a 2028 White House bid NBC News Sen.",
-        "published": "Wed, 07 Oct 2026 11:00:00 GMT",
-        "published_kst": "2026-10-07T20:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2028"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "李 \"적자기업에 先보조금 검토하라\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52YWlqRkk2MmpDd2ktNDdLY015TGh1amlraWVUeEp2d2NudF96WDBxbzZQS2RTV2Iwb214ODgwd1JibEhrQUJqY29TaTVvRk5hVVZGU0dmcTlLUQ?oc=5",
-        "summary": "李 \"적자기업에 先보조금 검토하라\" 한국경제 李 \"적자기업에 先보조금 검토하라\" - 한국경제",
-        "published": "Wed, 07 Oct 2026 11:24:00 GMT",
-        "published_kst": "2026-10-07T20:24:00+09:00",
+        "title": "\"엔비디아만 믿고 있었는데\"…월가서 심상찮은 전망 나왔다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSHVweWhFX2NUZ3k5VVkxSzdhQjNuQnd2UGRoSUJLT2I4dmUxX0hPczEzWldDRTBHM0JRYXN3Sld6SlltYTRWOHdTQl9ISmV4bERjQnA4UExsZw?oc=5",
+        "summary": "\"엔비디아만 믿고 있었는데\"…월가서 심상찮은 전망 나왔다 한국경제 \"엔비디아만 믿고 있었는데\"…월가서 심상찮은 전망 나왔다 - 한국경제",
+        "published": "Wed, 07 Oct 2026 16:11:00 GMT",
+        "published_kst": "2026-10-08T01:11:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "대학 빅5 '서연고성포'…포스텍, KAIST 제쳤다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5odzNnSW9wOTA3dk01ZzhvV0J3cVg3UUk2WXBueWJHR2hKMS03NTRYNG5mX0c0bWVBWkh0UkU5eWliWlJkNzBCSGgwN3B6X2RwdEF5QURBS181QQ?oc=5",
-        "summary": "대학 빅5 '서연고성포'…포스텍, KAIST 제쳤다 한국경제 대학 빅5 '서연고성포'…포스텍, KAIST 제쳤다 - 한국경제",
-        "published": "Wed, 07 Oct 2026 11:20:00 GMT",
-        "published_kst": "2026-10-07T20:20:00+09:00",
+        "title": "대구경북경제자유구역청장에 정해용 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13ZTNOME5YNE8yWFM4MHo0SFdBaTdZUFhzZXQ3WHRJc3RSUW1ueVB2enFkQjdJVFhkTUdiLW9DVFg3alo3YjBBZ2ZZbWxXSVZtVTZEZ3l5Rk1Tdw?oc=5",
+        "summary": "대구경북경제자유구역청장에 정해용 한국경제 대구경북경제자유구역청장에 정해용 - 한국경제",
+        "published": "Wed, 07 Oct 2026 15:52:00 GMT",
+        "published_kst": "2026-10-08T00:52:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "오타와서 제3회 ‘국회 한국의 날’… 한·캐 우호와 혈맹 재확인 - 재외동포신문",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYU251VEs2QUhrVjdPelJ2Nk1Ccl9PYVVoWUhIWGI1NjZ1WThkdkpmaUtTcWxWWEVGdjZ3NVFUSzdmWUs2NEQ0NmRWakJ0NGIzdTRSekJRR21tWjVWSm12XzZLOW9vZzIwdXF1MQ?oc=5",
-        "summary": "오타와서 제3회 ‘국회 한국의 날’… 한·캐 우호와 혈맹 재확인 재외동포신문 오타와서 제3회 ‘국회 한국의 날’… 한·캐 우호와 혈맹 재확인 - 재외동포신문",
-        "published": "Wed, 07 Oct 2026 11:09:24 GMT",
-        "published_kst": "2026-10-07T20:09:24+09:00",
+        "title": "지방의회 마이웨이…의정비 '묻지마 인상' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HclhJNG51YWRHVHZSbEVReXBmVHMtYkozSW1OYno5bG9GUFZsMndiQ2Rvdml0cDlXV3ptckN4Q3hYVEV6ZVowSks0bHE4TW1OTXpNTTV4TVZ1Zw?oc=5",
+        "summary": "지방의회 마이웨이…의정비 '묻지마 인상' 한국경제 지방의회 마이웨이…의정비 '묻지마 인상' - 한국경제",
+        "published": "Wed, 07 Oct 2026 15:51:00 GMT",
+        "published_kst": "2026-10-08T00:51:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,33 +110,33 @@
     ],
     "world": [
       {
-        "title": "India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend - ChemAnalyst",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjR2QWJKQVZsTHJRNVI2N0x3bTY2WDRUMlZtN0NrVDhCYkdRUmFla1J0N01HYnVuVk5oWVF6SlFnQTc4Zk1MQzdxeGFVaVF2d1o0M2FTWDgzbmx0Y0REVzV4bEVpbGI5SE9EY1lPV2o4emRIVEtNSHM2aVhvcDJkVmRVc2JvaTBjNkd1aTZzdWNSRmxkdG42NTR3X1JiLVRSVFJFNUpUd3l4WlBZelY0aEMyR3VQUDliM011aEN1UQ?oc=5",
-        "summary": "India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend ChemAnalyst India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend - ChemAnalyst",
-        "published": "Wed, 07 Oct 2026 11:11:27 GMT",
-        "published_kst": "2026-10-07T20:11:27+09:00",
+        "title": "DHL: Exploring Top Trends in Global Supply Chains - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnM5T19zdWRtMnVGT3E4bFQ1UkNhT3JBalVxNndlRDBwVHBaLXZrVFBaNjBURUkwZVdBTkJDcHJPZnBaWXlETGFPd3ZxRVBiRGNIcEdtaEhjNVdPeXg1aFlwbUdRSHgta0dBbVdWVHUzWnFJWXl0OFlpRzFXZ3cyUnd4cXJGMjM4TWdJQg?oc=5",
+        "summary": "DHL: Exploring Top Trends in Global Supply Chains Supply Chain Digital DHL: Exploring Top Trends in Global Supply Chains - Supply Chain Digital",
+        "published": "Wed, 07 Oct 2026 15:48:06 GMT",
+        "published_kst": "2026-10-08T00:48:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How Climate Resilience and Measurable Impact Are Reshaping the Global Cotton Value Chain - WWD",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHZrOUp3ZGxUM3k0d1ZXZzA0U2VVUGg3UWFnN3pydTlCcnpzRXo4TngxeG82TVpVak9XN05SVEUySlZBbDV5NjBIdGlhLVI4OGpCNUlSZ3FBeFZnX3ZqVjVPazJZWmJaNkh5OWFPb3hyMmZNYjVpMGxWakdtenpDc3I0a1dEMVBxc29iclpIc3c0U3lyS0hYaGRadU5ib2dhdmx2V3VB?oc=5",
-        "summary": "How Climate Resilience and Measurable Impact Are Reshaping the Global Cotton Value Chain WWD How Climate Resilience and Measurable Impact Are Reshaping the Global Cotton Value Chain - WWD",
-        "published": "Wed, 07 Oct 2026 11:06:36 GMT",
-        "published_kst": "2026-10-07T20:06:36+09:00",
+        "title": "The battle-tested mindset: Creating routes where none exist - Supply Chain Management Review",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHRHSDR1aVJuRHNTc0dtNjgydjNYTHpsdVBKRF94U1NlM3NDVE5YRjlLN2JTS1FIQTVtUUlLLVZISzJ0NkZfQjJURHZDVzdQLTFSdTM0UFNCZm5iN2ZMaGVmcU9QLTlVYVBEa3oyeXVwNC04ZGUyR19pVFoyZE8yQk0tZFNSZnM?oc=5",
+        "summary": "The battle-tested mindset: Creating routes where none exist Supply Chain Management Review The battle-tested mindset: Creating routes where none exist - Supply Chain Management Review",
+        "published": "Wed, 07 Oct 2026 14:18:00 GMT",
+        "published_kst": "2026-10-07T23:18:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Monica Jones, Profiled By Influential Women, Redefines Supply Chain Leadership Through Collaboration And Empowerment - EIN News",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSGtrTWxVMnhBRmRpUnR0ZlRtTDllREE2eC00M2dfU0tPWF9nb1RFMmJNeExxNWtuSWtMbzF0SnRPbEx1TVl2Y2YxbHpGTzJ4N0FpcDA1dTZnNEVYTVF3YmFCd1djNmxwT1dHNzVyMU5xYVRDdjlaQThEaUNpQmtLT3JjQWo2c3d4VTE3U1hhQmtyOVB4cDdQMS1iVGY5SXpRSlBrM2d3N0N0eGl2RG1lMldtbXl2Vk52aFJabmFBZHpBUE9jWnNRZzV2aVJFWGJfV1k5eW5xUGZhdmxkc0FBcHV3NlRuRDRSQkhhdA?oc=5",
-        "summary": "Monica Jones, Profiled By Influential Women, Redefines Supply Chain Leadership Through Collaboration And Empowerment EIN News Monica Jones, Profiled By Influential Women, Redefines Supply Chain Leadership Through Collaboration And Empowerment - EIN News",
-        "published": "Wed, 07 Oct 2026 10:51:00 GMT",
-        "published_kst": "2026-10-07T19:51:00+09:00",
+        "title": "New API Innovation Center index spotlights supply chain stress points - Fierce Pharma",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbVBJRkgyNXdIcmJSTkZhRG9KY2FGcWExS25xRnlkeXg1ZTZWbzhFZ2wwSmpKcEdhR1ZQYjdNbTU5MWh5TUMtSjBDOGhKV1JmX0JMZDdKQWpQQm9ZNXN1TmlteXZYZ0E2eEV1bXEwUHQ3c0ZUVDBfa0xHQnVxN0U0ZnpCNzQzSmJQb01nZ2x0WXdqQUtVSnJHZ05rM2Z5OGpNR0xoVHFadEF3NElLd1U1Qm42TGxzTk14QTV6bmhrdVdNVkk?oc=5",
+        "summary": "New API Innovation Center index spotlights supply chain stress points Fierce Pharma New API Innovation Center index spotlights supply chain stress points - Fierce Pharma",
+        "published": "Wed, 07 Oct 2026 14:15:39 GMT",
+        "published_kst": "2026-10-07T23:15:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday. Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate / 李 \"적자기업에 先보조금 검토하라\" 한국경제 李 \"적자기업에 先보조금 검토하라\" - 한국경제 / India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend ChemAnalyst India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend - ChemAnalyst",
+  "wrap_summary": "Meta’s Muse is free for now as the company searches for a business surrounding its personal AI agent. Meta's Muse assistant tops app charts. / \"엔비디아만 믿고 있었는데\"…월가서 심상찮은 전망 나왔다 한국경제 \"엔비디아만 믿고 있었는데\"…월가서 심상찮은 전망 나왔다 - 한국경제 / DHL: Exploring Top Trends in Global Supply Chains Supply Chain Digital DHL: Exploring Top Trends in Global Supply Chains - Supply Chain Digital",
   "invest_summary": ""
 }
