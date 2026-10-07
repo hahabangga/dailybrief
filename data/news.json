@@ -1,109 +1,111 @@
 {
   "date": "2026-10-07",
-  "generated_at_utc": "2026-10-07T07:49:28Z",
-  "cutoff_kst": "2026-10-07T16:49:00+09:00",
+  "generated_at_utc": "2026-10-07T12:06:48Z",
+  "cutoff_kst": "2026-10-07T21:06:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
-        "url": "https://www.cnbc.com/2026/10/07/jaguar-electric-vehicle-autos-type-01.html",
-        "summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric. Jaguar unveils $130,500 electric vehicle two years after controversial rebrand",
-        "published": "Wed, 07 Oct 2026 07:10:01 GMT",
-        "published_kst": "2026-10-07T16:10:01+09:00",
+        "title": "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+        "url": "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
+        "summary": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday. Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+        "published": "Wed, 07 Oct 2026 12:02:50 GMT",
+        "published_kst": "2026-10-07T21:02:50+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
+        "url": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
+        "summary": "Mortgage rates rose to the highest level in nearly three years, causing demand for both refinancing and homebuying to decline even further. Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
+        "published": "Wed, 07 Oct 2026 12:00:21 GMT",
+        "published_kst": "2026-10-07T21:00:21+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+        "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+        "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well. India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+        "published": "Wed, 07 Oct 2026 11:55:36 GMT",
+        "published_kst": "2026-10-07T20:55:36+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$130"
+          "2023"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmN5T2dZMHU3bTVsWE9RRXFtLUZvbG4tOGdLWm9Cc3Rxb0NHLWliSGhjTUtvRl9pbWtwRndRT0NLNzh4Wlg1ZVY1Z2xsU3ZUR1VVVGhmUDNMZUltMzJza1VvUUpTaEhvdXZGQzg0RE5vbWZDZm9WMHVMNlF4REg4OVlrQUlOaUVzU3h3aDl6b0pzcUJZTjZkdm1PdzIwQi16d1RsZGhCMzJjSTB1NDJLR0w0U3ZrRDhjVHZsNA?oc=5",
-        "summary": "Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes FXStreet Forex Today: US Dollar stabilizes as bond yields recover ahead of FOMC Minutes - FXStreet",
-        "published": "Wed, 07 Oct 2026 06:55:04 GMT",
-        "published_kst": "2026-10-07T15:55:04+09:00",
+        "title": "US Dollar Rises Early Wednesday Ahead of Oil Stocks, New York Fed Inflation Expectations, FOMC Minutes - www.marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRmowT1dPVzUzdTA1VTExN3dGS2RYSDlEZ0JGdWpqbjNMYWZvTnVMMkd5d0FUeldDdGZyVmhvQVJwLTFsLVNpTngwNXFGcE9kbF9vMHpXVEVSdGFzMXphS1lhaUNuUkU0N1Q2RXhyLVVLS0VIbHFwMVRPSlVZeXd2TnFGVVk2T1ZTa2YzQW91cWhSSDRRN2h0Zi1mQ0xJZU9NRlJ2WVAzVy00d21TU3EzMi12eTBpR29tOUpjSzgyNVl0V1NKWXJGZk9YZk1aZmR6WjZTWS1Cb25fQTZyUTk1NmJ6V3k4Zw?oc=5",
+        "summary": "US Dollar Rises Early Wednesday Ahead of Oil Stocks, New York Fed Inflation Expectations, FOMC Minutes www.marketscreener.com US Dollar Rises Early Wednesday Ahead of Oil Stocks, New York Fed Inflation Expectations, FOMC Minutes - www.marketscreener.com",
+        "published": "Wed, 07 Oct 2026 11:28:25 GMT",
+        "published_kst": "2026-10-07T20:28:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeS0wTXBRYktWT3F4ZUxLWHpaUEFBcjBhV0NfVFpvaVNJWEtkUENEdHdOMEhlT21XdjNtcVhGT0RIcUVWNUdtQWZRNnJIemdpMXh0Q3FiQ29pOW9mUzFFOUhBMjdNQ3QtNFB1eUM4U2Mwa1Q5TWxOZXhnY1pQTXlCeUR1OUxBYl8wdlRKdTBwSUtLTU02Z2pJbG5XZVlsZFQtcDZ3eVd2X0VCRmdJZ1A4LWlMTUVIb1A5S1QzZDJEZWN6LWxP?oc=5",
-        "summary": "US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes FXStreet US Dollar Index Price Forecast: 101.80 remains key support zone ahead of FOMC minutes - FXStreet",
-        "published": "Wed, 07 Oct 2026 06:41:19 GMT",
-        "published_kst": "2026-10-07T15:41:19+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How the Pulling Power of Diesel Risks Higher Inflation Into 2027 - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON0xYR1NCdVp1SUFUYmtYWWVteWtVSmxxTTczQWl1bUNhaFRWTU4tNjNPZTBOcEhGUkVxbVZad0VwUHlUQnp2V0NZWHpWcWhuS0YtcGtTcU1tQjNKM0pCS3l4TFloNmcycmlNN3E4MzZLcXpjVW8tQnRMbjBEa3VwME1YdGZCS3ZOYnlTQjc5TlBlZzh2dG42MjZBYWdFTGpXTDFPem5wUVU?oc=5",
-        "summary": "How the Pulling Power of Diesel Risks Higher Inflation Into 2027 Bloomberg.com How the Pulling Power of Diesel Risks Higher Inflation Into 2027 - Bloomberg.com",
-        "published": "Wed, 07 Oct 2026 06:31:25 GMT",
-        "published_kst": "2026-10-07T15:31:25+09:00",
+        "title": "Full Transcript: US Foods Hldg Q2 2026 Earnings Call - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFN2b2tlTG45MTRST2ZsMUQwNzRHNDdnZE44ZlEtVnJEMk1xeGNxcnVKLVZLS1hlbVpEQ1hRU0g3T0twLUlpbXpWcUk2eFgxTnZ4eWJCWEhoTk8zMDBmS0dNMTFxb0FNMWN0d1hGZ2Z4VlJleFhZS3JjWFBIT3EzZmRfZG1wbUVGVzF6R3VfaWlXQ2R5NDNKNkVHWl8?oc=5",
+        "summary": "Full Transcript: US Foods Hldg Q2 2026 Earnings Call Benzinga Full Transcript: US Foods Hldg Q2 2026 Earnings Call - Benzinga",
+        "published": "Wed, 07 Oct 2026 11:13:44 GMT",
+        "published_kst": "2026-10-07T20:13:44+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2027"
+          "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-        "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-        "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose. Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
-        "published": "Wed, 07 Oct 2026 06:16:39 GMT",
-        "published_kst": "2026-10-07T15:16:39+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-        "url": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-        "summary": "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders. Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-        "published": "Wed, 07 Oct 2026 05:29:30 GMT",
-        "published_kst": "2026-10-07T14:29:30+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
+        "title": "Sen. Ruben Gallego rolls out an economic agenda as he weighs a 2028 White House bid - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ0hfdXV3VTF3cnBVYXJ0V2pBRVRYN3VybEI3R01Rd2RXa0VpeFVLVGNvMHVCLXZSUEtxZjdVd01CUFpCTGMtTjFvd016eXU1UExjeTJxOGhYV2x0b0djbTNlelNIVHJFaGF0ZWwzX0dmdWZ2SHdTY1M3VG50NGxjQVVRQzVRWWdUNTNKMEJRQmJXOW8wUTB2dmk3cGlWbHFWRXZ5c2JnU19RX2lVZ0k1R3gxS0EtR3JlcWIxNjBJeDF3THo2NVE?oc=5",
+        "summary": "Ruben Gallego rolls out an economic agenda as he weighs a 2028 White House bid NBC News Sen.",
+        "published": "Wed, 07 Oct 2026 11:00:00 GMT",
+        "published_kst": "2026-10-07T20:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2028"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "손배찬 “접경도시 넘어 자족도시로” - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UdFNENnhGOGxEdy00Sm9QUWRVVG9CRE1VeXJ4VFRUQzNZODBValVRTGN6Qm9lZ1FKNmhJODNnOWhPb0dtbXY1NFppLTItVzdMM2JmQWZqSWRiUQ?oc=5",
-        "summary": "손배찬 “접경도시 넘어 자족도시로” 한국경제 손배찬 “접경도시 넘어 자족도시로” - 한국경제",
-        "published": "Wed, 07 Oct 2026 07:42:26 GMT",
-        "published_kst": "2026-10-07T16:42:26+09:00",
+        "title": "李 \"적자기업에 先보조금 검토하라\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52YWlqRkk2MmpDd2ktNDdLY015TGh1amlraWVUeEp2d2NudF96WDBxbzZQS2RTV2Iwb214ODgwd1JibEhrQUJqY29TaTVvRk5hVVZGU0dmcTlLUQ?oc=5",
+        "summary": "李 \"적자기업에 先보조금 검토하라\" 한국경제 李 \"적자기업에 先보조금 검토하라\" - 한국경제",
+        "published": "Wed, 07 Oct 2026 11:24:00 GMT",
+        "published_kst": "2026-10-07T20:24:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국경제평론가협회, 8일 '한국경제와 부동산 정책 어디로 가나' 세미나 - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2MDl3MElZQlhxcC0tNnN2c2ZUZ3dfZUNqYUd4ci0wVGt3aTRhbTFJQnZzVlh4dGtBQWF1dHBocWxQZjFJUnVVNUZCZk9PNmx4ZXlScy1uS2s1OFk0?oc=5",
-        "summary": "한국경제평론가협회, 8일 '한국경제와 부동산 정책 어디로 가나' 세미나 뉴스핌 한국경제평론가협회, 8일 '한국경제와 부동산 정책 어디로 가나' 세미나 - 뉴스핌",
-        "published": "Wed, 07 Oct 2026 07:31:00 GMT",
-        "published_kst": "2026-10-07T16:31:00+09:00",
+        "title": "대학 빅5 '서연고성포'…포스텍, KAIST 제쳤다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5odzNnSW9wOTA3dk01ZzhvV0J3cVg3UUk2WXBueWJHR2hKMS03NTRYNG5mX0c0bWVBWkh0UkU5eWliWlJkNzBCSGgwN3B6X2RwdEF5QURBS181QQ?oc=5",
+        "summary": "대학 빅5 '서연고성포'…포스텍, KAIST 제쳤다 한국경제 대학 빅5 '서연고성포'…포스텍, KAIST 제쳤다 - 한국경제",
+        "published": "Wed, 07 Oct 2026 11:20:00 GMT",
+        "published_kst": "2026-10-07T20:20:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "국회 과방위, 나로우주센터서 누리호 5차 발사 성공 참관 - 한국철도일보",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LSHZ5TFotdi01TWxFSWhXZWxxRVZPUjZ4OUJ0TEN2clhRMEJRN3lwZ08tWk9PNFZGTXVlQnQ3bklsUzNwQjU0bTlodWwyWUM5WHhNek00eEdRNHdORlJ4a1diUGtfcnh2a0U1UGJ4YzU?oc=5",
-        "summary": "국회 과방위, 나로우주센터서 누리호 5차 발사 성공 참관 한국철도일보 국회 과방위, 나로우주센터서 누리호 5차 발사 성공 참관 - 한국철도일보",
-        "published": "Wed, 07 Oct 2026 07:30:55 GMT",
-        "published_kst": "2026-10-07T16:30:55+09:00",
+        "title": "오타와서 제3회 ‘국회 한국의 날’… 한·캐 우호와 혈맹 재확인 - 재외동포신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYU251VEs2QUhrVjdPelJ2Nk1Ccl9PYVVoWUhIWGI1NjZ1WThkdkpmaUtTcWxWWEVGdjZ3NVFUSzdmWUs2NEQ0NmRWakJ0NGIzdTRSekJRR21tWjVWSm12XzZLOW9vZzIwdXF1MQ?oc=5",
+        "summary": "오타와서 제3회 ‘국회 한국의 날’… 한·캐 우호와 혈맹 재확인 재외동포신문 오타와서 제3회 ‘국회 한국의 날’… 한·캐 우호와 혈맹 재확인 - 재외동포신문",
+        "published": "Wed, 07 Oct 2026 11:09:24 GMT",
+        "published_kst": "2026-10-07T20:09:24+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,44 +114,40 @@
     ],
     "world": [
       {
-        "title": "TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain - Vocal",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2UwV0gyaElINkVpRk1RaWNqdlZOU2lCV0ZjaXFQUUx6dktOcjJfbE9jUkU3eEhnS2RMZEFlYXh3ekpVaVhrNlduRWhiMXFPQWZORnl4QkY5S2w3UE1CY1ExNXNwMldMQ0NKT1N1alRnUExueHNDamxZWVIwS29QUktzai1peHhvdGVpSmRzMDJRYndpYVQ3dElLTGlVWlpsUzFLUw?oc=5",
-        "summary": "TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain Vocal TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain - Vocal",
-        "published": "Wed, 07 Oct 2026 07:14:01 GMT",
-        "published_kst": "2026-10-07T16:14:01+09:00",
+        "title": "India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend - ChemAnalyst",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORjR2QWJKQVZsTHJRNVI2N0x3bTY2WDRUMlZtN0NrVDhCYkdRUmFla1J0N01HYnVuVk5oWVF6SlFnQTc4Zk1MQzdxeGFVaVF2d1o0M2FTWDgzbmx0Y0REVzV4bEVpbGI5SE9EY1lPV2o4emRIVEtNSHM2aVhvcDJkVmRVc2JvaTBjNkd1aTZzdWNSRmxkdG42NTR3X1JiLVRSVFJFNUpUd3l4WlBZelY0aEMyR3VQUDliM011aEN1UQ?oc=5",
+        "summary": "India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend ChemAnalyst India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend - ChemAnalyst",
+        "published": "Wed, 07 Oct 2026 11:11:27 GMT",
+        "published_kst": "2026-10-07T20:11:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Q&A: Software's Next Role In Pharma Supply Chains - Pharmaceutical Commerce",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObnBqdjFGV1FJTXZiZ3hldWppV19rRXBLMTRtN0c5eGdwZGZVcWoyeno3ZkQyc2cyazVGRUpvNnVENEdJYXJjczhKMm5seUNBUUxxSWEwUzkyXzB0WURzb2dRbDlpY1Z2RjNqZDZta1FuYTNaUDgzU2FMdU1pODlaSmowLVdFVUhuNHg1UXByUzU5MXR6c29v?oc=5",
-        "summary": "Q&A: Software's Next Role In Pharma Supply Chains Pharmaceutical Commerce Q&A: Software's Next Role In Pharma Supply Chains - Pharmaceutical Commerce",
-        "published": "Wed, 07 Oct 2026 01:18:13 GMT",
-        "published_kst": "2026-10-07T10:18:13+09:00",
+        "title": "How Climate Resilience and Measurable Impact Are Reshaping the Global Cotton Value Chain - WWD",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHZrOUp3ZGxUM3k0d1ZXZzA0U2VVUGg3UWFnN3pydTlCcnpzRXo4TngxeG82TVpVak9XN05SVEUySlZBbDV5NjBIdGlhLVI4OGpCNUlSZ3FBeFZnX3ZqVjVPazJZWmJaNkh5OWFPb3hyMmZNYjVpMGxWakdtenpDc3I0a1dEMVBxc29iclpIc3c0U3lyS0hYaGRadU5ib2dhdmx2V3VB?oc=5",
+        "summary": "How Climate Resilience and Measurable Impact Are Reshaping the Global Cotton Value Chain WWD How Climate Resilience and Measurable Impact Are Reshaping the Global Cotton Value Chain - WWD",
+        "published": "Wed, 07 Oct 2026 11:06:36 GMT",
+        "published_kst": "2026-10-07T20:06:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Global Data Center Cooling Market Analysis and Forecast, 2026-2036 | AI and High-Density Computing Propel Liquid Cooling Market to $141.19 Billion by 2036 - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HVkVRM3RjS0pmaEFBa05seEhTUXpEWkF1bGY5cGFYbDBrX0laNzRGYkQ2RHlNemlGd1FYbHJVOVhOSjlBczNGUGNydm50Wms3bWlaX1NicU9XTEVlNDBTRUJB?oc=5",
-        "summary": "Global Data Center Cooling Market Analysis and Forecast, 2026-2036 | AI and High-Density Computing Propel Liquid Cooling Market to $141.19 Billion by 2036 Supply Chain Digital Global Data Center Cooling Market Analysis and Forecast, 2026-2036 | AI and High-Density Computing Propel Liquid Cooling Market to $141.19 Billion by 2036 - Supply Chain Digital",
-        "published": "Wed, 07 Oct 2026 00:18:01 GMT",
-        "published_kst": "2026-10-07T09:18:01+09:00",
+        "title": "Monica Jones, Profiled By Influential Women, Redefines Supply Chain Leadership Through Collaboration And Empowerment - EIN News",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSGtrTWxVMnhBRmRpUnR0ZlRtTDllREE2eC00M2dfU0tPWF9nb1RFMmJNeExxNWtuSWtMbzF0SnRPbEx1TVl2Y2YxbHpGTzJ4N0FpcDA1dTZnNEVYTVF3YmFCd1djNmxwT1dHNzVyMU5xYVRDdjlaQThEaUNpQmtLT3JjQWo2c3d4VTE3U1hhQmtyOVB4cDdQMS1iVGY5SXpRSlBrM2d3N0N0eGl2RG1lMldtbXl2Vk52aFJabmFBZHpBUE9jWnNRZzV2aVJFWGJfV1k5eW5xUGZhdmxkc0FBcHV3NlRuRDRSQkhhdA?oc=5",
+        "summary": "Monica Jones, Profiled By Influential Women, Redefines Supply Chain Leadership Through Collaboration And Empowerment EIN News Monica Jones, Profiled By Influential Women, Redefines Supply Chain Leadership Through Collaboration And Empowerment - EIN News",
+        "published": "Wed, 07 Oct 2026 10:51:00 GMT",
+        "published_kst": "2026-10-07T19:51:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026",
-          "2036",
-          "$141.19"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "The launch comes as luxury rivals Ferrari and Bentley also push into EVs, seeking to test wealthy buyer's appetite for going electric. Jaguar unveils $130,500 electric vehicle two years after controversial rebrand / 손배찬 “접경도시 넘어 자족도시로” 한국경제 손배찬 “접경도시 넘어 자족도시로” - 한국경제 / TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain Vocal TELF AG on Halleck Creek and the Push for a Broader Rare Earth Supply Chain - Vocal",
+  "wrap_summary": "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday. Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate / 李 \"적자기업에 先보조금 검토하라\" 한국경제 李 \"적자기업에 先보조금 검토하라\" - 한국경제 / India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend ChemAnalyst India LAB Supply Chain Gets Regulatory Relief as BIS Compliance Is Temporarily Suspend - ChemAnalyst",
   "invest_summary": ""
 }
