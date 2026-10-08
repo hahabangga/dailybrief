@@ -1,115 +1,108 @@
 {
   "date": "2026-10-08",
-  "generated_at_utc": "2026-10-08T01:21:51Z",
-  "cutoff_kst": "2026-10-08T10:21:00+09:00",
+  "generated_at_utc": "2026-10-08T08:06:16Z",
+  "cutoff_kst": "2026-10-08T17:06:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "3 US Bank Stocks Worth Watching As Sticky Inflation Keeps Rates Higher - Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0N0T3JELV8wTmQtTzFMWFV6dEZpaTRYTVNWSVNOdll0NnNGeTBQRUlOeHJCbV9hZnZ2b2c5ck95OVQtSS1yQmV2UHpuZ055aFEzTVg2SlllQ0o1UTh5TUVLZURNMzFCMGl2d21xdU9tallYN2s5azBWeXA4ZV9Ib2cwZFcxY2F0M2hLQW9GbnlQWE5DVU4yVVU5c2RHbnVMem1XajRmejAxWG1GWEdzT1ZjYUEzZjQtSTZtM2h1VFVsOUR1ZFlvVTd3UHJQQdIB0wFBVV95cUxObXhlQ01RVm50U2lZZFRDQjZTRFFfOG95c0g0ZEVjb2RZZ05VNzZCb3NRV29oR3dpTEZEdU95QVlrSkhrdEVoV3lUd1A4M3JDOXJJblJUdlRlRGtQS1d3TGUydTZrcXo1Q05SM1duV1E2SjlwMlluVDlaYzZWeTZQVDFXU25EZXZSYXFfampiTkRXWTVYLUVqcy1vcjRoUG54QlFiM1FlajVLOEhjTVBKN09oRnlNZ0tpa0hZUnBjNDdZbG1xbGlrU2lldmJSYnVDYS1Z?oc=5",
-        "summary": "3 US Bank Stocks Worth Watching As Sticky Inflation Keeps Rates Higher Simply Wall Street 3 US Bank Stocks Worth Watching As Sticky Inflation Keeps Rates Higher - Simply Wall Street",
-        "published": "Thu, 08 Oct 2026 01:06:07 GMT",
-        "published_kst": "2026-10-08T10:06:07+09:00",
+        "title": "UBP cuts Europe exposure, says earnings growth still favors U.S. tech - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMFhZVTJXdlNZZ1ZmYjZNQTBRMmUwR0kyX0ozclV4MkFxT3VJLVRCcnVUVmt1dzliMDFjM2RwRVFpRnVlWGl2RUhKdkRLb3dGNzVzYUl5bDlIOEstSkZXNW9TTm93WTRqRmFRcjh4cUZFWHJhSllxY3ZwZ1pkTDQzOHhLX3NRNlZHUFdrMUFiS0hkTFJkSDd1ODNxWDBiWFZfMk5XcFVxWkU0aUZ2bUhV?oc=5",
+        "summary": "tech CNBC UBP cuts Europe exposure, says earnings growth still favors U.S.",
+        "published": "Thu, 08 Oct 2026 07:56:33 GMT",
+        "published_kst": "2026-10-08T16:56:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-        "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-        "summary": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time. Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-        "published": "Thu, 08 Oct 2026 00:51:23 GMT",
-        "published_kst": "2026-10-08T09:51:23+09:00",
+        "title": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
+        "url": "https://www.cnbc.com/2026/10/08/india-billionaire-trump-ambani-venezuela-oil.html",
+        "summary": "Outside the U.S., India is the biggest destination for Venezuelan oil, with Reliance Industries purchasing the bulk of it. The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
+        "published": "Thu, 08 Oct 2026 07:41:51 GMT",
+        "published_kst": "2026-10-08T16:41:51+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+        "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+        "summary": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition. AI startup Manus raises $500 million in first funding round since Meta breakup",
+        "published": "Thu, 08 Oct 2026 06:59:59 GMT",
+        "published_kst": "2026-10-08T15:59:59+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$80"
+          "$500",
+          "$2"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom - The White House (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcVl3ZG5TaW51ci1NYlYwTzlWaHpDR2lyeUtZeGJnanZPZkd4UkZBVkl3UjcwaGNTMTRtZG9tSUxfTTlRODZLYk93cGtvNjdTRU1jM3BRUUtlOHUyTDloZWk0RFlSYm02RGVJLW5nNHRVZGpPZnlIS1ZZNy04WXh4dHV3YlhhMGJVSWhZd1pXQ1RXYWhhOFVubjNPRU03N1h3aktFcXJ3VzdtdElYaFdUMVVlTFVFbnBqVlZsWXljZUUwdjZIc1NYMWRzYmItSXZyOGJncmE1QzhsUnBVTXpDSGtB?oc=5",
-        "summary": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom The White House (.gov) Trump Accounts Put 70 Million Kids on the Path to Financial Freedom - The White House (.gov)",
-        "published": "Thu, 08 Oct 2026 00:28:12 GMT",
-        "published_kst": "2026-10-08T09:28:12+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House drug czar visits Wichita’s Northwest High School - KWCH",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkRCaFpUbUdnMjhxUmExcU51TUkwZnZkLWVQRlpHZkk5Rm5TVlhvYXozU2wyUnpjeUI1ZWh5YnlSU0lQNmNEa2g5NG5BZ0JqbmdubHl4THhlZjhYcDkzRkVQU0NTRXRNYVl3dC0yT3lTNEg3Q1ByX044NWhUbGM5UEc5WHpQS1EwTmNCUDFWXzIzOF9DYkZn0gGrAUFVX3lxTE5XcjNzcmJmRGw0cDZtbjJrMUNJUlY4S2tjUGxpVTluMmtCVDlWNHBmdEhXLWFtakhENVlUd1VwSmF2bEdUUmF3TFduWnF1VS04alRnVENpU0NlWk9iNHQ0X2oxdG91V0JmUXVPTjMxdzVOU25JV01yb3djeHdYNS02QjBMdURjNjB4XzZGUHVGZC1UZ1otWC1DNGZWUjNRNGluX0hrTjJhNGdMRQ?oc=5",
-        "summary": "White House drug czar visits Wichita’s Northwest High School KWCH White House drug czar visits Wichita’s Northwest High School - KWCH",
-        "published": "Thu, 08 Oct 2026 00:22:00 GMT",
-        "published_kst": "2026-10-08T09:22:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño",
-        "url": "https://www.cnbc.com/2026/10/08/el-nino-food-economy-crisis-india.html",
-        "summary": "The super El Niño weather phenomenon is emerging as the latest headwind for the Indian economy. Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño",
-        "published": "Thu, 08 Oct 2026 00:14:40 GMT",
-        "published_kst": "2026-10-08T09:14:40+09:00",
+        "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+        "url": "https://www.cnbc.com/2026/10/08/tsmc-september-sales-hit-another-record-as-ai-boom-rolls-on.html",
+        "summary": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars TSMC’s September sales surge year-over-year as AI drives chip demand",
+        "published": "Thu, 08 Oct 2026 06:50:42 GMT",
+        "published_kst": "2026-10-08T15:50:42+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-        "url": "https://www.cnbc.com/2026/10/07/jamieson-greer-financial-disclosure-coupang.html",
-        "summary": "Trade Representative Jamieson Greer reported $1.17 million to $3.75 million in assets and disclosed a prior $10,000 payment from Coupang. Trump trade chief Greer reports higher cash holdings as law firm pay topped $650K",
-        "published": "Wed, 07 Oct 2026 23:10:54 GMT",
-        "published_kst": "2026-10-08T08:10:54+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$650",
-          "$1.17",
-          "$3.75",
-          "$10"
-        ],
+        "title": "Oil Gains on Report White House Is Mulling Iran Strikes - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM05IOE5hZF9Ba1VlSmJLcFkzY3hPZ0hlNDFHWHFXS0dHclpaMV9TOWZPVG5YQXdfOTNrdlVqUnNJbHVnM3ktY1E0Tm9jYWhROEF4UXZWZWxNbU5ER0RZZDVVSGozSkxIMXlZX2twRjludVNWcHcyZ2ZLRlppSHpFMWFxTkxKWkhNMUkybDJvT3ZIbENaQkpQMjNValpUZ05jdUNjeGxlODFFN0dMQ0E?oc=5",
+        "summary": "Oil Gains on Report White House Is Mulling Iran Strikes Bloomberg.com Oil Gains on Report White House Is Mulling Iran Strikes - Bloomberg.com",
+        "published": "Thu, 08 Oct 2026 06:30:00 GMT",
+        "published_kst": "2026-10-08T15:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Swiss Franc gains despite stable US Dollar amid ongoing inflation risks - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ1UyWVVPd3ZJUUR1WmxuSmxBOHBXaW1KWnNrY2FjcVktMG1peWJEeVVfWW5QX3BjUE0ybXVnbUJKMlNhX1RWejk0MnNJM3hvZGpybnZDMXgxTzVxMHJfVGdKQndDXzFNQ0VQX1lOMHRISkVBNmMxQkJUd1VhM0lmSHBmTmV6Mmk0dDZOdEhDX1BPaGxObDhqZjFqVjR6NDdWLTN3TXlvX0JDN2loek9aalBUSVk?oc=5",
+        "summary": "Swiss Franc gains despite stable US Dollar amid ongoing inflation risks FXStreet Swiss Franc gains despite stable US Dollar amid ongoing inflation risks - FXStreet",
+        "published": "Thu, 08 Oct 2026 05:01:10 GMT",
+        "published_kst": "2026-10-08T14:01:10+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "韓 경제자유지수 세계 53위('24년)…\"25계단이나 연속 하락\" - 이코노미톡뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJd0NJRlVkWnpTblZDTU5uUGpBS2JKVlJOeGlBcjQ4elJUYlRjeEp4QVQ2dmRPSWNyeGdQaUt6VTZ1dHlLVjM4cWJ6ZjhWWnlINEJxRV8yRENPVUFOdURNTzB4NFNTZUlVSVZ0Uw?oc=5",
-        "summary": "韓 경제자유지수 세계 53위('24년)…\"25계단이나 연속 하락\" 이코노미톡뉴스 韓 경제자유지수 세계 53위('24년)…\"25계단이나 연속 하락\" - 이코노미톡뉴스",
-        "published": "Thu, 08 Oct 2026 01:16:11 GMT",
-        "published_kst": "2026-10-08T10:16:11+09:00",
+        "title": "\"집값 억제만으론 한계…주거 안정·공급 확대에 정책 초점 맞춰야\" - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qSVJhdW13SXNCUzRZdDdyVWtxOE9LUkNTZVl4TUduT0FIX1FtOFdCZjVBZXpJdGlEdHZ5S1dadFlocS1pa0hIaVhIN1ZwQWI1WDlnNHk0NWdld0xo?oc=5",
+        "summary": "\"집값 억제만으론 한계…주거 안정·공급 확대에 정책 초점 맞춰야\" 뉴스핌 \"집값 억제만으론 한계…주거 안정·공급 확대에 정책 초점 맞춰야\" - 뉴스핌",
+        "published": "Thu, 08 Oct 2026 07:52:00 GMT",
+        "published_kst": "2026-10-08T16:52:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM - 에너지경제신문",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWkNRbkhPN2JGNVc0UlhBY1NjSGNNOEZaUUVrcmJleFBZWDIwZGdVSGE4cnpzTTk4c0V0MV9tZnhOYTNSa1JYQzlMSkJReHdJaVNacEZtMHp0ZG1QN2JVX0tDRQ?oc=5",
-        "summary": "‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM 에너지경제신문 ‘같은 3% 기준금리인데 분위기 왜 이렇게 달라?’…2022년과는 격이 다른 DCM - 에너지경제신문",
-        "published": "Thu, 08 Oct 2026 01:14:13 GMT",
-        "published_kst": "2026-10-08T10:14:13+09:00",
+        "title": "반도체 수출 호황에 경상수지 역대급 흑자…한국 경상수지 3개월 연속 400억달러 돌파 - 데일리연합",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CVmlhOVRZci1fXzZVcUNtZ2YzX2RZZHhXTHpGel9CVUNITjltWTZwa1VqSk9CM1hTZkU0Z3pSOE42WDBlZDZBc1AxMGhIQmlZRXloMWFLaWktNkE?oc=5",
+        "summary": "반도체 수출 호황에 경상수지 역대급 흑자…한국 경상수지 3개월 연속 400억달러 돌파 데일리연합 반도체 수출 호황에 경상수지 역대급 흑자…한국 경상수지 3개월 연속 400억달러 돌파 - 데일리연합",
+        "published": "Thu, 08 Oct 2026 07:47:15 GMT",
+        "published_kst": "2026-10-08T16:47:15+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "3%",
-          "2022"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"김정은 이미 다 안다\"…정동영 '피식'에 박충권 분노한 이유 [인터뷰] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94d19ROGpxMkhiMnpsd3d6bms0dUhRT3hFNDhxQXFabEVJaFJxd0ZOMWdjTXdwVlg2bXRyajFpT1d5dkRaeTdaQ3pFZFdHcUxFcGlNUWlzUFJTZw?oc=5",
-        "summary": "\"김정은 이미 다 안다\"…정동영 '피식'에 박충권 분노한 이유 [인터뷰] 한국경제 \"김정은 이미 다 안다\"…정동영 '피식'에 박충권 분노한 이유 [인터뷰] - 한국경제",
-        "published": "Thu, 08 Oct 2026 01:10:43 GMT",
-        "published_kst": "2026-10-08T10:10:43+09:00",
+        "title": "한국 경제자유지수 세계 53위로 추락… \"기업규제 악화로 세계 흐름 역행\" - 시장경제신문",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BejVtdzdodmphYmJKSXdMRHZPX2l6TXJUSGFTRTZVYjJ0U2c3RExUaHhkV0xJQW9uTmozcjJfbl95QUx4bVphX2tTQ2w4djNTd1BnbzBoVnp3SHIyRExsRW00T0czdHoxNkJOcVc0U1Q?oc=5",
+        "summary": "한국 경제자유지수 세계 53위로 추락… \"기업규제 악화로 세계 흐름 역행\" 시장경제신문 한국 경제자유지수 세계 53위로 추락… \"기업규제 악화로 세계 흐름 역행\" - 시장경제신문",
+        "published": "Thu, 08 Oct 2026 07:41:59 GMT",
+        "published_kst": "2026-10-08T16:41:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -118,47 +111,40 @@
     ],
     "world": [
       {
-        "title": "Ashfordwells CFD Trading: A Simple Guide to the Platform Mechanics - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5peV95TndtbmtlZkF4RVU4VThpVjBmLWZObVlydDhPQ1o3QlAwakVzWDJiWXZkYjJXeFEzcFJOTG1uY0taYWpJdnJWazZ3ZXVJRDJuOExHYmR2MGdHRW5KakFn?oc=5",
-        "summary": "Ashfordwells CFD Trading: A Simple Guide to the Platform Mechanics Supply Chain Digital Ashfordwells CFD Trading: A Simple Guide to the Platform Mechanics - Supply Chain Digital",
-        "published": "Thu, 08 Oct 2026 00:36:39 GMT",
-        "published_kst": "2026-10-08T09:36:39+09:00",
+        "title": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5",
+        "summary": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict Reuters Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict - Reuters",
+        "published": "Thu, 08 Oct 2026 07:36:03 GMT",
+        "published_kst": "2026-10-08T16:36:03+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Digital Transformation - Global Strategic Business Report: Capitalize on the US$3.7 Trillion Market by 2030 as Microsoft, IBM, Accenture, Oracle and SAP Disrupt Enterprise ROI - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vdmQ0VDZURENTZnhJaUlLRllubFNibEF4bVQ4VDY1SjVkcW11b2RQQ1hVbnktZEZ0dTZreUI3bGdoWkVranpGZDJBZmtleEdhNXRWV0J0Q2s3QmFXb0duM0ZR?oc=5",
-        "summary": "Digital Transformation - Global Strategic Business Report: Capitalize on the US$3.7 Trillion Market by 2030 as Microsoft, IBM, Accenture, Oracle and SAP Disrupt Enterprise ROI Supply Chain Digital Digital Transformation - Global Strategic Business Report: Capitalize on the US$3.7 Trillion Market by 2030 as Microsoft, IBM, Accenture, Oracle and SAP Disrupt Enterprise ROI - Supply Chain Digital",
-        "published": "Thu, 08 Oct 2026 00:36:38 GMT",
-        "published_kst": "2026-10-08T09:36:38+09:00",
+        "title": "As Cross-Border Shipping Gets More Complex, Trade Fraud Is Becoming a Supply Chain Problem - www.mhlnews.com",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb1NzSzNHcGN1cno4N2xzRnptak1MWWpCeHBUNkpRLWhiVlZZV01aOXNOcjkwMUp2UGIxUzhUdGstYWtRYVZqRWNpVEZ0LVVEdnlWVFpva1ZFQ2w4MDdsNkZfdF92eTZraXBuZ1lVOHBoUjRpVnVpT2VQY21JZkpfN29UUHVpWndlTEd4aUFzQ0dieW9uMjAtcE1FQ1NYTTlqY1N3VFRnT1o0R0l5VEFMbE5leFVVMnUxcjlULTd2bndSM19RZGRRWTd0anM4cnRfRXFBNFdWSzdUUGxEUm9EYVZxVE8?oc=5",
+        "summary": "As Cross-Border Shipping Gets More Complex, Trade Fraud Is Becoming a Supply Chain Problem www.mhlnews.com As Cross-Border Shipping Gets More Complex, Trade Fraud Is Becoming a Supply Chain Problem - www.mhlnews.com",
+        "published": "Thu, 08 Oct 2026 04:11:27 GMT",
+        "published_kst": "2026-10-08T13:11:27+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$3.7",
-          "2030"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Hyper-Converged Infrastructure - Global Strategic Business Report: Capitalize on 23.3% CAGR to US$92.7 Billion by 2032 as Dell, Nutanix, Cisco, HPE, and Huawei Disrupt Enterprise IT - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZRXhsdGZwVm1oNkJQVTFPVFFvbUtaZnNfUzZDbnNRVUhFYkZ6czFTa0hOcXpCcWNoUktTdzR2aVlRbHlmUzdzY3lBcnhObDRhTkF1M3FEbzFaWW5JdEJOcHpn?oc=5",
-        "summary": "Hyper-Converged Infrastructure - Global Strategic Business Report: Capitalize on 23.3% CAGR to US$92.7 Billion by 2032 as Dell, Nutanix, Cisco, HPE, and Huawei Disrupt Enterprise IT Supply Chain Digital Hyper-Converged Infrastructure - Global Strategic Business Report: Capitalize on 23.3% CAGR to US$92.7 Billion by 2032 as Dell, Nutanix, Cisco, HPE, and Huawei Disrupt Enterprise IT - Supply Chain Digital",
-        "published": "Thu, 08 Oct 2026 00:36:35 GMT",
-        "published_kst": "2026-10-08T09:36:35+09:00",
+        "title": "Taiwan defense industry deepens global supply chain ties - digitimes",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZm5FbUpTZ01sZjh3MHBRMEFDNEVOdVdPbnVTM0h6MTFDbTNiYTNmVTJtTjYzcXFsQm11UHB5NkR3VG53dHhLT2IwejVZb0RWQ0I0TTRhN1lHd0NEM2otNHR1eEZDYkdaRHh0MS1TTGRWVTFYQnZxS1NZakV2ME5PS2pUczNaQ3BHZlVRaVI3LUdIbjZHSzU2RU5EZw?oc=5",
+        "summary": "Taiwan defense industry deepens global supply chain ties digitimes Taiwan defense industry deepens global supply chain ties - digitimes",
+        "published": "Thu, 08 Oct 2026 01:20:11 GMT",
+        "published_kst": "2026-10-08T10:20:11+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "23.3%",
-          "$92.7",
-          "2032"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "3 US Bank Stocks Worth Watching As Sticky Inflation Keeps Rates Higher Simply Wall Street 3 US Bank Stocks Worth Watching As Sticky Inflation Keeps Rates Higher - Simply Wall Street / 韓 경제자유지수 세계 53위('24년)…\"25계단이나 연속 하락\" 이코노미톡뉴스 韓 경제자유지수 세계 53위('24년)…\"25계단이나 연속 하락\" - 이코노미톡뉴스 / Ashfordwells CFD Trading: A Simple Guide to the Platform Mechanics Supply Chain Digital Ashfordwells CFD Trading: A Simple Guide to the Platform Mechanics - Supply Chain Digital",
+  "wrap_summary": "tech CNBC UBP cuts Europe exposure, says earnings growth still favors U.S. / \"집값 억제만으론 한계…주거 안정·공급 확대에 정책 초점 맞춰야\" 뉴스핌 \"집값 억제만으론 한계…주거 안정·공급 확대에 정책 초점 맞춰야\" - 뉴스핌 / Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict Reuters Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict - Reuters",
   "invest_summary": ""
 }
