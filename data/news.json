@@ -1,75 +1,71 @@
 {
-  "date": "2026-10-08",
-  "generated_at_utc": "2026-10-08T12:17:14Z",
-  "cutoff_kst": "2026-10-08T21:17:00+09:00",
+  "date": "2026-10-09",
+  "generated_at_utc": "2026-10-08T17:18:15Z",
+  "cutoff_kst": "2026-10-09T02:18:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-        "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-        "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found. Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-        "published": "Thu, 08 Oct 2026 12:05:16 GMT",
-        "published_kst": "2026-10-08T21:05:16+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Inside Trump’s push to bring Christopher Columbus to the White House - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOC01MkwtTmhVMDJtVlBEX0VRdkJXZUg3aEhtdEdxcXMtTDBpRVQ1bWg3UmoxSXRlSUNITWh5a3k3N1VhVGN1R3ZBVHM4Q2VpOWE2aUFyOWxGVUpTelRMaUswek81YVNtdkwzeWpHN1J5U2tWMFdDQXhFMmdBTWJVblFoX09JWHpPeGxkcHhERDN0ZFBhTjRPdWh1RG1fellKVnk1QWE4QUhVQkJMMml3MHA1ZUJFS0VUUlE?oc=5",
-        "summary": "Inside Trump’s push to bring Christopher Columbus to the White House The Washington Post Inside Trump’s push to bring Christopher Columbus to the White House - The Washington Post",
-        "published": "Thu, 08 Oct 2026 12:02:35 GMT",
-        "published_kst": "2026-10-08T21:02:35+09:00",
+        "title": "Judge seems poised to reinforce block of Trump’s White House media ban - Politico",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMXVRVjdlQ3phM1hfX2FEalNqLXNuXzBPR1V2YnhOSk9VMUtON0hBRy1IcXQ1aDhCMGR1MW5XMmVfZy1UNjFDUXcyOFJxYS1sWmlPVWhqT2hFSE5fSWJJQ0pRUFpKZFdROUdSM1pTQUNOeTg3dDVwalBqY3puVXJTT0NtVjV2X1N6REVGZi1rbUwzNnF1UXJMU1JoalFEY28?oc=5",
+        "summary": "Judge seems poised to reinforce block of Trump’s White House media ban Politico Judge seems poised to reinforce block of Trump’s White House media ban - Politico",
+        "published": "Thu, 08 Oct 2026 17:12:00 GMT",
+        "published_kst": "2026-10-09T02:12:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Michelle Obama, Praising Past White House Remodels, Takes Veiled Aim at Trump - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR1ljNlNEVVpoa2d2VmFZZEVlYkhFZzduTFRkZGJvOC0tSm9SNXpVbnBtam5OUlJKNGgwQlNoeC03ekpBd2hzY0dxR1RkUzlOTUROejc0aVhqQTg4WWV1VUlYdkhBZlhMRTQ2MTlTLVdSVjNPd2xlRElsZU81di1ESElWVHFoLUN4a2lSZjlVRFByR0VNY0RHTWFMUnRCdXFLU3c?oc=5",
-        "summary": "Michelle Obama, Praising Past White House Remodels, Takes Veiled Aim at Trump The New York Times Michelle Obama, Praising Past White House Remodels, Takes Veiled Aim at Trump - The New York Times",
-        "published": "Thu, 08 Oct 2026 12:00:04 GMT",
-        "published_kst": "2026-10-08T21:00:04+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-        "url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-        "summary": "Pepsi's North American business continues to lag behind its international markets. PepsiCo cuts earnings forecast as North American turnaround takes longer than expected",
-        "published": "Thu, 08 Oct 2026 11:56:13 GMT",
-        "published_kst": "2026-10-08T20:56:13+09:00",
+        "title": "Trump says U.S. will not attack Iran before midterm election",
+        "url": "https://www.cnbc.com/2026/10/08/iran-war-trump-midterm-election.html",
+        "summary": "Trump said talks with Tehran were “productive” as the Iran war pushes oil and gas prices higher and support for the conflict falls. will not attack Iran before midterm election",
+        "published": "Thu, 08 Oct 2026 17:07:54 GMT",
+        "published_kst": "2026-10-09T02:07:54+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-        "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
-        "summary": "The new device shows Microsoft remains committed to making its own PCs even though it's not one of the top device makers. Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-        "published": "Thu, 08 Oct 2026 11:49:39 GMT",
-        "published_kst": "2026-10-08T20:49:39+09:00",
+        "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+        "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+        "summary": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
+        "published": "Thu, 08 Oct 2026 16:50:30 GMT",
+        "published_kst": "2026-10-09T01:50:30+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "$2"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House Directed FBI Targeting of L.A. Protesters, Whistleblower Alleges - Davis Vanguard",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KS1F6cXNLTWQwNWZ1M2NpX3lfOVp1QmZlc1hEZGkxS2JhY1l2bjB4c2oyaDlNMDByR3hjVkdjckJvYlIybER2RlJSY1NYczg1RllrMWZ4QlhTeE9JN2d0UWJ0NHlnWVlZYWZ0UE90dlZjaEE?oc=5",
-        "summary": "Protesters, Whistleblower Alleges Davis Vanguard White House Directed FBI Targeting of L.A. White House Directed FBI Targeting of L.A.",
-        "published": "Thu, 08 Oct 2026 11:45:39 GMT",
-        "published_kst": "2026-10-08T20:45:39+09:00",
+        "title": "Media attorneys ask court for help in preventing White House ban until legal case is resolved - Bozeman Daily Chronicle",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTEZNVE5LbXRteldZZUw2bTAyc1VLblRLMnk1ZnhqemEtdW5BVTRaOERfb3d2STVPbi0yaDF2MFhOX3FNQXJYRVFUVEZadmdTck9WeUZhV2Jzd2JZOEMxb0llbTc0V2d5Sjg5dnJVLUlTNW53ODVSOXRKU1VlcW1UVWpSVHFZbXlZRGI2OXNXWW5HSS1FNzZIRDhVQ0NaaW9lcTVIeXRCTWY4THlUeHg5cU5uQVJobGxNRElsNlMwcDJaZWNWOHlia3FHLWxYV0JIamRvbjE1SzB0ZjZMY3llbHRBRlhMNzB1TjNsYl9FZjl4S3Vkaktzb3BZLW5meklnSFp2MmVYblJGVDNlS3NSVEFaZjg?oc=5",
+        "summary": "Media attorneys ask court for help in preventing White House ban until legal case is resolved Bozeman Daily Chronicle Media attorneys ask court for help in preventing White House ban until legal case is resolved - Bozeman Daily Chronicle",
+        "published": "Thu, 08 Oct 2026 16:40:23 GMT",
+        "published_kst": "2026-10-09T01:40:23+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Media attorneys ask court for help in preventing White House ban until legal case is resolved - WKMG",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYV96Ul8wSlMyNlFDVjFobG9xNzJTSDNnNGNqcF9mNnBZblVMeEYxaHpEcW1fWTFvMHVadmJiSVJ2MzZKbVdNenZxRFJGV0JJSzNVS09jTjI4eDdvR3NqdUt0emIzMWlfaWhZUU9OcWRQRXlGMkRqYmZhSFZDb1Z1bjRQTHIzaVBMTkszQnY3QXFhdFpBTlkxcWMzZmkxQkRZdXNnV01SU1VQXzVQTmR1LVRScVlnZHljbG9EaVZ4MWRTTEFGRG0zemo5SnhlOHBKYk9Uak1xVnlKUlE?oc=5",
+        "summary": "Media attorneys ask court for help in preventing White House ban until legal case is resolved WKMG Media attorneys ask court for help in preventing White House ban until legal case is resolved - WKMG",
+        "published": "Thu, 08 Oct 2026 16:40:23 GMT",
+        "published_kst": "2026-10-09T01:40:23+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump Accounts top 70 million as new stock-donation rules open door to 'mega donors,' official says",
+        "url": "https://www.cnbc.com/2026/10/08/trump-accounts-70-million-enrolled.html",
+        "summary": "The Trump administration said new changes to Trump Accounts could pave the way for several multimillion-dollar donations. Trump Accounts top 70 million as new stock-donation rules open door to 'mega donors,' official says",
+        "published": "Thu, 08 Oct 2026 16:31:50 GMT",
+        "published_kst": "2026-10-09T01:31:50+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,33 +73,33 @@
     ],
     "kr": [
       {
-        "title": "[속보] 노벨문학상에 캐나다 작가 앤 카슨 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tLTduVGc2VlZvVWw3T0ZrR3dXbFRkMHMyQ0tiMjk3eXNseEVkZFRHY3lHdjBWQjhhVXpYV3pGelhiaGtRNXlHTXRkS0JZZEpHWVBxUlhPa3cxQQ?oc=5",
-        "summary": "[속보] 노벨문학상에 캐나다 작가 앤 카슨 한국경제 [속보] 노벨문학상에 캐나다 작가 앤 카슨 - 한국경제",
-        "published": "Thu, 08 Oct 2026 11:03:48 GMT",
-        "published_kst": "2026-10-08T20:03:48+09:00",
+        "title": "'아프리카TV' 지우고 배구단까지 인수…또 파격 승부수 띄운다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NdHd4U0RleG1hTjdTOEFhbVBYQUw2djk4UEZDMlVENl9FVE9vaWwwNHBsUnpLc2RaTWwxV2JyclBILUJPZktuQXRZc1lxalpLRm00akRIZ1BzQQ?oc=5",
+        "summary": "'아프리카TV' 지우고 배구단까지 인수…또 파격 승부수 띄운다 한국경제 '아프리카TV' 지우고 배구단까지 인수…또 파격 승부수 띄운다 - 한국경제",
+        "published": "Thu, 08 Oct 2026 16:15:00 GMT",
+        "published_kst": "2026-10-09T01:15:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "“어린 선수 말 한마디에 발칵…한국 정치 수준 참 한심” 홍준표의 쓴소리 - 세계일보",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoSVFGV1Joc29LVjF6LUdDeEZhcU5pYnQ3WXhzSW1YUUFxbDBETjBuMnFiMmd6bm1qaHplMVNMMnpKWFQ4TC16RkFoQzQzeFhrY0p2c3FnaWHSAVRBVV95cUxNSGlzSlRsanZ4UWdrMW1teklFOFJCQVlmakY5a0hkMzRqV3V1RGVIZ1A1RFZ0b1dYQ1Q3Q2Q1SjljN3RTMUxCRGVDQTJ1b2dwU05xZWk?oc=5",
-        "summary": "“어린 선수 말 한마디에 발칵…한국 정치 수준 참 한심” 홍준표의 쓴소리 세계일보 “어린 선수 말 한마디에 발칵…한국 정치 수준 참 한심” 홍준표의 쓴소리 - 세계일보",
-        "published": "Thu, 08 Oct 2026 10:41:31 GMT",
-        "published_kst": "2026-10-08T19:41:31+09:00",
+        "title": "바이오주 '펩트론 쇼크'…실망매물에 줄줄이 하락 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Y0FNRkFqMlBKM3c5QVBBeTYwSVBGOWFUTExLUjRHSGZ6VlUtUl9fSlRKaW9TZUlKRzk1cG9DZnZhSkpmVXFjMjFDd3c2T2FtOE9kaGJJQWVNdw?oc=5",
+        "summary": "바이오주 '펩트론 쇼크'…실망매물에 줄줄이 하락 한국경제 바이오주 '펩트론 쇼크'…실망매물에 줄줄이 하락 - 한국경제",
+        "published": "Thu, 08 Oct 2026 15:50:00 GMT",
+        "published_kst": "2026-10-09T00:50:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "고양시, 의료·바이오 앞세워 글로벌 AI 허브 유치전 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1VXRJMkVtWC14aUlHWXFOTWtIdjViQ0hrdl9WT00tdzRUTXF4dmlWT2xyVm9LNnB3TDkwcDJrMF9nZ0tCNGxsWlMwTWJvbFhzY21HZ0R0NjR4Zw?oc=5",
-        "summary": "고양시, 의료·바이오 앞세워 글로벌 AI 허브 유치전 한국경제 고양시, 의료·바이오 앞세워 글로벌 AI 허브 유치전 - 한국경제",
-        "published": "Thu, 08 Oct 2026 10:19:04 GMT",
-        "published_kst": "2026-10-08T19:19:04+09:00",
+        "title": "'나홀로 질주' HPE, AMD 손잡고 AI 서버 출시 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrR1ZGMFdLYzFMRWM5d0c1TlRCemY5YW5qZlFnUXBfcWE5WmhVUjYyTHJaT1ZXWEZHWEIxVVVvTTY4Rkp6UjJlbURRZ3VWd1NxLTFwNWYyZ3ZCZw?oc=5",
+        "summary": "'나홀로 질주' HPE, AMD 손잡고 AI 서버 출시 한국경제 '나홀로 질주' HPE, AMD 손잡고 AI 서버 출시 - 한국경제",
+        "published": "Thu, 08 Oct 2026 15:48:00 GMT",
+        "published_kst": "2026-10-09T00:48:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +108,35 @@
     ],
     "world": [
       {
-        "title": "New UK sanctions hit the money, oil and supply chains fuelling Russia's war - GOV.UK",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3FlQVdYaHV1X0JZMkJhaGdHT3Q0NHlKRGV1TERUWU1zZ2dYRmlnRVRiNy1IbFFkd2pzalpPR21wZ085MWRHbTd4REcwWmw1MFVwZ0VSRDVlUUwxM3JiRF9BcnNiUDQ0dnp3SjRTRVQzTWtrTC1BbVRWLUliaHNkMUljeGhNQ3lLeDF6dUFTbUJMUXZ4Xy1tbDZxcmhDS1F5RzF2TjdhWHYtRTBS?oc=5",
-        "summary": "New UK sanctions hit the money, oil and supply chains fuelling Russia's war GOV.UK New UK sanctions hit the money, oil and supply chains fuelling Russia's war - GOV.UK",
-        "published": "Thu, 08 Oct 2026 11:21:44 GMT",
-        "published_kst": "2026-10-08T20:21:44+09:00",
+        "title": "2027 Third-Party Logistics Study puts AI, partnerships and supply chain resilience in the spotlight - TheTrucker.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSnNBNGFOWElvUUZWNXNLcS1IUFdqdW4yOThPNmlxbFcwN19iVFJ6cDA4eFFjSGk4V3BmSmFpZ0FHeXJ0SndaTzM4dFBTUlR1cXhnWUZEZllmSGlhcDJLTF9EWTQ2Umw2eFRMMmxOdTFxVzVRdUE0SnlUNkRsYk81dk5KQndRdHlrdjRucGtNNUNoeF9pd2JBd2N4UmNyLVExaHNTQjB2SmQ2QnpIZDN1OVJodC1iaU4xRFY4UEFma0pOenJOT1BIWDZyVjktU3R6U2pUR0FzZ3FmNjdxenFWekFn?oc=5",
+        "summary": "2027 Third-Party Logistics Study puts AI, partnerships and supply chain resilience in the spotlight TheTrucker.com 2027 Third-Party Logistics Study puts AI, partnerships and supply chain resilience in the spotlight - TheTrucker.com",
+        "published": "Thu, 08 Oct 2026 17:11:21 GMT",
+        "published_kst": "2026-10-09T02:11:21+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2027"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The Role of Worker Wellbeing in Supply Chain Resilience - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdDVFSHpicWZUOWZmd2ZKcmJkbWxCdGFhVXZ4aTd1aExGN0g3TWxqYW96c0Q2dXhVbXFoOWdmNGl3dW1SaDlZM0hKbjJNbzRZelpidEF6VmFMUjlYWVhoWlZNR09ZUXI5SjVCcTVJN29fNmNPNklXSzZIaTNDUFgyNUN2RF90QzdNakVxUUl3cU1LN2VyZUE?oc=5",
+        "summary": "The Role of Worker Wellbeing in Supply Chain Resilience Supply Chain Digital The Role of Worker Wellbeing in Supply Chain Resilience - Supply Chain Digital",
+        "published": "Thu, 08 Oct 2026 17:04:20 GMT",
+        "published_kst": "2026-10-09T02:04:20+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5",
-        "summary": "Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict Reuters Shipping group Maersk raises UK, Ireland inland emergency fuel surcharge due to Middle East conflict - Reuters",
-        "published": "Thu, 08 Oct 2026 10:57:21 GMT",
-        "published_kst": "2026-10-08T19:57:21+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The Deep dive: Growing Supply Chain Pressures on Payment Card Industry - IBS Intelligence",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUhoRkoxQjdQd3RXa0dKRzNlcUpmQThKSkRibHpYRlB5eFU1eW9jblN6UEJia2dETE1hTEpZaVk2cXRCZXEydmFYSk5DdVlkU05USEJKem1qUHBXSWpIdnMxanRxYUNLSnZ4Q2o0NXI0R1pMRVh2ZU0tV2RCTlF0ZFY1djVDRUtzOVRmTDkyeWd5SlR5NmRQR2lTQ0ZHcGhxOUIxZU5IWGhZYnRf?oc=5",
-        "summary": "The Deep dive: Growing Supply Chain Pressures on Payment Card Industry IBS Intelligence The Deep dive: Growing Supply Chain Pressures on Payment Card Industry - IBS Intelligence",
-        "published": "Thu, 08 Oct 2026 10:40:39 GMT",
-        "published_kst": "2026-10-08T19:40:39+09:00",
+        "title": "Yokogawa signs agreement with BuyCo for supply chain optimisation - Oil Review Middle East",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelFpZmxvT203cGtnWk5zS181Q3FoY2Q4VnpXNHJaR2dIal9KMk1naWk5S3N3OGpscGREV1hWV1VSTDNHTGZfM1BMMXNHa0ZxVEFabG11ekRScEdQNWhqRUlfbE9CU0gtUWx6ZWt6M3g5WXpvNHdlUnU4X0lxbHRuQ0lROGFzYUItbzZYQ0pmZ1pGZFhJOS0zSmlheFUtY1ZwM2ZpWUhfaElCdw?oc=5",
+        "summary": "Yokogawa signs agreement with BuyCo for supply chain optimisation Oil Review Middle East Yokogawa signs agreement with BuyCo for supply chain optimisation - Oil Review Middle East",
+        "published": "Thu, 08 Oct 2026 15:42:46 GMT",
+        "published_kst": "2026-10-09T00:42:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found. Inflation on many everyday items was entirely due to tariffs, NY Fed says / [속보] 노벨문학상에 캐나다 작가 앤 카슨 한국경제 [속보] 노벨문학상에 캐나다 작가 앤 카슨 - 한국경제 / New UK sanctions hit the money, oil and supply chains fuelling Russia's war GOV.UK New UK sanctions hit the money, oil and supply chains fuelling Russia's war - GOV.UK",
+  "wrap_summary": "Judge seems poised to reinforce block of Trump’s White House media ban Politico Judge seems poised to reinforce block of Trump’s White House media ban - Politico / '아프리카TV' 지우고 배구단까지 인수…또 파격 승부수 띄운다 한국경제 '아프리카TV' 지우고 배구단까지 인수…또 파격 승부수 띄운다 - 한국경제 / 2027 Third-Party Logistics Study puts AI, partnerships and supply chain resilience in the spotlight TheTrucker.com 2027 Third-Party Logistics Study puts AI, partnerships and supply chain resilience in the spotlight - TheTrucker.com",
   "invest_summary": ""
 }
