@@ -1,75 +1,73 @@
 {
-  "date": "2026-10-10",
-  "generated_at_utc": "2026-10-10T11:25:39Z",
-  "cutoff_kst": "2026-10-10T20:25:00+09:00",
+  "date": "2026-10-11",
+  "generated_at_utc": "2026-10-10T15:47:41Z",
+  "cutoff_kst": "2026-10-11T00:47:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-        "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-        "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year. Nvidia GPUs are everywhere.",
-        "published": "Sat, 10 Oct 2026 11:00:01 GMT",
-        "published_kst": "2026-10-10T20:00:01+09:00",
+        "title": "Katie Bailey chosen as new head of White House Office of Legislative Affairs, sources say - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEZMVjB0aklnSmVIWXdIVllMcDQ0MDMybHl6clptMlBlZGRnU1JfQVJ1OFhlRGF0c0N3OWZlZmdfZDFhNFZnXzYtZlVHektMMXNtaWdCRzREdGlLYlZJc2NPeHhYaVM4TW9UQjR4S3BlSy1nUTZyTDl4Wno0cnFmQjlsRGhGVXdaM3JCeTFtd2JJTnAxU2RLaEk4SGxSTGFSelMwcnpIaw?oc=5",
+        "summary": "Katie Bailey chosen as new head of White House Office of Legislative Affairs, sources say CBS News Katie Bailey chosen as new head of White House Office of Legislative Affairs, sources say - CBS News",
+        "published": "Sat, 10 Oct 2026 15:18:16 GMT",
+        "published_kst": "2026-10-11T00:18:16+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+        "url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+        "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies. JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+        "published": "Sat, 10 Oct 2026 15:00:01 GMT",
+        "published_kst": "2026-10-11T00:00:01+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. home prices rise more than twice as fast as inflation since 1984, study finds - KOTA Territory News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeU5nVGZUM0JBbmRkU3FuZnNlRGJjUjhSSGJtUWZ6NS1JRVJxbTdINXhkWXlZcHhOSGtXYV9DWnVrTE1WNlRhaWlXQlktVG4xTjRmeldJSEdNSU5TRWhMT1JfTlY2aHVWaC1PYnhGejlPVU1YaGZZZFVHLXRubUhDZVBDRnE0ejh5NWxIdnZRbEo0UG5xYk1FVWp2NjNzM25UVnA0bGZSYmJDdzhR0gHAAUFVX3lxTFB5Z2tMMkxKalpabWFLcXdoU05IanU0eWVUTld6bmlXOWxQTUlSSEJZOEl1aWl4VnA3aVRvSUk0SENlaUNWdG5xNGlBcGRHVkpmYTNWSmZzLWZKRXhYek1DZ3RYVElONXRpaHFzZmhGTWRVMk5NbGNOMWJ3ZThKcmhfdFJVSXV6ay13Yy1La0ZSYkZ6VHVCYy00YzVkc2FQb3FkUXJaT0p6ME1YWXl1QnVmZ19ONjYyR09seEVFUk5uRA?oc=5",
+        "summary": "home prices rise more than twice as fast as inflation since 1984, study finds KOTA Territory News U.S.",
+        "published": "Sat, 10 Oct 2026 15:00:00 GMT",
+        "published_kst": "2026-10-11T00:00:00+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "55%"
+          "1984"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Cautious Optimism Heading Into Q3 Earnings For U.S. Bancorp (NYSE:USB) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzUyZGgxRW44VlJkX0lUTVpfdndpdVdTdGZjcXBhczU5dmRWWjJid2QxSnljZkh4S09DTVl4R3dDV2FUc3dyaEVCZ2NiMWttSVU3RFpJOVRxN3phbEc5VHBONlBHa1BZbUN1M0hRTHhoZll6SU81Ry1vWVVNRmp1RkUxcWE3TDdBYzROUUlkZmRPWTl2WGVIY0xoQnF2Tzg?oc=5",
-        "summary": "Bancorp (NYSE:USB) Seeking Alpha Cautious Optimism Heading Into Q3 Earnings For U.S. Bancorp (NYSE:USB) - Seeking Alpha",
-        "published": "Sat, 10 Oct 2026 09:15:24 GMT",
-        "published_kst": "2026-10-10T18:15:24+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How Earnings Beat Will Impact Matson Stock Investors - Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGhtU1JlZ0JWMlBvcTBybG9KSkEzRnBwaGRQaWRTaGtXUm9kU0NFVnNKSXpXUG5vNmg0dUdNNUlNd0t5cjNKZGc3MXVzM0EySHRJR0t4UmhQdzlpYUNXRW5MaF9iNTF3eW1SaHVXUTAtdFFhWHFLVXVRX2otMGI5aHFPR0E3MEtfY1VZeDZGclVwWHNxUjBoQWNSNmRXR2t1QmE0VXF2MVllOTNIQnZqSm10dTVESXFremV2NnVn0gHDAUFVX3lxTE5mY3lIcGIyVF9ENzg2QWM2cG9qMUpISXlkeGRLbnF5WTVoRUdheG5EbjlybTQzRDhRYVViQ1diTUhJUmtSTHY3ME1ldVZvdXFtekhkWWctcnlrYzdFcjhXa3o0S3Z4eVBRTWVtTXFFZ3Z3Y0stalQxc1pqUjdUWmo3R2ZTcHEyeWtEeHFkemhMaFJPNmdmcm5zNWVjdGtsR3BqYXFGeHdPRjdQQUpBMWFSeWR2RENEa01XTjRHd3BwbE1GUQ?oc=5",
-        "summary": "How Earnings Beat Will Impact Matson Stock Investors Simply Wall Street How Earnings Beat Will Impact Matson Stock Investors - Simply Wall Street",
-        "published": "Sat, 10 Oct 2026 07:03:30 GMT",
-        "published_kst": "2026-10-10T16:03:30+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Katie Zacharia tapped as next White House press secretary - Axios",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzdrS2xzX3RHcllxcEpsVXYtLTNhRjVhRUVETDZSZzVKa3FNMjBIVzZVTkt0cVpkN3VkbVBQOHYyQ29mVFFiRDVmelR4WGE4RktaaWZwTDVHMlZtLWI0TUctMFpKMUJIck9DMkxmUHhIaEo1LVNoUG1DX3pPM1Y1Ny1zTEQ?oc=5",
-        "summary": "Katie Zacharia tapped as next White House press secretary Axios Katie Zacharia tapped as next White House press secretary - Axios",
-        "published": "Sat, 10 Oct 2026 07:01:28 GMT",
-        "published_kst": "2026-10-10T16:01:28+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-        "url": "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
-        "summary": "Cash-strapped farmers have no incentive to sow for 2027 with exports remaining trapped, as analysts say commodity markets could \"flip fast.\" The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-        "published": "Sat, 10 Oct 2026 05:00:01 GMT",
-        "published_kst": "2026-10-10T14:00:01+09:00",
+        "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+        "url": "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+        "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here’s what the visa data shows",
+        "published": "Sat, 10 Oct 2026 14:22:23 GMT",
+        "published_kst": "2026-10-10T23:22:23+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "2027"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
-        "url": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
-        "summary": "AI adoption is forcing the legal profession to rethink the billable hour and how lawyers build expertise. AI is changing how lawyers work — and putting the billable hour under pressure",
-        "published": "Sat, 10 Oct 2026 05:00:01 GMT",
-        "published_kst": "2026-10-10T14:00:01+09:00",
+        "title": "Putin relayed Iran war proposal to Trump, Kremlin says",
+        "url": "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+        "summary": "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. Putin relayed Iran war proposal to Trump, Kremlin says",
+        "published": "Sat, 10 Oct 2026 13:42:36 GMT",
+        "published_kst": "2026-10-10T22:42:36+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "How Investors May Respond To U.S. Bancorp (USB) Ahead Of Earnings And Product Rollouts - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVJ5SFppaG1DOUdVNjZjb2gweDVZYVFZLVVZRWFwdXhSbklGSlp3S1dsYkRsUkJxdWttcWxvU0pEQXpOOTNSVUtoaWhyV1A2eXhmWnJHX2hZTEwtTmpPYzJNT2tEa2xQNGtVdkFuZlo3aGdHdUpJTUVOQnFyTUhUYnNoM0Y0eXFBcHVTYkpxZllackpWdUxvM1FVSVJJYlJVbDdHNXNDRU5SNlZackpTQWhYejFTQzNjTjBuRDhDb2nSAcYBQVVfeXFMTS1OVFB6alZsNDZGZnA3QTFVeUJGSkVPam5qSVhmQnpUclNCZWNOd2t5dnJ5MWhOUmFiYkNpYXNSb0RkSkYtTWRac0JmckhnSmNNU3daTXF3ZVJfbk9EWWJ4Qktza0pEaG5JdnNlMVpfRm9UbWJqMmxjX3UxZTMtZG12TVdIUU9DdVZRRFhPckRFSW5qNXRoVjJRUlBPakVjemQ4QmNYWnJaRVNyN1piM2pEWkd2a2wwSzRfSjdLbG13MS10Q1V3?oc=5",
+        "summary": "Bancorp (USB) Ahead Of Earnings And Product Rollouts Simply Wall Street How Investors May Respond To U.S. Bancorp (USB) Ahead Of Earnings And Product Rollouts - Simply Wall Street",
+        "published": "Sat, 10 Oct 2026 13:38:08 GMT",
+        "published_kst": "2026-10-10T22:38:08+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,33 +75,35 @@
     ],
     "kr": [
       {
-        "title": "\"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTnpSZVUyNE1MQlFTekt5NjYzYzZ4SzJxeF95U0gyWmFudkNXSDZhMTJVYlNjbVBJMWh5OUJIeWZBbDNwVllWbUgydXplOWxZN0tGYjJiSXh4QQ?oc=5",
-        "summary": "\"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] 한국경제 \"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] - 한국경제",
-        "published": "Sat, 10 Oct 2026 11:00:01 GMT",
-        "published_kst": "2026-10-10T20:00:01+09:00",
+        "title": "[N위크] 한은·공정위·국세청·관세청 등 국감...취업자 얼마나 늘었나 - 조세금융신문",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QY1FZTGt2aFlkTy1JVjBEWWNjMWFDUGZfd1NLSE9uMEpOdGF1MFRxYmZ3elY5OWc0VTZ0dVJtNlczUzlZZ1F3ODB6bTBUTTIyR2dEQWlLcVZUejZwNjUwWg?oc=5",
+        "summary": "[N위크] 한은·공정위·국세청·관세청 등 국감...취업자 얼마나 늘었나 조세금융신문 [N위크] 한은·공정위·국세청·관세청 등 국감...취업자 얼마나 늘었나 - 조세금융신문",
+        "published": "Sat, 10 Oct 2026 15:17:04 GMT",
+        "published_kst": "2026-10-11T00:17:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmQXFHMlNQOThtYmVGcDYxcXhyMm04dl92M3VEbjU0d2J5elZkaGJYY003SWVvZlktdm9HeHFfUzd6Q3dlUW90YktOaHRDOVY5ZFFpUmQ2eThqQQ?oc=5",
-        "summary": "\"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박 한국경제 \"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박 - 한국경제",
-        "published": "Sat, 10 Oct 2026 09:58:27 GMT",
-        "published_kst": "2026-10-10T18:58:27+09:00",
+        "title": "[오늘의 운세] 2026년 10월 11일 별자리 운세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MYWhWNWFFb0tXOFRud05aQy1xZ2hsbGI0Z0pZamp1d09TSGh1c1lFa3BqX3FzTnNLbXRvbk9MTEZ6NnpSOG1KT2piVkZhVkt2ZTZQeURKbTR2dw?oc=5",
+        "summary": "[오늘의 운세] 2026년 10월 11일 별자리 운세 한국경제 [오늘의 운세] 2026년 10월 11일 별자리 운세 - 한국경제",
+        "published": "Sat, 10 Oct 2026 15:00:08 GMT",
+        "published_kst": "2026-10-11T00:00:08+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "유재석, 35년 만에 녹화 취소하더니…뜻밖의 상황에 ＇머쓱＇ - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBteExlbENGb2ZyVXlvMzMxQ2NRbEhjYm1vbE1rNENpMlJkSzBSOUdzd2tTVVU1Z0NCX1QwRzRTM0cwYnZvVFJOSlZxNmpDd0RCbXI4bGViajFOUFZMTFQwT3N0aXNNd3NOdUxlbmlqS0xwcUxVVXFv?oc=5",
-        "summary": "유재석, 35년 만에 녹화 취소하더니…뜻밖의 상황에 ＇머쓱＇ 한국경제TV 유재석, 35년 만에 녹화 취소하더니…뜻밖의 상황에 ＇머쓱＇ - 한국경제TV",
-        "published": "Sat, 10 Oct 2026 09:25:00 GMT",
-        "published_kst": "2026-10-10T18:25:00+09:00",
+        "title": "[오늘의 운세] 10월 11일 띠별 운세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwV1hrbFlmd2htcEtvZDZ4X1pBbVhOWkhacVZTYXlfck1vcnd6SGduWWF1RFhuNVAzUW5ncGxJc0xtUmVwYlVmeVAxS1NBSVZtSGFmWlhZalBPZw?oc=5",
+        "summary": "[오늘의 운세] 10월 11일 띠별 운세 한국경제 [오늘의 운세] 10월 11일 띠별 운세 - 한국경제",
+        "published": "Sat, 10 Oct 2026 15:00:06 GMT",
+        "published_kst": "2026-10-11T00:00:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,42 +112,40 @@
     ],
     "world": [
       {
-        "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance UK",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOajZRTS1zTG5QSWlXVnBDV2ZMOTduRDZtbzRubFBrdGRRd1ZkblNmVllnN1dVQ1FCYTdDaHVjeVp5ZmV1LXd3OUpneDlZWmZTTDRnQW1YMXNqQ3kzVmhwbEI4Ny1EczNCTDFYQmI0WUxHY2Z0M0sxckd2QWNHYl9MOHdldldVb0k?oc=5",
-        "summary": "Yahoo Finance UK Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance UK",
-        "published": "Sat, 10 Oct 2026 10:09:44 GMT",
-        "published_kst": "2026-10-10T19:09:44+09:00",
+        "title": "Trump says US to import Russian diesel, reversing pressure on Moscow - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGFyN21yaExWSTBhczQ0Y3E4aTdJUm1fTGhJYUNGX0FxVGZic1hCR0RIVW9ISEN2V1NBWnNhSGFMcGNVdFpnWWNjTy16WlI5c3NXSk53RXZQTGdaMXNYUGdYeXloSWRTUFBIVkE5X0NkVExjWnNJa21nSm9ueTdlN0NRaE9UOEQ1UFJLQzhSZDVoRnBsMFNEdE40dDNGOTBiRGFsWGpycXlwVEZZOTdldWtCdThhUFF3dmhzb1pyWVd0cU5h?oc=5",
+        "summary": "Trump says US to import Russian diesel, reversing pressure on Moscow USA Today Trump says US to import Russian diesel, reversing pressure on Moscow - USA Today",
+        "published": "Sat, 10 Oct 2026 14:53:00 GMT",
+        "published_kst": "2026-10-10T23:53:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "This Week's Top Five Stories in Supply Chain - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkVOUk9UNXFSbXRab0hKXzd3M3ZBbUJFbmNERC1WMTlEMFhpdmEtNlJqQVdtQ0tuT29SNkkwa21VZzZ1T3ZfZkNCUVd2NFB2aVQ3cG1pZjJrQUNZR2ZuMGw5bHZXQko5NDh0UlA2ZkRXYmJjWTZoSkRZakVzTzdvNm1zeXBlNWtGS1dRTnJqbVlxVzJq?oc=5",
-        "summary": "This Week's Top Five Stories in Supply Chain Supply Chain Digital This Week's Top Five Stories in Supply Chain - Supply Chain Digital",
-        "published": "Sat, 10 Oct 2026 08:02:27 GMT",
-        "published_kst": "2026-10-10T17:02:27+09:00",
+        "title": "‘Gifts to Putin’: Ukraine rattled as Trump eases sanctions on Russian oil - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRU1Ja2RHUFhhYVRTdFk4R2c3YW5GNUc3dkp4MW16VDV5MFFKdUI5WUhnZXlvVVpCSXQtQURIblljN3c3MzNmd21ydFRjWUZMLWxxaGdVQVNGNk5Mc1lFV0RPMnl6Szl3SEhFNFZRYnNuaUJMaVFIN1JIa2F2cnRCc0tsb0JfVHZWUHpkZUJkMnZJYldlZHFBZTY4Yk96ZXlQdHJndUdZS3poS2wxa1hB?oc=5",
+        "summary": "‘Gifts to Putin’: Ukraine rattled as Trump eases sanctions on Russian oil NBC News ‘Gifts to Putin’: Ukraine rattled as Trump eases sanctions on Russian oil - NBC News",
+        "published": "Sat, 10 Oct 2026 14:46:31 GMT",
+        "published_kst": "2026-10-10T23:46:31+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Africa produces world’s cobalt, earns below 1% green supply-chain value – UN - Realnews Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUi10RDZ0WFlXak1WVlZuLUZNMkg4WlY1UWt5eHNPX3p6SmJTeEJuaWEzUzUtNl84dGZ6bU82TG5CNE5aNWg4X1pyR1NYNngxY2h1Q1hHenJUcnNHZjdhZC1Ka3NBa1oxbXdSZ2VZRm8xREd5djExV0tSVkhQSHdPS2ZENE5sU1lUWjh6QzQySkI2YVU1RDFwZVlfakZyeUtFcEdn?oc=5",
-        "summary": "Africa produces world’s cobalt, earns below 1% green supply-chain value – UN Realnews Magazine Africa produces world’s cobalt, earns below 1% green supply-chain value – UN - Realnews Magazine",
-        "published": "Sat, 10 Oct 2026 07:35:25 GMT",
-        "published_kst": "2026-10-10T16:35:25+09:00",
+        "title": "Nippon Express completes acquisition of Metro Supply Chain Group - Container News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXZZZm9MdXdGdjVCTFFTUTdYNG83UGVGXzNoRVhFUXB6QXRQaHdIR1NLYmdVcDZMeFdvUjN4X0hnTkJEcFdhS0dDNkVITFgxRGNGRmtmM3VnX1lUTWFGNWVVTDJ3bHJ1UWRxa3Y2N2x6bVlNYk5nai1oNXNtYXFEUU1YSEp0Q1VTQ0NJQjl2S2luWERfdUdj?oc=5",
+        "summary": "Nippon Express completes acquisition of Metro Supply Chain Group Container News Nippon Express completes acquisition of Metro Supply Chain Group - Container News",
+        "published": "Sat, 10 Oct 2026 14:00:19 GMT",
+        "published_kst": "2026-10-10T23:00:19+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "1%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year. Nvidia GPUs are everywhere. / \"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] 한국경제 \"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] - 한국경제 / Yahoo Finance UK Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance UK",
+  "wrap_summary": "Katie Bailey chosen as new head of White House Office of Legislative Affairs, sources say CBS News Katie Bailey chosen as new head of White House Office of Legislative Affairs, sources say - CBS News / [N위크] 한은·공정위·국세청·관세청 등 국감...취업자 얼마나 늘었나 조세금융신문 [N위크] 한은·공정위·국세청·관세청 등 국감...취업자 얼마나 늘었나 - 조세금융신문 / Trump says US to import Russian diesel, reversing pressure on Moscow USA Today Trump says US to import Russian diesel, reversing pressure on Moscow - USA Today",
   "invest_summary": ""
 }
