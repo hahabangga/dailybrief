@@ -1,9 +1,33 @@
 {
   "date": "2026-10-10",
-  "generated_at_utc": "2026-10-10T07:50:15Z",
-  "cutoff_kst": "2026-10-10T16:50:00+09:00",
+  "generated_at_utc": "2026-10-10T11:25:39Z",
+  "cutoff_kst": "2026-10-10T20:25:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
+        "url": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
+        "summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year. Nvidia GPUs are everywhere.",
+        "published": "Sat, 10 Oct 2026 11:00:01 GMT",
+        "published_kst": "2026-10-10T20:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "55%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Cautious Optimism Heading Into Q3 Earnings For U.S. Bancorp (NYSE:USB) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZzUyZGgxRW44VlJkX0lUTVpfdndpdVdTdGZjcXBhczU5dmRWWjJid2QxSnljZkh4S09DTVl4R3dDV2FUc3dyaEVCZ2NiMWttSVU3RFpJOVRxN3phbEc5VHBONlBHa1BZbUN1M0hRTHhoZll6SU81Ry1vWVVNRmp1RkUxcWE3TDdBYzROUUlkZmRPWTl2WGVIY0xoQnF2Tzg?oc=5",
+        "summary": "Bancorp (NYSE:USB) Seeking Alpha Cautious Optimism Heading Into Q3 Earnings For U.S. Bancorp (NYSE:USB) - Seeking Alpha",
+        "published": "Sat, 10 Oct 2026 09:15:24 GMT",
+        "published_kst": "2026-10-10T18:15:24+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "How Earnings Beat Will Impact Matson Stock Investors - Simply Wall Street",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGhtU1JlZ0JWMlBvcTBybG9KSkEzRnBwaGRQaWRTaGtXUm9kU0NFVnNKSXpXUG5vNmg0dUdNNUlNd0t5cjNKZGc3MXVzM0EySHRJR0t4UmhQdzlpYUNXRW5MaF9iNTF3eW1SaHVXUTAtdFFhWHFLVXVRX2otMGI5aHFPR0E3MEtfY1VZeDZGclVwWHNxUjBoQWNSNmRXR2t1QmE0VXF2MVllOTNIQnZqSm10dTVESXFremV2NnVn0gHDAUFVX3lxTE5mY3lIcGIyVF9ENzg2QWM2cG9qMUpISXlkeGRLbnF5WTVoRUdheG5EbjlybTQzRDhRYVViQ1diTUhJUmtSTHY3ME1ldVZvdXFtekhkWWctcnlrYzdFcjhXa3o0S3Z4eVBRTWVtTXFFZ3Z3Y0stalQxc1pqUjdUWmo3R2ZTcHEyeWtEeHFkemhMaFJPNmdmcm5zNWVjdGtsR3BqYXFGeHdPRjdQQUpBMWFSeWR2RENEa01XTjRHd3BwbE1GUQ?oc=5",
@@ -16,22 +40,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "USD/JPY weekly outlook: US inflation threatens to break the stalemate - FOREX.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXhLdy12c2ZKMEhweDhDU1lkUTM5bms5cTZraTBaMnhtU0pJS1lRVU1CTW1EVk10RDV5ZnZuSnFFbXp4YlZnN09pckd2dWwzUmh1ZmhmOGdCVmo3YW9PLVhtSlpSYzJnakZocHVfTTJadm80U0hKMnpGdmNqUHExSWE4RXhod2FyX3EyVTJRV2I5WnNyZlI2bE1JckpPWVdaXzZjaUF5VWt2SHlPS2piaEJLQ3Z5UdIBwgFBVV95cUxPdXRfN0pxVU05OHl0VmpxR0lIZUM3aXBIbzcycWhPcUZKY2FLRllycmszSUZyMzI2TlhtTFl2U3BJX3pGbzEzMnlTME9ybUk4bWZTZm9ROG13MV8wSHp6cVJrUnRyYVphbzM2N045Y3VrcUpMSC1tODVTaERtX1RVS2pyX0g3U19pSDh3cUYtc1lSUmVHaTlITEc3QkppM05jX1FyY1J3bTJaYUhOSjA5bTE5R2dHZGVBNXB3cC1pcHVTUQ?oc=5",
-        "summary": "USD/JPY weekly outlook: US inflation threatens to break the stalemate FOREX.com USD/JPY weekly outlook: US inflation threatens to break the stalemate - FOREX.com",
-        "published": "Sat, 10 Oct 2026 06:58:25 GMT",
-        "published_kst": "2026-10-10T15:58:25+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Meta To Alphabet: Top AI Companies To Drive Most Third-Quarter US Earnings Gains - NDTV Profit",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObng1TXN0ZkpYRTFoUjg2dm10aF94eTgzeHpRTFhxOGdwOHUtU01ja1NCcVo0VWxXc1J6WjducVFVNFQxY1B0Zy1lUmswUGJ1dFRkVEpMU0hPejJob0IyMUlaMWNtVmQxTF9yRFdieXV3UVJ3S2VYdFpRNUZUOXR4VkdKS1FTcU9mY2s1WU10Yk1CM3dkMnVYLW1LRW5sb25YamlsbHkxQi1VVUxpX0V2NlFyUGZSUDJ1ZTVEemlR0gHGAUFVX3lxTE13OHNnMmVqczkwQ00yV3B6YXRVc05zN0pMQk0wSmhyOXZEQy01MmE2c1BZN1FEcG03YVhmQ3BMbTVvSlpFN3A4aXpGR1JZVTVxZnB0Q0pESUJJVEMxbFVvcG5NSmJUMmdGekZfTzIyX0xrQ01Vb095QW1EZE9nU2lNUms0cjNDTmh6blFvZ0VITlloRFNuZzJVOEl5X0o2cVFnNXl3SDhKWVJYTnFBbFJ2eW9kY0JtenNjRDZFX1NJU0xHeXJfZw?oc=5",
-        "summary": "Meta To Alphabet: Top AI Companies To Drive Most Third-Quarter US Earnings Gains NDTV Profit Meta To Alphabet: Top AI Companies To Drive Most Third-Quarter US Earnings Gains - NDTV Profit",
-        "published": "Sat, 10 Oct 2026 06:36:53 GMT",
-        "published_kst": "2026-10-10T15:36:53+09:00",
+        "title": "Katie Zacharia tapped as next White House press secretary - Axios",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzdrS2xzX3RHcllxcEpsVXYtLTNhRjVhRUVETDZSZzVKa3FNMjBIVzZVTkt0cVpkN3VkbVBQOHYyQ29mVFFiRDVmelR4WGE4RktaaWZwTDVHMlZtLWI0TUctMFpKMUJIck9DMkxmUHhIaEo1LVNoUG1DX3pPM1Y1Ny1zTEQ?oc=5",
+        "summary": "Katie Zacharia tapped as next White House press secretary Axios Katie Zacharia tapped as next White House press secretary - Axios",
+        "published": "Sat, 10 Oct 2026 07:01:28 GMT",
+        "published_kst": "2026-10-10T16:01:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -60,48 +73,37 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-        "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-        "summary": "easing sanctions on Moscow \"plays into Russia's hands.\" Trump's diesel agreement with Putin accused of contradicting Russia sanctions law Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S.",
-        "published": "Sat, 10 Oct 2026 02:09:00 GMT",
-        "published_kst": "2026-10-10T11:09:00+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "\"월급보다 낫다\" 회사 선물 뭐길래…직장인 절반은 '실망' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNDZ1V2VqczNMUm9wbEtwVUVLV2xMazdGOTVkZ0lDVkt1YXJzR2lQQmFzeWxNZWIyTUJLLWhPNzRyVUZFVW9DdllHdGpsWkVrZXBPclZXMFZFdw?oc=5",
-        "summary": "\"월급보다 낫다\" 회사 선물 뭐길래…직장인 절반은 '실망' 한국경제 \"월급보다 낫다\" 회사 선물 뭐길래…직장인 절반은 '실망' - 한국경제",
-        "published": "Sat, 10 Oct 2026 07:35:45 GMT",
-        "published_kst": "2026-10-10T16:35:45+09:00",
+        "title": "\"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTnpSZVUyNE1MQlFTekt5NjYzYzZ4SzJxeF95U0gyWmFudkNXSDZhMTJVYlNjbVBJMWh5OUJIeWZBbDNwVllWbUgydXplOWxZN0tGYjJiSXh4QQ?oc=5",
+        "summary": "\"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] 한국경제 \"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] - 한국경제",
+        "published": "Sat, 10 Oct 2026 11:00:01 GMT",
+        "published_kst": "2026-10-10T20:00:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "＂한 병 75만원, 귀한 술인데＂…창고 통째로 털렸다 [글로벌 pick] - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LOXhXRXZFRkRpMmpwYUphVkhvRmRGM0JDZDJFU0duRlI4WVdkMzYwTFNXbmlLeURNa3B1bWFwMjVHcDhtN014X0xITURGdVJXU2tUSV9vOTdPQ2xJUkRvc3hyUjRnbzlKbzR5ZWFDYnB2Zkp3czBz?oc=5",
-        "summary": "＂한 병 75만원, 귀한 술인데＂…창고 통째로 털렸다 [글로벌 pick] 한국경제TV ＂한 병 75만원, 귀한 술인데＂…창고 통째로 털렸다 [글로벌 pick] - 한국경제TV",
-        "published": "Sat, 10 Oct 2026 07:15:00 GMT",
-        "published_kst": "2026-10-10T16:15:00+09:00",
+        "title": "\"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmQXFHMlNQOThtYmVGcDYxcXhyMm04dl92M3VEbjU0d2J5elZkaGJYY003SWVvZlktdm9HeHFfUzd6Q3dlUW90YktOaHRDOVY5ZFFpUmQ2eThqQQ?oc=5",
+        "summary": "\"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박 한국경제 \"민주당의 망상\" 발끈한 한동훈…'딸 수사 무마' 의혹 반박 - 한국경제",
+        "published": "Sat, 10 Oct 2026 09:58:27 GMT",
+        "published_kst": "2026-10-10T18:58:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "수도권매립지에서 열리는 '드림파크 국화축제’ - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81dWQ0RjM5WU9oZ3ZaSzh0YkFpSzROTU1tal9qWndhTnBweEpfVnlMMXhNNkFJa1NEVjhVZXphajlkT19mVmpLZFcxU21FSU9rMjVVcmFBRG51UQ?oc=5",
-        "summary": "수도권매립지에서 열리는 '드림파크 국화축제’ 한국경제 수도권매립지에서 열리는 '드림파크 국화축제’ - 한국경제",
-        "published": "Sat, 10 Oct 2026 06:59:47 GMT",
-        "published_kst": "2026-10-10T15:59:47+09:00",
+        "title": "유재석, 35년 만에 녹화 취소하더니…뜻밖의 상황에 ＇머쓱＇ - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBteExlbENGb2ZyVXlvMzMxQ2NRbEhjYm1vbE1rNENpMlJkSzBSOUdzd2tTVVU1Z0NCX1QwRzRTM0cwYnZvVFJOSlZxNmpDd0RCbXI4bGViajFOUFZMTFQwT3N0aXNNd3NOdUxlbmlqS0xwcUxVVXFv?oc=5",
+        "summary": "유재석, 35년 만에 녹화 취소하더니…뜻밖의 상황에 ＇머쓱＇ 한국경제TV 유재석, 35년 만에 녹화 취소하더니…뜻밖의 상황에 ＇머쓱＇ - 한국경제TV",
+        "published": "Sat, 10 Oct 2026 09:25:00 GMT",
+        "published_kst": "2026-10-10T18:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,40 +112,42 @@
     ],
     "world": [
       {
-        "title": "Sanctions For Thee, Crude For Me: The Paradox Of Trump's Energy Doctrine - NDTV Profit",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNel90TjZiMXpHSlU5My1LQTJmX0g3ODg3Qll5S3k5Wm1iRk1MQk53Z0k1TnREWEJIZVN3U3JNenJ2ckhFdTRZV3RzNlhkSl90TVE5R0M4dEg5SEpVdUpZdGpseWI2c1BFUGh0dFBzM180WFNLcDB4UEdLS05McDdjdWVKdDFEaWllU1pBMnVzaWZQdjUwUzB0U1JodXJVYWlmenRqdktWMlJIcTdqcmlHUzFhZ9IBuwFBVV95cUxNSk9aYUVZc1k3YTlvaGpzWlVCeEtFRkdWYWs5MWpqbzRkMWxYWG5ocmRYZGZZZzY5WmxacXRPdDJyekJTenkyMm90UUZoSFROZUE5bDI2WE5wXzBrZ3ZEWGFqS0kxMHpDM01sQmt6OVAtZ3lTalpxanBtQW94WndzQTVGbXRnT1ZaTnVPc3hlVGc1WC1KVlMySm5xYV82dXFhVU5vMzJEQk9udmFqekxwamR2Wk1sNC0zN3pV?oc=5",
-        "summary": "Sanctions For Thee, Crude For Me: The Paradox Of Trump's Energy Doctrine NDTV Profit Sanctions For Thee, Crude For Me: The Paradox Of Trump's Energy Doctrine - NDTV Profit",
-        "published": "Sat, 10 Oct 2026 05:18:31 GMT",
-        "published_kst": "2026-10-10T14:18:31+09:00",
+        "title": "Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOajZRTS1zTG5QSWlXVnBDV2ZMOTduRDZtbzRubFBrdGRRd1ZkblNmVllnN1dVQ1FCYTdDaHVjeVp5ZmV1LXd3OUpneDlZWmZTTDRnQW1YMXNqQ3kzVmhwbEI4Ny1EczNCTDFYQmI0WUxHY2Z0M0sxckd2QWNHYl9MOHdldldVb0k?oc=5",
+        "summary": "Yahoo Finance UK Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance UK",
+        "published": "Sat, 10 Oct 2026 10:09:44 GMT",
+        "published_kst": "2026-10-10T19:09:44+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBienVVTnRKNXU2d0JqVGJDU3ljYlpadlltOE1jc3pkb3pacGFpQXhXUzZ5OUJESU5mUmdXekZ3eFNMeF8xajBwdHlYLUJNcFJqOE9ldHNXYXhVVXc?oc=5",
-        "summary": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' BBC Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin' - BBC",
-        "published": "Sat, 10 Oct 2026 04:38:20 GMT",
-        "published_kst": "2026-10-10T13:38:20+09:00",
+        "title": "This Week's Top Five Stories in Supply Chain - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkVOUk9UNXFSbXRab0hKXzd3M3ZBbUJFbmNERC1WMTlEMFhpdmEtNlJqQVdtQ0tuT29SNkkwa21VZzZ1T3ZfZkNCUVd2NFB2aVQ3cG1pZjJrQUNZR2ZuMGw5bHZXQko5NDh0UlA2ZkRXYmJjWTZoSkRZakVzTzdvNm1zeXBlNWtGS1dRTnJqbVlxVzJq?oc=5",
+        "summary": "This Week's Top Five Stories in Supply Chain Supply Chain Digital This Week's Top Five Stories in Supply Chain - Supply Chain Digital",
+        "published": "Sat, 10 Oct 2026 08:02:27 GMT",
+        "published_kst": "2026-10-10T17:02:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Sanctions 17 Vessels Tied to Iran's Shadow Fleet - News and Statistics - IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUJheGlia0FyVTRTYURXaVJPXzU5cC1vakFkMGpCbnk5U0dFQ3V5Qk5RSjdPNVVYdEUtRHRyQWdfNmVEbUNqZ0hEY01uaTgyZ0RKaGJkcmhEeGtaTldUSWR1aGtHdHIybGU3MHNBQWlWMHRwWTdXeVNCZTRLRDk5TklaVG9uN1E?oc=5",
-        "summary": "Sanctions 17 Vessels Tied to Iran's Shadow Fleet - News and Statistics IndexBox U.S.",
-        "published": "Sat, 10 Oct 2026 04:11:08 GMT",
-        "published_kst": "2026-10-10T13:11:08+09:00",
+        "title": "Africa produces world’s cobalt, earns below 1% green supply-chain value – UN - Realnews Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUi10RDZ0WFlXak1WVlZuLUZNMkg4WlY1UWt5eHNPX3p6SmJTeEJuaWEzUzUtNl84dGZ6bU82TG5CNE5aNWg4X1pyR1NYNngxY2h1Q1hHenJUcnNHZjdhZC1Ka3NBa1oxbXdSZ2VZRm8xREd5djExV0tSVkhQSHdPS2ZENE5sU1lUWjh6QzQySkI2YVU1RDFwZVlfakZyeUtFcEdn?oc=5",
+        "summary": "Africa produces world’s cobalt, earns below 1% green supply-chain value – UN Realnews Magazine Africa produces world’s cobalt, earns below 1% green supply-chain value – UN - Realnews Magazine",
+        "published": "Sat, 10 Oct 2026 07:35:25 GMT",
+        "published_kst": "2026-10-10T16:35:25+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "1%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "How Earnings Beat Will Impact Matson Stock Investors Simply Wall Street How Earnings Beat Will Impact Matson Stock Investors - Simply Wall Street / \"월급보다 낫다\" 회사 선물 뭐길래…직장인 절반은 '실망' 한국경제 \"월급보다 낫다\" 회사 선물 뭐길래…직장인 절반은 '실망' - 한국경제 / Sanctions For Thee, Crude For Me: The Paradox Of Trump's Energy Doctrine NDTV Profit Sanctions For Thee, Crude For Me: The Paradox Of Trump's Energy Doctrine - NDTV Profit",
+  "wrap_summary": "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year. Nvidia GPUs are everywhere. / \"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] 한국경제 \"다 똑같은 편의점\"은 옛말…상권·고객 따라 바뀐다 [류은혁의 유통기한] - 한국경제 / Yahoo Finance UK Why Is Micron Technology (MU) Facing New Supply Chain Risk In Taiwan? - Yahoo Finance UK",
   "invest_summary": ""
 }
