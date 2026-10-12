@@ -1,83 +1,98 @@
 {
-  "date": "2026-10-12",
-  "generated_at_utc": "2026-10-12T13:36:10Z",
-  "cutoff_kst": "2026-10-12T22:36:00+09:00",
+  "date": "2026-10-13",
+  "generated_at_utc": "2026-10-12T19:42:58Z",
+  "cutoff_kst": "2026-10-13T04:42:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
-        "url": "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-        "summary": "airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. airlines of safety risks over Saudi Arabia after attacks",
-        "published": "Mon, 12 Oct 2026 13:29:26 GMT",
-        "published_kst": "2026-10-12T22:29:26+09:00",
+        "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+        "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
+        "summary": "Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion. IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
+        "published": "Mon, 12 Oct 2026 19:35:48 GMT",
+        "published_kst": "2026-10-13T04:35:48+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "$1.3"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Banks are set to report this week. Here's what the options market expects",
-        "url": "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
-        "summary": "Despite being flat on the year, the options market is pricing in some big financial sector moves as investor weigh the impact of higher rates. Here's what the options market expects",
-        "published": "Mon, 12 Oct 2026 13:27:20 GMT",
-        "published_kst": "2026-10-12T22:27:20+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Starbucks says it is not buying Chipotle after takeover speculation",
-        "url": "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
-        "summary": "\"Starbucks is not buying Chipotle,\" a Starbucks spokesperson told CNBC. Starbucks says it is not buying Chipotle after takeover speculation",
-        "published": "Mon, 12 Oct 2026 13:23:41 GMT",
-        "published_kst": "2026-10-12T22:23:41+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "DOJ investigating whether White House TV press pool’s coverage halt violated antitrust law - Free Speech Center",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ2F1aTJNSFVMT3pVU0tBV0RHU2xfNWx1SzcyTWtxR0RlOEw1TFV6TEZlTmd3RWtPS2VPOXRicmUxSUgtTkdpMFY1dmV6bGpWUG1yUG5tLU5jR0plWmU0eFBYblJFVXZsMHgxOXNaYTBRMWVJWFlqdFJCSW5rVGIwUGJ0LWhFbEJnMGVxZWd0ejdRM2Nqbk42TzBIb3RvSXRYYjJEc3VRYXZMZXdxTXRIUU90ZExBVjZBWWJ2WUF3?oc=5",
-        "summary": "DOJ investigating whether White House TV press pool’s coverage halt violated antitrust law Free Speech Center DOJ investigating whether White House TV press pool’s coverage halt violated antitrust law - Free Speech Center",
-        "published": "Mon, 12 Oct 2026 13:12:58 GMT",
-        "published_kst": "2026-10-12T22:12:58+09:00",
+        "title": "Speaker Johnson walks back talk about potentially leaving Congress - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmZJRTVPV2lTVkExTVU2QTByV0toSFF1MkpNOEhmOUU0YTN2WGFrQUhqWE55eHhOUmg3WkJJZjdfbktpcFBNZEIzbDF4bnB2TjNLVUVvenh4MjBkeWlPTXpCRnFfY012U3QtcU9UTG9yMEtkR3d5Smx3R0k5QmY2YnZMUElLS0gwTVUyZHhmRHNLTmlJb2ltWUZ4S1Bqd1dkRUlDZUlXVi1GazE5aTJwU1czekFCNTIwWXc?oc=5",
+        "summary": "Speaker Johnson walks back talk about potentially leaving Congress The Washington Post Speaker Johnson walks back talk about potentially leaving Congress - The Washington Post",
+        "published": "Mon, 12 Oct 2026 19:32:26 GMT",
+        "published_kst": "2026-10-13T04:32:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Stocks May Lack Direction Ahead Of Inflation Data, Earnings News - RTTNews",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWGtyMUd3UDZOZjlxN29mUVh4UHVPTjVPYU44ZTdOQ2NRVkRINXRmMUhsNVc0cmZYS0hpWkZZWE5HRjN5LXRyUXVndnVRczBoUjRabHJya3V2Qk0tMjJzRjM5NzNQdWZwMEw0eDhnMnJZLUswN0N0c0hIZExrM19GVFZ3Qmh4QkYwQmlPeXlnUm9ZM0p4WThGODR2WVVqbG1tdzJXc1BlcHk0UXhSbFB5aVZhaWNUZw?oc=5",
-        "summary": "Stocks May Lack Direction Ahead Of Inflation Data, Earnings News RTTNews U.S.",
-        "published": "Mon, 12 Oct 2026 12:50:00 GMT",
-        "published_kst": "2026-10-12T21:50:00+09:00",
+        "title": "Trump administration plans to move AI testing agency officials to White House, The Information reports - The Mighty 790 KFGO",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0xTZUVvdHdJRmdHcW5xV3FUNURDalM4ejVUNWJveGIyTUo2ZEhYSHNqNDFZaHkwZGdGNDd2dDFNbDBIM1NybW92ei10X3NmRTAzMllDU0p6cHEyLWpyd05PbDJQdGtJY2RZTndybU83cHBlanpET09vVWppdWgxNFhUZ24xUjNjYXlzMG9qUjVPZk1HU3Z1TTRBemRnNmlERkR6NWZPeUVPYUFCVlFQU1FPb2dveDdScDBFck93dW5xYjAxWHpVVjFR?oc=5",
+        "summary": "Trump administration plans to move AI testing agency officials to White House, The Information reports The Mighty 790 KFGO Trump administration plans to move AI testing agency officials to White House, The Information reports - The Mighty 790 KFGO",
+        "published": "Mon, 12 Oct 2026 19:21:51 GMT",
+        "published_kst": "2026-10-13T04:21:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Wealth Surges as Inflation Squeezes Consumers and Agriculture - AgroLatam",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTEtBZjB3eXZFd2ZITnNINlBHd1hfTTRUT1l3YkN0MkxqTEFJcTlzSW5KbUd5djMzamROOEhCWkRxUHdCc3ZGc3FwWVJIMTMySFdFemItZXB6algxQmoxeWVwYXVuRGR1S1VXaWoyUE9ZSkZYSTM4Wm9aY1Itb0dscVJmZ2hQa3llUWdSbw?oc=5",
-        "summary": "Wealth Surges as Inflation Squeezes Consumers and Agriculture AgroLatam U.S.",
-        "published": "Mon, 12 Oct 2026 12:29:33 GMT",
-        "published_kst": "2026-10-12T21:29:33+09:00",
+        "title": "White House AI Task Force Weighs Safety, US Competitiveness - MeriTalk",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEhVUGJrYlZhaEtjTWRIOEUwMWJTTjlFMkNvZU1nZHcycDR0V3B5TkRpTDNCTml5eVNyMHUwSGJJWDFIVG4yVjVCbmViQ1JSdWV5aTViakZOYlZWa1gxMlFlNVhmUHVTcmd0bGRrRk5oTk0xZmNHSnhFck44NEMxSXo5Sk9IY3FkNW1yUUhobW9RQjhBOHdnTw?oc=5",
+        "summary": "White House AI Task Force Weighs Safety, US Competitiveness MeriTalk White House AI Task Force Weighs Safety, US Competitiveness - MeriTalk",
+        "published": "Mon, 12 Oct 2026 19:15:43 GMT",
+        "published_kst": "2026-10-13T04:15:43+09:00",
         "domain": "google.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
+        "url": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
+        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Microsoft, Micron and Meta make news.",
+        "published": "Mon, 12 Oct 2026 18:47:58 GMT",
+        "published_kst": "2026-10-13T03:47:58+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "A massive trade just happened in surging shares of Snap",
+        "url": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
+        "summary": "Options traders bet on 30% rally in Snap A massive trade just happened in surging shares of Snap",
+        "published": "Mon, 12 Oct 2026 18:43:44 GMT",
+        "published_kst": "2026-10-13T03:43:44+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "30%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "\"반도체 호황에 가려진 저성장 그림자…잠재성장률 제고 시급\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GaG8xczZaeTBKb0p1N2lDanFqZktJSnhtTkxqcE4zb2pHendEd19Cd0JCSXU0QUxJX3Jja3FpSTlNLVJ1QmszR1FwbnBmcF9mU0l0YkVMYTlaQQ?oc=5",
-        "summary": "\"반도체 호황에 가려진 저성장 그림자…잠재성장률 제고 시급\" 한국경제 \"반도체 호황에 가려진 저성장 그림자…잠재성장률 제고 시급\" - 한국경제",
-        "published": "Mon, 12 Oct 2026 13:00:00 GMT",
-        "published_kst": "2026-10-12T22:00:00+09:00",
+        "title": "골판지 들고 韓 찾은 '40대 미술 월드스타' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EYUZjQWNuZ09yMVktTElIdDV6LVp6Ni1BeXlUdktNZ05KOE5pRVMzM3l1VDFZUHRMZjc2bVRMSWM5bXYwemptVjE4d05NUWJGQVhmQnlGVUExdw?oc=5",
+        "summary": "골판지 들고 韓 찾은 '40대 미술 월드스타' 한국경제 골판지 들고 韓 찾은 '40대 미술 월드스타' - 한국경제",
+        "published": "Mon, 12 Oct 2026 17:53:00 GMT",
+        "published_kst": "2026-10-13T02:53:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"한국 산업 경쟁력, 반도체 빼면 이미 하락세\" - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVngxSW9waU9wNFowTENPSjVwS3RMX2VMUnItbVFDTzdpbU5kLVI4cmZJVlJJYnFkNTd1alY1OHR4NnpJcW5CZldSMkRhVEE0bHA4QVVHTlZFVUk0RHQyajl3T1JMOFdsSXVESEdvMnZqY1dfejhhQ1hhbFBrXzNrR0pNN0o2OFlxcHpB?oc=5",
+        "summary": "\"한국 산업 경쟁력, 반도체 빼면 이미 하락세\" 조선일보 \"한국 산업 경쟁력, 반도체 빼면 이미 하락세\" - 조선일보",
+        "published": "Mon, 12 Oct 2026 12:36:00 GMT",
+        "published_kst": "2026-10-12T21:36:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -93,48 +108,37 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"EU, 중국산 하이브리드차 연 35만대로 수입 제한\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYcWlQR1lBcENlSGdMSzJMWERqSzQwbjh6TTJDSVpiaHZxVUdWMnlwdjZQbHVHQmNnbHYwa3BVZjRkN3d6Y2xfT0VwbEluOFZNemdlNm1kS29iQQ?oc=5",
-        "summary": "\"EU, 중국산 하이브리드차 연 35만대로 수입 제한\" 한국경제 \"EU, 중국산 하이브리드차 연 35만대로 수입 제한\" - 한국경제",
-        "published": "Mon, 12 Oct 2026 11:28:28 GMT",
-        "published_kst": "2026-10-12T20:28:28+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Global Manufacturers Step up Buying as Shortages Resurface - Procurement Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNektFTEQxV1Ztc2l0eG5MeDFrNnhURW5TWGJ3Vkg5UTJ1dUdncmtveE1tWGdlYUotNEJKZTN5VXBCYVlMS1dYbUpkME5YMy1PYVpJOVUyODFVX21rd0hFMFpFeTRxdTVSTG9tdlBQcWZHZ0Y5MFF6Wkczd0tsU0pHSkRzb2UwQ08tU3pXbmFWandGYld2?oc=5",
-        "summary": "Global Manufacturers Step up Buying as Shortages Resurface Procurement Magazine Global Manufacturers Step up Buying as Shortages Resurface - Procurement Magazine",
-        "published": "Mon, 12 Oct 2026 13:04:50 GMT",
-        "published_kst": "2026-10-12T22:04:50+09:00",
+        "title": "Hidden Networks That Drive Global Economy - Mirage News",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWnVnbkYtSVBtTTd2bjNVd3VXWGlXYk1GU00xZzRtRmo1MFNVWjNOZWpZc0tQcmx5SFNEUm55cjBVbllOclNWbEFNMG9PTXB6YlJjMmVNVlhhT0R2THUzaXNJdzRLU29ncXRIb2xUcm1QRDZsenBpMmN4YVp5TjhJWFBJQQ?oc=5",
+        "summary": "Hidden Networks That Drive Global Economy Mirage News Hidden Networks That Drive Global Economy - Mirage News",
+        "published": "Mon, 12 Oct 2026 19:30:00 GMT",
+        "published_kst": "2026-10-13T04:30:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "MANUFACTURERS RAMP UP PURCHASING IN SEPTEMBER AS GLOBAL DEMAND STRENGTHENS: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM1VYaVQ4bkdJR212UDdFV1N2UHc3djdGX1JLXzZQQk1WcWhDR3pqWjB3UkM5UDRLb0JNdHpnMDVjTkZ1QW5XY2VTbV80bW1xX0t6V2NKRTM4c3VJOHFHRUh0cGhZQkl1bmU3Rlg2dlJlYkVwRUd6aTlYZlpLcjBDeTZvQkVKd1J1dl9xajBOUE9BbVF2UU1LQTFBNHdLblNTb2VFSVBQaHVCXzQwNFMtMksxOWJUU0psb0dSZVFGRjlpOXFyb0hFc3pUcnhfLTN6WDJsenBOdENSRGhrYWpUNXIzYmpUUmQxcTltazcxRGQ0RGZqZDctYVU3eDlYc3Ix?oc=5",
-        "summary": "MANUFACTURERS RAMP UP PURCHASING IN SEPTEMBER AS GLOBAL DEMAND STRENGTHENS: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX PR Newswire MANUFACTURERS RAMP UP PURCHASING IN SEPTEMBER AS GLOBAL DEMAND STRENGTHENS: GEP GLOBAL SUPPLY CHAIN VOLATILITY INDEX - PR Newswire",
-        "published": "Mon, 12 Oct 2026 12:28:00 GMT",
-        "published_kst": "2026-10-12T21:28:00+09:00",
+        "title": "Raw Material Demand Surges Amid Supply Pressures - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWUZ6dnBQSlpVdktjS25maFNWRk90NFRJZXdWNU5PLXUwOUZOcWpZVEV0NzhYcmt0RF9TTlBnaTJGVUZieU5ET2I2ZGExVnliMEJwQ1V6QV9obG85ZWI5eVFZZGdETzB3cjdxN0xSZ2RHRXEyeGpLSUJ2R3R0cnJBRHZnRzU1a1RGTUFQb1d5VVlQcEZESXZBQVh2OG9tWFQ1RHRkVVhldHktNGQ0LWRQcEsyVEgzcHZKRDBjcnljSQ?oc=5",
+        "summary": "Raw Material Demand Surges Amid Supply Pressures Supply & Demand Chain Executive Raw Material Demand Surges Amid Supply Pressures - Supply & Demand Chain Executive",
+        "published": "Mon, 12 Oct 2026 18:53:39 GMT",
+        "published_kst": "2026-10-13T03:53:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US chip sector has deep supply chain exposure to China: SIA report - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMEFONGRTeGczTmU3THU5aW4tRTVGRE1JRnc0UE0xTElzQ0EtMERESDV3SzN6YTJrSl9PZEhGY0RpMEgwanRaX1BkbVhEcjltRE00bVA2cDlRNjJUUk5rZVRmUVMwYlRvRkFwTEZ3cDNqcVBwWnR5T3hBNGEwQkVmUlFBT3R5VDBiX3FxZnRpYzVVWmkzOWV4aVB6MkRwNGNUaGJENTAtTG5DZHlNdFEzTkUtWW9ocmZqb2Z6a3lwRTlQSDdZNzF3eNIByAFBVV95cUxQR1BCNG5RZU43d2pDanNsUUZHNUdQc2ZiZGFMcy1GWVE2bUQ5VkFqZENyQUZ1TXY5SlJKbkFob2ZVc01VNnJhTF9fMk91OC1uVFE4RWhWNjhZRHNweTNNT0Q3VzFjX3RhTHZTejZ1cUxEbDJhZ0JZblE5cUx2UWZKekt3c3REM2NpdHlGVmxhUXdIejVEU2Exc25hZEJoLU9WT0w5MHU1amlEdFhHeTc4Si1POVlfT240b1RjU0FPOWJKYXhhdmN3Nw?oc=5",
-        "summary": "US chip sector has deep supply chain exposure to China: SIA report South China Morning Post US chip sector has deep supply chain exposure to China: SIA report - South China Morning Post",
-        "published": "Mon, 12 Oct 2026 10:00:05 GMT",
-        "published_kst": "2026-10-12T19:00:05+09:00",
+        "title": "Descartes Unveils AI Agent Control Plane - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcG9LQUpkY0FHbjhmU2xEenVSUEVPeUxyRzl3MVpobFJsN0NYMUZUeFRtQ1RwbGtwcWd0RFF4R2pHUE8xODZKeHlHM1Fjem5VVDFHcGRUb0Jnb1lMejJrSE5aQVlHRUxoZ0hlYUZIdjZuSnJPOUJESTAwYzdjYjZGNG1icTE0dGN6bnFXbGJXQlV2TGItVFF1REVYU1ZfckNxNlBzS01DNEJQU2FRVXRzTjdPbmZYWC1wOGNLQTVtbXpQVm1uX0JYZA?oc=5",
+        "summary": "Descartes Unveils AI Agent Control Plane Supply & Demand Chain Executive Descartes Unveils AI Agent Control Plane - Supply & Demand Chain Executive",
+        "published": "Mon, 12 Oct 2026 18:53:38 GMT",
+        "published_kst": "2026-10-13T03:53:38+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -142,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. airlines of safety risks over Saudi Arabia after attacks / \"반도체 호황에 가려진 저성장 그림자…잠재성장률 제고 시급\" 한국경제 \"반도체 호황에 가려진 저성장 그림자…잠재성장률 제고 시급\" - 한국경제 / Global Manufacturers Step up Buying as Shortages Resurface Procurement Magazine Global Manufacturers Step up Buying as Shortages Resurface - Procurement Magazine",
+  "wrap_summary": "Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion. IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion / 골판지 들고 韓 찾은 '40대 미술 월드스타' 한국경제 골판지 들고 韓 찾은 '40대 미술 월드스타' - 한국경제 / Hidden Networks That Drive Global Economy Mirage News Hidden Networks That Drive Global Economy - Mirage News",
   "invest_summary": ""
 }
