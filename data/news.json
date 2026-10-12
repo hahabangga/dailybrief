@@ -1,109 +1,108 @@
 {
   "date": "2026-10-13",
-  "generated_at_utc": "2026-10-12T19:42:58Z",
-  "cutoff_kst": "2026-10-13T04:42:00+09:00",
+  "generated_at_utc": "2026-10-12T21:35:29Z",
+  "cutoff_kst": "2026-10-13T06:35:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
-        "url": "https://www.cnbc.com/2026/10/12/ionq-elisity-acquisition-cybersecurity.html",
-        "summary": "Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion. IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion",
-        "published": "Mon, 12 Oct 2026 19:35:48 GMT",
-        "published_kst": "2026-10-13T04:35:48+09:00",
+        "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+        "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
+        "summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr. Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
+        "published": "Mon, 12 Oct 2026 21:33:35 GMT",
+        "published_kst": "2026-10-13T06:33:35+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "New White House press secretary begins her term - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1dGR1VqSjZtc3pNNG96WjRiSzh6ZlNNRFluUmRHS0s0NFR6czN6T2RaQUVJS2I1WUtSbWVKX2VqWUlBZ19QZm9aQUgteGNzem96REdPMmd4Ni1PM2wtaV90VmRnMV8xNl9RQXFROUdBekZDTE5pZGlUUjFNU0JYc1NnRkQxT0NkUkJzZjIyMEJmaWREckctUUw5bVJTMXRZ?oc=5",
+        "summary": "New White House press secretary begins her term The Washington Post New White House press secretary begins her term - The Washington Post",
+        "published": "Mon, 12 Oct 2026 21:31:12 GMT",
+        "published_kst": "2026-10-13T06:31:12+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US Inflation Preview: September CPI Lands Before the Fed’s October Meeting - AskTraders.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSjloR1dxMEJTMzFiV0gtZEg2OVFtSGpRVlViTUJ1bW95VFFJRUlkbjR5TVhOcVRCd3kwZ01kcFVEa2JtbFBnNG5SZjRHU3ZCejBBa3U0WHNPUWtaMGZTdnVzT0thSllXdHFSdE5RZHI4X0wzSGxVRkpKdDVuWkNxZDZjSEM3RnNQUkxLM0Y2bldlcHQxOTU4bGVkRUkxdzBkMVoxMWY5T1pBbTd4N0E?oc=5",
+        "summary": "US Inflation Preview: September CPI Lands Before the Fed’s October Meeting AskTraders.com US Inflation Preview: September CPI Lands Before the Fed’s October Meeting - AskTraders.com",
+        "published": "Mon, 12 Oct 2026 21:31:00 GMT",
+        "published_kst": "2026-10-13T06:31:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Rep. Ilhan Omar’s home searched by federal agents in criminal probe - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenhTcUF0eV9qanBKUnNlaU9QV2EwNjhZUUlfMjc2QVNDOXpkcUJ3bVpnMW1sNlVFaFVHZlpkXzZxdDYwWUJtVG1OWk9iSzNrcVlVcEM2aXQ4Qk85cW9uRzh3RVE4SXZMMUV3MEhVcDN6bUNaNjJyd201S21ESmZDZndoVUQ3djQtdXVOX2VuZjVhek5rSGdJdExiRFpiQ05KcnVLa25tOV9CTjRfUFEyVHZxTG5Xd2ppT0tWT3BHYUtqaDYzMFE?oc=5",
+        "summary": "Ilhan Omar’s home searched by federal agents in criminal probe NBC News Rep.",
+        "published": "Mon, 12 Oct 2026 21:19:04 GMT",
+        "published_kst": "2026-10-13T06:19:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+        "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+        "summary": "Musk’s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government. Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+        "published": "Mon, 12 Oct 2026 21:17:58 GMT",
+        "published_kst": "2026-10-13T06:17:58+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$1.3"
+          "$276",
+          "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Speaker Johnson walks back talk about potentially leaving Congress - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSmZJRTVPV2lTVkExTVU2QTByV0toSFF1MkpNOEhmOUU0YTN2WGFrQUhqWE55eHhOUmg3WkJJZjdfbktpcFBNZEIzbDF4bnB2TjNLVUVvenh4MjBkeWlPTXpCRnFfY012U3QtcU9UTG9yMEtkR3d5Smx3R0k5QmY2YnZMUElLS0gwTVUyZHhmRHNLTmlJb2ltWUZ4S1Bqd1dkRUlDZUlXVi1GazE5aTJwU1czekFCNTIwWXc?oc=5",
-        "summary": "Speaker Johnson walks back talk about potentially leaving Congress The Washington Post Speaker Johnson walks back talk about potentially leaving Congress - The Washington Post",
-        "published": "Mon, 12 Oct 2026 19:32:26 GMT",
-        "published_kst": "2026-10-13T04:32:26+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump administration plans to move AI testing agency officials to White House, The Information reports - The Mighty 790 KFGO",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM0xTZUVvdHdJRmdHcW5xV3FUNURDalM4ejVUNWJveGIyTUo2ZEhYSHNqNDFZaHkwZGdGNDd2dDFNbDBIM1NybW92ei10X3NmRTAzMllDU0p6cHEyLWpyd05PbDJQdGtJY2RZTndybU83cHBlanpET09vVWppdWgxNFhUZ24xUjNjYXlzMG9qUjVPZk1HU3Z1TTRBemRnNmlERkR6NWZPeUVPYUFCVlFQU1FPb2dveDdScDBFck93dW5xYjAxWHpVVjFR?oc=5",
-        "summary": "Trump administration plans to move AI testing agency officials to White House, The Information reports The Mighty 790 KFGO Trump administration plans to move AI testing agency officials to White House, The Information reports - The Mighty 790 KFGO",
-        "published": "Mon, 12 Oct 2026 19:21:51 GMT",
-        "published_kst": "2026-10-13T04:21:51+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House AI Task Force Weighs Safety, US Competitiveness - MeriTalk",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEhVUGJrYlZhaEtjTWRIOEUwMWJTTjlFMkNvZU1nZHcycDR0V3B5TkRpTDNCTml5eVNyMHUwSGJJWDFIVG4yVjVCbmViQ1JSdWV5aTViakZOYlZWa1gxMlFlNVhmUHVTcmd0bGRrRk5oTk0xZmNHSnhFck44NEMxSXo5Sk9IY3FkNW1yUUhobW9RQjhBOHdnTw?oc=5",
-        "summary": "White House AI Task Force Weighs Safety, US Competitiveness MeriTalk White House AI Task Force Weighs Safety, US Competitiveness - MeriTalk",
-        "published": "Mon, 12 Oct 2026 19:15:43 GMT",
-        "published_kst": "2026-10-13T04:15:43+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Microsoft, Micron and Meta make news. Here's what the updates mean for our stakes",
-        "url": "https://www.cnbc.com/investingclub/2026/10/12/microsoft-micron-and-meta-make-news-what-it-all-means-for-our-stakes.html",
-        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Microsoft, Micron and Meta make news.",
-        "published": "Mon, 12 Oct 2026 18:47:58 GMT",
-        "published_kst": "2026-10-13T03:47:58+09:00",
+        "title": "Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
+        "url": "https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html",
+        "summary": "Small, consistent gains over time, compounded through regular contributions, can supercharge your wealth Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too",
+        "published": "Mon, 12 Oct 2026 21:02:09 GMT",
+        "published_kst": "2026-10-13T06:02:09+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "A massive trade just happened in surging shares of Snap",
-        "url": "https://www.cnbc.com/2026/10/12/a-massive-trade-just-happens-in-surging-shares-of-snap.html",
-        "summary": "Options traders bet on 30% rally in Snap A massive trade just happened in surging shares of Snap",
-        "published": "Mon, 12 Oct 2026 18:43:44 GMT",
-        "published_kst": "2026-10-13T03:43:44+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "30%"
-        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "골판지 들고 韓 찾은 '40대 미술 월드스타' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EYUZjQWNuZ09yMVktTElIdDV6LVp6Ni1BeXlUdktNZ05KOE5pRVMzM3l1VDFZUHRMZjc2bVRMSWM5bXYwemptVjE4d05NUWJGQVhmQnlGVUExdw?oc=5",
-        "summary": "골판지 들고 韓 찾은 '40대 미술 월드스타' 한국경제 골판지 들고 韓 찾은 '40대 미술 월드스타' - 한국경제",
-        "published": "Mon, 12 Oct 2026 17:53:00 GMT",
-        "published_kst": "2026-10-13T02:53:00+09:00",
+        "title": "\"실적쇼크 불가피\"…LG이노텍, 증권가 우려에 '추락' [종목+] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoa09xM2RVZ1Y1NVUybEpqOUpfZGdsWlFMdGNfUXlUc2M0ajUtREFiUHJjbzAwTHltVHUxR2RIbkVjc24zU2VKeTNTR080QkhXNWMxTDRQeHV3QQ?oc=5",
+        "summary": "\"실적쇼크 불가피\"…LG이노텍, 증권가 우려에 '추락' [종목+] 한국경제 \"실적쇼크 불가피\"…LG이노텍, 증권가 우려에 '추락' [종목+] - 한국경제",
+        "published": "Mon, 12 Oct 2026 21:30:01 GMT",
+        "published_kst": "2026-10-13T06:30:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"한국 산업 경쟁력, 반도체 빼면 이미 하락세\" - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVngxSW9waU9wNFowTENPSjVwS3RMX2VMUnItbVFDTzdpbU5kLVI4cmZJVlJJYnFkNTd1alY1OHR4NnpJcW5CZldSMkRhVEE0bHA4QVVHTlZFVUk0RHQyajl3T1JMOFdsSXVESEdvMnZqY1dfejhhQ1hhbFBrXzNrR0pNN0o2OFlxcHpB?oc=5",
-        "summary": "\"한국 산업 경쟁력, 반도체 빼면 이미 하락세\" 조선일보 \"한국 산업 경쟁력, 반도체 빼면 이미 하락세\" - 조선일보",
-        "published": "Mon, 12 Oct 2026 12:36:00 GMT",
-        "published_kst": "2026-10-12T21:36:00+09:00",
+        "title": "[속보] 트럼프 \"아시아 방문 중 김정은 만날 수도 있다\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Ra21LcGdEWm91OEpWTThmd3doNVpQSmoxaEpHZWI3d2hZZ01xT3pIMU5TRFRoek9fT1N1VXhZNmlGUVpKR2loWW5udHYyS3FYS2NQc0pjMU9NZw?oc=5",
+        "summary": "[속보] 트럼프 \"아시아 방문 중 김정은 만날 수도 있다\" 한국경제 [속보] 트럼프 \"아시아 방문 중 김정은 만날 수도 있다\" - 한국경제",
+        "published": "Mon, 12 Oct 2026 21:20:41 GMT",
+        "published_kst": "2026-10-13T06:20:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"구글 알고리즘이 한국 정치에 지나친 영향\"…국감서 논란 - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mcFUzbWxOeEc1T3p3Z2VReXBUM1hHUEVWSnd5UWdHQmtMaG1iMnZ1VzFjQ3NHVnFIbkVYMU5LcUZZOEdySXY3ZDA4UmxVcklqcUo3c2M0V2FZb3AzS1Z6Y3gzaUhvV2tO?oc=5",
-        "summary": "\"구글 알고리즘이 한국 정치에 지나친 영향\"…국감서 논란 뉴스1 \"구글 알고리즘이 한국 정치에 지나친 영향\"…국감서 논란 - 뉴스1",
-        "published": "Mon, 12 Oct 2026 12:20:45 GMT",
-        "published_kst": "2026-10-12T21:20:45+09:00",
+        "title": "[여기는 논설실] 반도체 슈퍼호황이 연 4만달러 시대…개혁의 절박함은 지우고 있다. - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JMkZva3lYTGpZWkItd0lWd0pRZ2dPR0ZnYXQ0SE1YRWdkbnl2ZEk1UGV1bXduV3J0OVVBSGFhcWxaY1RDbGJyZnJIN2JyZ0pET3MzbzhTM3p1UQ?oc=5",
+        "summary": "한국경제 [여기는 논설실] 반도체 슈퍼호황이 연 4만달러 시대…개혁의 절박함은 지우고 있다.",
+        "published": "Mon, 12 Oct 2026 21:00:07 GMT",
+        "published_kst": "2026-10-13T06:00:07+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +145,6 @@
       }
     ]
   },
-  "wrap_summary": "Quantum computing platform is buying cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion. IonQ to acquire cybersecurity firm Elisity in an all-stock deal for up to $1.3 billion / 골판지 들고 韓 찾은 '40대 미술 월드스타' 한국경제 골판지 들고 韓 찾은 '40대 미술 월드스타' - 한국경제 / Hidden Networks That Drive Global Economy Mirage News Hidden Networks That Drive Global Economy - Mirage News",
+  "wrap_summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr. Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece / \"실적쇼크 불가피\"…LG이노텍, 증권가 우려에 '추락' [종목+] 한국경제 \"실적쇼크 불가피\"…LG이노텍, 증권가 우려에 '추락' [종목+] - 한국경제 / Hidden Networks That Drive Global Economy Mirage News Hidden Networks That Drive Global Economy - Mirage News",
   "invest_summary": ""
 }
