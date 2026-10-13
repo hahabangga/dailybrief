@@ -1,145 +1,144 @@
 {
   "date": "2026-10-13",
-  "generated_at_utc": "2026-10-13T08:37:48Z",
-  "cutoff_kst": "2026-10-13T17:37:00+09:00",
+  "generated_at_utc": "2026-10-13T12:59:38Z",
+  "cutoff_kst": "2026-10-13T21:59:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "U.S. Treasury yields fall as energy prices pull back",
-        "url": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
-        "summary": "Bond yields fell on Tuesday as investors await more economic data releases this week. Treasury yields fall as energy prices pull back",
-        "published": "Tue, 13 Oct 2026 08:31:37 GMT",
-        "published_kst": "2026-10-13T17:31:37+09:00",
+        "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+        "url": "https://www.cnbc.com/investingclub/2026/10/13/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+        "summary": "The chip stock rout seems to know no end. But earnings from Club names Goldman Sachs and Wells Fargo are all better than expected.",
+        "published": "Tue, 13 Oct 2026 12:54:50 GMT",
+        "published_kst": "2026-10-13T21:54:50+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US Stock Market Today: S&P 500 Futures Edge Up As Inflation Data Looms - Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU210YURyVzdYNmNVOUtKOVJGc2RidGF6MUEyTjNsRU1EQm44SDFQaThNaFBRa0ZXX3hJbG1FTjFsT0RXblFTRzBwalc4VFYwNzFHT3h1WWFzUmVDbzJDeDhrNlJuLUY3LVJHNTVaQnlqYXVMUTJfYlNDQURIci1SblBISEw5QTVEV2pDdGQwNDZwcmVmVjBha0FjMGRNYTBvYVBvV3dWV2tlVFdZV3ZIVGtHb2xXNEJPeXfSAb8BQVVfeXFMUFRidHphZTRuMnlSVTdCdFRrN09hNkFtSzNES19zelZIOUp6NjNJREFGMkFoNDBxN3N2bXBVdGVIQ1pFdk45MUNBdmJPcEpLR0dFeFNRVkdBTmRnZGY4NlR5WDNEUzlKbm5Zc2ZZU0xicGlLc0VOZkFMTTEwTFdEWWRsSnVudFgwYms4aW5YSUV1bklaMHU3MS03d1N3eXowUVpRV0NZYkFCT1FEVFV1c281Q3VGRkNZNnJqQ2pfYUE?oc=5",
-        "summary": "US Stock Market Today: S&P 500 Futures Edge Up As Inflation Data Looms Simply Wall Street US Stock Market Today: S&P 500 Futures Edge Up As Inflation Data Looms - Simply Wall Street",
-        "published": "Tue, 13 Oct 2026 08:30:44 GMT",
-        "published_kst": "2026-10-13T17:30:44+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
-        "url": "https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html",
-        "summary": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires. Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
-        "published": "Tue, 13 Oct 2026 08:28:59 GMT",
-        "published_kst": "2026-10-13T17:28:59+09:00",
+        "title": "Six Flags shares decline following report of deadly roller coaster incident",
+        "url": "https://www.cnbc.com/2026/10/13/six-flags-shares-plunge-after-hours-deadly-roller-coaster-incident-goliath-georgia.html",
+        "summary": "One person died and several others were injured in an incident involving the Goliath roller coaster at Six Flags Over Georgia, according to reports. Six Flags shares decline following report of deadly roller coaster incident",
+        "published": "Tue, 13 Oct 2026 12:54:14 GMT",
+        "published_kst": "2026-10-13T21:54:14+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Anthropic warns AI models could soon copy themselves across home devices",
-        "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-        "summary": "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue. Anthropic warns AI models could soon copy themselves across home devices",
-        "published": "Tue, 13 Oct 2026 08:27:20 GMT",
-        "published_kst": "2026-10-13T17:27:20+09:00",
+        "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+        "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+        "summary": "semiconductor shares spilled into Asian and European markets. Technology stocks tumbled Tuesday as a sell-off in U.S.",
+        "published": "Tue, 13 Oct 2026 12:50:01 GMT",
+        "published_kst": "2026-10-13T21:50:01+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Dollar Consolidates in Wave Four as T-Note Futures Rebound Ahead of US CPI - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGxlTkpmdkZSZmRDeUhPX1dLUlhkU1dma2RpNG1yMW1Xa3ZGc3pkNW05bkRMSkhqc2pyNG5xUXIwVTg5TnNkTzhYMUZkYjgxc1lnX25xaEJXOW5QQmh0dXVCYUZPSlB0R1pKOWpUMW1oZjVuUHdDOV9Kbks5YTFtcGhPazFqM0tRaFdCU1dTNmVKcjA2cWhHeXlCVklvdThiMm5iV00zaE91UF85dDN0Rkx0R1RrYWdjUmc?oc=5",
-        "summary": "Dollar Consolidates in Wave Four as T-Note Futures Rebound Ahead of US CPI Barchart.com Dollar Consolidates in Wave Four as T-Note Futures Rebound Ahead of US CPI - Barchart.com",
-        "published": "Tue, 13 Oct 2026 07:57:30 GMT",
-        "published_kst": "2026-10-13T16:57:30+09:00",
+        "title": "Preview: Due October 14 - U.S. September CPI - Stronger, but with a slower core rate - Continuum Economics",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdWN2bmVQSVg4MVZNS2pZVnQ5SDJxZDhtMVdYdkVfamhjd09lYm5IRldheU1fRlhLVlNrYlh5VXpfUjlFSUkxWU9UUGlMS0czb2NBZHc1Vkw1dFJJNWJYdUFtRzN5QTNJV2lhYnVtVnB3aVhyRFRVLWVlVF9XVVlQdUt4M09ZMHh1cmV4aFk0WFNOWjkyQzV6SEVmcFhiYkFhdjVodHQyTXdXS1BuZnFrOFdGTXA4bXdFSFE?oc=5",
+        "summary": "September CPI - Stronger, but with a slower core rate Continuum Economics Preview: Due October 14 - U.S. Preview: Due October 14 - U.S.",
+        "published": "Tue, 13 Oct 2026 12:33:00 GMT",
+        "published_kst": "2026-10-13T21:33:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "IMF forecasts US inflation will pick up in 2026 before easing next year - EL PAÍS English",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHZxbUJWVU5pd2c2U2NRWUVyX0ZhdmpXYmlOQmM3NXZ0MFRLUUEzdFBmRDlKYi1pa1hfdkFrZnNKdW5kangwM1JPX3VRTldKNmJCV0poeFFfOC1uU3A0eF9nN3l4RUlOZV80bnpsM2xDR2o1V0piYzZ4QVQ1QWprTXhxMG9PX3hva0NYYUpvV3kyWUFyMkRIMEd0OHoydXlFZG02bXBHMktvdjc5SnkxdW5UMjRsM0IxY1hycnpZdVd5RVAwdlFBQVVKdDcyNlVT0gHkAUFVX3lxTE82ZTlkcldFRVNOWXFFekNsVm1BQkhvOTJ1T2tka3JfSDFHWFoyaWVTaGRDM0dFRW5XQUtfdm5TMnR1SUVIUTQ5b0c3M1RWa3pvNDkyV0d5dGt0TzZ3WXR5Tk5RZTlLRTRfLTd4ZGNSbG8tUVc2QjZRQlhPYUUwd3M3WWIybTR0cUJRRjdIM2c0NEFEajVNTUxXMTRSRC1ESGF6RmdMcGxqZ1g4UWdfVDBmNVdHV3BrVUF6NXpNRVl5cVZBQy1qeE5mbmh5VkNMRjc1NGRjM1AwLXNCaG9EeVFoSHhnaw?oc=5",
-        "summary": "IMF forecasts US inflation will pick up in 2026 before easing next year EL PAÍS English IMF forecasts US inflation will pick up in 2026 before easing next year - EL PAÍS English",
-        "published": "Tue, 13 Oct 2026 07:30:27 GMT",
-        "published_kst": "2026-10-13T16:30:27+09:00",
+        "title": "Watch live: Katie Zacharia holds first briefing as White House press secretary - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHF1bk9GUUE0enJLVHNfTGl1c25seW9Xd3BIeFpZMGNSbGlFTTJPVHRGVUw4clF2S21PTUI1SVpzRWlrX1FYck4taENJZGt0aGhuWXBuNzdaMWZfdkpPSHppRlJYa0JTZjhVVldDUGY1VThCUUdzZ0ZONFhKTGVVZ3BsSmxucmpaTDY1NEZCZFlwMEFCX2pradIBngFBVV95cUxPRmNVTjZMZTZOal84ZmkwTk9UY0pxM3NSU09VNjhsWDdpU2pFSC1yN2Nla2RCeVFYLVNQM09yQXFtSUFxVnZWSGhXQnpfQ081dl9PSzBaRml5Zmo3WmNGV1RLbHdlaVZXQzJBV0xiZk1jZG9uXzRpR0dQTDRMdWxtWnRTME9iSjRDb3ZndkUxck9INDdsbUlSTHA1aHZUUQ?oc=5",
+        "summary": "Watch live: Katie Zacharia holds first briefing as White House press secretary The Hill Watch live: Katie Zacharia holds first briefing as White House press secretary - The Hill",
+        "published": "Tue, 13 Oct 2026 12:07:00 GMT",
+        "published_kst": "2026-10-13T21:07:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Wisconsin Democrats sue over taxpayer-funded White House political ads - WBAY",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUl8yT1RDdU1MUGJTUWJFdFdld2VrN0FGX0pxRkVERGVQdW52TlFZcHdFSHFMWUFvS2pvcTRKdVExX3NqbEd1bGR1aW9KZUdFclRWeTk4WVVQQnozOWx2eFNQOVpzNkE3OEQxT3M0ZEdGWnhtREY5VE44SHdCLVdDN1dKemFpNHNhOEJUbHFaSGdGNlNXb1l4R0IyR1lNdDJla2F2bW1SUU1jbzhyMkE?oc=5",
+        "summary": "Wisconsin Democrats sue over taxpayer-funded White House political ads WBAY Wisconsin Democrats sue over taxpayer-funded White House political ads - WBAY",
+        "published": "Tue, 13 Oct 2026 12:06:00 GMT",
+        "published_kst": "2026-10-13T21:06:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "호남 반도체팹 수혜주, 이틀 연속 '고공행진' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyZ0FXcU0zdllUZzY2TkR5Wk9sRk1Tc2UzNVdINW84NVFCVHdsWlNsQjlVeG41eGRNX0NpRE9NWmhxTEVMcjl5RERYVG10UWt1Y293aDk0aW51dw?oc=5",
-        "summary": "호남 반도체팹 수혜주, 이틀 연속 '고공행진' 한국경제 호남 반도체팹 수혜주, 이틀 연속 '고공행진' - 한국경제",
-        "published": "Tue, 13 Oct 2026 08:33:54 GMT",
-        "published_kst": "2026-10-13T17:33:54+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "노근창 \"AI 가속기 전쟁 본격화…삼성전자·TSMC 담아라\" [한경 넥스트 머니포럼] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jRVl5alJQQlNIbWlHUFJveFkyRlhyTmFZSHdMZnFmOTFPcVpyaEJRM2Ztc095R0w4RTJYMVNyRjZoXzVaNXIyMmlpY1ZXbmowTzRQNVNUb2pZZw?oc=5",
-        "summary": "노근창 \"AI 가속기 전쟁 본격화…삼성전자·TSMC 담아라\" [한경 넥스트 머니포럼] 한국경제 노근창 \"AI 가속기 전쟁 본격화…삼성전자·TSMC 담아라\" [한경 넥스트 머니포럼] - 한국경제",
-        "published": "Tue, 13 Oct 2026 08:17:50 GMT",
-        "published_kst": "2026-10-13T17:17:50+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "브라질 21% 뛸 때 코스피 29% '털썩'…글로벌 랠리 역주행 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EVXZibFBRalNJUlotbTRPanI3V3lsdXlLdy1nOThpZ1hiOVllM0F0VGdNc3d0aVFFLU00Zl9aT29kYnQtb1BOZHdSZms5LWZYcmM1dWluSG84dw?oc=5",
-        "summary": "브라질 21% 뛸 때 코스피 29% '털썩'…글로벌 랠리 역주행 한국경제 브라질 21% 뛸 때 코스피 29% '털썩'…글로벌 랠리 역주행 - 한국경제",
-        "published": "Tue, 13 Oct 2026 07:51:38 GMT",
-        "published_kst": "2026-10-13T16:51:38+09:00",
+        "title": "IMF, 올해 한국 경제성장률 3.3% 전망 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0N1SU1Ud1JuOHZHeFEyVGRoS0pvVXNUbWtuclJ0b0h1a2taNE5BOThQYmZvM3Z2cnFmdFFUaTNEVHAtM1pMMGV4cWNfVDUzZm8tOERwSy00c21LUXVibGxldm4xUE1Pc005MjBvVXVDNUV6bjNoXzdjWlJXWmJseVRWVU5KaEd2empv?oc=5",
+        "summary": "IMF, 올해 한국 경제성장률 3.3% 전망 글로벌이코노믹 IMF, 올해 한국 경제성장률 3.3% 전망 - 글로벌이코노믹",
+        "published": "Tue, 13 Oct 2026 12:17:20 GMT",
+        "published_kst": "2026-10-13T21:17:20+09:00",
         "domain": "google.com",
         "key_figures": [
-          "21%",
-          "29%"
+          "3.3%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "IMF, 올해 한국 경제성장률 3.3%로 상향 - 연합뉴스TV",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mbTlVU0d0UHFCMzdub0hDcnhkUnhvT1pIaGtJM0tjRjFPRFpGVVVSa3hXSTZmUHBRSkNXOWR3NFVkYzNpOEF0Z1pWT0pxVkIwNDFfQnZqd3FVR0MtRmZlek9ERTVIeG8?oc=5",
+        "summary": "IMF, 올해 한국 경제성장률 3.3%로 상향 연합뉴스TV IMF, 올해 한국 경제성장률 3.3%로 상향 - 연합뉴스TV",
+        "published": "Tue, 13 Oct 2026 12:07:00 GMT",
+        "published_kst": "2026-10-13T21:07:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "3.3%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"예금 빼야 하나\"…증권사 손해 보면서 '파격' 금리 내건 이유 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ORl9aeHBaUGtjUWNEMkpCdXlLN2JxTkZJSTY4M2NOU0lubE1BQmlCZmhnam9NbU9yU3VvdjRBenR5T3dXTTlwMWJRdlg1QWhrazFqSkxtMlFEQQ?oc=5",
+        "summary": "\"예금 빼야 하나\"…증권사 손해 보면서 '파격' 금리 내건 이유 한국경제 \"예금 빼야 하나\"…증권사 손해 보면서 '파격' 금리 내건 이유 - 한국경제",
+        "published": "Tue, 13 Oct 2026 11:58:00 GMT",
+        "published_kst": "2026-10-13T20:58:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Why LNG demand growth requires a stronger global supply chain - Energy Connects",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDlsTmxIU2tEbmRVN0g0bjJFcGJMSTVTNDVOZlpBNHhXTWcxcUR0UEdUcGt3MmI0SUZ6OTZKWFVJME56cFJ1ZUtFcmdTcDZnczNPVXIzaEV3a3dlTlJ3eVBNbXVubFc4SlBOb2Q3NWlTeFlacE9VeWlOMjFlZmJaTmtJTjFTbDhneTBiLUo4ZkdtblAtVWZfc2lxSFlCVjVxVkRfTXpvd0J0dzdubXA0SnNqbDFKYXdPeVYtc2RZOGM0bU5ScFhGZFlR?oc=5",
-        "summary": "Why LNG demand growth requires a stronger global supply chain Energy Connects Why LNG demand growth requires a stronger global supply chain - Energy Connects",
-        "published": "Tue, 13 Oct 2026 08:13:24 GMT",
-        "published_kst": "2026-10-13T17:13:24+09:00",
+        "title": "France Seizes Russian 'Shadow Fleet' Tanker Amid Oil Sanctions - Global Banking & Finance Review",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY24xdUtxTmNaTWRZMmNyRmY2R2E2aktma1REdEtQVzZJVTBFenNYUjB4QUpQVWZPblpmaDBNOE1ERmRsY2xDSmJDU0lOcHJIQXhORzV6UVBNeUxTOUZxOEQzNmZKUlkyZnZXZEZhV0xaaFE1WXJnODRFelB5ZmZLWXJGN2cwX0JMSlpmWjVvTlM2VzhwMk9HVERSVVFCQQ?oc=5",
+        "summary": "France Seizes Russian 'Shadow Fleet' Tanker Amid Oil Sanctions Global Banking & Finance Review France Seizes Russian 'Shadow Fleet' Tanker Amid Oil Sanctions - Global Banking & Finance Review",
+        "published": "Tue, 13 Oct 2026 12:36:55 GMT",
+        "published_kst": "2026-10-13T21:36:55+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "ADM Advances Nature’s Gold Regenerative Flour Program with Segregated Supply Chain - Perishable News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTFdWZEZIR1o3dktBVFBOSWpnV0E5bFdwSEhVY2xXX2R0dS1mRG1aRzJZbXU4WDZRcUVaOF9teW1uOTI5aWp5TjRSWXhwaVZidGE4SzBnSGFUUzNBSktzU0pTeTNSRDBwUDUwcUNZald6T2xJWS1QdVNUamx5d2pZVEVraUJNbkQ5NHpfekhiVkh5dUtjYk52Q2pNTlRYcjNERXZBc0RCc0d1NERKaFJBbW9QVjFHWEE?oc=5",
-        "summary": "ADM Advances Nature’s Gold Regenerative Flour Program with Segregated Supply Chain Perishable News ADM Advances Nature’s Gold Regenerative Flour Program with Segregated Supply Chain - Perishable News",
-        "published": "Tue, 13 Oct 2026 08:02:10 GMT",
-        "published_kst": "2026-10-13T17:02:10+09:00",
+        "title": "Exploring Amazon's Supply Chain Decarbonisation Journey - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0R0NG1INDJnc1NfR0podFExeU5oZ3pSLXQxb1pvRTJ1enViak1VTDNIZEdUWUpNQngzRE5EQWlsMDNNVFlWbG42SGQxX0tVa3lNOVRQc3JaUWljZjRSb2NyN3F6bk92T3Itbl9iUlR3cWQyZWRuaTI0ZkdkOUMxSF9MRTlTc19HTDFocXd1VFpxUFBD?oc=5",
+        "summary": "Exploring Amazon's Supply Chain Decarbonisation Journey Supply Chain Digital Magazine Exploring Amazon's Supply Chain Decarbonisation Journey - Supply Chain Digital Magazine",
+        "published": "Tue, 13 Oct 2026 12:00:46 GMT",
+        "published_kst": "2026-10-13T21:00:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "pladis names new supply chain chief - Food and Drink International",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zZUd6el83Z3g0dk1XX3VYdnZ6QXNnR0pBTDlTMXRrZmU4MFk3bjFDQzZDQ1BTMzVocmZFQ1pZTlFKS3BlUEx4ajdIYVVtdTdIRWVmbnhQTXJkZUhsOGhTWVBpSkNoRTFnWGVnSmJqcGctR3NETDA0bEV1NWVGam8?oc=5",
-        "summary": "pladis names new supply chain chief Food and Drink International pladis names new supply chain chief - Food and Drink International",
-        "published": "Tue, 13 Oct 2026 07:54:36 GMT",
-        "published_kst": "2026-10-13T16:54:36+09:00",
+        "title": "Transportation Disruption Risk Highest in 3 Years - Material Handling & Logistics",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHplcnhiTlE0Z1hPd2Z0NVZ2YXlPb25BYjdOeTdVN3BTWmZPSC1ad09kT1V1VW9ORHdUR3gtdFZYWWFWSGc0OGExcjBiVnQtOTNlTGFXaXpMX1NrOFRaSkFQVUtHQ3RSNGlkeXZJV0VJYm10QUl3S0Q4amhlUHJ1RDVqd3NiUWw0aE4wMnNaVFVUOWx6dEh2LW5VX2M5YTRWek1SeVoyMlNva1k?oc=5",
+        "summary": "Transportation Disruption Risk Highest in 3 Years Material Handling & Logistics Transportation Disruption Risk Highest in 3 Years - Material Handling & Logistics",
+        "published": "Tue, 13 Oct 2026 11:41:45 GMT",
+        "published_kst": "2026-10-13T20:41:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -147,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Bond yields fell on Tuesday as investors await more economic data releases this week. Treasury yields fall as energy prices pull back / 호남 반도체팹 수혜주, 이틀 연속 '고공행진' 한국경제 호남 반도체팹 수혜주, 이틀 연속 '고공행진' - 한국경제 / Why LNG demand growth requires a stronger global supply chain Energy Connects Why LNG demand growth requires a stronger global supply chain - Energy Connects",
+  "wrap_summary": "The chip stock rout seems to know no end. But earnings from Club names Goldman Sachs and Wells Fargo are all better than expected. / IMF, 올해 한국 경제성장률 3.3% 전망 글로벌이코노믹 IMF, 올해 한국 경제성장률 3.3% 전망 - 글로벌이코노믹 / France Seizes Russian 'Shadow Fleet' Tanker Amid Oil Sanctions Global Banking & Finance Review France Seizes Russian 'Shadow Fleet' Tanker Amid Oil Sanctions - Global Banking & Finance Review",
   "invest_summary": ""
 }
