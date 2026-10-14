@@ -1,27 +1,16 @@
 {
   "date": "2026-10-14",
-  "generated_at_utc": "2026-10-14T06:50:07Z",
-  "cutoff_kst": "2026-10-14T15:50:00+09:00",
+  "generated_at_utc": "2026-10-14T10:40:00Z",
+  "cutoff_kst": "2026-10-14T19:40:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "NZD Holds Near Highs Ahead of U.S. CPI Release - TradingPedia",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXFGRkR5UHZVWWV1Sjc0S1RXUkVZaEViU2ZZWFVhbUdqLXNvZU9NcmZ0TVh1VzRFUmIwM0ZuN203RHVMZXZldzB0c01jYzhPM0ZTSy1oVVYwbHR2WXFmOUNCX1BuR0FEVkloUkwtTW4wWTVyMU16UHgtcGtqQkZzNG1Dblh6bVFwa2lZR2dvWQ?oc=5",
-        "summary": "CPI Release TradingPedia NZD Holds Near Highs Ahead of U.S. CPI Release - TradingPedia",
-        "published": "Wed, 14 Oct 2026 06:29:51 GMT",
-        "published_kst": "2026-10-14T15:29:51+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Asia shares inch up as chip selloff eases; US CPI awaited By Reuters - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWERzNFRyV3BiNDVuS2wwQ3ZheDlKVVdweDJJUXNVV1Mwdm80SW5QWEJpU2JHcmEwS3VINUh3MldSdVR6WmtmRmcwRzZTeF9hSm90UzdLcThGcU8zaU4wTVJPYXY0N3J4RzNMVHZzUDJNVm4yN21ud2g1Z1hheGhxYlZYX3JJMkFkNmVHNUxpRFRRZWIwLVlWY0xrdWhqbGFZS0wyWURNcUcySXNF?oc=5",
-        "summary": "Asia shares inch up as chip selloff eases; US CPI awaited By Reuters Investing.com Asia shares inch up as chip selloff eases; US CPI awaited By Reuters - Investing.com",
-        "published": "Wed, 14 Oct 2026 06:22:30 GMT",
-        "published_kst": "2026-10-14T15:22:30+09:00",
-        "domain": "google.com",
+        "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+        "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+        "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher. Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
+        "published": "Wed, 14 Oct 2026 10:33:13 GMT",
+        "published_kst": "2026-10-14T19:33:13+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -30,45 +19,58 @@
         "title": "Judge deals another blow to Trump’s White House media bans - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekQ5ZC1NVVZMSksyZnYwcUc2VGFmSmJZNkp3cWVUX0N3bHBDMEF1RDJOT1I3dzFJVmN0dTlyQVlfVWlIMG9ubXM2SXktUktfbnA5U0Iyb09Dem5oNDhleEY1Y3pKUmtGejdOb2FncXhPdnpSV1A4SXAxeGg5SmVfSUIwZVBqWVNUV0hIM2JldldZY0djekpIenk1amhZelkyYkV1NWpuLXJfZw?oc=5",
         "summary": "Judge deals another blow to Trump’s White House media bans The Washington Post Judge deals another blow to Trump’s White House media bans - The Washington Post",
-        "published": "Wed, 14 Oct 2026 06:16:55 GMT",
-        "published_kst": "2026-10-14T15:16:55+09:00",
+        "published": "Wed, 14 Oct 2026 10:21:09 GMT",
+        "published_kst": "2026-10-14T19:21:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
-        "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html",
-        "summary": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand. ASML says it's getting order interest through 2030 as profit smashes expectations",
-        "published": "Wed, 14 Oct 2026 05:56:11 GMT",
-        "published_kst": "2026-10-14T14:56:11+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2030",
-          "2029"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
-        "url": "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
-        "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House. Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
-        "published": "Wed, 14 Oct 2026 05:19:36 GMT",
-        "published_kst": "2026-10-14T14:19:36+09:00",
-        "domain": "cnbc.com",
+        "title": "Federal judge grants preliminary injunction continuing to block Trump's media ban - 6abc Philadelphia",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVBxUFRlSW5COWw5QV9kdXFaZDJtVEVGeFVLMlFZb3RCMnc1TFdjQ1p1cl9FYmhvMFVGMlRrUzNmQTd4QWZ6WlZ1YmNPN05LeGRFN2w3YUk3V3AtTDhmZGRKN0ZLWTVheElVWUkyRzFwRVYxQ3MtR05vRnNhbDg3blJ6dFhEajU0bEMtOURlN2REaGFmYmY5WEw2aTJBWU05eUJQMFdiM0c2dnVueWZSWHd4ZjBjMmRfYVFvd2FIdlR0ZnIyVFE?oc=5",
+        "summary": "Federal judge grants preliminary injunction continuing to block Trump's media ban 6abc Philadelphia Federal judge grants preliminary injunction continuing to block Trump's media ban - 6abc Philadelphia",
+        "published": "Wed, 14 Oct 2026 10:18:52 GMT",
+        "published_kst": "2026-10-14T19:18:52+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
-        "url": "https://www.cnbc.com/2026/10/14/crypto-bosses-ceos-and-f1-singapore-events-boom-gathers-pace-.html",
-        "summary": "Singapore's Formula 1 race week is a major business draw as a growing number of conferences coincide with the Grand Prix. Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
-        "published": "Wed, 14 Oct 2026 04:41:29 GMT",
-        "published_kst": "2026-10-14T13:41:29+09:00",
+        "title": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
+        "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+        "summary": "Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday. Bank of America is set to report third-quarter earnings – here’s what the Street expects",
+        "published": "Wed, 14 Oct 2026 10:15:01 GMT",
+        "published_kst": "2026-10-14T19:15:01+09:00",
         "domain": "cnbc.com",
+        "key_figures": [
+          "$1.2"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+        "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
+        "summary": "Hispanic and Latino voters swung hard for President Donald Trump in 2024. South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
+        "published": "Wed, 14 Oct 2026 10:00:01 GMT",
+        "published_kst": "2026-10-14T19:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2024",
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "French Bond Yields Ease Ahead of US Inflation - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGNnZ1lTR1VZYzROeGNUWXNDa1c3VnFRTlI3eVB4RDY4VGNkbm5kaFZ3MUthS0s0YklxT2MxMFo2MHhQYXI4cTFVc3lwcGNGQURaWTRFZEJ1by1tb3dTZGQyemZub3dVVlhzcGdhOTdma182Tmtra21LeDRTRGdmN24xNk11S25faU5TTFNZaTJwLVRmR0VyaW1vZTE?oc=5",
+        "summary": "French Bond Yields Ease Ahead of US Inflation TradingView French Bond Yields Ease Ahead of US Inflation - TradingView",
+        "published": "Wed, 14 Oct 2026 09:56:34 GMT",
+        "published_kst": "2026-10-14T18:56:34+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -76,33 +78,33 @@
     ],
     "kr": [
       {
-        "title": "현대차 주가 뚝 떨어졌는데…한온시스템 '나홀로 질주' 왜 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOTFuaHI1bDhmOExFOF9uZTN3dE1YSm5jM0Y4enB0d083MHZiVG83c0JmTTVWcmVZa200VkVKYjQ5dnJhNWZVZ2VyWlIzaW02RVo4Mk9XTXJMUQ?oc=5",
-        "summary": "현대차 주가 뚝 떨어졌는데…한온시스템 '나홀로 질주' 왜 한국경제 현대차 주가 뚝 떨어졌는데…한온시스템 '나홀로 질주' 왜 - 한국경제",
-        "published": "Wed, 14 Oct 2026 06:46:36 GMT",
-        "published_kst": "2026-10-14T15:46:36+09:00",
+        "title": "성일종 의원 “한국발전공사 본사는 반드시 태안으로\" - 글로벌뉴스통신GNA",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSWwyUkpvOHNITW9qVVFGVWpreEtrWWZ3T2hkT25LbGZBWDJkWU9SODU5eFlrdEo3cW5SejByLVd4NzdTbnp2OEs4alZDeGJfbl83RFFCbGc0QXgxVTN1SUpFMmY3aWRmQm14RG52Um5XRWND?oc=5",
+        "summary": "성일종 의원 “한국발전공사 본사는 반드시 태안으로\" 글로벌뉴스통신GNA 성일종 의원 “한국발전공사 본사는 반드시 태안으로\" - 글로벌뉴스통신GNA",
+        "published": "Wed, 14 Oct 2026 10:21:08 GMT",
+        "published_kst": "2026-10-14T19:21:08+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "신현송 한은 총재 \"AI 호황, 중동전쟁 악영향 압도…물가엔 상승압력\" - MTN 머니투데이방송",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qZkVjMURHZzdDc0xnSHprTFVRUmJzVHUya2N1cVI4b1p3YkZTUnNPV19OdF9IVFoxWmJJc3dkcGlvUFNNSE43OC1YakVTYmFjLThqaXdYVWxCa0IwYVhr?oc=5",
-        "summary": "신현송 한은 총재 \"AI 호황, 중동전쟁 악영향 압도…물가엔 상승압력\" MTN 머니투데이방송 신현송 한은 총재 \"AI 호황, 중동전쟁 악영향 압도…물가엔 상승압력\" - MTN 머니투데이방송",
-        "published": "Wed, 14 Oct 2026 06:40:00 GMT",
-        "published_kst": "2026-10-14T15:40:00+09:00",
+        "title": "\"한국 수출 회복·인플레 압력 완화…中 성장둔화가 리스크\" - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WRTJmYm9RRVhlVzd2dm11NmNicTI1dDBYOHhkaFowdzhDdDNaSEU2OVdRbVZ2eXNMdGNHNHI2Z2FmR3NkMlFHa0hKaXRCZzNM?oc=5",
+        "summary": "\"한국 수출 회복·인플레 압력 완화…中 성장둔화가 리스크\" 매일경제 마켓 \"한국 수출 회복·인플레 압력 완화…中 성장둔화가 리스크\" - 매일경제 마켓",
+        "published": "Wed, 14 Oct 2026 10:09:32 GMT",
+        "published_kst": "2026-10-14T19:09:32+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "신현송 “한국, 심각한 K자형 경제 겪고 있어” - 천지일보",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Nc25WcGVtbDhBcGxUUHVHZXUzOEtVUFBaazdfdUs1UzRaWDZNVmVrQWZlZENIaUNKRlFKd3Z3elliZEp3VkJqNDJpa01NYm5nRmdHQjZzLWdnaWR6ODhaUmJCTGs1QTY5d2c?oc=5",
-        "summary": "신현송 “한국, 심각한 K자형 경제 겪고 있어” 천지일보 신현송 “한국, 심각한 K자형 경제 겪고 있어” - 천지일보",
-        "published": "Wed, 14 Oct 2026 06:36:14 GMT",
-        "published_kst": "2026-10-14T15:36:14+09:00",
+        "title": "신현송 \"한국, AI 붐과 중동전쟁의 교차점…K자형 양극화 뚜렷\" - 녹색경제신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03b1dUV2xzRndTdWdFaE5jOGNYUUlwTlh4TjRaM21TOGpySTFtSThnWWJsT0s1Z0tCMThKdi1XcTV2b0xFdVBvS0t4My1yenJpb3EtU05oV3pGSm5IQ3ZrcGNqRnlNekdK?oc=5",
+        "summary": "신현송 \"한국, AI 붐과 중동전쟁의 교차점…K자형 양극화 뚜렷\" 녹색경제신문 신현송 \"한국, AI 붐과 중동전쟁의 교차점…K자형 양극화 뚜렷\" - 녹색경제신문",
+        "published": "Wed, 14 Oct 2026 09:56:42 GMT",
+        "published_kst": "2026-10-14T18:56:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -111,33 +113,33 @@
     ],
     "world": [
       {
-        "title": "Managing Supply Chain Uncertainty With New Super Intelligence Driven Motor Platform - AZoM",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2d0dteDNMS3BPbG1jb0xCSDZ4VF9UT3pKZzZUZU91VmVWMHc5YUxfWWFSSzFnSTNvbzBzOUw3VHpVOTk0bjlBY20welhPNy1KcjNUYlhB?oc=5",
-        "summary": "Managing Supply Chain Uncertainty With New Super Intelligence Driven Motor Platform AZoM Managing Supply Chain Uncertainty With New Super Intelligence Driven Motor Platform - AZoM",
-        "published": "Wed, 14 Oct 2026 06:03:00 GMT",
-        "published_kst": "2026-10-14T15:03:00+09:00",
+        "title": "Supply Chain Appointment: Frankgerald Stepp Joins pladis - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTE5jbWgyeG1DckhKeXBuMlROWTlOX2FZdDhlMHJMS21TdlllUk9ncTQzMzBoXzhydU1ibGJKbFBRMHN4RnRDMG5JN1Q5d2pLSm53VlRRZDJ3LV9UTzhWZFZrTFVaUkQ3bGNKZ0JXajJFbXQxZDVnMEtNY2Q2N09hS0RzaFFmNWpBb1l3bGZYUE5NV0ZndVE?oc=5",
+        "summary": "Supply Chain Appointment: Frankgerald Stepp Joins pladis Supply Chain Digital Magazine Supply Chain Appointment: Frankgerald Stepp Joins pladis - Supply Chain Digital Magazine",
+        "published": "Wed, 14 Oct 2026 09:31:21 GMT",
+        "published_kst": "2026-10-14T18:31:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "China’s electronics ambitions are getting bigger and more strategic - Global Sources",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVENtVW41RHJQZVhkRENLZUVzenpDVmhPX1c2X1NVeUhRRUM0WXYyR0hpcVlBWl9YdGZtcGdkU3V0OXRiZDhoYm83WllzUUJ5TnFUTWJqa1JMOW9fSWQybDdkdDlVd3RhQU55OHZqd0NZQWhpb2UxX25RMFE2NUlxNnBvR2FOT2w3dTJhNnlZMjdHaGIzZG80YVpFank1VUlEdkFwTlVNeFd6TXdnd3ZFdUtCWHpRRzAzNW4taUg5VTVaSFNaUWc?oc=5",
-        "summary": "China’s electronics ambitions are getting bigger and more strategic Global Sources China’s electronics ambitions are getting bigger and more strategic - Global Sources",
-        "published": "Wed, 14 Oct 2026 05:39:48 GMT",
-        "published_kst": "2026-10-14T14:39:48+09:00",
+        "title": "Supply chain resilience moves from response to strategy - Metro Global",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlNFNEtDalo5MmlyT0NwbHVUS1pVWmhWcWRyOWRaUTFLMmtzUmszT1dZd0c3TWJTWHpIU3VySWcyQVZVZnJqLWpfS3ZVZEdLeXJNU0oyY05UTTBqWVJUQzRmZ3NFOVhFS0FXb0dtRU1pTzVXcHl0eXdlZmVBYTJUN3VjZ2tCVHlobGNXSHdrdjBSNDNuMWpn?oc=5",
+        "summary": "Supply chain resilience moves from response to strategy Metro Global Supply chain resilience moves from response to strategy - Metro Global",
+        "published": "Wed, 14 Oct 2026 08:13:01 GMT",
+        "published_kst": "2026-10-14T17:13:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How Does a Professional Logistics Service Provider From China Support Global Supply Chain Efficiency - EIN News",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWG9PUHdlU21tRFM4MlktNzZBc2JlR0V0Rl84YXhmQTZuLTgtSzUzWi1zWEJnOFpUWXA2WWlOM3pZYzRROURVcndNb1dhSEVuSnBTd0NvdEcyQTMzcDJUTGV4YzZza3RxTnEtX3BVeE8ySERXVFZPUEpDLXk5SkJ2ZHB5S2V1OHhPRk9yRUl3bUlOcUZpNk12Q09HNFZ3R0M2eUIyd0JmeWx5eDlTMnpZR0pTNFc1TFJfLU5pTVp5M3NYNkQ5cTJwMUY4UkhWcTFwU3huM2diVVo0QQ?oc=5",
-        "summary": "How Does a Professional Logistics Service Provider From China Support Global Supply Chain Efficiency EIN News How Does a Professional Logistics Service Provider From China Support Global Supply Chain Efficiency - EIN News",
-        "published": "Wed, 14 Oct 2026 05:30:00 GMT",
-        "published_kst": "2026-10-14T14:30:00+09:00",
+        "title": "Top 10: Leaders in Food and Beverage Supply Chains - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG1pUW9ESzhiMHR5OThZdXVRT2NqSVdSTHpaNHh3aENHaXJyRllRd2VUMkdYTVZqSS1wd0FSLTR5Vk5hbEU4THhIZVU5SUpQVzhGNUlkRGZQc1JEdURZTjZQcXNUYVl3LWRONlJoS2xwdm05cEgxaTBRM1pUeXo4c3hpaWhXNTkxdUtXTzBDaw?oc=5",
+        "summary": "Top 10: Leaders in Food and Beverage Supply Chains Supply Chain Digital Magazine Top 10: Leaders in Food and Beverage Supply Chains - Supply Chain Digital Magazine",
+        "published": "Wed, 14 Oct 2026 07:32:41 GMT",
+        "published_kst": "2026-10-14T16:32:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -145,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "CPI Release TradingPedia NZD Holds Near Highs Ahead of U.S. CPI Release - TradingPedia / 현대차 주가 뚝 떨어졌는데…한온시스템 '나홀로 질주' 왜 한국경제 현대차 주가 뚝 떨어졌는데…한온시스템 '나홀로 질주' 왜 - 한국경제 / Managing Supply Chain Uncertainty With New Super Intelligence Driven Motor Platform AZoM Managing Supply Chain Uncertainty With New Super Intelligence Driven Motor Platform - AZoM",
+  "wrap_summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher. Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked / 성일종 의원 “한국발전공사 본사는 반드시 태안으로\" 글로벌뉴스통신GNA 성일종 의원 “한국발전공사 본사는 반드시 태안으로\" - 글로벌뉴스통신GNA / Supply Chain Appointment: Frankgerald Stepp Joins pladis Supply Chain Digital Magazine Supply Chain Appointment: Frankgerald Stepp Joins pladis - Supply Chain Digital Magazine",
   "invest_summary": ""
 }
