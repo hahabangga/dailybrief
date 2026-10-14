@@ -1,75 +1,79 @@
 {
   "date": "2026-10-14",
-  "generated_at_utc": "2026-10-14T10:40:00Z",
-  "cutoff_kst": "2026-10-14T19:40:00+09:00",
+  "generated_at_utc": "2026-10-14T14:57:40Z",
+  "cutoff_kst": "2026-10-14T23:57:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-        "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-        "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher. Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked",
-        "published": "Wed, 14 Oct 2026 10:33:13 GMT",
-        "published_kst": "2026-10-14T19:33:13+09:00",
+        "title": "Here's the inflation breakdown for September 2026 — in one chart",
+        "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
+        "summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war. Here's the inflation breakdown for September 2026 — in one chart",
+        "published": "Wed, 14 Oct 2026 14:56:25 GMT",
+        "published_kst": "2026-10-14T23:56:25+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026",
+          "3.7%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Judge deals another blow to Trump’s White House media bans - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPekQ5ZC1NVVZMSksyZnYwcUc2VGFmSmJZNkp3cWVUX0N3bHBDMEF1RDJOT1I3dzFJVmN0dTlyQVlfVWlIMG9ubXM2SXktUktfbnA5U0Iyb09Dem5oNDhleEY1Y3pKUmtGejdOb2FncXhPdnpSV1A4SXAxeGg5SmVfSUIwZVBqWVNUV0hIM2JldldZY0djekpIenk1amhZelkyYkV1NWpuLXJfZw?oc=5",
-        "summary": "Judge deals another blow to Trump’s White House media bans The Washington Post Judge deals another blow to Trump’s White House media bans - The Washington Post",
-        "published": "Wed, 14 Oct 2026 10:21:09 GMT",
-        "published_kst": "2026-10-14T19:21:09+09:00",
+        "title": "The Looming Chinese Investment One Block from the White House - The Foundation for American Innovation",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdrRFBVVENBdzJDUWJEV0hHOWxvdHpHbHdPZ3JsdnJRdDFicXFMMkJaWjFmaC1ReWNjVjQtN1NJcE04T2hXdHJVUENaV25Md2ZNOXhGcW1OTmM1bkkwbDM2eFJRb2JIVFhZNWF4Ul9nQi1fMUYzbWk4MzZMemVFYVpCcHd2SU5wc2s3dVJCbXJwUEtN?oc=5",
+        "summary": "The Looming Chinese Investment One Block from the White House The Foundation for American Innovation The Looming Chinese Investment One Block from the White House - The Foundation for American Innovation",
+        "published": "Wed, 14 Oct 2026 14:56:13 GMT",
+        "published_kst": "2026-10-14T23:56:13+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Federal judge grants preliminary injunction continuing to block Trump's media ban - 6abc Philadelphia",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVBxUFRlSW5COWw5QV9kdXFaZDJtVEVGeFVLMlFZb3RCMnc1TFdjQ1p1cl9FYmhvMFVGMlRrUzNmQTd4QWZ6WlZ1YmNPN05LeGRFN2w3YUk3V3AtTDhmZGRKN0ZLWTVheElVWUkyRzFwRVYxQ3MtR05vRnNhbDg3blJ6dFhEajU0bEMtOURlN2REaGFmYmY5WEw2aTJBWU05eUJQMFdiM0c2dnVueWZSWHd4ZjBjMmRfYVFvd2FIdlR0ZnIyVFE?oc=5",
-        "summary": "Federal judge grants preliminary injunction continuing to block Trump's media ban 6abc Philadelphia Federal judge grants preliminary injunction continuing to block Trump's media ban - 6abc Philadelphia",
-        "published": "Wed, 14 Oct 2026 10:18:52 GMT",
-        "published_kst": "2026-10-14T19:18:52+09:00",
+        "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+        "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+        "summary": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC. Netflix to lay off roughly 1,000 employees, or 6% of workforce",
+        "published": "Wed, 14 Oct 2026 14:52:29 GMT",
+        "published_kst": "2026-10-14T23:52:29+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "6%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
+        "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
+        "summary": "Berkshire's latest investment follows the $600 million it invested in the company's IPO this July. Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
+        "published": "Wed, 14 Oct 2026 14:39:21 GMT",
+        "published_kst": "2026-10-14T23:39:21+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "35%",
+          "$330",
+          "$600"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Kimberly Guilfoyle resigns as ambassador to Greece after allegations of misconduct - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3Q4Unk5VXhyc0dSSzJhcEIwcElRdUxVWHFSQ0Y1RU9PbHN5WEY3NGJ3bllPa2pveGRSV1lRQzd0TzRTOHJRTFlyZ21uZGh5bWpaOEpZR2VYM1BVcUl5cU5Fd2w0cWp5Vk1GeWlSZHhDUHJXbDJqdk1xNWo3enR4c3BSd3JaZTlFb21ieFg5dUJadlJrS3hlQnBuMzJmTmFtemZlbUJ30gGrAUFVX3lxTE8tSmN5QjNLR1llb3BjNERlVk9XVEF6dHZaM19iUjBaUTlkZXEzUDktdnhsd2tPdTNfRmlENDFKcVk1eFhfejBqQS1tQ2pSSDc1WlFkRVdGQjJiTE02ZnNOT3Q5YkZ0V3V3M0lhN3ZxSlVTLVgzNlhhbzdHYmdUZnpvZ3RDQ25WSkhvZDJiMmhuakxCZ2ZxUF9BQ21xSzZvcDRXMVFHRGhybEJ6WQ?oc=5",
+        "summary": "Kimberly Guilfoyle resigns as ambassador to Greece after allegations of misconduct ABC News - Breaking News, Latest News and Videos Kimberly Guilfoyle resigns as ambassador to Greece after allegations of misconduct - ABC News - Breaking News, Latest News and Videos",
+        "published": "Wed, 14 Oct 2026 14:05:51 GMT",
+        "published_kst": "2026-10-14T23:05:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Bank of America is set to report third-quarter earnings – here’s what the Street expects",
-        "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-        "summary": "Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday. Bank of America is set to report third-quarter earnings – here’s what the Street expects",
-        "published": "Wed, 14 Oct 2026 10:15:01 GMT",
-        "published_kst": "2026-10-14T19:15:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$1.2"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-        "url": "https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html",
-        "summary": "Hispanic and Latino voters swung hard for President Donald Trump in 2024. South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026",
-        "published": "Wed, 14 Oct 2026 10:00:01 GMT",
-        "published_kst": "2026-10-14T19:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2024",
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "French Bond Yields Ease Ahead of US Inflation - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGNnZ1lTR1VZYzROeGNUWXNDa1c3VnFRTlI3eVB4RDY4VGNkbm5kaFZ3MUthS0s0YklxT2MxMFo2MHhQYXI4cTFVc3lwcGNGQURaWTRFZEJ1by1tb3dTZGQyemZub3dVVlhzcGdhOTdma182Tmtra21LeDRTRGdmN24xNk11S25faU5TTFNZaTJwLVRmR0VyaW1vZTE?oc=5",
-        "summary": "French Bond Yields Ease Ahead of US Inflation TradingView French Bond Yields Ease Ahead of US Inflation - TradingView",
-        "published": "Wed, 14 Oct 2026 09:56:34 GMT",
-        "published_kst": "2026-10-14T18:56:34+09:00",
+        "title": "US inflation heats up in September; Fed rate hike this month back on table - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
+        "summary": "US inflation heats up in September; Fed rate hike this month back on table Reuters US inflation heats up in September; Fed rate hike this month back on table - Reuters",
+        "published": "Wed, 14 Oct 2026 14:04:27 GMT",
+        "published_kst": "2026-10-14T23:04:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -78,33 +82,33 @@
     ],
     "kr": [
       {
-        "title": "성일종 의원 “한국발전공사 본사는 반드시 태안으로\" - 글로벌뉴스통신GNA",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSWwyUkpvOHNITW9qVVFGVWpreEtrWWZ3T2hkT25LbGZBWDJkWU9SODU5eFlrdEo3cW5SejByLVd4NzdTbnp2OEs4alZDeGJfbl83RFFCbGc0QXgxVTN1SUpFMmY3aWRmQm14RG52Um5XRWND?oc=5",
-        "summary": "성일종 의원 “한국발전공사 본사는 반드시 태안으로\" 글로벌뉴스통신GNA 성일종 의원 “한국발전공사 본사는 반드시 태안으로\" - 글로벌뉴스통신GNA",
-        "published": "Wed, 14 Oct 2026 10:21:08 GMT",
-        "published_kst": "2026-10-14T19:21:08+09:00",
+        "title": "IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" - YTN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hOWNYTGd2a3F4ZUpyRHRDZEU4bm11YlZhUHgzN0cwWEQ5TlByV1d5YkRCS3A2VzY5MHFPcnduYmhURTh0alA5Z2hzR3V1VjY2RC1TdFpTcmlfZXB1VkE?oc=5",
+        "summary": "IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" YTN IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" - YTN",
+        "published": "Wed, 14 Oct 2026 14:19:00 GMT",
+        "published_kst": "2026-10-14T23:19:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"한국 수출 회복·인플레 압력 완화…中 성장둔화가 리스크\" - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WRTJmYm9RRVhlVzd2dm11NmNicTI1dDBYOHhkaFowdzhDdDNaSEU2OVdRbVZ2eXNMdGNHNHI2Z2FmR3NkMlFHa0hKaXRCZzNM?oc=5",
-        "summary": "\"한국 수출 회복·인플레 압력 완화…中 성장둔화가 리스크\" 매일경제 마켓 \"한국 수출 회복·인플레 압력 완화…中 성장둔화가 리스크\" - 매일경제 마켓",
-        "published": "Wed, 14 Oct 2026 10:09:32 GMT",
-        "published_kst": "2026-10-14T19:09:32+09:00",
+        "title": "한국부동산마케팅협회 서울특별시장상 수상 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TlFBSzR4UkdmazVucm03VEpPNzZORTQ4cHJuQkp6Smo0bldBaDI5MlFYMUkydF9JV3dCNkYzMUhwT3llOXRZMWpKNFg2RXIyVUxMVG1JYUVDdw?oc=5",
+        "summary": "한국부동산마케팅협회 서울특별시장상 수상 한국경제 한국부동산마케팅협회 서울특별시장상 수상 - 한국경제",
+        "published": "Wed, 14 Oct 2026 14:18:05 GMT",
+        "published_kst": "2026-10-14T23:18:05+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "신현송 \"한국, AI 붐과 중동전쟁의 교차점…K자형 양극화 뚜렷\" - 녹색경제신문",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03b1dUV2xzRndTdWdFaE5jOGNYUUlwTlh4TjRaM21TOGpySTFtSThnWWJsT0s1Z0tCMThKdi1XcTV2b0xFdVBvS0t4My1yenJpb3EtU05oV3pGSm5IQ3ZrcGNqRnlNekdK?oc=5",
-        "summary": "신현송 \"한국, AI 붐과 중동전쟁의 교차점…K자형 양극화 뚜렷\" 녹색경제신문 신현송 \"한국, AI 붐과 중동전쟁의 교차점…K자형 양극화 뚜렷\" - 녹색경제신문",
-        "published": "Wed, 14 Oct 2026 09:56:42 GMT",
-        "published_kst": "2026-10-14T18:56:42+09:00",
+        "title": "박동명 서울시 위원장, 국회서 주민참여예산 발전방안 제시 - 한국공공정책신문",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ONXhEeXJEQWxtTzdLT3RoMXhZMHZLYzI3VHp1UXdYRDNKenV3YzRibkhjT1haODNBWUUtZ3o0bVZhQlE?oc=5",
+        "summary": "박동명 서울시 위원장, 국회서 주민참여예산 발전방안 제시 한국공공정책신문 박동명 서울시 위원장, 국회서 주민참여예산 발전방안 제시 - 한국공공정책신문",
+        "published": "Wed, 14 Oct 2026 14:15:30 GMT",
+        "published_kst": "2026-10-14T23:15:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -113,33 +117,33 @@
     ],
     "world": [
       {
-        "title": "Supply Chain Appointment: Frankgerald Stepp Joins pladis - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTE5jbWgyeG1DckhKeXBuMlROWTlOX2FZdDhlMHJMS21TdlllUk9ncTQzMzBoXzhydU1ibGJKbFBRMHN4RnRDMG5JN1Q5d2pLSm53VlRRZDJ3LV9UTzhWZFZrTFVaUkQ3bGNKZ0JXajJFbXQxZDVnMEtNY2Q2N09hS0RzaFFmNWpBb1l3bGZYUE5NV0ZndVE?oc=5",
-        "summary": "Supply Chain Appointment: Frankgerald Stepp Joins pladis Supply Chain Digital Magazine Supply Chain Appointment: Frankgerald Stepp Joins pladis - Supply Chain Digital Magazine",
-        "published": "Wed, 14 Oct 2026 09:31:21 GMT",
-        "published_kst": "2026-10-14T18:31:21+09:00",
+        "title": "tk accelis: Building a Predictive Supply Chain Control Tower - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVlZoTmVyRUU0RmV6NWN0VGpEeGdIdkFiWEpkd3Bwa1lTUERjSmROQVRDbHdIRmxXc1ZqeGZuNTNtSjM5MVB5ZTJMVmtRa01JWm51NlozZDdUTGkzZlZjcDE1c1JyZGo2Z0VFZFRIamkyLXU2X0tOYXNCZGFtQ01PTWw5b1hzRm5Sd0NLS0VYTnFXaEVGSGY4dmU4aw?oc=5",
+        "summary": "tk accelis: Building a Predictive Supply Chain Control Tower Supply Chain Digital Magazine tk accelis: Building a Predictive Supply Chain Control Tower - Supply Chain Digital Magazine",
+        "published": "Wed, 14 Oct 2026 13:33:57 GMT",
+        "published_kst": "2026-10-14T22:33:57+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Supply chain resilience moves from response to strategy - Metro Global",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONlNFNEtDalo5MmlyT0NwbHVUS1pVWmhWcWRyOWRaUTFLMmtzUmszT1dZd0c3TWJTWHpIU3VySWcyQVZVZnJqLWpfS3ZVZEdLeXJNU0oyY05UTTBqWVJUQzRmZ3NFOVhFS0FXb0dtRU1pTzVXcHl0eXdlZmVBYTJUN3VjZ2tCVHlobGNXSHdrdjBSNDNuMWpn?oc=5",
-        "summary": "Supply chain resilience moves from response to strategy Metro Global Supply chain resilience moves from response to strategy - Metro Global",
-        "published": "Wed, 14 Oct 2026 08:13:01 GMT",
-        "published_kst": "2026-10-14T17:13:01+09:00",
+        "title": "Nanoscope Therapeutics Appoints Troy Short SVP of Manufacturing and Supply Chain Ahead of Potential MOGENRY Launch - citybiz",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNlljdHFwWFhTVmphVG1IUGg5eG9DbGpLZHlUdV9nZ0tlR0FWcWpfamdRNE1GaVgwaExoMXlkOTRlWXFla1ZDVE9fbHhrYlQtbWFWVjlnY2w0elJxcUROblU3VF9vQTZSVC1ZclMxbkdxQ0NnYnF5NzI5T3NSOER6YXdOWmdxNERqcnBjbENzdnlUSW1BUFYtZUFhS2pKQ0FFYU5icy03Q1JBeVVBMmMwR2ZXYWFMWnA0ZnVGOWp1VEthanh0Zmc5YURCYUNTcG9nR1BqdEdOU1d6UWdpdjlpU01oZFdacGRI?oc=5",
+        "summary": "Nanoscope Therapeutics Appoints Troy Short SVP of Manufacturing and Supply Chain Ahead of Potential MOGENRY Launch citybiz Nanoscope Therapeutics Appoints Troy Short SVP of Manufacturing and Supply Chain Ahead of Potential MOGENRY Launch - citybiz",
+        "published": "Wed, 14 Oct 2026 12:53:28 GMT",
+        "published_kst": "2026-10-14T21:53:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Top 10: Leaders in Food and Beverage Supply Chains - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMG1pUW9ESzhiMHR5OThZdXVRT2NqSVdSTHpaNHh3aENHaXJyRllRd2VUMkdYTVZqSS1wd0FSLTR5Vk5hbEU4THhIZVU5SUpQVzhGNUlkRGZQc1JEdURZTjZQcXNUYVl3LWRONlJoS2xwdm05cEgxaTBRM1pUeXo4c3hpaWhXNTkxdUtXTzBDaw?oc=5",
-        "summary": "Top 10: Leaders in Food and Beverage Supply Chains Supply Chain Digital Magazine Top 10: Leaders in Food and Beverage Supply Chains - Supply Chain Digital Magazine",
-        "published": "Wed, 14 Oct 2026 07:32:41 GMT",
-        "published_kst": "2026-10-14T16:32:41+09:00",
+        "title": "Europe Must Get Tougher on Russian Oil Buyers: Interview with Bill Browder, Architect of Magnitsky Sanctions - UNITED24 Media",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdHBuQTRyUFczVjlKLXpEN0VUYkhJMjNfalFPeUFIYnRxOXhDd0x1VHd3YTJPR3I4U0FrTTZxUGt2Z0M2endaV2JVekdMb3o2WUxxWkhMb29nT1F3c0NQTUtsRWI5WU56YXF3S0VWcEN3VkhHN2hSODZ2NlRQLU9xUW5oWlBNZTRoSXlLXzdoMDM5MUNFMzUzbFRfQnFLelNoZ255T2tvSUFkSVV4MG1UQWtmczkwcXYtVzNLY05BUTg0T2RCcE9NclJyV05HQ180Q1pld2NWbzJBeEtyZUsyOVlR?oc=5",
+        "summary": "Europe Must Get Tougher on Russian Oil Buyers: Interview with Bill Browder, Architect of Magnitsky Sanctions UNITED24 Media Europe Must Get Tougher on Russian Oil Buyers: Interview with Bill Browder, Architect of Magnitsky Sanctions - UNITED24 Media",
+        "published": "Wed, 14 Oct 2026 12:51:19 GMT",
+        "published_kst": "2026-10-14T21:51:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -147,6 +151,6 @@
       }
     ]
   },
-  "wrap_summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher. Oil prices rise after IEA warns on market constraints; Saudi officials say Aramco facilities attacked / 성일종 의원 “한국발전공사 본사는 반드시 태안으로\" 글로벌뉴스통신GNA 성일종 의원 “한국발전공사 본사는 반드시 태안으로\" - 글로벌뉴스통신GNA / Supply Chain Appointment: Frankgerald Stepp Joins pladis Supply Chain Digital Magazine Supply Chain Appointment: Frankgerald Stepp Joins pladis - Supply Chain Digital Magazine",
+  "wrap_summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war. Here's the inflation breakdown for September 2026 — in one chart / IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" YTN IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" - YTN / tk accelis: Building a Predictive Supply Chain Control Tower Supply Chain Digital Magazine tk accelis: Building a Predictive Supply Chain Control Tower - Supply Chain Digital Magazine",
   "invest_summary": ""
 }
