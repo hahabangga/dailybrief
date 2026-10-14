@@ -1,80 +1,71 @@
 {
-  "date": "2026-10-14",
-  "generated_at_utc": "2026-10-14T14:57:40Z",
-  "cutoff_kst": "2026-10-14T23:57:00+09:00",
+  "date": "2026-10-15",
+  "generated_at_utc": "2026-10-14T17:48:51Z",
+  "cutoff_kst": "2026-10-15T02:48:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Here's the inflation breakdown for September 2026 — in one chart",
-        "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html",
-        "summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war. Here's the inflation breakdown for September 2026 — in one chart",
-        "published": "Wed, 14 Oct 2026 14:56:25 GMT",
-        "published_kst": "2026-10-14T23:56:25+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2026",
-          "3.7%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The Looming Chinese Investment One Block from the White House - The Foundation for American Innovation",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdrRFBVVENBdzJDUWJEV0hHOWxvdHpHbHdPZ3JsdnJRdDFicXFMMkJaWjFmaC1ReWNjVjQtN1NJcE04T2hXdHJVUENaV25Md2ZNOXhGcW1OTmM1bkkwbDM2eFJRb2JIVFhZNWF4Ul9nQi1fMUYzbWk4MzZMemVFYVpCcHd2SU5wc2s3dVJCbXJwUEtN?oc=5",
-        "summary": "The Looming Chinese Investment One Block from the White House The Foundation for American Innovation The Looming Chinese Investment One Block from the White House - The Foundation for American Innovation",
-        "published": "Wed, 14 Oct 2026 14:56:13 GMT",
-        "published_kst": "2026-10-14T23:56:13+09:00",
+        "title": "OPM partners with White House fraud task force on hiring initiative - Federal News Network",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUxNVDUtN2ZyeDlYend2VmZSbGl3TmxLdkEtUjduSjRZTTcxbk8zSllhbTV2WHlQNkVfZzZDNldfX193RTVBNHR2Wm5pR3JNamg4UHg1LVMwMWdMd0duSVBlZkF2YldkanNfdVBMc0JPX3dxem9famlrYWppb2dVOVVTZUlwZUhHY0RDLTJGV29ZYU5DNHh0MkNYdy1FTTZOUnVFM1VtMkg5UjVtdDhnbUlaS1JfM3NhRWZwVWx4cGNiQQ?oc=5",
+        "summary": "OPM partners with White House fraud task force on hiring initiative Federal News Network OPM partners with White House fraud task force on hiring initiative - Federal News Network",
+        "published": "Wed, 14 Oct 2026 17:46:36 GMT",
+        "published_kst": "2026-10-15T02:46:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-        "url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-        "summary": "Netflix will lay off roughly 6% of its workforce, according to a memo obtained by CNBC. Netflix to lay off roughly 1,000 employees, or 6% of workforce",
-        "published": "Wed, 14 Oct 2026 14:52:29 GMT",
-        "published_kst": "2026-10-14T23:52:29+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "6%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
-        "url": "https://www.cnbc.com/2026/10/14/berkshire-hathaway-investment-bending-spoons.html",
-        "summary": "Berkshire's latest investment follows the $600 million it invested in the company's IPO this July. Bending Spoons skyrockets 35% as Berkshire Hathaway makes $330 million investment",
-        "published": "Wed, 14 Oct 2026 14:39:21 GMT",
-        "published_kst": "2026-10-14T23:39:21+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "35%",
-          "$330",
-          "$600"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Kimberly Guilfoyle resigns as ambassador to Greece after allegations of misconduct - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3Q4Unk5VXhyc0dSSzJhcEIwcElRdUxVWHFSQ0Y1RU9PbHN5WEY3NGJ3bllPa2pveGRSV1lRQzd0TzRTOHJRTFlyZ21uZGh5bWpaOEpZR2VYM1BVcUl5cU5Fd2w0cWp5Vk1GeWlSZHhDUHJXbDJqdk1xNWo3enR4c3BSd3JaZTlFb21ieFg5dUJadlJrS3hlQnBuMzJmTmFtemZlbUJ30gGrAUFVX3lxTE8tSmN5QjNLR1llb3BjNERlVk9XVEF6dHZaM19iUjBaUTlkZXEzUDktdnhsd2tPdTNfRmlENDFKcVk1eFhfejBqQS1tQ2pSSDc1WlFkRVdGQjJiTE02ZnNOT3Q5YkZ0V3V3M0lhN3ZxSlVTLVgzNlhhbzdHYmdUZnpvZ3RDQ25WSkhvZDJiMmhuakxCZ2ZxUF9BQ21xSzZvcDRXMVFHRGhybEJ6WQ?oc=5",
-        "summary": "Kimberly Guilfoyle resigns as ambassador to Greece after allegations of misconduct ABC News - Breaking News, Latest News and Videos Kimberly Guilfoyle resigns as ambassador to Greece after allegations of misconduct - ABC News - Breaking News, Latest News and Videos",
-        "published": "Wed, 14 Oct 2026 14:05:51 GMT",
-        "published_kst": "2026-10-14T23:05:51+09:00",
+        "title": "EUR/USD Analysis: Euro Loses Ground After a Stronger-Than-Expected U.S. CPI Report - StoneX",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZVVBMVNNRGl0c1RSR011b0F4bmwyMjMyajNuX1hYc0UtZ01tSk5tcnUtQ0kyMkJQeHF1V05kR3RNNndqTWRDbFcyYjBIcWkxX0xqRTRpZlpGejhfNWJOalprVDdXRG8tNU9rZ0t5WkZ5eDN0WE1ydk1ndGxueHZ1OUJubFBURTJxT05GYzdXZGZMTmRQMFN1bDllWkN3eUdkUERYSjd4TFc5dkQzMnNnTHJRVEI0eVBETExQUnVpaV9Md2ZDUjU5TnJaYnFvd2VfN1poOUFB?oc=5",
+        "summary": "CPI Report StoneX EUR/USD Analysis: Euro Loses Ground After a Stronger-Than-Expected U.S. CPI Report - StoneX",
+        "published": "Wed, 14 Oct 2026 17:40:46 GMT",
+        "published_kst": "2026-10-15T02:40:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US inflation heats up in September; Fed rate hike this month back on table - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
-        "summary": "US inflation heats up in September; Fed rate hike this month back on table Reuters US inflation heats up in September; Fed rate hike this month back on table - Reuters",
-        "published": "Wed, 14 Oct 2026 14:04:27 GMT",
-        "published_kst": "2026-10-14T23:04:27+09:00",
+        "title": "'Office' is actually having a scarcity problem",
+        "url": "https://www.cnbc.com/2026/10/14/office-is-actually-having-a-scarcity-problem.html",
+        "summary": "office market is roaring back to health but its speedy recovery is resulting in a shortage, especially of premium space. 'Office' is actually having a scarcity problem",
+        "published": "Wed, 14 Oct 2026 17:35:44 GMT",
+        "published_kst": "2026-10-15T02:35:44+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"MAGA blood feud\": White House probes claims of missing Kennedy Center money - Axios",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DekdBM2g5a2s3QTJiZUl0NEFkNF9IZVdzMHo2RW9GYU1vaXRmNFdUb3VmMGNoTy1OSE5FejhFZ1FNcVJnOS1NbThIQ3IyTmRwRlFqd1FOMDl1M2VYMDBvbDNUd2xZazJVSDNCSkU2R2hvWUJsXzNiRnNNR3M?oc=5",
+        "summary": "\"MAGA blood feud\": White House probes claims of missing Kennedy Center money Axios \"MAGA blood feud\": White House probes claims of missing Kennedy Center money - Axios",
+        "published": "Wed, 14 Oct 2026 17:35:40 GMT",
+        "published_kst": "2026-10-15T02:35:40+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
+        "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
+        "summary": "Katti said in a post on LinkedIn that he \"decided to move on to build something new.\" OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
+        "published": "Wed, 14 Oct 2026 17:25:34 GMT",
+        "published_kst": "2026-10-15T02:25:34+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The steel stock that has the shorts and options traders on edge",
+        "url": "https://www.cnbc.com/2026/10/14/the-steel-stock-that-has-the-shorts-and-options-traders-on-edge.html",
+        "summary": "The steel stock that has the shorts and options traders on edge",
+        "published": "Wed, 14 Oct 2026 17:22:55 GMT",
+        "published_kst": "2026-10-15T02:22:55+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -82,68 +73,70 @@
     ],
     "kr": [
       {
-        "title": "IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" - YTN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hOWNYTGd2a3F4ZUpyRHRDZEU4bm11YlZhUHgzN0cwWEQ5TlByV1d5YkRCS3A2VzY5MHFPcnduYmhURTh0alA5Z2hzR3V1VjY2RC1TdFpTcmlfZXB1VkE?oc=5",
-        "summary": "IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" YTN IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" - YTN",
-        "published": "Wed, 14 Oct 2026 14:19:00 GMT",
-        "published_kst": "2026-10-14T23:19:00+09:00",
+        "title": "美~中 원유 운송비, 스페이스X 발사보다 비싸졌다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2SWNiLUE5aDJBS094WENscC10TUJ3Wm9VM0dXUWtfanVuOVZYZ3pzS2o3aHppZ3BNVWMwdUREZVNfN2c4alRDTE9iR3Q3TXJXeU1HTjZVNzBlQQ?oc=5",
+        "summary": "美~中 원유 운송비, 스페이스X 발사보다 비싸졌다 한국경제 美~中 원유 운송비, 스페이스X 발사보다 비싸졌다 - 한국경제",
+        "published": "Wed, 14 Oct 2026 17:26:00 GMT",
+        "published_kst": "2026-10-15T02:26:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국부동산마케팅협회 서울특별시장상 수상 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0TlFBSzR4UkdmazVucm03VEpPNzZORTQ4cHJuQkp6Smo0bldBaDI5MlFYMUkydF9JV3dCNkYzMUhwT3llOXRZMWpKNFg2RXIyVUxMVG1JYUVDdw?oc=5",
-        "summary": "한국부동산마케팅협회 서울특별시장상 수상 한국경제 한국부동산마케팅협회 서울특별시장상 수상 - 한국경제",
-        "published": "Wed, 14 Oct 2026 14:18:05 GMT",
-        "published_kst": "2026-10-14T23:18:05+09:00",
+        "title": "\"17년 만에 상가 대할인 기회\" [한경 프리미엄9 TODAY] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QOG04Y3NWTTVoT3RDdTZoTzVablpUMDhHMWdWbE5MVzZ1MVB2UzAxcEk2QnYtQUpWS0pqay1BZkhzVGFXYmxuMTExdXl2d2dlZUpUSTZXMFJYdw?oc=5",
+        "summary": "\"17년 만에 상가 대할인 기회\" [한경 프리미엄9 TODAY] 한국경제 \"17년 만에 상가 대할인 기회\" [한경 프리미엄9 TODAY] - 한국경제",
+        "published": "Wed, 14 Oct 2026 17:24:00 GMT",
+        "published_kst": "2026-10-15T02:24:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "박동명 서울시 위원장, 국회서 주민참여예산 발전방안 제시 - 한국공공정책신문",
-        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9ONXhEeXJEQWxtTzdLT3RoMXhZMHZLYzI3VHp1UXdYRDNKenV3YzRibkhjT1haODNBWUUtZ3o0bVZhQlE?oc=5",
-        "summary": "박동명 서울시 위원장, 국회서 주민참여예산 발전방안 제시 한국공공정책신문 박동명 서울시 위원장, 국회서 주민참여예산 발전방안 제시 - 한국공공정책신문",
-        "published": "Wed, 14 Oct 2026 14:15:30 GMT",
-        "published_kst": "2026-10-14T23:15:30+09:00",
+        "title": "모디 만난 정의선 \"인도 생산 차량의 30% 해외 수출\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HZHF6NjUzV1RDRjI2UWxDNy1xMW5QcUVvVHVWWU9NTHphWlduRnJHOFMtQ0tBX1hKdDItc01nRFAzV1U3aGNoN1haYjdWZkIzdnJ1X1ZiUE9XQQ?oc=5",
+        "summary": "모디 만난 정의선 \"인도 생산 차량의 30% 해외 수출\" 한국경제 모디 만난 정의선 \"인도 생산 차량의 30% 해외 수출\" - 한국경제",
+        "published": "Wed, 14 Oct 2026 16:48:00 GMT",
+        "published_kst": "2026-10-15T01:48:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "30%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "tk accelis: Building a Predictive Supply Chain Control Tower - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVlZoTmVyRUU0RmV6NWN0VGpEeGdIdkFiWEpkd3Bwa1lTUERjSmROQVRDbHdIRmxXc1ZqeGZuNTNtSjM5MVB5ZTJMVmtRa01JWm51NlozZDdUTGkzZlZjcDE1c1JyZGo2Z0VFZFRIamkyLXU2X0tOYXNCZGFtQ01PTWw5b1hzRm5Sd0NLS0VYTnFXaEVGSGY4dmU4aw?oc=5",
-        "summary": "tk accelis: Building a Predictive Supply Chain Control Tower Supply Chain Digital Magazine tk accelis: Building a Predictive Supply Chain Control Tower - Supply Chain Digital Magazine",
-        "published": "Wed, 14 Oct 2026 13:33:57 GMT",
-        "published_kst": "2026-10-14T22:33:57+09:00",
+        "title": "Off-World Supply Chain: Infrastructure That Will Define The Helium-3 Economy - Business Facilities",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUU3alU5WjZYT1dPd2JZS29mVmR1UHViRGxpeGY1WEJaN3pBUUNpRVFHV0RBNU5sOHctSVIzNHd2ZnJxVjBYODJMdmozLUVfVzlsRGtOb1BldmFGdTJabDBnUXNWVWRTVG96OHNidVNXVm1xNVlYUG8xSGlueDFzdjhfNDZJSldkNHBPY1Q2Z0ppMlhjeVlXdXhGeHZhdXQzRXRnc3FfUzd6RW8?oc=5",
+        "summary": "Off-World Supply Chain: Infrastructure That Will Define The Helium-3 Economy Business Facilities Off-World Supply Chain: Infrastructure That Will Define The Helium-3 Economy - Business Facilities",
+        "published": "Wed, 14 Oct 2026 16:25:00 GMT",
+        "published_kst": "2026-10-15T01:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nanoscope Therapeutics Appoints Troy Short SVP of Manufacturing and Supply Chain Ahead of Potential MOGENRY Launch - citybiz",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNlljdHFwWFhTVmphVG1IUGg5eG9DbGpLZHlUdV9nZ0tlR0FWcWpfamdRNE1GaVgwaExoMXlkOTRlWXFla1ZDVE9fbHhrYlQtbWFWVjlnY2w0elJxcUROblU3VF9vQTZSVC1ZclMxbkdxQ0NnYnF5NzI5T3NSOER6YXdOWmdxNERqcnBjbENzdnlUSW1BUFYtZUFhS2pKQ0FFYU5icy03Q1JBeVVBMmMwR2ZXYWFMWnA0ZnVGOWp1VEthanh0Zmc5YURCYUNTcG9nR1BqdEdOU1d6UWdpdjlpU01oZFdacGRI?oc=5",
-        "summary": "Nanoscope Therapeutics Appoints Troy Short SVP of Manufacturing and Supply Chain Ahead of Potential MOGENRY Launch citybiz Nanoscope Therapeutics Appoints Troy Short SVP of Manufacturing and Supply Chain Ahead of Potential MOGENRY Launch - citybiz",
-        "published": "Wed, 14 Oct 2026 12:53:28 GMT",
-        "published_kst": "2026-10-14T21:53:28+09:00",
+        "title": "Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVDdnT3JDZVFPaDNiNDlmcW85MXhtQmlLRGp2dWZ0UGtTOS14RkRBRWFZM0h4em8yLUJWNHpfUmkxTXZxZ1FIa3N2THZEdTNXY3B5bkRFNVp5aFhmR0psS01jT3lKekEzc2ZwdTh0QmI2SGFCaVlLeF9ZaG9mbkZIRkNydw?oc=5",
+        "summary": "The New York Times Judge Blocks Trump Administration’s Sanctions on 2 Groups Aiding the I.C.C. - The New York Times",
+        "published": "Wed, 14 Oct 2026 16:21:19 GMT",
+        "published_kst": "2026-10-15T01:21:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Europe Must Get Tougher on Russian Oil Buyers: Interview with Bill Browder, Architect of Magnitsky Sanctions - UNITED24 Media",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdHBuQTRyUFczVjlKLXpEN0VUYkhJMjNfalFPeUFIYnRxOXhDd0x1VHd3YTJPR3I4U0FrTTZxUGt2Z0M2endaV2JVekdMb3o2WUxxWkhMb29nT1F3c0NQTUtsRWI5WU56YXF3S0VWcEN3VkhHN2hSODZ2NlRQLU9xUW5oWlBNZTRoSXlLXzdoMDM5MUNFMzUzbFRfQnFLelNoZ255T2tvSUFkSVV4MG1UQWtmczkwcXYtVzNLY05BUTg0T2RCcE9NclJyV05HQ180Q1pld2NWbzJBeEtyZUsyOVlR?oc=5",
-        "summary": "Europe Must Get Tougher on Russian Oil Buyers: Interview with Bill Browder, Architect of Magnitsky Sanctions UNITED24 Media Europe Must Get Tougher on Russian Oil Buyers: Interview with Bill Browder, Architect of Magnitsky Sanctions - UNITED24 Media",
-        "published": "Wed, 14 Oct 2026 12:51:19 GMT",
-        "published_kst": "2026-10-14T21:51:19+09:00",
+        "title": "Europe’s food system faces growing climate and supply chain risks - Food Ingredients First",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWZDWjhHVDhzR0tPZGFnemNiMVJJSVNlTDhmVTBNaFFJYTAybkROMmlvY0dMd2dyYndWb011SmhSZzJtRFk3djRtcUFCbmNsUFExVU9YQUNUOU11cjVWNWVUQXMxUFpwNUx1cXNXWkFaVFpmMDVYT0VUWExFeFFSNUJGNmZWZG1vVEg4MThn?oc=5",
+        "summary": "Europe’s food system faces growing climate and supply chain risks Food Ingredients First Europe’s food system faces growing climate and supply chain risks - Food Ingredients First",
+        "published": "Wed, 14 Oct 2026 15:09:35 GMT",
+        "published_kst": "2026-10-15T00:09:35+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -151,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "The consumer price index rose by 3.7% in September, on the back of higher gasoline and energy prices largely due to the Iran war. Here's the inflation breakdown for September 2026 — in one chart / IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" YTN IMF \"한국 1인당 GDP 내년에 5만 달러 육박\"...KDI \"반도체 착시 걷어내야\" - YTN / tk accelis: Building a Predictive Supply Chain Control Tower Supply Chain Digital Magazine tk accelis: Building a Predictive Supply Chain Control Tower - Supply Chain Digital Magazine",
+  "wrap_summary": "OPM partners with White House fraud task force on hiring initiative Federal News Network OPM partners with White House fraud task force on hiring initiative - Federal News Network / 美~中 원유 운송비, 스페이스X 발사보다 비싸졌다 한국경제 美~中 원유 운송비, 스페이스X 발사보다 비싸졌다 - 한국경제 / Off-World Supply Chain: Infrastructure That Will Define The Helium-3 Economy Business Facilities Off-World Supply Chain: Infrastructure That Will Define The Helium-3 Economy - Business Facilities",
   "invest_summary": ""
 }
