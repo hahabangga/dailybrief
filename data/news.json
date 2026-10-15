@@ -1,74 +1,73 @@
 {
   "date": "2026-10-16",
-  "generated_at_utc": "2026-10-15T17:38:16Z",
-  "cutoff_kst": "2026-10-16T02:38:00+09:00",
+  "generated_at_utc": "2026-10-15T23:56:08Z",
+  "cutoff_kst": "2026-10-16T08:56:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "U.S. sues California in fight over checking citizenship of mail voters",
-        "url": "https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html",
-        "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress. sues California in fight over checking citizenship of mail voters",
-        "published": "Thu, 15 Oct 2026 17:36:53 GMT",
-        "published_kst": "2026-10-16T02:36:53+09:00",
+        "title": "A lot changed in stock market in just a few months. The single biggest risk did not",
+        "url": "https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html",
+        "summary": "In 2025 and into 2026 investors were told to avoid S&P 500 tech stock risk by moving to equal-weight. A lot changed in stock market in just a few months.",
+        "published": "Thu, 15 Oct 2026 23:12:24 GMT",
+        "published_kst": "2026-10-16T08:12:24+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-        "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-        "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies. Apple and Meta team up to make Muse AI model run on Mac computers",
-        "published": "Thu, 15 Oct 2026 17:29:40 GMT",
-        "published_kst": "2026-10-16T02:29:40+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Comcast Donated $7.5 Million for Donald Trump’s Lavish New White House Ballroom - Variety",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVmdCV1NDRXdMN01OSDRSVFVYNnFDSFE1R2w0NkhGNnU2T1hZMXUyRkhENTdTLXExYVFGZnhpdEM0bTM0NWVwTnc1TE5CRUxYMkFjQURqcUpmNW16bWxLLVdjLVVpeEFudDA2aXl0bFp2M1cwWWYyb2VpWEpkaFhkeDRhMHNIaGgwMVRlYlJIT2Q?oc=5",
-        "summary": "Comcast Donated $7.5 Million for Donald Trump’s Lavish New White House Ballroom Variety Comcast Donated $7.5 Million for Donald Trump’s Lavish New White House Ballroom - Variety",
-        "published": "Thu, 15 Oct 2026 17:21:00 GMT",
-        "published_kst": "2026-10-16T02:21:00+09:00",
-        "domain": "google.com",
         "key_figures": [
-          "$7.5"
+          "2025",
+          "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How to weather the current AI stock storm that we were all dreading",
-        "url": "https://www.cnbc.com/investingclub/2026/10/15/cramer-how-to-weather-the-current-ai-stock-storm-that-we-were-all-dreading.html",
-        "summary": "How to weather the current AI stock storm that we were all dreading We are at that moment.",
-        "published": "Thu, 15 Oct 2026 17:06:17 GMT",
-        "published_kst": "2026-10-16T02:06:17+09:00",
+        "title": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5",
+        "summary": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
+        "published": "Thu, 15 Oct 2026 23:12:17 GMT",
+        "published_kst": "2026-10-16T08:12:17+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+        "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
+        "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer. Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
+        "published": "Thu, 15 Oct 2026 23:08:05 GMT",
+        "published_kst": "2026-10-16T08:08:05+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5",
-        "summary": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports Reuters Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters",
-        "published": "Thu, 15 Oct 2026 16:09:23 GMT",
-        "published_kst": "2026-10-16T01:09:23+09:00",
+        "title": "Groups urge investigation of press secretary Katie Zacharia’s legal credentials - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVE0zQmN0bnBibmU2YUtrcnE3QWVzRkx4bmdQdE1VRHBfbUltVkhrWHFoVElnaERtbEhmRmw4NkVQa3FiZHBMTEgtYVZtREhpbVRRc3I1TDVLa0JqMnJDNVE0Vkpic2Y0NWVZZHV1TGg3T3JOQ2Y2VUtTdGU0MVFLcmlYUEZEd1Fhc1ZvOVlzQ2I0aExNNTFSTTRKd3BlZVhtTDlqdDBKSmxuUWlLWE5Pai0zTkRLZFhRODRRaVpjSHk1d2xmX1E?oc=5",
+        "summary": "Groups urge investigation of press secretary Katie Zacharia’s legal credentials The Washington Post Groups urge investigation of press secretary Katie Zacharia’s legal credentials - The Washington Post",
+        "published": "Thu, 15 Oct 2026 22:56:37 GMT",
+        "published_kst": "2026-10-16T07:56:37+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$25"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "New White House press secretary Katie Zacharia did not pass California bar exam - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUTZieE5CTVVyODVMZ3BGTE5PcVozVy1vbmczR1RZakVmdzVkalo5NW95T0NkdnNZaXJCQ1lQNU5XSENOaUUzdm9DWEQ1MHNCZ19qdmctZjdtMUh5LVpCTWhSWDNETmdrNERJZ1VCTVA1a3lmMnJsYV9CeWNvc1RVWWFmRktKV0xrMWFnbmJRVmg4TGdLcktpYm5WX3ljME1ZQVRpbVNuTlBPOXBGZ3ZxYVBlU0FNSEZwaHFycjl1SQ?oc=5",
-        "summary": "New White House press secretary Katie Zacharia did not pass California bar exam NBC News New White House press secretary Katie Zacharia did not pass California bar exam - NBC News",
-        "published": "Thu, 15 Oct 2026 16:00:12 GMT",
-        "published_kst": "2026-10-16T01:00:12+09:00",
+        "title": "Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+        "url": "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html",
+        "summary": "Big Tech gave millions to Trump's White House ballroom, documents show Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom",
+        "published": "Thu, 15 Oct 2026 22:48:12 GMT",
+        "published_kst": "2026-10-16T07:48:12+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Katie Zacharia appears to confirm she didn’t pass the bar exam - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUW1SMjNXbi15QmZPZzMtVXUzQmVKelVralo2N2ZIaXBDczJHMTc0MjRlalJfVkZoWkQ5YmJtNjFZRTM5aV9rallkd0R0SXpIWUxpOHlCX0dYRkZZa1lOc2c4aEFjckhJTGNkNlk2bnh6bnhxbFZ0VlhKbGNrVWFtRzlRckxWQXRiXzlfTVg5YXI1WkNtTGM2QmNRUHhSdWpzb2RFUkNJRDRiYXZzb2Z2T0hiWGo2Vm1kdU1wZFgyaEVKTGx2RFJnVW1xVzNWQQ?oc=5",
+        "summary": "Katie Zacharia appears to confirm she didn’t pass the bar exam The Washington Post Katie Zacharia appears to confirm she didn’t pass the bar exam - The Washington Post",
+        "published": "Thu, 15 Oct 2026 22:41:29 GMT",
+        "published_kst": "2026-10-16T07:41:29+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -77,33 +76,35 @@
     ],
     "kr": [
       {
-        "title": "\"오늘부터는 튀르키예인\"…한국인 '국적 세탁' 나선 이유 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEOTFvRXU1RXhvNThkSFRvVTJ1bG1YOWh3X2N6ZTh0dWhPZHdLTXdfenFMX1hLdk5sVmRrWi1EZXNRLW1mcTRuOEM5MUNCUlhOb3dlRERLRGFBZw?oc=5",
-        "summary": "\"오늘부터는 튀르키예인\"…한국인 '국적 세탁' 나선 이유 한국경제 \"오늘부터는 튀르키예인\"…한국인 '국적 세탁' 나선 이유 - 한국경제",
-        "published": "Thu, 15 Oct 2026 17:24:00 GMT",
-        "published_kst": "2026-10-16T02:24:00+09:00",
+        "title": "2조3000억달러 노르웨이 펀드, 방산주 투자 확대 검토 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBLThfa1lORF9BZDlPTlBlWUFBR1ltbU9aekZ1OEQxSXFtWkpYNk1VcGhNTmtXSG03WEs5bnE5YkFJZ3lkT1NrUUhPRW9KMXJIdnhRQ0tXZVhFdw?oc=5",
+        "summary": "2조3000억달러 노르웨이 펀드, 방산주 투자 확대 검토 한국경제 2조3000억달러 노르웨이 펀드, 방산주 투자 확대 검토 - 한국경제",
+        "published": "Thu, 15 Oct 2026 23:29:47 GMT",
+        "published_kst": "2026-10-16T08:29:47+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "3000"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "월소득 99만원도 국민연금 보험료 절반 지원받나 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KTVplWTN2T3AtTHl4Qm1aQWNzVGF4LXh5bGpqR09Rc3RBT0JvMjhCOUx3RDU0aTlhelpzcHJPQ21CZlRJNDd6bFpuSmpxS2d3ajNYS1ZCbEp0QQ?oc=5",
+        "summary": "월소득 99만원도 국민연금 보험료 절반 지원받나 한국경제 월소득 99만원도 국민연금 보험료 절반 지원받나 - 한국경제",
+        "published": "Thu, 15 Oct 2026 23:29:19 GMT",
+        "published_kst": "2026-10-16T08:29:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "오세훈 \"조합원 지위 양도 제한 3년간 한시 풀어달라\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2U2ZHYXFkNVVmblcxMmo4dlVQZlUwYUVISHQ3RWFJSlk4U2tiTmRXaWNTUDNvOUdkYTRYT2FmNDRHNldTVEc5NVYzNXZQcVZLWmhPcThFMkk3dw?oc=5",
-        "summary": "오세훈 \"조합원 지위 양도 제한 3년간 한시 풀어달라\" 한국경제 오세훈 \"조합원 지위 양도 제한 3년간 한시 풀어달라\" - 한국경제",
-        "published": "Thu, 15 Oct 2026 17:04:00 GMT",
-        "published_kst": "2026-10-16T02:04:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "애플, 시총 5조弗 돌파…엔비디아 이어 두번째 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jYjdkQkZYMWp2bDBFMGY4cGhhNjVEQnl4Tm5qeG1LdmpzQngySWt4TFloMGNYbUUxUG1vVlBRN3lCMDhUeHlWMFgyTzkydGNldVpza3QxLUpTdw?oc=5",
-        "summary": "애플, 시총 5조弗 돌파…엔비디아 이어 두번째 한국경제 애플, 시총 5조弗 돌파…엔비디아 이어 두번째 - 한국경제",
-        "published": "Thu, 15 Oct 2026 16:06:00 GMT",
-        "published_kst": "2026-10-16T01:06:00+09:00",
+        "title": "[밤 사이 해외 뉴스 영상] \"주식·채권·금 다 떨어진다\"…세계 경제 스태그플레이션 공포 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uRzk2TXp5dWFFcjJxa2tORGNaYjNHUDBwX3d4eEl4Rk1NeE83Wlo0VGgxZi1tT3NNbnpHWC04ZFI3b2JLQUFWTVhUZE5TS1RUcTI0MlNWSFNadw?oc=5",
+        "summary": "[밤 사이 해외 뉴스 영상] \"주식·채권·금 다 떨어진다\"…세계 경제 스태그플레이션 공포 한국경제 [밤 사이 해외 뉴스 영상] \"주식·채권·금 다 떨어진다\"…세계 경제 스태그플레이션 공포 - 한국경제",
+        "published": "Thu, 15 Oct 2026 23:26:10 GMT",
+        "published_kst": "2026-10-16T08:26:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +113,35 @@
     ],
     "world": [
       {
-        "title": "Oil futures: Crude steadies as US weighs easing tanker sanctions - Quantum Commodity Intelligence",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWRyTkk1QnpxZV9PMU9JRk05cVZMQ0RPdmRTTmJrRlhDNTRPYzNpcXFoWUZEakdyWmpCemJKdnpnRHFXZDNwSXBMNmdwRlRlZ3ppNmtEaGYtNWxPaDRfSUJOY2Z1UFVBMktxSFp2YWJsejJHRnBtM2Z3b3pTZ0I1YkpueGx4dnFlLTRNZzNIWnp5TDdGc3lGV3ZneDNzUEUwZDNfdzdTNFdPUQ?oc=5",
-        "summary": "Oil futures: Crude steadies as US weighs easing tanker sanctions Quantum Commodity Intelligence Oil futures: Crude steadies as US weighs easing tanker sanctions - Quantum Commodity Intelligence",
-        "published": "Thu, 15 Oct 2026 17:08:00 GMT",
-        "published_kst": "2026-10-16T02:08:00+09:00",
+        "title": "Dallas’ Nanoscope Therapeutics Taps Gene Therapy Veteran to Lead Manufacturing, Supply Chain - Dallas Innovates",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZDBIaW1ZNXI2ZFB1b0V3ZkFtN3JKa0puZ2JMXzVxUzd4SmR6WXkzRmY1cWZQcWtJakF3TFVFZWU5VnY4OHZQdTBVOW5ZamcyNXliM2NGVU5ESnljNDlWVXVvS3h2WGhQREhOOXplRE9FcVpibFZ6YVNUdlBHd05lQVVFUmZ6VllwZG5yWElBU2cxSl9jdWVyQkNmNDBrb1ROOTV2Q0R6dUV2a3l2anhJazNYLVRPY2E2blZB?oc=5",
+        "summary": "Dallas’ Nanoscope Therapeutics Taps Gene Therapy Veteran to Lead Manufacturing, Supply Chain Dallas Innovates Dallas’ Nanoscope Therapeutics Taps Gene Therapy Veteran to Lead Manufacturing, Supply Chain - Dallas Innovates",
+        "published": "Thu, 15 Oct 2026 21:13:41 GMT",
+        "published_kst": "2026-10-16T06:13:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "4flow: AI Decision Intelligence and Supply Chain Execution - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemo3Q21PRmR4MXpwUVlxWGlMNWx3X2tPN0N4QmpCaUhWaGtVNHZsNEJ5dUxtR2tpY3JpeWJCRXpEYWU5ZC1TTXlCejg1OHRKdEZOZzE4a2F2cS1nOHRqRXJKQnlvd1hRNWlybFdYenZZR2ZRc0l1VFFjZWU4VjlpTUtsS1k0Z1FTQlZvRlJLQjJ3aU5mZmRXNQ?oc=5",
-        "summary": "4flow: AI Decision Intelligence and Supply Chain Execution Supply Chain Digital Magazine 4flow: AI Decision Intelligence and Supply Chain Execution - Supply Chain Digital Magazine",
-        "published": "Thu, 15 Oct 2026 16:14:04 GMT",
-        "published_kst": "2026-10-16T01:14:04+09:00",
+        "title": "US extends sanctions waiver for Russian oil giant Lukoil until 2027 - Euronews.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzZCaVpGUDNmUExJV0dsbmt6V2RPbW1wdVpXNjc4RkZaOHo4SEF6QmFWbTdQcFVtVzg0ZXJueTNBaDNMLXRIa3M4blMxQXBkYUxGSEhXSzU3aTNFaDNPQmRtSUpJYUpfNWNZRmcwbnpxcHFEeFplYmJXajNyM181VVZ6dnQzQmpLX0p4WUVzMUJ0WXJjQmRCRXE5MXdmQVJMLWIwb2d3?oc=5",
+        "summary": "US extends sanctions waiver for Russian oil giant Lukoil until 2027 Euronews.com US extends sanctions waiver for Russian oil giant Lukoil until 2027 - Euronews.com",
+        "published": "Thu, 15 Oct 2026 19:35:19 GMT",
+        "published_kst": "2026-10-16T04:35:19+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief - gCaptain",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcExld0o5M0MyMUMzMnBKTk5QRE9vWTZhM3BLb095cXFNNmxZSDhqVDhlVHlMOThnYVN2di0zYS1Eb2tlSnluNHRrcEo3Z2pWWVdjZkpseHNfd0dQZ3RSc3AtN2M1aTdTNGRrX1ZEbFg1TlZMQm5Od1k4VUNXS0xJbXdn?oc=5",
-        "summary": "Weighs Relief gCaptain UK Tightens Russian Oil Sanctions as U.S. Weighs Relief - gCaptain",
-        "published": "Thu, 15 Oct 2026 16:13:31 GMT",
-        "published_kst": "2026-10-16T01:13:31+09:00",
+        "title": "Mosaic to lay off nearly 200 workers at Polk County facility as Iran war throttles supply chain - WFLA",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMmVVR0RSczQ5RGloa3g0ODVPc1NxU1kyQnJaMC1WbzE0Q2FSS2tSYzFqUjFVWHVrLVRTS3cxbkh1SkgzQzduemJ4R2ttb3luc3IxUnQ3dnQ2MzZ0eHFKNGpwUWw2YUJCcXBlNnRJX19XaVR5NndSVnYxcEFCQVpRbWNEMWxGUFVyVFI3NFJKYTBMTTZLTmZBcUM0NElQMDNKTy1oWmoxQ2xyemlCdEV6YThkYmZlSTJrOTRIZllyZXdEUnlMNkpwUk1FYmxCMlHSAdQBQVVfeXFMTVhxLV9DMkhLbEZISGF5TTJ6b2tZNGlIdkpIaC0yT2pBaTVhRXdYVmt5V3lnbXBVdU14X3FyXzE3aGdELUFmNUpseENWd1VjNmZENFRiM2hleFlRNEs0OXlha0twbk5XZVZIVWwwMFc1R3pueDV2SUxQWVZ0aUxINmhNYU5GLURrU0tPUURsNXFnc051VEtzaWI4eW1FTnR6dWVmUFlLUGt0VlBNNS1ncGZqV2V4Y1c1X3UtUFdOQVhWTHhiZGNORWhTczRxek1jMVJtazg?oc=5",
+        "summary": "Mosaic to lay off nearly 200 workers at Polk County facility as Iran war throttles supply chain WFLA Mosaic to lay off nearly 200 workers at Polk County facility as Iran war throttles supply chain - WFLA",
+        "published": "Thu, 15 Oct 2026 19:23:37 GMT",
+        "published_kst": "2026-10-16T04:23:37+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +149,6 @@
       }
     ]
   },
-  "wrap_summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress. sues California in fight over checking citizenship of mail voters / \"오늘부터는 튀르키예인\"…한국인 '국적 세탁' 나선 이유 한국경제 \"오늘부터는 튀르키예인\"…한국인 '국적 세탁' 나선 이유 - 한국경제 / Oil futures: Crude steadies as US weighs easing tanker sanctions Quantum Commodity Intelligence Oil futures: Crude steadies as US weighs easing tanker sanctions - Quantum Commodity Intelligence",
+  "wrap_summary": "In 2025 and into 2026 investors were told to avoid S&P 500 tech stock risk by moving to equal-weight. A lot changed in stock market in just a few months. / 2조3000억달러 노르웨이 펀드, 방산주 투자 확대 검토 한국경제 2조3000억달러 노르웨이 펀드, 방산주 투자 확대 검토 - 한국경제 / Dallas’ Nanoscope Therapeutics Taps Gene Therapy Veteran to Lead Manufacturing, Supply Chain Dallas Innovates Dallas’ Nanoscope Therapeutics Taps Gene Therapy Veteran to Lead Manufacturing, Supply Chain - Dallas Innovates",
   "invest_summary": ""
 }
