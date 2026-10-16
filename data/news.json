@@ -1,72 +1,74 @@
 {
   "date": "2026-10-16",
-  "generated_at_utc": "2026-10-16T10:11:15Z",
-  "cutoff_kst": "2026-10-16T19:11:00+09:00",
+  "generated_at_utc": "2026-10-16T14:41:12Z",
+  "cutoff_kst": "2026-10-16T23:41:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Power struggle erupts in Trump’s White House as midterm losses loom - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSVVVTURrb1VQcVNwWEFMX2xYUnlQSV95TFV6MVJ4ZTBKSENmcmtHM29HeGVsYkZKMUI0RC1DbHpJdDM2dXNmcDFEanlFUnd6QmtNeEtQNzR0c1FhanlnbW9scU02cXpLdkRmWU9XTTRfZG9YWFd3UDJYbHVuR0dhTHpsV2FmRk9JbElGVDBWRFAycHJuT0E0NDh5ZG1sYnRtUXNOVU5SUUdoVkJhMnc?oc=5",
-        "summary": "Power struggle erupts in Trump’s White House as midterm losses loom The Washington Post Power struggle erupts in Trump’s White House as midterm losses loom - The Washington Post",
-        "published": "Fri, 16 Oct 2026 10:04:45 GMT",
-        "published_kst": "2026-10-16T19:04:45+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Hot US inflation singes Asia as higher-for-longer Fed rates loom - Asia Times",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORDZ2MVpQMVRaN2h4M3VkSnZrUm9icS1EbEVrbDd4bk1lZ1FRZk1saklxUnlyZm5sWHdFSjQ0UDZwWlJWTUdxaUlQdDVHRTRkcHBpXzZlTTlBSmdfbFdVZFVVRVptZnlpMGVmcmlTUEhXdTJudHZQdXl2em8yVm11bENUWFA1YzhscFB0cHFaQ2k0Q20wbzI2T25uRQ?oc=5",
-        "summary": "Hot US inflation singes Asia as higher-for-longer Fed rates loom Asia Times Hot US inflation singes Asia as higher-for-longer Fed rates loom - Asia Times",
-        "published": "Fri, 16 Oct 2026 09:54:46 GMT",
-        "published_kst": "2026-10-16T18:54:46+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
-        "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
-        "summary": "Trump says he won't use nuclear weapons or send ground troops to Iran Trump said he would not use nuclear weapons against Iran or send ground troops as the U.S.",
-        "published": "Fri, 16 Oct 2026 09:46:54 GMT",
-        "published_kst": "2026-10-16T18:46:54+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Tesla reveals next-generation Roadster after almost a decade of delays",
-        "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-        "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date. Tesla reveals next-generation Roadster after almost a decade of delays",
-        "published": "Fri, 16 Oct 2026 09:42:24 GMT",
-        "published_kst": "2026-10-16T18:42:24+09:00",
+        "title": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+        "url": "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
+        "summary": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade. Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
+        "published": "Fri, 16 Oct 2026 14:26:05 GMT",
+        "published_kst": "2026-10-16T23:26:05+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2017"
+          "$330"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Hotter Inflation Data Might Change The Case For Investing In Marvell Technology Stock - Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNlloVWJqS1JJOHI2TzFFazlqM3ozLWpfRE1RaGswNWlMYnU2ZU93bHV2NEozRmVCVnVBUnR2ZFBHckdnUTBzNmJPTnB4dFJwV2tiQlNxaDNJLUFianhRV3FzcnFMNjRlT29GcFRXM2dQc3g5aVhDQ0Z6c1RFZ3lERFhmQnpwZEl1ZnJBSXRhbGlfU1ZOYk9VcjQ1Zm5EbnZySlBsZjFlQlpQeE9aX2dJYXYyTGlpaGYzVDg2LWIxMkFoQ21zOUdYSkJCUEJRS296YXNLeHc4cFRhY1nSAeABQVVfeXFMT3ZjcXB1eXk0LWdlM0NVcnNCWWRadUxnNHY2c0pzanNLMmZjaW1uT3F5VVpQU2d0SFc4bllRTVdFeWtRR1N5MEQtZHZnZTQtWVdJVmRUVzBNOEpSNXVVRUdtRkhpUTNXaVg1b09rclJWRldaU1F0ZzhxU290QUpiTV9FdXNQMDBxS1BOTGVUWlpwT3h6MjBYNG1GYnBzZ1pDTng2QkJFVWVCeUFfNEhmUjM5cVF4dGJadmFncTdPUVkyd25ya3ZpbVZPaUJic1ZRS0tzS1hQem11OU1WR0xSeHc?oc=5",
-        "summary": "Hotter Inflation Data Might Change The Case For Investing In Marvell Technology Stock Simply Wall Street Hotter Inflation Data Might Change The Case For Investing In Marvell Technology Stock - Simply Wall Street",
-        "published": "Fri, 16 Oct 2026 09:36:22 GMT",
-        "published_kst": "2026-10-16T18:36:22+09:00",
+        "title": "See the full list of major donors to the White House ballroom - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOV9NWTA4UzRXWW1icGR3Umk1LXB1U21jemwyQ3I5VVdCTUloRURDQ3ZHTWNQb1ZNOXVGZnNsclZydTZwbFRDOF8tM29vbnUxSFFselBXX0tEeW9EODQ5VDB5Z1lQeUhyRjZfek4yN0wtRjUtcXRSNmM5RU5oWWFFQkNLcGgzRmRkd2hTYTlRTXhSUDcwZVQtQmI0XzVXZw?oc=5",
+        "summary": "See the full list of major donors to the White House ballroom The Washington Post See the full list of major donors to the White House ballroom - The Washington Post",
+        "published": "Fri, 16 Oct 2026 14:15:04 GMT",
+        "published_kst": "2026-10-16T23:15:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit",
-        "url": "https://www.cnbc.com/2026/10/16/zelenskyy-trump-eu-summit-russia-ukraine.html",
-        "summary": "Zelenskyy's strained relationship with Trump is clouding the EU summit focused on securing further support for Ukraine. Zelenskyy praises 'real leaders' in Europe, as his strained relationship with Trump overshadows EU summit",
-        "published": "Fri, 16 Oct 2026 08:52:54 GMT",
-        "published_kst": "2026-10-16T17:52:54+09:00",
+        "title": "US Stock Traders Are Beating Bond Desks. What it Means for Bay Street - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRkx2dldSTjg3QUZka2dnUFNlbnJMZVBYNlhqQlVLUllSV29rVHJfcHFtYUlaN2VXa0sweXV4WlQzTEVfaGxOd3pPYkJGbDBoUEFsdURva2l0djVicklzWUtsS0FmMlR1UVBlbWJIU19yckhPdXV5Y2xQMy1QZWJiVFhHa3ZCWkY3UHQ1bHBZNEFmWHZNWkNMTlpPWjBDWEtXNlplM1RHdU5XZFRXb3JYRjNrY1Z1NDR0OG9ySWZ6MA?oc=5",
+        "summary": "What it Means for Bay Street Bloomberg.com US Stock Traders Are Beating Bond Desks. US Stock Traders Are Beating Bond Desks.",
+        "published": "Fri, 16 Oct 2026 14:12:51 GMT",
+        "published_kst": "2026-10-16T23:12:51+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump called Katie Zacharia an 'attorney,' but she didn't pass the bar exam. Who is the new White House press secretary? - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNUZnVFdXdWgweFRHYmxJXzB5MGYwYTRxanY1TWxnYWxuaXZNdGJvck1tZWlxcFdhRUJEYThSNjFfT0NPZWo5dHVBRk4xNHAtcm82U2NvVUx0ZjNDUmZtWm5od3hIc1V0NE5ra0lJZ2Y0MVJVSldFbW1LQkg4el9WT1NUWkRVTm5TXy1sdm5YbFc2QjlkR3Fxb241LUhld0FOMmU5ZG9Jakh2aTJOeHhWNHFUN1J4eklGbzZXV2RnWi1rUXl6OHE1X3VnSzB6SzY2MER6bjFlblAwN0FHWVoxNktoZG1NTURiZUpIVzdaa0hDMk05ZjFLU181OTRWQjdxSVNF?oc=5",
+        "summary": "Yahoo Trump called Katie Zacharia an 'attorney,' but she didn't pass the bar exam. Who is the new White House press secretary?",
+        "published": "Fri, 16 Oct 2026 14:05:46 GMT",
+        "published_kst": "2026-10-16T23:05:46+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
+        "url": "https://www.cnbc.com/2026/10/16/eutelsat-starshield-ukraine-spacex.html",
+        "summary": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine. Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
+        "published": "Fri, 16 Oct 2026 14:04:19 GMT",
+        "published_kst": "2026-10-16T23:04:19+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "19%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says",
+        "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+        "summary": "digital infrastructure, Clayton said on \"Squawk Box.\" AI 'espionage' is a reality that companies need to be 'wary of,' DNI Jay Clayton says AI \"amplifies\" existing cybersecurity risks toward U.S.",
+        "published": "Fri, 16 Oct 2026 14:02:14 GMT",
+        "published_kst": "2026-10-16T23:02:14+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,33 +77,33 @@
     ],
     "kr": [
       {
-        "title": "한·미 재무·중앙銀, 사상 첫 '2 + 2 회의' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLTzFOckdBMURZbm02SnhSNVFMbzJQbTFPR0lZVVpPN1g3cHRPczJGSk1jMVNPOVJnN1N6eXVrZ0drVkFIdXYxbGtBLVpIYXU5SlUtX2RWWnNCQQ?oc=5",
-        "summary": "한·미 재무·중앙銀, 사상 첫 '2 + 2 회의' 한국경제 한·미 재무·중앙銀, 사상 첫 '2 + 2 회의' - 한국경제",
-        "published": "Fri, 16 Oct 2026 09:14:49 GMT",
-        "published_kst": "2026-10-16T18:14:49+09:00",
+        "title": "\"한국에서만 판대\" 문 열면 싹쓸이…그야말로 '초대박' 났다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53MTl2SkwzZlhmTXVFa2hGekxvTlBzbTNKS0M3T2pRaDc2M1pzOWJQMnVhWnNQZ09GYlotR05hS0ZtMW5TOW1fRG5uTzFDemhXQnBzTnNIVUJMUQ?oc=5",
+        "summary": "\"한국에서만 판대\" 문 열면 싹쓸이…그야말로 '초대박' 났다 한국경제 \"한국에서만 판대\" 문 열면 싹쓸이…그야말로 '초대박' 났다 - 한국경제",
+        "published": "Fri, 16 Oct 2026 13:45:00 GMT",
+        "published_kst": "2026-10-16T22:45:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "월가 \"코스피, 역대급 저평가\"라지만…AI 실적 의구심 풀려야 반등 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jX2VyN2lVb3JwU0hUdi1sUERybEJJZ2c4YWxlcVlOWnBLRDhpcGtndWRicHBaV1pPUVFBeEJsS0stbXJLNVNlSldMbUplLUVOVkJURFRDbWVfdw?oc=5",
-        "summary": "월가 \"코스피, 역대급 저평가\"라지만…AI 실적 의구심 풀려야 반등 한국경제 월가 \"코스피, 역대급 저평가\"라지만…AI 실적 의구심 풀려야 반등 - 한국경제",
-        "published": "Fri, 16 Oct 2026 09:12:59 GMT",
-        "published_kst": "2026-10-16T18:12:59+09:00",
+        "title": "CPTPP 발효 전후 우리나라의 경쟁력 분석 - KDI 경제교육·정보센터",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWMDJxZGt3bXhUcGh1VWZySDJIM1lwVDkwVFdPcE5jMV9YZWluczJsU084eVdzWXBGeS15MnpUSmpGYm9vM2hOUDdxWUFtRUVvZUJiZ2VXd1lFSURDbS1rMkJtcFNNUjRMaWw4?oc=5",
+        "summary": "CPTPP 발효 전후 우리나라의 경쟁력 분석 KDI 경제교육·정보센터 CPTPP 발효 전후 우리나라의 경쟁력 분석 - KDI 경제교육·정보센터",
+        "published": "Fri, 16 Oct 2026 12:51:56 GMT",
+        "published_kst": "2026-10-16T21:51:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[책마을] '실패할 기회' 남녀가 잘 나눠쓰고 있나요 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44dzdZcVNEaEdFOVNQbHc5VWlFZl9WNzFOZGFZZXNnUkpEN05pVUt4SVM5VE1IU3pRRmJPS042UnNlUnVhclgwZi1yeXhxQ2NjTFB1SWxNOUVWUQ?oc=5",
-        "summary": "[책마을] '실패할 기회' 남녀가 잘 나눠쓰고 있나요 한국경제 [책마을] '실패할 기회' 남녀가 잘 나눠쓰고 있나요 - 한국경제",
-        "published": "Fri, 16 Oct 2026 09:09:58 GMT",
-        "published_kst": "2026-10-16T18:09:58+09:00",
+        "title": "조정식 의장, 방한 美 전직 의원단 면담...\"한국 기업의 대미투자 지원 당부\" - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GbTNQWW1QeGhDOHRBam5iU0VKVTkzLS1hbzQtMnFnMVYzNEpKM19jNDh3VFBwZTdWaHdaNzd4QVhUS1RnYjl0RWFHcWNxMmI0NEg2dnhIZmpLUmZQ?oc=5",
+        "summary": "조정식 의장, 방한 美 전직 의원단 면담...\"한국 기업의 대미투자 지원 당부\" 뉴스핌 조정식 의장, 방한 美 전직 의원단 면담...\"한국 기업의 대미투자 지원 당부\" - 뉴스핌",
+        "published": "Fri, 16 Oct 2026 12:35:00 GMT",
+        "published_kst": "2026-10-16T21:35:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,35 +112,33 @@
     ],
     "world": [
       {
-        "title": "Japan’s NX Group completes takeover of Canadian logistics firm Metro Supply Chain - Cargo Airports & Airline Services",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT0pCOTlSZ3d0QURPb1VtVFNyanY4QWF3M0FwSUV3OE9BX0NHWTI5bTBDWkRrUU5sczdUSnlRNDlYVm1CMDRHejhhSEpDYUp6WlgxVF9ZbExXdjBZNGt5UzJuT3pPRmJHWVhUMk8zQS1WUjRLaWVraUc3dHRBWTNGcXFpc1lwOS1ZdUwyazRwb2NZQXF2YkcwYUQ0UEExc3lfN0dz?oc=5",
-        "summary": "Japan’s NX Group completes takeover of Canadian logistics firm Metro Supply Chain Cargo Airports & Airline Services Japan’s NX Group completes takeover of Canadian logistics firm Metro Supply Chain - Cargo Airports & Airline Services",
-        "published": "Fri, 16 Oct 2026 08:52:42 GMT",
-        "published_kst": "2026-10-16T17:52:42+09:00",
+        "title": "From library to logistics: Cathy Morrow Roberson shares career insights - Supply Chain Dive",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS284Sl9tUGw2cWNoNm40WG5KSElUb2pWb1otakY1WXVFMW9lcHVkU2dvUlhWOFBjcjg3LVdEZm83REM1a2phaEZIT2VOSnN5dnhwUkUwQWZKUUlOR3M0NG5GaDNWMkpwRWNwTVRZZ1ZCNjRoU2tkeFR4M0JXTWlEdlQ3bUwwdXhCMW1ncTUtX3Q2aDVESTJlaXl3d1ZzVUFZc3J1VGlFTWp5clVJNFVBd2dxV3lTUQ?oc=5",
+        "summary": "From library to logistics: Cathy Morrow Roberson shares career insights Supply Chain Dive From library to logistics: Cathy Morrow Roberson shares career insights - Supply Chain Dive",
+        "published": "Fri, 16 Oct 2026 14:35:40 GMT",
+        "published_kst": "2026-10-16T23:35:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Global Trade in 2027: Why Supply Chain Flexibility Will Matter More Than Ever - Global Trade Magazine",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRll3RHdhSklBM0FvdHZDaDdsU091X0JnVWh5OFpQVlVsV2ljZ0F6dUVFdEp1c2hsNkdvLU5pTEx3YTJFNmtULXV6NkRPM0lmci1ZZjBaRHRjVVJjb1JTTVhyaXV0bkV5THJtRzJWWUhYOGhwMHpMYVFQVHRlczJUWlRDeGMxaks1ZDVNeVczRmFXWEthSnlwN2RGcHBfcXdBOU4zY1Z2SWlETlZW?oc=5",
-        "summary": "Global Trade in 2027: Why Supply Chain Flexibility Will Matter More Than Ever Global Trade Magazine Global Trade in 2027: Why Supply Chain Flexibility Will Matter More Than Ever - Global Trade Magazine",
-        "published": "Fri, 16 Oct 2026 08:33:30 GMT",
-        "published_kst": "2026-10-16T17:33:30+09:00",
+        "title": "DHL Freight Adds Chinese Electric-Truck to Dutch Network - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUkUwLVk3Zi1BSTVZUmJkUkVDd3o5YUxYMzc0ZmZDN1A3OXJlWjVWNXQtMTA0OWNmQWcxa2V0d1oyREE4dzdyb0lTRlNrWVBUeDA1M1RRNk1FYXNkWW4xdUtFcmpKX25WQzNiei1OcE0zMnI2WUlfOXdPMllTMkVJZ2RxYmVCOXFXVnFYMW1maFJFM1BHejE5bA?oc=5",
+        "summary": "DHL Freight Adds Chinese Electric-Truck to Dutch Network Supply Chain Digital Magazine DHL Freight Adds Chinese Electric-Truck to Dutch Network - Supply Chain Digital Magazine",
+        "published": "Fri, 16 Oct 2026 14:33:49 GMT",
+        "published_kst": "2026-10-16T23:33:49+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2027"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "‘CBI’s response to sanctions is to curb inflation acceleration, strengthen economic resilience’ - Tehran Times",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaVF3b0RGd0c5dURPb3NGLXdicE14YlVtemtJVU5rbjE0Y0lsRjFlNlRfRHZEM2pGY0paakJTY1RaNDJaUV9PQi1TMFBfWmJmRy1JQXU3OGdsOTNkMVdCbkhpemt4VGRjMXFLSEZjTl9jYy1uajNCRkEwS202T3ZORmNsYVVXMHZVMU5YVkhncm5MREVINE5Oc2I1WEZxb2VwMmpr?oc=5",
-        "summary": "‘CBI’s response to sanctions is to curb inflation acceleration, strengthen economic resilience’ Tehran Times ‘CBI’s response to sanctions is to curb inflation acceleration, strengthen economic resilience’ - Tehran Times",
-        "published": "Fri, 16 Oct 2026 07:54:42 GMT",
-        "published_kst": "2026-10-16T16:54:42+09:00",
+        "title": "Italian Prime Minister promotes EU supply-chain autonomy - Digital Watch Observatory",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03OVFwMkNuRGNSSnE1UnJpR2swVC1NOVVZb01fU0dKcFZnd2FET1EyS0NLVWo1NDl6T2xiQ2NucWFUVVBNeTh6YjRWdWl2VnhfTG9lOXQzdGpWRlNLam1hTzQzMnBlald1cnFqbVZldFdRcTVfeVc4?oc=5",
+        "summary": "Italian Prime Minister promotes EU supply-chain autonomy Digital Watch Observatory Italian Prime Minister promotes EU supply-chain autonomy - Digital Watch Observatory",
+        "published": "Fri, 16 Oct 2026 13:26:09 GMT",
+        "published_kst": "2026-10-16T22:26:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Power struggle erupts in Trump’s White House as midterm losses loom The Washington Post Power struggle erupts in Trump’s White House as midterm losses loom - The Washington Post / 한·미 재무·중앙銀, 사상 첫 '2 + 2 회의' 한국경제 한·미 재무·중앙銀, 사상 첫 '2 + 2 회의' - 한국경제 / Japan’s NX Group completes takeover of Canadian logistics firm Metro Supply Chain Cargo Airports & Airline Services Japan’s NX Group completes takeover of Canadian logistics firm Metro Supply Chain - Cargo Airports & Airline Services",
+  "wrap_summary": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade. Blue Origin plans $330 million Florida expansion to ramp New Glenn launches / \"한국에서만 판대\" 문 열면 싹쓸이…그야말로 '초대박' 났다 한국경제 \"한국에서만 판대\" 문 열면 싹쓸이…그야말로 '초대박' 났다 - 한국경제 / From library to logistics: Cathy Morrow Roberson shares career insights Supply Chain Dive From library to logistics: Cathy Morrow Roberson shares career insights - Supply Chain Dive",
   "invest_summary": ""
 }
