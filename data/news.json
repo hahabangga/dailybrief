@@ -1,75 +1,70 @@
 {
-  "date": "2026-10-17",
-  "generated_at_utc": "2026-10-17T13:32:47Z",
-  "cutoff_kst": "2026-10-17T22:32:00+09:00",
+  "date": "2026-10-18",
+  "generated_at_utc": "2026-10-17T16:09:38Z",
+  "cutoff_kst": "2026-10-18T01:09:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones - ABC7 Bay Area",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdk9YczFLQzhfbF9jSnRkejNXRW02YnBVYnFrd19kN3Z5Y2xEcGVoXy1OdTZMem1xWURGNlRzZ3ZuLURGMml3d3JkcENrdkdEY1gwVG93RzlrLUhnWnBzZ25ndndOaWZzOE1SOXpiLUJ2ZmY2YmFvdXNHWjdpTS1RTGZMYmNrY2NSdmlYbm9KaWdxM0FVNHlvU0U5Nmo1bG9XU1JHRm5IX3FXM3ZuUXdmV3I2RzRwMlFZdUNySVJaWVZmenhIYVM0clFDdmbSAdIBQVVfeXFMTy1qSnlXenY0OGdOVW5tVDg1QWdhdUxZNUotdnRySU1KaGhDQUVpRzc3RG91RU9xUUpQQ1N1WmhDcHdUbGFEd2ZqV0xvWndKQlhpd19HSUZNMVE3NzZscEYtbFFockJoQXNwanNtcTFlVFVUUGFfZi15RXV4bUZMcDl5NXcxc2JKZEZfYnRtNFU2akJNR1h1ZUs1cGZSQjlSQ3BUSGxKS2Y2dEVwblBpaXlUZUNMVWU5OGo3VGtFQW9DM25aOHRzUTJaX2ZVaS03VGp3?oc=5",
-        "summary": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones ABC7 Bay Area Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones - ABC7 Bay Area",
-        "published": "Sat, 17 Oct 2026 13:13:08 GMT",
-        "published_kst": "2026-10-17T22:13:08+09:00",
+        "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+        "url": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+        "summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+        "published": "Sat, 17 Oct 2026 15:42:34 GMT",
+        "published_kst": "2026-10-18T00:42:34+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Big earnings reports, homebuilding and the mood of consumers up front next week - AP News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdm1GdW1KNVNQc0VkSG9kLU5ZODhKNXgtQTRIWE9VaTFMbWo4RlUtVkJPcDBlQVA5dmZON0ctaEtwVFJPLS1BaTV0X256NG5jcURvRm8ybjRJY3hkM1VSa1UtcGtYcGtSV3BuUThSUFQ3RnRoM0Fvc09OR0UxM2ZFYkdnTFV6bEFNb0c0Ry0xMnFJb1BuY2dqZ0NkeTlyRnpSM3BRdjdmRUFJQmpn?oc=5",
+        "summary": "Big earnings reports, homebuilding and the mood of consumers up front next week AP News Big earnings reports, homebuilding and the mood of consumers up front next week - AP News",
+        "published": "Sat, 17 Oct 2026 15:32:00 GMT",
+        "published_kst": "2026-10-18T00:32:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-        "url": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
-        "summary": "Kelly Schultz bought a pumpkin farm in 1996. 'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-        "published": "Sat, 17 Oct 2026 13:00:01 GMT",
-        "published_kst": "2026-10-17T22:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$2",
-          "1996"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-        "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-        "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year. Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-        "published": "Sat, 17 Oct 2026 12:46:21 GMT",
-        "published_kst": "2026-10-17T21:46:21+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2025"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
-        "summary": "Trump faults aides as Republican midterm prospects dim Reuters Trump faults aides as Republican midterm prospects dim - Reuters",
-        "published": "Sat, 17 Oct 2026 12:05:14 GMT",
-        "published_kst": "2026-10-17T21:05:14+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+        "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
         "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-        "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway. Bending Spoons wants to revive software castoffs.",
-        "published": "Sat, 17 Oct 2026 12:00:01 GMT",
-        "published_kst": "2026-10-17T21:00:01+09:00",
+        "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway. Software’s new consolidator gets big vote of confidence from Berkshire",
+        "published": "Sat, 17 Oct 2026 15:11:30 GMT",
+        "published_kst": "2026-10-18T00:11:30+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5",
-        "summary": "Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress NBC News Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News",
-        "published": "Sat, 17 Oct 2026 11:59:00 GMT",
-        "published_kst": "2026-10-17T20:59:00+09:00",
+        "title": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQzV3OUN4YUtURHoxVG1sTV9uMjVTdFU0Tmlqc2hod0trU1hzQnMzUTc5UE12TGJsMVJmOVU1VEFxWXVSOEJxOU5sR3FwUFc2OFY0b2NKczZOR3pjX0xTWlJacDZSdWk1SmgxVjJvVTRWQVZyckd3MW14dFRiM0RJb3F6bG15MGNyTFJtOU1IVDVLeTNHSjZsMzl2aFB1azZZRG5TajhNTUVGUQ?oc=5",
+        "summary": "Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen AP News Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen - AP News",
+        "published": "Sat, 17 Oct 2026 15:09:00 GMT",
+        "published_kst": "2026-10-18T00:09:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+        "url": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+        "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure. 'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+        "published": "Sat, 17 Oct 2026 15:00:01 GMT",
+        "published_kst": "2026-10-18T00:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold - NPR",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MGlLYl9jeVFRcDdiaWJaSWtUdkpoUHJaczN0bldDUDY3ZW52TEh2QmZZOHU1X1JmVVNNMm9YbjdlaDNGUDFxYjAxdGlsYWxuRllHanZGMXhUWmtCUy1oZjcybFNhRnlJdnRJT0dVaXJ2UQ?oc=5",
+        "summary": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold NPR Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold - NPR",
+        "published": "Sat, 17 Oct 2026 14:25:10 GMT",
+        "published_kst": "2026-10-17T23:25:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -113,6 +108,28 @@
     ],
     "world": [
       {
+        "title": "Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions - NDTV",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLTgzMzVEMDVQQ2h3U05KbFpwZ1FHMVBGUWY1WjNoY0ZGbHBXX3JBbXpmSVdHRnJPOUxuN2xiS2VlWHotcmUtekd6X0h6NmxQT2RBM3g1Zkw2X18tcGI1TFhHT0Q0eW5pR045ODBnT1BIVzlJMjhCdVdQd2hZeUdWLTdJNS1OZXZwNGp0ek5LYVZLdXRKMTU4X1lfUFFNZWdhLUVhdGpDcTJCck9vRFBZ0gG3AUFVX3lxTE1YeHcwWVZVZ1ZoYmdESFNLNjNOUDZ4Ujk1eUUtV0syWGY5dVoxNVc5UVBKcFI4b2NUeW05NWo2ZUVkeFBON3VLcC02RTEwdl9XbWRwOGxqSEVORGNSVWxQNGthUWNCV3ZHemFsbzVQTzVWSUdSa18xSG8yMVdIaVFiVVFXSEI0OVBxMmtwY25EMU5FUnVxQnNCaWo4R3FCZG02QlowMXdRVHZMZlhRV3duVkxGZmR4bw?oc=5",
+        "summary": "Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions NDTV Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions - NDTV",
+        "published": "Sat, 17 Oct 2026 14:23:42 GMT",
+        "published_kst": "2026-10-17T23:23:42+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVJVYkJ2aENjcjBpOGo4YUNUS01pOGowSWxpc0hzUXlUWUN0ZnFISmpiQXlXNXgwb1N5VzhsX19aN3RIRXptOVlBSktwZW1DR0N3eVhSUUt3QlRQQnFTSUhNcnpIcWIxVnNweHRFMFc5ZTUzZWktVGwwMTkzRGRTZGo2Qm0zY3o5aHFNTHJfY2lheGp0TXpOOWtlZm5WRGZZZ0JHTFktaHNBYjNrdkNZTVd4T1B4bXNkaVNNbkh5RQ?oc=5",
+        "summary": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says The Guardian Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says - The Guardian",
+        "published": "Sat, 17 Oct 2026 13:28:00 GMT",
+        "published_kst": "2026-10-17T22:28:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
         "title": "Ukraine War, Day 1,696: Trump Refuses To Implement New Russia Sanctions - EA WorldView",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1R1ZVEzUW9oaXY3ZlMySHZxWVhfVnpIbmdldV9CVGt2MnBjYll3MGlFOVNfZzVLNWdTUWswamwxeDJJelJvckp3VEFfRFhaQURVbGI5SHJPWE04VjlRdGdkR181TTNHekxXXzBHb1dfRXlQZDBvRVlsMWNpZ2FqYU1RejgtWG1hVzJLOUFmeTdtOGQ4MTkw?oc=5",
         "summary": "Ukraine War, Day 1,696: Trump Refuses To Implement New Russia Sanctions EA WorldView Ukraine War, Day 1,696: Trump Refuses To Implement New Russia Sanctions - EA WorldView",
@@ -122,31 +139,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RS3I2MGlpT0lTUm00NkJ5SUpIbVZRX0I5U3N0ZlViR1RXbjlDR0VCcEppZmVEQVFKU29vSE5Nd2RYc3Yxc1lyTGxURHhUUjNRQURHT1RSWDhZaUE?oc=5",
-        "summary": "Trump waives several Russia sanctions as row with Zelensky intensifies BBC Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
-        "published": "Sat, 17 Oct 2026 11:56:06 GMT",
-        "published_kst": "2026-10-17T20:56:06+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump waives some Russia oil sanctions, easing pressure on India - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXRUbU14UUEycXV2RjdwUXdXRTlDTGlsZWpSS01wWVpXTXQxMFZxQW82TzRDRVYzSUVpTm5OTk5QSzdJWndXZFZ6ZTduSVVDOF9uUk9tWm5kOU1WQ2hZTEpYcW4xNE9OZlNYd0xCOWNJOXh3dlg0SGNwa2pyTkZMR0NlOC1yYnRzaWtOZFJNcE16YTNMMExoWkdPb01zTTQzOHFJS1RIUlhTckhhZzA5X2J5Nmgtbzd3RVlZZw?oc=5",
-        "summary": "Trump waives some Russia oil sanctions, easing pressure on India TradingView Trump waives some Russia oil sanctions, easing pressure on India - TradingView",
-        "published": "Sat, 17 Oct 2026 10:48:51 GMT",
-        "published_kst": "2026-10-17T19:48:51+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones ABC7 Bay Area Russia-Ukraine war news: Donald Trump waives Russia sanctions; Volodymyr Zelenskyy urges support for new ones - ABC7 Bay Area / \"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' 한국경제 \"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' - 한국경제 / Ukraine War, Day 1,696: Trump Refuses To Implement New Russia Sanctions EA WorldView Ukraine War, Day 1,696: Trump Refuses To Implement New Russia Sanctions - EA WorldView",
+  "wrap_summary": "The sinking AI trade rattled last week's market. But solid bank earnings and a rotation beyond tech gave us reasons for optimism. / \"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' 한국경제 \"추미애 출당시켜라\"…뿔난 與 당원들 '릴레이 선언' - 한국경제 / Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions NDTV Diesel, Midterms, Low Stocks: Why Trump Blinked On Russian Oil Sanctions - NDTV",
   "invest_summary": ""
 }
