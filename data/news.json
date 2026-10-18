@@ -1,37 +1,48 @@
 {
   "date": "2026-10-18",
-  "generated_at_utc": "2026-10-17T23:31:11Z",
-  "cutoff_kst": "2026-10-18T08:31:00+09:00",
+  "generated_at_utc": "2026-10-18T06:44:15Z",
+  "cutoff_kst": "2026-10-18T15:44:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Why hedge funds could be making a bond market shock more likely",
+        "url": "https://www.cnbc.com/2026/10/18/hedge-funds-bond-market-turmoil.html",
+        "summary": "The Bank of England's deputy governor has warned that hedge funds' activities could raise the risk of a global bond market shock. Why hedge funds could be making a bond market shock more likely",
+        "published": "Sun, 18 Oct 2026 06:13:05 GMT",
+        "published_kst": "2026-10-18T15:13:05+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Data Centers, Aerospace, and Machined Parts: This Company's Earnings Just Made the Bull Case for U.S. Industrials - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONDVfUmIwRTkzamExNzAxQlFnaFVGRE90X2FMLUlrOTZSN253VUx2WGczcTBxNl8ycHRJU25Cc1FPOFBIZmlrX0V2RnpnOWU0VFhyUjFCTU1oMWMzQXIyUXg1MFAzck9tMmlHNzhpdE5vUGZrVjRqUVREOWgtWFFPZWdzTk1TZ0dQTjhNZTFWeVR0U1FhNm1vRA?oc=5",
+        "summary": "Industrials The Motley Fool Data Centers, Aerospace, and Machined Parts: This Company's Earnings Just Made the Bull Case for U.S. Industrials - The Motley Fool",
+        "published": "Sun, 18 Oct 2026 05:04:51 GMT",
+        "published_kst": "2026-10-18T14:04:51+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Vance says \"selling access to the White House\" is \"disgusting and despicable\" - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEdOZ3RaeHZJSTBqQmhkX08yQ1l4Y1NHVXZEXzZ1WFRiaFFXTzFMRmN5bHF3WDdpa0JFRmNwODg4dU93cnVTcVpzWm1lWDJVUkVXMWIxckhFTV8wWUpvQjZXRTZHMUs4UDdIMGZ3LXNMcnBMOWNyQS1yRFZvdm03SEVMZHE0Ukpn?oc=5",
+        "summary": "Vance says \"selling access to the White House\" is \"disgusting and despicable\" CBS News Vance says \"selling access to the White House\" is \"disgusting and despicable\" - CBS News",
+        "published": "Sun, 18 Oct 2026 01:50:00 GMT",
+        "published_kst": "2026-10-18T10:50:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Opinion | Katie Zacharia’s brief White House tenure speaks volumes - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUWpTcGlXRU5NeHo1LTlRbEhudmJfai16Z2czVDk3UXgzZkRoTWh1d2JkSU1mOWlDd21RS0xYckRIWmdpNmM3N0dOd0R3empOYmdMdDNzVVNEVDFQdzVCQW0yNEIycVBtZ2JPTUhieUtMMlVBeEVJM3o1S3JVSmRXSHV1Nzg3TFpobm1XVTd5ZlIyMHczenRsd1dlZWYtakNZNGpmS2dKcFlvS19sOHhNMWVKa1p0UQ?oc=5",
         "summary": "Opinion | Katie Zacharia’s brief White House tenure speaks volumes The Washington Post Opinion | Katie Zacharia’s brief White House tenure speaks volumes - The Washington Post",
-        "published": "Sat, 17 Oct 2026 23:07:53 GMT",
-        "published_kst": "2026-10-18T08:07:53+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "What Coupang (CPNG)'s Earnings Squeeze Means For Shareholders - Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0Z6My04dkNwWm5UYWZDUWhmVjI2Y21zaEM0QkJsckx2My15QjNRaEN6cGh3ZnN2N1IwTU5peEVzUzBwRzFpY2ZiODNUWXVqZ01xd0xwMlJOUXdXWXdKenBIUWtQN2ROMzZOTzVxTHNkQ2JLbTJlVV9yLUFxdlBWcE9vdzlLUGtzN0lKM3pYNDVDaEpha1hUeEVLZWtvLUNSc05PRjA5WlJuYWhtQ3dOREJqblRQb3V3c2pYV9IBwgFBVV95cUxNR2w5WDg5aFhaRzdZNEdMOGFzN2Z0bEpRR2VzUk80MXRwSk53R1VPNmdmbFhkbDU3WkJMQzE3cnJfa2QyX2tLcjktUHUtOGZGc1lFQWFSSGpMRGVkLVBuU2VsZ0FrZ21TSHI5c2lzSTljbkhERURBc3o5YVc1QXFEeXh0RHY4QkNFOEpYWk5DUHVfWTFkR2M2NkEwMFo1LTJJU24wNHhQd2hYc2RvRV9iYTNYRnlidnhKZDNOMEVuVDVBQQ?oc=5",
-        "summary": "What Coupang (CPNG)'s Earnings Squeeze Means For Shareholders Simply Wall Street What Coupang (CPNG)'s Earnings Squeeze Means For Shareholders - Simply Wall Street",
-        "published": "Sat, 17 Oct 2026 22:46:33 GMT",
-        "published_kst": "2026-10-18T07:46:33+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaER5R2Q3RHJCRlhaRWVzbUhpYVYzV1Z4bDQ3TG1PS0hfRV8zamdEYkRic3NSMWtJVVJfbnBRQ3FmVnJObHRVVVcxWnhLS0FuODdpTGd4VUQ1ZXB4d1BoRi1fUGE3WXgzN1BIU1dKRXJDMzN5a1NuS1dyZUluV2VGQ2NvdmwwWFhHT0x6dF9BMDXSAZYBQVVfeXFMTnlDOUVFR3hKUWdXcnFFdkV5b012MEFhXzBzcllzZVV6LVlCd1FwQTdvYWxYbGw4U2VWQXVUOTR1em9lVTVsNFlZaHNTVjV3VHF0aU9RWHhJXzZTN3VTVHdTU3k1cmVTd2YtZ3lhdmJ1T0h0c1A0WlYtVGZaMHh6NVpicm00MHFJVUJwODV4d09GRTNERUhB?oc=5",
-        "summary": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms The Hill Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms - The Hill",
-        "published": "Sat, 17 Oct 2026 22:19:00 GMT",
-        "published_kst": "2026-10-18T07:19:00+09:00",
+        "published": "Sun, 18 Oct 2026 01:35:46 GMT",
+        "published_kst": "2026-10-18T10:35:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -60,48 +71,39 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
-        "url": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
-        "summary": "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap. Investors are buying up vast tracts of timberland across U.S.",
-        "published": "Sat, 17 Oct 2026 16:31:06 GMT",
-        "published_kst": "2026-10-18T01:31:06+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "\"점박이물범 살립시다\" 자라는 왜 갯벌 보호에 앞장설까 [장서우의 하입:hype] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYTlFQnVjQzFtdnUtS2hOUlNJRDdubVJGbnlRVlBOUUZvOC01LUpqYU5neS1aV201X3RiVW5iU0ZicExOdHIwZml2T2IyNG53SzNXUEJ5YkpzUQ?oc=5",
-        "summary": "\"점박이물범 살립시다\" 자라는 왜 갯벌 보호에 앞장설까 [장서우의 하입:hype] 한국경제 \"점박이물범 살립시다\" 자라는 왜 갯벌 보호에 앞장설까 [장서우의 하입:hype] - 한국경제",
-        "published": "Sat, 17 Oct 2026 23:00:04 GMT",
-        "published_kst": "2026-10-18T08:00:04+09:00",
+        "title": "선관위 특검, 입찰비리 업체들의 탈세 혐의 포착 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yeXVZeWEyRG50UlBPOEdMTDFWM2xlREk0U3gzZVA4OWhhR2wtYVR1OWlCRWl4MnVnNWhBczlsdVVrS0pxWmdhZTdwQTVOLWkzaXRXNkI0NjRoQQ?oc=5",
+        "summary": "선관위 특검, 입찰비리 업체들의 탈세 혐의 포착 한국경제 선관위 특검, 입찰비리 업체들의 탈세 혐의 포착 - 한국경제",
+        "published": "Sun, 18 Oct 2026 06:35:46 GMT",
+        "published_kst": "2026-10-18T15:35:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"20살 은둔형 외톨이, 50살까지 간다\"…日이 한국에 던진 경고장 - 뉴시스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtQmxVT0I3VUg1TFJTTkJIWV9wcWhEbUxidk1IRENtY0V4b0R4NUc5OTVEVWxvOXlFeFhmWU5XdUhwUzhhRW5PTzd5OUxOMm1JTjYtYmV3ZE9aNnhqQTRCatIBeEFVX3lxTE1MRVBSdkZFV1JHX1ZRS0c4MTBxeWFpbW5zUHZMRVRmQlFPZkptdV85bkEzZzZZM2plMUdhZU1RaXFUeXFqYVR4blQyQThxTDRkTmlkSVNwdGZ3N1dkSGNRMDFxdXowZGFBRkM5dS0wTjBad05YT08yZw?oc=5",
-        "summary": "\"20살 은둔형 외톨이, 50살까지 간다\"…日이 한국에 던진 경고장 뉴시스 \"20살 은둔형 외톨이, 50살까지 간다\"…日이 한국에 던진 경고장 - 뉴시스",
-        "published": "Sat, 17 Oct 2026 23:00:00 GMT",
-        "published_kst": "2026-10-18T08:00:00+09:00",
+        "title": "자사주 최대 10% 소각 기대…피에이치에이 '들썩' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96SHMyR3BlQ0t6dVkyOGc0eHU3eDdrNWF2ekNpVjMyRHNkTnRjU0xZaFBXMFBNWFJ6b1VVNXVpeTVSazZhY3IwakpzTUNTc2o0QnBGd0FSWDctUQ?oc=5",
+        "summary": "자사주 최대 10% 소각 기대…피에이치에이 '들썩' 한국경제 자사주 최대 10% 소각 기대…피에이치에이 '들썩' - 한국경제",
+        "published": "Sun, 18 Oct 2026 06:32:07 GMT",
+        "published_kst": "2026-10-18T15:32:07+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "10%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "금리 동결, 한국 경제에 숨통 트일까? 전문가들의 11월 전망은 - 공감신문",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zM3hyOGw5T1ItQ19VSUpSTFBiMVdXeEYtd0VnRVNYNDlvQ0Nvck44cWgwemM3alppZGROTE1fNTJxWXVmSmNqNEo0bHkwYkhSd2RqM2NfQ08zNDdub0c0dXpZaFAxdno3?oc=5",
-        "summary": "전문가들의 11월 전망은 공감신문 금리 동결, 한국 경제에 숨통 트일까? 전문가들의 11월 전망은 - 공감신문",
-        "published": "Sat, 17 Oct 2026 22:59:31 GMT",
-        "published_kst": "2026-10-18T07:59:31+09:00",
+        "title": "3대 신평사 \"반도체 호황이 韓 성장 둔화 우려 상쇄\"…초과세수 활용에 관심 - 산경일보",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SURFRk9ycm9nZWRNWTU0QmlkX0YxOU9FeVktaFozS1Q4MkpIbWtWX0x2TEdhZk1kM3ZpMy1NbTlhSEdyeGROcFlDUkt1MzMtZlc0UVZkdFlRRmVZQUpNT0d3SHc4ZmZReHRpVzFWX2s?oc=5",
+        "summary": "3대 신평사 \"반도체 호황이 韓 성장 둔화 우려 상쇄\"…초과세수 활용에 관심 산경일보 3대 신평사 \"반도체 호황이 韓 성장 둔화 우려 상쇄\"…초과세수 활용에 관심 - 산경일보",
+        "published": "Sun, 18 Oct 2026 05:55:23 GMT",
+        "published_kst": "2026-10-18T14:55:23+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +112,33 @@
     ],
     "world": [
       {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RS3I2MGlpT0lTUm00NkJ5SUpIbVZRX0I5U3N0ZlViR1RXbjlDR0VCcEppZmVEQVFKU29vSE5Nd2RYc3Yxc1lyTGxURHhUUjNRQURHT1RSWDhZaUE?oc=5",
-        "summary": "Trump waives several Russia sanctions as row with Zelensky intensifies BBC Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
-        "published": "Sat, 17 Oct 2026 19:19:19 GMT",
-        "published_kst": "2026-10-18T04:19:19+09:00",
+        "title": "Beyond immediate relief, India has little to celebrate over Trump’s freezing of Russian oil sanctions - Firstpost",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNemJBb0MtWXFCMVRlZTg2M0g2cGMxb2tDYTJOOW14b3hCakppSjhXYzRBVERFZXUzb1lTQ1NKanBWY043TkNTd3hRZXNhQjd3LVpBVTF3R182clBwMTczLU11RlliMFN0RnBpU1ZXdXU0aHZVQ1ZoUkI3VFVWMjhVZHU3TVJvaF9YQ3MyVTIwZ0Q1OC1YOHVpNThiMGJIYmgwdnZndmpQbHhwVWRUYlVoajh3ei1ZeHN0RzRodEQzZXZ0NlFIdXp1QVRSMktCOGFaNFZBd1o4clpuQk56bXAzdtIB5gFBVV95cUxNbEgyUmNqTkU2LTluanI1NmNfSHczOXRZdXJPby02UjNSZFNMcmJTUTlIbUtlbGVodXdkZ2dkSUIxMFhTMkFGaVNzWEUyOXBQd3NMSG9VQkFjOEJmVW44TlBqaFNNQWU1Ny1sbFhSZFYxdkNRTnc4bFRvQ0V6cDA2SFBUYlkzTHBsYXR2LW1CZHFhRm85dFE3Q2taX28xNGNGNDNua05Bc0ZIakJwZUV5NzA4TGcwNEZXSW9UWmdiU0s0VlFkWGJUTllucDA3cTdieWZjOXpBbElURU9qN1dLbldSTWREZw?oc=5",
+        "summary": "Beyond immediate relief, India has little to celebrate over Trump’s freezing of Russian oil sanctions Firstpost Beyond immediate relief, India has little to celebrate over Trump’s freezing of Russian oil sanctions - Firstpost",
+        "published": "Sun, 18 Oct 2026 06:26:17 GMT",
+        "published_kst": "2026-10-18T15:26:17+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "What Trump’s Waiver of New Russia Sanctions Means for Ukraine - Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV21aTUJQWE4xclNZRExrLVpPNVFmRUljaERRT2tVZi1RejdpV0U5LXRmek5ZcDA1aXBBS181SXVhNTVramFiSGhFTzllaGxkbXNkbWJ6VVJ0VzZ6TW8zclFuWk51NUdHMVBYVUVZZ3FFSXlYeGR5VktrdHg2d1l4d3lnSm1DWEtBVjBwbWp2WTdxSFNZR1gwM2NGa0ZiblU?oc=5",
-        "summary": "What Trump’s Waiver of New Russia Sanctions Means for Ukraine Time Magazine What Trump’s Waiver of New Russia Sanctions Means for Ukraine - Time Magazine",
-        "published": "Sat, 17 Oct 2026 19:17:33 GMT",
-        "published_kst": "2026-10-18T04:17:33+09:00",
+        "title": "Trump will need up to 60 days to consider sanctions against Russia — Rubio - Українські Національні Новини (УНН)",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlM5NXVvLWR4UnNDdC11ZnFuWGdWQkZJdUs3RjVNNm0zNlFVOGNtQ2FXT20yUU1PeENMYTFiWFhleTBxTnZldm9KM2p3TGxkU0NGdkRINUpqbWZCT1N2RURjY3VMazNyRHdQbTBCcWRzSzJBRFFUTjdnLTJ2MW1YUXBpVlN0OWdvakh5eDNZWlhZb3FQR1FtSXpQY9IBmgFBVV95cUxQTVJxa05UdUVjTGxOVFJXOWZFVVhlZ2ZEQ3pDUWxUNzM0SWQ5RVlTQUc2bXNLMWZxWUNrcW5nYl81TGJqcklMdFA1UGk3cWFhN0tJanJzY201Q2VfdGFxemx0ZnR0R1ZKOExZaEJkT0trSV9tNUF1cWNzdWdBanZSRnBZUUhUNXN1U1AtQk9aLVY2S2ZWQ2xBUW9B?oc=5",
+        "summary": "Trump will need up to 60 days to consider sanctions against Russia — Rubio Українські Національні Новини (УНН) Trump will need up to 60 days to consider sanctions against Russia — Rubio - Українські Національні Новини (УНН)",
+        "published": "Sun, 18 Oct 2026 05:38:23 GMT",
+        "published_kst": "2026-10-18T14:38:23+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaExZUlBtbDZ3YXN2cGZ0Z0RMRVcxT3hlaG8xMnRiSm16d0pSdnBHUzJzSHB1YVVFUXNSMUFGTXZHRE4yb3JyTHczam54WFAxQjRLSjcwTlBuY0pKUGVTbGtjdE5PWVlSdXVFZ1FtUlBLXy1DZUhYRVhEOEZnTHJZTWZQb2J0ejZ3bG9DU0g0cnYyVU9XUllQenJTVkdJc2xucG5r0gGoAUFVX3lxTE00QU9Jbml5eUQxemhUMzRMLVhWLVNGM05PNEp6eGtVaF94RmFmaTJ0WGVxdGVNR2dySDR6QXJtaVpIUFN6N3dnSDB3bkp1T3IteU5HZ1VYbFpPU0tYNVJxd25mQ0xqcVVXOF9NTmFvem14R3NLTkhsTy1pay1XZzRVUEk5eldiY3NFcU03RXVicTQxZ0l5MkFuRmtwbE54TzAxMVltaXNJRA?oc=5",
-        "summary": "Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy ABC News - Breaking News, Latest News and Videos Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy - ABC News - Breaking News, Latest News and Videos",
-        "published": "Sat, 17 Oct 2026 17:44:16 GMT",
-        "published_kst": "2026-10-18T02:44:16+09:00",
+        "title": "'India cannot stop buying Russian oil overnight', says Rubio as Trump reviews sanctions - The Federal",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenZ4bEdUSDVHY0JncHhwUV9WUnpfcV9UemduNlh5Yk41OHcwRVhGcmM5ZEs1ZmQtZlNkRnhfTzc4SnFYMXJHU2tSU2s0ZFVoVEpOQ3BNa1JwQmt3SEh0blJLa1RsQ1U1WV9CQVF4Y1Y2U1ZqWlRKLVVBSk9QNVFTckFUUnBPbjJNUHNMYldFYll6WEg1TjhqUy1QSmlqbnBrUml2czNPOXZhR1RvMkVzbFNYNDBEcFJlbU1LMFNwTjFUNWktaC1R?oc=5",
+        "summary": "'India cannot stop buying Russian oil overnight', says Rubio as Trump reviews sanctions The Federal 'India cannot stop buying Russian oil overnight', says Rubio as Trump reviews sanctions - The Federal",
+        "published": "Sun, 18 Oct 2026 05:29:53 GMT",
+        "published_kst": "2026-10-18T14:29:53+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Opinion | Katie Zacharia’s brief White House tenure speaks volumes The Washington Post Opinion | Katie Zacharia’s brief White House tenure speaks volumes - The Washington Post / \"점박이물범 살립시다\" 자라는 왜 갯벌 보호에 앞장설까 [장서우의 하입:hype] 한국경제 \"점박이물범 살립시다\" 자라는 왜 갯벌 보호에 앞장설까 [장서우의 하입:hype] - 한국경제 / Trump waives several Russia sanctions as row with Zelensky intensifies BBC Trump waives several Russia sanctions as row with Zelensky intensifies - BBC",
+  "wrap_summary": "The Bank of England's deputy governor has warned that hedge funds' activities could raise the risk of a global bond market shock. Why hedge funds could be making a bond market shock more likely / 선관위 특검, 입찰비리 업체들의 탈세 혐의 포착 한국경제 선관위 특검, 입찰비리 업체들의 탈세 혐의 포착 - 한국경제 / Beyond immediate relief, India has little to celebrate over Trump’s freezing of Russian oil sanctions Firstpost Beyond immediate relief, India has little to celebrate over Trump’s freezing of Russian oil sanctions - Firstpost",
   "invest_summary": ""
 }
