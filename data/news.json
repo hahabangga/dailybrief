@@ -1,71 +1,75 @@
 {
-  "date": "2026-10-19",
-  "generated_at_utc": "2026-10-19T11:19:22Z",
-  "cutoff_kst": "2026-10-19T20:19:00+09:00",
+  "date": "2026-10-20",
+  "generated_at_utc": "2026-10-19T16:52:34Z",
+  "cutoff_kst": "2026-10-20T01:52:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.",
-        "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-        "summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men. Women may be at greater risk of AI job losses.",
-        "published": "Mon, 19 Oct 2026 11:02:34 GMT",
-        "published_kst": "2026-10-19T20:02:34+09:00",
+        "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+        "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
+        "summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month. Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
+        "published": "Mon, 19 Oct 2026 16:48:26 GMT",
+        "published_kst": "2026-10-20T01:48:26+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "After a Week of Turmoil, Can the White House Lock It Down? - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWG4xVmVIN2xySXBoVTVKQ0VwV1c5VDFyZDBCcnhacHlaWjhKT1JLSVkzenBMYUxlM0xBMFNoeDZlVzVCUUFETWNnbnVBWmtoTDJlQmdGLTQxVUZkUUFrdl9QTVR5R290aERTV014cWNWRkZxdDM3SGtUV0hJaFdRam56OGhaZHBEUWh4V3Via09UUmdDemJWRHJidjFCM042UlFN?oc=5",
-        "summary": "WSJ After a Week of Turmoil, Can the White House Lock It Down?",
-        "published": "Mon, 19 Oct 2026 10:59:00 GMT",
-        "published_kst": "2026-10-19T19:59:00+09:00",
+        "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+        "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+        "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Anthropic is AI trade's last big hope for a major IPO this year",
+        "published": "Mon, 19 Oct 2026 16:42:14 GMT",
+        "published_kst": "2026-10-20T01:42:14+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US stocks rebound with AI earnings test ahead; French markets tumble - Euronext Markets: Real-time Stock Market Data | live",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV09NZ0pGUGtGN2gySFFZOUluVzRRT2ZDb1FiR0xkZjQ2X1Bfa1NtQXluNjBxZW0tYVdxZ0ZmT1ZHNWRjXy00OVdLOWQ2SzZDcXB4azFqR2xvaGNYbHRrZlVNUEFYbDhrVVk3QmxUalU1OU8tMTBwRkI0c2FiTFpPMEk4ZWtqZGNzMVV4Y2l3ZEtYSFg5YWFrbi0tcDhEMjhBRzh3b21NdlVCQQ?oc=5",
+        "summary": "US stocks rebound with AI earnings test ahead; French markets tumble Euronext Markets: Real-time Stock Market Data | live US stocks rebound with AI earnings test ahead; French markets tumble - Euronext Markets: Real-time Stock Market Data | live",
+        "published": "Mon, 19 Oct 2026 16:39:59 GMT",
+        "published_kst": "2026-10-20T01:39:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Is Strong Q3 Earnings Altering The Investment Case For Fastenal (FAST)? - Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUXI3c0l4RHRGNGxLR2FiaGFJV3lXMU1UTjduZThaZWsyTXVERnl6cGo0cmVYSkRsSUFTQW92c09RbWZySmU2SmVxQVA5NTM3TVp0TnNmMV9QN01YZy1yZVM3RFhSY2MxM2p6cENxT2sta0o5MjVOZDNCV0thS2dvdkpRSDRjM3I2aGphUWxZUkJ2WFdJZkg3Y2dQRlVtRHFHMW45VWJLbXFHNlVUZ2hfeTdIUk5QX0VubFZuaWlTUmRoRnJMcExMMkRWQkbSAdIBQVVfeXFMTUFidEhBZEFWUkxZWmF4b1hCSnRBZmRSbmpkUU1taGVJNk9aanhwZGNRLVZ3UmxUREI0WGtzTGFMVllJNzNPTG02M0lCOVQ0ZzZwOW12Y2tUWXZCeDZGeDlkbW51allhSE1KYlBrd1AxbXBzZWVKSlQwWEQxYnl5M2J2WDI5TVFNSjRYdVFXdjRkUzlCc2RDYXgxLU9hQU5JNFVFUHBiY3MycHhtQjRHRnRjNmFuc3Rlb0tzSmFkdlZ3RE93N1Z1WTZRenlHaTE3RXdB?oc=5",
-        "summary": "Simply Wall Street Is Strong Q3 Earnings Altering The Investment Case For Fastenal (FAST)? - Simply Wall Street",
-        "published": "Mon, 19 Oct 2026 10:49:30 GMT",
-        "published_kst": "2026-10-19T19:49:30+09:00",
+        "title": "Kevin Hassett Says U.S. Inflation Faces Renewed Upward Pressure, More Action Needed - bloomingbit",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5Tk41QUFpdWtubGtvbDl4dmc0ZE9IOW5uYmFxTzJJX3JTRVVudVUzT0RHcXcxSmEtNkQwUUdZbWU3cXNTdjRPakdhSkVXbXhvbGFSMQ?oc=5",
+        "summary": "Inflation Faces Renewed Upward Pressure, More Action Needed bloomingbit Kevin Hassett Says U.S. Inflation Faces Renewed Upward Pressure, More Action Needed - bloomingbit",
+        "published": "Mon, 19 Oct 2026 16:34:39 GMT",
+        "published_kst": "2026-10-20T01:34:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
-        "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
-        "summary": "\"It looks like either the bond markets riot, or the people riot, or both,\" one analyst told CNBC. French unrest compounds debt crisis fears.",
-        "published": "Mon, 19 Oct 2026 10:37:43 GMT",
-        "published_kst": "2026-10-19T19:37:43+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-        "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
-        "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer. Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
-        "published": "Mon, 19 Oct 2026 10:36:47 GMT",
-        "published_kst": "2026-10-19T19:36:47+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Global Growth Strengthens as Markets Eye US Inflation - Davy",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYVJHRHQxLVFKQTlhUll0RHlGQllrWGNNX0V4M1J6U29lZ2ItdGZxWmFaVUtYUjVtQTRtNGhkTnpVdjg5LUlXTzNHbWtPWi1hV3hvOHpUSTNwUmZVcUNIZXY1YjRPZTA2Z1hlbFFqWFJkRjN4bEt0dk1TRVRUU0ZHMkZrU1M2YlByN2NwNldmTE40em9FRW5MRnhzMVZtR3J3WDBqWXFhTFpvdjg?oc=5",
-        "summary": "Global Growth Strengthens as Markets Eye US Inflation Davy Global Growth Strengthens as Markets Eye US Inflation - Davy",
-        "published": "Mon, 19 Oct 2026 10:27:57 GMT",
-        "published_kst": "2026-10-19T19:27:57+09:00",
+        "title": "Trump EO creates new NIH division, White House task force centered on women’s health - Fierce Healthcare",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcG0tYm1INUJqUmxtTTZlMzVYcVpmNWhENmk0VnNERnhMQjhIdHFuaXV5c2QzUlpJenBsd2pWVl93OTZaOFFSdzdCNG8yanJ6NG5vaDVsUjRnNzJ4VjJNTGFLclZuZXp3S2UtR044RTdIZk1xMm9jVjdYTENWOXVsRERzVUNuQ1V3czJoVW9ET1N5Vno2QUZDTlZGRkxma2NCTHMzZUE2WlozeHdfdFRBQkVncVBnYkVobjcwVG9LRGY?oc=5",
+        "summary": "Trump EO creates new NIH division, White House task force centered on women’s health Fierce Healthcare Trump EO creates new NIH division, White House task force centered on women’s health - Fierce Healthcare",
+        "published": "Mon, 19 Oct 2026 16:30:00 GMT",
+        "published_kst": "2026-10-20T01:30:00+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+        "url": "https://www.cnbc.com/2026/10/19/cornell-sexual-assault-case-concerns-applicants.html",
+        "summary": "Some prospective Cornell University students are rethinking applications amid the Jane Doe sexual assault lawsuit, college admissions consultants say. Cornell sexual assault case has some prospective students rethinking plans, consultants say",
+        "published": "Mon, 19 Oct 2026 16:17:37 GMT",
+        "published_kst": "2026-10-20T01:17:37+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,33 +77,35 @@
     ],
     "kr": [
       {
-        "title": "EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 - 피플게이트",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUJ3VzliSWFnSzk0SDhFUmswTnM3SjJfbVZWYlF6UTV5aVJrRnhDd2lfNWRpaXBXWmVmNkJhX0tKSVJCdlRuWDJ6dWlIS0tNaUdPajAyb3gxUjg1dXk5SmJzNkxPM3ZpeF9TYnpuSGhzbUZNdlBGcm1rZnpfdVB6WHJvN0NSQ09rYk5CMlp6d0dyTjg?oc=5",
-        "summary": "EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 피플게이트 EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 - 피플게이트",
-        "published": "Mon, 19 Oct 2026 10:56:00 GMT",
-        "published_kst": "2026-10-19T19:56:00+09:00",
+        "title": "\"올 성장률 3.4∼3.6%…잠재성장률 반등 임박\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ROFluWUpFWDRSR1FjVU5pLVNjQXgzdVZ1amJlc3A1X01ibUZGS1JkVDFaaE1OaENqamotSEswdVV4NXJZUVdPai1ON0g4OTFPTjAycTAzU0hHUQ?oc=5",
+        "summary": "\"올 성장률 3.4∼3.6%…잠재성장률 반등 임박\" 한국경제 \"올 성장률 3.4∼3.6%…잠재성장률 반등 임박\" - 한국경제",
+        "published": "Mon, 19 Oct 2026 16:37:00 GMT",
+        "published_kst": "2026-10-20T01:37:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "3.6%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "허남구 \"기술수출 동력은 신약 예측력\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KaFlST0dCTWdzM1dQbXdDeTcwdmFmdGhoTFRHOXFVM0NhcDVXZmdrX0FWLU04R3lwT1VFVXBZdXc3VXRqNDQwVndnR29oY3BJa2dtbmJCUXBuQQ?oc=5",
+        "summary": "허남구 \"기술수출 동력은 신약 예측력\" 한국경제 허남구 \"기술수출 동력은 신약 예측력\" - 한국경제",
+        "published": "Mon, 19 Oct 2026 16:34:00 GMT",
+        "published_kst": "2026-10-20T01:34:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"전문가들이 홀딱 반했다\"…서울서 열린 조지아 와인쇼 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oMHgzNmFhYW9JcEZySXVzWG9ZeHMyVVQwZDBlUXpRT2dCYlVHV3Y3WF85QnhxNUNRR2dYWXNfU2QtZy1xV1FjZkJteUZfRFoyNGtKX1hCenU3QQ?oc=5",
-        "summary": "\"전문가들이 홀딱 반했다\"…서울서 열린 조지아 와인쇼 한국경제 \"전문가들이 홀딱 반했다\"…서울서 열린 조지아 와인쇼 - 한국경제",
-        "published": "Mon, 19 Oct 2026 10:29:30 GMT",
-        "published_kst": "2026-10-19T19:29:30+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[단독] 천보 \"美·中에 차세대 배터리 전해액 수출\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaFJBVldGTE1SWnB1UW1CWGJFNE5sU1hBVlFYcUY2cjY4cU9ZSWRvODRuVDJoR2NwQ09FU2s5VzNlQkIxQTluUmcxd2Q1Q3M0aEhYRUZybDJIUQ?oc=5",
-        "summary": "[단독] 천보 \"美·中에 차세대 배터리 전해액 수출\" 한국경제 [단독] 천보 \"美·中에 차세대 배터리 전해액 수출\" - 한국경제",
-        "published": "Mon, 19 Oct 2026 10:27:00 GMT",
-        "published_kst": "2026-10-19T19:27:00+09:00",
+        "title": "치솟는 강북 이주비 금리…공급 가로막나 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jcUFVampUR2RFcEIxbE1iNjZReE9JNGQ3dGxFN3EyeTVBTFR0UUtyR2VESVpUVkQzR1lwVTJCUUdlSEdxMVU4d3dhZFAwUkIzdTFGTExvQWw4QQ?oc=5",
+        "summary": "치솟는 강북 이주비 금리…공급 가로막나 한국경제 치솟는 강북 이주비 금리…공급 가로막나 - 한국경제",
+        "published": "Mon, 19 Oct 2026 16:31:00 GMT",
+        "published_kst": "2026-10-20T01:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -108,42 +114,40 @@
     ],
     "world": [
       {
-        "title": "Oil prices dip as Trump waives Russia sanctions - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1BjUDRPSzlBeDg2dXhMUGhEZlZ3SHloQWdxbjUycTZxU1JtVm41R3JqQklxbXlUNjJ2Q1NET3g2MWVyWGh0alFsY2Y5REtvYmFoWlg4eDZWS1F3a2I4cjJkNlFVc0ZBUk00UlBid1BveVlpUXR4U3FvZTcxdVVkMUozQXI1cW1aVkNTQnNydW5mMDAwUGFBVDU0S1BhSF8tZmZXYzVzLV8?oc=5",
-        "summary": "Oil prices dip as Trump waives Russia sanctions Investing.com Oil prices dip as Trump waives Russia sanctions - Investing.com",
-        "published": "Mon, 19 Oct 2026 09:55:36 GMT",
-        "published_kst": "2026-10-19T18:55:36+09:00",
+        "title": "Economists highlight China's supply chain resilience, long-term growth potential at Bund Summit - 巴士的報",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNM3dHMG9sLTRJSWxpRmFVMXJjaWFyN2YxMnhqdTR6NEs0cWxGdXNfYXNGSC12d0gyUWxzSnU3Ykx2emdnNERKRUE4cjdrTHNxTmc1MF9GaGVjbGR4VlF1b2FzdUFlTWJUSXVIZjVJNXBZQms2SWdJbVNLQXk4OFNVRmtCWU0xVVRfNDJ5NEJsRXBpNkJJMHBqT0NPLTB4NFdlNzB0azB1dWVZR1JMY3pYZW5xb0lkNXRqZXhDak9kWUlJNEhkc0dwTTBQQ0JKSl9Sb0t3bmFXY3NsTmJsYkE?oc=5",
+        "summary": "Economists highlight China's supply chain resilience, long-term growth potential at Bund Summit 巴士的報 Economists highlight China's supply chain resilience, long-term growth potential at Bund Summit - 巴士的報",
+        "published": "Mon, 19 Oct 2026 16:27:09 GMT",
+        "published_kst": "2026-10-20T01:27:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "European stocks slip led by France, and oil falls on Trump's Russian sanctions waiver - Union-Bulletin",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNR1YyQ2pBQkprbVoxYUtUZW9iUjhMczFHLTVxNDVhTUxIbmYyZkNfYUlCTy10TFhKb19ZMk8tWHJVZndjRHhKNkYxV25YMk5tLW9DQXgxWU4wYkltWGhTcDdXNzhrNG13azlMV1l5aVRJb21odTY4Sm1IQUdBQmYxSUtGX183ems0cG82YlRhYndGaUtIYUtMMkRnMzN2NjlRcTRKdzZGU19rNVZhdUFuTmMyeHZEemZZNzFpNGtlbGlGTmxEM0k1dHJ5b25oSFpyNS1WNm8xUmFjVjc2WlZ4ZUQ4RG5tMlRmZVl5Qm55SGZYMEpPeTlFMnZ0dmdvTmxmeFVpb2hR?oc=5",
-        "summary": "European stocks slip led by France, and oil falls on Trump's Russian sanctions waiver Union-Bulletin European stocks slip led by France, and oil falls on Trump's Russian sanctions waiver - Union-Bulletin",
-        "published": "Mon, 19 Oct 2026 09:33:12 GMT",
-        "published_kst": "2026-10-19T18:33:12+09:00",
+        "title": "UPS Expands Capabilities Across Asia Pacific Logistics - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMy1VbUVmSS1fZWZGWkh1MldQcGtYT2djbFdDYW1ISmFDdXI1S0M3OU9rNzhwZGlheDlkVV96V2tqMUt1Tjd2TlUxd0dmRFgyTWktZmg3cl9RQ3QtM0hLNlVZWXRVRy1jVXY3dlp3ZVVQbjctRkFPVFJ1VWV2OUZ5N0c4TXhMb0Rva1lrNGNZLVNoY1BY?oc=5",
+        "summary": "UPS Expands Capabilities Across Asia Pacific Logistics Supply Chain Digital Magazine UPS Expands Capabilities Across Asia Pacific Logistics - Supply Chain Digital Magazine",
+        "published": "Mon, 19 Oct 2026 16:14:02 GMT",
+        "published_kst": "2026-10-20T01:14:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Russia sanctions waiver: oil dips 2% - Oil & Gas Middle East",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtSlZtVHR0NEszLV9sLXc2aWhCNTlYUlVJWlRscHItMGI1b3l3MVA0c2NObE8zbG1vOG1kWjJVcHFoeDg1NkNETm5pRmRMQmlzaTdhc2FqaWxlN3Z0OFhhb0dCZ1VjSmxOQ0tQX0tpRFh5aWNub1k0M3ln?oc=5",
-        "summary": "Russia sanctions waiver: oil dips 2% Oil & Gas Middle East Russia sanctions waiver: oil dips 2% - Oil & Gas Middle East",
-        "published": "Mon, 19 Oct 2026 09:31:33 GMT",
-        "published_kst": "2026-10-19T18:31:33+09:00",
+        "title": "Crude Oil Dips on Russia Sanctions Lift; Colgate-Palmolive (CL) Dividend Sustainability Shines Amid Market Moves - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdkxMaEhmMkNNNVpwYzV1alM3NENaN0NRd2pYVVIwTEgwTDl1MEdvX01LS3loSkhxRE10cWJpUEFyYWwzZWJfdE9oYi13TG1VWmxKV281LTNZQUlWN1dMdE5PUXFtS2tYUzRwWHgyMmVPWTQ0V2k2Qk81blRjUzlTNm83X2ZuOWVFNElrZjNtVi1QRUlhSzI5aWNuUkZ0VnItNmt4UjF6aTNwelZQNHVkdXFseDlQZ3hVNk5DNmQ2QXhBd0o3NmpGTWNlRHotVlJ1dTZlSGkzeU9xZm5nQ1I5Zg?oc=5",
+        "summary": "Crude Oil Dips on Russia Sanctions Lift; Colgate-Palmolive (CL) Dividend Sustainability Shines Amid Market Moves GuruFocus Crude Oil Dips on Russia Sanctions Lift; Colgate-Palmolive (CL) Dividend Sustainability Shines Amid Market Moves - GuruFocus",
+        "published": "Mon, 19 Oct 2026 15:25:16 GMT",
+        "published_kst": "2026-10-20T00:25:16+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men. Women may be at greater risk of AI job losses. / EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 피플게이트 EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 - 피플게이트 / Oil prices dip as Trump waives Russia sanctions Investing.com Oil prices dip as Trump waives Russia sanctions - Investing.com",
+  "wrap_summary": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month. Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom / \"올 성장률 3.4∼3.6%…잠재성장률 반등 임박\" 한국경제 \"올 성장률 3.4∼3.6%…잠재성장률 반등 임박\" - 한국경제 / Economists highlight China's supply chain resilience, long-term growth potential at Bund Summit 巴士的報 Economists highlight China's supply chain resilience, long-term growth potential at Bund Summit - 巴士的報",
   "invest_summary": ""
 }
