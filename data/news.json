@@ -1,41 +1,48 @@
 {
   "date": "2026-10-19",
-  "generated_at_utc": "2026-10-18T23:44:38Z",
-  "cutoff_kst": "2026-10-19T08:44:00+09:00",
+  "generated_at_utc": "2026-10-19T07:02:48Z",
+  "cutoff_kst": "2026-10-19T16:02:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-        "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
-        "summary": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used. Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-        "published": "Sun, 18 Oct 2026 23:36:11 GMT",
-        "published_kst": "2026-10-19T08:36:11+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "5%"
-        ],
+        "title": "No ‘turmoil’ at the White House - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM1lGYUJSd2NkUERLYUtLZTRZZ3p3b0o5bmxzdW10Wk8wU0c5YlNjOGxIbmRjTm9VNlB1WFA5TnZ6OE5IRDBZT3B6emFDUjQ4NnhGMTRnQVBQa2lrTUZRX2JJUURoRVlSQ0MwNTlNOXVXQWQwM2R6ZW9XU2trVDlqTdIBhgFBVV95cUxPZ29sSWJ6RWJFMVllWkNlS1JLc2FnX2NJRERubWpUa0t5UndfdXhydmprcWpOOTV6Z1V0SndGOGVEZkdjZFVobmk0SHNLSHRWbHhmRmtmVEJ4ZXEwRWtXSWhDRFEwTUdacUVYU29fLV9Yam1UMnJmUXdramN3MURZQ3Z4eF9SZw?oc=5",
+        "summary": "No ‘turmoil’ at the White House Al Jazeera No ‘turmoil’ at the White House - Al Jazeera",
+        "published": "Mon, 19 Oct 2026 06:53:57 GMT",
+        "published_kst": "2026-10-19T15:53:57+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Brent crude hovers near $109 a barrel as Ukraine resumes energy strikes, tankers attacked in Middle East",
-        "url": "https://www.cnbc.com/2026/10/18/oil-price-today-ukraine-russia-iran-strait-hormuz.html",
-        "summary": "Petersburg after Ukraine launched a massive wave of drone strikes on Sunday. Fires broke out at an oil terminal and depot in St.",
-        "published": "Sun, 18 Oct 2026 23:10:45 GMT",
-        "published_kst": "2026-10-19T08:10:45+09:00",
+        "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+        "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
+        "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco. OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+        "published": "Mon, 19 Oct 2026 06:06:58 GMT",
+        "published_kst": "2026-10-19T15:06:58+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "$109"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
+        "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+        "url": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+        "summary": "The prime minister denied that her policies were responsible for the yen’s weakness or rising JGB yields. Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+        "published": "Mon, 19 Oct 2026 05:29:51 GMT",
+        "published_kst": "2026-10-19T14:29:51+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
         "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-        "summary": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027. India’s Finance Minister blames easy exits and excess liquidity for equity market's underperformance",
-        "published": "Sun, 18 Oct 2026 23:00:01 GMT",
-        "published_kst": "2026-10-19T08:00:01+09:00",
+        "summary": "India's finance minister said that continued capital outflows are one of the biggest risks for the country in 2027. India’s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance",
+        "published": "Mon, 19 Oct 2026 04:46:26 GMT",
+        "published_kst": "2026-10-19T13:46:26+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "2027"
@@ -44,103 +51,100 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFNLaGNVSDM0SU1CNzVhYno0enNZeDY5cU5XX20yZWhfdjNIMGxTVmFzTEJldGpNRHRwTlVzbExZSFJxRUk3ZFI3ZUx6aENQV0RRLTRIOXVNb0Y1ajVmNU5PWThmV2szQU96dVlqSnduMEJDMC1XNjU2QjdFWkJLSXZOUVFYNW1yNGVvZUxNMExOQjBkejVKTENSaw?oc=5",
-        "summary": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects The New York Times Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects - The New York Times",
-        "published": "Sun, 18 Oct 2026 21:50:16 GMT",
-        "published_kst": "2026-10-19T06:50:16+09:00",
+        "title": "How Will AI Affect Jobs? The UK Finance Industry Is Showing Us - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzd5NWdlcEpuVzlCVGRIQkJSUkRZTTZ2OHNUX0NtSlUxY0R6TWY1ZFh1ZFkyT0FtZFJobEJzME42ajJBX1ZsSk1Vb3dGcV93Nnplb0JFR2ZuUXhTaTZ3VzNKUngzRl93a3gzMXhvd2lLazZjNUo5aDEzREx5YVkxd3pMUDBhOUQ0bFZ3RG85QnRSRUlsNVBvNTcxZVo3V2pvOGZLaDBVTUpZUE40czRr?oc=5",
+        "summary": "The UK Finance Industry Is Showing Us Bloomberg.com How Will AI Affect Jobs? How Will AI Affect Jobs?",
+        "published": "Mon, 19 Oct 2026 04:00:00 GMT",
+        "published_kst": "2026-10-19T13:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump defends easing sanctions on Russia amid rising anger in Congress - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONFk3ZDRLdU5TX19PbmN3NUc0aDdGUkRSZ2dXYUNNRXJxdWNpdzdmNzBTWGt3djkyelcyVlFsMTNjMmZzMjdEXy1RVVlyWldQd2N3QU9ZNUFjQTZUS0UzU1E0Z1hDSmhpOGhMNmdabzBkeVlBanlDazF1b1JFdVZKdUh2ay1zeDJHM3drUnZleXJzVWE1c19VZDMtT3RpaDhoOFFhMkNSTm5LbHR2WFZwbw?oc=5",
-        "summary": "Trump defends easing sanctions on Russia amid rising anger in Congress USA Today Trump defends easing sanctions on Russia amid rising anger in Congress - USA Today",
-        "published": "Sun, 18 Oct 2026 21:48:00 GMT",
-        "published_kst": "2026-10-19T06:48:00+09:00",
+        "title": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaFZ1U1ZhLVJwdTdUdHRCbnNkdVNvc2hDX0hTUVFLc2ZPNThNajVkWU01MkxsTHRBUEJlZ3p1d3JZWlhjcVFRbll4OTR4M0JiSzJsZF96UEZqVWpMb280NS04c3owZzdTRktxTm52MjFTUURPTkc0UUFTSHJNZUY2djRwZ2RPYWNvVUpKZ1V1OTdPLURX?oc=5",
+        "summary": "Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED) Yahoo Finance Trump’s $330 Million White House Ballroom Donor List Reveals Nvidia, Apple and Google Among Top Tech Contributors: Report (UPDATED) - Yahoo Finance",
+        "published": "Mon, 19 Oct 2026 03:30:00 GMT",
+        "published_kst": "2026-10-19T12:30:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump waives Russia sanctions. Where does that leave Congress? - NPR",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYzZnOXo0MGJHMmxPOXl1RE1NMFB1OXA1RFFrenNzUTQyZkJSb0dwSlEwRmQwdDdJOUQ4M252MzBkUGxkdFpRVjFRNDIwYkV0aV9TVFF1TGNwcjhtZVlraGprUTc0eWpBWWNFbUhiczZzc0VfOEVSMmVPaUtTS18xdHBQUWcxNHVhQjdqNS1IVXF6OV9HVXVkc1hHdEd2WDhvTFhrUDdrZEI?oc=5",
-        "summary": "NPR Trump waives Russia sanctions. Where does that leave Congress?",
-        "published": "Sun, 18 Oct 2026 21:39:09 GMT",
-        "published_kst": "2026-10-19T06:39:09+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$330"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "북한군 포로 송환 외교 갈등, 한국의 신뢰도 위기 촉발 - 공감신문",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKQUw4RTZKWVZuSDhLOFhmMU5HamowNHBMX3ZLVEctbEVWUDlwbE1JZEFvc2pROE5oeU02V0U2aGpuYTJ6Z2FUUHBVSXZORkNFMmJXNXM0c3JncjlVRVRPZW1JT2lRSm9V?oc=5",
-        "summary": "북한군 포로 송환 외교 갈등, 한국의 신뢰도 위기 촉발 공감신문 북한군 포로 송환 외교 갈등, 한국의 신뢰도 위기 촉발 - 공감신문",
-        "published": "Sun, 18 Oct 2026 23:19:40 GMT",
-        "published_kst": "2026-10-19T08:19:40+09:00",
+        "title": "김진원 \"밸류업 가능성, 재무 데이터로 찾아라\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sZUpXS3pGM2NzM0VBUnZHLXI2Uzh3ZTB1MGo3eXlrZ09hRWdtcC15Zkgzamh4SnlZOTAzQ1k0Sk5TelQxaWdPZTl0ZGczcXh2SE5rTFI4dnZVZw?oc=5",
+        "summary": "김진원 \"밸류업 가능성, 재무 데이터로 찾아라\" 한국경제 김진원 \"밸류업 가능성, 재무 데이터로 찾아라\" - 한국경제",
+        "published": "Mon, 19 Oct 2026 06:57:23 GMT",
+        "published_kst": "2026-10-19T15:57:23+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "일본 국민차 코롤라 60주년…이젠 중국 전기차와 승부 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRzI0eEw0SnFiX29nVTdLQW5Tc0xtTzV0WlhwX1l3emJ6aVdDZGFwcjdhOFMyVWJmUFFTMHlGNXA0Z1dFclZNMnJTVFlKYkZtQmZ2ZmlFMU1IQQ?oc=5",
-        "summary": "일본 국민차 코롤라 60주년…이젠 중국 전기차와 승부 한국경제 일본 국민차 코롤라 60주년…이젠 중국 전기차와 승부 - 한국경제",
-        "published": "Sun, 18 Oct 2026 23:15:01 GMT",
-        "published_kst": "2026-10-19T08:15:01+09:00",
+        "title": "매출 1000억 e커머스 물류업체 매물로 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrOUtyZTE3WHBXaE8waXpWTUd2ek1MZ3RyS3BTeklnWk9JbVdhVjlJR1dBcG04dGEwTGJmNTBkTGJSZS1qaFBwUlJia0JaS0xVY1JVUUlObFlHUQ?oc=5",
+        "summary": "매출 1000억 e커머스 물류업체 매물로 한국경제 매출 1000억 e커머스 물류업체 매물로 - 한국경제",
+        "published": "Mon, 19 Oct 2026 06:52:23 GMT",
+        "published_kst": "2026-10-19T15:52:23+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "1000"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[밤 사이 해외 뉴스 영상] \"10조 달러 부었는데\"…IMF가 내놓은 경고 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlQVlpQmNqRnlBRENNYjloQmR1ZkhWel85eGNFaExrblM4M0QwNE5xUTQ1NTcyOTN3LUxrbm94bFJKQjE5aGd5LXBTNGFSM0lVRVRKTjljZ3FEdw?oc=5",
-        "summary": "[밤 사이 해외 뉴스 영상] \"10조 달러 부었는데\"…IMF가 내놓은 경고 한국경제 [밤 사이 해외 뉴스 영상] \"10조 달러 부었는데\"…IMF가 내놓은 경고 - 한국경제",
-        "published": "Sun, 18 Oct 2026 23:14:34 GMT",
-        "published_kst": "2026-10-19T08:14:34+09:00",
+        "title": "이형일 “올해 한국 경제 성장률 3%대 중반 가능” - 동아일보",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Zam5tZzdmYy0wZlRnaUw5VjktY2Z3U1F4aTVRUnZxLVhvT1gzbGllRy03SEg2dWVJeVpYTjlLZHJQeWVxN1RLYV9BdVpOc0JOUy1iZEZLNXVLWjlWNTB3YTNhZUItZWlaT0lRbUtfT3EzbXl1NFHSAWZBVV95cUxNTUNnaEU1SjVQSWx0SlFyaVJWTU93ZXhBVXRCNnprREJjQWFWUW1WNkVsRWVNb3puQ29vUWgtRW1qVGpSNjRBS0Fvd0NCajk4MnZnekE0bUV4RzNJY2hTbUNuRE5aTUE?oc=5",
+        "summary": "이형일 “올해 한국 경제 성장률 3%대 중반 가능” 동아일보 이형일 “올해 한국 경제 성장률 3%대 중반 가능” - 동아일보",
+        "published": "Mon, 19 Oct 2026 06:51:00 GMT",
+        "published_kst": "2026-10-19T15:51:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "3%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Helium is way more important than you might think. And the supply chain is in crisis. - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHZ5UHFsTURVTkZtSmhXdXhLODl4dUd6TnRIYk4tdHBiQzhEbllDTkp3RTZPNXFfdG8tUG1WeC1xY1RfNmpscG1ESjVKdU43alk5dEt3cUtUUjVtOGg0UThLRVdiV0Fad2dEVGRFX092OEpZQ3phaFBtODZEM3pGT1oxYTVHWnFqRjJZWg?oc=5",
-        "summary": "CBS News Helium is way more important than you might think. And the supply chain is in crisis.",
-        "published": "Sun, 18 Oct 2026 23:39:03 GMT",
-        "published_kst": "2026-10-19T08:39:03+09:00",
+        "title": "TraceLink Expands Global Investment in Track & Trace and Supply Chain Agentic Business Processes - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUzZFWS1ZT0tsaTNHR1dnZHp3c2hiUkg0djJHZi04TGRMbWgzR21DV3Z3dUdZSzdNX0FvYjJIR0ljblQtU0NINm04QjAxTmpZaWNUQ0dVWmdpdWRUS0I5Z3ByRUU5SzgwX2dnY0wzYVJfc3Z1MHhENGtqVjlQY2wwM1p2YTl1QnNvVUhONVFwbzZxTUNiV1gzMnJUUHZMMGctbEVVSWVPcjdQaWEydzAybjhqOWpaTDVNY3NNdEp3VzZ2VWU3S2VPOE1XLTI4c0JDXzJMYk5yNFI1UzlzdVBvc0RrbVZvUQ?oc=5",
+        "summary": "TraceLink Expands Global Investment in Track & Trace and Supply Chain Agentic Business Processes PR Newswire TraceLink Expands Global Investment in Track & Trace and Supply Chain Agentic Business Processes - PR Newswire",
+        "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+        "published_kst": "2026-10-19T16:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How to optimize your supply chain end-to-end ? - BNO News",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaEtNSDdCUjljZHdUeklOSEZFVG9CeWtqSmJyYnhDangtYzZBYk1lRmVIbW5SeU8zNE5WNENaZDc5aUxJeWRYTkR5dnN1a3VtdmR4dll1ZjlraXNKUFE2NFk2dkRBTGJybHhteFJOSTF0MXRXUE1fSDR0QkgxemNtLTlSQzRhSzAxZzY4?oc=5",
-        "summary": "BNO News How to optimize your supply chain end-to-end ?",
-        "published": "Sun, 18 Oct 2026 23:30:50 GMT",
-        "published_kst": "2026-10-19T08:30:50+09:00",
+        "title": "Brent Crude Oil Price Forecast: Trump Eases Sanctions on Russia, Oil Prices Under Pressure Below $110, Can They Still Rise? - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRS1aaWNKc3hGUXk1WDFockc2Tk1TLWd2c2gxM0dFSjFkQ09JcFlsdHhzTy1PTEtZODBJdlVFd211NHB5Sy1keGRrTXpHV0F4WWdDVkd4MFBLNUQycTZYQVRPVHRHbVpKUkVOZTVLaVZhZjVJNlRRMEZSVXZOVTNENUFLVl9mMjd1RmFrb3ZwMFlNNHprZGwwWU1jWDJsNTFUempxRXI1WkFoTVFURTA5OVVJeFl2UGhsT3ZuZlE1V0NqMjF6?oc=5",
+        "summary": "TradingKey Brent Crude Oil Price Forecast: Trump Eases Sanctions on Russia, Oil Prices Under Pressure Below $110, Can They Still Rise?",
+        "published": "Mon, 19 Oct 2026 06:38:48 GMT",
+        "published_kst": "2026-10-19T15:38:48+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$110"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYTNFNmRXMmo4Zi1Md1o4NFJzb3d6X1JpcUgtVEo4N3F2QW9Nd25UTkhKYzljbExueGZ5Qkp2aWtUVUV1bGF4dWR5MGZDZHdWN3pyd250SnFtLUpjbHdBSXIyVGNlMFE2TzFlOVlWMkxiMnE2eHJ2eC1HbjV5cjRLdV9tQmcyMHVTVjJaY1ZkTXBNRWM?oc=5",
-        "summary": "Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies Yahoo Finance Oil slips as Trump's sanction waiver may lead to more Russian fuel supplies - Yahoo Finance",
-        "published": "Sun, 18 Oct 2026 22:22:56 GMT",
-        "published_kst": "2026-10-19T07:22:56+09:00",
+        "title": "Global oil prices fall following a U.S. decision to suspend sanctions on Russia - صوت الإمارات",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVk4Z3NlaWVtdHF4UGpjZXVpQ1N4REFkYXotRVZCbGFlR0pJMnNVc1pZQVNKSmVxN0tRWUltcEkxQ1JXMHJHVkNPQ3ZiUnM5NTFRc0hhUXdhRkVMUmEzNFcwYmZqRUZUWFEtci1DQlJNYWU0V1FJakNLZl9tbVNpemE4VDhNOHJwbU8yVXYwaWotZE1EeEFYQy1Ra204ZHFuRk02b2ZwS2EtNTJHUlh6ZktTZXNmc3Z3eXpXaEg1NE1QUFJsaUtuVXhaTWxKTzA?oc=5",
+        "summary": "decision to suspend sanctions on Russia صوت الإمارات Global oil prices fall following a U.S. decision to suspend sanctions on Russia - صوت الإمارات",
+        "published": "Mon, 19 Oct 2026 06:24:28 GMT",
+        "published_kst": "2026-10-19T15:24:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +152,6 @@
       }
     ]
   },
-  "wrap_summary": "The Claude maker said that establishing the fund as an LLC will provide greater flexibility in how the money is used. Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption / 북한군 포로 송환 외교 갈등, 한국의 신뢰도 위기 촉발 공감신문 북한군 포로 송환 외교 갈등, 한국의 신뢰도 위기 촉발 - 공감신문 / CBS News Helium is way more important than you might think. And the supply chain is in crisis.",
+  "wrap_summary": "No ‘turmoil’ at the White House Al Jazeera No ‘turmoil’ at the White House - Al Jazeera / 김진원 \"밸류업 가능성, 재무 데이터로 찾아라\" 한국경제 김진원 \"밸류업 가능성, 재무 데이터로 찾아라\" - 한국경제 / TraceLink Expands Global Investment in Track & Trace and Supply Chain Agentic Business Processes PR Newswire TraceLink Expands Global Investment in Track & Trace and Supply Chain Agentic Business Processes - PR Newswire",
   "invest_summary": ""
 }
