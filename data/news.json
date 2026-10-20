@@ -1,73 +1,71 @@
 {
   "date": "2026-10-20",
-  "generated_at_utc": "2026-10-20T10:28:21Z",
-  "cutoff_kst": "2026-10-20T19:28:00+09:00",
+  "generated_at_utc": "2026-10-20T14:52:03Z",
+  "cutoff_kst": "2026-10-20T23:52:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDJRMDM4WGZSS3JvN0NLZG9IcE9VZTFqcm56LUp6ZXlhVWd4bm5QLWxWcko2c29PQkVQS050SzhfOVNKVXF5Ml8tNDFBb2NvTzlpVVlVcWZMMTVTeGt5X3d1RDFNV0dFcHFnQ3VCRVRpQ0dOZTJuSFlhUHJJcXp5UVhaUHVwMnFGaW1YeTVPbVhUUQ?oc=5",
-        "summary": "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia Is Ousted After 5 Days as White House Press Secretary - The New York Times",
-        "published": "Tue, 20 Oct 2026 10:15:19 GMT",
-        "published_kst": "2026-10-20T19:15:19+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-        "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-        "summary": "Prime Minister Sébastien Lecornu said Tuesday some areas would remain under curfew after a weekend of violent rioting. France curfews calm unrest as Macron faces criticism over Gulf trip",
-        "published": "Tue, 20 Oct 2026 10:02:57 GMT",
-        "published_kst": "2026-10-20T19:02:57+09:00",
+        "title": "Oil prices fall as traders monitor conflict in the Middle East",
+        "url": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+        "summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks. Oil prices fall as traders monitor conflict in the Middle East",
+        "published": "Tue, 20 Oct 2026 14:50:00 GMT",
+        "published_kst": "2026-10-20T23:50:00+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-        "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-        "summary": "Walmart is now offering a joint membership with Sam's Club for $120 per year as the retailer further leans into convenience. Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
-        "published": "Tue, 20 Oct 2026 10:00:01 GMT",
-        "published_kst": "2026-10-20T19:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$120"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. Treasury yields move lower as investors await housing data",
-        "url": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
-        "summary": "Treasury yields inched lower on Tuesday as investors awaited economic data and weighed the inflationary backdrop ahead of the rate decision next week. Treasury yields move lower as investors await housing data",
-        "published": "Tue, 20 Oct 2026 09:57:07 GMT",
-        "published_kst": "2026-10-20T18:57:07+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. Earnings Preview: Before Market Open Oct. 20 - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2JpQUJPSnRmOXUtc3l6UHdEb1VZa2U4eXZNelRwS1NBRGMtVFpaMGdkcTRTMmd1ZGc5X2xBeGVISWNIYVVsZTVic0oxeFUxQXEtNC1fT2k2T25ueXBSWUxnblZjR3gwdVpFa242dmRuM0hKV2RxcFVxLVRSU0VHdHRPdHFyUEUyVFJWZUhOYlBqNDA?oc=5",
-        "summary": "Earnings Preview: Before Market Open Oct.",
-        "published": "Tue, 20 Oct 2026 09:30:00 GMT",
-        "published_kst": "2026-10-20T18:30:00+09:00",
+        "title": "Former White House Information Governance Director Kenya Parrish-Dixon Joins Baker Donelson's Commercial Litigation Group - Baker Donelson",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGlZa1U5eFF0aHVoU1JWdnRrU3pDUjV2cEgteFhNNFZNOUxZdXo1WUJpZW5UNzVjZnE0TUZESk03UW5vR015Uy0xeWNNbzhtNkJELU1fWDVYSGswdDRmN0FwbmdWbVpFS211ZlBzb3VkRV9KZlVvWW5JaVdJX0JvYzhhd0dneU8zRHRwLW1na20xR2MtMmlOOEJJQ2ZwdEktX2NTMmJud28wWXp2TUJTbGktUmdnU29pTFpldzdXcWZVTmFwNVRrNnVHZ2xkYVY5UVlDaF9DRTNfSEszcGVrbUlqTlY?oc=5",
+        "summary": "Former White House Information Governance Director Kenya Parrish-Dixon Joins Baker Donelson's Commercial Litigation Group Baker Donelson Former White House Information Governance Director Kenya Parrish-Dixon Joins Baker Donelson's Commercial Litigation Group - Baker Donelson",
+        "published": "Tue, 20 Oct 2026 14:45:32 GMT",
+        "published_kst": "2026-10-20T23:45:32+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The ‘Congress addict’ serving as Trump's fixer on Capitol Hill - Politico",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUx0cmFWaXR1d042bERoZVBGT2RjQ2ljcGhJenlRS1dyOVJydW5yT2xHcUhPcFd3alVsMW1IYWh5elVxZHppeHJhV3daYUFZVHl0Z0tZaHNPTnF1eXV4bmpEZnlnTUFZQjhYajdVNXJsRGRHZV9aTUlGSGZDVVZJZVUyR1ZtblBqNVAtV3JGZ25yNV9aVzlYZlhn?oc=5",
-        "summary": "The ‘Congress addict’ serving as Trump's fixer on Capitol Hill Politico The ‘Congress addict’ serving as Trump's fixer on Capitol Hill - Politico",
-        "published": "Tue, 20 Oct 2026 08:45:00 GMT",
-        "published_kst": "2026-10-20T17:45:00+09:00",
+        "title": "CNN warns Trump White House: Restore Air Force One access or face further legal action - KESQ",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS1BoMkhYY25mN3ZHaGdldThaY281YzI3R2tKVHNRWW1rcVRNQWJLR3o1ZlFVSEgxSEFhLUw0eHMxYk1DWkU5c2hCZFBwcENndTdUdVBqYVFHbHNtRUpsSVRuYVhaTk5CdXdmcmFZVzVnMzZoNHJicXRCNEZIVFFTNmxSSmctNkZUVzVWQkQzSjNsaVVjMnNlU2RQTkIyMWhYRVV3RDFVYkNLWF9OdEU3TjNHNzlCTTFxVF93eU1lWDIwWkhKQlo1Mi1XNjViUjQ2V2xCbUU1WmctQQ?oc=5",
+        "summary": "CNN warns Trump White House: Restore Air Force One access or face further legal action KESQ CNN warns Trump White House: Restore Air Force One access or face further legal action - KESQ",
+        "published": "Tue, 20 Oct 2026 14:41:16 GMT",
+        "published_kst": "2026-10-20T23:41:16+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "SC Democrats bring in the cash directly thanks to some looking at White House runs - The State",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZbER6NXo0VmQ3R3YwQ3NQZ211MUN6dE1Ebkd5eGwxcXB6UnFfZjhMMEpyVGlQQlhUX2VETWo5RUd0SjlNc2l2QlliX1M3NFdSSUl0MVZJanlzakpBaVRZRUVtcUQ0dEtmaFZaOFdIX3VXWEhzOVlWVU5EQdIBe0FVX3lxTE9vcTdMMjBPcElXU0lKSWxteEVlUUc0dXZfR3JQM0Z2SDBIaXdQUG0xeFdFUHFrSTBoMW4tbnJMOHRWQWd3ejlkZlBtNWQwX0xNeVVpeGhaUW1NQ0VFQXBnQnVtcERFdV9xYXlhYkJTbWN0SDhxU0ZsM05Naw?oc=5",
+        "summary": "SC Democrats bring in the cash directly thanks to some looking at White House runs The State SC Democrats bring in the cash directly thanks to some looking at White House runs - The State",
+        "published": "Tue, 20 Oct 2026 14:37:13 GMT",
+        "published_kst": "2026-10-20T23:37:13+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "September data shows housing market in a deep freeze",
+        "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+        "summary": "New data on the housing market's performance in September is bleak, with sales, construction and sentiment all falling more than expected. September data shows housing market in a deep freeze",
+        "published": "Tue, 20 Oct 2026 14:18:58 GMT",
+        "published_kst": "2026-10-20T23:18:58+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+        "summary": "Anthropic and Nscale previously inked a similar deal for a data center on the same site in the U.S. Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+        "published": "Tue, 20 Oct 2026 14:12:38 GMT",
+        "published_kst": "2026-10-20T23:12:38+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,33 +73,33 @@
     ],
     "kr": [
       {
-        "title": "[단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JS3FTa2NKVjNKZ2tCM2NRcms3aHdqU0VSQzd1YmNOaXVCTVpodGRITlg4RHFBWVUwRVJQOWl0WkVvYmJBY0dnVmQyRl8yN0xzaWhHaTBrQ05ZUQ?oc=5",
-        "summary": "[단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 한국경제 [단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 - 한국경제",
-        "published": "Tue, 20 Oct 2026 10:19:00 GMT",
-        "published_kst": "2026-10-20T19:19:00+09:00",
+        "title": "이재명 대통령 \"한국 경제 기초체력 40년 만의 반전… 성장의 온기 국민에게\" - 미디어써치",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iX2JXaHRtSU1KS3JuT0Q0dXExaWk1Q25GVW1CdjJVeXgyLXlVWS0zRjU2WDZpNGxGNVpZd0JoUnQxUmVTby1fU0FISzUyNktudk1IbnZSTm9QNnFpYUx4MWxUanlOLW5nZExKWTNJWUc?oc=5",
+        "summary": "이재명 대통령 \"한국 경제 기초체력 40년 만의 반전… 성장의 온기 국민에게\" 미디어써치 이재명 대통령 \"한국 경제 기초체력 40년 만의 반전… 성장의 온기 국민에게\" - 미디어써치",
+        "published": "Tue, 20 Oct 2026 13:46:30 GMT",
+        "published_kst": "2026-10-20T22:46:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[이슈앤피플] 잠재성장률 40년 만에 반등의 진짜 의미는? - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oak5SZWUxQXZaRkQ5YjZSR0x0WE5ZNFJwSzlVRWxsN1E5c3V2akwwY1V3RFJDYUQzSnN4ZS1LS1hSUk96eXNXbTgwOVVZeXljR2c?oc=5",
-        "summary": "매일경제 마켓 [이슈앤피플] 잠재성장률 40년 만에 반등의 진짜 의미는?",
-        "published": "Tue, 20 Oct 2026 09:38:37 GMT",
-        "published_kst": "2026-10-20T18:38:37+09:00",
+        "title": "'케데헌'이후 대박이 없다…넷플릭스 감원 등 '초비상' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14cFRZUWJQRG5UVV9qZmFBYUpFaGlFQkZNNF95YldWcDV3eEZHMnlMMnlPc2pqX2NXVmtfTlRvRzE5RzNsLXVhN0w0dWlCZHp0ZS1CSGZJakIzQQ?oc=5",
+        "summary": "'케데헌'이후 대박이 없다…넷플릭스 감원 등 '초비상' 한국경제 '케데헌'이후 대박이 없다…넷플릭스 감원 등 '초비상' - 한국경제",
+        "published": "Tue, 20 Oct 2026 13:31:11 GMT",
+        "published_kst": "2026-10-20T22:31:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'어떤 항암제가 맞을까' AI로 정밀 판독 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZDhCT3ZwSl9jOU1sV0hNVWxJR3hoRzQ0OEVkdmZfUUFiYkpGZFJwQ3NhLXRJSDM4LWstd1g0dzRHR0ZBeDJ0Z3ZYdTEwZl9LblR4LWdFYXM2UQ?oc=5",
-        "summary": "'어떤 항암제가 맞을까' AI로 정밀 판독 한국경제 '어떤 항암제가 맞을까' AI로 정밀 판독 - 한국경제",
-        "published": "Tue, 20 Oct 2026 09:34:19 GMT",
-        "published_kst": "2026-10-20T18:34:19+09:00",
+        "title": "국회 재경위, 한국수출입은행 등 대상 국정감사 실시 - 글로벌뉴스통신GNA",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPTW5BSk9NcThOMWVhNmp5Q3RfZFRkMGVHWTQxdExmUHFPOXd0LXpKQU5ycFp5eXBKTFFOaGF4a256bi1WWE9JNTZ0bUhmekRnb0JJOWhhS21qbTJqeGdxV3J1TEQ1STJRUGpGM3lQYVhWbXFu?oc=5",
+        "summary": "국회 재경위, 한국수출입은행 등 대상 국정감사 실시 글로벌뉴스통신GNA 국회 재경위, 한국수출입은행 등 대상 국정감사 실시 - 글로벌뉴스통신GNA",
+        "published": "Tue, 20 Oct 2026 13:16:34 GMT",
+        "published_kst": "2026-10-20T22:16:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,37 +108,33 @@
     ],
     "world": [
       {
-        "title": "Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 - eeNews Europe",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZk12d2thMnJROHYtdTM5SkZqdW42US03N3BzNnJGS2lPZXBaZTVEX256Q1FUSUJ3MDJqWGZpdmFvUkpZX2NTcnRhMFBFR29KMDEtSVQySXZUYk9IN0RfdkYyeVZUakJONHFsSzU2SU5mR1dUdFhmczgzazFvM2VwVVlCUXlVcFZPR0R4aUJ5cWhkaEhkX3BTY0FGM1VYY2VEWUE2MEFXdjB2bkN0N1JKd25HYjVvRy1aQzFLb3dSVDFCNnJCT0xBVGZHLVAtZTZ6Q3pzSmczZ3Y?oc=5",
-        "summary": "Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 eeNews Europe Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 - eeNews Europe",
-        "published": "Tue, 20 Oct 2026 09:40:58 GMT",
-        "published_kst": "2026-10-20T18:40:58+09:00",
+        "title": "Meridian leans into modern styling, supply chain strength to grow retail momentum - Furniture Today",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHlUUWtkako0WV9VWjVEc1hEWFFDX2hnb0wyU0V0dmRwSThRc2xuN2ZRbnlXTVR6c2EtcEhTbDdKX0pSUnZkbEVHN0hQTVNKNzdzMlMtUzZIYmJ5bjJUbnE3bEJZTnQ2b2xoaFctaEpFQmRpa0ZoYWpMYWtZZnRFOVFON08wLUljZkZueFo5dTNwekNBdTVXdHFKOXB6b2RsZ3J3bHpBb3dlWFhRajFIaEg5ZjNxTHdTbWtCZDZmTVJEc2M1?oc=5",
+        "summary": "Meridian leans into modern styling, supply chain strength to grow retail momentum Furniture Today Meridian leans into modern styling, supply chain strength to grow retail momentum - Furniture Today",
+        "published": "Tue, 20 Oct 2026 14:39:27 GMT",
+        "published_kst": "2026-10-20T23:39:27+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
-        "summary": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders Reuters EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
-        "published": "Tue, 20 Oct 2026 09:19:15 GMT",
-        "published_kst": "2026-10-20T18:19:15+09:00",
+        "title": "Containers Don’t Lie Europe (CDL Europe) - Logistics Business",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSmFsaTNFczRkT09HTkZsOXRmTTFHVC1sb0tlSDdxUV9YYUJzOWZ0dV9ZQUlxVmRWQmw2aW5uZjRCeHJWNHlIalAybzJDdmJ2OFFhUjRGNEczQXB2MmxocVVPNm1OelJmZ05hV2otR0hMYlFndlh1MG0zV3BDWXRMdQ?oc=5",
+        "summary": "Containers Don’t Lie Europe (CDL Europe) Logistics Business Containers Don’t Lie Europe (CDL Europe) - Logistics Business",
+        "published": "Tue, 20 Oct 2026 14:33:42 GMT",
+        "published_kst": "2026-10-20T23:33:42+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$35"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Fresh produce industry urged to strengthen supply chain resilience as shipping risks mount - Food Ingredients First",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOalFtc0NxLWQ4ZzZxdnVxZGJERU5Pc0NYdUJDSWVMajhPeUdYR0hVTzFCOFZUTnlOeGNMdFhqeFVyeEtaM3hPWURuNE55WmV1TXQtQUdOQkV1MG1zX3E5TE1MQTNQMXp0RW9rT3R4RjdNSU4zbkNvRW92NXZhd1JVREJsWk9Dek03UFRXaA?oc=5",
-        "summary": "Fresh produce industry urged to strengthen supply chain resilience as shipping risks mount Food Ingredients First Fresh produce industry urged to strengthen supply chain resilience as shipping risks mount - Food Ingredients First",
-        "published": "Tue, 20 Oct 2026 09:01:34 GMT",
-        "published_kst": "2026-10-20T18:01:34+09:00",
+        "title": "AGR: UK Manufacturers Lag On Supply Chain AI - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFBSQ21jV0ZzYW5wUFJzMXh1ZVhwdmdqUmxYTlBGTTVVV2pRMGt0c182dFdaSjR6X3lqMVktZ0hSMm5LRnRkOTRJa2otWHY3bmEzUGdSY1ZnNGg0VklrWkY2QkxLNFZmQ0JvdDYyN3ZjOEdmNldBR19uaThxY2hYWWFwaFRRQQ?oc=5",
+        "summary": "AGR: UK Manufacturers Lag On Supply Chain AI Supply Chain Digital Magazine AGR: UK Manufacturers Lag On Supply Chain AI - Supply Chain Digital Magazine",
+        "published": "Tue, 20 Oct 2026 14:06:41 GMT",
+        "published_kst": "2026-10-20T23:06:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +142,6 @@
       }
     ]
   },
-  "wrap_summary": "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia Is Ousted After 5 Days as White House Press Secretary - The New York Times / [단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 한국경제 [단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 - 한국경제 / Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 eeNews Europe Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 - eeNews Europe",
+  "wrap_summary": "Developments in the Middle East remain in focus, with attacks on commercial ships transiting the Strait of Hormuz escalating in recent weeks. Oil prices fall as traders monitor conflict in the Middle East / 이재명 대통령 \"한국 경제 기초체력 40년 만의 반전… 성장의 온기 국민에게\" 미디어써치 이재명 대통령 \"한국 경제 기초체력 40년 만의 반전… 성장의 온기 국민에게\" - 미디어써치 / Meridian leans into modern styling, supply chain strength to grow retail momentum Furniture Today Meridian leans into modern styling, supply chain strength to grow retail momentum - Furniture Today",
   "invest_summary": ""
 }
