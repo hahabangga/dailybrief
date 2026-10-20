@@ -1,71 +1,78 @@
 {
   "date": "2026-10-20",
-  "generated_at_utc": "2026-10-19T19:04:27Z",
-  "cutoff_kst": "2026-10-20T04:04:00+09:00",
+  "generated_at_utc": "2026-10-20T00:44:56Z",
+  "cutoff_kst": "2026-10-20T09:44:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
-        "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-        "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco. OpenAI bugging case: Saudi consulate offers to pay bail for suspect",
-        "published": "Mon, 19 Oct 2026 19:02:23 GMT",
-        "published_kst": "2026-10-20T04:02:23+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
+        "title": "SpaceX (SPCX.US) earnings report ignites options market; market capitalization volatility could exceed $100 billion. - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcUVlNGktdTRWUnB5cmozeVBfdVBvU3Q5SXY4SVhvMWxOYVdSWUhOYXFKNzk5OWpmSm0zd3c0SGJQdnZ4djN6ZE5lMGdQdWFrOUlfLTBFRmJwT1hNSDNfWkVBUXNFTjhYYTd0MmxBb0Q0TEU2MUYwWVJJNTdNZDFCQkJhQnJvTGpjVEpUZ0xYWnFhZkdybWozdzRNdTFMUjlEcEtOc0ZhZ0FpM3k2Wi1IVHBrTExQNWdzN19xZXktczYwMmd3TnpIWQ?oc=5",
+        "summary": "SpaceX (SPCX.US) earnings report ignites options market; market capitalization volatility could exceed $100 billion.",
+        "published": "Tue, 20 Oct 2026 00:33:35 GMT",
+        "published_kst": "2026-10-20T09:33:35+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$100"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-        "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
-        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-        "published": "Mon, 19 Oct 2026 18:52:35 GMT",
-        "published_kst": "2026-10-20T03:52:35+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-        "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-        "summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men. Women may be at greater risk of AI job losses.",
-        "published": "Mon, 19 Oct 2026 18:36:21 GMT",
-        "published_kst": "2026-10-20T03:36:21+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House taps Mississippi State to join regional AI partnership - MPB — Mississippi Public Broadcasting",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDFpLUJuY0ZieTN4RHpmSUQyVlF1bXZVS2djWVFydktDMnhSQTRnR3h2ZnAwYzFBYS1rM2s0WUVtd0Yxd29YRTNDRlEtLWgwUFladzhyQ051Q2hXRVhDWDRpSXVWcTVibllXLU01X0I4OXNMTUcxM0IxeGFxMDV4cno4YWo5OFUyeWdxWEFvM1R2Ymladm9TR0dsM1p6VmJoOU5HN0pHMA?oc=5",
-        "summary": "White House taps Mississippi State to join regional AI partnership MPB — Mississippi Public Broadcasting White House taps Mississippi State to join regional AI partnership - MPB — Mississippi Public Broadcasting",
-        "published": "Mon, 19 Oct 2026 18:36:15 GMT",
-        "published_kst": "2026-10-20T03:36:15+09:00",
+        "title": "Melania Trump Announces White House Women’s Health Initiative - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREV6M0VPX0hfLXlSWVlNRGhjaWpVZDY3cmwtRjVwLXlYWUpscnF0WE93SGFoejF6Vjl6UnJXRmJMMTFuMVZNeFdCOFE5NXFhdGJCZ2dVYmxaOE9FSnAxR1N3cHVmZHhxdzAzYlkzSWxQbVByRFkta3JBNTVaUkRaalJzc2Y?oc=5",
+        "summary": "Melania Trump Announces White House Women’s Health Initiative The New York Times Melania Trump Announces White House Women’s Health Initiative - The New York Times",
+        "published": "Mon, 19 Oct 2026 23:36:52 GMT",
+        "published_kst": "2026-10-20T08:36:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CPI | US Supreme Court Rejects Google Appeal Over Patent Review Rules - PYMNTS.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0phVlczRlQxMUczVDdEWGt4OVl2RGw3OHpXWXVrdDVkMmxqWVJCSGpsN2J3YjBUaWJTTG93dkNWcUg4V1ljN0FFTUVWemJYRzB0eWY1SU43U3V0bXh4QW1xQjJjQVg4UWt5YWJockNDVUswNXNOOF9ueDFqWGRNWGdpOUF5U0NQVF9TOGRSSEpWX3dISHoxa0hhZExfZw?oc=5",
-        "summary": "CPI | US Supreme Court Rejects Google Appeal Over Patent Review Rules PYMNTS.com CPI | US Supreme Court Rejects Google Appeal Over Patent Review Rules - PYMNTS.com",
-        "published": "Mon, 19 Oct 2026 18:30:26 GMT",
-        "published_kst": "2026-10-20T03:30:26+09:00",
+        "title": "US stocks rebound with AI earnings test ahead, euro falls on France unrest - Euronext Markets: Real-time Stock Market Data | live",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzBVMFR6Q2FWeDBRYjYta2xxR0p6SDdQbmtkazdPdUJwYjNlejRnOTZlcTdPRXlEUy1Cb05rNlhhUU9OdDA0dVZQQUtDdTRzbTh0bWhWTFNoTWxqbk03eWdXMU12elhtbHM5ZUI3Zm1pWHhnTmJOQnVLcW4xU0VadnhpU01Pd1FFTE5Ldm16ZFhZdUMxelhjRHl1WkFNRWpYYlZ2SHJBYzM4NjdHb0E?oc=5",
+        "summary": "US stocks rebound with AI earnings test ahead, euro falls on France unrest Euronext Markets: Real-time Stock Market Data | live US stocks rebound with AI earnings test ahead, euro falls on France unrest - Euronext Markets: Real-time Stock Market Data | live",
+        "published": "Mon, 19 Oct 2026 23:04:21 GMT",
+        "published_kst": "2026-10-20T08:04:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump order sets up new women’s health research initiative at NIH, White House task force - News From The States",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHl1WHVVbkxlM1YxSnpxUEZhYU9CdWtHYWtHSHN2aFhvVzBOY2JObjNVamt1MEs2TWJEcy1uZGExc19iYjN2eVZKNDNGWnh2TkIwUHN6cVI4elJJTHM5MGNlZnJiY2xrUFhDNUttVUpIYUV4NmdLUjZBU0ZRdDVJVkFpVXROb0NJbFVrM1RsZ2hRalpYSHF0T0pFZmF1MUQ3S01nbXpKM1JNdzlHM2x3V0hsazBCQVZKS0hsV1AxcVk?oc=5",
-        "summary": "Trump order sets up new women’s health research initiative at NIH, White House task force News From The States Trump order sets up new women’s health research initiative at NIH, White House task force - News From The States",
-        "published": "Mon, 19 Oct 2026 18:07:00 GMT",
-        "published_kst": "2026-10-20T03:07:00+09:00",
-        "domain": "google.com",
+        "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
+        "url": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
+        "summary": "Sitharaman identified fuel, fertilizer and access to capital as risks for India’s economy in 2027. India’s finance minister says market liquidity makes it easier for investors to exit",
+        "published": "Mon, 19 Oct 2026 08:23:33 GMT",
+        "published_kst": "2026-10-19T17:23:33+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2027"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+        "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+        "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026. China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
+        "published": "Mon, 19 Oct 2026 07:48:53 GMT",
+        "published_kst": "2026-10-19T16:48:53+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "8%",
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+        "url": "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+        "summary": "The prime minister denied that her policies were responsible for the yen’s weakness or rising JGB yields. Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+        "published": "Mon, 19 Oct 2026 05:29:51 GMT",
+        "published_kst": "2026-10-19T14:29:51+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,35 +80,33 @@
     ],
     "kr": [
       {
-        "title": "아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SZ0lqcGpFc3hZYzcyNTVMNFNrd0tWQklKc1VjNUNpa25IV194OFJrZ2dOZXM4cW45TmtURG9HN3lublF6ZWdneERmWXdKbFVBdDlQQnBybmRndw?oc=5",
-        "summary": "아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운] 한국경제 아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운] - 한국경제",
-        "published": "Mon, 19 Oct 2026 18:42:59 GMT",
-        "published_kst": "2026-10-20T03:42:59+09:00",
+        "title": "금감원장 \"솔리다임 나스닥 상장은 중복상장\" [ESG 뉴스 5] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dWNkS1RRS1dJYjRUWFlkRTkyM3ZGbk9veDg3Nm03SU5Lcng0SFk1WXA4a3ZPejIzMTAzOEhESlNYRDByaFctQjVPcWVjVTRSWl9qWTdkN054QQ?oc=5",
+        "summary": "금감원장 \"솔리다임 나스닥 상장은 중복상장\" [ESG 뉴스 5] 한국경제 금감원장 \"솔리다임 나스닥 상장은 중복상장\" [ESG 뉴스 5] - 한국경제",
+        "published": "Tue, 20 Oct 2026 00:27:52 GMT",
+        "published_kst": "2026-10-20T09:27:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "골드만삭스 \"코어위브 급락 과도…73% 상승 여력\" [월가 업&다운] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RNmVmdXlSV1hiM3RPYUVHbGpOQjRyeVZiTmFJY2tFemt5Z2NfcVBYX0J3YjFta2l5bW5DRldOV2VSRVBGc3pzUmVNZkUtcmluTkpEZDRoLTk3Zw?oc=5",
-        "summary": "골드만삭스 \"코어위브 급락 과도…73% 상승 여력\" [월가 업&다운] 한국경제 골드만삭스 \"코어위브 급락 과도…73% 상승 여력\" [월가 업&다운] - 한국경제",
-        "published": "Mon, 19 Oct 2026 18:35:04 GMT",
-        "published_kst": "2026-10-20T03:35:04+09:00",
+        "title": "중앙일보 인수 우선협상자에 다우키움·CJ 컨소시엄 선정 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44WHB1cDFTQVlCTWFVaTJSMWdCUVBKZ0dGUHFDLTg4cGgtdGNOUGhmX013T1JIb2szc2VOdzREOWFhZzlRcUVnLThrRVg4N1NvZ0t0QnFyaGYxdw?oc=5",
+        "summary": "중앙일보 인수 우선협상자에 다우키움·CJ 컨소시엄 선정 한국경제 중앙일보 인수 우선협상자에 다우키움·CJ 컨소시엄 선정 - 한국경제",
+        "published": "Tue, 20 Oct 2026 00:27:00 GMT",
+        "published_kst": "2026-10-20T09:27:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "73%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 - 피플게이트",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUJ3VzliSWFnSzk0SDhFUmswTnM3SjJfbVZWYlF6UTV5aVJrRnhDd2lfNWRpaXBXWmVmNkJhX0tKSVJCdlRuWDJ6dWlIS0tNaUdPajAyb3gxUjg1dXk5SmJzNkxPM3ZpeF9TYnpuSGhzbUZNdlBGcm1rZnpfdVB6WHJvN0NSQ09rYk5CMlp6d0dyTjg?oc=5",
-        "summary": "EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 피플게이트 EU 섬유 지속가능성 규제 이행 본격화…한국섬유산업연합회, ESPR·DPP·섬유 EPR 대응 전략 제시 - 피플게이트",
-        "published": "Mon, 19 Oct 2026 15:30:00 GMT",
-        "published_kst": "2026-10-20T00:30:00+09:00",
+        "title": "\"말차 섞었더니 대박 났네\"…해외서 난리난 막걸리 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQaExNaVljckJ0OEZERmNGaWlrTWljRDdwaUNyZWNic0xkVGFiYmlmcWdEUVV4eXJvX2c4MW1qVzFZUzJra2V5aXFESUctSG1LR3RIQ3c0Tm0zUQ?oc=5",
+        "summary": "\"말차 섞었더니 대박 났네\"…해외서 난리난 막걸리 한국경제 \"말차 섞었더니 대박 났네\"…해외서 난리난 막걸리 - 한국경제",
+        "published": "Tue, 20 Oct 2026 00:25:00 GMT",
+        "published_kst": "2026-10-20T09:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +115,33 @@
     ],
     "world": [
       {
-        "title": "Rice energy research explores practical solutions to global supply-chain challenges - Rice University",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUTRHZkZnMC02RTZzU1V2UUEwTUZ5UGtnMGhLOWI3OUc2YWxzbjJIQWFPLVd1eFh3SzRqWTZhM0Q5SjdickswaGpUdFVybDYwRmpOSnBJTmFUR2xGbDZXTWNIVWxad3BNWlN5Wm5FSVdRc3JNN0x0Q3U4UXlIY3pheFRPU0x2Z283Z1pGaXF2ajV3Ry14LXJ4R0QxZUZ4WEE1cURpSUZFVzhaZ2Mtc3h5LTJ3?oc=5",
-        "summary": "Rice energy research explores practical solutions to global supply-chain challenges Rice University Rice energy research explores practical solutions to global supply-chain challenges - Rice University",
-        "published": "Mon, 19 Oct 2026 19:01:33 GMT",
-        "published_kst": "2026-10-20T04:01:33+09:00",
+        "title": "Exclusive: US energy storage supply chain faces mounting pressure as import restrictions and manufacturing bottlenecks disrupt deliveries - digitimes",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONEEzd3Q4TklUQW9xbXdiMHRFNDh5VXdBNHBNelcyZHJhbnppMGRKX1pqMXZQQ2NvVTY2YXI2QWdJSzBOU0FNZnF6cEhmeW4yX3JPMUdOSkw0TlNlbzFXc1ZFUGpvZTRJbE5US3pDdjljSE9RWXh6THJaSDZQSEwtbEVCTnhKalJiUlhFaklWYUY3RkxuZ1RldXkyRU9sbVhWXzJYaVo4Zw?oc=5",
+        "summary": "Exclusive: US energy storage supply chain faces mounting pressure as import restrictions and manufacturing bottlenecks disrupt deliveries digitimes Exclusive: US energy storage supply chain faces mounting pressure as import restrictions and manufacturing bottlenecks disrupt deliveries - digitimes",
+        "published": "Mon, 19 Oct 2026 23:20:52 GMT",
+        "published_kst": "2026-10-20T08:20:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The Enterprise Reset: Navigating Tariffs, Supply Chain Shifts and Cost Pressures - PYMNTS.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRk1WdGtDME5lUjJxNEVUVTczS19uczRCY1JmcTBraG5SQ3FadWdORnh3VjRiV3VhanU3M09DeHlIWjhYeWVTRFFQUlVlam5KTUY5eUw4bkhUbTMtOTljdVJhQjRXNHJJMmc4dVl4cFl4bVVtcHk5Y0lSUUpmd25SbWhRenNuN0FlMFV6ckQxdlkzbVZTV29QR1cydkRJR0hrVkhyVDI3UVVkak9rUnJVUG1heFNpQQ?oc=5",
-        "summary": "The Enterprise Reset: Navigating Tariffs, Supply Chain Shifts and Cost Pressures PYMNTS.com The Enterprise Reset: Navigating Tariffs, Supply Chain Shifts and Cost Pressures - PYMNTS.com",
-        "published": "Mon, 19 Oct 2026 17:56:53 GMT",
-        "published_kst": "2026-10-20T02:56:53+09:00",
+        "title": "South Korea holds 4.17M barrels of oil blocked by U.S. sanctions - upi",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRTBVSVc3eWVOOVBFQ1FpLXlCMDNMTTl0LW4zaEpjaFJONk9nQV9qV0lRUlcyTEJxN3FEUG8zWXU5QzdWSldvX2RrQmJ3WC1xNkNmZ1RBVG1STGRZTURpeGF2Z0RvenZnRFFSeXhhNWtBSXdHWDRyZzZrTG9IdmI5ZjRpQnk2aUd3bUloWFFYcUszaDdqaHFDX1dEYV9yYlItWk5HZnhDQ2FmQkxDc2x2Q0hRbEltaENwU1HSAb8BQVVfeXFMUHA1M1RVcE5qQnVZaDJoWlZwdEd6OFh1Y2JPaFpwNHV3dnhqZEZnX3QtWDdrLThydnI5NDlpRUZENnlVZG5jRjRjd0pyWlpLSVU2MFVuaWd3eTlKeE1NOWpTQ0JYZ2Q0cnNqSHpQbHBRVmxEVFNaZUlPV2lkWUtnLUczelFHR3NMZV9sc2ctTHlWWnE2eGlBS3AwakN2TG9iY0tla3hQMm5JSTdBSGpnelVYZG5EMHY4bzFUVndRSEk?oc=5",
+        "summary": "sanctions upi South Korea holds 4.17M barrels of oil blocked by U.S.",
+        "published": "Mon, 19 Oct 2026 21:58:46 GMT",
+        "published_kst": "2026-10-20T06:58:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "/C O R R E C T I O N - PTC Inc./ - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2dlNWY5ZjdvaDYwemFoQ2pQS0otLW5HQ3RWZnlESnA1YTROTlhsWXRJYmRLM21ydEU5ZG5neTVhUmVIZVRBYUFmOEpUSzh4bGZMQlBUalVsUzBTZ1BQWS1jVjUwTGpiTUtwMmYyR0RZUFUtNnNscEFGYXFTZmJ0b2dvb0VUczFkMER0STdMWWdvZw?oc=5",
-        "summary": "/C O R R E C T I O N - PTC Inc./ Morningstar /C O R R E C T I O N - PTC Inc./ - Morningstar",
-        "published": "Mon, 19 Oct 2026 16:58:00 GMT",
-        "published_kst": "2026-10-20T01:58:00+09:00",
+        "title": "Houthis Strike Saudi Energy Sites Again as Trump Eases Russian Oil Sanctions; Global Crude Prices Diverge - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vU190OGF1SkRtSWE3V1ZaV0VsNXdndTVmdnU1UVM3TXpWSzE2a3RGd3VlR054T0RkN1p1bFR4d0dsN3FHUGRZN3N1eVk4dWF1R2l4aWVGU2ctM3VLb0RKMVBWTXlFT0lfMFdTUmV0a0FCUkJIWHc?oc=5",
+        "summary": "Houthis Strike Saudi Energy Sites Again as Trump Eases Russian Oil Sanctions; Global Crude Prices Diverge BigGo Finance Houthis Strike Saudi Energy Sites Again as Trump Eases Russian Oil Sanctions; Global Crude Prices Diverge - BigGo Finance",
+        "published": "Mon, 19 Oct 2026 21:55:00 GMT",
+        "published_kst": "2026-10-20T06:55:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +149,6 @@
       }
     ]
   },
-  "wrap_summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco. OpenAI bugging case: Saudi consulate offers to pay bail for suspect / 아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운] 한국경제 아마존 목표가 350달러…엔비디아도 비중확대 유지 [월가 업&다운] - 한국경제 / Rice energy research explores practical solutions to global supply-chain challenges Rice University Rice energy research explores practical solutions to global supply-chain challenges - Rice University",
+  "wrap_summary": "SpaceX (SPCX.US) earnings report ignites options market; market capitalization volatility could exceed $100 billion. / 금감원장 \"솔리다임 나스닥 상장은 중복상장\" [ESG 뉴스 5] 한국경제 금감원장 \"솔리다임 나스닥 상장은 중복상장\" [ESG 뉴스 5] - 한국경제 / Exclusive: US energy storage supply chain faces mounting pressure as import restrictions and manufacturing bottlenecks disrupt deliveries digitimes Exclusive: US energy storage supply chain faces mounting pressure as import restrictions and manufacturing bottlenecks disrupt deliveries - digitimes",
   "invest_summary": ""
 }
