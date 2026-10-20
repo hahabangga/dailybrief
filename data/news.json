@@ -1,110 +1,107 @@
 {
   "date": "2026-10-20",
-  "generated_at_utc": "2026-10-20T06:47:44Z",
-  "cutoff_kst": "2026-10-20T15:47:00+09:00",
+  "generated_at_utc": "2026-10-20T10:28:21Z",
+  "cutoff_kst": "2026-10-20T19:28:00+09:00",
   "regions": {
     "us": [
       {
         "title": "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary - The New York Times",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDJRMDM4WGZSS3JvN0NLZG9IcE9VZTFqcm56LUp6ZXlhVWd4bm5QLWxWcko2c29PQkVQS050SzhfOVNKVXF5Ml8tNDFBb2NvTzlpVVlVcWZMMTVTeGt5X3d1RDFNV0dFcHFnQ3VCRVRpQ0dOZTJuSFlhUHJJcXp5UVhaUHVwMnFGaW1YeTVPbVhUUQ?oc=5",
         "summary": "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia Is Ousted After 5 Days as White House Press Secretary - The New York Times",
-        "published": "Tue, 20 Oct 2026 06:44:14 GMT",
-        "published_kst": "2026-10-20T15:44:14+09:00",
+        "published": "Tue, 20 Oct 2026 10:15:19 GMT",
+        "published_kst": "2026-10-20T19:15:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-        "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
-        "summary": "Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems. bans DeepSeek from government agency systems amid AI rift with China",
-        "published": "Tue, 20 Oct 2026 06:25:26 GMT",
-        "published_kst": "2026-10-20T15:25:26+09:00",
+        "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+        "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+        "summary": "Prime Minister Sébastien Lecornu said Tuesday some areas would remain under curfew after a weekend of violent rioting. France curfews calm unrest as Macron faces criticism over Gulf trip",
+        "published": "Tue, 20 Oct 2026 10:02:57 GMT",
+        "published_kst": "2026-10-20T19:02:57+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump Sells Out Ukraine in Unhinged White House Meltdown - The Daily Beast",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGtoOXotLTBVWW5jYjBvVjNrODhBcGRxVEJpZERzcDJpMmxFVFZlNWJWX0QwdUprdzlHWEJrMEhKTG0zUHVYSzFxVEZpZW9xcC1lSnk5UENZdW1RRktFN3JoRzBYeDFrRmZ3SVlNQWl1aWc4ZnN2YjBBcndNX0lqejNVcVk2TXVuN21aU2JKcw?oc=5",
-        "summary": "Trump Sells Out Ukraine in Unhinged White House Meltdown The Daily Beast Trump Sells Out Ukraine in Unhinged White House Meltdown - The Daily Beast",
-        "published": "Tue, 20 Oct 2026 06:13:53 GMT",
-        "published_kst": "2026-10-20T15:13:53+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Sweden's Profoto Q3 earnings improve on lower costs and refund of US tariffs - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdFg1bEpaN3BjRzFsd25NZ05tSEtadFBVV2pxSU5tUU1aUTNFYVNTMUgya19IRV8xOEJSQXVhd1BtcDQ0dHJ2a0V6djRyTjRhcThIZmVMek82OGxpUTVqUlJKc0lqN0JpaVplWTFBcGZSQnNXVzUwNGdSQ3BJZlkyT1oxV0Y5Mk9tUVVJaHB0OUNKaURjZ29BNV9iR0hlckpMMlBHRnJUSTBDcnlRcGVaLV9ad1FDcnJwQWRIMlFtcGtPVWtObko0a0pJSGt1cnRheWp6X2FZUkNfaERrLVo4?oc=5",
-        "summary": "Sweden's Profoto Q3 earnings improve on lower costs and refund of US tariffs TradingView Sweden's Profoto Q3 earnings improve on lower costs and refund of US tariffs - TradingView",
-        "published": "Tue, 20 Oct 2026 06:11:00 GMT",
-        "published_kst": "2026-10-20T15:11:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-        "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-        "summary": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S. Copper is outshining gold this year.",
-        "published": "Tue, 20 Oct 2026 05:57:34 GMT",
-        "published_kst": "2026-10-20T14:57:34+09:00",
+        "title": "Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+        "url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
+        "summary": "Walmart is now offering a joint membership with Sam's Club for $120 per year as the retailer further leans into convenience. Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts",
+        "published": "Tue, 20 Oct 2026 10:00:01 GMT",
+        "published_kst": "2026-10-20T19:00:01+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "15.8%",
-          "2026"
+          "$120"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The world’s finance chiefs see new risks — and less China angst",
-        "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-        "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background. The world’s finance chiefs see new risks — and less China angst",
-        "published": "Tue, 20 Oct 2026 05:27:53 GMT",
-        "published_kst": "2026-10-20T14:27:53+09:00",
+        "title": "U.S. Treasury yields move lower as investors await housing data",
+        "url": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+        "summary": "Treasury yields inched lower on Tuesday as investors awaited economic data and weighed the inflationary backdrop ahead of the rate decision next week. Treasury yields move lower as investors await housing data",
+        "published": "Tue, 20 Oct 2026 09:57:07 GMT",
+        "published_kst": "2026-10-20T18:57:07+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "2018"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. Earnings Preview: Before Market Open Oct. 20 - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOX2JpQUJPSnRmOXUtc3l6UHdEb1VZa2U4eXZNelRwS1NBRGMtVFpaMGdkcTRTMmd1ZGc5X2xBeGVISWNIYVVsZTVic0oxeFUxQXEtNC1fT2k2T25ueXBSWUxnblZjR3gwdVpFa242dmRuM0hKV2RxcFVxLVRSU0VHdHRPdHFyUEUyVFJWZUhOYlBqNDA?oc=5",
+        "summary": "Earnings Preview: Before Market Open Oct.",
+        "published": "Tue, 20 Oct 2026 09:30:00 GMT",
+        "published_kst": "2026-10-20T18:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The ‘Congress addict’ serving as Trump's fixer on Capitol Hill - Politico",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWUx0cmFWaXR1d042bERoZVBGT2RjQ2ljcGhJenlRS1dyOVJydW5yT2xHcUhPcFd3alVsMW1IYWh5elVxZHppeHJhV3daYUFZVHl0Z0tZaHNPTnF1eXV4bmpEZnlnTUFZQjhYajdVNXJsRGRHZV9aTUlGSGZDVVZJZVUyR1ZtblBqNVAtV3JGZ25yNV9aVzlYZlhn?oc=5",
+        "summary": "The ‘Congress addict’ serving as Trump's fixer on Capitol Hill Politico The ‘Congress addict’ serving as Trump's fixer on Capitol Hill - Politico",
+        "published": "Tue, 20 Oct 2026 08:45:00 GMT",
+        "published_kst": "2026-10-20T17:45:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "비씨카드 '콘다'로 외국인 결제시장 공략 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nU3F2X2JzeGJfZlVTRTI5SzBPZFhTTkFzN0RhODRCVXo1LXlaZDdhMGk2bDFsekdLTkRmc0pfWDVPSDdjOVd3SHYyUzJlOUgzeF84UjZSMFJWdw?oc=5",
-        "summary": "비씨카드 '콘다'로 외국인 결제시장 공략 한국경제 비씨카드 '콘다'로 외국인 결제시장 공략 - 한국경제",
-        "published": "Tue, 20 Oct 2026 06:22:39 GMT",
-        "published_kst": "2026-10-20T15:22:39+09:00",
+        "title": "[단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JS3FTa2NKVjNKZ2tCM2NRcms3aHdqU0VSQzd1YmNOaXVCTVpodGRITlg4RHFBWVUwRVJQOWl0WkVvYmJBY0dnVmQyRl8yN0xzaWhHaTBrQ05ZUQ?oc=5",
+        "summary": "[단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 한국경제 [단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 - 한국경제",
+        "published": "Tue, 20 Oct 2026 10:19:00 GMT",
+        "published_kst": "2026-10-20T19:19:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[포토] 질의 답변하는 황기연 한국수출입은행장 - 천지일보",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zNXBEZG1TMGJSMkdLT0Rwa1RkWXdULTNocmxBWlA5dEQzd3ptQUNNM3ZKa2hEQ2hWd09NTXloRmxRUHY4M1ZyRC1QZ0M4TV91Q0EwZVJfZ09rUko0WkVGZzNxMDA3VGQ4UlE?oc=5",
-        "summary": "[포토] 질의 답변하는 황기연 한국수출입은행장 천지일보 [포토] 질의 답변하는 황기연 한국수출입은행장 - 천지일보",
-        "published": "Tue, 20 Oct 2026 06:12:47 GMT",
-        "published_kst": "2026-10-20T15:12:47+09:00",
+        "title": "[이슈앤피플] 잠재성장률 40년 만에 반등의 진짜 의미는? - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Oak5SZWUxQXZaRkQ5YjZSR0x0WE5ZNFJwSzlVRWxsN1E5c3V2akwwY1V3RFJDYUQzSnN4ZS1LS1hSUk96eXNXbTgwOVVZeXljR2c?oc=5",
+        "summary": "매일경제 마켓 [이슈앤피플] 잠재성장률 40년 만에 반등의 진짜 의미는?",
+        "published": "Tue, 20 Oct 2026 09:38:37 GMT",
+        "published_kst": "2026-10-20T18:38:37+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "이석연 “곽상언에서 한국 정치 희망 읽어…후원회장 맡는다” - 한겨레",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNQ1dzOFZiTktybmM5V0RUR2pOSU1DRURQM0VMWURFYzh3Zm1DR1pLQURDT2dab1h0WGt5cTJsVmVCeXFFOUNDdmJKam1QSGV6RW0wQW5FanpYMG5pVXFkVjRBTnEydkY3M21OaFliYkRndFdo?oc=5",
-        "summary": "이석연 “곽상언에서 한국 정치 희망 읽어…후원회장 맡는다” 한겨레 이석연 “곽상언에서 한국 정치 희망 읽어…후원회장 맡는다” - 한겨레",
-        "published": "Tue, 20 Oct 2026 05:54:00 GMT",
-        "published_kst": "2026-10-20T14:54:00+09:00",
+        "title": "'어떤 항암제가 맞을까' AI로 정밀 판독 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZDhCT3ZwSl9jOU1sV0hNVWxJR3hoRzQ0OEVkdmZfUUFiYkpGZFJwQ3NhLXRJSDM4LWstd1g0dzRHR0ZBeDJ0Z3ZYdTEwZl9LblR4LWdFYXM2UQ?oc=5",
+        "summary": "'어떤 항암제가 맞을까' AI로 정밀 판독 한국경제 '어떤 항암제가 맞을까' AI로 정밀 판독 - 한국경제",
+        "published": "Tue, 20 Oct 2026 09:34:19 GMT",
+        "published_kst": "2026-10-20T18:34:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -113,33 +110,37 @@
     ],
     "world": [
       {
-        "title": "Chinese Autonomous Driving in Europe: How Close Is It to the Global Supply Chain? - Gasgoo",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNmpRQThjczA0TVVQcG1aRkJ6cXgyS1Ixd1BhRlFxTGdiVHdhMG1pLWd3RVJpV01aMFdPaWdmMmF1ekFJZzdxNG8wcWw3dHlpdVo3UXVHcVpPcWFkSUVxaTV5NW9tR3JYVFFucGxnMWtlUU1PNGZFOUw5OEVMUm9xOTA0MW1DcFdiT0NpbFdmcG5wQUUyaGcya1hiNE83anBROVZ4NjJWejFZMXV6a2MzOENnd1NNVnQ5bkpTeE9iTEFsR0t3dUozNVRmcUNlR3ByemFueVc4NFZtUWpoTkVsVkVDVXpMd0E?oc=5",
-        "summary": "Gasgoo Chinese Autonomous Driving in Europe: How Close Is It to the Global Supply Chain?",
-        "published": "Tue, 20 Oct 2026 06:06:19 GMT",
-        "published_kst": "2026-10-20T15:06:19+09:00",
+        "title": "Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 - eeNews Europe",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZk12d2thMnJROHYtdTM5SkZqdW42US03N3BzNnJGS2lPZXBaZTVEX256Q1FUSUJ3MDJqWGZpdmFvUkpZX2NTcnRhMFBFR29KMDEtSVQySXZUYk9IN0RfdkYyeVZUakJONHFsSzU2SU5mR1dUdFhmczgzazFvM2VwVVlCUXlVcFZPR0R4aUJ5cWhkaEhkX3BTY0FGM1VYY2VEWUE2MEFXdjB2bkN0N1JKd25HYjVvRy1aQzFLb3dSVDFCNnJCT0xBVGZHLVAtZTZ6Q3pzSmczZ3Y?oc=5",
+        "summary": "Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 eeNews Europe Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 - eeNews Europe",
+        "published": "Tue, 20 Oct 2026 09:40:58 GMT",
+        "published_kst": "2026-10-20T18:40:58+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "What Will It Take to Fortify Fashion’s Supply Chains? - Vogue",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMEl0RHJqY3ZHM3dxUURKMkdWTTU0WEJ0RkhIakZCZi03WU5JY1NNQnlKN2VUOGFhNU1LQTZDOHpMSDlpSG9vTEF6d0lWbDJCZ01PWUNUR1p4eTlSelg5VG51SmFfWXYzM1ZMczZjLXlUanJjWmxPRDR4anJLY2FkWHhXb2pZcElX?oc=5",
-        "summary": "Vogue What Will It Take to Fortify Fashion’s Supply Chains?",
-        "published": "Tue, 20 Oct 2026 04:30:00 GMT",
-        "published_kst": "2026-10-20T13:30:00+09:00",
+        "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOXBuUld1bXhxNWlQNktuUmYxOWpVRFlnN0dialpvZlhYM1JLVzE1N0VBSUVNbUlCNmwtN2RVWXRkd1VUV3BRSV9aMGJGMkpxQUk4VWZ1dUt5YjZpdmthQVZ3REFHUzBmV3B0SFJwOFFsMl9fb3l0Y3F0Z1FXbDAxSFhTbV9peVVDQ3FKRnp3NjVDdEpRVHdIOG04SjctLWRRTzN2bDM1a2QxaGdZMHlJV0hGS1FObHFKTVNiS3hvXzZsUzdvMktteFBvSGNEZw?oc=5",
+        "summary": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders Reuters EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
+        "published": "Tue, 20 Oct 2026 09:19:15 GMT",
+        "published_kst": "2026-10-20T18:19:15+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$35"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S.-Taiwan Resilient Medical Device Supply Chain Forum: Building Supply Chain Resilience in a Shifting Global Landscape - GeneOnline",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0pPM2NMcklxdXhjYXpkaG0xcXo2R2RXakNrZS01T2J4WXhuNUluRUlzcVNIRjlsckp4UnJpY0M5c09nWFg0ZkdJRGRFeWFVVDVUb3Uzc25HWVdab1B4RGF4a0JwUDUwdHRmVXdIUkdsbTZOZTBhRHhxSURqeUtmMG9HQUN0YnpIdVpzbkFzV1pQTW16eDdYVV9FT0pZRWctV1dLV1FLZmprdzJyTGQzN1FzbVEyTTd1NHBSYWRVNVJuYlVNSUlsNGNXWXE4RThGNkJwanV4Q3BTQW5KcFZF?oc=5",
-        "summary": "U.S.-Taiwan Resilient Medical Device Supply Chain Forum: Building Supply Chain Resilience in a Shifting Global Landscape GeneOnline U.S.-Taiwan Resilient Medical Device Supply Chain Forum: Building Supply Chain Resilience in a Shifting Global Landscape - GeneOnline",
-        "published": "Tue, 20 Oct 2026 02:52:21 GMT",
-        "published_kst": "2026-10-20T11:52:21+09:00",
+        "title": "Fresh produce industry urged to strengthen supply chain resilience as shipping risks mount - Food Ingredients First",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOalFtc0NxLWQ4ZzZxdnVxZGJERU5Pc0NYdUJDSWVMajhPeUdYR0hVTzFCOFZUTnlOeGNMdFhqeFVyeEtaM3hPWURuNE55WmV1TXQtQUdOQkV1MG1zX3E5TE1MQTNQMXp0RW9rT3R4RjdNSU4zbkNvRW92NXZhd1JVREJsWk9Dek03UFRXaA?oc=5",
+        "summary": "Fresh produce industry urged to strengthen supply chain resilience as shipping risks mount Food Ingredients First Fresh produce industry urged to strengthen supply chain resilience as shipping risks mount - Food Ingredients First",
+        "published": "Tue, 20 Oct 2026 09:01:34 GMT",
+        "published_kst": "2026-10-20T18:01:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -147,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia Is Ousted After 5 Days as White House Press Secretary - The New York Times / 비씨카드 '콘다'로 외국인 결제시장 공략 한국경제 비씨카드 '콘다'로 외국인 결제시장 공략 - 한국경제 / Gasgoo Chinese Autonomous Driving in Europe: How Close Is It to the Global Supply Chain?",
+  "wrap_summary": "Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia Is Ousted After 5 Days as White House Press Secretary - The New York Times / [단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 한국경제 [단독] 뒤바뀐 해킹판…은행 대신 2금융권 집중포화 - 한국경제 / Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 eeNews Europe Building a More Resilient Component Supply Chain: How Electronics Procurement Is Evolving at electronica 2026 - eeNews Europe",
   "invest_summary": ""
 }
