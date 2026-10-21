@@ -1,144 +1,146 @@
 {
-  "date": "2026-10-21",
-  "generated_at_utc": "2026-10-21T14:59:03Z",
-  "cutoff_kst": "2026-10-21T23:59:00+09:00",
+  "date": "2026-10-22",
+  "generated_at_utc": "2026-10-21T17:55:23Z",
+  "cutoff_kst": "2026-10-22T02:55:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+        "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+        "summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico. Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+        "published": "Wed, 21 Oct 2026 17:45:23 GMT",
+        "published_kst": "2026-10-22T02:45:23+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$25"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "SendCutSend Announces Another U.S. Factory; 309 New Jobs - Industrial Equipment News",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0FjQk1PQWlmRVZYQjhRaUsxMHVsT3Z0YTBkbzBIM2dneDhyM1ZsY1E1T1hqQi1WMXdFMVhxOXJoaHpTOC1ieUN5elBWSkdTV3BPNERXTEJ6ejR0VEVwT1RlRHNWc1R3S18wemphbmJoV0x1blpUNWZCd0NOUS1MYTZwOUQ3c01uY0NEQzhmVnhVSlE4NlFWLXpTMWVBX05lbXFwNUMxMmhLU2ZvU2dn?oc=5",
+        "summary": "Factory; 309 New Jobs Industrial Equipment News SendCutSend Announces Another U.S. Factory; 309 New Jobs - Industrial Equipment News",
+        "published": "Wed, 21 Oct 2026 17:44:36 GMT",
+        "published_kst": "2026-10-22T02:44:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+        "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
+        "summary": "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says. New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
+        "published": "Wed, 21 Oct 2026 17:34:00 GMT",
+        "published_kst": "2026-10-22T02:34:00+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
+        "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+        "summary": "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away. How Ukraine’s drone strikes on Russia crippled the world’s second-largest diesel supplier",
+        "published": "Wed, 21 Oct 2026 17:27:34 GMT",
+        "published_kst": "2026-10-22T02:27:34+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5",
         "summary": "OpenAI president urges AI safeguards as group he funds opposes regulation Reuters OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
-        "published": "Wed, 21 Oct 2026 14:31:04 GMT",
-        "published_kst": "2026-10-21T23:31:04+09:00",
+        "published": "Wed, 21 Oct 2026 17:22:06 GMT",
+        "published_kst": "2026-10-22T02:22:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-        "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-        "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees. Witkoff calls Putin a 'humanitarian' at Russia peace talks without Ukraine",
-        "published": "Wed, 21 Oct 2026 14:30:17 GMT",
-        "published_kst": "2026-10-21T23:30:17+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
-        "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-        "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger. SpaceX stock jumps 8% after earnings beat and Musk hints at Tesla tie-up",
-        "published": "Wed, 21 Oct 2026 14:21:39 GMT",
-        "published_kst": "2026-10-21T23:21:39+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "8%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. stocks rise after SpaceX jumps on earnings beat; traders await key earnings - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUFFeEloakZ6RkY2TURQMUxISE1DVC0xTXAxXzljRE5SUlprcEtOcUdEMXRUdWJRZ3V6R2N0aHpKbGF0a0lOVmlvMmUzLWFlWjVYRGh4TExQVE5GNEdvOXA1VmNGM1pwS084Yk1KSEZkUlZTUnlKX0VFT3VULVVHOUZsNzI5WmUxVzdsaVJOdXJLbVc2ZC1jUXpVOXk1MllTTmk1cklvWGJZXzRub0duZEt3YkJQZC1uVHdpdXdGZHJFVXpRZ0pPMER2eE5aZ042UFRLdUJIVXU?oc=5",
-        "summary": "stocks rise after SpaceX jumps on earnings beat; traders await key earnings TradingView U.S.",
-        "published": "Wed, 21 Oct 2026 14:02:07 GMT",
-        "published_kst": "2026-10-21T23:02:07+09:00",
+        "title": "Trump to throw spotlight on overseas crypto abuses at White House event - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjBVNGNnUThHSHd2RjZlWkIzTUhybjhTUkpWSExBWlVEejY0ZUZ4ZEdCc1dkM0owMHR1U3FiNXRETWRhVTRFQmV2ejZnTXN4MVFVczZqMEIxeC1UcDU4c2ZLeWRFanZvMXAwczQteTg1dF85NWRQVEphdV81aXpDOVpURDdGYURwT0tYSVY5UTFaZExpa1pnY2ZkOTgxdFJpcXpWdG02M3lVVGxoQTB0aHBmeTA?oc=5",
+        "summary": "Trump to throw spotlight on overseas crypto abuses at White House event CoinDesk Trump to throw spotlight on overseas crypto abuses at White House event - CoinDesk",
+        "published": "Wed, 21 Oct 2026 16:23:44 GMT",
+        "published_kst": "2026-10-22T01:23:44+09:00",
         "domain": "google.com",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump weighs moving White House press corps out of building - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBseDc5WjlndDh2cXJxUkpFUTRvdWZZemt3Q3d5aDA2SjJLdWF3M1g0WnNNZFRmMEN4WHFxTFBvMmJrNFIwdTlENnRvMHlHaWRSZk42UGQ2NTNiU0ptckhzTVA4cEdjZkxQejhN?oc=5",
-        "summary": "Trump weighs moving White House press corps out of building CBS News Trump weighs moving White House press corps out of building - CBS News",
-        "published": "Wed, 21 Oct 2026 13:54:43 GMT",
-        "published_kst": "2026-10-21T22:54:43+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-        "url": "https://www.cnbc.com/2026/10/21/united-airlines-biggest-airport-lounge-houston.html",
-        "summary": "United is opening a 54,000-square-foot lounge as part of the revamp of Houston's George Bush Intercontinental Airport. United Airlines set to open its biggest airport lounge in $2.6 billion overhaul at Houston hub",
-        "published": "Wed, 21 Oct 2026 13:44:35 GMT",
-        "published_kst": "2026-10-21T22:44:35+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$2.6"
-        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "퇴직연금 실적배당형 비중 15분기 만에 감소 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50RjhscUM1NXFGU2lXcXBqYjlTbnQ2Q000aldiUWlfVWtydWktQ1lha25HMHFsY2JWZ3ZKNnZLaF9oZEs5OHVNMURFR2NQVTNRY1RVM3B1TU5XQQ?oc=5",
-        "summary": "퇴직연금 실적배당형 비중 15분기 만에 감소 한국경제 퇴직연금 실적배당형 비중 15분기 만에 감소 - 한국경제",
-        "published": "Wed, 21 Oct 2026 12:48:09 GMT",
-        "published_kst": "2026-10-21T21:48:09+09:00",
+        "title": "로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTVlENDdyT2ZRNWw4a0o4eVUyYjYxbVBvUFMycEw3QjJFUTUtaWE5azlWc2V0cGVuSk1MU1VQX2g5alFQRVNrODZVVERRX2tRXzJTdWxEQXVMdw?oc=5",
+        "summary": "로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' 한국경제 로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' - 한국경제",
+        "published": "Wed, 21 Oct 2026 17:47:00 GMT",
+        "published_kst": "2026-10-22T02:47:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "대한민국 국회는 손흥민 선수가 팀 동료들에게 '7번'으로 불리는 이유에 대해 질의했다. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVdrd3pwYTNQa2NlNW53MHhFRE1ZcEdJMXl4TG84aXVVMVNZRGkwclA0ODI0RUlxMjVpZFNBZGZfdjFMR3JjQjNxQ2pDcllYMkF6ZWstVGxCTGtpbTdTZVVHbFl0ZUNqWFRWQ1cwdGRzQW1vbFVoOHVPWWJyYWhqN05wZTFrUjB1dGtuNVZ1UkVSQ1NxaWJweTUydGE?oc=5",
-        "summary": "Vietnam.vn 대한민국 국회는 손흥민 선수가 팀 동료들에게 '7번'으로 불리는 이유에 대해 질의했다.",
-        "published": "Wed, 21 Oct 2026 12:38:25 GMT",
-        "published_kst": "2026-10-21T21:38:25+09:00",
+        "title": "\"반도체·K팝의 나라, 한국에 장기투자\"…글로벌 큰손 '러브콜' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tT0ViRDVyVXpUX2pCRDJBWHF4UXBocHlMQWxCeWFXV2ZHRTFKc2d1NkV6UVJDbUFpT2NCaFhWN3B4MmM2NDBGOXJheUdLcVI2dGRkOUdRMjJKQQ?oc=5",
+        "summary": "\"반도체·K팝의 나라, 한국에 장기투자\"…글로벌 큰손 '러브콜' 한국경제 \"반도체·K팝의 나라, 한국에 장기투자\"…글로벌 큰손 '러브콜' - 한국경제",
+        "published": "Wed, 21 Oct 2026 17:34:00 GMT",
+        "published_kst": "2026-10-22T02:34:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"성장 스토리 이제 시작\"…스페이스X에 월가 강세론 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQbE5CWDhTWXh1UENxanA0bndiNklVZ0ptY25uNlZBZGZXTVdGRms2YzR1QktGeWlobFBRS1JkTk1ic2NWaHVSZmRrekFmQV9sVDVMcTBZbzhfdw?oc=5",
-        "summary": "\"성장 스토리 이제 시작\"…스페이스X에 월가 강세론 한국경제 \"성장 스토리 이제 시작\"…스페이스X에 월가 강세론 - 한국경제",
-        "published": "Wed, 21 Oct 2026 12:26:35 GMT",
-        "published_kst": "2026-10-21T21:26:35+09:00",
+        "title": "작년 만든 법안만 6100건…규제 없애려 또 법 만든다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvUnpQM1l6d1R3bzhuM1B5NVI1azB4MDdwbG9hY2d5eVB0NnMyVkVwbWkxdXR3VFdaellpeFhiNTRsZHlHTTNrckFUeE0wZkNXVHlER0dZeldJdw?oc=5",
+        "summary": "작년 만든 법안만 6100건…규제 없애려 또 법 만든다 한국경제 작년 만든 법안만 6100건…규제 없애려 또 법 만든다 - 한국경제",
+        "published": "Wed, 21 Oct 2026 17:30:00 GMT",
+        "published_kst": "2026-10-22T02:30:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "6100"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "3SC, a Global Supply Chain Technology Platform, Appoints Ashish Sikka as CEO to Lead the AI-Driven Transformation - EIN Presswire",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdVMwV1JxRW1pUWU4SVExcE9YQ0RuUERnS2tMSEpZT1RielN3bFdyMGw5cEtMN2d0ZlNqenZLcm9mT2ZEb0s5MTI2Z3RaZklJN0tTbzl6eDdTMGRqWmFOUndNaGphU3FscFcwRU1kSjJqcGlCYjBzN0Rveml2SXZMV1E3TFRJd0tFRlR4UkNrZ0ZEVGdxQUdTdzE3eFd3QTRHWTNYS243QUNFTjhUZWVNYkdqM0pOS0xwQ01NcHlUVkRkRmpVR2dRTHlIQmVHOXRJcjVDS2tjanp0VXBNTFpnWTBkTEVfdXJqcTBJMkl5TQ?oc=5",
-        "summary": "3SC, a Global Supply Chain Technology Platform, Appoints Ashish Sikka as CEO to Lead the AI-Driven Transformation EIN Presswire 3SC, a Global Supply Chain Technology Platform, Appoints Ashish Sikka as CEO to Lead the AI-Driven Transformation - EIN Presswire",
-        "published": "Wed, 21 Oct 2026 14:36:00 GMT",
-        "published_kst": "2026-10-21T23:36:00+09:00",
+        "title": "o9 Solutions Breaks Records With Rising Software Demand - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0xTOG1kX3pRYW03TGw0ajJlMjJtX2trQXFVc1AtWGxmUmJWWUhtRlhlRW80cFZGeEpfVTA5MzN1ZVlrUlNDZWduY0gyMnpvRWJQRXBKN1pyRXc3NGFoNW82YzRocFRQUWFzWDZWVHVKMkRJVWdVdkRXQWlPQmlSMVJJd3pXbExpWDlMQkZMbnNSNU9sLUE?oc=5",
+        "summary": "o9 Solutions Breaks Records With Rising Software Demand Supply Chain Digital o9 Solutions Breaks Records With Rising Software Demand - Supply Chain Digital",
+        "published": "Wed, 21 Oct 2026 16:57:43 GMT",
+        "published_kst": "2026-10-22T01:57:43+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Empire Founder Ghazi Launches Supply Chain, New Rights Management/ Distribution Company for Independent Music - Variety",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczlHLVFCMkQ5cEQzUEQ2cFF1ZUx4bmJHUVFlWnV6ZUhZOEVzMjhDMGxhZEZsVk4xamI3ZmxqYzlnTFQzYTRBX0Y3eHh2Yy03NWs2YW1ZUHhoVTZ4WGh4aldOSFkzMVVMQlJMS2NvbjNPWmZ2VFpQQjBLSXUzSXhZOTVTaThVZzcydzJZR0RvUEg2TDN2Q3otNEJXdlNnWHFBNUEyN2Y3TjQxbE9KV2NRaXN5Zw?oc=5",
-        "summary": "Empire Founder Ghazi Launches Supply Chain, New Rights Management/ Distribution Company for Independent Music Variety Empire Founder Ghazi Launches Supply Chain, New Rights Management/ Distribution Company for Independent Music - Variety",
-        "published": "Wed, 21 Oct 2026 14:00:00 GMT",
-        "published_kst": "2026-10-21T23:00:00+09:00",
+        "title": "Amazon: US$18bn To Transform German Logistics Infrastructure - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTmRkYkdhY1R6eGtEdXFMUThITnZIWmtKMklsYzNXRmNqTmVQVS1mX0t0SkNENkRqdmZQNm1tRGQ5MmdXUmIyN3ZmbmIzNjVreVQyRGJtblNPcHBlbG9wellOOGYzMURQN0J4VG5mX0phSnhFX1hQMU1uXzJnQ0ZSenBRT0lSaWVlU1dNTkxqRkdPdXQ3blVEWTkzQQ?oc=5",
+        "summary": "Amazon: US$18bn To Transform German Logistics Infrastructure Supply Chain Digital Amazon: US$18bn To Transform German Logistics Infrastructure - Supply Chain Digital",
+        "published": "Wed, 21 Oct 2026 16:37:37 GMT",
+        "published_kst": "2026-10-22T01:37:37+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$18"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Establishing Battery Supply Chain Resilience for Drones - War on the Rocks",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2FVMXBCdkdVVDF3N0dTWVZVWFgyVU0wTDlNcEczZjBKVjhnMU5BY3otQ012aEhfRzZDN3ZtY3ZoRWZwTkJCUFFTSmVOUmtvMDduLUVzenhDODM3anZRemk1MWNDMVMySXEzVmhwQnZPMmMyb0JIa2lZSV82djhWRzBrQ241c3BGNzJuNEJzN253YW9XdjhuZ3ZB?oc=5",
-        "summary": "Establishing Battery Supply Chain Resilience for Drones War on the Rocks Establishing Battery Supply Chain Resilience for Drones - War on the Rocks",
-        "published": "Wed, 21 Oct 2026 13:18:27 GMT",
-        "published_kst": "2026-10-21T22:18:27+09:00",
+        "title": "Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEFsREpNclhfYmFNTl9SdzdTckxUVUVJbXM1OXRiRmNkM2pmREdtOTR2c29LR2hsTnpxbFIzNXU2SlVOR1NCQXNpdnJOanhxUmo3a2RWLTFIUENhaDZNN2pPS3VrSTR3UUN1QlE4aXIxZ1A2QTVVM1BYOGRYZV96N0RXNEJrdnROOFdkV2xOVjMzNWdkQUV1Wl9QajZfOXRVOHd3YmttaTVtUV9TeVd5TXNPcjRzcHB1UnpvV1dnaG1uWG8yUTF5NXVEcVM0cTVPZjBrWWQyWUJrdFXSAeABQVVfeXFMT3NLaFFZZkdZWTZydXlzQUJiUzNuMWtxWXRISEpXdm9FYVlqaVRrZzg4bmo0dUhKbmVPc3ZuUUhfOVdwcWRfMkRNeHoxemFCMDF3SFNzN3lxNG5JejBlcWxSR01MSVB6SEc5NHQ0clZaS2ljMzBqV002d01Md3IwSXZxTGU5czBnc3NFb3NVN1ktWUhRMjlsY0ZOc1IwV1AxVjZ5SjVrOUZ0MkRFSFJjZHV4R2VveGhGWnN0NFVFbE1iTnF4YkE0NkY4d3ROV3JWdjZKTnlQcTd2TTR0emppV3g?oc=5",
+        "summary": "Korea The Korea Times Nvidia adds Samsung Electro-Mechanics to substrate supply chain, plans capacity expansion in S. Korea - The Korea Times",
+        "published": "Wed, 21 Oct 2026 16:15:00 GMT",
+        "published_kst": "2026-10-22T01:15:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "OpenAI president urges AI safeguards as group he funds opposes regulation Reuters OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters / 퇴직연금 실적배당형 비중 15분기 만에 감소 한국경제 퇴직연금 실적배당형 비중 15분기 만에 감소 - 한국경제 / 3SC, a Global Supply Chain Technology Platform, Appoints Ashish Sikka as CEO to Lead the AI-Driven Transformation EIN Presswire 3SC, a Global Supply Chain Technology Platform, Appoints Ashish Sikka as CEO to Lead the AI-Driven Transformation - EIN Presswire",
+  "wrap_summary": "Meta to pay $25 billion in penalties related to Cambridge Analytica scandal in New Mexico. Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case / 로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' 한국경제 로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' - 한국경제 / o9 Solutions Breaks Records With Rising Software Demand Supply Chain Digital o9 Solutions Breaks Records With Rising Software Demand - Supply Chain Digital",
   "invest_summary": ""
 }
