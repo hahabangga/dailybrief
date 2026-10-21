@@ -1,74 +1,76 @@
 {
   "date": "2026-10-21",
-  "generated_at_utc": "2026-10-21T00:11:15Z",
-  "cutoff_kst": "2026-10-21T09:11:00+09:00",
+  "generated_at_utc": "2026-10-21T06:41:50Z",
+  "cutoff_kst": "2026-10-21T15:41:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Japan exports post huge miss in September as growth slows to 16.7%",
-        "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
-        "summary": "Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters. Japan exports post huge miss in September as growth slows to 16.7%",
-        "published": "Wed, 21 Oct 2026 00:01:49 GMT",
-        "published_kst": "2026-10-21T09:01:49+09:00",
+        "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+        "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+        "summary": "inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels. UK inflation jumps to 3.5% — cementing rate hike expectations",
+        "published": "Wed, 21 Oct 2026 06:30:27 GMT",
+        "published_kst": "2026-10-21T15:30:27+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "16.7%",
-          "18.9%",
-          "19.6%"
+          "3.5%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-        "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
-        "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings. Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-        "published": "Tue, 20 Oct 2026 23:34:14 GMT",
-        "published_kst": "2026-10-21T08:34:14+09:00",
+        "title": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
+        "summary": "Witkoff to present Putin with peace proposal after talks with Zelensky Axios Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
+        "published": "Wed, 21 Oct 2026 05:42:20 GMT",
+        "published_kst": "2026-10-21T14:42:20+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Oil prices climb as traders assess Middle East developments",
+        "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+        "summary": "Iran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz. Oil prices climb as traders assess Middle East developments",
+        "published": "Wed, 21 Oct 2026 05:27:19 GMT",
+        "published_kst": "2026-10-21T14:27:19+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "SBA’s Million Dollar Pitch Competition - The White House (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vWkNGTGNyX3liRnp2UzA3bUZucEJ2XzBwcHQ3TTBuVFJFRVJITEx0SU02bEg4ZWZ6TWFvVWFheGhGZkFDeW9pWU5hd1dGNklLTHFXeENoU3FEVml5aktYejVRRElFcEdyQy1xSG9Cb0I5RXJiTXRrVHVzbnQ?oc=5",
-        "summary": "SBA’s Million Dollar Pitch Competition The White House (.gov) SBA’s Million Dollar Pitch Competition - The White House (.gov)",
-        "published": "Tue, 20 Oct 2026 23:01:46 GMT",
-        "published_kst": "2026-10-21T08:01:46+09:00",
+        "title": "Super Micro Computer's (SMCI.US) stellar earnings ignite Korean stocks: KOSPI rebounds 2.21%, led by semiconductor sector - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbW5oTm5uZGVGUDBFTF8yeVIyQl9PX2FuNVhMYXJsZ0FfMDhVRUJGV2hIVmc5SDRsNV92SjEwemtPTGtveDJLZTJrZlVrWUZwNVFwd0NqaGg2WHA3N3JYU3NmeFZoVzY5ZTFYY2M4MVBseGs4bEFSbXNVWmNCTWtUT1pxelQxODhXa2FkOUdDcl9tdWtNR1B2cFlzWjh3UENLUnF1MWZJWW1oc0FsZWk3SQ?oc=5",
+        "summary": "Super Micro Computer's (SMCI.US) stellar earnings ignite Korean stocks: KOSPI rebounds 2.21%, led by semiconductor sector Moomoo Super Micro Computer's (SMCI.US) stellar earnings ignite Korean stocks: KOSPI rebounds 2.21%, led by semiconductor sector - Moomoo",
+        "published": "Wed, 21 Oct 2026 05:00:13 GMT",
+        "published_kst": "2026-10-21T14:00:13+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2.21%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'You better be careful': Trump clashes with reporter during heated White House exchange - WJAR",
-        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNU1VCZTZvU0d0Q3VsOHhjR090SVJTTUJpNXl0Y2pKSUo1eUNRZkZpbXBFTzcwYUJGNEYzOEY3OHBTei1sVjBGWkh4NVdNcnAzUDVHLV9pNzVHZ1JwX1EtRzRuQnpHNEdnUFVtQ2hJVFVobnBFRU5xc25LXzR1MW14YWZQNnJWdUdCQlUzMnJrSDBEVEYwZkN1Q2hLQVdpdzkyNl92VWlhaExYMU9WZEtENTA2c1daWWhOTGtTdElQVmlPT2tVS0otRzBCemtESFNNNUlFMmdUXzRwWWRNa0ljbm9pdEswb1pUTGw5bHNFMmc0Sk1EWC13ckxVZ1gwSnE3bUR2bjFUNGp5QktlT2VRZnNrcmNhbThRUDVfMzZ1UmNFa0poWF9GUDR6ODBWdmNEVC1FWm9VTEZCYW00d25z?oc=5",
-        "summary": "'You better be careful': Trump clashes with reporter during heated White House exchange WJAR 'You better be careful': Trump clashes with reporter during heated White House exchange - WJAR",
-        "published": "Tue, 20 Oct 2026 23:00:45 GMT",
-        "published_kst": "2026-10-21T08:00:45+09:00",
+        "title": "Asian Shares Are Mixed, With Kospi up 3% After US Stocks Rally on Strong Earnings - U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUF0MHZPUFgzWkxIeERaM2xtVEFNdmV6OHpaVk42VTFxWlNqRjNnemVfc1VxSmxLWGN0U2ItSGVCYnlMV1BGM3hwaHU5MUMySl85UXN6Z2o3Xy1KLTRqZ2RyRnZaNFctTjd6VDFBV1lqU3FMTDNxZTVlZkJhRlVsMHhTTXMya09jMnRkek51dVQyVkZRRHVuNmZXM0hiWTV6NFFseTlGLUdsVXRBOVAxR0ZfWlEwUjhEZ3Bsd2psYnV0N0RPSW16a2I1dmZGcU9QcHc?oc=5",
+        "summary": "News & World Report Asian Shares Are Mixed, With Kospi up 3% After US Stocks Rally on Strong Earnings - U.S. News & World Report",
+        "published": "Wed, 21 Oct 2026 04:53:00 GMT",
+        "published_kst": "2026-10-21T13:53:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "3%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House Spews Sick Slur After Trump Falls Apart in Oval Office - The Daily Beast",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVlJLUFlU1FRaG5oaGFkSjk0MFN0VU5RNDZJTXo3YzZuNkR3RF9GdGlKU3FjWGxRQ1ZtTXJnUGF3N2U4UFpCX1VzaEQxeUhoRHJRUGZ0OVJVZTZyZ0NWSVF4R3RPSFdPVjM4aEpJV0xZcXVmLXZIZjFjdUx3czVkbm9Rc3JWaXN6a0FRaE9NMUhEeXJEVmFVdEQwbEY?oc=5",
-        "summary": "White House Spews Sick Slur After Trump Falls Apart in Oval Office The Daily Beast White House Spews Sick Slur After Trump Falls Apart in Oval Office - The Daily Beast",
-        "published": "Tue, 20 Oct 2026 22:56:03 GMT",
-        "published_kst": "2026-10-21T07:56:03+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-        "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-        "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-        "published": "Tue, 20 Oct 2026 22:29:45 GMT",
-        "published_kst": "2026-10-21T07:29:45+09:00",
+        "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+        "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+        "summary": "Rubio said the \"extraordinary\" refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+        "published": "Wed, 21 Oct 2026 04:47:43 GMT",
+        "published_kst": "2026-10-21T13:47:43+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -77,33 +79,33 @@
     ],
     "kr": [
       {
-        "title": "반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iWFRidlJ5elZWWGZzTllnbmtXZ3l4Qy1iRHMybHhlTUxEZFNZOUk2Nl9fUm56dUkxUXhkRDB1ek1TbW1JbHc1cy14aTk2VjQ3WGhoMUZMTFhUZw?oc=5",
-        "summary": "반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 한국경제 반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 - 한국경제",
-        "published": "Wed, 21 Oct 2026 00:00:10 GMT",
-        "published_kst": "2026-10-21T09:00:10+09:00",
+        "title": "글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 - ㈜한국탑뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZdFZlSS01WW83QnF5TWdsV2dMaFVMVGRnZVNLWGQzVmVEZHpjYzF6VXdtZnY5TjE1SURfeFFQZ0hWZ0kxMXJPNWtGeWhGaTQ5Q0JKcmplSHJ2cDh0UmRNMEJ3?oc=5",
+        "summary": "글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 ㈜한국탑뉴스 글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 - ㈜한국탑뉴스",
+        "published": "Wed, 21 Oct 2026 06:10:22 GMT",
+        "published_kst": "2026-10-21T15:10:22+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"법률상담도 이동형 시대\"…YK, '다가가는 서비스' 운영 [로앤비즈 브리핑] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xc1phVnV5VkJ2VVdRX1ZmSVV2TTNwdGZzU0syV0kzTnFsSVh1VTkxeEx0LUY1NFVQbzhXcG8tX1BhTkp6dERwcEpBYjVrTnBsb08zZjVKcW1qUQ?oc=5",
-        "summary": "\"법률상담도 이동형 시대\"…YK, '다가가는 서비스' 운영 [로앤비즈 브리핑] 한국경제 \"법률상담도 이동형 시대\"…YK, '다가가는 서비스' 운영 [로앤비즈 브리핑] - 한국경제",
-        "published": "Tue, 20 Oct 2026 23:55:52 GMT",
-        "published_kst": "2026-10-21T08:55:52+09:00",
+        "title": "[단독] 中서 뒷조사 했나…\"너무 무서워요\" 섬뜩한 기록 [K갈라파고스: 규제의 세계] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvSHVJckNvUmh1SHo3bU5MYzlwdmRzcEVuMkpscDZ6Z210aVBxakFCZld4LXFsOFlhQXZSX2p0OWZTRGd1Y0VlVmJrU2dpaVl0UTNRVW5NMzY4QQ?oc=5",
+        "summary": "[단독] 中서 뒷조사 했나…\"너무 무서워요\" 섬뜩한 기록 [K갈라파고스: 규제의 세계] 한국경제 [단독] 中서 뒷조사 했나…\"너무 무서워요\" 섬뜩한 기록 [K갈라파고스: 규제의 세계] - 한국경제",
+        "published": "Wed, 21 Oct 2026 06:00:00 GMT",
+        "published_kst": "2026-10-21T15:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"전쟁 중인데 주가 왜 이래\"…방산주 투자한 개미 '한숨' [종목+] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fazFqTmJWZDcwSHk5dHNqLVRwMUlRdjE2ZGlzVjg5UWJvaWhudGRVdUx2TG14X3NGUjVsRXFqZFFUNTJ2VUszeDVCZEhDbXlMQ3E0WXBtVndXdw?oc=5",
-        "summary": "\"전쟁 중인데 주가 왜 이래\"…방산주 투자한 개미 '한숨' [종목+] 한국경제 \"전쟁 중인데 주가 왜 이래\"…방산주 투자한 개미 '한숨' [종목+] - 한국경제",
-        "published": "Tue, 20 Oct 2026 23:46:25 GMT",
-        "published_kst": "2026-10-21T08:46:25+09:00",
+        "title": "‘개편 논란’ 겪은 카카오, 카톡 이용자 의견 듣는다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KLXlfY2VQaW5oVmZ4U1B4d2pjMklHcFJpV2IzYkVldDQtTkxkOUhlVmFMbFVhT0l4bGdvMm5NcHl4SXFQa3lrUE1tUDVGNmpJMVFORGZIUnVNUQ?oc=5",
+        "summary": "‘개편 논란’ 겪은 카카오, 카톡 이용자 의견 듣는다 한국경제 ‘개편 논란’ 겪은 카카오, 카톡 이용자 의견 듣는다 - 한국경제",
+        "published": "Wed, 21 Oct 2026 05:57:47 GMT",
+        "published_kst": "2026-10-21T14:57:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,26 +114,13 @@
     ],
     "world": [
       {
-        "title": "Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2xrY1EyQUM4dlBLOGRfYndYQjFVQnY1bmZrTWZ1RnEwNG1LYm1heXdTOTJXSjluZE5Ub05zNGthajBzdENaREthblJkS0pxZnVGUS1hMWNWenp3amJwaG9ycGlRbWxfNHpkRERsSUJsVFpYTTJDWERsZXNDczRVZ2stZjNJdkpsa3JuRjNJQnhncGR5Wk9FTTM3a25JWnVMeHN5M3RiWk5iaXo3ZEsweGVKa2hPa0NJT1podGJxRzA?oc=5",
-        "summary": "Helium supply chain realities if the Strait of Hormuz reopens gasworld Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
-        "published": "Tue, 20 Oct 2026 22:41:10 GMT",
-        "published_kst": "2026-10-21T07:41:10+09:00",
+        "title": "Southeast Asia Should Double Down on the AI Supply Chain - fulcrum.sg",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmxQUDEtUUNvMGg4RlNKV1JCU0pYUHFsaGszTU1ka0VPX0VvcGxSM0ItSUhXVzhIRVowM3RrUjNFajJqWl9CUTZNUHB0dklxRDdaVUZobVFndWRGOVdocVJTTUVuYjF5aEx4VWRWOUhrajZWN3h2U25OdVhocHEtQ2hSMUdEX3BPYWRmSk5VRGJfaC02T2ZPTnlONDk3dw?oc=5",
+        "summary": "Southeast Asia Should Double Down on the AI Supply Chain fulcrum.sg Southeast Asia Should Double Down on the AI Supply Chain - fulcrum.sg",
+        "published": "Wed, 21 Oct 2026 06:00:00 GMT",
+        "published_kst": "2026-10-21T15:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump’s 50% Canada tariffs challenged in court - Supply Chain Dive",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUQ5LUl2dDRtYldkMjZyc2xJS0swUEJpS29kZ3RvUVBZQWNxWkhKeGYzYm9NemxiRzdycklfUExFelZZb1VrZnVEaXhvMGo3YWZOcThNUVcyUlpzeV9WeGREdTdRd0swNFJfcUFQTWJobmpHbm54VURSSzJpTXl1NF9nRzg3QzZwVXN1WG9kWTdWM0k?oc=5",
-        "summary": "Trump’s 50% Canada tariffs challenged in court Supply Chain Dive Trump’s 50% Canada tariffs challenged in court - Supply Chain Dive",
-        "published": "Tue, 20 Oct 2026 21:37:19 GMT",
-        "published_kst": "2026-10-21T06:37:19+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "50%"
-        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -139,8 +128,19 @@
         "title": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters - Euromaidan Press",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjVFMzNvSVFKTmJxRlFTVzVfdFRFaVh4a3ZBMXFXSnJZQUpzVjc0WFB5b01iTWQxWTJ3dXdZWFp3WHFuN1VzZmVSR00tLUZrbmhmbkI5b1RfWktPX1gyUkFYSE1ISTN6RUE4bi1qdzE5ellOTmh1cVZnMkxwT3BMaXZJbmNISk5CbXo2MDBCaw?oc=5",
         "summary": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters Euromaidan Press Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters - Euromaidan Press",
-        "published": "Tue, 20 Oct 2026 21:10:35 GMT",
-        "published_kst": "2026-10-21T06:10:35+09:00",
+        "published": "Wed, 21 Oct 2026 03:00:00 GMT",
+        "published_kst": "2026-10-21T12:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "China’s battery makers race to invest abroad to avoid western barriers - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnFTeUtwMHBxZFMyRmNZbzBBendLVHcyWGM1c3o3U2YyTkd0QVdvTVM5djVNVGFVTFBOcWRkbktRQ1RKVW96aHRaT0hYTDVoRmdmSFJ3UlRTZkZZS0ZWOW1fUml1SHJpUjhKLUxZZ0pzTW9SZjFmYmZ1djY5S2k1Yk5oY24?oc=5",
+        "summary": "China’s battery makers race to invest abroad to avoid western barriers Financial Times China’s battery makers race to invest abroad to avoid western barriers - Financial Times",
+        "published": "Wed, 21 Oct 2026 01:23:53 GMT",
+        "published_kst": "2026-10-21T10:23:53+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters. Japan exports post huge miss in September as growth slows to 16.7% / 반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 한국경제 반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 - 한국경제 / Helium supply chain realities if the Strait of Hormuz reopens gasworld Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
+  "wrap_summary": "inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels. UK inflation jumps to 3.5% — cementing rate hike expectations / 글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 ㈜한국탑뉴스 글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 - ㈜한국탑뉴스 / Southeast Asia Should Double Down on the AI Supply Chain fulcrum.sg Southeast Asia Should Double Down on the AI Supply Chain - fulcrum.sg",
   "invest_summary": ""
 }
