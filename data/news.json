@@ -1,77 +1,74 @@
 {
   "date": "2026-10-21",
-  "generated_at_utc": "2026-10-21T06:41:50Z",
-  "cutoff_kst": "2026-10-21T15:41:00+09:00",
+  "generated_at_utc": "2026-10-21T10:39:20Z",
+  "cutoff_kst": "2026-10-21T19:39:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-        "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-        "summary": "inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels. UK inflation jumps to 3.5% — cementing rate hike expectations",
-        "published": "Wed, 21 Oct 2026 06:30:27 GMT",
-        "published_kst": "2026-10-21T15:30:27+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "3.5%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM?oc=5",
-        "summary": "Witkoff to present Putin with peace proposal after talks with Zelensky Axios Witkoff to present Putin with peace proposal after talks with Zelensky - Axios",
-        "published": "Wed, 21 Oct 2026 05:42:20 GMT",
-        "published_kst": "2026-10-21T14:42:20+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Oil prices climb as traders assess Middle East developments",
-        "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-        "summary": "Iran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz. Oil prices climb as traders assess Middle East developments",
-        "published": "Wed, 21 Oct 2026 05:27:19 GMT",
-        "published_kst": "2026-10-21T14:27:19+09:00",
+        "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+        "url": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
+        "summary": "Trump says data centers should consider community \"dividends\" as AI financing worries grow. 'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+        "published": "Wed, 21 Oct 2026 10:34:20 GMT",
+        "published_kst": "2026-10-21T19:34:20+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Super Micro Computer's (SMCI.US) stellar earnings ignite Korean stocks: KOSPI rebounds 2.21%, led by semiconductor sector - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbW5oTm5uZGVGUDBFTF8yeVIyQl9PX2FuNVhMYXJsZ0FfMDhVRUJGV2hIVmc5SDRsNV92SjEwemtPTGtveDJLZTJrZlVrWUZwNVFwd0NqaGg2WHA3N3JYU3NmeFZoVzY5ZTFYY2M4MVBseGs4bEFSbXNVWmNCTWtUT1pxelQxODhXa2FkOUdDcl9tdWtNR1B2cFlzWjh3UENLUnF1MWZJWW1oc0FsZWk3SQ?oc=5",
-        "summary": "Super Micro Computer's (SMCI.US) stellar earnings ignite Korean stocks: KOSPI rebounds 2.21%, led by semiconductor sector Moomoo Super Micro Computer's (SMCI.US) stellar earnings ignite Korean stocks: KOSPI rebounds 2.21%, led by semiconductor sector - Moomoo",
-        "published": "Wed, 21 Oct 2026 05:00:13 GMT",
-        "published_kst": "2026-10-21T14:00:13+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2.21%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Asian Shares Are Mixed, With Kospi up 3% After US Stocks Rally on Strong Earnings - U.S. News & World Report",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUF0MHZPUFgzWkxIeERaM2xtVEFNdmV6OHpaVk42VTFxWlNqRjNnemVfc1VxSmxLWGN0U2ItSGVCYnlMV1BGM3hwaHU5MUMySl85UXN6Z2o3Xy1KLTRqZ2RyRnZaNFctTjd6VDFBV1lqU3FMTDNxZTVlZkJhRlVsMHhTTXMya09jMnRkek51dVQyVkZRRHVuNmZXM0hiWTV6NFFseTlGLUdsVXRBOVAxR0ZfWlEwUjhEZ3Bsd2psYnV0N0RPSW16a2I1dmZGcU9QcHc?oc=5",
-        "summary": "News & World Report Asian Shares Are Mixed, With Kospi up 3% After US Stocks Rally on Strong Earnings - U.S. News & World Report",
-        "published": "Wed, 21 Oct 2026 04:53:00 GMT",
-        "published_kst": "2026-10-21T13:53:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "3%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
-        "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
-        "summary": "Rubio said the \"extraordinary\" refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
-        "published": "Wed, 21 Oct 2026 04:47:43 GMT",
-        "published_kst": "2026-10-21T13:47:43+09:00",
+        "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+        "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
+        "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees. Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
+        "published": "Wed, 21 Oct 2026 10:32:40 GMT",
+        "published_kst": "2026-10-21T19:32:40+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump to tout crackdown on overseas crypto scams - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
+        "summary": "Trump to tout crackdown on overseas crypto scams Reuters Trump to tout crackdown on overseas crypto scams - Reuters",
+        "published": "Wed, 21 Oct 2026 10:29:40 GMT",
+        "published_kst": "2026-10-21T19:29:40+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+        "url": "https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
+        "summary": "France is grappling with intense pressure to slash spending, while trying to quell violent protests demanding the government spends more. French 10-year bond yield hits 5% for first time since 2002 amid unrest",
+        "published": "Wed, 21 Oct 2026 10:27:14 GMT",
+        "published_kst": "2026-10-21T19:27:14+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "5%",
+          "2002"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmVlY3NlaE8xWXA4OUdBTUlKOEhtdWh4UEwwVVlfUDczNjczeXV1aUtLek42UjQ4b3I5NHZaRU5xYjFlVVhNWXV3Sm1rRkgxRkR0b1VWazFaT195cG5GUlF4S0FEcERoTzJJVXktUVdYOTN1ZldXREx5ZmllMVgyRG1sT0pRMF9hNF9JLVhTcnA2M3o3Qy1FS0FLS3QyMTFQVXloYU9ibmw2VWVMRzJuT3Z4dkQ1V2VyUTAxclhQdHY?oc=5",
+        "summary": "OpenAI president urges AI safeguards as group he funds opposes regulation Reuters OpenAI president urges AI safeguards as group he funds opposes regulation - Reuters",
+        "published": "Wed, 21 Oct 2026 10:07:07 GMT",
+        "published_kst": "2026-10-21T19:07:07+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazVLcDItRGFmTHc0VFY0M3FhV1B4Ymg2NUl0eGRDc0JHb25hUkZrblhjelAzM3JjYVU5Z1BMald1NFZRSVhFcFVLcFB5MmhLYlktcVVrREN1aHk1bGNKaEdHejB3cHVmUzFvaXIwaHc1WEFnQS1QczNHVHNNOFhtUTBkZWFhdGtacXpwQ1BjbW1kV1FGQU90VA?oc=5",
+        "summary": "US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&P, Nasdaq, Wall Street Yahoo Finance US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+        "published": "Wed, 21 Oct 2026 09:47:45 GMT",
+        "published_kst": "2026-10-21T18:47:45+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -79,33 +76,33 @@
     ],
     "kr": [
       {
-        "title": "글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 - ㈜한국탑뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZdFZlSS01WW83QnF5TWdsV2dMaFVMVGRnZVNLWGQzVmVEZHpjYzF6VXdtZnY5TjE1SURfeFFQZ0hWZ0kxMXJPNWtGeWhGaTQ5Q0JKcmplSHJ2cDh0UmRNMEJ3?oc=5",
-        "summary": "글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 ㈜한국탑뉴스 글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 - ㈜한국탑뉴스",
-        "published": "Wed, 21 Oct 2026 06:10:22 GMT",
-        "published_kst": "2026-10-21T15:10:22+09:00",
+        "title": "로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkTVlENDdyT2ZRNWw4a0o4eVUyYjYxbVBvUFMycEw3QjJFUTUtaWE5azlWc2V0cGVuSk1MU1VQX2g5alFQRVNrODZVVERRX2tRXzJTdWxEQXVMdw?oc=5",
+        "summary": "로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' 한국경제 로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' - 한국경제",
+        "published": "Wed, 21 Oct 2026 10:04:00 GMT",
+        "published_kst": "2026-10-21T19:04:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[단독] 中서 뒷조사 했나…\"너무 무서워요\" 섬뜩한 기록 [K갈라파고스: 규제의 세계] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvSHVJckNvUmh1SHo3bU5MYzlwdmRzcEVuMkpscDZ6Z210aVBxakFCZld4LXFsOFlhQXZSX2p0OWZTRGd1Y0VlVmJrU2dpaVl0UTNRVW5NMzY4QQ?oc=5",
-        "summary": "[단독] 中서 뒷조사 했나…\"너무 무서워요\" 섬뜩한 기록 [K갈라파고스: 규제의 세계] 한국경제 [단독] 中서 뒷조사 했나…\"너무 무서워요\" 섬뜩한 기록 [K갈라파고스: 규제의 세계] - 한국경제",
-        "published": "Wed, 21 Oct 2026 06:00:00 GMT",
-        "published_kst": "2026-10-21T15:00:00+09:00",
+        "title": "[기고] 韓 제조업, IBM PC의 전철 밟지 말아야 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rZm5wRnM2d1ZfWmtjQ1gyVWc4eE45TDRsX1VCRnlLZkRuaFBKMGFOcWRtTE5YQ3NZWTNJMURKSS1NTVkwdTVlOXF2YnRQSnZvWURmWGhjcnphQQ?oc=5",
+        "summary": "[기고] 韓 제조업, IBM PC의 전철 밟지 말아야 한국경제 [기고] 韓 제조업, IBM PC의 전철 밟지 말아야 - 한국경제",
+        "published": "Wed, 21 Oct 2026 09:33:11 GMT",
+        "published_kst": "2026-10-21T18:33:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "‘개편 논란’ 겪은 카카오, 카톡 이용자 의견 듣는다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KLXlfY2VQaW5oVmZ4U1B4d2pjMklHcFJpV2IzYkVldDQtTkxkOUhlVmFMbFVhT0l4bGdvMm5NcHl4SXFQa3lrUE1tUDVGNmpJMVFORGZIUnVNUQ?oc=5",
-        "summary": "‘개편 논란’ 겪은 카카오, 카톡 이용자 의견 듣는다 한국경제 ‘개편 논란’ 겪은 카카오, 카톡 이용자 의견 듣는다 - 한국경제",
-        "published": "Wed, 21 Oct 2026 05:57:47 GMT",
-        "published_kst": "2026-10-21T14:57:47+09:00",
+        "title": "韓 AI 데이터센터 투자, 건설주부터 내년 수혜 본격화 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tSWt1M3R0SjhrRTZaV3NZUnZWc244MG8xZW9jNUhjaGdLdTJIMUVTUEdZUm5VZnpidXowWk1BU0hsbVZJRW1QUFYwOUV6NDVFNHJQWXBIMkwtQQ?oc=5",
+        "summary": "韓 AI 데이터센터 투자, 건설주부터 내년 수혜 본격화 한국경제 韓 AI 데이터센터 투자, 건설주부터 내년 수혜 본격화 - 한국경제",
+        "published": "Wed, 21 Oct 2026 09:17:43 GMT",
+        "published_kst": "2026-10-21T18:17:43+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,33 +111,33 @@
     ],
     "world": [
       {
-        "title": "Southeast Asia Should Double Down on the AI Supply Chain - fulcrum.sg",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmxQUDEtUUNvMGg4RlNKV1JCU0pYUHFsaGszTU1ka0VPX0VvcGxSM0ItSUhXVzhIRVowM3RrUjNFajJqWl9CUTZNUHB0dklxRDdaVUZobVFndWRGOVdocVJTTUVuYjF5aEx4VWRWOUhrajZWN3h2U25OdVhocHEtQ2hSMUdEX3BPYWRmSk5VRGJfaC02T2ZPTnlONDk3dw?oc=5",
-        "summary": "Southeast Asia Should Double Down on the AI Supply Chain fulcrum.sg Southeast Asia Should Double Down on the AI Supply Chain - fulcrum.sg",
-        "published": "Wed, 21 Oct 2026 06:00:00 GMT",
-        "published_kst": "2026-10-21T15:00:00+09:00",
+        "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout - GlobeNewswire",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdjlXRmVJdFZEa1Fibk9XVF91OFJsYm4wbTlrSWYzUERVMzRoQ25sbHVsSjRzV3Z4YUdENHZrRWIzYnRFcmUzdXlTaWo3RVl5Tkgza0xmRjZCWHNhdW9tMEpSOXJLdkV2RHU2bFI2d3YyNzJneVBBMmxoVktZalVOemt4ZS1YODhueWNHempCcGJndng1azVCU0hpcnpQc3ZCUVRzVkNMMnBXcVNwMXRNNkpOMm9BODFJTXo2NmYzcHpYV0JweTNHMzVncnQ0NzFhT2Y1alRJODFyS2NQbHRNYVc5ampsT1pPU21oc2NTMVlhdkE?oc=5",
+        "summary": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout GlobeNewswire NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout - GlobeNewswire",
+        "published": "Wed, 21 Oct 2026 10:33:24 GMT",
+        "published_kst": "2026-10-21T19:33:24+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters - Euromaidan Press",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjVFMzNvSVFKTmJxRlFTVzVfdFRFaVh4a3ZBMXFXSnJZQUpzVjc0WFB5b01iTWQxWTJ3dXdZWFp3WHFuN1VzZmVSR00tLUZrbmhmbkI5b1RfWktPX1gyUkFYSE1ISTN6RUE4bi1qdzE5ellOTmh1cVZnMkxwT3BMaXZJbmNISk5CbXo2MDBCaw?oc=5",
-        "summary": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters Euromaidan Press Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters - Euromaidan Press",
-        "published": "Wed, 21 Oct 2026 03:00:00 GMT",
-        "published_kst": "2026-10-21T12:00:00+09:00",
+        "title": "Top 10 Biggest Supply Chains - Supply Chain Digital",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13Q1Nua0JvSkNXaEtpNDFQcnNZZTFUZXVuenVXTkRZMXNvUEJmZk02SVdIZFhXd0M3UXg5QnEyaXF3b3FLMHhDN0Y1MjZZVzNkNVZJZUZKa3Vpa1MzRVlDb3JyeUlRV2xoM1ZIa003bC1ZUQ?oc=5",
+        "summary": "Top 10 Biggest Supply Chains Supply Chain Digital Top 10 Biggest Supply Chains - Supply Chain Digital",
+        "published": "Wed, 21 Oct 2026 09:12:29 GMT",
+        "published_kst": "2026-10-21T18:12:29+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "China’s battery makers race to invest abroad to avoid western barriers - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNnFTeUtwMHBxZFMyRmNZbzBBendLVHcyWGM1c3o3U2YyTkd0QVdvTVM5djVNVGFVTFBOcWRkbktRQ1RKVW96aHRaT0hYTDVoRmdmSFJ3UlRTZkZZS0ZWOW1fUml1SHJpUjhKLUxZZ0pzTW9SZjFmYmZ1djY5S2k1Yk5oY24?oc=5",
-        "summary": "China’s battery makers race to invest abroad to avoid western barriers Financial Times China’s battery makers race to invest abroad to avoid western barriers - Financial Times",
-        "published": "Wed, 21 Oct 2026 01:23:53 GMT",
-        "published_kst": "2026-10-21T10:23:53+09:00",
+        "title": "Small Business Trends outlines five essential sustainable supply chain practices - Global Sources",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeExLZm9LQThFam5Ccko4VmtjeE1CVmhnbjRQR2M1VXR2X2tRZ0p5THFpQU9NcHlSc2lXWlFjZUtuYkxSNEdVNUpzdFRkbl9VeWh2T0RpYmlHWTBLM3pjbWxiVUVGLWItcXZ1S0pmMlZyMXdtUkplam9hQ0hQZXJ4Z0h6R3VoQWVOQUR1ck8xZlhiSWxWV3Q0dXdFRVVzSXR4bml4MEU4Y19mcGtyNVh1MVVSaTJiSEJSS1UyV3M0MEE1Tl9TUFBHQVUzZTc3LWlQdC1nemhEaWpwSG9NNmU5dw?oc=5",
+        "summary": "Small Business Trends outlines five essential sustainable supply chain practices Global Sources Small Business Trends outlines five essential sustainable supply chain practices - Global Sources",
+        "published": "Wed, 21 Oct 2026 07:33:01 GMT",
+        "published_kst": "2026-10-21T16:33:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +145,6 @@
       }
     ]
   },
-  "wrap_summary": "inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels. UK inflation jumps to 3.5% — cementing rate hike expectations / 글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 ㈜한국탑뉴스 글로벌외교관포럼 (GDF), 국회서 8개국 주한 외교단과 ‘중소기업 해외수출증진 컨퍼런스’ 개최성료 - ㈜한국탑뉴스 / Southeast Asia Should Double Down on the AI Supply Chain fulcrum.sg Southeast Asia Should Double Down on the AI Supply Chain - fulcrum.sg",
+  "wrap_summary": "Trump says data centers should consider community \"dividends\" as AI financing worries grow. 'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support / 로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' 한국경제 로켓 달고 날던 테슬라, 예고편이었다…머스크 '초대형 승부수' - 한국경제 / NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout GlobeNewswire NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout - GlobeNewswire",
   "invest_summary": ""
 }
