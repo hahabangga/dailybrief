@@ -1,74 +1,75 @@
 {
   "date": "2026-10-21",
-  "generated_at_utc": "2026-10-20T17:48:11Z",
-  "cutoff_kst": "2026-10-21T02:48:00+09:00",
+  "generated_at_utc": "2026-10-21T00:11:15Z",
+  "cutoff_kst": "2026-10-21T09:11:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Democrats Outline Priorities for Next Congress’ House Science Committee - AIP.ORG",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1VNT0JvSF9EdFZKYkhwSGpQWWswbmYwckJnZXpFY3JjUkl4bm1WSmpXclFxamhWU0lHS3BLMGVjT3pWZTU2bUVidjI0SGpGSnp5YjJ6MnBObEZFM1lBX0NPcV9yRGZUc1V1eWtOYzBjZXRnMUN3VE9LcnZBOF90WGNiVGhfakNIMjJDN1NXUWVNVy02cWJtbEZR?oc=5",
-        "summary": "Democrats Outline Priorities for Next Congress’ House Science Committee AIP.ORG Democrats Outline Priorities for Next Congress’ House Science Committee - AIP.ORG",
-        "published": "Tue, 20 Oct 2026 17:45:45 GMT",
-        "published_kst": "2026-10-21T02:45:45+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
-        "url": "https://www.cnbc.com/2026/10/20/musk-spacex-trump-account-stock-rules.html",
-        "summary": "Elon Musk's planned SpaceX stock donation could come with strings attached if he uses Trump Accounts. If Elon Musk gifts SpaceX stock through Trump Accounts, it will come with a catch",
-        "published": "Tue, 20 Oct 2026 17:29:38 GMT",
-        "published_kst": "2026-10-21T02:29:38+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House approves yet another bailout for farmers hurt by Trump’s agenda - MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTRFcWw2MGdCV2F4VlJFMi11OUFzbG9NSWZGMjVSb2VCODNPOXFCcU1vdkI1eTRsVl80MGJiM3pOdTREcktsS2dCMUt6V3lQRHZJaGZMYUJFMGpYQXA2ajVNbnhDMjBCbWtjTzBXOFVCNENBS19ydE8zbWFfRVJscXpDRkJ6QkZLMnRybnE1RlRuTnhCai1oUnlPWVIzUjZGZlFQOVNra001UmtrUHMyR2pDTQ?oc=5",
-        "summary": "White House approves yet another bailout for farmers hurt by Trump’s agenda MS NOW White House approves yet another bailout for farmers hurt by Trump’s agenda - MS NOW",
-        "published": "Tue, 20 Oct 2026 16:53:54 GMT",
-        "published_kst": "2026-10-21T01:53:54+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "What Amazon must do to get its stumbling stock back to record highs and beyond",
-        "url": "https://www.cnbc.com/investingclub/2026/10/20/what-amazon-must-do-to-get-its-stumbling-stock-back-to-record-highs-and-beyond.html",
-        "summary": "The performance of Amazon Web Services is the key. What Amazon must do to get its stumbling stock back to record highs and beyond",
-        "published": "Tue, 20 Oct 2026 16:49:28 GMT",
-        "published_kst": "2026-10-21T01:49:28+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
-        "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-        "summary": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930. Trump sued over 50% tariffs on Canada in latest trade challenge",
-        "published": "Tue, 20 Oct 2026 16:43:42 GMT",
-        "published_kst": "2026-10-21T01:43:42+09:00",
+        "title": "Japan exports post huge miss in September as growth slows to 16.7%",
+        "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+        "summary": "Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters. Japan exports post huge miss in September as growth slows to 16.7%",
+        "published": "Wed, 21 Oct 2026 00:01:49 GMT",
+        "published_kst": "2026-10-21T09:01:49+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "50%",
-          "1930"
+          "16.7%",
+          "18.9%",
+          "19.6%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT205ak0wVV9EYllxdHlsNFR6Q19wSVBXMWZjN2NxdmtYd2hYUGFKNklCZjZ2ajdwY0ZURkFodW9Fa1E1ZTFuSFJQV3RRMUpmSy1DWXpCaTZidmNicTh6S2ZSS0E2X2JYTThJNG13OEdNRU9Qelk2Tmgwd3dXLTdNalNnWXlaTDFhT3lSbHY3Mmp5Tmp0Z1NFOTYwMA?oc=5",
-        "summary": "Trump drops threats against Canadian jet maker Bombardier, citing US jobs Reuters Trump drops threats against Canadian jet maker Bombardier, citing US jobs - Reuters",
-        "published": "Tue, 20 Oct 2026 16:40:55 GMT",
-        "published_kst": "2026-10-21T01:40:55+09:00",
+        "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
+        "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+        "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings. Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
+        "published": "Tue, 20 Oct 2026 23:34:14 GMT",
+        "published_kst": "2026-10-21T08:34:14+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "SBA’s Million Dollar Pitch Competition - The White House (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vWkNGTGNyX3liRnp2UzA3bUZucEJ2XzBwcHQ3TTBuVFJFRVJITEx0SU02bEg4ZWZ6TWFvVWFheGhGZkFDeW9pWU5hd1dGNklLTHFXeENoU3FEVml5aktYejVRRElFcEdyQy1xSG9Cb0I5RXJiTXRrVHVzbnQ?oc=5",
+        "summary": "SBA’s Million Dollar Pitch Competition The White House (.gov) SBA’s Million Dollar Pitch Competition - The White House (.gov)",
+        "published": "Tue, 20 Oct 2026 23:01:46 GMT",
+        "published_kst": "2026-10-21T08:01:46+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "'You better be careful': Trump clashes with reporter during heated White House exchange - WJAR",
+        "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNU1VCZTZvU0d0Q3VsOHhjR090SVJTTUJpNXl0Y2pKSUo1eUNRZkZpbXBFTzcwYUJGNEYzOEY3OHBTei1sVjBGWkh4NVdNcnAzUDVHLV9pNzVHZ1JwX1EtRzRuQnpHNEdnUFVtQ2hJVFVobnBFRU5xc25LXzR1MW14YWZQNnJWdUdCQlUzMnJrSDBEVEYwZkN1Q2hLQVdpdzkyNl92VWlhaExYMU9WZEtENTA2c1daWWhOTGtTdElQVmlPT2tVS0otRzBCemtESFNNNUlFMmdUXzRwWWRNa0ljbm9pdEswb1pUTGw5bHNFMmc0Sk1EWC13ckxVZ1gwSnE3bUR2bjFUNGp5QktlT2VRZnNrcmNhbThRUDVfMzZ1UmNFa0poWF9GUDR6ODBWdmNEVC1FWm9VTEZCYW00d25z?oc=5",
+        "summary": "'You better be careful': Trump clashes with reporter during heated White House exchange WJAR 'You better be careful': Trump clashes with reporter during heated White House exchange - WJAR",
+        "published": "Tue, 20 Oct 2026 23:00:45 GMT",
+        "published_kst": "2026-10-21T08:00:45+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House Spews Sick Slur After Trump Falls Apart in Oval Office - The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVlJLUFlU1FRaG5oaGFkSjk0MFN0VU5RNDZJTXo3YzZuNkR3RF9GdGlKU3FjWGxRQ1ZtTXJnUGF3N2U4UFpCX1VzaEQxeUhoRHJRUGZ0OVJVZTZyZ0NWSVF4R3RPSFdPVjM4aEpJV0xZcXVmLXZIZjFjdUx3czVkbm9Rc3JWaXN6a0FRaE9NMUhEeXJEVmFVdEQwbEY?oc=5",
+        "summary": "White House Spews Sick Slur After Trump Falls Apart in Oval Office The Daily Beast White House Spews Sick Slur After Trump Falls Apart in Oval Office - The Daily Beast",
+        "published": "Tue, 20 Oct 2026 22:56:03 GMT",
+        "published_kst": "2026-10-21T07:56:03+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+        "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+        "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+        "published": "Tue, 20 Oct 2026 22:29:45 GMT",
+        "published_kst": "2026-10-21T07:29:45+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -76,33 +77,33 @@
     ],
     "kr": [
       {
-        "title": "[이슈프리즘] 노벨경제학상이 던진 '재정 신뢰' 경고 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xRmVfV2w4WmpBdjdvMHRUNzJPdU1fY2txYWpRRURCQ3c1MTBuRHVIR0M2RHVNbXE3czdQeTZtUE9XSXcxU1AyT242YU5YcTNWTUJKdmxDRmpMZw?oc=5",
-        "summary": "[이슈프리즘] 노벨경제학상이 던진 '재정 신뢰' 경고 한국경제 [이슈프리즘] 노벨경제학상이 던진 '재정 신뢰' 경고 - 한국경제",
-        "published": "Tue, 20 Oct 2026 17:32:00 GMT",
-        "published_kst": "2026-10-21T02:32:00+09:00",
+        "title": "반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iWFRidlJ5elZWWGZzTllnbmtXZ3l4Qy1iRHMybHhlTUxEZFNZOUk2Nl9fUm56dUkxUXhkRDB1ek1TbW1JbHc1cy14aTk2VjQ3WGhoMUZMTFhUZw?oc=5",
+        "summary": "반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 한국경제 반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 - 한국경제",
+        "published": "Wed, 21 Oct 2026 00:00:10 GMT",
+        "published_kst": "2026-10-21T09:00:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "불어나는 은행 부실채권…경매 물량 더 쌓이나 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15VUpTQXJDcklZMTdrQVpCWFMtTEFBRHg0X1MtUVVCSVF0WnZ6WjUyUVBSVWpVQl9GNjZZeENYeHdwQWVXNXhxejdGUm51TUlfZzV0R0gyalBKdw?oc=5",
-        "summary": "불어나는 은행 부실채권…경매 물량 더 쌓이나 한국경제 불어나는 은행 부실채권…경매 물량 더 쌓이나 - 한국경제",
-        "published": "Tue, 20 Oct 2026 17:14:00 GMT",
-        "published_kst": "2026-10-21T02:14:00+09:00",
+        "title": "\"법률상담도 이동형 시대\"…YK, '다가가는 서비스' 운영 [로앤비즈 브리핑] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xc1phVnV5VkJ2VVdRX1ZmSVV2TTNwdGZzU0syV0kzTnFsSVh1VTkxeEx0LUY1NFVQbzhXcG8tX1BhTkp6dERwcEpBYjVrTnBsb08zZjVKcW1qUQ?oc=5",
+        "summary": "\"법률상담도 이동형 시대\"…YK, '다가가는 서비스' 운영 [로앤비즈 브리핑] 한국경제 \"법률상담도 이동형 시대\"…YK, '다가가는 서비스' 운영 [로앤비즈 브리핑] - 한국경제",
+        "published": "Tue, 20 Oct 2026 23:55:52 GMT",
+        "published_kst": "2026-10-21T08:55:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "수은 행장 \"현재 KAI 지분 매각 계획 없다\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkNU5fYnpYV1ZwT0Q5OGRaNUpNdElKbnhDdXQ0SnJxSE9QSk9tQjFqNFotcEtHLWh6U1N6bFA3X3d2WUxQUlU2NmJSODUwVXZJaDJOQXQxbnhjdw?oc=5",
-        "summary": "수은 행장 \"현재 KAI 지분 매각 계획 없다\" 한국경제 수은 행장 \"현재 KAI 지분 매각 계획 없다\" - 한국경제",
-        "published": "Tue, 20 Oct 2026 16:54:00 GMT",
-        "published_kst": "2026-10-21T01:54:00+09:00",
+        "title": "\"전쟁 중인데 주가 왜 이래\"…방산주 투자한 개미 '한숨' [종목+] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fazFqTmJWZDcwSHk5dHNqLVRwMUlRdjE2ZGlzVjg5UWJvaWhudGRVdUx2TG14X3NGUjVsRXFqZFFUNTJ2VUszeDVCZEhDbXlMQ3E0WXBtVndXdw?oc=5",
+        "summary": "\"전쟁 중인데 주가 왜 이래\"…방산주 투자한 개미 '한숨' [종목+] 한국경제 \"전쟁 중인데 주가 왜 이래\"…방산주 투자한 개미 '한숨' [종목+] - 한국경제",
+        "published": "Tue, 20 Oct 2026 23:46:25 GMT",
+        "published_kst": "2026-10-21T08:46:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -111,42 +112,42 @@
     ],
     "world": [
       {
-        "title": "Unilog.SC Research Highlights Supply Chain Alert Overload and Strategies to Prevent Equipment Downtime - citybiz",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORWdqT1FQY3RfSGw5WVJyNEVfbFFPSDRKLXFfekFWSWgyTnBaTlVaNDNEWlg3VW5xdHUzbkhub2NpZkdXNjRodmZSRFZOMjdlUjhFQmUwaUFkMmhxOTN5cFZKdTAxQVIxU1NvZ3ZWZWRzWTZ1Ti1yOFp5dVdvamtacjVyT2ZKNWxKYmdYdmxTbXpPUjIwZUpEajJpSGNVbzQ0MGJ5ZjQ3a2xWMlN4Q29WbnlZcDB5QzVkLThpdVVLcUV1M29XRUtHaXFSSExJa2JZTE9pX1czUVc?oc=5",
-        "summary": "Unilog.SC Research Highlights Supply Chain Alert Overload and Strategies to Prevent Equipment Downtime citybiz Unilog.SC Research Highlights Supply Chain Alert Overload and Strategies to Prevent Equipment Downtime - citybiz",
-        "published": "Tue, 20 Oct 2026 17:36:19 GMT",
-        "published_kst": "2026-10-21T02:36:19+09:00",
+        "title": "Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2xrY1EyQUM4dlBLOGRfYndYQjFVQnY1bmZrTWZ1RnEwNG1LYm1heXdTOTJXSjluZE5Ub05zNGthajBzdENaREthblJkS0pxZnVGUS1hMWNWenp3amJwaG9ycGlRbWxfNHpkRERsSUJsVFpYTTJDWERsZXNDczRVZ2stZjNJdkpsa3JuRjNJQnhncGR5Wk9FTTM3a25JWnVMeHN5M3RiWk5iaXo3ZEsweGVKa2hPa0NJT1podGJxRzA?oc=5",
+        "summary": "Helium supply chain realities if the Strait of Hormuz reopens gasworld Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
+        "published": "Tue, 20 Oct 2026 22:41:10 GMT",
+        "published_kst": "2026-10-21T07:41:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Supply Chain Resilience Beyond Supplier Count - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdDNoODhqQWdSd1NhNTMzZmFWN2pZZ0FueXctekpCdDJ1SnRvcWRzUHdua2hiaHF0QTUyOUZfY29lN0dIU1JCVHZJajZFY3JRaHBXMVgtdWZwMHpHbHV3emI5QVRfRTFoWHVfQzFJSEQxbEpfNy1rRjNnWURqcWIwa3VMNEFWZGhvYkM2eWVNRWoyeWxlZ3l0aThQRGNWN3NlY1VZWW9XdnN5bkJOYmk5S2NfNmhoZ0xGQnV3Q01tMUNFQng3ZTJGOWhvdHNYQ28xYnk1dWI1Z1o?oc=5",
-        "summary": "Supply Chain Resilience Beyond Supplier Count Supply & Demand Chain Executive Supply Chain Resilience Beyond Supplier Count - Supply & Demand Chain Executive",
-        "published": "Tue, 20 Oct 2026 17:36:07 GMT",
-        "published_kst": "2026-10-21T02:36:07+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "GOFO Wins 2026 CSCMP Supply Chain Innovation Award - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0w1TnQyMWJpMnpzTXNXek5tR2ZtbElGdWJJcDh6Q09VWjQtM29HaGpHWVJINUVyd0RtY1pmYmdmT2FWVTZ5elUzWXl5UnBWVXVGUW1zeWhmT0sydWtKZkxTUHlZQnNaUjBXMTQyZzhJTnptTndVdmpvOG9qajNlTURsZWIxbVAxM1dBb2NfUGRCbG5CbW85TmJfbnZPeVBXTTA3Y1Q3S0xwdw?oc=5",
-        "summary": "GOFO Wins 2026 CSCMP Supply Chain Innovation Award PR Newswire GOFO Wins 2026 CSCMP Supply Chain Innovation Award - PR Newswire",
-        "published": "Tue, 20 Oct 2026 17:07:00 GMT",
-        "published_kst": "2026-10-21T02:07:00+09:00",
+        "title": "Trump’s 50% Canada tariffs challenged in court - Supply Chain Dive",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUQ5LUl2dDRtYldkMjZyc2xJS0swUEJpS29kZ3RvUVBZQWNxWkhKeGYzYm9NemxiRzdycklfUExFelZZb1VrZnVEaXhvMGo3YWZOcThNUVcyUlpzeV9WeGREdTdRd0swNFJfcUFQTWJobmpHbm54VURSSzJpTXl1NF9nRzg3QzZwVXN1WG9kWTdWM0k?oc=5",
+        "summary": "Trump’s 50% Canada tariffs challenged in court Supply Chain Dive Trump’s 50% Canada tariffs challenged in court - Supply Chain Dive",
+        "published": "Tue, 20 Oct 2026 21:37:19 GMT",
+        "published_kst": "2026-10-21T06:37:19+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2026"
+          "50%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters - Euromaidan Press",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjVFMzNvSVFKTmJxRlFTVzVfdFRFaVh4a3ZBMXFXSnJZQUpzVjc0WFB5b01iTWQxWTJ3dXdZWFp3WHFuN1VzZmVSR00tLUZrbmhmbkI5b1RfWktPX1gyUkFYSE1ISTN6RUE4bi1qdzE5ellOTmh1cVZnMkxwT3BMaXZJbmNISk5CbXo2MDBCaw?oc=5",
+        "summary": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters Euromaidan Press Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters - Euromaidan Press",
+        "published": "Tue, 20 Oct 2026 21:10:35 GMT",
+        "published_kst": "2026-10-21T06:10:35+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Democrats Outline Priorities for Next Congress’ House Science Committee AIP.ORG Democrats Outline Priorities for Next Congress’ House Science Committee - AIP.ORG / [이슈프리즘] 노벨경제학상이 던진 '재정 신뢰' 경고 한국경제 [이슈프리즘] 노벨경제학상이 던진 '재정 신뢰' 경고 - 한국경제 / Unilog.SC Research Highlights Supply Chain Alert Overload and Strategies to Prevent Equipment Downtime citybiz Unilog.SC Research Highlights Supply Chain Alert Overload and Strategies to Prevent Equipment Downtime - citybiz",
+  "wrap_summary": "Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters. Japan exports post huge miss in September as growth slows to 16.7% / 반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 한국경제 반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다 - 한국경제 / Helium supply chain realities if the Strait of Hormuz reopens gasworld Helium supply chain realities if the Strait of Hormuz reopens - gasworld",
   "invest_summary": ""
 }
