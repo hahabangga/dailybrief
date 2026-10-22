@@ -1,100 +1,16 @@
 {
   "date": "2026-10-22",
-  "generated_at_utc": "2026-10-22T10:42:05Z",
-  "cutoff_kst": "2026-10-22T19:42:00+09:00",
+  "generated_at_utc": "2026-10-22T14:58:44Z",
+  "cutoff_kst": "2026-10-22T23:58:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-        "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-        "summary": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth. Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
-        "published": "Thu, 22 Oct 2026 10:31:24 GMT",
-        "published_kst": "2026-10-22T19:31:24+09:00",
+        "title": "American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+        "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+        "summary": "carrier to cut its 2026 forecast this month because of a spike in fuel costs. American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year",
+        "published": "Thu, 22 Oct 2026 14:52:09 GMT",
+        "published_kst": "2026-10-22T23:52:09+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. Futures Plunge as Chip Stocks Sink After Tech Earnings, Oil Rises - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR0daWFBKazVzbGNCMlpWNVFGeXd4OFJIQ29kbUJNcENFRGJkZ0dvVzlxOThnWmMzNDJzNmJabXBSeEg5NWxmdmJGdkFWT3A5WjZvNGJXQTJNYXdhNnhia0l2WjBpbWJOYlllelVacnIzbzNuV0dEYll3anU4QjVGcW5YOHdSLUlhZEJkRkVIZkFQRTBvdTMwb3hTRmt5bTBlc2UyMnk3QjI5WVlKZGYzcDVn?oc=5",
-        "summary": "Futures Plunge as Chip Stocks Sink After Tech Earnings, Oil Rises Barchart.com U.S.",
-        "published": "Thu, 22 Oct 2026 10:28:03 GMT",
-        "published_kst": "2026-10-22T19:28:03+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How White House art tells the story of America's evolution | Opinion - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGRaWm50MXk1azI5eFZKUVpSQjFpSkRfRjBrQ1VhWUdxTWRiVEVuZUFJeHdaMlRtc2lyeFpsNTlJN0c4b3RSMFk1dktVUzE1eFhKOWwxWGN6Z3huRjN5UFpNZDZvZWFBMkR3eEt0Z3cyZmhKd0lMWW8zRW4yTXdNc0pxaFc1VTBCbDU3Rm8yMUpBcWphdzh4bFRtSE1pYURENFdBdzVWZFowbGdKY1E?oc=5",
-        "summary": "How White House art tells the story of America's evolution | Opinion USA Today How White House art tells the story of America's evolution | Opinion - USA Today",
-        "published": "Thu, 22 Oct 2026 10:06:00 GMT",
-        "published_kst": "2026-10-22T19:06:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump rallying with Senate hopeful Ashley Hinson in Iowa as she pledges to push back on White House - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXdtbU1QTHFmZjg1Rm5lRXdFVF96MjJGZUJHVHpyMVlhUlAyR29MTkRxaEU2aGFvVV9pbWFRMzJnVGNyOFFSNnBwSWtFRmNSU25naG9OT3ExWTJvLTQ3Tl9tbDlhRWkzemx6MUVJQThYUGhnSDlfZE82eFNNXzhsenVfNWs?oc=5",
-        "summary": "Trump rallying with Senate hopeful Ashley Hinson in Iowa as she pledges to push back on White House CBS News Trump rallying with Senate hopeful Ashley Hinson in Iowa as she pledges to push back on White House - CBS News",
-        "published": "Thu, 22 Oct 2026 10:00:13 GMT",
-        "published_kst": "2026-10-22T19:00:13+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-        "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
-        "summary": "The fund has a current value of around $2.3 trillion. World's largest wealth fund posts $30 billion loss after bond market turbulence",
-        "published": "Thu, 22 Oct 2026 09:25:09 GMT",
-        "published_kst": "2026-10-22T18:25:09+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$30",
-          "$2.3"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-        "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-        "summary": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes The Middle East conflict could flare up again as the U.S.",
-        "published": "Thu, 22 Oct 2026 08:24:42 GMT",
-        "published_kst": "2026-10-22T17:24:42+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$112"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      }
-    ],
-    "kr": [
-      {
-        "title": "한경 '용혜인 비례대표 겸직논란' 이달의 기자상 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pQnR2ajhuMXB4LUxfcEJDUkpNWGRvYlNjWjBRRHptSGQtR1RLTnUzOVhTUzN6QUx5RF83ZHEwa1VfTGttblNGSlQtM2hQNkVsb0hJbnlMbE1VQQ?oc=5",
-        "summary": "한경 '용혜인 비례대표 겸직논란' 이달의 기자상 한국경제 한경 '용혜인 비례대표 겸직논란' 이달의 기자상 - 한국경제",
-        "published": "Thu, 22 Oct 2026 10:00:26 GMT",
-        "published_kst": "2026-10-22T19:00:26+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[2026 국감] 국회 보건복지위 ‘한국사회복지협의회 등에 대한 국정감사’ - 복지타임즈",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BQm1iWmZEeThkeUNxSTdfc3VMNmloOEtodmFvQ01HNVdWOVJ2ZjlTUUlpYUJLejFmUllaeFVhLVdNclBDTmtrLTUxbHZPQm90UzlZUnJXM1ZhWHNUV2V1THoxQ2FtVEpLd2Nr?oc=5",
-        "summary": "[2026 국감] 국회 보건복지위 ‘한국사회복지협의회 등에 대한 국정감사’ 복지타임즈 [2026 국감] 국회 보건복지위 ‘한국사회복지협의회 등에 대한 국정감사’ - 복지타임즈",
-        "published": "Thu, 22 Oct 2026 09:39:54 GMT",
-        "published_kst": "2026-10-22T18:39:54+09:00",
-        "domain": "google.com",
         "key_figures": [
           "2026"
         ],
@@ -102,11 +18,90 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[단독] HD현대, 美에 조선 인프라 구축 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YNEVxX01BUmN5amVCaVZ2RDkwRWNiZkozaC1ydHFFY3J6V2VrcEpKRW45OGMyY1VvVFNLNUh0S2RFUjBTNnZONk5XRExTVE1kalVwTVREQXdLUQ?oc=5",
-        "summary": "[단독] HD현대, 美에 조선 인프라 구축 한국경제 [단독] HD현대, 美에 조선 인프라 구축 - 한국경제",
-        "published": "Thu, 22 Oct 2026 09:30:03 GMT",
-        "published_kst": "2026-10-22T18:30:03+09:00",
+        "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+        "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+        "summary": "The investigation into the Democrat predates the current Trump administration. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+        "published": "Thu, 22 Oct 2026 14:49:10 GMT",
+        "published_kst": "2026-10-22T23:49:10+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+        "url": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+        "summary": "California's billionaire wealth tax, Proposition 40, looks like a close call based on recent polls. California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+        "published": "Thu, 22 Oct 2026 14:47:29 GMT",
+        "published_kst": "2026-10-22T23:47:29+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US OPEN: Earnings misses and rising oil push indexes lower - XTB.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdTE0S2FHLWJkZ2t3WTRiMVZkVzZHVUt5N0lOMndWZUtKS3laV19IRGhQdmlKTUNSNURsX191WjNXd1htek92MUZuMDZzU0hMTFFXTUI4VUZqRDFZRjNxYWwxZDJtUUNaaTNoQk8xSzhCblRzaWxtY1dGR3FDb1Vla2s1QTRxeFFRMkhYLVJscVdUNHVsRDl2ZW9NaE9wTW9ocGxrTVlEelRZZFBOZmJodVRkWXM0UQ?oc=5",
+        "summary": "US OPEN: Earnings misses and rising oil push indexes lower XTB.com US OPEN: Earnings misses and rising oil push indexes lower - XTB.com",
+        "published": "Thu, 22 Oct 2026 14:35:04 GMT",
+        "published_kst": "2026-10-22T23:35:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US EQUITY OPEN: Mag-7 earnings lead Tech and Indices lower as the Middle East situation remains fragile - Newsquawk",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVE1YdDBycDBXRTVyTWFja1BtUkJkUXhRMVNsdGl5R2Fib2ZTRjllN0pKbmF3VWRVNl9JRV80R015eFZ4M2hUd01qOGZybmlrWG1xejhaY1pheFRnMGJSYml4TVFQVkNBOTNqc0R3ZDNQTGMtZjJsM21hSGRBMU9KRzVVR3FLNE5mSGg3bk9ZUnpvU0VyZzFuNFdhOFl5emc4NFUyZ0htSWFUc1RVUUs0ZjJzYVVpTkVxN3NDTjB3UTJSSXVNbWZwYXFoMmRUam9SSnNGVw?oc=5",
+        "summary": "US EQUITY OPEN: Mag-7 earnings lead Tech and Indices lower as the Middle East situation remains fragile Newsquawk US EQUITY OPEN: Mag-7 earnings lead Tech and Indices lower as the Middle East situation remains fragile - Newsquawk",
+        "published": "Thu, 22 Oct 2026 14:15:08 GMT",
+        "published_kst": "2026-10-22T23:15:08+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "‘It Ends with Us’ drama still not over as agency who brutally fired Justin Baldoni seeks huge pay out - Page Six",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNE9oRzFHeW00YXFrd2dyYWFzQ3lxZDNfUGZCUzYtaGpNZVFCY0xDYUhxREt2WW03ZUR4RTRTVzRKRkVENTVlWUxSNkozZjRobHBQcng5QWc2RGc2WWdUUHpYUVZ5ZUtqZXdVOVVrZ3RyS1c3UjRmOGZ0Z1NsSjVwVUY3RVVNTlhzWGRRbHdfUHBoNUNaT0YxcnNQbURSeEpiNmJfZlZta3RienVQNk53LUtFeVFralJMVG1OUU5UWnZJNWx3TzVlZy12U3I5LWxXUUkzTExDNjBhMlZ6VVAzRFdPRk1xY3BFdkNscnFGWTJtRWYyaTFuU1o1TlRQTHN0c1oyX3VlOVl2MGJZYURUTjBTazlFMFA2VnNpRUxtVWE?oc=5",
+        "summary": "‘It Ends with Us’ drama still not over as agency who brutally fired Justin Baldoni seeks huge pay out Page Six ‘It Ends with Us’ drama still not over as agency who brutally fired Justin Baldoni seeks huge pay out - Page Six",
+        "published": "Thu, 22 Oct 2026 13:45:00 GMT",
+        "published_kst": "2026-10-22T22:45:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ],
+    "kr": [
+      {
+        "title": "26 국감] 정치인 출신 작품?…한국 술 영문표기 ‘SOOL’ ‘SUUL’ 두개됐다 - 세정일보",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SWlpNTGMtaXVNOVJ2VVhmSDluZTY4UUpTR2hFZnFDWGZYdFZXdHVXQkdHYXZsVEZHTW15VDcyOFd4bXFEMXZfUFlyTzNUUGpua0FnR1JuYXZ1LUlBZnctUXdINC16VUg3amdyUw?oc=5",
+        "summary": "26 국감] 정치인 출신 작품?…한국 술 영문표기 ‘SOOL’ ‘SUUL’ 두개됐다 세정일보 26 국감] 정치인 출신 작품?…한국 술 영문표기 ‘SOOL’ ‘SUUL’ 두개됐다 - 세정일보",
+        "published": "Thu, 22 Oct 2026 13:47:44 GMT",
+        "published_kst": "2026-10-22T22:47:44+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"30대 여성들 잡아라\"…K2 품에 안긴 네파의 '승부수' [현장+] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qNlk2QmpFdTU1X1lvNzQzcUZlYk05RUVHMk5iMHR5WFhkSHpnTkRaNXNWOUYzQ1VpNmowWDVuOXZ0dFZSVWxmcXc0cVZMYXM1YUtDZm1tcTk1dw?oc=5",
+        "summary": "\"30대 여성들 잡아라\"…K2 품에 안긴 네파의 '승부수' [현장+] 한국경제 \"30대 여성들 잡아라\"…K2 품에 안긴 네파의 '승부수' [현장+] - 한국경제",
+        "published": "Thu, 22 Oct 2026 11:17:57 GMT",
+        "published_kst": "2026-10-22T20:17:57+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"중국 희토류 없이 반도체 만든다\"…TSMC,희토류없는 모터 찾기 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RQmtobjhiM1JaTlBMRVMtYmY4SHo5UnVubTByVnNPa1g2RUhGZkpLeHdMcjNEV1BmWnlvTFR1Um56UlJQWVJDQTN0bkhXT2Qxcy1jSDFnYS1fQQ?oc=5",
+        "summary": "\"중국 희토류 없이 반도체 만든다\"…TSMC,희토류없는 모터 찾기 한국경제 \"중국 희토류 없이 반도체 만든다\"…TSMC,희토류없는 모터 찾기 - 한국경제",
+        "published": "Thu, 22 Oct 2026 11:15:11 GMT",
+        "published_kst": "2026-10-22T20:15:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -115,33 +110,33 @@
     ],
     "world": [
       {
-        "title": "Stord Expands Fulfilment Capability With AMS Acquisition - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYklZNlJrRHFrUWdtcU5qMjhLdHNtenJKc0ZLRzJfRGJGYWNnZnpfUURkMXBaaEVGZFRmVXM0YlRkWk1nZk1MLUtudWdTUkZlTG1Hb3R1MW5tdHd3VzkwNEFqN01BcDZIVXZIMThBUkdhSFd6WWE1cWxCM1lBbGk4SEJncVMwNHd0SWp5NUdYZEJxTEV1VzNZ?oc=5",
-        "summary": "Stord Expands Fulfilment Capability With AMS Acquisition Supply Chain Digital Stord Expands Fulfilment Capability With AMS Acquisition - Supply Chain Digital",
-        "published": "Thu, 22 Oct 2026 09:29:56 GMT",
-        "published_kst": "2026-10-22T18:29:56+09:00",
+        "title": "Supply Chain Resilience: How Much Should the Crop Input Industry Depend on Foreign Sources? - AgriBusiness Global",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUVdFbXB4eGtZRjRUUlZwNXJIb29QS3BtdXdlRGx1X1Z0dmZCTHRTcU9GRjEtdUZPYzl5UWNNUXF1MENxRkh3aTlzWnc1VVpKU0t2cUU5Q0xZV1lFNXpBNW5EQnctcVdLcU44Skc4SUw3TTZ4c0VvZzBuSnRoRU5HaUttaGZTVFhGdXRETjR5QTcwSVhYMHllQThfSXN4NnlHZTRnV25fNV9GckVjX1p3cjQ3YUl0dERaanI1TFJSdDg1OVpUb2YwOXZydC1Wd9IB0wFBVV95cUxQVGhvOGVlb001ZUVTckxieVBjNHhlZ2xuSmVnSHNMZ3NiMWZTVWNkVFRETFZRVWRBN0pMZTFZYlplTW9PcUVpS25HQUwzRzJrdWhLalZJZHRaUzRGelJmN2ltRnlsaTZnRjJNblRuX2FoUjMtRDQ4bXV4RzF3RDg5Y3FCb0Z1VVZzMWkwa2MyUlpNeHdYUF9qTXk3LUhlZF9OYTFPamUxTFRTWHo0LUpqVzh3aVVqUHQwY2FtSU9yWjBGTnU0UHhYUFF4S2c3VC1XUkJr?oc=5",
+        "summary": "AgriBusiness Global Supply Chain Resilience: How Much Should the Crop Input Industry Depend on Foreign Sources?",
+        "published": "Thu, 22 Oct 2026 14:27:12 GMT",
+        "published_kst": "2026-10-22T23:27:12+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Building AI infrastructure without the supply chain bottlenecks - W.Media",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTG1keHZQVFMtMHJXRENXRGVmSjBFOE51UkIybmpYSDZsSUFmUmV0SGw1dzAyWl9USko3Sjk2MGR5alVFY09hVkhGZGhyZFZxRFJCYU5QWlZIa3UzM0Vud2hnMUhYcUFIQnNrOGxBampDVG03UUNucTdKeHpTRnRWMmdEaUpyZTA?oc=5",
-        "summary": "Building AI infrastructure without the supply chain bottlenecks W.Media Building AI infrastructure without the supply chain bottlenecks - W.Media",
-        "published": "Thu, 22 Oct 2026 08:11:00 GMT",
-        "published_kst": "2026-10-22T17:11:00+09:00",
+        "title": "EMPIRE founder Ghazi launches B2B music infrastructure company Supply Chain globally, with Beatport-owned Ampsuite as launch partner - Music Business Worldwide",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObEJUenRwcUpMTGlyUmcxWjFJVjY1MUhFa1JBdDdYc0JNbnRicGJDVE9zblFEREhKTmdUZ2VzdmU5RVNnSEwxa0d6Ujd2dWRZTmZ0aDcwRGFrY19KNUZkMlpDak9SOFowMUg0cXJwcko1dXNHZ1VlLV90TVZGZmhPYVo5aFFNenJVR21PMURDNHV2TExxVTRsU0Joa3UzeFVuTXB2SlliUDhJUk9CSzRnbGh6ZDFORWkxZUxQYVlHZG1mSUpMZTNnTzlDWW9pQ0dYMkxkTzhob2J3U1lVWmJva0VSOWNzRDFjYnJVZkNaSldXYzhlMnFEOU9zbFFIaXdE?oc=5",
+        "summary": "EMPIRE founder Ghazi launches B2B music infrastructure company Supply Chain globally, with Beatport-owned Ampsuite as launch partner Music Business Worldwide EMPIRE founder Ghazi launches B2B music infrastructure company Supply Chain globally, with Beatport-owned Ampsuite as launch partner - Music Business Worldwide",
+        "published": "Thu, 22 Oct 2026 14:24:46 GMT",
+        "published_kst": "2026-10-22T23:24:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo - 36Kr",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNQkh6NE0zTjRWcFppamotV296bDZubG9jV05FaVBXdXBfcXowN0FFMks0R0lXQng2WXozQ1lMcmNtYjhBZVZXTVFBREJyX1VSQ3Br?oc=5",
-        "summary": "Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo 36Kr Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo - 36Kr",
-        "published": "Thu, 22 Oct 2026 05:51:49 GMT",
-        "published_kst": "2026-10-22T14:51:49+09:00",
+        "title": "P&G, Nestlé, Mars, AstraZeneca, ITC and Bekaert win OMP Supply Chain Awards - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUhTN0ktaXIxVUhpX3pBdTdiWXhBWEJUOHRlVFlvc2gydWFtcl91aXl5bVRkN28tNEMyZmRKQjVLVDVuWDkyeEFSQjdVT2VBb3Q1d1M4SzNCdGhKSnYxUEd3c2xtUWpzZ1k2LUE2R0JkNjFZdU9sVXRuVlVwR1ZpMw?oc=5",
+        "summary": "P&G, Nestlé, Mars, AstraZeneca, ITC and Bekaert win OMP Supply Chain Awards Yahoo!",
+        "published": "Thu, 22 Oct 2026 13:00:00 GMT",
+        "published_kst": "2026-10-22T22:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -149,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth. Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce / 한경 '용혜인 비례대표 겸직논란' 이달의 기자상 한국경제 한경 '용혜인 비례대표 겸직논란' 이달의 기자상 - 한국경제 / Stord Expands Fulfilment Capability With AMS Acquisition Supply Chain Digital Stord Expands Fulfilment Capability With AMS Acquisition - Supply Chain Digital",
+  "wrap_summary": "carrier to cut its 2026 forecast this month because of a spike in fuel costs. American Airlines forecasts bigger loss in 2026 on fuel spike, plans to slow growth next year / 26 국감] 정치인 출신 작품?…한국 술 영문표기 ‘SOOL’ ‘SUUL’ 두개됐다 세정일보 26 국감] 정치인 출신 작품?…한국 술 영문표기 ‘SOOL’ ‘SUUL’ 두개됐다 - 세정일보 / AgriBusiness Global Supply Chain Resilience: How Much Should the Crop Input Industry Depend on Foreign Sources?",
   "invest_summary": ""
 }
