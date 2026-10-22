@@ -1,109 +1,110 @@
 {
   "date": "2026-10-22",
-  "generated_at_utc": "2026-10-22T00:15:54Z",
-  "cutoff_kst": "2026-10-22T09:15:00+09:00",
+  "generated_at_utc": "2026-10-22T06:45:40Z",
+  "cutoff_kst": "2026-10-22T15:45:00+09:00",
   "regions": {
     "us": [
-      {
-        "title": "Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
-        "url": "https://www.cnbc.com/2026/10/22/india-data-center-google-amazon.html",
-        "summary": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data. Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use",
-        "published": "Thu, 22 Oct 2026 00:07:48 GMT",
-        "published_kst": "2026-10-22T09:07:48+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
       {
         "title": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
         "summary": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap Bloomberg.com US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap - Bloomberg.com",
-        "published": "Wed, 21 Oct 2026 23:58:56 GMT",
-        "published_kst": "2026-10-22T08:58:56+09:00",
+        "published": "Thu, 22 Oct 2026 05:58:59 GMT",
+        "published_kst": "2026-10-22T14:58:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US Futures Fall After Tesla, Meta Earnings - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWHptUDhFX1NhbGRITXFtV2NzZEhfM095UmVfZ2RyWlVaaF9QMkJjMTRKTFpEbmtKOG9CU2pBelFNZ3NNMU42UDI4akdMeHRuaHVYeEs5MTRkTy1ab0ZGNjZVUjhKNWttNlMzOXVpV1AxcDNqNmZXY0tOTXgyNGNyUmFKTWRzQjl5cHFUN0RmRVNKREE0U0NN?oc=5",
-        "summary": "US Futures Fall After Tesla, Meta Earnings TradingView US Futures Fall After Tesla, Meta Earnings - TradingView",
-        "published": "Wed, 21 Oct 2026 23:38:41 GMT",
-        "published_kst": "2026-10-22T08:38:41+09:00",
+        "title": "White House takes new swipes at press, blocking a reporter and threatening an outlet - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWJGcGpOc2Q3S25MdWhlZTRKZTJfNGVlVlZOc25Fa19lVzlFVU9BbnBBTFR4Wnd2NHZLcWQ4cHZHVFYtMmx0X0kwZFR3cWdjUlJlcWp4d2tKLWJwWE9jQ2JLWWQwYmo3cXR3alJBbm0yUGoyQkEyUW9nRkdsV3NxamdLZDdlRWZ4UGVrVTN2YXVBUFllVkNvNnZpc19iRTJRTjYwMEI3LWtObVV1ZHhLalNiTFJBdzJ1MDNDajFES3FCcm9U?oc=5",
+        "summary": "White House takes new swipes at press, blocking a reporter and threatening an outlet The Washington Post White House takes new swipes at press, blocking a reporter and threatening an outlet - The Washington Post",
+        "published": "Thu, 22 Oct 2026 05:37:00 GMT",
+        "published_kst": "2026-10-22T14:37:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Tesla beats on earnings and sales even as auto revenue declines",
-        "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-        "summary": "Tesla reported better-than-expected third-quarter results. Tesla beats on earnings and sales even as auto revenue declines",
-        "published": "Wed, 21 Oct 2026 23:32:04 GMT",
-        "published_kst": "2026-10-22T08:32:04+09:00",
+        "title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+        "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+        "summary": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes The Middle East conflict could flare up again as the U.S.",
+        "published": "Thu, 22 Oct 2026 05:18:24 GMT",
+        "published_kst": "2026-10-22T14:18:24+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Asia Open: US Stock Futures Slip as Tech Earnings Momentum Fades - The Dark Side Of The Boom",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTR6dGRMcEtQMXY5RDBzcHFVTEx0WUNEUk1tYTdLd01LWjdWd2pCeFo1cmx0OG42TG5SWmw5cGNqWFMyRmlvekhtdUhmZUtZenROVU9vUHZ0NWdOZjkyMnBoN29sMTRrbzRiYWttUExEbmg2N0lkZ1AzNTZnamc2M3JHZjI?oc=5",
-        "summary": "Asia Open: US Stock Futures Slip as Tech Earnings Momentum Fades The Dark Side Of The Boom Asia Open: US Stock Futures Slip as Tech Earnings Momentum Fades - The Dark Side Of The Boom",
-        "published": "Wed, 21 Oct 2026 23:23:48 GMT",
-        "published_kst": "2026-10-22T08:23:48+09:00",
-        "domain": "google.com",
+        "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+        "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
+        "summary": "ordered non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field, reviving fears of a widening regional conflict. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+        "published": "Thu, 22 Oct 2026 04:35:54 GMT",
+        "published_kst": "2026-10-22T13:35:54+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-        "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-        "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening. CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-        "published": "Wed, 21 Oct 2026 22:50:35 GMT",
-        "published_kst": "2026-10-22T07:50:35+09:00",
+        "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+        "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+        "summary": "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens. China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+        "published": "Thu, 22 Oct 2026 04:02:18 GMT",
+        "published_kst": "2026-10-22T13:02:18+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "29%"
+          "20%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "THURSDAY WHITE HOUSE SCHEDULE - President Trump travels to Sioux City, Iowa - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXFOS3hDd2FHajhlQVR4MHlGWVM1Vy0xaFd6eFFOMngtWTh5Q1pTdzhjczFRUW5VeHJuQUZiekk0dU1kdnZxUlpLZ09kRUpLZUg1Y0FScjdFcmFJWjcwbXM1WkZoeFVTa0E3TEJZVHlCZW5NX1BqcDhyWVBtd2twXzhBWDBHZjNqVVRCcTVFLVpsMUg4V0FmYTJYUEVUWk80WXdORXFleU54Y3ZybHhjWHdmd1ozRmRHNnFVTnpqZlZadEQyNzJ4QkVKZw?oc=5",
+        "summary": "THURSDAY WHITE HOUSE SCHEDULE - President Trump travels to Sioux City, Iowa TradingView THURSDAY WHITE HOUSE SCHEDULE - President Trump travels to Sioux City, Iowa - TradingView",
+        "published": "Thu, 22 Oct 2026 03:52:00 GMT",
+        "published_kst": "2026-10-22T12:52:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "엠에스바이오, 코스닥 상장 첫날 89% 급등 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YNVhKaW9CaGV6S1A0bm4zU1lfaUZBUEVTR2xyOWNsaERaTGRRVDdYUC1lV25EZDVnclNVeHhtLTFqUUtvcnNOSmRRWU5VelF0MTIxOUJmbU91dw?oc=5",
-        "summary": "엠에스바이오, 코스닥 상장 첫날 89% 급등 한국경제 엠에스바이오, 코스닥 상장 첫날 89% 급등 - 한국경제",
-        "published": "Thu, 22 Oct 2026 00:07:16 GMT",
-        "published_kst": "2026-10-22T09:07:16+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "89%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SbUM4RmQ0UXBwVjZiMkJtQ0k0dHBkNktnSUJ5Qlp1V3FtWHdwWG1jUDQ0WW03UFF0QlFhR1FRTS1pYVZPamZkTWtlbXd1OXNMUlBQLVJ6V2huUQ?oc=5",
-        "summary": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회 한국경제 테슬라, 3분기 매출 281억 달러…시장 예상치 상회 - 한국경제",
-        "published": "Wed, 21 Oct 2026 23:52:10 GMT",
-        "published_kst": "2026-10-22T08:52:10+09:00",
+        "title": "장동혁 ‘욕설 녹취’ 공개에 민주 “정치서 퇴출돼야” - 한겨레",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1INVNINHZJNmw5ZFoxNkVhZnQtZkdvaEV0M2ctdTVvNVJpSjE3bG9maEc5Y2YwNUdPWE93bHd0TWtnOXhPWE50QW1BRkg4OXhtVGdqMDZQRjFhN0hNQ3djbEJNWXRoM0NyYjhVYzIwRTdjOG1R?oc=5",
+        "summary": "장동혁 ‘욕설 녹취’ 공개에 민주 “정치서 퇴출돼야” 한겨레 장동혁 ‘욕설 녹취’ 공개에 민주 “정치서 퇴출돼야” - 한겨레",
+        "published": "Thu, 22 Oct 2026 06:35:00 GMT",
+        "published_kst": "2026-10-22T15:35:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"새 아파트 내놔도 외면\"…부산 청약시장 '수요 절벽' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iQTRzN2MxdUJLZUFrdmwyTjB0UXRSWDMwQjJ0TWZLSjJrNlhTRC1VaHpOLVh4Mi12STN4WUFTOUQyancwUkM5SFlzWm15QzJ2V2NOUE5EVUQzdw?oc=5",
-        "summary": "\"새 아파트 내놔도 외면\"…부산 청약시장 '수요 절벽' 한국경제 \"새 아파트 내놔도 외면\"…부산 청약시장 '수요 절벽' - 한국경제",
-        "published": "Wed, 21 Oct 2026 23:41:55 GMT",
-        "published_kst": "2026-10-22T08:41:55+09:00",
+        "title": "[속보] 코스피, 낙폭 키워 3.5% 급락 마감…코스닥도 3.6%↓ - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9laWhOQ0o1a1ZSdkRUXzF5dVdER3ZnOXNSd25qRVNINHc3NHZUSWdxcC1jZFRoc0JZOVoyQmFBcGp6LW95MVVyRTBUam81VnBhb1FGOHRDdGJBUQ?oc=5",
+        "summary": "[속보] 코스피, 낙폭 키워 3.5% 급락 마감…코스닥도 3.6%↓ 한국경제 [속보] 코스피, 낙폭 키워 3.5% 급락 마감…코스닥도 3.6%↓ - 한국경제",
+        "published": "Thu, 22 Oct 2026 06:34:55 GMT",
+        "published_kst": "2026-10-22T15:34:55+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "3.5%",
+          "3.6%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "마켓워치 - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTk1uQ3lUWDRMQnltaWVaNHZqTENqMUF5N0NCR3RYeEFHdlhpSGJyZjNFSWcyQjdvWVI2ekp1RG1TQjhXWGZRMDlJaDBZVXRXLVFobFJCcVdtM1g4WXQwWUFUeU5vbmh2TC1fd3Y0YWU1N3ZqeXgzU2JyMWVEeHdaVnpOZEhSeUdQVGRRejcwczUxMVZUN2pGbzVoS20xdmxUNDJj?oc=5",
+        "summary": "마켓워치 한국경제TV 마켓워치 - 한국경제TV",
+        "published": "Thu, 22 Oct 2026 06:26:35 GMT",
+        "published_kst": "2026-10-22T15:26:35+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +113,33 @@
     ],
     "world": [
       {
-        "title": "Nvidia taps Samsung Electro-Mechanics for AI chips substrate supply chain - Korea JoongAng Daily",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNWJSWlUxTDhUWTBac3YybHlXOTBiQUlvOE1zU3JaNEJEc3JZZWZHNzdjR0xqQjd3Y0tjQjJwQ0diUDVOd0lSQXdXT1Y1Nk5TdWRNWjUzSVA3NkZkdDF2cUV4T1hPYjJ3VFdzWjFnS3NVVEFvc2ViYWx3TmZTbnZYU1VUdmFTTk1JTmhieXJzMzY2Vk53d0lkNXBDWXIzUmhXRmpSaVhUbWN4VF9oR2tONUR5OFhPSU5RRkxBY3FNdXNZM00?oc=5",
-        "summary": "Nvidia taps Samsung Electro-Mechanics for AI chips substrate supply chain Korea JoongAng Daily Nvidia taps Samsung Electro-Mechanics for AI chips substrate supply chain - Korea JoongAng Daily",
-        "published": "Wed, 21 Oct 2026 23:56:26 GMT",
-        "published_kst": "2026-10-22T08:56:26+09:00",
+        "title": "Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo - 36Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNQkh6NE0zTjRWcFppamotV296bDZubG9jV05FaVBXdXBfcXowN0FFMks0R0lXQng2WXozQ1lMcmNtYjhBZVZXTVFBREJyX1VSQ3Br?oc=5",
+        "summary": "Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo 36Kr Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo - 36Kr",
+        "published": "Thu, 22 Oct 2026 05:51:49 GMT",
+        "published_kst": "2026-10-22T14:51:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "NVIDIA Expands AI Infrastructure Capacity With Global Supply Chain Partners - The Fast Mode",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZWZtWkpvdC1ONm1ZWG1sNkZDc2haNy1jNnVxOEM3bWtQUWZWTjA2R2hGWGlReDlwTGRiT1VmdFJ3UmdaVnpoVUZMLTVneUkyQkVXdy0wSG5PQVJyblNHSnMxUnR5bmVRMlBlS0xHVjZpTkFjdGlWaUIyZzRQNWFKbnl0V2I2Q2gxR19jVjNqRmVmbGhjaDZqSlQ2TjdfQlhkR0xPU2s1d3c1dDJVM2twR0hwZjI3Q0tpU3daUGtrVHBnenZRM1hEeUZR?oc=5",
-        "summary": "NVIDIA Expands AI Infrastructure Capacity With Global Supply Chain Partners The Fast Mode NVIDIA Expands AI Infrastructure Capacity With Global Supply Chain Partners - The Fast Mode",
-        "published": "Wed, 21 Oct 2026 23:06:52 GMT",
-        "published_kst": "2026-10-22T08:06:52+09:00",
+        "title": "Nvidia expands supply chain capacity to support AI growth - Telecompaper",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGRNQU1Ca0dydG5NYVVsWWMxaWtVQ3UxeTNtTHB5NGVrNmhnOEhSS0twc2Ezc1daaU1Rc3ZndnVGM2NGRE9mM091VUVCeFBxenBMb3FYSUR2X05Va0F4TWpjVzdvZDQyWVRFOEFVUzMxMkdvQjVqdVJIRjYtNGZFUmhoOXZ0VXM4QTZZOGdNUTR1MC1ZMk4wU0ZkUTVSMWxpM3c?oc=5",
+        "summary": "Nvidia expands supply chain capacity to support AI growth Telecompaper Nvidia expands supply chain capacity to support AI growth - Telecompaper",
+        "published": "Thu, 22 Oct 2026 05:10:35 GMT",
+        "published_kst": "2026-10-22T14:10:35+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Sweeping changes to agri-food supply chain needed to tackle global food shortages - Phys.org",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vZW54Tm9iMG5lMkhSUURxemtYQnlUSjUza0s2Ymg3dzF5eDF0MHlUNmpJT1g5S2txM25SbS10SHp6NXJ5VDc4QTY2ZVYyWW9wUmY4bDdHZHVPcEhVZ1NWMkg3OEF2S1VBeU5JYVdiajNrZw?oc=5",
-        "summary": "Sweeping changes to agri-food supply chain needed to tackle global food shortages Phys.org Sweeping changes to agri-food supply chain needed to tackle global food shortages - Phys.org",
-        "published": "Wed, 21 Oct 2026 22:30:09 GMT",
-        "published_kst": "2026-10-22T07:30:09+09:00",
+        "title": "Former Home Depot supply chain leader and US retail veteran Colby Chiles joins TMX Transform - Retail Technology Innovation Hub",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JNQmthUlp2MVNuSFh6MUxkbFZVM2FvdXJhOGE3SE1mclFqRk1YUzE0UE1JQWpsSjRPa2NSUWt2YnJvTm5tWHFpWTZjeV9leDRRbU55Ymx6SE1lRWdyLVlEN2NyYk93VzRVdkhaRDZ4NVR4ZEQ3dzM0bG00Mlp6QXBCWmoxNmQycmk5M0pCclF0VTlFNEgybHlCUjRycnFXQl9Vd2dORDB3dEFUQ2lQejJhekRpa0g5STJtb1MtdFV5YkUtX2lWOVM5Nm5UZDJTcnd0bWtVa3pPa1lRSzZqNHZR?oc=5",
+        "summary": "Former Home Depot supply chain leader and US retail veteran Colby Chiles joins TMX Transform Retail Technology Innovation Hub Former Home Depot supply chain leader and US retail veteran Colby Chiles joins TMX Transform - Retail Technology Innovation Hub",
+        "published": "Thu, 22 Oct 2026 04:28:04 GMT",
+        "published_kst": "2026-10-22T13:28:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "India is grappling with growing public anger against data centers that pose a threat to its ambitions to host the whole world's data. Inside India newsletter: Asia’s hottest data center market aims to quell concerns over water and power use / 엠에스바이오, 코스닥 상장 첫날 89% 급등 한국경제 엠에스바이오, 코스닥 상장 첫날 89% 급등 - 한국경제 / Nvidia taps Samsung Electro-Mechanics for AI chips substrate supply chain Korea JoongAng Daily Nvidia taps Samsung Electro-Mechanics for AI chips substrate supply chain - Korea JoongAng Daily",
+  "wrap_summary": "US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap Bloomberg.com US Stock Futures Slip as Tech Earnings Rally Fades: Markets Wrap - Bloomberg.com / 장동혁 ‘욕설 녹취’ 공개에 민주 “정치서 퇴출돼야” 한겨레 장동혁 ‘욕설 녹취’ 공개에 민주 “정치서 퇴출돼야” - 한겨레 / Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo 36Kr Apple's Production Capacity Growing Pains: The Hidden Supply Chain Battle Behind the Limited Release of iPhone Duo - 36Kr",
   "invest_summary": ""
 }
