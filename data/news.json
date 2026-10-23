@@ -1,74 +1,72 @@
 {
   "date": "2026-10-23",
-  "generated_at_utc": "2026-10-22T17:51:59Z",
-  "cutoff_kst": "2026-10-23T02:51:00+09:00",
+  "generated_at_utc": "2026-10-23T00:12:53Z",
+  "cutoff_kst": "2026-10-23T09:12:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-        "url": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-        "summary": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC. Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-        "published": "Thu, 22 Oct 2026 17:49:53 GMT",
-        "published_kst": "2026-10-23T02:49:53+09:00",
+        "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
+        "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
+        "summary": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement. Etsy bans AI-generated recipes and patterns from its online marketplace",
+        "published": "Thu, 22 Oct 2026 23:45:50 GMT",
+        "published_kst": "2026-10-23T08:45:50+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
-        "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
-        "summary": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns. Meta stock sinks 6% as AI spend pushes free cash flow negative",
-        "published": "Thu, 22 Oct 2026 17:48:43 GMT",
-        "published_kst": "2026-10-23T02:48:43+09:00",
+        "title": "Japan core inflation in September surges to its highest this year at 2.1%",
+        "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
+        "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters. Japan core inflation in September surges to its highest this year at 2.1%",
+        "published": "Thu, 22 Oct 2026 23:43:51 GMT",
+        "published_kst": "2026-10-23T08:43:51+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "6%"
+          "2.1%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Elon Musk invests about $1 billion in Skydance",
-        "url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-        "summary": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk. Elon Musk invests about $1 billion in Skydance",
-        "published": "Thu, 22 Oct 2026 17:42:58 GMT",
-        "published_kst": "2026-10-23T02:42:58+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$1"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Deportations climb under Trump but fall short of White House target, a new report finds - The Seattle Times",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0pPNmNGTGpmSjN2QjhiS2FqQnM5RDUxOWpMS0NEZ3pndGFEZ2l6QVF4a0o0d0RfZFB0cGJJa1NXZ1lGX09fV0hTcUpyb0RHZG04WWpKZXY5eEZKempRV0xYNUlTTGdvbmtpdENXZ0VDUzRtU1FsZ0N4elpRYU1ZXzRPNWUxXy03NkxzbDAtNURrTnZTN0tULTk0eFdNZGx6ZTJnR3RCY3JOX2lMQkVKek9fLVFicmJ3RGk3SzVQMVBoeUN5OXBldlIzSjFJVERNZXc?oc=5",
-        "summary": "Deportations climb under Trump but fall short of White House target, a new report finds The Seattle Times Deportations climb under Trump but fall short of White House target, a new report finds - The Seattle Times",
-        "published": "Thu, 22 Oct 2026 17:39:26 GMT",
-        "published_kst": "2026-10-23T02:39:26+09:00",
+        "title": "In Iowa, Trump struggles with economic woes of farm country - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlBubzdGb3MzZzJlT0RaeGV4eUdfcVBwS0UydG92UU1tZGhVcENPdGMxdFVDNElTdWRkYkx1ZUVqQnZrWFp3UTVCVGlVTXlhM3hVYlp0Q1Y3U3pDaks3OTBDdGw0TUpVdnRsSzhRTFdRQnNFQzVaeUtvTjZIWEliWlJNbzdseFpEZTRuX1JvQkJPWTVxSkU1Uk5vdFdvQXRGWDdzZTdEUQ?oc=5",
+        "summary": "In Iowa, Trump struggles with economic woes of farm country The Washington Post In Iowa, Trump struggles with economic woes of farm country - The Washington Post",
+        "published": "Thu, 22 Oct 2026 23:00:56 GMT",
+        "published_kst": "2026-10-23T08:00:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Politico corrects Susie Wiles-Katie Zacharia article after White House threatens 'consequences' - New York Post",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYk92RzVRbXhrcTNGVmRfeWtpTTlBR2FDWkx5RFZIYldUeUJ2YmdMSmt3SVlQQjJJdHU1LTBwMEJ5S0I0Q3JueUItcVRqbDF4X05SNmpNaGJ3TWR1dzFzMUtRRFRUYnBLbDM1dmEwZGVlYjhiSDhia3hfZEg5cmQ3alpoT2QtVUJ0ZlJWampVMEl2OFAwZWJxN1FQU3pHc1FsM25BZ1FrdW1SVGRaRkg3N1lmNlBSbHVYUEJLQlVqTTVVU1JRWm9LQUh3?oc=5",
-        "summary": "Politico corrects Susie Wiles-Katie Zacharia article after White House threatens 'consequences' New York Post Politico corrects Susie Wiles-Katie Zacharia article after White House threatens 'consequences' - New York Post",
-        "published": "Thu, 22 Oct 2026 17:14:00 GMT",
-        "published_kst": "2026-10-23T02:14:00+09:00",
+        "title": "'You're a dummy' | Trump calls CNN's Kaitlan Collins 'a low-IQ person' during spat - WBMA",
+        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOeGZWN19wWG9yUHNnVnJWN3ppSUp1dkdBT21KMkMyYmRkdEt4cHRwRE5ib1JfMXpxeWRWV2lNZlZGTWVENVlEWkRFMmhwNVdDdFItcTRPNlplcVJCRWtQbHdMaFo3Z194UWlndHROUmZVUzgyU3dsbzhTMEZfcnJBNlNYOGN0aGZ6Z1hsYWREeVVwTF85aVkycGhNaVRoblBTOUp4R244UWFjZDl4SmtkdDBNU1dsQUNGbGg5cHZCckwzUGNWaEhrRVhsWEl2M2VfTmdlSEEyS1kybzNMYzVhYW45WGlIdVM2eElHSVhJQ2QzckVpZk5mVy1kNzNldUVxMUNQWTZUXzdjcmxWNnEwZnZHOFQxbjRHY0FJYV90N2dPeGdCWTk4UmJLVGhyUEl4VUFwREtidi15MVFXaVlQbTM5clAyTGdBb3RwSHVqSGJqbEJKTzBr?oc=5",
+        "summary": "'You're a dummy' | Trump calls CNN's Kaitlan Collins 'a low-IQ person' during spat WBMA 'You're a dummy' | Trump calls CNN's Kaitlan Collins 'a low-IQ person' during spat - WBMA",
+        "published": "Thu, 22 Oct 2026 22:35:55 GMT",
+        "published_kst": "2026-10-23T07:35:55+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump lashes out at White House reporter as feud with journalists continues - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3JjblBvZWlDMGlGLVVMcUNSRnBFMGg2aDg1MGM4ZjBaZkhLakhGZnBDRmFOS3pSa18xRU9FQlNid2l2MVkwX19jNkpTZkY4VWRFWnZNcUV2Sm1vazA5bVhFWEg0WGFQcEVhUnk3b01VZ2RsUkNuY3Zmek9Lcjd6Z3pjZ1E2ZzhkT1ZETGxfeUpXUkQxb2NXTGgzbmdZd0M3NVd1bkE4T2hDUHhWQUhwSg?oc=5",
-        "summary": "Trump lashes out at White House reporter as feud with journalists continues The Hill Trump lashes out at White House reporter as feud with journalists continues - The Hill",
-        "published": "Thu, 22 Oct 2026 17:13:00 GMT",
-        "published_kst": "2026-10-23T02:13:00+09:00",
+        "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+        "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+        "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes. Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+        "published": "Thu, 22 Oct 2026 22:21:08 GMT",
+        "published_kst": "2026-10-23T07:21:08+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump's attacks on the press have become a war - NPR",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0VZOVd1WnpnQjg1TXFMVnFVMFdrSFlNX2RSQllqMEtUd3F5Sk8xVlg2SGJVS3BGakRoUWd1Y2xGM1ZWZlkzMmNFLTUtREhocURNOGRBekJ1WDJ1RzlZNFdiM2hpTzNhYUNZejlmMW5HdTkwdWxXd0ttR2IxTmNXUEJpbVhxd0MwZXZ5MVVBY3k5SzVk?oc=5",
+        "summary": "Trump's attacks on the press have become a war NPR Trump's attacks on the press have become a war - NPR",
+        "published": "Thu, 22 Oct 2026 22:06:17 GMT",
+        "published_kst": "2026-10-23T07:06:17+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -77,33 +75,33 @@
     ],
     "kr": [
       {
-        "title": "럭셔리 브랜드 일군 사업가…캐시미어로 '한 마을' 살렸다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PMkN6V0hzUzZUWGNtUXgtTGNRUVdMN0hadW5ySkpvcWQ1STZOdE9lU2JtMmU3Ry1lX0JfQlVrV3MtTEx5UU1Xcko3blVwTzl0aW8zZVRqOE4tUQ?oc=5",
-        "summary": "럭셔리 브랜드 일군 사업가…캐시미어로 '한 마을' 살렸다 한국경제 럭셔리 브랜드 일군 사업가…캐시미어로 '한 마을' 살렸다 - 한국경제",
-        "published": "Thu, 22 Oct 2026 16:56:00 GMT",
-        "published_kst": "2026-10-23T01:56:00+09:00",
+        "title": "스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MT2VEb3RGNzZHYlNiUzlzY0NkbGJ4cDFDU1UyLWRHc1VNX1dqSHpraVpMSjFEVzFpc1BIZFBEU3lVd0FIQU5Va2N6Wm4zX05TQVBKckUwX0pGZw?oc=5",
+        "summary": "스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 한국경제 스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 - 한국경제",
+        "published": "Thu, 22 Oct 2026 23:25:06 GMT",
+        "published_kst": "2026-10-23T08:25:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "내전·국경 분쟁 격화…동남아 경제성장 발목 잡나 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xYTVqaFY1ZElGazllSDY0QkxEaVJkdnBabFNUTWRUcW1Kak9wWUtlX0NhSW1WdXdYb3kwV3JILThGN3MyYnhCVWQ4Vmx6Q19mWFNHTUtTby1Mdw?oc=5",
-        "summary": "내전·국경 분쟁 격화…동남아 경제성장 발목 잡나 한국경제 내전·국경 분쟁 격화…동남아 경제성장 발목 잡나 - 한국경제",
-        "published": "Thu, 22 Oct 2026 16:44:00 GMT",
-        "published_kst": "2026-10-23T01:44:00+09:00",
+        "title": "\"취업하기도 전에 일자리 뺏길 판\"…취준생들 '공포' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90amluTHQwMHpkMUwxb1BfeUFSekNpLUVYS3k5UjJjY29GRkJmek1LelJJcGE3ODJ6UkVnY3NQVExtWkxnWmEwcVkzYWJicldjTlphQzQ2dGROUQ?oc=5",
+        "summary": "\"취업하기도 전에 일자리 뺏길 판\"…취준생들 '공포' 한국경제 \"취업하기도 전에 일자리 뺏길 판\"…취준생들 '공포' - 한국경제",
+        "published": "Thu, 22 Oct 2026 23:08:19 GMT",
+        "published_kst": "2026-10-23T08:08:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'거액 지급 사태 직면' 메타, 한국·일본과 청소년 SNS 규제 도입 논의 - YTN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YRzBIckRMNmhVWXBkeEtNQi1aNHVSWUhvSEhiYTdUeWFOZkhZS3lpcTdScndfTTlIWGl1aDFpakhKQ1Zna3pGT0dnQ3gzYjdBWTlZYWFxSFM4T2tpVGc?oc=5",
-        "summary": "'거액 지급 사태 직면' 메타, 한국·일본과 청소년 SNS 규제 도입 논의 YTN '거액 지급 사태 직면' 메타, 한국·일본과 청소년 SNS 규제 도입 논의 - YTN",
-        "published": "Thu, 22 Oct 2026 15:44:00 GMT",
-        "published_kst": "2026-10-23T00:44:00+09:00",
+        "title": "美증시,기술주 투매에 폭락...솔리다임 IPO 중단 [오늘 아침, 당신이 알아야 할 7가지] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EMlRJX3JaNjZoZGNnV2k1MGpleXVBbXhmeEtUdVA1SGlrODFkdTE0aHFwRUM3TTZrQ2RsTzM3NUtLbTNIMnJHUnhDSUQ2VXBNYmp1VE8wZjAzUQ?oc=5",
+        "summary": "美증시,기술주 투매에 폭락...솔리다임 IPO 중단 [오늘 아침, 당신이 알아야 할 7가지] 한국경제 美증시,기술주 투매에 폭락...솔리다임 IPO 중단 [오늘 아침, 당신이 알아야 할 7가지] - 한국경제",
+        "published": "Thu, 22 Oct 2026 22:58:56 GMT",
+        "published_kst": "2026-10-23T07:58:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +110,35 @@
     ],
     "world": [
       {
-        "title": "Sanofi Invests in Insulin Plant in Frankfurt - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVNyRjlqMzgyRWJISERKakcwR0QyYVJCMUlHWEZrVzc5OEE2NUw0X294TzBBNnkzdDk5SFItNkpnbm9sWmhGRlRJVzE3eE4wMFpxcHk4dXpCVmJHdm5sekpkQlNMZXlHTmE5Z1pLVXJBb2RwTDNfYW93T2xOSFlTc0lwYXZKMkk?oc=5",
-        "summary": "Sanofi Invests in Insulin Plant in Frankfurt Supply Chain Digital Sanofi Invests in Insulin Plant in Frankfurt - Supply Chain Digital",
-        "published": "Thu, 22 Oct 2026 17:04:46 GMT",
-        "published_kst": "2026-10-23T02:04:46+09:00",
+        "title": "Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy - NDTV",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFpCY0J5VTM3RTUtTEd3d0VHb1U0TV82SDdzQ1E3V1pVQjMxczl6WnhjMjlDMXppajZhNUpGTjBJUzN3RXYwakxpYWZXV1JTTHdlWGlCTE9aMEpEakhMWXlzWGNvRjZ3dThiU2FReG5idVY0X0xacHFham1EWG4zbVdLUko2SWk5M2ZoSmxxYnhwcDYxU080MG5IVmo4WkJxelpuSUxUSjhzZ3BONFFyNNIBuAFBVV95cUxNaUU1Z2N5QWg4dmMzdGdyUE9PaTBtajVJQTBXMzB5SElOMnhnVjB0TXJQSmZkMXd6VFpTc0xnN1NwcHRZWlFONU0yTmtSXzJsSWtIUFhQZ3lKUU10WHhQZzhHQUJIWlZfUUNmVUxYR1I0VkRadVl1WUVYOWR3VTMwTm53U0YxSGpCZE9Jcy1kYmNwamI1MlZEYTJjMnpBY25mSVFVV09QQldDNzNzWHRoYk40RHl5RFEy?oc=5",
+        "summary": "Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy NDTV Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy - NDTV",
+        "published": "Thu, 22 Oct 2026 23:12:06 GMT",
+        "published_kst": "2026-10-23T08:12:06+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$1"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "China International Supply Chain Expo in Beijing - The Daily News | Texas' Oldest Newspaper",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONDNocWZ6enhwUUFpU2NwVDVSWEE1ZVhZMnFELWlSa0kzOHUtYTZ0YkNiZW9OWVgyM2s4bTRBTjVKa1p5NC1uMXczWmI2c08tR1lpOThZeHJZQV9HYkVVOTBLT2p5Y0xTY1FkMFlyNWlTMDBQWTQyZ2wzUkFadTdZcDVFZmdzN21URjM0b0NDbTdiVVV6WkN0WlZnU1NIZ0h5VnB4QTFCZm0zTmZXeTR0TXdZQURJcXlseUEwQllhSDRKamphNEwxekxIT1djVG54RWQxRnVCaTFrbm8?oc=5",
+        "summary": "China International Supply Chain Expo in Beijing The Daily News | Texas' Oldest Newspaper China International Supply Chain Expo in Beijing - The Daily News | Texas' Oldest Newspaper",
+        "published": "Thu, 22 Oct 2026 22:55:28 GMT",
+        "published_kst": "2026-10-23T07:55:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Diversified Foodservice Supply Appoints Chris Cassidy as Chief Operating Officer - Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTHJpZm9xckNFWVctVERNWFZNalZDc0cwTXg0MmlGellJUlFCbkxQdk5ZdTkxekpNM2J4RVB0MzgzUmdwVXBsSUlSUEsyaVJnTTUtN0J2Qk1zR2dlU0MtazB3OEFiQTAxRWlNS0VMOWJfVHRRN3pUN1V4TEpXWDdPVEQtbEtjaDZVejd2dXRFT1dRQjVvejM5WGpaVU5VRmR3cnI1UmRYTXZaMzduUVVUR0xScGRuaGV4aERMcVUxdk5kSTdKeXczZTROdFUtOEYwLUpDMmY1UWk?oc=5",
-        "summary": "Diversified Foodservice Supply Appoints Chris Cassidy as Chief Operating Officer Morningstar Diversified Foodservice Supply Appoints Chris Cassidy as Chief Operating Officer - Morningstar",
-        "published": "Thu, 22 Oct 2026 15:04:00 GMT",
-        "published_kst": "2026-10-23T00:04:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Supply Chain Resilience: How Much Should the Crop Input Industry Depend on Foreign Sources? - AgriBusiness Global",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUVdFbXB4eGtZRjRUUlZwNXJIb29QS3BtdXdlRGx1X1Z0dmZCTHRTcU9GRjEtdUZPYzl5UWNNUXF1MENxRkh3aTlzWnc1VVpKU0t2cUU5Q0xZV1lFNXpBNW5EQnctcVdLcU44Skc4SUw3TTZ4c0VvZzBuSnRoRU5HaUttaGZTVFhGdXRETjR5QTcwSVhYMHllQThfSXN4NnlHZTRnV25fNV9GckVjX1p3cjQ3YUl0dERaanI1TFJSdDg1OVpUb2YwOXZydC1Wd9IB0wFBVV95cUxQVGhvOGVlb001ZUVTckxieVBjNHhlZ2xuSmVnSHNMZ3NiMWZTVWNkVFRETFZRVWRBN0pMZTFZYlplTW9PcUVpS25HQUwzRzJrdWhLalZJZHRaUzRGelJmN2ltRnlsaTZnRjJNblRuX2FoUjMtRDQ4bXV4RzF3RDg5Y3FCb0Z1VVZzMWkwa2MyUlpNeHdYUF9qTXk3LUhlZF9OYTFPamUxTFRTWHo0LUpqVzh3aVVqUHQwY2FtSU9yWjBGTnU0UHhYUFF4S2c3VC1XUkJr?oc=5",
-        "summary": "AgriBusiness Global Supply Chain Resilience: How Much Should the Crop Input Industry Depend on Foreign Sources?",
-        "published": "Thu, 22 Oct 2026 14:27:12 GMT",
-        "published_kst": "2026-10-22T23:27:12+09:00",
+        "title": "FCC grants Intel waiver for foreign-made robotic devices - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
+        "summary": "FCC grants Intel waiver for foreign-made robotic devices Reuters FCC grants Intel waiver for foreign-made robotic devices - Reuters",
+        "published": "Thu, 22 Oct 2026 22:36:47 GMT",
+        "published_kst": "2026-10-23T07:36:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC. Lawsuit accuses Trump of illegally profiting off foreign crypto deals / 럭셔리 브랜드 일군 사업가…캐시미어로 '한 마을' 살렸다 한국경제 럭셔리 브랜드 일군 사업가…캐시미어로 '한 마을' 살렸다 - 한국경제 / Sanofi Invests in Insulin Plant in Frankfurt Supply Chain Digital Sanofi Invests in Insulin Plant in Frankfurt - Supply Chain Digital",
+  "wrap_summary": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement. Etsy bans AI-generated recipes and patterns from its online marketplace / 스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 한국경제 스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 - 한국경제 / Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy NDTV Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy - NDTV",
   "invest_summary": ""
 }
