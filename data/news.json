@@ -1,15 +1,61 @@
 {
   "date": "2026-10-23",
-  "generated_at_utc": "2026-10-23T00:12:53Z",
-  "cutoff_kst": "2026-10-23T09:12:00+09:00",
+  "generated_at_utc": "2026-10-23T06:39:09Z",
+  "cutoff_kst": "2026-10-23T15:39:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Etsy bans AI-generated recipes and patterns from its online marketplace",
-        "url": "https://www.cnbc.com/2026/10/22/etsy-bans-ai-generated-recipes-patterns-from-its-online-marketplace.html",
-        "summary": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement. Etsy bans AI-generated recipes and patterns from its online marketplace",
-        "published": "Thu, 22 Oct 2026 23:45:50 GMT",
-        "published_kst": "2026-10-23T08:45:50+09:00",
+        "title": "Falling exports to China take toll on US businesses, jobs - chinadailyhk",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85NHBVOEdkN1FXZVZsYkJNMEUxR1R2NksyelB3RXlHQTN6WFozcmhZMVlLLWZxa1NNZWpSVllsMnlHVUhhVGpRdVVBZ2ltWXljTFRjbHRHdTM?oc=5",
+        "summary": "Falling exports to China take toll on US businesses, jobs chinadailyhk Falling exports to China take toll on US businesses, jobs - chinadailyhk",
+        "published": "Fri, 23 Oct 2026 06:24:33 GMT",
+        "published_kst": "2026-10-23T15:24:33+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+        "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+        "summary": "European governments race to turn defense spending pledges into military capability, boosting companies' order books. Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+        "published": "Fri, 23 Oct 2026 06:15:54 GMT",
+        "published_kst": "2026-10-23T15:15:54+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Video: Opinion | Why the White House Won’t Say ‘A.I.’ - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVNmanN6UnNwTFd0STJERjRCTmhCdUtyNk8zS3A1MkhQYzFLcndON3RlbklNYkt6dlJhZS0yTlpZQzJMTlNHdzBHeFVHTVlhcUJFODFhbDFUa2w4TUdPOHJlX0Faa0RDS3JCVnBwa0VHOWNNOTFyVWp1eDF1QTRMMFdFUzBoWURSa0h3LUJwSWpNN0xM?oc=5",
+        "summary": "Video: Opinion | Why the White House Won’t Say ‘A.I.’ The New York Times Video: Opinion | Why the White House Won’t Say ‘A.I.’ - The New York Times",
+        "published": "Fri, 23 Oct 2026 06:02:49 GMT",
+        "published_kst": "2026-10-23T15:02:49+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump says Bombardier to invest $270 million in the US - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemtGRXNpT21YcE5fQXNKYnZ4cDJlUEFndWloSjV3WUZjaXVDNDMyNll1VTVCWHpfWTd3a21mYmE2dFZjWUJUM0NYQXF5dnlTZXhZd0FwdTM2eUpKOUZ2eUFYSVdrMi1CZUhoWExkR056ckxLQzhHM1ppbDJvUzdkOHNqVzdTeEUwTDF2R1FKT2E3NUhRUmZPb1lNbWM5dw?oc=5",
+        "summary": "Trump says Bombardier to invest $270 million in the US Yahoo Finance Trump says Bombardier to invest $270 million in the US - Yahoo Finance",
+        "published": "Fri, 23 Oct 2026 05:15:24 GMT",
+        "published_kst": "2026-10-23T14:15:24+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$270"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+        "url": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+        "summary": "bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth. Bankers and lawyers say Chinese clients' demand for U.S.",
+        "published": "Fri, 23 Oct 2026 04:55:59 GMT",
+        "published_kst": "2026-10-23T13:55:59+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -18,107 +64,77 @@
       {
         "title": "Japan core inflation in September surges to its highest this year at 2.1%",
         "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html",
-        "summary": "Core inflation, which strips out prices of fresh food, was in line with than the 2.1% forecast by economists polled by Reuters. Japan core inflation in September surges to its highest this year at 2.1%",
-        "published": "Thu, 22 Oct 2026 23:43:51 GMT",
-        "published_kst": "2026-10-23T08:43:51+09:00",
+        "summary": "Core inflation, which strips out prices of fresh food, was in line with the 2.1% forecast by economists polled by Reuters. Japan core inflation in September surges to its highest this year at 2.1%",
+        "published": "Fri, 23 Oct 2026 00:55:11 GMT",
+        "published_kst": "2026-10-23T09:55:11+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "2.1%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "In Iowa, Trump struggles with economic woes of farm country - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlBubzdGb3MzZzJlT0RaeGV4eUdfcVBwS0UydG92UU1tZGhVcENPdGMxdFVDNElTdWRkYkx1ZUVqQnZrWFp3UTVCVGlVTXlhM3hVYlp0Q1Y3U3pDaks3OTBDdGw0TUpVdnRsSzhRTFdRQnNFQzVaeUtvTjZIWEliWlJNbzdseFpEZTRuX1JvQkJPWTVxSkU1Uk5vdFdvQXRGWDdzZTdEUQ?oc=5",
-        "summary": "In Iowa, Trump struggles with economic woes of farm country The Washington Post In Iowa, Trump struggles with economic woes of farm country - The Washington Post",
-        "published": "Thu, 22 Oct 2026 23:00:56 GMT",
-        "published_kst": "2026-10-23T08:00:56+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "'You're a dummy' | Trump calls CNN's Kaitlan Collins 'a low-IQ person' during spat - WBMA",
-        "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOeGZWN19wWG9yUHNnVnJWN3ppSUp1dkdBT21KMkMyYmRkdEt4cHRwRE5ib1JfMXpxeWRWV2lNZlZGTWVENVlEWkRFMmhwNVdDdFItcTRPNlplcVJCRWtQbHdMaFo3Z194UWlndHROUmZVUzgyU3dsbzhTMEZfcnJBNlNYOGN0aGZ6Z1hsYWREeVVwTF85aVkycGhNaVRoblBTOUp4R244UWFjZDl4SmtkdDBNU1dsQUNGbGg5cHZCckwzUGNWaEhrRVhsWEl2M2VfTmdlSEEyS1kybzNMYzVhYW45WGlIdVM2eElHSVhJQ2QzckVpZk5mVy1kNzNldUVxMUNQWTZUXzdjcmxWNnEwZnZHOFQxbjRHY0FJYV90N2dPeGdCWTk4UmJLVGhyUEl4VUFwREtidi15MVFXaVlQbTM5clAyTGdBb3RwSHVqSGJqbEJKTzBr?oc=5",
-        "summary": "'You're a dummy' | Trump calls CNN's Kaitlan Collins 'a low-IQ person' during spat WBMA 'You're a dummy' | Trump calls CNN's Kaitlan Collins 'a low-IQ person' during spat - WBMA",
-        "published": "Thu, 22 Oct 2026 22:35:55 GMT",
-        "published_kst": "2026-10-23T07:35:55+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-        "url": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
-        "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes. Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
-        "published": "Thu, 22 Oct 2026 22:21:08 GMT",
-        "published_kst": "2026-10-23T07:21:08+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump's attacks on the press have become a war - NPR",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0VZOVd1WnpnQjg1TXFMVnFVMFdrSFlNX2RSQllqMEtUd3F5Sk8xVlg2SGJVS3BGakRoUWd1Y2xGM1ZWZlkzMmNFLTUtREhocURNOGRBekJ1WDJ1RzlZNFdiM2hpTzNhYUNZejlmMW5HdTkwdWxXd0ttR2IxTmNXUEJpbVhxd0MwZXZ5MVVBY3k5SzVk?oc=5",
-        "summary": "Trump's attacks on the press have become a war NPR Trump's attacks on the press have become a war - NPR",
-        "published": "Thu, 22 Oct 2026 22:06:17 GMT",
-        "published_kst": "2026-10-23T07:06:17+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MT2VEb3RGNzZHYlNiUzlzY0NkbGJ4cDFDU1UyLWRHc1VNX1dqSHpraVpMSjFEVzFpc1BIZFBEU3lVd0FIQU5Va2N6Wm4zX05TQVBKckUwX0pGZw?oc=5",
-        "summary": "스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 한국경제 스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 - 한국경제",
-        "published": "Thu, 22 Oct 2026 23:25:06 GMT",
-        "published_kst": "2026-10-23T08:25:06+09:00",
+        "title": "정부, 아프리카에 '역대 최대' 8조원 금융패키지 지원(종합) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13S3dIcklPSDk4aXEyeFlkM1VxSlZOMlZySEZhRGt6Nl9kTVA5QmNzRE54ZFNhUzdmTW00c0pNYUh3d1pQc0tCNEw5NGZQV2ls?oc=5",
+        "summary": "정부, 아프리카에 '역대 최대' 8조원 금융패키지 지원(종합) 매일경제 마켓 정부, 아프리카에 '역대 최대' 8조원 금융패키지 지원(종합) - 매일경제 마켓",
+        "published": "Fri, 23 Oct 2026 06:20:38 GMT",
+        "published_kst": "2026-10-23T15:20:38+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"취업하기도 전에 일자리 뺏길 판\"…취준생들 '공포' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90amluTHQwMHpkMUwxb1BfeUFSekNpLUVYS3k5UjJjY29GRkJmek1LelJJcGE3ODJ6UkVnY3NQVExtWkxnWmEwcVkzYWJicldjTlphQzQ2dGROUQ?oc=5",
-        "summary": "\"취업하기도 전에 일자리 뺏길 판\"…취준생들 '공포' 한국경제 \"취업하기도 전에 일자리 뺏길 판\"…취준생들 '공포' - 한국경제",
-        "published": "Thu, 22 Oct 2026 23:08:19 GMT",
-        "published_kst": "2026-10-23T08:08:19+09:00",
+        "title": "조현, 유엔의 날 기념식서 한국의 역할 강조 - 스페셜타임스",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Cb2NqOGMwTnVWd3FWZ1B5U281OTZqT3plNTlhQ1R2c09sV0hUY2JVYjNic0Vub3Y1amlvdFVTSzVFM3JKalpZTVE4WXg3S0JsVXdnNVBRYi14cUVYZ1pkcGZnZXYtb05yZ2NDQTd2aklWdw?oc=5",
+        "summary": "조현, 유엔의 날 기념식서 한국의 역할 강조 스페셜타임스 조현, 유엔의 날 기념식서 한국의 역할 강조 - 스페셜타임스",
+        "published": "Fri, 23 Oct 2026 06:13:05 GMT",
+        "published_kst": "2026-10-23T15:13:05+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "美증시,기술주 투매에 폭락...솔리다임 IPO 중단 [오늘 아침, 당신이 알아야 할 7가지] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EMlRJX3JaNjZoZGNnV2k1MGpleXVBbXhmeEtUdVA1SGlrODFkdTE0aHFwRUM3TTZrQ2RsTzM3NUtLbTNIMnJHUnhDSUQ2VXBNYmp1VE8wZjAzUQ?oc=5",
-        "summary": "美증시,기술주 투매에 폭락...솔리다임 IPO 중단 [오늘 아침, 당신이 알아야 할 7가지] 한국경제 美증시,기술주 투매에 폭락...솔리다임 IPO 중단 [오늘 아침, 당신이 알아야 할 7가지] - 한국경제",
-        "published": "Thu, 22 Oct 2026 22:58:56 GMT",
-        "published_kst": "2026-10-23T07:58:56+09:00",
+        "title": "'조희대 대법원장 탄핵' 찬성 34%, 반대 39%[한국갤럽] - 싱글리스트",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RV19NQ1JEWFBwVFo0bWk0aE8taXJfdk9FTW1wX0FIZEZJd2J3OUFBOWV4R0F0LXRVWWdveUtWX3JhYm5VcEViZHJvVUJzWW0zMkZQTlFrT1YtQkNuOGd3eElEU3VJdw?oc=5",
+        "summary": "'조희대 대법원장 탄핵' 찬성 34%, 반대 39%[한국갤럽] 싱글리스트 '조희대 대법원장 탄핵' 찬성 34%, 반대 39%[한국갤럽] - 싱글리스트",
+        "published": "Fri, 23 Oct 2026 06:05:31 GMT",
+        "published_kst": "2026-10-23T15:05:31+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "34%",
+          "39%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy - NDTV",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbFpCY0J5VTM3RTUtTEd3d0VHb1U0TV82SDdzQ1E3V1pVQjMxczl6WnhjMjlDMXppajZhNUpGTjBJUzN3RXYwakxpYWZXV1JTTHdlWGlCTE9aMEpEakhMWXlzWGNvRjZ3dThiU2FReG5idVY0X0xacHFham1EWG4zbVdLUko2SWk5M2ZoSmxxYnhwcDYxU080MG5IVmo4WkJxelpuSUxUSjhzZ3BONFFyNNIBuAFBVV95cUxNaUU1Z2N5QWg4dmMzdGdyUE9PaTBtajVJQTBXMzB5SElOMnhnVjB0TXJQSmZkMXd6VFpTc0xnN1NwcHRZWlFONU0yTmtSXzJsSWtIUFhQZ3lKUU10WHhQZzhHQUJIWlZfUUNmVUxYR1I0VkRadVl1WUVYOWR3VTMwTm53U0YxSGpCZE9Jcy1kYmNwamI1MlZEYTJjMnpBY25mSVFVV09QQldDNzNzWHRoYk40RHl5RFEy?oc=5",
-        "summary": "Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy NDTV Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy - NDTV",
-        "published": "Thu, 22 Oct 2026 23:12:06 GMT",
-        "published_kst": "2026-10-23T08:12:06+09:00",
+        "title": "FORTEQ Plastics Technology (Wuxi) Looks Forward to Meeting You at the 2026 SMM Global Lead-Acid Battery Supply Chain Industry Conference - Shanghai Metals Market",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUHpFdGllV3hwU3laT0ZiTlMyeWF6VjhEbnhpRVhmdlJRWTltdFgxZjh3Rm1RYU15QzFVM09hOEF1c0hIZUwyM2VEZ21LS1FEdWxQSEktcXpKQ2lkYU1Lam1rMzJkUWF4eV9yNWpaNWFqZFZTOVR2Tk0xT1BIVEV3NjlONUpnekFqZlNJZDd0ZDVSQ0FjMDQ3T0gtMkEtVUpCS0hiVWRJVFllR1Nwa1IzSFpCT0RrR2IzLVdrMlQzSU5uSDR1Vld5S0hHanU3R01SUHJ3b3lxM3hiaHJRcXV1RFNEVmlHT25yV0lWX05OdmUzeWQ5X3ZMR3dhQ0lxS3pXNS0tNW5fa1F6TVlfYVhV?oc=5",
+        "summary": "FORTEQ Plastics Technology (Wuxi) Looks Forward to Meeting You at the 2026 SMM Global Lead-Acid Battery Supply Chain Industry Conference Shanghai Metals Market FORTEQ Plastics Technology (Wuxi) Looks Forward to Meeting You at the 2026 SMM Global Lead-Acid Battery Supply Chain Industry Conference - Shanghai Metals Market",
+        "published": "Fri, 23 Oct 2026 06:19:00 GMT",
+        "published_kst": "2026-10-23T15:19:00+09:00",
         "domain": "google.com",
         "key_figures": [
-          "$1"
+          "2026"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Railway supply industry news round-up - Railway Gazette International",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkFpZHd6bkZHR1cyMGhNM3hPa3RwcnhrSEY0VmhMcW81NkZwZWxpaUY4aTFHYVc3NllrWElaRUp0YjVYZUFmWkp6cUtxYS05Z2xJSHJ1Rm44QnJTb2V1NGVfSmlVb1V0VUR5aDdDLVJQVzJocmVTeEpaTnBmcFBQT29RNHJSNllIVkRjU3RqZUpJTE9VYm9z?oc=5",
+        "summary": "Railway supply industry news round-up Railway Gazette International Railway supply industry news round-up - Railway Gazette International",
+        "published": "Fri, 23 Oct 2026 02:00:01 GMT",
+        "published_kst": "2026-10-23T11:00:01+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -132,20 +148,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "FCC grants Intel waiver for foreign-made robotic devices - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1VTR2N5OVI4UzlOcUdxN2JzMzhPc0d1TFNKcENkNC1zYUZoNDI0bHZGQkswczBBRzdEWFV3bFlOU0ZwbDZUeU96WUpxTE4xdjVBMHpjc3E3YTZhRHk1eWxtVUJ5Z2RzWjBjeXl4TVhZRkQ5Mnc3RGhSUklYWjdIczVlbzFESkl1S2JOdWNJVU1lWF83Q0liamZWR1kwMk1q?oc=5",
-        "summary": "FCC grants Intel waiver for foreign-made robotic devices Reuters FCC grants Intel waiver for foreign-made robotic devices - Reuters",
-        "published": "Thu, 22 Oct 2026 22:36:47 GMT",
-        "published_kst": "2026-10-23T07:36:47+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Etsy also laid out clearer rules around AI usage on its platform, including barring sellers from creating bot-generated listings without any human involvement. Etsy bans AI-generated recipes and patterns from its online marketplace / 스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 한국경제 스트레이키즈 손잡은 빼빼로 데이, 글로벌 기념일로 등극하나 - 한국경제 / Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy NDTV Iran Caps Dollar Purchases At $1,000 Per Day Amid Sanctions-Hit Economy - NDTV",
+  "wrap_summary": "Falling exports to China take toll on US businesses, jobs chinadailyhk Falling exports to China take toll on US businesses, jobs - chinadailyhk / 정부, 아프리카에 '역대 최대' 8조원 금융패키지 지원(종합) 매일경제 마켓 정부, 아프리카에 '역대 최대' 8조원 금융패키지 지원(종합) - 매일경제 마켓 / FORTEQ Plastics Technology (Wuxi) Looks Forward to Meeting You at the 2026 SMM Global Lead-Acid Battery Supply Chain Industry Conference Shanghai Metals Market FORTEQ Plastics Technology (Wuxi) Looks Forward to Meeting You at the 2026 SMM Global Lead-Acid Battery Supply Chain Industry Conference - Shanghai Metals Market",
   "invest_summary": ""
 }
