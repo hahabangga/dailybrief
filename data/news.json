@@ -1,114 +1,109 @@
 {
   "date": "2026-10-26",
-  "generated_at_utc": "2026-10-26T07:09:54Z",
-  "cutoff_kst": "2026-10-26T16:09:00+09:00",
+  "generated_at_utc": "2026-10-26T11:36:13Z",
+  "cutoff_kst": "2026-10-26T20:36:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXlxaWRVVFJ5R2FkNUJLbXJvXzEwakI3WllZRlN5cGFEYkFoSG4xTVhWZ280NlNzSUNxdnp0R0lKSjVaNHB5SW44bm5FajJnd2JyNHVVZVAweGJYaUVBUHZsQWdhWlZiOW8ybFA2NGdTVlVWYU5USUxad3dhLS1aSXJhdnVCcE1xbkFEWFV3Z2dJZDJNNjJfd0t1S2hfR2hZR1AzaS1pWGZiN21qWDB2Rm1BZkNzUHNmN0NtTA?oc=5",
-        "summary": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus Investing.com Canada Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus - Investing.com Canada",
-        "published": "Mon, 26 Oct 2026 06:52:49 GMT",
-        "published_kst": "2026-10-26T15:52:49+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "42% of recent US college graduates work in jobs not requiring a degree — Fortune - UA.NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXhxZ0EwSEJQV1JrZEp5WVRweDBqSm8tamxjZWhOcWZHZ2RXaU5hX3JxdXpUQXB2eHdzaDJSS1czWF9YcUE3UTlUV0p3WEdPOGtza0lxYTRETVdlREdRdVlOMjF6Mkotcm5NR2FLYXN6R2lmTko4T3lqajBKYmlaeTd0eHRyWThaaFlQdnNDMjNKdFY3U0lKSDNpQkVTOHZYNDF3NWttTmZXbGhwUjlueUs5bV8?oc=5",
-        "summary": "42% of recent US college graduates work in jobs not requiring a degree — Fortune UA.NEWS 42% of recent US college graduates work in jobs not requiring a degree — Fortune - UA.NEWS",
-        "published": "Mon, 26 Oct 2026 06:50:54 GMT",
-        "published_kst": "2026-10-26T15:50:54+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "42%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Nicki Minaj floated as candidate for White House press secretary - WKRC",
-        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQeWZXS3pHUXptTnE4UENwZXJ5T1N6QTBYMEtBdktCcjF2SDk0Tnd3em1yNFpXNWlUVE55bElaeml4U3RFOWstSGV4NGZWVzBwTGJkSkhZaE03NERtTVU0WjhSX0thdzUxWkJTcDZ6dDJjY3oyWlBtMThNamZtVzh5SWlLQVJJcEFOZ2FjcUpmWng3U1hnd0xjQlJwY0dIX2ZHdTEyYnFnMmMwTlhPdGNqbXJ5MDNabG9WVHR4ZVdLbHk5dU82NXllVW4xVlpTRkxEQkp4NVFYdm5CWUUxcnU1Q1NvQkNzeFY3MW84bHdyNmFwMzZPZ0FkUU5vNUc5akpvM1haR3g5WEZzQVltUzdlREZPMFo0M3FrWC04MlV6VHZmMjROMGVGTzRRVFdpZUtQLTFnZjNQaXU4dlpEMy1NOEVjLUppd1k1ZUFaZmdiRkRRVmk1NzYwZVRRaXA2MnBjXzJGU25OMW90UVg1Y0RPVQ?oc=5",
-        "summary": "Nicki Minaj floated as candidate for White House press secretary WKRC Nicki Minaj floated as candidate for White House press secretary - WKRC",
-        "published": "Mon, 26 Oct 2026 06:32:16 GMT",
-        "published_kst": "2026-10-26T15:32:16+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
-        "url": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-        "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024. Defense tech investment boom sparks bubble warning as private equity pours in",
-        "published": "Mon, 26 Oct 2026 06:00:01 GMT",
-        "published_kst": "2026-10-26T15:00:01+09:00",
+        "title": "Meta announces $95 billion stock offering to fund AI expansion",
+        "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+        "summary": "Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence. Meta announces $95 billion stock offering to fund AI expansion",
+        "published": "Mon, 26 Oct 2026 11:34:42 GMT",
+        "published_kst": "2026-10-26T20:34:42+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$4",
-          "2026",
-          "$500",
-          "2024"
+          "$95"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-        "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-        "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances. ‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-        "published": "Mon, 26 Oct 2026 05:22:30 GMT",
-        "published_kst": "2026-10-26T14:22:30+09:00",
+        "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+        "url": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+        "summary": "Democrats have maintained they have no connection to Daniel J. Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+        "published": "Mon, 26 Oct 2026 11:33:09 GMT",
+        "published_kst": "2026-10-26T20:33:09+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-        "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-        "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand. Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-        "published": "Mon, 26 Oct 2026 05:18:01 GMT",
-        "published_kst": "2026-10-26T14:18:01+09:00",
+        "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+        "url": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+        "summary": "The deal further advances Apollo Global's ambitions in Abu Dhabi, often called the \"capital of capital.\" Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+        "published": "Mon, 26 Oct 2026 11:31:16 GMT",
+        "published_kst": "2026-10-26T20:31:16+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2%"
+          "10%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNYbU14T29fbUlGcmZXY1FYaE9vZEVSaWpRU3NvT25oSDBuS2NKMEg2Ykk2ZEVDWHlOVXV5MUNJb3V3M19vVlBfNlVSWGwtZmdtTlRoMURzRzNmTWZZd3E2cFk3UnpLZllLcW9seTlBdnA4N1dpS01zYnpzSHRhWEJ5VXF2OGFWVU55UDFQTlpIWGJrYnNDVFhtaDhoWDI3M3dlSnc5dDlvN2lxbFhGRg?oc=5",
+        "summary": "Factory; Nvidia, Micron Drive Earnings Boom WSJ Audi Announces Its First U.S. Factory; Nvidia, Micron Drive Earnings Boom - WSJ",
+        "published": "Mon, 26 Oct 2026 11:25:51 GMT",
+        "published_kst": "2026-10-26T20:25:51+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House Weighs Preemptive Pardons for Staffers in the Entire Administration - La Voce di New York",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTmV5eHVsbUZYdGhjYWkzOHIzeHRZVVBYYUdVN21CNFV4ZF9OSjFNMmQyZGctR0p2WkdObFZMTjdnZTE4ZVdmbXVNckhwUTZxVG1YdXJNZmxTd0VYemRvc3RMWFFFZDQzZ2FJbHVBMm1pUm5HdTBiS29PdE4zWS1DMTlDdVJrdzlUMWJNdEg1dU5ydmVHbVVhRVM1SWc0MklWcFpkN3FtekVDVUE4dGxMc1lQdXRBZzkzVUNKMExwZmdPUEM1enc?oc=5",
+        "summary": "White House Weighs Preemptive Pardons for Staffers in the Entire Administration La Voce di New York White House Weighs Preemptive Pardons for Staffers in the Entire Administration - La Voce di New York",
+        "published": "Mon, 26 Oct 2026 11:17:04 GMT",
+        "published_kst": "2026-10-26T20:17:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Who's running for Congress in Mississippi U.S. House District 3? - The Clarion-Ledger",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjVUZTliMGxReGZOMlNLcExRZEVabnhIRTgtOVU0d1JwRkEzclBRSHRoaXdiZmFSSmdjY29zaVhyNHJUN05XWFpxeWM5MWNoeTRLb1RWOFltVG5WRWNabFlVTUpDaFg0YUJtbjYydmNTbU1pUnc4ZmR5Umd4aElnbGpySGdVS0xKM0NEdmpaMFJsUUtvMUt0X0tfanNlSU5jd0U3bnVCTmxjUUFlNFpudzhsVVppaHNqOUNwZTRUd1VYbGhvQ3VJNWNnUl9Xd1JtMDBrbkV6elRKSmU2a1E?oc=5",
+        "summary": "The Clarion-Ledger Who's running for Congress in Mississippi U.S.",
+        "published": "Mon, 26 Oct 2026 11:10:57 GMT",
+        "published_kst": "2026-10-26T20:10:57+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "빚투 급감하면 주가 바닥…코스닥 반등 공식 이번에도 통할까? - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91eG9oUjMxVlJyNXlXRUJmQlpINXk0ZXZsc2Fqa2F3azh6bDk0V0pkaklBR01HZi1MZDk5cEhuUFVYWlVQS0h6amVjSkdKVmtsS0NOOEpDLVZpQQ?oc=5",
-        "summary": "한국경제 빚투 급감하면 주가 바닥…코스닥 반등 공식 이번에도 통할까?",
-        "published": "Mon, 26 Oct 2026 07:05:53 GMT",
-        "published_kst": "2026-10-26T16:05:53+09:00",
+        "title": "[단독] 김부겸, 성공회대 석좌교수로…‘한국 경제 해법’ 집필도 시동 - 시사저널",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5S3lOLVpTUHVfTHRPekNJSEZkMUdXN0NQWWprT2xmdUFmODlLU1h4eW4wOWY0TGlZdk1KdEcya05sOS1VSFVxekVKWk51WXNCNDZadDRxNVlEekZBVExfQTZmR19TaVJuRS1qRjlWc9IBc0FVX3lxTE42MlVrNTczYkRkVE1PUnJoc0Z6aU9VMXg0TW9tajVNLTBJM1d3VzRTVkNtTHRtc0Z3Y3k3WjlwRlZkWC1tUzlpTkVLcDlFbExwOTQ4V18zY3gwU2xBMXZDcTdzb2FjNE9oaHRoZUlJOTFLR0U?oc=5",
+        "summary": "[단독] 김부겸, 성공회대 석좌교수로…‘한국 경제 해법’ 집필도 시동 시사저널 [단독] 김부겸, 성공회대 석좌교수로…‘한국 경제 해법’ 집필도 시동 - 시사저널",
+        "published": "Mon, 26 Oct 2026 10:57:16 GMT",
+        "published_kst": "2026-10-26T19:57:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[ESG특집] 해외 ESG 규제·자본 이동의 '다음 스텝'과 한국 기업·금융에 미칠 파장 - 데일리연합",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdUlwUDZOdTlMQzVjZjNzQ0czbnZOZWdaSWFfVmVCZ1V1TlVOZENScDNNNzlnMURYeW1BV3pUS1djOXJYcWZBWXBCQTg1NDhDOW5YcEFheXl4LTg?oc=5",
-        "summary": "[ESG특집] 해외 ESG 규제·자본 이동의 '다음 스텝'과 한국 기업·금융에 미칠 파장 데일리연합 [ESG특집] 해외 ESG 규제·자본 이동의 '다음 스텝'과 한국 기업·금융에 미칠 파장 - 데일리연합",
-        "published": "Mon, 26 Oct 2026 06:40:04 GMT",
-        "published_kst": "2026-10-26T15:40:04+09:00",
+        "title": "서울 서남권의 녹색바람...국회대로 상부 공원화 사업 시작 - 재외동포신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PWDFxWFExOVU5ZTQ3em9UUWhzdGJJdnU2SG01Vnk4ZTlfR3dQUjdYUzAyMmFTdU1vd250LUJZTkU2QlZPZGhZOUlrX0Fjek5KbW02a21nSUdKUlVtUjVIem5yNk9KSW56NnBUcg?oc=5",
+        "summary": "서울 서남권의 녹색바람...국회대로 상부 공원화 사업 시작 재외동포신문 서울 서남권의 녹색바람...국회대로 상부 공원화 사업 시작 - 재외동포신문",
+        "published": "Mon, 26 Oct 2026 10:23:13 GMT",
+        "published_kst": "2026-10-26T19:23:13+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"알리바바 통한 한국 브랜드 중국 판매, 국내 생산유발효과 14조원\" - 지디넷코리아",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YbFlCQTFQQ0JUeS1jUWFJNlFSRTFlNklJRDVoSnFVVExrd3ZDaVpURkRuRDFVMGZ6d0d4QUI5eTM3RDhDeW9CbExnREZQZEZOVnNXSkdn?oc=5",
-        "summary": "\"알리바바 통한 한국 브랜드 중국 판매, 국내 생산유발효과 14조원\" 지디넷코리아 \"알리바바 통한 한국 브랜드 중국 판매, 국내 생산유발효과 14조원\" - 지디넷코리아",
-        "published": "Mon, 26 Oct 2026 06:36:15 GMT",
-        "published_kst": "2026-10-26T15:36:15+09:00",
+        "title": "한은 통화정책 담당 부총재보에 최창호 통화정책국장 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5M0R0LUttRVQ1SlNJMVFNZFBjUmdNbF9JLTNfU0NxT1FnWlRUMlpJeXZSZ0E4NUJmclJKaENVNWlIRUw1QVVRMlFNTXV5RE4zZExWamNCOTlmUQ?oc=5",
+        "summary": "한은 통화정책 담당 부총재보에 최창호 통화정책국장 한국경제 한은 통화정책 담당 부총재보에 최창호 통화정책국장 - 한국경제",
+        "published": "Mon, 26 Oct 2026 10:02:00 GMT",
+        "published_kst": "2026-10-26T19:02:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -117,33 +112,33 @@
     ],
     "world": [
       {
-        "title": "Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion - Travel Trends Today",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdiSTZkMVBINWZ0b3BmemFERXNHdXFGcDFJODVEQ0lHUzFWQjhNSnNWV2dOc2Yyd1BXQzVQLWRjZW9WenVrc0ZnWGlWTnFWNGtvU1FuelZTbVVvWUtDOUpJelphRkc1c1lydjJZOFhZTGc5cGJJRDg3eUV2cENmVjhjX24wTmlvX292dmtLZEpFOVVKVVZvbGxGcWJmVlJGU1FLdFFlQjI2VkN6TmNmT0ZOTjZCaDRRMWM0SjllRldGVjJ0dDRBLS1ZQXlRNDVJdFE?oc=5",
-        "summary": "Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion Travel Trends Today Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion - Travel Trends Today",
-        "published": "Mon, 26 Oct 2026 07:07:29 GMT",
-        "published_kst": "2026-10-26T16:07:29+09:00",
+        "title": "World Food Day: Outreach highlights need to fix Nigeria’s food supply chain - The Guardian Nigeria News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUjBJTWVnVExFc2FsTzVUbUpZNW40bFNNMjNLbkIxZzRCRU91WVlYUHRPa2FvVXlyb0RsblIwQmRZODdDelBsMUliWk9ZYXk0T1FPNnNRdm5XWkpuMkpOalExS2tkQnFCeEp1c296UXR2OE91MlBoZmhwNHdJZFczVl9DT2RpNFdsSVMzZUk2OEd6XzNndnQzbTBVMHNBdFQz?oc=5",
+        "summary": "World Food Day: Outreach highlights need to fix Nigeria’s food supply chain The Guardian Nigeria News World Food Day: Outreach highlights need to fix Nigeria’s food supply chain - The Guardian Nigeria News",
+        "published": "Mon, 26 Oct 2026 10:24:25 GMT",
+        "published_kst": "2026-10-26T19:24:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Vietjet and Satair sign MOU to boost aviation supply chain - Travel Daily Media",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0x3WWVlVHl3ZE1Ybng4cy0wejZkMlEwOWVtdWhQbWFTcWlkU2UxUlJ3RmZ2STNNYXB4SGZUSzZ6bGdNd3dwYkQ1WFVadnlGbzh3QVU0LWRWS1drVHRDX3JBZ2haNHVSdm1TVGkyRDRsYmVlSGlFa3I3TzJJazVqeWpjS1VhbUN1c0I4dDBwUU9zVFdIb1Zz?oc=5",
-        "summary": "Vietjet and Satair sign MOU to boost aviation supply chain Travel Daily Media Vietjet and Satair sign MOU to boost aviation supply chain - Travel Daily Media",
-        "published": "Mon, 26 Oct 2026 06:01:42 GMT",
-        "published_kst": "2026-10-26T15:01:42+09:00",
+        "title": "India’s Renewable Energy Supply Chain Is Becoming More Resilient, Technology-Driven and Localised: Yogendra Yadav, Sungrow - SolarQuarter",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbUNFbkZFMDJoNE9jd1hwTGxJZUdNUm82VVFrZUFSTTlObnR6c2NFMnJqaUZJMklNZlNqc0VIdm4tSzZLZjZoUjRDM0IzQUItQUU4RnZkUWlmRGRYY0ZBNXhpWFg2VmVDamhFTDZrTWotRjdkNHByejBhaVB6aUdCa1MyX1BfOFlVVks3VlNRNDBSR0VXT0pVV2hJM2xzOGN6enpHNDlKSDhiTnFCRTBFMTh4OXlFY1AzVG5Tem04WlNLTzhaZWV1U1kzSG9jMnhNc05pVUtJSHplU2NGWWhkT3J5OWllUTZZUUpF?oc=5",
+        "summary": "India’s Renewable Energy Supply Chain Is Becoming More Resilient, Technology-Driven and Localised: Yogendra Yadav, Sungrow SolarQuarter India’s Renewable Energy Supply Chain Is Becoming More Resilient, Technology-Driven and Localised: Yogendra Yadav, Sungrow - SolarQuarter",
+        "published": "Mon, 26 Oct 2026 08:40:41 GMT",
+        "published_kst": "2026-10-26T17:40:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US designates helium as a critical material, citing its importance for semiconductors - electronics.economictimes.indiatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPTDhDRVRJSnlWM3BrS3hTUWxrZHF6c3k4MU9ST3g5RFBOR01JT21LUnpWLUdtQThKXzdFQWhTcjI0M0F3MUR0QTU4b1JKdTRhenNSNFg2MW9MZnc1T2Z1RUNBcmFYQ3JpVDNuNTVlbjVNT3E4OHBMa1hJNUIxM3NjSXdjek10Wi1XZ0s5QmxwVzBiZnZzYUMzSXBDMTBpUzdaQUJWeE5rYkFhWUlfMTBwWHNNSTA3WnE2TjNjQmtXeEc1dF9FQnZhQ3ZENjB0b1F6MzBPNHJzTjZuaEVobDQ3eTczSHgwTWhPaHFSUTdhMjFSVS1vckgyQ1E4Uy0wR19tdXNJVkU1SnZHeEVXa0dKRXR6cXYtendQY3hiMXhXbDNQeGJJbGlDWmVsZ1k3SlIz0gH_AUFVX3lxTFBxS3IzLWR0bWtod3g3cjh6N3V5UWwxalNNSlpaMTFBX2laWDV4RGtnemN2eG9LUmtKZG5GVkZYS2piTnJfX0RvV2pfS2ZpVmt4VWhBcUxUaGJrRDkxR255SmJVTURXeERVTTFtNk5yZzZyWHgtLUg5MDgwMVR6RV9RczZ0eUNLUUQ3QTBwOWpnSmt1YnZ4cjYxR2hBOVdzMXhONFJYZ3VjVEdRdTZITzU5dzFsUXpaZk1MS3RnNFZkSUZCaTdMX210V2xLZ0F6ak81MFlDSlc2ejNJRzFzb09WUlN1Y0VXM0FpZzRWcnBPNDM0YzREQ2k1b3dEcmFNRQ?oc=5",
-        "summary": "US designates helium as a critical material, citing its importance for semiconductors electronics.economictimes.indiatimes.com US designates helium as a critical material, citing its importance for semiconductors - electronics.economictimes.indiatimes.com",
-        "published": "Mon, 26 Oct 2026 02:44:37 GMT",
-        "published_kst": "2026-10-26T11:44:37+09:00",
+        "title": "Netanyahu Rebuked for Plan to Use Crypto to Bypass Economic Sanctions - شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tWGFtUzl0ZnZUV09saXNXTGswaDRMZjFsODVfRzU0bGlNNWhjRTVwVUtlcEFLdEU3dlh1SHZvRFlIdlVOWVFDMnRObTE1ajZ3WTRV?oc=5",
+        "summary": "Netanyahu Rebuked for Plan to Use Crypto to Bypass Economic Sanctions شبكة تواصل الإخبارية Netanyahu Rebuked for Plan to Use Crypto to Bypass Economic Sanctions - شبكة تواصل الإخبارية",
+        "published": "Mon, 26 Oct 2026 07:10:43 GMT",
+        "published_kst": "2026-10-26T16:10:43+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -151,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus Investing.com Canada Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus - Investing.com Canada / 한국경제 빚투 급감하면 주가 바닥…코스닥 반등 공식 이번에도 통할까? / Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion Travel Trends Today Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion - Travel Trends Today",
+  "wrap_summary": "Meta said Monday it is planning to raise a total of $95 billion to support itsi nvestments in AI infrastructure and super intelligence. Meta announces $95 billion stock offering to fund AI expansion / [단독] 김부겸, 성공회대 석좌교수로…‘한국 경제 해법’ 집필도 시동 시사저널 [단독] 김부겸, 성공회대 석좌교수로…‘한국 경제 해법’ 집필도 시동 - 시사저널 / World Food Day: Outreach highlights need to fix Nigeria’s food supply chain The Guardian Nigeria News World Food Day: Outreach highlights need to fix Nigeria’s food supply chain - The Guardian Nigeria News",
   "invest_summary": ""
 }
