@@ -1,144 +1,149 @@
 {
   "date": "2026-10-26",
-  "generated_at_utc": "2026-10-25T23:37:47Z",
-  "cutoff_kst": "2026-10-26T08:37:00+09:00",
+  "generated_at_utc": "2026-10-26T07:09:54Z",
+  "cutoff_kst": "2026-10-26T16:09:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXlxaWRVVFJ5R2FkNUJLbXJvXzEwakI3WllZRlN5cGFEYkFoSG4xTVhWZ280NlNzSUNxdnp0R0lKSjVaNHB5SW44bm5FajJnd2JyNHVVZVAweGJYaUVBUHZsQWdhWlZiOW8ybFA2NGdTVlVWYU5USUxad3dhLS1aSXJhdnVCcE1xbkFEWFV3Z2dJZDJNNjJfd0t1S2hfR2hZR1AzaS1pWGZiN21qWDB2Rm1BZkNzUHNmN0NtTA?oc=5",
+        "summary": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus Investing.com Canada Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus - Investing.com Canada",
+        "published": "Mon, 26 Oct 2026 06:52:49 GMT",
+        "published_kst": "2026-10-26T15:52:49+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "42% of recent US college graduates work in jobs not requiring a degree — Fortune - UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQXhxZ0EwSEJQV1JrZEp5WVRweDBqSm8tamxjZWhOcWZHZ2RXaU5hX3JxdXpUQXB2eHdzaDJSS1czWF9YcUE3UTlUV0p3WEdPOGtza0lxYTRETVdlREdRdVlOMjF6Mkotcm5NR2FLYXN6R2lmTko4T3lqajBKYmlaeTd0eHRyWThaaFlQdnNDMjNKdFY3U0lKSDNpQkVTOHZYNDF3NWttTmZXbGhwUjlueUs5bV8?oc=5",
+        "summary": "42% of recent US college graduates work in jobs not requiring a degree — Fortune UA.NEWS 42% of recent US college graduates work in jobs not requiring a degree — Fortune - UA.NEWS",
+        "published": "Mon, 26 Oct 2026 06:50:54 GMT",
+        "published_kst": "2026-10-26T15:50:54+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "42%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Nicki Minaj floated as candidate for White House press secretary - WKRC",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQeWZXS3pHUXptTnE4UENwZXJ5T1N6QTBYMEtBdktCcjF2SDk0Tnd3em1yNFpXNWlUVE55bElaeml4U3RFOWstSGV4NGZWVzBwTGJkSkhZaE03NERtTVU0WjhSX0thdzUxWkJTcDZ6dDJjY3oyWlBtMThNamZtVzh5SWlLQVJJcEFOZ2FjcUpmWng3U1hnd0xjQlJwY0dIX2ZHdTEyYnFnMmMwTlhPdGNqbXJ5MDNabG9WVHR4ZVdLbHk5dU82NXllVW4xVlpTRkxEQkp4NVFYdm5CWUUxcnU1Q1NvQkNzeFY3MW84bHdyNmFwMzZPZ0FkUU5vNUc5akpvM1haR3g5WEZzQVltUzdlREZPMFo0M3FrWC04MlV6VHZmMjROMGVGTzRRVFdpZUtQLTFnZjNQaXU4dlpEMy1NOEVjLUppd1k1ZUFaZmdiRkRRVmk1NzYwZVRRaXA2MnBjXzJGU25OMW90UVg1Y0RPVQ?oc=5",
+        "summary": "Nicki Minaj floated as candidate for White House press secretary WKRC Nicki Minaj floated as candidate for White House press secretary - WKRC",
+        "published": "Mon, 26 Oct 2026 06:32:16 GMT",
+        "published_kst": "2026-10-26T15:32:16+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Defense tech investment boom sparks bubble warning as private equity pours in",
+        "url": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
+        "summary": "Private equity growth investments in defense reached $4 billion in the first nine months of 2026, up from $500 million in 2024. Defense tech investment boom sparks bubble warning as private equity pours in",
+        "published": "Mon, 26 Oct 2026 06:00:01 GMT",
+        "published_kst": "2026-10-26T15:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$4",
+          "2026",
+          "$500",
+          "2024"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
         "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
         "summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances. ‘Ticking time bomb’: The world's pension funds face an ageing crisis",
-        "published": "Sun, 25 Oct 2026 23:19:12 GMT",
-        "published_kst": "2026-10-26T08:19:12+09:00",
+        "published": "Mon, 26 Oct 2026 05:22:30 GMT",
+        "published_kst": "2026-10-26T14:22:30+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House Floats Nicki Minaj as New Press Secretary, Trump Marvels At Her Ass - Consequence of Sound",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51c2x6ZU1XVnVUajZkT1AzeUVDZHZBdzBleC0xdWFZa0tLbkxEc0Z0Wk1ZNURVcWdJcjZObU5lSzg5SFFKcThYUVJDcUZfdkZ1UlhaVk1pVVNvX0cxMEY5MjhhZ1htMGtaWXZWRUlxQjZoRmxhN0FzU2haNA?oc=5",
-        "summary": "White House Floats Nicki Minaj as New Press Secretary, Trump Marvels At Her Ass Consequence of Sound White House Floats Nicki Minaj as New Press Secretary, Trump Marvels At Her Ass - Consequence of Sound",
-        "published": "Sun, 25 Oct 2026 23:08:49 GMT",
-        "published_kst": "2026-10-26T08:08:49+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The Week Ahead: US rate decision, PCE inflation, Microsoft earnings - CMC Markets",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRzVvUllnSkpmb3VMNVN1TnY4ZUdiQmJBVHZDNmxhMGY0UFRKclVwZUV5UElrOTRhVlRLYmpnRE9mSHJoWDZ1ZWFKN05xZldmSjF0dGdqYlhUbElDQTdackRQTEZQWmRhV2Vic0Fsa3dIa2hpaFVpVEFKbGl4TVdSYWZwYkV4OEZGb3lYUmlKQkszUDdOUmY4cDV3alJUZmRJS2lEcWZMX3d5VUpnckE?oc=5",
-        "summary": "The Week Ahead: US rate decision, PCE inflation, Microsoft earnings CMC Markets The Week Ahead: US rate decision, PCE inflation, Microsoft earnings - CMC Markets",
-        "published": "Sun, 25 Oct 2026 23:01:33 GMT",
-        "published_kst": "2026-10-26T08:01:33+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "FOMC and Big Tech Earnings Drive U.S. Stock Futures Higher - SBS 뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIQW9GeFFySVhLeFRSclJfZkp6aXZJMm9uUy1MLWZxSkRJa1hYNC0zOGlOM0NsblhsOFNZU21rYlhsaW01N2ZyOEhadVRJdzZURE1QWExXZS1KOC1rNFRlNkJQc2Q0cjZNTElCNlhR0gFmQVVfeXFMT2kxbHgzakx2MHpVOFdNRmZQX2VTVkNPckw0NjE1bmJJSktjeXBwQ2NnV0QtOEJVUWxnZ1ViNUh0V1N2bG5oYW41czdpdGZDd2FDQUI2RXZyeDJlbEdYeEMyd3I4U2pR?oc=5",
-        "summary": "Stock Futures Higher SBS 뉴스 FOMC and Big Tech Earnings Drive U.S. FOMC and Big Tech Earnings Drive U.S.",
-        "published": "Sun, 25 Oct 2026 22:58:55 GMT",
-        "published_kst": "2026-10-26T07:58:55+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "More pain may be coming for the AI trade. Why I’m not giving up on it",
-        "url": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-ai-trade-nvidia-coreweave.html",
-        "summary": "In his Sunday column for Investing Club subscribers, Jim Cramer explains why the AI trade has cracked and what he's doing about it. More pain may be coming for the AI trade.",
-        "published": "Sun, 25 Oct 2026 21:13:50 GMT",
-        "published_kst": "2026-10-26T06:13:50+09:00",
+        "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+        "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+        "summary": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand. Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+        "published": "Mon, 26 Oct 2026 05:18:01 GMT",
+        "published_kst": "2026-10-26T14:18:01+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-        "url": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
-        "summary": "Democrats have maintained they have no connection to Daniel J. Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-        "published": "Sun, 25 Oct 2026 20:28:55 GMT",
-        "published_kst": "2026-10-26T05:28:55+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "2%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "한국물 역외IB 규제 속 발행사 의견수렴 나선 당국…이종통화 포함 눈길 - 연합인포맥스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xaEpveFhkLXdoeXBJakpRU2h5dU85UFdGcFpXMFp6bVpKNXlCTURZMmNRakRUYTgyZmF0SndOLUpVa0RrMW5sUmlKUGdOLXlGZWlMeFhpa0hUbGNjb2FiQ0dab1UzUFhvTlBDbnZnOVg?oc=5",
-        "summary": "한국물 역외IB 규제 속 발행사 의견수렴 나선 당국…이종통화 포함 눈길 연합인포맥스 한국물 역외IB 규제 속 발행사 의견수렴 나선 당국…이종통화 포함 눈길 - 연합인포맥스",
-        "published": "Sun, 25 Oct 2026 23:23:31 GMT",
-        "published_kst": "2026-10-26T08:23:31+09:00",
+        "title": "빚투 급감하면 주가 바닥…코스닥 반등 공식 이번에도 통할까? - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91eG9oUjMxVlJyNXlXRUJmQlpINXk0ZXZsc2Fqa2F3azh6bDk0V0pkaklBR01HZi1MZDk5cEhuUFVYWlVQS0h6amVjSkdKVmtsS0NOOEpDLVZpQQ?oc=5",
+        "summary": "한국경제 빚투 급감하면 주가 바닥…코스닥 반등 공식 이번에도 통할까?",
+        "published": "Mon, 26 Oct 2026 07:05:53 GMT",
+        "published_kst": "2026-10-26T16:05:53+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "중국인 관광객 급감…일본선 “중국과 대화 확대” 55% - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SVG5qNElnQkJiRWlIR3V5bTkxQTBqRFg0ak04SFJYNFJkcmJhcUlDWEUtZUpkSlI2YXJ1WEdrQ3pFdXVRcXRBeVU3NlY5ai1wSHpMV0VfYjR5dw?oc=5",
-        "summary": "중국인 관광객 급감…일본선 “중국과 대화 확대” 55% 한국경제 중국인 관광객 급감…일본선 “중국과 대화 확대” 55% - 한국경제",
-        "published": "Sun, 25 Oct 2026 23:20:44 GMT",
-        "published_kst": "2026-10-26T08:20:44+09:00",
+        "title": "[ESG특집] 해외 ESG 규제·자본 이동의 '다음 스텝'과 한국 기업·금융에 미칠 파장 - 데일리연합",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdUlwUDZOdTlMQzVjZjNzQ0czbnZOZWdaSWFfVmVCZ1V1TlVOZENScDNNNzlnMURYeW1BV3pUS1djOXJYcWZBWXBCQTg1NDhDOW5YcEFheXl4LTg?oc=5",
+        "summary": "[ESG특집] 해외 ESG 규제·자본 이동의 '다음 스텝'과 한국 기업·금융에 미칠 파장 데일리연합 [ESG특집] 해외 ESG 규제·자본 이동의 '다음 스텝'과 한국 기업·금융에 미칠 파장 - 데일리연합",
+        "published": "Mon, 26 Oct 2026 06:40:04 GMT",
+        "published_kst": "2026-10-26T15:40:04+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "55%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "프랑스 국채금리 5% 돌파…우량 회사채보다 높아졌다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oWmFRVXU1Y1ZhUkNHWTdJSVpxOHE3RGd0RHI3Rk5xYTlTMnFDUHZyci1PbVJsSGp0b1doYWVDMkcxckJBX3RWNUlhYTBfRTRqbm5zTVZHMlU5dw?oc=5",
-        "summary": "프랑스 국채금리 5% 돌파…우량 회사채보다 높아졌다 한국경제 프랑스 국채금리 5% 돌파…우량 회사채보다 높아졌다 - 한국경제",
-        "published": "Sun, 25 Oct 2026 23:11:00 GMT",
-        "published_kst": "2026-10-26T08:11:00+09:00",
+        "title": "\"알리바바 통한 한국 브랜드 중국 판매, 국내 생산유발효과 14조원\" - 지디넷코리아",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YbFlCQTFQQ0JUeS1jUWFJNlFSRTFlNklJRDVoSnFVVExrd3ZDaVpURkRuRDFVMGZ6d0d4QUI5eTM3RDhDeW9CbExnREZQZEZOVnNXSkdn?oc=5",
+        "summary": "\"알리바바 통한 한국 브랜드 중국 판매, 국내 생산유발효과 14조원\" 지디넷코리아 \"알리바바 통한 한국 브랜드 중국 판매, 국내 생산유발효과 14조원\" - 지디넷코리아",
+        "published": "Mon, 26 Oct 2026 06:36:15 GMT",
+        "published_kst": "2026-10-26T15:36:15+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "5%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Nvidia Teams Up With 6 Supply Chain Partners to Expand Its Global AI Manufacturing Capacity - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ3M3d3NXNGE1UGZ6UHUtVDFOMFQ4LTNfV0c0WWhpc1BuU0hmSE82T3N2UXZEdjNZVFQtR19lSTd3TExwTzBTTHdBUHhZaERMclJKLXZzM19TSnlQYlhGakNGdHRHc1RZNWtHRkc2Y3ZoZHhnY190VlZ0Q09ZeDVHS0kwZ1ZTR3otMEFiRHByZ2Ffbi04UUdoSmduU21YdHFNTnlXNkl3Zkh6VTc5VWhyMmgzU1ZraFNaUHBGZnp0U3YtUVhFRGhrTHdBb29yZVJq?oc=5",
-        "summary": "Nvidia Teams Up With 6 Supply Chain Partners to Expand Its Global AI Manufacturing Capacity Barchart.com Nvidia Teams Up With 6 Supply Chain Partners to Expand Its Global AI Manufacturing Capacity - Barchart.com",
-        "published": "Sun, 25 Oct 2026 18:30:02 GMT",
-        "published_kst": "2026-10-26T03:30:02+09:00",
+        "title": "Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion - Travel Trends Today",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVVdiSTZkMVBINWZ0b3BmemFERXNHdXFGcDFJODVEQ0lHUzFWQjhNSnNWV2dOc2Yyd1BXQzVQLWRjZW9WenVrc0ZnWGlWTnFWNGtvU1FuelZTbVVvWUtDOUpJelphRkc1c1lydjJZOFhZTGc5cGJJRDg3eUV2cENmVjhjX24wTmlvX292dmtLZEpFOVVKVVZvbGxGcWJmVlJGU1FLdFFlQjI2VkN6TmNmT0ZOTjZCaDRRMWM0SjllRldGVjJ0dDRBLS1ZQXlRNDVJdFE?oc=5",
+        "summary": "Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion Travel Trends Today Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion - Travel Trends Today",
+        "published": "Mon, 26 Oct 2026 07:07:29 GMT",
+        "published_kst": "2026-10-26T16:07:29+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "WINIT AI Fulfillment Platform Enhances Cross-Border Logistics - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRks5MjFaaGJlcXBBbEJGVW9YbXppMC1rRHF2VkVBbDJscFo3WThvaDRYblNKa1dpVzE5aGxuamtpRFVfaXNwS2FDMDFYUWJiZW9LWEY3OEFTeFAxV0RwdkVkQ0hGanlUdDFvMnM3dVdBQUhrblRObDBlWnQwdHQ4c1NMSWJ4aFpIR0IwLTRQWlZWZjhpQjJvc19OOHAzd2ZKdHluZThrejJ3V1g5V2I5eWVIRUxQVXZxRWFzVUpGVkRfbC1LSERRaS13?oc=5",
-        "summary": "WINIT AI Fulfillment Platform Enhances Cross-Border Logistics Supply & Demand Chain Executive WINIT AI Fulfillment Platform Enhances Cross-Border Logistics - Supply & Demand Chain Executive",
-        "published": "Sun, 25 Oct 2026 16:19:28 GMT",
-        "published_kst": "2026-10-26T01:19:28+09:00",
+        "title": "Vietjet and Satair sign MOU to boost aviation supply chain - Travel Daily Media",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0x3WWVlVHl3ZE1Ybng4cy0wejZkMlEwOWVtdWhQbWFTcWlkU2UxUlJ3RmZ2STNNYXB4SGZUSzZ6bGdNd3dwYkQ1WFVadnlGbzh3QVU0LWRWS1drVHRDX3JBZ2haNHVSdm1TVGkyRDRsYmVlSGlFa3I3TzJJazVqeWpjS1VhbUN1c0I4dDBwUU9zVFdIb1Zz?oc=5",
+        "summary": "Vietjet and Satair sign MOU to boost aviation supply chain Travel Daily Media Vietjet and Satair sign MOU to boost aviation supply chain - Travel Daily Media",
+        "published": "Mon, 26 Oct 2026 06:01:42 GMT",
+        "published_kst": "2026-10-26T15:01:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions? - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ1JxQlNveTZSckpqLVR5eFJsci1WWF8xQVZteUV0ZFhqd0JWa1JaaGUtUmNyM00tRlVQcHdfcWZCRUFpTFdpVDN1TF9BazN6T2xXOHFPYmYzam4wUFNvMXNIWXBYRTdTU2xWQUtmTXlfcEZhQU9YN1N4cU43aWNjRDFreGZlRUpOM3BuWUE1VHhhODZSX2dlVm9JeEk5VXM5R19VSlh3b29sQXFa0gGyAUFVX3lxTE1PSXBpQXVLOTJkbW1jTkUtRGN2LXpoNkZkWjREYjZKNTlqTUdva1F6YnJTbFJNZUZUdVhsVHp6U2lxc0FRNDVpaFI3VkxOSWxQamgzcG52VlkxWEx4MGxoN2xHSDBjbzRjWDI0NUxxUG1KMjMxQUZYMnRmenZjSHJHeTExNzVrUzM5eHFyTk1oYWtjSm1hVG5aZ3dYTGVFdTRyNUcxOVFabW9PUHdXMl84SEE?oc=5",
-        "summary": "Al Jazeera Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-        "published": "Sun, 25 Oct 2026 14:51:13 GMT",
-        "published_kst": "2026-10-25T23:51:13+09:00",
+        "title": "US designates helium as a critical material, citing its importance for semiconductors - electronics.economictimes.indiatimes.com",
+        "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPTDhDRVRJSnlWM3BrS3hTUWxrZHF6c3k4MU9ST3g5RFBOR01JT21LUnpWLUdtQThKXzdFQWhTcjI0M0F3MUR0QTU4b1JKdTRhenNSNFg2MW9MZnc1T2Z1RUNBcmFYQ3JpVDNuNTVlbjVNT3E4OHBMa1hJNUIxM3NjSXdjek10Wi1XZ0s5QmxwVzBiZnZzYUMzSXBDMTBpUzdaQUJWeE5rYkFhWUlfMTBwWHNNSTA3WnE2TjNjQmtXeEc1dF9FQnZhQ3ZENjB0b1F6MzBPNHJzTjZuaEVobDQ3eTczSHgwTWhPaHFSUTdhMjFSVS1vckgyQ1E4Uy0wR19tdXNJVkU1SnZHeEVXa0dKRXR6cXYtendQY3hiMXhXbDNQeGJJbGlDWmVsZ1k3SlIz0gH_AUFVX3lxTFBxS3IzLWR0bWtod3g3cjh6N3V5UWwxalNNSlpaMTFBX2laWDV4RGtnemN2eG9LUmtKZG5GVkZYS2piTnJfX0RvV2pfS2ZpVmt4VWhBcUxUaGJrRDkxR255SmJVTURXeERVTTFtNk5yZzZyWHgtLUg5MDgwMVR6RV9RczZ0eUNLUUQ3QTBwOWpnSmt1YnZ4cjYxR2hBOVdzMXhONFJYZ3VjVEdRdTZITzU5dzFsUXpaZk1MS3RnNFZkSUZCaTdMX210V2xLZ0F6ak81MFlDSlc2ejNJRzFzb09WUlN1Y0VXM0FpZzRWcnBPNDM0YzREQ2k1b3dEcmFNRQ?oc=5",
+        "summary": "US designates helium as a critical material, citing its importance for semiconductors electronics.economictimes.indiatimes.com US designates helium as a critical material, citing its importance for semiconductors - electronics.economictimes.indiatimes.com",
+        "published": "Mon, 26 Oct 2026 02:44:37 GMT",
+        "published_kst": "2026-10-26T11:44:37+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +151,6 @@
       }
     ]
   },
-  "wrap_summary": "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances. ‘Ticking time bomb’: The world's pension funds face an ageing crisis / 한국물 역외IB 규제 속 발행사 의견수렴 나선 당국…이종통화 포함 눈길 연합인포맥스 한국물 역외IB 규제 속 발행사 의견수렴 나선 당국…이종통화 포함 눈길 - 연합인포맥스 / Nvidia Teams Up With 6 Supply Chain Partners to Expand Its Global AI Manufacturing Capacity Barchart.com Nvidia Teams Up With 6 Supply Chain Partners to Expand Its Global AI Manufacturing Capacity - Barchart.com",
+  "wrap_summary": "Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus Investing.com Canada Economic Week Ahead: Fed Decision, US Inflation and Big Tech Earnings in Focus - Investing.com Canada / 한국경제 빚투 급감하면 주가 바닥…코스닥 반등 공식 이번에도 통할까? / Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion Travel Trends Today Vietjet, Satair partner to strengthen aviation supply chain, supporting fleet growth and global expansion - Travel Trends Today",
   "invest_summary": ""
 }
