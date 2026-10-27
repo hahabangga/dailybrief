@@ -1,73 +1,73 @@
 {
-  "date": "2026-10-27",
-  "generated_at_utc": "2026-10-27T11:06:31Z",
-  "cutoff_kst": "2026-10-27T20:06:00+09:00",
+  "date": "2026-10-28",
+  "generated_at_utc": "2026-10-27T15:48:01Z",
+  "cutoff_kst": "2026-10-28T00:48:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-        "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-        "summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion. Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-        "published": "Tue, 27 Oct 2026 11:03:21 GMT",
-        "published_kst": "2026-10-27T20:03:21+09:00",
+        "title": "Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+        "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+        "summary": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday. Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027",
+        "published": "Tue, 27 Oct 2026 15:45:49 GMT",
+        "published_kst": "2026-10-28T00:45:49+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "32%",
-          "$398"
+          "9%",
+          "2027"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Investor bearishness climbs as inflation and midterms unsettle US markets - Wealth Professional",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGN6U3hlWEFWQzgxVnJzM0dFTTYyS0o4STNMRWZLTlg4ZWhuSkRQQUNrQmJQUHZtT3VQbzZpQXAxd1FqdkM4blNNMWFaNmlGNWFNcDVaQWsxWU9fUVloS1FwQm4xRzZXdUdrY1dVV1l4d3Fhc1d1RmtuN2Rsa193a1pZQmM2Y1JWd0NlZEFQSjdtSjB1QkN1RHdfd0c2WmRRU2dVeG1oWkZrckwtZWVQcUVKeUNyaS1SZ215MU1JWnl4TFBnMG9Kajl3bnhXQQ?oc=5",
-        "summary": "Investor bearishness climbs as inflation and midterms unsettle US markets Wealth Professional Investor bearishness climbs as inflation and midterms unsettle US markets - Wealth Professional",
-        "published": "Tue, 27 Oct 2026 11:01:59 GMT",
-        "published_kst": "2026-10-27T20:01:59+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Boeing is set to report earnings before the bell. Here's what Wall Street expects",
-        "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-        "summary": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday. Boeing is set to report earnings before the bell.",
-        "published": "Tue, 27 Oct 2026 11:00:01 GMT",
-        "published_kst": "2026-10-27T20:00:01+09:00",
+        "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+        "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+        "summary": "Markets overwhelmingly expect no change in benchmark interest rates following September's increase. Fed expected to hold rates steady, but Warsh may point way to more hikes",
+        "published": "Tue, 27 Oct 2026 15:42:31 GMT",
+        "published_kst": "2026-10-28T00:42:31+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
-        "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
-        "summary": "GM expects to keep its “GM” ticker symbol, and the company says shareholders do not need to take action because of the transfer. GM will switch to Nasdaq from the NYSE on Nov.",
-        "published": "Tue, 27 Oct 2026 10:49:45 GMT",
-        "published_kst": "2026-10-27T19:49:45+09:00",
+        "title": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
+        "url": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
+        "summary": "national security charges after an incident at a British air base used by U.S. Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
+        "published": "Tue, 27 Oct 2026 15:41:11 GMT",
+        "published_kst": "2026-10-28T00:41:11+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Futures Muted After Anthropic-Fueled Rally; FOMC Meeting and Earnings on Tap - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXYtZDFIcDM5OXZRUkFORFR1SjlXZlJOZVlvd1lVb1dDWFN2Nk9ObzlmbFh2SGw0ZkZxUzR1cnNFRmJWU0hnay1LcnphTkhmQlpyUVg0dXZtLVpmRzM1VEduQVdRVTExenZDZXNtcVdreFo0WE4xT3VkYkQ5TGlGbzZZZC1nSlVLQ29qQ1lrd0pUM1VtTEg1OEdLM2dvb3l5NkRBSkpoenJ0WTNxdFctczlHM0dUc0RXRkNNOVNBZFU?oc=5",
-        "summary": "Futures Muted After Anthropic-Fueled Rally; FOMC Meeting and Earnings on Tap Barchart.com U.S.",
-        "published": "Tue, 27 Oct 2026 10:27:50 GMT",
-        "published_kst": "2026-10-27T19:27:50+09:00",
+        "title": "Ousted White House press secretary clings to 6-word message from Trump - NJ.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHBxbzlwaFo2Q044a2ZCT2czaW9Oc2VqMGRJLWhreFI5Wk1hS1lLaE5NWkdsNlJvdDVyazBkT2dPRW5rSXhYN200WXNCWHlsaGFqckViWWRJOHUxSnlJRUlhX1N0Qi1GSVY4eVc0UWV0NFdJZ0R1MV9Yd0o5ME5pVFM4WkV1eW9kOGNfbEpwVlBQSVVza0pvOUYxMndTeF9EU0M1M3c5ZS11RzU0UmFwMg?oc=5",
+        "summary": "Ousted White House press secretary clings to 6-word message from Trump NJ.com Ousted White House press secretary clings to 6-word message from Trump - NJ.com",
+        "published": "Tue, 27 Oct 2026 15:12:00 GMT",
+        "published_kst": "2026-10-28T00:12:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The next two months are pivotal for Trump's D.C. projects - Axios",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXAyZFJXWmlUSU5PS0l6RDU3d2E1MTFuRU1LTXdPRWl6T20teHVfcXhiSXo4bm85T1hia0hEaUFMOXRCU01fbVZIVk43MExzQUlKeFpLaExsd2prT18xSWpzR3dZUE53cEZGajhWTTRZWGt1UFRaUWU4a3l4aWZzdk4zMmRDSlVBNlhGN2VFWkVzRlJIUS1sZ3N1cnE1bDhRV3Nz?oc=5",
-        "summary": "projects Axios The next two months are pivotal for Trump's D.C.",
-        "published": "Tue, 27 Oct 2026 10:23:49 GMT",
-        "published_kst": "2026-10-27T19:23:49+09:00",
+        "title": "Katie Zacharia blames brief White House tenure on lack of prep - MS NOW",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa05YMVJ0YVJqeEZrWlVISVpLanJqeEZzV0c3UEtlOFN4LVZXemRmN3lMSXB0MlZEMnFDRHNadjdaMFZWUEh2OEZzRjVIS0NWLVd3dUIzejZMM242aWlYOUZ5Umh1U0JIREJDanlYRkljZG9LX3Rud0xBMGplY3BGMUkyOUloSUdPTk9CM2dFbFBCV0U1cjJrTGFtSDlnZU51UG1B?oc=5",
+        "summary": "Katie Zacharia blames brief White House tenure on lack of prep MS NOW Katie Zacharia blames brief White House tenure on lack of prep - MS NOW",
+        "published": "Tue, 27 Oct 2026 15:02:12 GMT",
+        "published_kst": "2026-10-28T00:02:12+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The Cheesecake Factory’s longtime designer claps back at Obama - CNN",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHhnY2NqckJxZ04taDFPUU1RdGV3cEh6NVhaM1h5Q2dHQzdGRk9kMmNqRWhfWmdRaXhBWC1LdktsTWVtNm9wUlZPMXRZODlqeExYek93OGlZR3p1T2pJWmpJai1ZaERDeVpnUkY3aXFseGVtR1FxcUpyLXNYYkQ0Z25VTQ?oc=5",
+        "summary": "The Cheesecake Factory’s longtime designer claps back at Obama CNN The Cheesecake Factory’s longtime designer claps back at Obama - CNN",
+        "published": "Tue, 27 Oct 2026 14:56:09 GMT",
+        "published_kst": "2026-10-27T23:56:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -76,70 +76,70 @@
     ],
     "kr": [
       {
-        "title": "쩐 탄 만 국회 의장이 한국-베트남 우호협회 대표단을 접견하고 있다. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0lHX2F5emY3dWw1Z2tfRUV6NkpHTEQ5dHVQTG9yQlJJRDkyMmFCSVMtc09mNWtDZ244N2w3Z2x4OEx3d2YyWksyU2JKTHRZZElEel9lZ1JDR0lCTVJyeUZMNS1KWmFUU1d1MjREQmlMYjRpZy14WDZlRlVaWmRjLWtfYmxtQmdXNHdoVlZHRGk0ZFVwdTlnN092czlZaFhq?oc=5",
-        "summary": "Vietnam.vn 쩐 탄 만 국회 의장이 한국-베트남 우호협회 대표단을 접견하고 있다.",
-        "published": "Tue, 27 Oct 2026 10:34:43 GMT",
-        "published_kst": "2026-10-27T19:34:43+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "'김미영 팀장' 잡은 경찰, 뭐하고 지내나 봤더니…''깜짝' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uR2drcXBZMGRVT21OYmYtSm9jOUtnaHZqRmVMU3pZaXd3aWNkMXZjSnNCbGhzeks3NmtodnEyQTNVRmNkTzFYeTZkbkNwOUYzdll3VjdQMjYtdw?oc=5",
-        "summary": "'김미영 팀장' 잡은 경찰, 뭐하고 지내나 봤더니…''깜짝' 한국경제 '김미영 팀장' 잡은 경찰, 뭐하고 지내나 봤더니…''깜짝' - 한국경제",
-        "published": "Tue, 27 Oct 2026 10:22:00 GMT",
-        "published_kst": "2026-10-27T19:22:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OOXQ2T2hMVHBVcDVrNUFxdkFBWU5nV0d6SmxndFNYOHg3QUNpQ2tGbENwNXlsMk4zUDRwYVg2RmJZekxoUWNnOWlvODR5MTBXdTRrZzQ4Q2NfZw?oc=5",
-        "summary": "\"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 한국경제 \"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 - 한국경제",
-        "published": "Tue, 27 Oct 2026 10:00:00 GMT",
-        "published_kst": "2026-10-27T19:00:00+09:00",
+        "title": "반도체·정부지출이 끌어올린 1% 성장…한국 경제, 전망치 세 배 웃었다 - https://www.sisaworld.kr/",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVVFNSN2NYQnhsTV9UWGsxdHh4RjY3SUVMM0hmYUdlRHo2bEEzTEdFTmE3TXFyVFFqa1NZVVljeXQ5SldycFZuVkgzNkVBdm1EMXJ5TWs4ZGdScnZ5NnZ2dEk4MjhidTJlSFE?oc=5",
+        "summary": "반도체·정부지출이 끌어올린 1% 성장…한국 경제, 전망치 세 배 웃었다 https://www.sisaworld.kr/ 반도체·정부지출이 끌어올린 1% 성장…한국 경제, 전망치 세 배 웃었다 - https://www.sisaworld.kr/",
+        "published": "Tue, 27 Oct 2026 15:18:05 GMT",
+        "published_kst": "2026-10-28T00:18:05+09:00",
         "domain": "google.com",
         "key_figures": [
-          "3%"
+          "1%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "한인 정치인 반기듯 이민자 정치 참여도 반겨야[폴 카버 한국 블로그] - 동아일보",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoR1ZLWnYxSmF1dWpyS3JhbUQ1STlHMTlBdEgyaGt3ZFEwSlBpY3pmVWpxd0xHdVdKdnp1X0F4S3VmeVNaSFlyMGlzWkRBMmR5ckNhaXZieHk0VlFjZW5xOXBjdFlKWWN0UjFqX21nak1mdVR0S3fSAWZBVV95cUxOMzZBbVlyMzN2NE1UemhaSnZ3eGNDR0JoWW5peDRTYWRMYzlLYVNIb0RhNWIxOU1hZnUwaG5RZmhGcVNnWTctNncybzIxaTd1SEZoX2NaZXF6c1JzS1c2Y21Bb2NuWmc?oc=5",
+        "summary": "한인 정치인 반기듯 이민자 정치 참여도 반겨야[폴 카버 한국 블로그] 동아일보 한인 정치인 반기듯 이민자 정치 참여도 반겨야[폴 카버 한국 블로그] - 동아일보",
+        "published": "Tue, 27 Oct 2026 14:00:00 GMT",
+        "published_kst": "2026-10-27T23:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "브로드컴 매수 상향…팔란티어 목표가 260달러 [월가 업&다운] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYTFYLU15VEUzSGFyTk5NTTdIQVB1Wk5IRjRoQUtBV2tKUm1XYXJrN24wVlJ4R2tXOVMyc1ItMVlfSjgwWk1sWmJLUTR4S1FYTHB5Z0tnQnppUQ?oc=5",
+        "summary": "브로드컴 매수 상향…팔란티어 목표가 260달러 [월가 업&다운] 한국경제 브로드컴 매수 상향…팔란티어 목표가 260달러 [월가 업&다운] - 한국경제",
+        "published": "Tue, 27 Oct 2026 13:11:16 GMT",
+        "published_kst": "2026-10-27T22:11:16+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "INTERPOM: building a resilient potato supply chain together - FruitToday",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTUtSEZBTnZwc080WlFwdzE4N1pOdWM1OXRmUEhKM3pYTnlQN1M2WDNOcVJaUm5hTncweThfVHl1UE9DTjJ0S1BXOURfY1VvT3BfYzFzRGZ4MTB2SDg5cG00S1FhY1VnZGJIeXFRejNiR2R6VzlmVldaTGdKQzNkWUJFZk5tczRibjktN0V3?oc=5",
-        "summary": "INTERPOM: building a resilient potato supply chain together FruitToday INTERPOM: building a resilient potato supply chain together - FruitToday",
-        "published": "Tue, 27 Oct 2026 11:00:33 GMT",
-        "published_kst": "2026-10-27T20:00:33+09:00",
+        "title": "Tech Tuesday: AI Agents on the Way - WWD",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcUJnNmJXZkE2d0JYWVR4dGNlaG85d1lDdFRrS3RlTEdZWGx0c0pnTXBQNjJOSm5pR080Ul9UQTFGdFZKWXNkeVgxN0VmRGlfQjBtNnNzZUxrS0wteUp6UEtRb2ItNjF0OHl0elBmX3lVZmJlZkFZRlhYSzFMM2w2bjZIODVxVUppVzlQbkNHRkI2Yzg?oc=5",
+        "summary": "Tech Tuesday: AI Agents on the Way WWD Tech Tuesday: AI Agents on the Way - WWD",
+        "published": "Tue, 27 Oct 2026 14:47:28 GMT",
+        "published_kst": "2026-10-27T23:47:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "WCS & Hershey: Establishing Sustainable Cocoa Supply Chains - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTc0emxBcWVoSjdwTXZtTFhsSC1DSDNpUlRTN1BDMHFDMXZ4MjFZOHZGTkJ4bk9NTlBCUGJpM2U4Y2dSRDRJN0p2WFlfZGhsdDFNeTk5dmlSRkZsbWNVR0ZmSTNFY3QxNFlqQVd3VFdDTzVobDNaT3h3WE9sRkFYWDdHODN5eEZKa1lRazhvZWhNVWZScmc0LTBmNXc?oc=5",
-        "summary": "WCS & Hershey: Establishing Sustainable Cocoa Supply Chains Supply Chain Digital Magazine WCS & Hershey: Establishing Sustainable Cocoa Supply Chains - Supply Chain Digital Magazine",
-        "published": "Tue, 27 Oct 2026 10:30:12 GMT",
-        "published_kst": "2026-10-27T19:30:12+09:00",
+        "title": "Trump’s sanctions against the International Criminal Court undermine justice - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpTW9qQVFqcmFTNkRhc3l5dFQtbzRiSllIY19ELUZ0ajZsaUdjM0JjbjRUeGx5T3NwekRzNjNZWlF1ZDVVUkcwZmNuMi0xZFotZUoteXU5aHpVdk5uZFdhWS0zUEwxQUNpczFFVnJmT1VUNHNZSkJ0SFVR0gF_QVVfeXFMT1lIUjItWjZyTFo0YU1wcnk1X1ZLcGhNcGlfSzh2c2J4VzNfbmwwc0FDMVhhakphZGVlVk9jVmxJRnEzM1VCOXBoWV9jeWJJVkhxOXdJVDRKeXJVTTZBM0VJS25tUk5PZ2dUZFRjajg0UThHdEY5Y1FLRGN1X3N1UQ?oc=5",
+        "summary": "Trump’s sanctions against the International Criminal Court undermine justice The Hill Trump’s sanctions against the International Criminal Court undermine justice - The Hill",
+        "published": "Tue, 27 Oct 2026 14:30:00 GMT",
+        "published_kst": "2026-10-27T23:30:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Citi, Visa still matter to China, and vice versa - Breakingviews",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb21sUnBhc3BNVkxMeFdLeDRxcnhwWTNlOXNLYW9FSUZDRllmMHFIcmE3VVk0MFdzcTA0MWdoTXlvQ2E3TW92VDRKS2dNWl9zTk01QzBzV1hCdTI3aXRnR1paalhRODVEaE45OU9Ec21SOVJBTTNFMl9jT0FVc0JlSGdMMzRtbWpvN18zX1NudmJEOFIwVDR3N0poZzhCM2RKQTJVRGNDZnQ?oc=5",
-        "summary": "Citi, Visa still matter to China, and vice versa Breakingviews Citi, Visa still matter to China, and vice versa - Breakingviews",
-        "published": "Tue, 27 Oct 2026 10:05:36 GMT",
-        "published_kst": "2026-10-27T19:05:36+09:00",
+        "title": "China’s energy supply chain is withstanding test of Middle East war, expert says - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNU1MOEtZNmd3Uzk0bzh6amFuTnY2MzJNeGNhTllidTl6TG1yU3dBOWwyLVR3T0dTQmxXbV94Mi1Kcjl4dVAtakFwVzZQamx0QnBrZjBSYmo2NnNOa2RKNG5fRnQxY2N0Q3ktdHJWTGxianA4U1gyalEwZGFxX3dTMC1uYmYtc01qbE0zV3FmSlR0cDBpbDRtdUM4WHJpZkdHQk9CS1FzYnd2XzFMZXlUZTdDaXA3WDNxS1FDZ0VaQ3djZm9oYUJ6dWhCMmg2OHdORnRkcE1FaFJyM0EyZ1ZnR0xBQ2lWYU1Ddkc2OEoyS2gwRUJU?oc=5",
+        "summary": "China’s energy supply chain is withstanding test of Middle East war, expert says South China Morning Post China’s energy supply chain is withstanding test of Middle East war, expert says - South China Morning Post",
+        "published": "Tue, 27 Oct 2026 14:00:21 GMT",
+        "published_kst": "2026-10-27T23:00:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -147,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion. Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America / Vietnam.vn 쩐 탄 만 국회 의장이 한국-베트남 우호협회 대표단을 접견하고 있다. / INTERPOM: building a resilient potato supply chain together FruitToday INTERPOM: building a resilient potato supply chain together - FruitToday",
+  "wrap_summary": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday. Boeing stock sinks 9% as company says it won't significantly ramp up 737 Max production until late 2027 / 반도체·정부지출이 끌어올린 1% 성장…한국 경제, 전망치 세 배 웃었다 https://www.sisaworld.kr/ 반도체·정부지출이 끌어올린 1% 성장…한국 경제, 전망치 세 배 웃었다 - https://www.sisaworld.kr/ / Tech Tuesday: AI Agents on the Way WWD Tech Tuesday: AI Agents on the Way - WWD",
   "invest_summary": ""
 }
