@@ -1,72 +1,73 @@
 {
   "date": "2026-10-27",
-  "generated_at_utc": "2026-10-27T06:56:40Z",
-  "cutoff_kst": "2026-10-27T15:56:00+09:00",
+  "generated_at_utc": "2026-10-27T11:06:31Z",
+  "cutoff_kst": "2026-10-27T20:06:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "US midterm elections: Trump's biggest economic problem looks familiar - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDalJxYmZUT2pWUzVDcjVmZ25RekZBR3M5QUc5bUJ5SkxYbk1UVVN4bU9MZl9xZkQzRGpmLV9IU2JvRW1RRnRkamlYOWFWTy1DSG5RaFlfR1Z5ZU0?oc=5",
-        "summary": "US midterm elections: Trump's biggest economic problem looks familiar BBC US midterm elections: Trump's biggest economic problem looks familiar - BBC",
-        "published": "Tue, 27 Oct 2026 06:01:11 GMT",
-        "published_kst": "2026-10-27T15:01:11+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-        "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-        "summary": "HSBC announced its third-quarter earnings on Tuesday. HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-        "published": "Tue, 27 Oct 2026 05:30:10 GMT",
-        "published_kst": "2026-10-27T14:30:10+09:00",
+        "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+        "url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+        "summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion. Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+        "published": "Tue, 27 Oct 2026 11:03:21 GMT",
+        "published_kst": "2026-10-27T20:03:21+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$1"
+          "32%",
+          "$398"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Yale professors among plaintiffs in lawsuit over White House media bans - Yale Daily News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFF6aGJOYS02bFRHYlRod0E2a0U4d1k1T1ZoOERwQ3JaekVqaDc3ZkN0Y3lIYm1WWVJBeWJvZVlmazZzTUt1bHBYa0ZTMzN2WURUTlpKSjRKcE5OclVYYU5JNTZBczNyVm9QcGJZNy1LMU9pSVhFQ3VSVkZ0a0pBVDdWVWZ4bWNsaHpjcEF4NlNnb0NhNlJvamhsSXJEdEJFOFZvbENkWE5yZw?oc=5",
-        "summary": "Yale professors among plaintiffs in lawsuit over White House media bans Yale Daily News Yale professors among plaintiffs in lawsuit over White House media bans - Yale Daily News",
-        "published": "Tue, 27 Oct 2026 05:10:53 GMT",
-        "published_kst": "2026-10-27T14:10:53+09:00",
+        "title": "Investor bearishness climbs as inflation and midterms unsettle US markets - Wealth Professional",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGN6U3hlWEFWQzgxVnJzM0dFTTYyS0o4STNMRWZLTlg4ZWhuSkRQQUNrQmJQUHZtT3VQbzZpQXAxd1FqdkM4blNNMWFaNmlGNWFNcDVaQWsxWU9fUVloS1FwQm4xRzZXdUdrY1dVV1l4d3Fhc1d1RmtuN2Rsa193a1pZQmM2Y1JWd0NlZEFQSjdtSjB1QkN1RHdfd0c2WmRRU2dVeG1oWkZrckwtZWVQcUVKeUNyaS1SZ215MU1JWnl4TFBnMG9Kajl3bnhXQQ?oc=5",
+        "summary": "Investor bearishness climbs as inflation and midterms unsettle US markets Wealth Professional Investor bearishness climbs as inflation and midterms unsettle US markets - Wealth Professional",
+        "published": "Tue, 27 Oct 2026 11:01:59 GMT",
+        "published_kst": "2026-10-27T20:01:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
-        "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-        "summary": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower Oil falls as renewed diplomatic efforts to end Mideast conflict ease supply concerns",
-        "published": "Tue, 27 Oct 2026 05:09:59 GMT",
-        "published_kst": "2026-10-27T14:09:59+09:00",
+        "title": "Boeing is set to report earnings before the bell. Here's what Wall Street expects",
+        "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+        "summary": "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday. Boeing is set to report earnings before the bell.",
+        "published": "Tue, 27 Oct 2026 11:00:01 GMT",
+        "published_kst": "2026-10-27T20:00:01+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-        "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-        "summary": "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress. Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-        "published": "Tue, 27 Oct 2026 04:40:30 GMT",
-        "published_kst": "2026-10-27T13:40:30+09:00",
+        "title": "GM will switch to Nasdaq from the NYSE on Nov. 17",
+        "url": "https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html",
+        "summary": "GM expects to keep its “GM” ticker symbol, and the company says shareholders do not need to take action because of the transfer. GM will switch to Nasdaq from the NYSE on Nov.",
+        "published": "Tue, 27 Oct 2026 10:49:45 GMT",
+        "published_kst": "2026-10-27T19:49:45+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump defends White House redecorating — and Cheesecake Factory — from Obama’s mocking - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV18wenV6RkduUE1ETVJ6RXNIUUNrNHJsM1NEU3I5aHZVV0RLQWR6MTJNMVEzeEVfRnEyUHM0RGJjMGtkR0xHNU9SV09zMjNWWmZxNUluUUZqMEtfamFtSWdKa0pJNjUtOVUtaW84ajlBZU95ODcwUm9xUExLSVVWR2VweFdJX0M4ZkRpUVcxTldRMHRLNU9pWmJJUFJIcFJkRmN4eDJpdjlUQjE0M2VxNXBCTWZaRUtxdEZQMWdOOGJBZw?oc=5",
-        "summary": "Trump defends White House redecorating — and Cheesecake Factory — from Obama’s mocking The Washington Post Trump defends White House redecorating — and Cheesecake Factory — from Obama’s mocking - The Washington Post",
-        "published": "Tue, 27 Oct 2026 04:35:00 GMT",
-        "published_kst": "2026-10-27T13:35:00+09:00",
+        "title": "U.S. Futures Muted After Anthropic-Fueled Rally; FOMC Meeting and Earnings on Tap - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXYtZDFIcDM5OXZRUkFORFR1SjlXZlJOZVlvd1lVb1dDWFN2Nk9ObzlmbFh2SGw0ZkZxUzR1cnNFRmJWU0hnay1LcnphTkhmQlpyUVg0dXZtLVpmRzM1VEduQVdRVTExenZDZXNtcVdreFo0WE4xT3VkYkQ5TGlGbzZZZC1nSlVLQ29qQ1lrd0pUM1VtTEg1OEdLM2dvb3l5NkRBSkpoenJ0WTNxdFctczlHM0dUc0RXRkNNOVNBZFU?oc=5",
+        "summary": "Futures Muted After Anthropic-Fueled Rally; FOMC Meeting and Earnings on Tap Barchart.com U.S.",
+        "published": "Tue, 27 Oct 2026 10:27:50 GMT",
+        "published_kst": "2026-10-27T19:27:50+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The next two months are pivotal for Trump's D.C. projects - Axios",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbXAyZFJXWmlUSU5PS0l6RDU3d2E1MTFuRU1LTXdPRWl6T20teHVfcXhiSXo4bm85T1hia0hEaUFMOXRCU01fbVZIVk43MExzQUlKeFpLaExsd2prT18xSWpzR3dZUE53cEZGajhWTTRZWGt1UFRaUWU4a3l4aWZzdk4zMmRDSlVBNlhGN2VFWkVzRlJIUS1sZ3N1cnE1bDhRV3Nz?oc=5",
+        "summary": "projects Axios The next two months are pivotal for Trump's D.C.",
+        "published": "Tue, 27 Oct 2026 10:23:49 GMT",
+        "published_kst": "2026-10-27T19:23:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,74 +76,70 @@
     ],
     "kr": [
       {
+        "title": "쩐 탄 만 국회 의장이 한국-베트남 우호협회 대표단을 접견하고 있다. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0lHX2F5emY3dWw1Z2tfRUV6NkpHTEQ5dHVQTG9yQlJJRDkyMmFCSVMtc09mNWtDZ244N2w3Z2x4OEx3d2YyWksyU2JKTHRZZElEel9lZ1JDR0lCTVJyeUZMNS1KWmFUU1d1MjREQmlMYjRpZy14WDZlRlVaWmRjLWtfYmxtQmdXNHdoVlZHRGk0ZFVwdTlnN092czlZaFhq?oc=5",
+        "summary": "Vietnam.vn 쩐 탄 만 국회 의장이 한국-베트남 우호협회 대표단을 접견하고 있다.",
+        "published": "Tue, 27 Oct 2026 10:34:43 GMT",
+        "published_kst": "2026-10-27T19:34:43+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "'김미영 팀장' 잡은 경찰, 뭐하고 지내나 봤더니…''깜짝' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uR2drcXBZMGRVT21OYmYtSm9jOUtnaHZqRmVMU3pZaXd3aWNkMXZjSnNCbGhzeks3NmtodnEyQTNVRmNkTzFYeTZkbkNwOUYzdll3VjdQMjYtdw?oc=5",
+        "summary": "'김미영 팀장' 잡은 경찰, 뭐하고 지내나 봤더니…''깜짝' 한국경제 '김미영 팀장' 잡은 경찰, 뭐하고 지내나 봤더니…''깜짝' - 한국경제",
+        "published": "Tue, 27 Oct 2026 10:22:00 GMT",
+        "published_kst": "2026-10-27T19:22:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
         "title": "\"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 - 한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OOXQ2T2hMVHBVcDVrNUFxdkFBWU5nV0d6SmxndFNYOHg3QUNpQ2tGbENwNXlsMk4zUDRwYVg2RmJZekxoUWNnOWlvODR5MTBXdTRrZzQ4Q2NfZw?oc=5",
         "summary": "\"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 한국경제 \"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 - 한국경제",
-        "published": "Tue, 27 Oct 2026 06:38:01 GMT",
-        "published_kst": "2026-10-27T15:38:01+09:00",
+        "published": "Tue, 27 Oct 2026 10:00:00 GMT",
+        "published_kst": "2026-10-27T19:00:00+09:00",
         "domain": "google.com",
         "key_figures": [
           "3%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "3분기 GDP 1% 껑충… 정작 가계·지역 경제엔 ‘찬바람’ - 대구일보",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nNk1EQmhMNm40UW9hVFU1VEJRdi1IY0JjVkMxUFdwS2pVWk9SdGc0VGF4dFIzYWE5MEd3ejBBekFXNncwNEthRmhxR3g1c0Q3ZVVLTHVJLWxNVGJHS0d6Y1k5YzI0aXZJ?oc=5",
-        "summary": "3분기 GDP 1% 껑충… 정작 가계·지역 경제엔 ‘찬바람’ 대구일보 3분기 GDP 1% 껑충… 정작 가계·지역 경제엔 ‘찬바람’ - 대구일보",
-        "published": "Tue, 27 Oct 2026 06:34:51 GMT",
-        "published_kst": "2026-10-27T15:34:51+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "1%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "‘당장은 한국 경제에 호재?’... 알고 보면 화를 부를 수 있는 3가지 - 문화일보",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tVC1IYl9EaHIwRm43d2NRcHdLTDBJd1BmUkFCUHl0TnI0dHd1LXZwdHZ1ZkZLT0VoZEtta1dpMFVnbFVxTXRVNjNFeWdDQzhf?oc=5",
-        "summary": "알고 보면 화를 부를 수 있는 3가지 문화일보 ‘당장은 한국 경제에 호재?’... ‘당장은 한국 경제에 호재?’...",
-        "published": "Tue, 27 Oct 2026 06:24:32 GMT",
-        "published_kst": "2026-10-27T15:24:32+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Mahindra's Bristlecone Targets Billion-Dollar Valuation With 24% Growth - Rediff",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQXE0aVpOdzdqa1FGNFZnU0NwenhlWXpHTDJTYk5SOVpqS0huekx4end2ME1ibHdpbTM1QzZvMHgyUHVNaWtHNlF5U1Iza01QU1VqTnVvdE5CZEp6YjFvdFlZeEFEX1VVemtnZ1AyZ2EzVVdaNlJ3V3lGRC1ST2x0X1htOEZNSkxHT2Nnb3o2VHZmcXVPWXYyZDVBSXlIYURJWWU5d1JLeDhtVkFUZDZrX9IBswFBVV95cUxNR0NwX3pOeVhWazViOExWc3B2dzcyVnBPeEtSRjRQQk01V25ScUV3dmxtVGduOThHZ19vNnB5UHB5T2VqOVVGaHcyTTczVHRqdFByQTgtTUpRdG1GMFMzMmF3SlBiOTY0SHhETXhFU0FMUG02RG41YjF3UUdzaVE1cTRkWmtwbDA5aXBfMG41QnJYZXg3cDRRNUNIbGI5Wkc1enVBUmxXTHNBMnpGQ0RHX3JGMA?oc=5",
-        "summary": "Mahindra's Bristlecone Targets Billion-Dollar Valuation With 24% Growth Rediff Mahindra's Bristlecone Targets Billion-Dollar Valuation With 24% Growth - Rediff",
-        "published": "Tue, 27 Oct 2026 06:32:48 GMT",
-        "published_kst": "2026-10-27T15:32:48+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "24%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The Supply-Chain Lesson Companies Are Relearning: Resilience Is Not Isolation - Global Banking & Finance Review",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1M4ZXZZZjRNRmNZTnZieTdVNm0xdEVwNm5RNGdOelhMdEhOMXhqa1V1SUp5eFNtR25IOVdKWGFWLTZrMEJIR09fX0Z4VHZMVl8xYkVRTVJfTXlMZ3l5MXRaN2lZYkhycEllWFl1VDI3OXpJSnBpdWoweGZ0YVpGYWw2UWRYWW9uUGM0cEhxdDFTaVIxaFFtMzE1bnUyV3o1MVR2WTYtVnpaeXJ2YmJENVZzdDFsQ0NM?oc=5",
-        "summary": "The Supply-Chain Lesson Companies Are Relearning: Resilience Is Not Isolation Global Banking & Finance Review The Supply-Chain Lesson Companies Are Relearning: Resilience Is Not Isolation - Global Banking & Finance Review",
-        "published": "Tue, 27 Oct 2026 06:28:30 GMT",
-        "published_kst": "2026-10-27T15:28:30+09:00",
+        "title": "INTERPOM: building a resilient potato supply chain together - FruitToday",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTUtSEZBTnZwc080WlFwdzE4N1pOdWM1OXRmUEhKM3pYTnlQN1M2WDNOcVJaUm5hTncweThfVHl1UE9DTjJ0S1BXOURfY1VvT3BfYzFzRGZ4MTB2SDg5cG00S1FhY1VnZGJIeXFRejNiR2R6VzlmVldaTGdKQzNkWUJFZk5tczRibjktN0V3?oc=5",
+        "summary": "INTERPOM: building a resilient potato supply chain together FruitToday INTERPOM: building a resilient potato supply chain together - FruitToday",
+        "published": "Tue, 27 Oct 2026 11:00:33 GMT",
+        "published_kst": "2026-10-27T20:00:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Samsung, Nvidia partner for AI chip substrate supply - ET Datacenters",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWHcxWEpnenJ1R3VBcXlXeTZQVWw0TDdUWTNjcTlwY0dOSktoLW0xaktGcklzd3RjNElCSlJCc2tVbjR4T3otN2VETXVydUFMS3dDX0VHNTlHYkpqeXdYeHlDanFSc0VGc19rZE5KZGo1NjdmVW1RV19KaVlLUWtkQlo3QUhSdEtvd2llRjk4WDU0bzF6dHE4MmdGNVpIbmJpRGNkVUQyV0lsU05LWXZjN25pRlB0XzBIOUxfeTM3a21WQ21JR1ZMSXhKNlZUcWk0XzBFenZHTGLSAdwBQVVfeXFMUEhfTTVPeEtFOTctUUFzMTlqdGI4NFZHX2RxTmRkdUwzTlRYOEVoWl8wR0F6WUotZFRVdTk0dzF6bk1OTURYbEE1UGdMNjJ2SUZIU05BNEFvbFJkNkJyTGZXV3Y1SnpfQXlGVEhVNFp5LVFhV2ZlMy1XSnlRVzBuTjVDMTZwMG9UNjRlV0x6bTUtekJJRlJfUzVtbDdhRE91blVfQTBKYjVBX2hwcjNmTEhPR1ZqN3J3UmtzQVVMN1ZZelZPN212cC16RkNTNXFnWldQbkJMaTJtLU5meQ?oc=5",
-        "summary": "Samsung, Nvidia partner for AI chip substrate supply ET Datacenters Samsung, Nvidia partner for AI chip substrate supply - ET Datacenters",
-        "published": "Tue, 27 Oct 2026 05:58:06 GMT",
-        "published_kst": "2026-10-27T14:58:06+09:00",
+        "title": "WCS & Hershey: Establishing Sustainable Cocoa Supply Chains - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTc0emxBcWVoSjdwTXZtTFhsSC1DSDNpUlRTN1BDMHFDMXZ4MjFZOHZGTkJ4bk9NTlBCUGJpM2U4Y2dSRDRJN0p2WFlfZGhsdDFNeTk5dmlSRkZsbWNVR0ZmSTNFY3QxNFlqQVd3VFdDTzVobDNaT3h3WE9sRkFYWDdHODN5eEZKa1lRazhvZWhNVWZScmc0LTBmNXc?oc=5",
+        "summary": "WCS & Hershey: Establishing Sustainable Cocoa Supply Chains Supply Chain Digital Magazine WCS & Hershey: Establishing Sustainable Cocoa Supply Chains - Supply Chain Digital Magazine",
+        "published": "Tue, 27 Oct 2026 10:30:12 GMT",
+        "published_kst": "2026-10-27T19:30:12+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Citi, Visa still matter to China, and vice versa - Breakingviews",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb21sUnBhc3BNVkxMeFdLeDRxcnhwWTNlOXNLYW9FSUZDRllmMHFIcmE3VVk0MFdzcTA0MWdoTXlvQ2E3TW92VDRKS2dNWl9zTk01QzBzV1hCdTI3aXRnR1paalhRODVEaE45OU9Ec21SOVJBTTNFMl9jT0FVc0JlSGdMMzRtbWpvN18zX1NudmJEOFIwVDR3N0poZzhCM2RKQTJVRGNDZnQ?oc=5",
+        "summary": "Citi, Visa still matter to China, and vice versa Breakingviews Citi, Visa still matter to China, and vice versa - Breakingviews",
+        "published": "Tue, 27 Oct 2026 10:05:36 GMT",
+        "published_kst": "2026-10-27T19:05:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -150,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "US midterm elections: Trump's biggest economic problem looks familiar BBC US midterm elections: Trump's biggest economic problem looks familiar - BBC / \"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 한국경제 \"땡큐 앤트로픽\"…'사이드카' 울린 코스피 3%대 상승 마감 - 한국경제 / Mahindra's Bristlecone Targets Billion-Dollar Valuation With 24% Growth Rediff Mahindra's Bristlecone Targets Billion-Dollar Valuation With 24% Growth - Rediff",
+  "wrap_summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion. Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America / Vietnam.vn 쩐 탄 만 국회 의장이 한국-베트남 우호협회 대표단을 접견하고 있다. / INTERPOM: building a resilient potato supply chain together FruitToday INTERPOM: building a resilient potato supply chain together - FruitToday",
   "invest_summary": ""
 }
