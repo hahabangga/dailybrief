@@ -1,17 +1,67 @@
 {
   "date": "2026-10-28",
-  "generated_at_utc": "2026-10-28T00:46:09Z",
-  "cutoff_kst": "2026-10-28T09:46:00+09:00",
+  "generated_at_utc": "2026-10-28T07:38:57Z",
+  "cutoff_kst": "2026-10-28T16:38:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Anthropic's IPO is risky business",
-        "url": "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-        "summary": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence. Anthropic's IPO is risky business",
-        "published": "Wed, 28 Oct 2026 00:43:59 GMT",
-        "published_kst": "2026-10-28T09:43:59+09:00",
+        "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+        "url": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+        "summary": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority. Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+        "published": "Wed, 28 Oct 2026 07:29:41 GMT",
+        "published_kst": "2026-10-28T16:29:41+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge",
+        "url": "https://www.cnbc.com/2026/10/28/ubs-earnings-third-quarter.html",
+        "summary": "UBS pre-tax profits jump 27% in third quarter to $3.59 billion as wealth inflows surge UBS reported a third quarter pre-tax profit of almost $3.6 billion.",
+        "published": "Wed, 28 Oct 2026 07:23:56 GMT",
+        "published_kst": "2026-10-28T16:23:56+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "27%",
+          "$3.59",
+          "$3.6"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "A WNBA Finals game at lunchtime? Atlanta Dream criticizes league over schedule",
+        "url": "https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html",
+        "summary": "The Atlanta Dream criticized the WNBA for scheduling a Finals game on Thursday afternoon, drawing reactions from Flavor Flav and Hillary Clinton. A WNBA Finals game at lunchtime?",
+        "published": "Wed, 28 Oct 2026 07:15:45 GMT",
+        "published_kst": "2026-10-28T16:15:45+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Obama mocked Trump’s gold White House as a Cheesecake Factory. The chain just posted a record quarter - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYkY0c0UyLWtmRzh0d2lYNGpRZzMydVJhUWUyNlJ3bEF1bnpUdmd6TnRlVk4zMHNDNFctUUhKbVo0VEJNVmdBTFVHR3NMVFM0SlN2Vm5HY3BSb3kzeDB4OThwZVlHZWM0TEpmaTlpQTdDdnNRM3FpbXJxOXBPblczREhmSVF0QjNLUlo3Q1QyOFJhZDg?oc=5",
+        "summary": "The chain just posted a record quarter Fortune Obama mocked Trump’s gold White House as a Cheesecake Factory. Obama mocked Trump’s gold White House as a Cheesecake Factory.",
+        "published": "Wed, 28 Oct 2026 07:14:45 GMT",
+        "published_kst": "2026-10-28T16:14:45+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. Construction Industry Projected to Add 400,000 Jobs by 2035 - Hardware Retailing",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnhYazh6SXl1ZlhWbWZVRzNKelhLUDFUb2ZHcGl4STdoblE3UXJaczgwekFlYlowWUZ4aEhzeVdNRmVGS1ZGcEY4Q3paMTM4Njl2XzFSazJYQmswMWowcHNmaFExRkNtdGVDcGhncl85eUYxWnhldzl1RGtyaUFBdjVNaC16ZW9kU1A4REV2NmJ3LUJBcUg2Yg?oc=5",
+        "summary": "Construction Industry Projected to Add 400,000 Jobs by 2035 Hardware Retailing U.S.",
+        "published": "Wed, 28 Oct 2026 04:52:30 GMT",
+        "published_kst": "2026-10-28T13:52:30+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2035"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -19,53 +69,9 @@
         "title": "Grand jury declines to indict Cassidy Hutchinson over Jan. 6 testimony - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaTZ6MVVDcjRBSkRkVmk3blpYOGNFb2IyMlNQWE1paEdrT1FHcVdHUGxodXhfTUlOTGs5SkRXVXhSdjh6RlNIZHllNXdGREp1b2g0NDhNWUdIUzhXVEJ6MVhKZGp3YlZZdkNpWjFvLXhTeFFiWG93UXNLTC1GUDhkMEJMRVlhYjRfQk9uNWZHeEZaZEZHUEk0Q1ZjUGJ2YVZWSldIWDhrb1YxTWZ4Z1dLNVBkTmRuajlydHVxUzlGZUUta1dvQ1E?oc=5",
         "summary": "6 testimony The Washington Post Grand jury declines to indict Cassidy Hutchinson over Jan. Grand jury declines to indict Cassidy Hutchinson over Jan.",
-        "published": "Wed, 28 Oct 2026 00:43:45 GMT",
-        "published_kst": "2026-10-28T09:43:45+09:00",
+        "published": "Wed, 28 Oct 2026 04:25:58 GMT",
+        "published_kst": "2026-10-28T13:25:58+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How the Cheesecake Factory got dragged into a spat involving Trump and Obama days before the midterms - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeldkaFJLelFkTEU5bTM0WUlJdUd5ZC10cmVjXzZUVDMzamRsWnJwM2R0RnRnTmstMXpJMFE3OGxGV0FLX2VTSzJKQ2k5cENOb2ZnbWVMa3g4VU5iSW1jc1BwNXBCV0p5cGtORkVhN2FWWmZINjBPd1lDNnJZMEg2QlBTWFVCUTNfZTc4NUJWWWI0UWM2VnJ4ZVY1R2gtVjRtUWdLR0Z1M1pNTkcxU25OQlJkcmpzek5HUk02alpRU3NGT01sUkFHdmdMOWNKeDNaS2l6bjUwREk4aHRQUlUxay1lUEtkanNhY1FDX2p3T3Vxdw?oc=5",
-        "summary": "How the Cheesecake Factory got dragged into a spat involving Trump and Obama days before the midterms Yahoo How the Cheesecake Factory got dragged into a spat involving Trump and Obama days before the midterms - Yahoo",
-        "published": "Wed, 28 Oct 2026 00:37:00 GMT",
-        "published_kst": "2026-10-28T09:37:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-        "url": "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-        "summary": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. Major Indian brokerages are providing retail investors access to U.S.",
-        "published": "Wed, 28 Oct 2026 00:14:24 GMT",
-        "published_kst": "2026-10-28T09:14:24+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jury refuses to indict former White House aide who gave Jan. 6 testimony, AP sources say - The Seattle Times",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUlBXWS1YS2h6QVdBa2hJU0psYnNYa2cxWEdSUWNJdGhval8yX3dUc2NMM1FfVC1mM1g0dVFiZHBwWk9NblJia3NaZTUzaE1lU2l2cE1tNFlGZlU3aUV5ejJObGR5VHQ3LUZnUEZsNGYxZHppeDJlQXc1aU9XQlVhaHRlOVdFeU9EdjJkZWVOa2hMTFFpc05LTzFWSERCUHk1WHRYbm9GbFlzdE5hZWhtUTlBc3k4c01FdVJmZEpfN3NvMzdDcjhCOEozRVBzdE84c2c?oc=5",
-        "summary": "6 testimony, AP sources say The Seattle Times Jury refuses to indict former White House aide who gave Jan. Jury refuses to indict former White House aide who gave Jan.",
-        "published": "Wed, 28 Oct 2026 00:11:35 GMT",
-        "published_kst": "2026-10-28T09:11:35+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-        "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-        "summary": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings. SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-        "published": "Wed, 28 Oct 2026 00:09:17 GMT",
-        "published_kst": "2026-10-28T09:09:17+09:00",
-        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,33 +79,33 @@
     ],
     "kr": [
       {
-        "title": "[단독] 삼전닉스, 역대급 환원…주주에 '210조+α' 푼다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqanJCMk9waEVjd29BSzRfei1JZ0JrcTZpQVNacVRpaTZPVUNpWEVFWFl1T2JIZERHSjZnOVFoM2wtWUJaYmhEMl9wb0ZCSldBRG82V1c2Wi1fQQ?oc=5",
-        "summary": "[단독] 삼전닉스, 역대급 환원…주주에 '210조+α' 푼다 한국경제 [단독] 삼전닉스, 역대급 환원…주주에 '210조+α' 푼다 - 한국경제",
-        "published": "Wed, 28 Oct 2026 00:21:00 GMT",
-        "published_kst": "2026-10-28T09:21:00+09:00",
+        "title": "중국 겨눈 EU '하이브리드차' 쿼터 규제, 한국도 안심할 수 없다 - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFl1Y2paeW9hRVdEaVV4QkJiOUtQc2w4eXo1SWtkaDAteThkaVB1Q2tQLUZlZ0kwQ2ZncF9CcWR4U2pPUzVTYlpxRVRuY1dJTnlMTWlXVVdZWVdkYjk2OWU0YXozbldVMHNrQWpjU3A0VDJZSC1WaXB5UlBycFdkdQ?oc=5",
+        "summary": "중국 겨눈 EU '하이브리드차' 쿼터 규제, 한국도 안심할 수 없다 이데일리 중국 겨눈 EU '하이브리드차' 쿼터 규제, 한국도 안심할 수 없다 - 이데일리",
+        "published": "Wed, 28 Oct 2026 07:03:47 GMT",
+        "published_kst": "2026-10-28T16:03:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[속보] 빗썸 \"사내 모바일 시스템 해킹…개인정보 유출\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15bV9oMWdzcFAtUWJhZzFsdXRWcFBiRFRIQmlzeVpMSWFpX0dHdkE5aVVGYTRyM2tRUEV5NXhjQjVMWjJUWGhhTE5vVzBTSlNlenVlR01RVGNOUQ?oc=5",
-        "summary": "[속보] 빗썸 \"사내 모바일 시스템 해킹…개인정보 유출\" 한국경제 [속보] 빗썸 \"사내 모바일 시스템 해킹…개인정보 유출\" - 한국경제",
-        "published": "Wed, 28 Oct 2026 00:13:41 GMT",
-        "published_kst": "2026-10-28T09:13:41+09:00",
+        "title": "내년부터 경품·현금 통한 해외주식 판촉 금지 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCaXN2RzdTdUlRNFB1WllaWnRiU240djZYZ0dQUWNLSGJ5bW50VEVFR0hmTmRWZkhuNEtKZGJVd2ZPTXdPa1E1cUZ5OXkweE9EYlo5TzVjZm96UQ?oc=5",
+        "summary": "내년부터 경품·현금 통한 해외주식 판촉 금지 한국경제 내년부터 경품·현금 통한 해외주식 판촉 금지 - 한국경제",
+        "published": "Wed, 28 Oct 2026 06:57:10 GMT",
+        "published_kst": "2026-10-28T15:57:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "삼성생명, 위험도 측정해 보험상품 안전성 상시 모니터링 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iZUMzRFhOZmxxZEhZV0hLVDFKM3MzY0JQOVUwM1hDNGFPTWlPR1V3VWZtMmpVeC1qaEFtMkFyMk90eWRSTHBiVEpsUW5xaWZINkRTS1g3ZGtjUQ?oc=5",
-        "summary": "삼성생명, 위험도 측정해 보험상품 안전성 상시 모니터링 한국경제 삼성생명, 위험도 측정해 보험상품 안전성 상시 모니터링 - 한국경제",
-        "published": "Wed, 28 Oct 2026 00:00:20 GMT",
-        "published_kst": "2026-10-28T09:00:20+09:00",
+        "title": "신문 읽어주는 김상욱 시장…울산의 아침 여는 '라방 정치' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCTEtUZmRLdEwwSkt4MkFMNmNLQWZFc2ZMQWJUUWZabmZweEpQY0xod3BHaUlCX0VhZXU5U2lHRFBIbHhROHliUWtEZE9FVDdPVHF2bWNTeVh3dw?oc=5",
+        "summary": "신문 읽어주는 김상욱 시장…울산의 아침 여는 '라방 정치' 한국경제 신문 읽어주는 김상욱 시장…울산의 아침 여는 '라방 정치' - 한국경제",
+        "published": "Wed, 28 Oct 2026 06:54:41 GMT",
+        "published_kst": "2026-10-28T15:54:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -108,33 +114,33 @@
     ],
     "world": [
       {
-        "title": "Supply Chain ROI: Why CFOs Are Rethinking Multi-Year Investments - Mexico Business News",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0t1UmhBOXpBZk94bGR1V0d6U2NGdkRJZmJjRFdlTk80NEpTR1FxQWtwQ0ctSV9takc4UkRCMW9wQWdOMllpemZLWXFYcHF2V0RqU2RqbHdNYzROY3ZJOWJ2MnFzRzlkLWJNSl93UUV2Y3NSRUVFc3VCQ3h5QzVpMDczZFVpNk1KUzUwMGxLWHF3YlRydVh1MjIxNFRwMnhOQnhJdjFEQ2lTQQ?oc=5",
-        "summary": "Supply Chain ROI: Why CFOs Are Rethinking Multi-Year Investments Mexico Business News Supply Chain ROI: Why CFOs Are Rethinking Multi-Year Investments - Mexico Business News",
-        "published": "Tue, 27 Oct 2026 22:37:35 GMT",
-        "published_kst": "2026-10-28T07:37:35+09:00",
+        "title": "Supply-Chain Resilience Is Not About Bringing Everything Home - Global Banking & Finance Review",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaE1JLTBUa3p3X1lZWlFvcUlFYV8yYVR6STBWSjE0OWhpMzVVTnpaTDFaWk9HbWNGZ1h6ZEc2WGJPcHFFS3RibWtwYllwUDZoTlZtbXVEU2dIZEFiSzJQSm1pcHdRVzdjWklfZFF3QzNyUzBaR3hpb1dfR04zMzRib1JuY1VLLVVxTW4wYXR3dU5CVjc0cDdweTVBb0dsbG5BSXdjSA?oc=5",
+        "summary": "Supply-Chain Resilience Is Not About Bringing Everything Home Global Banking & Finance Review Supply-Chain Resilience Is Not About Bringing Everything Home - Global Banking & Finance Review",
+        "published": "Wed, 28 Oct 2026 07:28:39 GMT",
+        "published_kst": "2026-10-28T16:28:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "International Transportation Management: Fastest-Growing 3PL Segment - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQnh1SDNWTF92RjgxR0FYOVhfTHJqZ0JfN3BNSnR5QUxIZy1hWFZ4MERuUkg2dUdXVy0zYTl3VXJJWlViUVhwdjhQaEVVY3BwS0dNbWdVVjhNZFNPdjRUTHpuMVk1SXpBZFlzRzRWTjM0YXpvRUxQN2RfX3ZRV01qSjF1WFJFNkpwZzJCWDBaVTBYYkQwMTNpcXBMRVZ4Rl9qTG5lOTFoc0RmY0NGWWh3bnNUejBiWHNBdm1BeXJ0UGV6UU0zNmhFbFJGbVl3M0w4VllmR05JODd6NmhVM3hGS3NpZ193Vms?oc=5",
-        "summary": "International Transportation Management: Fastest-Growing 3PL Segment Supply & Demand Chain Executive International Transportation Management: Fastest-Growing 3PL Segment - Supply & Demand Chain Executive",
-        "published": "Tue, 27 Oct 2026 20:27:17 GMT",
-        "published_kst": "2026-10-28T05:27:17+09:00",
+        "title": "Ihi~ Signed MoU With St Engineering To Explore Collaboration In Nuclear Energy Sector Cooperation Toward Building And Strengthening Global Supply Chain - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTkRLbXI5RW1zVGN0RlJ1b1k2SUdtSFBuT0YxaDBJVi1CRVhVam1TaWNSNVBUTUN4N3Z0aUtkby1DNXlhTnRxSlY4azBSOHJST3BvMExidms0NGd4SXJxLV9QZG42WFM5UnhhaXBZZVhMa01GY05kekFvZktLd18tSnJ2SUNiaE1vWEU4SUxhRThkQmxBeDBOLS11TnBRNlh1UXR4RGpvNlZGazNJclJjZ3lDSjFfVXJGb3ZjaWh3SW5rdm9pQlFNNVlacFBMbUFzUFpVcHMzN0szck1yZ2g0R1FCVUljSE5lU1luSlZZM2MwbVh3Sk5ZQXBTMEp6WDh0bjI1dE1RQ0FHeF8yOGdHa09IUEIzamFOc1psc3ZPZmZibEJTN0hmZm1kb1l6VEZHRG5KRGNaMURfOUYxSW1PLTVB?oc=5",
+        "summary": "Ihi~ Signed MoU With St Engineering To Explore Collaboration In Nuclear Energy Sector Cooperation Toward Building And Strengthening Global Supply Chain TradingView Ihi~ Signed MoU With St Engineering To Explore Collaboration In Nuclear Energy Sector Cooperation Toward Building And Strengthening Global Supply Chain - TradingView",
+        "published": "Wed, 28 Oct 2026 05:53:00 GMT",
+        "published_kst": "2026-10-28T14:53:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight - KED Global",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iN05zVWw5NkZFNVkwbWpfNTNweWZudDIxdDhoeVo3T190WFphckF1ODBnQTU4SndjQzFYdkNFTGF6d2NjeHdwRzMtLW0yWFlOdURUdmU0YzM3TUJtaHkzN1NuMnV5MTVmQmNF?oc=5",
-        "summary": "Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight KED Global Boston Dynamics’ Atlas supply chain goes all-Korean, led by Hyundai Mobis; 10,000-unit order in sight - KED Global",
-        "published": "Tue, 27 Oct 2026 19:23:54 GMT",
-        "published_kst": "2026-10-28T04:23:54+09:00",
+        "title": "Vietnam hopes for greater role in Apple’s global supply chains - VOVWORLD",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHNjS00zbmN0QjB5TC1MWHZ1V2dUblZCVm9Ka2hXWDRHSldnblVLZk1ueXlPYXY0YUdScDZfRVlwb1VnNzU5Q0l1Vkp6b09qX0p2Y0VjdlBxUGRVekdvN3pJc0lvVWY0dzE4dTRWZ2MwcGlxUjZNVGloZW9iZktiSThJNTFvdkw3LXJVcFhlVlA2cjByWGxRS0h0Q1owd2Nz?oc=5",
+        "summary": "Vietnam hopes for greater role in Apple’s global supply chains VOVWORLD Vietnam hopes for greater role in Apple’s global supply chains - VOVWORLD",
+        "published": "Wed, 28 Oct 2026 04:55:00 GMT",
+        "published_kst": "2026-10-28T13:55:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -142,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence. Anthropic's IPO is risky business / [단독] 삼전닉스, 역대급 환원…주주에 '210조+α' 푼다 한국경제 [단독] 삼전닉스, 역대급 환원…주주에 '210조+α' 푼다 - 한국경제 / Supply Chain ROI: Why CFOs Are Rethinking Multi-Year Investments Mexico Business News Supply Chain ROI: Why CFOs Are Rethinking Multi-Year Investments - Mexico Business News",
+  "wrap_summary": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority. Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities / 중국 겨눈 EU '하이브리드차' 쿼터 규제, 한국도 안심할 수 없다 이데일리 중국 겨눈 EU '하이브리드차' 쿼터 규제, 한국도 안심할 수 없다 - 이데일리 / Supply-Chain Resilience Is Not About Bringing Everything Home Global Banking & Finance Review Supply-Chain Resilience Is Not About Bringing Everything Home - Global Banking & Finance Review",
   "invest_summary": ""
 }
