@@ -1,72 +1,72 @@
 {
   "date": "2026-10-29",
-  "generated_at_utc": "2026-10-29T01:18:27Z",
-  "cutoff_kst": "2026-10-29T10:18:00+09:00",
+  "generated_at_utc": "2026-10-29T07:44:17Z",
+  "cutoff_kst": "2026-10-29T16:44:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-        "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-        "summary": "Samsung Electronics reported third-quarter earnings on Thursday. Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-        "published": "Thu, 29 Oct 2026 01:13:47 GMT",
-        "published_kst": "2026-10-29T10:13:47+09:00",
+        "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+        "url": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+        "summary": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+        "published": "Thu, 29 Oct 2026 07:26:36 GMT",
+        "published_kst": "2026-10-29T16:26:36+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Microsoft’s strong quarter backs up its stock rebound. Here's our new price target",
-        "url": "https://www.cnbc.com/investingclub/2026/10/28/microsofts-quarter-validates-stock-rebound-heres-our-new-price-target.html",
-        "summary": "Microsoft shares are up nearly 3% in after-hours trading, putting the stock in record-high territory. Microsoft’s strong quarter backs up its stock rebound.",
-        "published": "Thu, 29 Oct 2026 00:32:02 GMT",
-        "published_kst": "2026-10-29T09:32:02+09:00",
+        "title": "Shares mixed after Google parent Alphabet's earnings disappoint - Yahoo Finance Australia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaEdVbnVOamtPalBEY3JsV00wNzJhQk1EaUVqNW5QdG9ZTUVPQ3RQeGk3bUtZdW02bnU3cHk5MThHZWF6ejZKakhMY2w5MFBZcHViT29qb2FmODkzVTJnaDRUbE5CNnlOcEVoNE9QaEliZHpTMlJfU3dCZTM4ZGIzYWNEUGpkUQ?oc=5",
+        "summary": "Shares mixed after Google parent Alphabet's earnings disappoint Yahoo Finance Australia Shares mixed after Google parent Alphabet's earnings disappoint - Yahoo Finance Australia",
+        "published": "Thu, 29 Oct 2026 07:02:16 GMT",
+        "published_kst": "2026-10-29T16:02:16+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Tencent, Visa deepen payments push in China after regulatory green light",
+        "url": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
+        "summary": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China. Tencent, Visa deepen payments push in China after regulatory green light",
+        "published": "Thu, 29 Oct 2026 07:01:50 GMT",
+        "published_kst": "2026-10-29T16:01:50+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold drops 1% as markets assess Fed signals, await US inflation data - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSERnUXZyNWRZQWZRU0tGNndXYW8ycGpzWHBuY25QZl9FSGFGVXlrMWF5c0FrTXN3VFRTclFyUm52SEFLTEI4bzliQmRIclg2Vng5X0NQaTRpWlFncnFFZFpJN3Fabnc0bE1qeWhOSEdqNnc2RUFGTFJPUWNtcl9icGNwOXlvcUZjSHhrRmNzVTE1NUxldG1FUUVKdDBtT3NHMDF0VHdpMkt4ZHhGZWVvaDNna1lQTVBXLS1INHM0VlI2MjU4VWJOVUY2TFI0M0owX2c?oc=5",
+        "summary": "Gold drops 1% as markets assess Fed signals, await US inflation data TradingView Gold drops 1% as markets assess Fed signals, await US inflation data - TradingView",
+        "published": "Thu, 29 Oct 2026 07:01:22 GMT",
+        "published_kst": "2026-10-29T16:01:22+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "3%"
+          "1%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. stock futures drop as Alphabet slides on soft earnings, Microsoft firms - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjB0N1U5ZjdmTVFTOHFuVWJmdUl3SzBERUZhd25hbEIzc0F1bTFBb2hhb1pjcmNkWF9JYWFQMF9VNVItUkpjcXBYdzZ5SF83Tko4X010MGkxZldTSmxEckZyNXI5V2pET0lodW5rS3V2N2k5UXF3dDRuQ0FmbnJQTE5oWFlLdWxwLTJaUTFuNzVVUnlVcU51dEhEbmtNM2x2N2dtSEhObnZxQlpJR2RmRTdfZWJvUEtfNXJucEd6T2FsNFFRTENhSkJR?oc=5",
-        "summary": "stock futures drop as Alphabet slides on soft earnings, Microsoft firms Investing.com U.S.",
-        "published": "Thu, 29 Oct 2026 00:31:57 GMT",
-        "published_kst": "2026-10-29T09:31:57+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdm9qWW1wa0JpT2tGTDBZNDBRZUtkRU1NaU1pd1gtZzBCNGtqZXZmRm5wZDAzRmJ0TEloNGZmX1RvaXRBckVfdjJqTEVxLVdZZ1ZLWXFyNGh0Tm8wYWx5ZnNpVGl4YmF1NnZnd2EzY3MteVk3N0RmMS0tV21ESi1jOVdrRlp5OG12ZFBZRDBBSmhXV3NNeHIzaWI4b2xJR2dTREQ0UDBfdExQejcwUF8walFGUnNRdm9aaFpCQ0ZTRndoZw?oc=5",
-        "summary": "Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say Reuters Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say - Reuters",
-        "published": "Thu, 29 Oct 2026 00:21:00 GMT",
-        "published_kst": "2026-10-29T09:21:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-        "url": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
-        "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity. CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-        "published": "Thu, 29 Oct 2026 00:16:39 GMT",
-        "published_kst": "2026-10-29T09:16:39+09:00",
+        "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+        "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+        "summary": "Samsung Electronics reported third-quarter earnings on Thursday. Samsung Electronics shares slid despite record profit in the third-quarter",
+        "published": "Thu, 29 Oct 2026 06:53:19 GMT",
+        "published_kst": "2026-10-29T15:53:19+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CNN, MS NOW, Politico expand lawsuit over White House access limits - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjh0VFR2ZmRGMGE0Q1JxeGpJZWhrRGJaV0VrSHl3TmpFVXFpZUwzcTljRzYxUldDUGp3VXdVUEU0UFVwbUpSSjFLWHFCYjNOZkd2STdXWW92SDlrclZLOUF4UGE3LWQxcHlqdnE0dTh4bUlZZVhNRHYtZHZqMjJkOEdoVWh3d21MNGpLdklidjdOVlZ3cHJTcUxfd3FzeHdtcFNFQTcwbzB4Q2w4RUVNeDRtWGFBTXRfM2c?oc=5",
-        "summary": "CNN, MS NOW, Politico expand lawsuit over White House access limits Reuters CNN, MS NOW, Politico expand lawsuit over White House access limits - Reuters",
-        "published": "Wed, 28 Oct 2026 23:38:58 GMT",
-        "published_kst": "2026-10-29T08:38:58+09:00",
+        "title": "Asian shares and U.S. futures are mixed after Google parent Alphabet's earnings disappoint - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3FERHowX3duMzluOThNT1VnV2ZGdmZ0eW52QlFHTzVXOVExdWNIdFJqN19CRDZHRVczRlUzZVhJamUxaGJUU2cwZFh0OVA4V2FET2lxamtWaERNd01KTmlyZnBOTnJrQTd4bFJ5a3BQSUtJR1VPWjlVMHdpV20ydHRRRzc1ektsTUtjdHVySzFvaXppTW9pZA?oc=5",
+        "summary": "futures are mixed after Google parent Alphabet's earnings disappoint Yahoo Finance Asian shares and U.S. Asian shares and U.S.",
+        "published": "Thu, 29 Oct 2026 05:03:00 GMT",
+        "published_kst": "2026-10-29T14:03:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,68 +75,72 @@
     ],
     "kr": [
       {
-        "title": "[속보] 삼성전자, 3분기 반도체 부문 영업익 106.5조 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjWk5xVGhBUVdraURyS2ZJZHAycVBESkxsNUtDRWE5M0RpNnJrTTFtN1pkRUNiWjNBVFZnYU5tUTk5SlA4S1pDckZ4VVU3bUpiTFlJX1RlTmxaQQ?oc=5",
-        "summary": "[속보] 삼성전자, 3분기 반도체 부문 영업익 106.5조 한국경제 [속보] 삼성전자, 3분기 반도체 부문 영업익 106.5조 - 한국경제",
-        "published": "Thu, 29 Oct 2026 00:55:47 GMT",
-        "published_kst": "2026-10-29T09:55:47+09:00",
+        "title": "희비 엇갈리는 은행·증권주...\"증권주, 저평가·고배당 매력 부각\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Lam9yUXJvNFZjX3hDNlFXcndkQnNWcXRkQU1Ja3hlQXFXOEE0ZXp6MEJ6bDJSbUpTNXRMcDV1aWpocW5NalNyMGZRaFcyVXpyY25EdF9yQ2ZTZw?oc=5",
+        "summary": "희비 엇갈리는 은행·증권주...\"증권주, 저평가·고배당 매력 부각\" 한국경제 희비 엇갈리는 은행·증권주...\"증권주, 저평가·고배당 매력 부각\" - 한국경제",
+        "published": "Thu, 29 Oct 2026 07:40:43 GMT",
+        "published_kst": "2026-10-29T16:40:43+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'韓 이어 미국도' 美기준금리 동결…워시 의장 \"한국 경제 주시\" - KBC광주방송",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WRExlc0FCdFZvN3AxM1c0SC1fMjRrU3U5LVgxRnNvbDhNb0RxbTVsYW51VUtPTzhfbVRnNDV1aG9UUEYxZzZhc3FfcXUwSHlfMXloaXFDSHhwLUdqSkE5dg?oc=5",
-        "summary": "'韓 이어 미국도' 美기준금리 동결…워시 의장 \"한국 경제 주시\" KBC광주방송 '韓 이어 미국도' 美기준금리 동결…워시 의장 \"한국 경제 주시\" - KBC광주방송",
-        "published": "Thu, 29 Oct 2026 00:46:49 GMT",
-        "published_kst": "2026-10-29T09:46:49+09:00",
+        "title": "미 금리 동결에 원·달러 환율 소폭 하락 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jaHpPQjF5RVJiR3FyQmxmYjJkR3AwN2V0VXdFN3poNVMzaHd2bU43NDVwRFhnRnZiTWhWS3ZiUF9UVThaanVFRzZXbzdtWU1hX0tiWGI5THVzQQ?oc=5",
+        "summary": "미 금리 동결에 원·달러 환율 소폭 하락 한국경제 미 금리 동결에 원·달러 환율 소폭 하락 - 한국경제",
+        "published": "Thu, 29 Oct 2026 07:35:13 GMT",
+        "published_kst": "2026-10-29T16:35:13+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "워시 \"韓경제 많은 관심…신현송, 유능한 사람\" - 연합뉴스 한민족센터",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlOVpiSTVGek8yV181UDkzT3V6VDI2UFdZZ3FpU1hmUXdpX0tvZXVROVotZERPaGhoVVNZaHNpZW0tSUk4V21TMGFpUS1ScnFnMlZ5VTNOZ3lUaDRTRXVzT1ZuTFBTbXdrMHl6Q2FtQXpBSjVJ?oc=5",
-        "summary": "워시 \"韓경제 많은 관심…신현송, 유능한 사람\" 연합뉴스 한민족센터 워시 \"韓경제 많은 관심…신현송, 유능한 사람\" - 연합뉴스 한민족센터",
-        "published": "Thu, 29 Oct 2026 00:43:11 GMT",
-        "published_kst": "2026-10-29T09:43:11+09:00",
+        "title": "“변화무쌍, 고장난명”…전문가 35인이 본 ‘2027 한국경제 대전망’ - 이코노미스트",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VM0lOV09MMUVCcS1weGVmcExXNmhLbTZfYTRULUgtYXQ1alRHVVNzMHhEeGFGakdvcUR2OHhXM2p1eXFxRXZ0WjRPZ29OdkNjZUxGY0xXZXFXOVNxS042QWtB?oc=5",
+        "summary": "“변화무쌍, 고장난명”…전문가 35인이 본 ‘2027 한국경제 대전망’ 이코노미스트 “변화무쌍, 고장난명”…전문가 35인이 본 ‘2027 한국경제 대전망’ - 이코노미스트",
+        "published": "Thu, 29 Oct 2026 07:30:00 GMT",
+        "published_kst": "2026-10-29T16:30:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Upgrade, win supply chain orders, firms told - The Star",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFlCazNtc2lFVXpRTm55UEpQaVdUZGVjX01LRU4tNzFMSkpoenF2YTl4blNvaTA5MURsQ1RTbUNSdUdlUUtDR1VoM0Y3dm5NcHFEaXdQNTN6UTBNaGhLNEIwcU5BMDhoSFlVSTZaa1E0M2RkbEo4UFBZb1lBTXpZQkVwQjVmRVd1ZnExc3lOTTljWkl6ZDFvWlloTkF1X1gtZENpbGN3?oc=5",
-        "summary": "Upgrade, win supply chain orders, firms told The Star Upgrade, win supply chain orders, firms told - The Star",
-        "published": "Wed, 28 Oct 2026 23:07:48 GMT",
-        "published_kst": "2026-10-29T08:07:48+09:00",
+        "title": "Supply-Chain Resilience Without Excess Inventory: A Practical Agenda for Business Leaders - Global Banking & Finance Review",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU25MS3c2LU1lcjJ3NEpqSDJ6b0hlNnoyVmJPRHpOMzA1R0QxQk5DSXhfQnBRQ2R2OGZXOTUxdEE5ZmhzdG9udGVScUFVX1RPZUEwbXFEek5XcVRNa19ZLU9wX0VfUHY0b2xudFR5eGRyTGlvaUpmN0M1emZGVkRBckNQMEh3VndVSzIyZFg2ZjVYak5EbHdWdW9icTNjemlIalZjQlFaRldpb0VfbnVjazF3Uk9ERUlPNHFLNUVjZE1EMXdpNEVJWA?oc=5",
+        "summary": "Supply-Chain Resilience Without Excess Inventory: A Practical Agenda for Business Leaders Global Banking & Finance Review Supply-Chain Resilience Without Excess Inventory: A Practical Agenda for Business Leaders - Global Banking & Finance Review",
+        "published": "Thu, 29 Oct 2026 07:26:08 GMT",
+        "published_kst": "2026-10-29T16:26:08+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Honeywell to open new manufacturing site, aims to ease supply chain woes - FlightGlobal",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPekVJRUJBQldiVjkwZFhWYkpLZE90MWl3UkpzVWExUkJycncwOGR6QkhMOWVoUGdVOXRwWVdRM0Q5R1U2c0NNdUc1LVpBNmN1UTR1UzN5aUNfcFV3MkptVU9ESS03eTlrY0Q0OUtnUklRdGFUNkxXUVRaV0QySURsUHhNbDRlOFg4V3RLUllveE9rU3k4V0RZVzl0QWNpSTNxVVM5NEpUNUNiSlJBUFVJY3o4VmJjZmlWNk9V?oc=5",
-        "summary": "Honeywell to open new manufacturing site, aims to ease supply chain woes FlightGlobal Honeywell to open new manufacturing site, aims to ease supply chain woes - FlightGlobal",
-        "published": "Wed, 28 Oct 2026 22:19:32 GMT",
-        "published_kst": "2026-10-29T07:19:32+09:00",
+        "title": "Shanghai Shimailong Information Technology Co., Ltd. Looks Forward to Meeting You at the 2026 SMM Global Lead-Acid Battery Supply Chain Industry Conference - Shanghai Metals Market",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaUsxNmZoZ0VQOWx4RFlzcEhScER1cW9IV3pwOG8wYURXX2VHMGJlblRrZlphNFVYR0x5eE5Rb25Nc2RvM1JwNUtHOUIwRnhxXzE2V203bG55bEdfamRwbFY0Qk9sbnlXeVotWG5abEZTZGVmQW5oeERNR0JRalZPZ3V2X3hpSjF2YmExaUJ1RnRjRHE4dTNJOHQ2VVRWcDRnXzd6LXNaMktieUp2T0hEbEpTUEFkbDlaWC1xZWFqdFg0cFhlMHMtdmloTW9tYUZycTNmMmEtVWIzMENqZXYwWmFaZzRnem1BUmd3Wl82SFg1eHYwZE15YjJDV2NGUWRNQVotWFJDeTVBck5hYXpVUkVTWm9zd2JuZ29MQUVoalBNTTQ?oc=5",
+        "summary": "Looks Forward to Meeting You at the 2026 SMM Global Lead-Acid Battery Supply Chain Industry Conference Shanghai Metals Market Shanghai Shimailong Information Technology Co., Ltd. Shanghai Shimailong Information Technology Co., Ltd.",
+        "published": "Thu, 29 Oct 2026 06:14:00 GMT",
+        "published_kst": "2026-10-29T15:14:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1h6RWZLcXNVQjdLOTlHekdERnBUZjdrNWRLblZHVDMxSlM1WjQwOEV6WlNGdWc4VU1fTGYtQW5qYkdRaU9CendtWlB6amhfaGljZmxnaHZ2RUhoSWxzem5VV191RkR0cGtvTDVMWkpxeXhWcHZZdS1jcm5lMmdCcXJNQTlmOHRmbXkzZXBENDNrUDZtZUM3d09oWXVEdHQ1bXBaVnl2TDFpRlJmVUFsNjYzUngxbnc?oc=5",
-        "summary": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang Reuters US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang - Reuters",
-        "published": "Wed, 28 Oct 2026 21:41:54 GMT",
-        "published_kst": "2026-10-29T06:41:54+09:00",
+        "title": "Can Southeast Asia pitch itself as an ‘all-in-one’ chip hub? - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04Nmg3RUctamVQWWc4SVkzMVBrZTdPYU9rSWs0NENlVjd6TElOd3JDVUlRbWw1aXBYeHJSMUlQbGdQT1F4S1IzLVVrNG5wYWRzQUNHNE54YkJyMDBhMXJFWGFabER0NHRnZTFjdXBVMEotdlB1MjdMQmN6RFQxQQ?oc=5",
+        "summary": "Fortune Can Southeast Asia pitch itself as an ‘all-in-one’ chip hub?",
+        "published": "Thu, 29 Oct 2026 06:00:00 GMT",
+        "published_kst": "2026-10-29T15:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Samsung Electronics reported third-quarter earnings on Thursday. Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips / [속보] 삼성전자, 3분기 반도체 부문 영업익 106.5조 한국경제 [속보] 삼성전자, 3분기 반도체 부문 영업익 106.5조 - 한국경제 / Upgrade, win supply chain orders, firms told The Star Upgrade, win supply chain orders, firms told - The Star",
+  "wrap_summary": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high / 희비 엇갈리는 은행·증권주...\"증권주, 저평가·고배당 매력 부각\" 한국경제 희비 엇갈리는 은행·증권주...\"증권주, 저평가·고배당 매력 부각\" - 한국경제 / Supply-Chain Resilience Without Excess Inventory: A Practical Agenda for Business Leaders Global Banking & Finance Review Supply-Chain Resilience Without Excess Inventory: A Practical Agenda for Business Leaders - Global Banking & Finance Review",
   "invest_summary": ""
 }
