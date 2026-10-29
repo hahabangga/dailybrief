@@ -1,79 +1,107 @@
 {
   "date": "2026-10-30",
-  "generated_at_utc": "2026-10-29T16:47:34Z",
-  "cutoff_kst": "2026-10-30T01:47:00+09:00",
+  "generated_at_utc": "2026-10-29T18:48:55Z",
+  "cutoff_kst": "2026-10-30T03:48:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-        "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-        "summary": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter. Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion",
-        "published": "Thu, 29 Oct 2026 16:46:07 GMT",
-        "published_kst": "2026-10-30T01:46:07+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House official condemns data breach, says ICE agents ‘have families, too’ - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU0VoUzkzdkJseUp6cGQ1eWhiRHFiZVNObHRsZXpmN1BncmFTTERObzF5TzJPTkNKeFZmTXlrelVpbEozZWU5bUJlY2djX1JpMlVJRk5BNVByZkJWMnN1NmJBVmZjS1BQZHY3dFBzeDQzZ0dqUmRHM1BsOEh4aGg3d3g4TnlEdGdtZnpDaWdSNGpHeHBzSWZvN29kNWtieWV4MTR4WkZvLS1NaGowd3ViMjE5ME84YzdBMUZ1cTdLd19wMkJaZ0g3ODdB?oc=5",
-        "summary": "White House official condemns data breach, says ICE agents ‘have families, too’ The Washington Post White House official condemns data breach, says ICE agents ‘have families, too’ - The Washington Post",
-        "published": "Thu, 29 Oct 2026 16:36:41 GMT",
-        "published_kst": "2026-10-30T01:36:41+09:00",
+        "title": "White House: Economy grows at 3.4% rate in third quarter as investment surges - Florida’s Voice",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTRuRDNWanJCRDBBX3hTQ2x2T1Jhc25hSzZfYW1hQlhuZC1BQ2JhdjMzU0FjUnUtc3ZNWEtSZ190WUZxNnkzT1JRbHh2bkpITVltUlZxdVNkdjNGZ0RyMWRldEllMmFDTWg3ekhURWF6bktodXFFdW45ZklpTHl3Qm9YOWFDYmlDRlI4Wk5XMVJieER5SHZNSW1DaGtYN2dpY3c?oc=5",
+        "summary": "White House: Economy grows at 3.4% rate in third quarter as investment surges Florida’s Voice White House: Economy grows at 3.4% rate in third quarter as investment surges - Florida’s Voice",
+        "published": "Thu, 29 Oct 2026 18:47:27 GMT",
+        "published_kst": "2026-10-30T03:47:27+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The AI Industry May Regret Its Trump Bet After the Midterms - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3pQSTFKcjM4N2NKa0RZZ2YwX2lwRXd6eDBIY1VGSmRSU3l0ZVMxeGR3VGw2MFBEY1JSRFJvMG9NcWhhMzNfSjYwUlNmdlhzTkg5QXFNVDBlcTdtMy0zc2owVUM5Vk9Jd0hkdmFDbi1DRGR1MHZSaTJxemxTZy1BRXFHa2w4NDI1X1M4b3IwZDdsVmVfaEdNSjVXbmo2ak55MVVuc2dCRklMcnhGRElJX0dPRQ?oc=5",
-        "summary": "The AI Industry May Regret Its Trump Bet After the Midterms Bloomberg.com The AI Industry May Regret Its Trump Bet After the Midterms - Bloomberg.com",
-        "published": "Thu, 29 Oct 2026 16:35:44 GMT",
-        "published_kst": "2026-10-30T01:35:44+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
-        "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-        "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year. Alphabet falls 12%, putting it on course for its biggest ever post-earnings drop",
-        "published": "Thu, 29 Oct 2026 16:35:25 GMT",
-        "published_kst": "2026-10-30T01:35:25+09:00",
-        "domain": "cnbc.com",
         "key_figures": [
-          "12%"
+          "3.4%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US: Inflation Rises in September Alongside Increased Consumer Spending - صحيفة مال",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40U2haczJwX21RdTJWNHhlTUk4bDk5RVZXeWRUb2QxUkZmY0hvOG53MVMyMUZoTHFLcVB4QURBUzVjRU1ZUFRrYTNNYXpHSmg1OElPNmM4cEtPU0s2X3NXeFZ2eHgyendXXzJr?oc=5",
-        "summary": "US: Inflation Rises in September Alongside Increased Consumer Spending صحيفة مال US: Inflation Rises in September Alongside Increased Consumer Spending - صحيفة مال",
-        "published": "Thu, 29 Oct 2026 16:33:19 GMT",
-        "published_kst": "2026-10-30T01:33:19+09:00",
+        "title": "Alaska Gov. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+        "url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+        "summary": "Alaska's election could determine which party has a majority in the Senate. orders probe of Peltola Senate campaign's alleged recruitment of 2nd Sullivan",
+        "published": "Thu, 29 Oct 2026 18:32:08 GMT",
+        "published_kst": "2026-10-30T03:32:08+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold slides as higher US inflation reinforces Fed tightening bets - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZF9BdHZqakFpckpYMU91SXZsUEhuVkZqTS02SDQ4RTd1VTZtYWc0S1BWbS1QeDVYNGZsV0lqR3o1YlJCMjJxYlJZbXd6dXlaeXlROGlJMXZDRWVFSEloR1BIR2tBT3IyRDNFZU5PV0hPRExOTGpqdXVlZ0oyUFNPZ0NKQS1ITkRnM01JQVN5djNUZVhsZVlxM015QzlETVZ3azNpcDMzRjJYaDE4S19kZE1lbk9BUFZYbnNVYlBiclFHb0czVXNfYkFvemdUenJa?oc=5",
+        "summary": "Gold slides as higher US inflation reinforces Fed tightening bets TradingView Gold slides as higher US inflation reinforces Fed tightening bets - TradingView",
+        "published": "Thu, 29 Oct 2026 18:18:06 GMT",
+        "published_kst": "2026-10-30T03:18:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-        "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-        "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business. Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-        "published": "Thu, 29 Oct 2026 16:25:40 GMT",
-        "published_kst": "2026-10-30T01:25:40+09:00",
+        "title": "Big Oil earnings are set to surge. Why investors may want to be cautious",
+        "url": "https://www.cnbc.com/2026/10/29/big-oil-earnings-are-set-to-surge-why-investors-may-want-to-be-cautious.html",
+        "summary": "Big Oil earnings are coming. Big Oil earnings are set to surge.",
+        "published": "Thu, 29 Oct 2026 18:13:32 GMT",
+        "published_kst": "2026-10-30T03:13:32+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+        "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+        "summary": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+        "published": "Thu, 29 Oct 2026 18:06:31 GMT",
+        "published_kst": "2026-10-30T03:06:31+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "3.4%",
+          "0.5%",
+          "3.7%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The White House Is Trying to Keep the Podcast Election Going - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2FfSHdsaFRiY1RiZktjLVQ3c2xvbHJjU1Z2ZnpSU3dBSE1naDJJQW40MFh1bG0yU3d0c3g0TGd5TmtTOERYYzBwcGZBTVZwTG1RTDQxMHowMXdwQ1BqT2ZYMmtyUkF0V0NqSHpZOGtIdUdRSzNvV2VjVUNlSXhOMjFadHRuSGRWT1pzSFUwYXFNOE5ub202TTRad25vQm4zaFEwTzZUeVhON2NDV0ZSbHhSVGk?oc=5",
+        "summary": "The White House Is Trying to Keep the Podcast Election Going Bloomberg.com The White House Is Trying to Keep the Podcast Election Going - Bloomberg.com",
+        "published": "Thu, 29 Oct 2026 18:02:12 GMT",
+        "published_kst": "2026-10-30T03:02:12+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
+      {
+        "title": "주주환원 110조에도…주가 4% 떨어진 이유 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRQzRKQS15RmlRczRIQkhsaEFKSmdjMGJfLWRmdjJnckxKemxfQ2lscW1jY0IwMkpBaWlCclpUQURzVnJRSlg3c1ltUW50eHBhZFRxOFdycldLdw?oc=5",
+        "summary": "주주환원 110조에도…주가 4% 떨어진 이유 한국경제 주주환원 110조에도…주가 4% 떨어진 이유 - 한국경제",
+        "published": "Thu, 29 Oct 2026 17:39:00 GMT",
+        "published_kst": "2026-10-30T02:39:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "4%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[단독] SK, 30일 사장단 인사…'안정 속 쇄신'에 무게 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52ZWE5OGJ2X0xnZS1JX3E3MDdfNzNwbmZrSWgzc3NyaS0yaHp0QTJMS1dNbjFORDJzbFJHc2IwWUwtd0FuV1ZoZG1hN2FsSVJLS2NpMlo5RXl5QQ?oc=5",
+        "summary": "[단독] SK, 30일 사장단 인사…'안정 속 쇄신'에 무게 한국경제 [단독] SK, 30일 사장단 인사…'안정 속 쇄신'에 무게 - 한국경제",
+        "published": "Thu, 29 Oct 2026 17:21:00 GMT",
+        "published_kst": "2026-10-30T02:21:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "엇갈리는 알파벳 평가…MS·테슬라는 매수 유지[월가 업&다운] - 한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GY3lUTGM5QlVWU1p4TU9CYjEwNVU1eThMZTVZVEpvVmlpQlpRYTJZcHFuYWJHbWdoYzVqRXNtQmZ5V3p4OXc5NXQtV1JaWm5MWGkxYUhjOUtPUQ?oc=5",
@@ -84,59 +112,40 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "박현주, 美·英 넘어 日까지 해외 영토 확장 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11RHhxSnlwZ1dtbWc1ZlZ2cWpLSThjLWRkOVdTOFBET0lYd29HaFBaQk5lOFliQnpSRjJkSDBJMlFtbWFiTUVqOGpoU2gwU3RUeWxraEJEVkJXQQ?oc=5",
-        "summary": "박현주, 美·英 넘어 日까지 해외 영토 확장 한국경제 박현주, 美·英 넘어 日까지 해외 영토 확장 - 한국경제",
-        "published": "Thu, 29 Oct 2026 16:06:00 GMT",
-        "published_kst": "2026-10-30T01:06:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "실적 부진에…조선주, 이달 시총 36조 증발 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85TmNuc25GQzdWSlBSTG4xRUxPLXNyM0ZPb0piUVlGbzdpMGFjTkg5NUF0ZlB4TkFmay1UbHdPUmRFNE90QlZVSHBRR2xJaFozeGdLM2hLZ3FuZw?oc=5",
-        "summary": "실적 부진에…조선주, 이달 시총 36조 증발 한국경제 실적 부진에…조선주, 이달 시총 36조 증발 - 한국경제",
-        "published": "Thu, 29 Oct 2026 15:56:00 GMT",
-        "published_kst": "2026-10-30T00:56:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "FedEx drawing parcel-focused shippers to its air freight services - Supply Chain Dive",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjQ5LVpMXzlldWp0LU9XM0U1eVpWSVRjb3VFYjdFWF9OOGJvT3ZmQUE1UjMyOE9EeExnblFFMkJXcjBVSHRuOHMtQmhsdkI3SWZVTlVGR3R5aHlSV0REX0Rybm1JVnFIc0NMdFpHeGtrMnlOTVhUdlBJZEFQWm8tX0RUSlRaY3Ftem5LUkYxZWFCRTVQUEVEYW9UejA2UGhOZEZleXRQdjFTTTFrcG1J?oc=5",
-        "summary": "FedEx drawing parcel-focused shippers to its air freight services Supply Chain Dive FedEx drawing parcel-focused shippers to its air freight services - Supply Chain Dive",
-        "published": "Thu, 29 Oct 2026 15:41:12 GMT",
-        "published_kst": "2026-10-30T00:41:12+09:00",
+        "title": "Industry Leaders Spotlight AI Supply Chain Innovations at AAPSCM 2026 Summit, Set 2027 Conferences in Riyadh and Dallas - EIN News",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY1lvb2hxNTBHdi1zaXNPTU96MnFvaHJvSXpjSk84UUlMSWNDLUpWdzBoQ1ZQVGtSeFRTU2drR1dJUHNCTFp1Q2lBb1pKTVFicjc5NW9uUzZxUW5XWWszYk8xT1paaWZETUREcUx3MVQ4NzA1SkdXTmxIcElNT0M3SllibGt4UEJUdUZNTGpyenQ5RWt3RlBPeHNUYXhybURZMG5peDBVUHJ4NXRfWHdhNHZ5QzczeV9jVkRTTVRKZEpJYVk4STRpdEpjbG1IelJ4bThldUdkYmJrZjB4SU9mVkJlcEpiRGpxX3RzQ0tVYnRXdw?oc=5",
+        "summary": "Industry Leaders Spotlight AI Supply Chain Innovations at AAPSCM 2026 Summit, Set 2027 Conferences in Riyadh and Dallas EIN News Industry Leaders Spotlight AI Supply Chain Innovations at AAPSCM 2026 Summit, Set 2027 Conferences in Riyadh and Dallas - EIN News",
+        "published": "Thu, 29 Oct 2026 18:45:00 GMT",
+        "published_kst": "2026-10-30T03:45:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026",
+          "2027"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "FreightSmith Express and Pay: Digital Warehouse Solutions - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUtnLUFUZUIyd3V5VzBpakNyRkxIOXlkYTc4aXdUMVhsWEozbUJnSW50TEk3cVB0VVhKeGluRmZkazBEUmo5elBuLXM2OExIRzZPSXpqbm1QZXpCajNqZ0d5LTEtUnctWnFZM2QzOGNvcEFqMlhITU9CVTAyTzdoaVhESzJXVjc2MmpTTktYaHlCQ3Y3Z2p6bE41ZjlEYi1PMjNZaUw1OVoyRjYtd0RyOHF2eGdCMW00QWRJaDNJOGUzYU5TRHBLdEgzbkVmazNoU2tXS2JR?oc=5",
+        "summary": "FreightSmith Express and Pay: Digital Warehouse Solutions Supply & Demand Chain Executive FreightSmith Express and Pay: Digital Warehouse Solutions - Supply & Demand Chain Executive",
+        "published": "Thu, 29 Oct 2026 18:29:26 GMT",
+        "published_kst": "2026-10-30T03:29:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "OPI, Nioxin owner appoints chief supply chain officer - Supply Chain Dive",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFRxU2Z4Mlg5cFlLLVpPOEtBbE5WYXJjNDdBbEFzczBGUVNYVTZUYzZudjExbUx5SVNGaTZqRXJ4YlI1MVM5a1hWSlZHdHlIV2w4NDNVY2x6WDgzakJjU1JzdHFxVElaSWlMb1JmTkRMQ0VQdHRPZUZuZl9lT1ROb3Bnc0c4Yjl1cVhwcEZ3UVpfekhzWHV2eVRza2VVdw?oc=5",
-        "summary": "OPI, Nioxin owner appoints chief supply chain officer Supply Chain Dive OPI, Nioxin owner appoints chief supply chain officer - Supply Chain Dive",
-        "published": "Thu, 29 Oct 2026 14:31:06 GMT",
-        "published_kst": "2026-10-29T23:31:06+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The Supply Chain Interview: John Pearson, DHL Express - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0bFZBTTFOMjhXT0J5Vl9uTkxEb1JMZjBaRjQtYnZtcmpmWUlaazJxNEpiSFNEUnVnOENyRXg5OTZwZ2FnU1dMMnh4Q1B6WTFuRVlFajZUYnJyQ2NoNnYwMVRtV3NEQmlCdk5YMkh4d3RoQQ?oc=5",
-        "summary": "The Supply Chain Interview: John Pearson, DHL Express Supply Chain Digital Magazine The Supply Chain Interview: John Pearson, DHL Express - Supply Chain Digital Magazine",
-        "published": "Thu, 29 Oct 2026 14:30:39 GMT",
-        "published_kst": "2026-10-29T23:30:39+09:00",
+        "title": "Break Supply Chain Data Bottlenecks Fast - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaU1sbGZ6WHdxU3N4SEgxSTBFRzh2QlA1Rkx5c0U1c3dRTTN2b2R5NGNONzY1OW5KeGI0SWVMTUZ5U1hTSFVIbXY1b3J3RGo5S0ZIWml3RGlic25NMHpQVXQ1TVF6M29iSmJRd2VHb2tjM1VRZGV4UDNXWHpaWmU5dmdUTlRZTTJoQlM2N2Z3VmJyTURjT092cXgydWxacjd0WHRzZXZlRUhIOUNZM2I3eHAwUGpOMUFlR1lwdHhEdVpCSUM5aW1LeDFQSWJPdnZHOFRKQw?oc=5",
+        "summary": "Break Supply Chain Data Bottlenecks Fast Supply & Demand Chain Executive Break Supply Chain Data Bottlenecks Fast - Supply & Demand Chain Executive",
+        "published": "Thu, 29 Oct 2026 18:22:30 GMT",
+        "published_kst": "2026-10-30T03:22:30+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +153,6 @@
       }
     ]
   },
-  "wrap_summary": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter. Eli Lilly hikes sales outlook, as CEO says there's room for 'dramatic' obesity market expansion / 엇갈리는 알파벳 평가…MS·테슬라는 매수 유지[월가 업&다운] 한국경제 엇갈리는 알파벳 평가…MS·테슬라는 매수 유지[월가 업&다운] - 한국경제 / FedEx drawing parcel-focused shippers to its air freight services Supply Chain Dive FedEx drawing parcel-focused shippers to its air freight services - Supply Chain Dive",
+  "wrap_summary": "White House: Economy grows at 3.4% rate in third quarter as investment surges Florida’s Voice White House: Economy grows at 3.4% rate in third quarter as investment surges - Florida’s Voice / 주주환원 110조에도…주가 4% 떨어진 이유 한국경제 주주환원 110조에도…주가 4% 떨어진 이유 - 한국경제 / Industry Leaders Spotlight AI Supply Chain Innovations at AAPSCM 2026 Summit, Set 2027 Conferences in Riyadh and Dallas EIN News Industry Leaders Spotlight AI Supply Chain Innovations at AAPSCM 2026 Summit, Set 2027 Conferences in Riyadh and Dallas - EIN News",
   "invest_summary": ""
 }
