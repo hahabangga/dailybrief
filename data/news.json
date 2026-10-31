@@ -1,37 +1,59 @@
 {
   "date": "2026-10-31",
-  "generated_at_utc": "2026-10-31T07:38:59Z",
-  "cutoff_kst": "2026-10-31T16:38:00+09:00",
+  "generated_at_utc": "2026-10-31T11:16:08Z",
+  "cutoff_kst": "2026-10-31T20:16:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+        "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+        "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March. Anthropic's path to the Nasdaq just got a lot bumpier",
+        "published": "Sat, 31 Oct 2026 11:00:01 GMT",
+        "published_kst": "2026-10-31T20:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
         "summary": "FY27 Q1 - Press Releases - Investor Relations Microsoft FY27 Q1 - Press Releases - Investor Relations - Microsoft",
-        "published": "Sat, 31 Oct 2026 07:15:32 GMT",
-        "published_kst": "2026-10-31T16:15:32+09:00",
+        "published": "Sat, 31 Oct 2026 10:46:58 GMT",
+        "published_kst": "2026-10-31T19:46:58+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Springfield dominates White House 42-8 to end regular season - Main Street Media of Tennessee",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXy1PYU1JTHpSUzlITENCMnZOMDl2bllxNk52RXFybnBPdXFWdXYxQ3lxRXlNamtWY25EMUdhU3IzYXZmSzJJZjFwbzVjNFcwRWN3aEpUekMwNFBtTFJJb2RkR3dDWTRmOG0wcFFfVUdLNTEzRUZDamxWYUpJSUVUbjRuV2Q5SVNpdmJzNWhBcmZGOXY4c2NZdEQ5TWNkMGJaMGVwR1RhME05RTA?oc=5",
-        "summary": "Springfield dominates White House 42-8 to end regular season Main Street Media of Tennessee Springfield dominates White House 42-8 to end regular season - Main Street Media of Tennessee",
-        "published": "Sat, 31 Oct 2026 07:06:28 GMT",
-        "published_kst": "2026-10-31T16:06:28+09:00",
+        "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+        "url": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+        "summary": "In just six years, giant skeletons have gone from an absurd viral novelty to the centerpiece of an expanding retail arms race for the front lawn. The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+        "published": "Sat, 31 Oct 2026 10:27:19 GMT",
+        "published_kst": "2026-10-31T19:27:19+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump’s Ghastly Halloween Surprise Backfires Spectacularly - The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2dGbWY4MGZMcjFHU256R2JTWWtwTXJLWEh6eGVFbWxVUEk3UElCMXJvbDlCVmdWRDhoRzFpMTRCWGNxSDNhRnJNSXloTEFqbE1FVC1fbDJHM0NRWVFjeTZtcmg4QzNIMzFPMnRMbV9MWE1PaUhkNDlzUEUwb0JTUnQxaTRfdDdGTmNfaG1YT3A?oc=5",
+        "summary": "Trump’s Ghastly Halloween Surprise Backfires Spectacularly The Daily Beast Trump’s Ghastly Halloween Surprise Backfires Spectacularly - The Daily Beast",
+        "published": "Sat, 31 Oct 2026 08:35:45 GMT",
+        "published_kst": "2026-10-31T17:35:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "It’s inflation, stupid: Trump faces the wrath of US voters - The Irish Times",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUNEdFBTa2VlWDB4RUtZWk5CM3JDZlA5eTc0SjdBaFhScHg4VjF1ei02SV8tMlNrM0xuUWZrUmZCRE5ianFIVUtXdW9qTzhnY2VxZjI0dFdxM3ViTUYyYjE1WDF6Z1NDRHM2NWZVUHdTOElySXZBNnhBRG1tNFVKSkJtMUI2cnRSaG5rSkEzWVY3eHg1WXNWUUtpOExINWd1VkMtUA?oc=5",
-        "summary": "It’s inflation, stupid: Trump faces the wrath of US voters The Irish Times It’s inflation, stupid: Trump faces the wrath of US voters - The Irish Times",
-        "published": "Sat, 31 Oct 2026 06:02:31 GMT",
-        "published_kst": "2026-10-31T15:02:31+09:00",
+        "title": "Several key employment reports and more corporate earnings updates will fill out a busy week - The Independent",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlpZYlppV0JkMmptZkNRWGYtSmtReVlaVTRHd1F1NW9XeDQ4N3d0MWU3MGI1X1RiOXdMazlMMERrc1NYRkVxVFh4dlVmeHZscF9QcXctdEJEY1l0RnBLb1d1ejZsYi04aU1HYzlPcktveGFnVGdpS1Y5c04xR0M1ZjdtSXh0bnpqQWJocGlpTXNrdW44YWZUS0VxYU93ZlJqanc?oc=5",
+        "summary": "Several key employment reports and more corporate earnings updates will fill out a busy week The Independent Several key employment reports and more corporate earnings updates will fill out a busy week - The Independent",
+        "published": "Sat, 31 Oct 2026 08:00:00 GMT",
+        "published_kst": "2026-10-31T17:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -47,61 +69,37 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "AI is coming to construction sites. But does it make workers safer?",
-        "url": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
-        "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited. AI is coming to construction sites.",
-        "published": "Sat, 31 Oct 2026 06:00:02 GMT",
-        "published_kst": "2026-10-31T15:00:02+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-        "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-        "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
-        "published": "Fri, 30 Oct 2026 22:57:55 GMT",
-        "published_kst": "2026-10-31T07:57:55+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "3분기 1.0% 성장 속 소비 감소… ‘반도체 골든타임’에 구조개혁해야 - 더스쿠프",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PWE92bkZ0cGVFTHhxa2kyLUc3MkNxT2ZUSENnblVTOEUwOF9HZFFaU2hRUk5FZmQ3RF9LalZYVkRWX3BQNnA1NlJLLTI3OTZLVXlhVTNlX0hXemVTZDJKQXV1TkxBUnZ0Z1RYcWNn?oc=5",
-        "summary": "3분기 1.0% 성장 속 소비 감소… ‘반도체 골든타임’에 구조개혁해야 더스쿠프 3분기 1.0% 성장 속 소비 감소… ‘반도체 골든타임’에 구조개혁해야 - 더스쿠프",
-        "published": "Sat, 31 Oct 2026 05:48:04 GMT",
-        "published_kst": "2026-10-31T14:48:04+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "1.0%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"투표지 전부 보전\" vs \"정치생명 연장용\"…여야 정면충돌 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kU2hmbkNwb2NrMmxMVnBBZ3Y1bjFXNGpDU2c5blAxTmpXS0prQk9wZFdDUE9mMnJlRFFoWHhIckwxU1BJUW1NTmcyTFJ1ZDg2M29KZmRkdDhkZw?oc=5",
-        "summary": "\"투표지 전부 보전\" vs \"정치생명 연장용\"…여야 정면충돌 한국경제 \"투표지 전부 보전\" vs \"정치생명 연장용\"…여야 정면충돌 - 한국경제",
-        "published": "Sat, 31 Oct 2026 04:28:55 GMT",
-        "published_kst": "2026-10-31T13:28:55+09:00",
+        "title": "트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ekZoTW5SNGk0Y09NMlBkNDVIQ1RaOXAxR2IyaFdfVXJOVnJYVmlOOGN1WTk3d2xmUkhfeXNMeXFiRmlIb3ZmcG5qUFdfWGw0RTE3REdrNUlLQQ?oc=5",
+        "summary": "트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 한국경제 트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 - 한국경제",
+        "published": "Sat, 31 Oct 2026 11:01:31 GMT",
+        "published_kst": "2026-10-31T20:01:31+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"큰 산 같은 분\"…최불암 빈소 이틀째 각계 조문 행렬 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDNW1aaVByMWpZRzQtTVluczlnSFhxTXNmUFRSR09OSTV0LW42T3dPMHEtRml3b1p2eUNIekF6QXExd1pOaWRkV0VQd1FPYWdVUkp6MTVHUmNyQQ?oc=5",
-        "summary": "\"큰 산 같은 분\"…최불암 빈소 이틀째 각계 조문 행렬 한국경제 \"큰 산 같은 분\"…최불암 빈소 이틀째 각계 조문 행렬 - 한국경제",
-        "published": "Sat, 31 Oct 2026 04:02:53 GMT",
-        "published_kst": "2026-10-31T13:02:53+09:00",
+        "title": "조국 \"민주당과 연대·통합 위해선 공통 목표 분명해야\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4RUU0WXRkOGxGTnNIazg5SFFjNEVfUUp6NXlqMEU2RXRKVkpzdF9rUTRXb2pIMUZFTFVmT2swTHVJZHlvRmdzbDlsdklldW5VNzJwSExnNjJyUQ?oc=5",
+        "summary": "조국 \"민주당과 연대·통합 위해선 공통 목표 분명해야\" 한국경제 조국 \"민주당과 연대·통합 위해선 공통 목표 분명해야\" - 한국경제",
+        "published": "Sat, 31 Oct 2026 10:51:35 GMT",
+        "published_kst": "2026-10-31T19:51:35+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[기획/경제] ⑱ 해운 연료 전환과 한국 수출·조선업의 과제 - 기후에너지경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsb2hYTHVEckJkNzhLdXZaSGVXUHZudU1xR2NNRG9YSzllNXhGWFVCeGNRc2luM1YyRkQtemdUWTZLMmlYb0hPZXpXLTM0VUg2X0tGelF0aEV6X1lKWmNJX042NlU?oc=5",
+        "summary": "[기획/경제] ⑱ 해운 연료 전환과 한국 수출·조선업의 과제 기후에너지경제 [기획/경제] ⑱ 해운 연료 전환과 한국 수출·조선업의 과제 - 기후에너지경제",
+        "published": "Sat, 31 Oct 2026 10:44:55 GMT",
+        "published_kst": "2026-10-31T19:44:55+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -132,9 +130,9 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The manufacturing supply chain: Challenges and solutions - Today's Medical Developments",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN19aMDZ3WUN5UThqbm9uS09ZS2hUQ0F6MDNZc3RfYVdhNHZud24tdHVQcU4tMEVfUVJfSTV2Z0VIQXJSVldPUGlfY0V6S0owUFpKRjRUaFJXZE0zWFVvOEw1M181amN2TGpUb2czT19GeHFIZFZwSjZpVkNDc0N6MUNVTUVZblMtZUh5M3Y3RWFpR2xlc1ZwY29Wdw?oc=5",
-        "summary": "The manufacturing supply chain: Challenges and solutions Today's Medical Developments The manufacturing supply chain: Challenges and solutions - Today's Medical Developments",
+        "title": "The manufacturing supply chain: Challenges and solutions - Aerospace Manufacturing and Design",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlpoQ0dWdGk3TndaWTNzUnpJU3ZYVDRCVF8wNmVSVkhmZ0hraFJBMFpTNW5XWkZ4NmIzVlBRblUxTElmZmxVTkhwWFRJTXpiY2ZhMDhOUFBrajFKV25tQVZUWDNxM1YyNWs3cWstR19BZzFOUmNlYVBlTEVwSGdkbjNtY3hvbkptODhnMkFtODkyNDdGQnFNeTlGQlRocFhqdXdr?oc=5",
+        "summary": "The manufacturing supply chain: Challenges and solutions Aerospace Manufacturing and Design The manufacturing supply chain: Challenges and solutions - Aerospace Manufacturing and Design",
         "published": "Sat, 31 Oct 2026 05:00:00 GMT",
         "published_kst": "2026-10-31T14:00:00+09:00",
         "domain": "google.com",
@@ -144,6 +142,6 @@
       }
     ]
   },
-  "wrap_summary": "FY27 Q1 - Press Releases - Investor Relations Microsoft FY27 Q1 - Press Releases - Investor Relations - Microsoft / 3분기 1.0% 성장 속 소비 감소… ‘반도체 골든타임’에 구조개혁해야 더스쿠프 3분기 1.0% 성장 속 소비 감소… ‘반도체 골든타임’에 구조개혁해야 - 더스쿠프 / Beijing blasts US ban on device testing in China, warns of supply chain hit South China Morning Post Beijing blasts US ban on device testing in China, warns of supply chain hit - South China Morning Post",
+  "wrap_summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March. Anthropic's path to the Nasdaq just got a lot bumpier / 트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 한국경제 트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 - 한국경제 / Beijing blasts US ban on device testing in China, warns of supply chain hit South China Morning Post Beijing blasts US ban on device testing in China, warns of supply chain hit - South China Morning Post",
   "invest_summary": ""
 }
