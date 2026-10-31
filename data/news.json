@@ -1,71 +1,75 @@
 {
-  "date": "2026-10-31",
-  "generated_at_utc": "2026-10-31T11:16:08Z",
-  "cutoff_kst": "2026-10-31T20:16:00+09:00",
+  "date": "2026-11-01",
+  "generated_at_utc": "2026-10-31T15:40:16Z",
+  "cutoff_kst": "2026-11-01T00:40:00+09:00",
   "regions": {
     "us": [
-      {
-        "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
-        "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-        "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March. Anthropic's path to the Nasdaq just got a lot bumpier",
-        "published": "Sat, 31 Oct 2026 11:00:01 GMT",
-        "published_kst": "2026-10-31T20:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
       {
         "title": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
         "summary": "FY27 Q1 - Press Releases - Investor Relations Microsoft FY27 Q1 - Press Releases - Investor Relations - Microsoft",
-        "published": "Sat, 31 Oct 2026 10:46:58 GMT",
-        "published_kst": "2026-10-31T19:46:58+09:00",
+        "published": "Sat, 31 Oct 2026 15:25:29 GMT",
+        "published_kst": "2026-11-01T00:25:29+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
-        "url": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
-        "summary": "In just six years, giant skeletons have gone from an absurd viral novelty to the centerpiece of an expanding retail arms race for the front lawn. The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
-        "published": "Sat, 31 Oct 2026 10:27:19 GMT",
-        "published_kst": "2026-10-31T19:27:19+09:00",
+        "title": "Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+        "url": "https://www.cnbc.com/2026/10/31/binance-crypto-hack-safety.html",
+        "summary": "The Binance hack of $6.3 billion, the largest crypto theft ever, is a wake-up call for investors to understand how coin is guarded and the risk of losing it. Binance, crypto and hacks: What to know about keeping coin safe as cyber criminals advance",
+        "published": "Sat, 31 Oct 2026 14:26:29 GMT",
+        "published_kst": "2026-10-31T23:26:29+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$6.3"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans",
+        "url": "https://www.cnbc.com/2026/10/31/401k-cash-outs-automatic-rollovers.html",
+        "summary": "Workers with small 401(k) balances are cashing out less often under an automatic portability program, but most accounts remain in temporary IRAs. Automatic 401(k) rollovers reduce cash-outs, research finds — but few accounts reach new employer plans",
+        "published": "Sat, 31 Oct 2026 13:30:01 GMT",
+        "published_kst": "2026-10-31T22:30:01+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump’s Ghastly Halloween Surprise Backfires Spectacularly - The Daily Beast",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2dGbWY4MGZMcjFHU256R2JTWWtwTXJLWEh6eGVFbWxVUEk3UElCMXJvbDlCVmdWRDhoRzFpMTRCWGNxSDNhRnJNSXloTEFqbE1FVC1fbDJHM0NRWVFjeTZtcmg4QzNIMzFPMnRMbV9MWE1PaUhkNDlzUEUwb0JTUnQxaTRfdDdGTmNfaG1YT3A?oc=5",
-        "summary": "Trump’s Ghastly Halloween Surprise Backfires Spectacularly The Daily Beast Trump’s Ghastly Halloween Surprise Backfires Spectacularly - The Daily Beast",
-        "published": "Sat, 31 Oct 2026 08:35:45 GMT",
-        "published_kst": "2026-10-31T17:35:45+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Several key employment reports and more corporate earnings updates will fill out a busy week - The Independent",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNlpZYlppV0JkMmptZkNRWGYtSmtReVlaVTRHd1F1NW9XeDQ4N3d0MWU3MGI1X1RiOXdMazlMMERrc1NYRkVxVFh4dlVmeHZscF9QcXctdEJEY1l0RnBLb1d1ejZsYi04aU1HYzlPcktveGFnVGdpS1Y5c04xR0M1ZjdtSXh0bnpqQWJocGlpTXNrdW44YWZUS0VxYU93ZlJqanc?oc=5",
-        "summary": "Several key employment reports and more corporate earnings updates will fill out a busy week The Independent Several key employment reports and more corporate earnings updates will fill out a busy week - The Independent",
-        "published": "Sat, 31 Oct 2026 08:00:00 GMT",
-        "published_kst": "2026-10-31T17:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
-        "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-        "summary": "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened. Trump called out Big Oil profits.",
-        "published": "Sat, 31 Oct 2026 06:00:02 GMT",
-        "published_kst": "2026-10-31T15:00:02+09:00",
+        "title": "In the wake of Weil, a legal recruiter's advice for surviving a company wind-down",
+        "url": "https://www.cnbc.com/make-it/2026/10/31/weil-wind-down-career-advice.html",
+        "summary": "Legal recruiter Danielle Thompson shares her best advice for the employees of Weil, Gotshal & Manges and others who face a company wind-down or dissolution. In the wake of Weil, a legal recruiter's advice for surviving a company wind-down",
+        "published": "Sat, 31 Oct 2026 13:07:01 GMT",
+        "published_kst": "2026-10-31T22:07:01+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump’s White House Says Democrats Would Cost You $35,000 a Year. I’m a CPA — Here’s the Catch - Money Talks News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHdfVjNqcmRHV08yNW1JeEozVWJ6akFfZlc2UHVVTnpIRXVaeU82VEhDSUMzTEQ5MmdmZVZlSUVWVC00am1oQ2JTSEtTM3pLVTlIVnl4Z2NOR2ZNMDNZb216RWQzeXNoc3JWRHMycm9TT1p1VGVkQVFZNkp0cW1rWmRFanhqZVRQSTYyMTc5d1pLanBaXzBZc1pNektwalJDa0UtVHlUWmpsSFd4TUlhR1d3?oc=5",
+        "summary": "I’m a CPA — Here’s the Catch Money Talks News Trump’s White House Says Democrats Would Cost You $35,000 a Year. Trump’s White House Says Democrats Would Cost You $35,000 a Year.",
+        "published": "Sat, 31 Oct 2026 12:00:39 GMT",
+        "published_kst": "2026-10-31T21:00:39+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$35"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory! - NPR",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbUpXWjhvM1owcWpJT2tWQS1WV1JUYkljWXVRbm5yck1DZi1GZl9TWUFVWl9FWnJBYjhQWHNucjRKMDFBSk55RnNTYUItS2h6N2FHQlFrMzlBUjVkYVQxSTZYUEdJb1h1bHNLUm9ZOXQ0YUZFNHJXWTdtSGFKUnNrWkdRVzNWZHdlNkM4cmVQTE5FeGxtQ00za3dRb1NiVWxmS0k2SWd3YXlhcFpUbHhv?oc=5",
+        "summary": "NPR Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+        "published": "Sat, 31 Oct 2026 12:00:00 GMT",
+        "published_kst": "2026-10-31T21:00:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,33 +77,33 @@
     ],
     "kr": [
       {
-        "title": "트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 - 한국경제",
+        "title": "[속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52VWVpaGxDMHV3eENjbFNUeVhvUG5BZ0ktWmd2MkZXakt5c0pSU2J1eVd3bmRCWHd6TnVNMUs5dUpwUi1XM3VoYm1pVVlRUWlKZGE1OHp3RXhpUQ?oc=5",
+        "summary": "[속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과 한국경제 [속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과 - 한국경제",
+        "published": "Sat, 31 Oct 2026 14:47:36 GMT",
+        "published_kst": "2026-10-31T23:47:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "“술자리 젠슨 황 옆 여성 기업인, 中 스파이였다”…한국 정치·산업·언론계도 ‘스파이 비상’ - 인터넷타임즈",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2WWdhZzd4V1U1bEhsU2c3V3k2TWNDemNLWEFMQTJEWDlnUF9lOGtnajN2elF3M294aklqQzFFMGtCc0VEWE5FZE1kTFBBTnV0RkJ0RVZrZjc0MlVzQnhUV0YxcURnZnV0U0Ntbg?oc=5",
+        "summary": "“술자리 젠슨 황 옆 여성 기업인, 中 스파이였다”…한국 정치·산업·언론계도 ‘스파이 비상’ 인터넷타임즈 “술자리 젠슨 황 옆 여성 기업인, 中 스파이였다”…한국 정치·산업·언론계도 ‘스파이 비상’ - 인터넷타임즈",
+        "published": "Sat, 31 Oct 2026 14:15:36 GMT",
+        "published_kst": "2026-10-31T23:15:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"트럼프 집 앞에 미사일이?\"…방공미사일 '어벤저' 포착 - 한국경제",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ekZoTW5SNGk0Y09NMlBkNDVIQ1RaOXAxR2IyaFdfVXJOVnJYVmlOOGN1WTk3d2xmUkhfeXNMeXFiRmlIb3ZmcG5qUFdfWGw0RTE3REdrNUlLQQ?oc=5",
-        "summary": "트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 한국경제 트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 - 한국경제",
+        "summary": "\"트럼프 집 앞에 미사일이?\"…방공미사일 '어벤저' 포착 한국경제 \"트럼프 집 앞에 미사일이?\"…방공미사일 '어벤저' 포착 - 한국경제",
         "published": "Sat, 31 Oct 2026 11:01:31 GMT",
         "published_kst": "2026-10-31T20:01:31+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "조국 \"민주당과 연대·통합 위해선 공통 목표 분명해야\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4RUU0WXRkOGxGTnNIazg5SFFjNEVfUUp6NXlqMEU2RXRKVkpzdF9rUTRXb2pIMUZFTFVmT2swTHVJZHlvRmdzbDlsdklldW5VNzJwSExnNjJyUQ?oc=5",
-        "summary": "조국 \"민주당과 연대·통합 위해선 공통 목표 분명해야\" 한국경제 조국 \"민주당과 연대·통합 위해선 공통 목표 분명해야\" - 한국경제",
-        "published": "Sat, 31 Oct 2026 10:51:35 GMT",
-        "published_kst": "2026-10-31T19:51:35+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[기획/경제] ⑱ 해운 연료 전환과 한국 수출·조선업의 과제 - 기후에너지경제",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsb2hYTHVEckJkNzhLdXZaSGVXUHZudU1xR2NNRG9YSzllNXhGWFVCeGNRc2luM1YyRkQtemdUWTZLMmlYb0hPZXpXLTM0VUg2X0tGelF0aEV6X1lKWmNJX042NlU?oc=5",
-        "summary": "[기획/경제] ⑱ 해운 연료 전환과 한국 수출·조선업의 과제 기후에너지경제 [기획/경제] ⑱ 해운 연료 전환과 한국 수출·조선업의 과제 - 기후에너지경제",
-        "published": "Sat, 31 Oct 2026 10:44:55 GMT",
-        "published_kst": "2026-10-31T19:44:55+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -107,6 +111,28 @@
       }
     ],
     "world": [
+      {
+        "title": "Globalization Is Not Ending. The Rules Are Changing... - semivision",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0JBV0hjNEZHMmFOWnloTWNWOVgzelVvRVNJVS1TOW9ldkJyY2U3bEVXRFBNTlBXNXdkb2F2b3VJbHVDR1ZHaUhvZHBMNDdhOEEzRWFMeEk0aFJjenItSy1yOGtXRkRLUDY0cWxoMlFfQ0kwb2tVeHg2aXZHWHdsTUtDa3Y?oc=5",
+        "summary": "semivision Globalization Is Not Ending. The Rules Are Changing...",
+        "published": "Sat, 31 Oct 2026 15:08:22 GMT",
+        "published_kst": "2026-11-01T00:08:22+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "India slams energy supply disruptions, says oil trade cannot be held hostage - WION",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzRUR05VSVI2TDVHWXYwbEZWVWtQenlmclZTOVBzdkdjRURYWTZ6S3NGdlZNbnp4OXpPWFNuUEdmRkZ4SzBHQ0t5djRTcUg1WjVuakR5ZWJ1NUd6ZndVMjBCZEcyVG10SWEtMWJlc3NiSHgzbS1BTjg0VUlWOUlkQlZXQk1UeGpob0pzNUt0R245emR4cEk3MWNJWUdZWDVPY1h2SnJGZDg3dkln0gGyAUFVX3lxTE91cmx6LUlOUkpfZ3VvU2lJVmVzNkoxSDRyeS16QWVLaDNXUXFxNHFDZU1rTTA2Rk83QXNtY2d1a3M0WUw5Nl9qalkySXR0NEZmSzJ1dWpPc0VSMUU1Z1k3cF9wNUU5Sk44RVhVd2YtWVM4YTFMbDVmeTZYNnRienMyNzlYWnN0VXNBTDZkVkk0TzYwRDFTZFZDNWNhQnVFYU1vLW9ESm9LQVZVRzlGd2toX1E?oc=5",
+        "summary": "India slams energy supply disruptions, says oil trade cannot be held hostage WION India slams energy supply disruptions, says oil trade cannot be held hostage - WION",
+        "published": "Sat, 31 Oct 2026 12:33:00 GMT",
+        "published_kst": "2026-10-31T21:33:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Beijing blasts US ban on device testing in China, warns of supply chain hit - South China Morning Post",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGpxNGVJbUZrZDVpU2ZRY1dMRVFuak9Ua2JienR4ZFRMRVhYb1JHYldKOUtKY3dSTDdiZkVNMUNHUG9Oc2ZuUEFPNzlBQm1sX2N0Vzh6c1Zlb3hKNUJzVDRiVEMtRndwbWZRVUlUMGhuQlI1UmREVHJ2ZUtIYm0wQmJoUVgyUlVoajhBRFF1M0xrbXhKbEJoa2lrUFdIajRldEtWeWpnT2Z1NURVdXI1VTIwYkNGV2pJU3VJcUpxOFlZVG1LU1dILWtzVdIBywFBVV95cUxQektDMkNGZGtFdzI4OW45cEo2cjdUb28tNFdKLUczejdZVGJRY0dwTkczM2NLT0RnRHZLZ1NZZkJabTFjLXpaZ19FX0xvdUNpRldWQTdYWWliczMtQm4tTVRfTklyMkU0WDNYYnBDUGRxbndCTzR2U0RzdGE4XzBXXzdkMFByZDU2bVVtUEVtb21mNGh1M3RTbHppLUVxSm5IWnRLaEM3a3NqQ3R4eUk1U01LNDg0LU1GQzF4cWhCUm1XYWlJcmxpdHU2UQ?oc=5",
@@ -117,31 +143,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Merz proposes global alliance on rules-based trade, cites India as partner for supply chain diversificati - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRURVczloWUItSnlaQlhsbHpteF9JLWNqdXVzWmZsTGktdk9tNTVlSFRzbVdvQmNjLS1WNGVValk4Y0ZESEFYT2R6bG55VnZIY19xbjNrQjhVR1Q5akZEN2pMMDFHcXJ3WVhDWE9iczNJQXNDRk5TMU5pQjB1Y0J3YlVFb2xWaWlVNWxqR253cmJmMGNmcERJRV9MR0ppTVNValc1bmFrSDBfYzlwSHlVYnJLRHZha01zOEo1OHliUWU5NnVFLUNLQ01QamRQTDRzdFV6RkpMREZaSl9Zd1d4ZFh3Y2ttMW5DY2xnaWFQampYVkpNUDZTVE9GV0xmLXBITUFXeFF0UmpRbjI2cHFEY1dKUUZXSjDSAZwCQVVfeXFMTjVIdG41R2hwZG5RNXlsbklPcnZoTV81eHVQVTJaRmV5QzhRNkc5N3otRXJyU3dEZExTanBQVXE4eWk1Z1hENWd5WnZUajlSbVFfM3l1emVKcGJUUTZndUVYbGpseXVyMlR0UlY3MFZzdW1rVXVVNGFVSTFqM09qcGgyQWd4VWs0S2dkaVR3REl4RGxtZWRXSllCeW5UUEtCUFJkR0VETzcxd3p4aG9FYzBsZlA0dlNhdDRsdkFUaWx5TW5EOTh5b2tNNVdzalhHVURuWE4wdl9LdXNDTG9MNFk4eUdNUjlwY2lGTXhEN1VNWXVGZ05peV9hNDJuM3l5SjJ6TUN6dmE2dmpFbW13cGszUjRYNzNiRnZ6dWo?oc=5",
-        "summary": "Merz proposes global alliance on rules-based trade, cites India as partner for supply chain diversificati The Times of India Merz proposes global alliance on rules-based trade, cites India as partner for supply chain diversificati - The Times of India",
-        "published": "Sat, 31 Oct 2026 05:58:00 GMT",
-        "published_kst": "2026-10-31T14:58:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The manufacturing supply chain: Challenges and solutions - Aerospace Manufacturing and Design",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlpoQ0dWdGk3TndaWTNzUnpJU3ZYVDRCVF8wNmVSVkhmZ0hraFJBMFpTNW5XWkZ4NmIzVlBRblUxTElmZmxVTkhwWFRJTXpiY2ZhMDhOUFBrajFKV25tQVZUWDNxM1YyNWs3cWstR19BZzFOUmNlYVBlTEVwSGdkbjNtY3hvbkptODhnMkFtODkyNDdGQnFNeTlGQlRocFhqdXdr?oc=5",
-        "summary": "The manufacturing supply chain: Challenges and solutions Aerospace Manufacturing and Design The manufacturing supply chain: Challenges and solutions - Aerospace Manufacturing and Design",
-        "published": "Sat, 31 Oct 2026 05:00:00 GMT",
-        "published_kst": "2026-10-31T14:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March. Anthropic's path to the Nasdaq just got a lot bumpier / 트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 한국경제 트럼프 마러라고 리조트 인근서 방공미사일 '어벤저' 포착 - 한국경제 / Beijing blasts US ban on device testing in China, warns of supply chain hit South China Morning Post Beijing blasts US ban on device testing in China, warns of supply chain hit - South China Morning Post",
+  "wrap_summary": "FY27 Q1 - Press Releases - Investor Relations Microsoft FY27 Q1 - Press Releases - Investor Relations - Microsoft / [속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과 한국경제 [속보] 핼러윈 인파 혼잡으로 지하철 이태원역 무정차 통과 - 한국경제 / semivision Globalization Is Not Ending. The Rules Are Changing...",
   "invest_summary": ""
 }
