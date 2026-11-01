@@ -1,9 +1,56 @@
 {
   "date": "2026-11-01",
-  "generated_at_utc": "2026-11-01T00:29:30Z",
-  "cutoff_kst": "2026-11-01T09:29:00+09:00",
+  "generated_at_utc": "2026-11-01T08:17:39Z",
+  "cutoff_kst": "2026-11-01T17:17:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcndlVEU5b3hzSjdRWjcxR3EyaURad0xSQm91c1BRNndROTJTdU1Tb1Zrc1RNSUV1c2RMaU1Ub0dVWDZDRV9KVU5Ga3lmTUJOZUJxclBQMG9mOUVjMThZOC0yb05aWWtBRENNZnlQS1B4LUswMUtTQkR0VTcxMzk0aXRPS183QjBnZ0FpZXlkTnIwWHl6U1lxVVktT0V6UjRnWEV1cjhLNUUwTnZIQnB3TlpRVQ?oc=5",
+        "summary": "US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% CGTN US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN",
+        "published": "Sun, 01 Nov 2026 07:24:52 GMT",
+        "published_kst": "2026-11-01T16:24:52+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "13%",
+          "29%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjA5czFvNHJVY3pfd3I2ZGt0eGlkWDZCa3llcU5VRjUxV3pHc2pOUFI5NGZERThCY0lZNkJQZXFPMUphdmw4OEJOV2V2blZ2NGlDakI4NDRVM3VYR0ViSkhGbS1SR2Q0Sk03TmFRd1FvOW90U1Q4TnJYVFJIbVpUSEhpMTVMUmNrbGxpNldwOUZTbXVjV3hpTVV5d00tRHpPOHVJdmVOaEM1ZWc?oc=5",
+        "summary": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again Bloomberg.com US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg.com",
+        "published": "Sun, 01 Nov 2026 06:44:00 GMT",
+        "published_kst": "2026-11-01T15:44:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Companies promised AI gains— here's how the payoff showed up in earnings - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUzBvaG91ZkJPb2Z3cDhJOHZGVW4tSGxXbXhuS0JTa0JQYVlaOE1kb3FzS1lKdjU4ckY5aWlON3pOWUY2eUcyRlkwSl9ob3E0TnpGQ005TW5kX19SWmJoUmttd3Vqcnp5MXNEckRENzA1eFJFeTh30gF8QVVfeXFMTkkydnZzNHdpR0RrUkVDb2UycEEzeF9ZejZZdnFBUlJfN0VIa2Zub3NCaFBXQzRMczNpbzQyWm1KZXA1UWk5MHBRVXo4WE1VN2tNUjJYUE1hbU1MRS02SUZ3NEk4Vk9VY0V5YjZnU1JVNS1La3g4dVpSOXJzbg?oc=5",
+        "summary": "Companies promised AI gains— here's how the payoff showed up in earnings CNBC Companies promised AI gains— here's how the payoff showed up in earnings - CNBC",
+        "published": "Sun, 01 Nov 2026 06:00:01 GMT",
+        "published_kst": "2026-11-01T15:00:01+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
+        "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+        "summary": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns. Companies promised AI gains— here's how the payoff showed up in earnings",
+        "published": "Sun, 01 Nov 2026 06:00:01 GMT",
+        "published_kst": "2026-11-01T15:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
         "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
@@ -14,17 +61,6 @@
         "key_figures": [
           "2025"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
-        "summary": "FY27 Q1 - Press Releases - Investor Relations Microsoft FY27 Q1 - Press Releases - Investor Relations - Microsoft",
-        "published": "Sat, 31 Oct 2026 23:42:11 GMT",
-        "published_kst": "2026-11-01T08:42:11+09:00",
-        "domain": "google.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -41,83 +77,61 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Kamala Harris avoids questions about another White House run | The Trail - WMUR",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQVhxVmJlZHpTQzJfdnpxV205M29kTXNlOFJFLU5KYTVOejhHWFFQbE9XWFpGaFFSSm1yUHBnNUNUd1RlNEZtR0FyNGp3RVZabFhIUEVuOVpFN1QyRVN2LWVwVVNIcm94b1FMQzAyRVdlaVV2M3I5bDZ1eFdKYkVCdFFvREFMN2c?oc=5",
-        "summary": "Kamala Harris avoids questions about another White House run | The Trail WMUR Kamala Harris avoids questions about another White House run | The Trail - WMUR",
-        "published": "Sat, 31 Oct 2026 20:34:00 GMT",
-        "published_kst": "2026-11-01T05:34:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-        "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-        "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years. SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-        "published": "Sat, 31 Oct 2026 20:12:37 GMT",
-        "published_kst": "2026-11-01T05:12:37+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjA5czFvNHJVY3pfd3I2ZGt0eGlkWDZCa3llcU5VRjUxV3pHc2pOUFI5NGZERThCY0lZNkJQZXFPMUphdmw4OEJOV2V2blZ2NGlDakI4NDRVM3VYR0ViSkhGbS1SR2Q0Sk03TmFRd1FvOW90U1Q4TnJYVFJIbVpUSEhpMTVMUmNrbGxpNldwOUZTbXVjV3hpTVV5d00tRHpPOHVJdmVOaEM1ZWc?oc=5",
-        "summary": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again Bloomberg.com US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg.com",
-        "published": "Sat, 31 Oct 2026 20:00:00 GMT",
-        "published_kst": "2026-11-01T05:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "[속보] 한국 수출 첫 9000억달러 돌파… 10월 1153억달러 - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNkxwQ0VrWkNfVjY5azR5NXN1OV8zOHY4NzlhS3h0R205WkZBTnIwSDU3SlQxLUk2M0dCYmxmdDVSQnFFbTZQaWZYZnVWZlRhTEd1Zk5PaWY2eko2aTU1aDBPdERlRHczTklfdUZpbGJDWlNHZExUUVQyaTRSeWdMNkJHRFg4d9IBmgFBVV95cUxPRmlaM2VnOTVSUDQ2YllsZUVzTzI0SndIVmlJeWRRbEZ1SkpLWXdKY1Q3MlR5bjRmaG1XNWl4dVBJSUZjWnZ4cGhWVElJOWtfbTFza0g5UHNiMzBSaGNFTnRpVWNUeHJBLWEyc1VLY2JTZlY2dFNjOHRuWXl5a0J6UElJa0dKdE9VTzJDcEdNdHh1VVJmWU5jZy1R?oc=5",
-        "summary": "[속보] 한국 수출 첫 9000억달러 돌파… 10월 1153억달러 Chosunbiz [속보] 한국 수출 첫 9000억달러 돌파… 10월 1153억달러 - Chosunbiz",
-        "published": "Sun, 01 Nov 2026 00:23:00 GMT",
-        "published_kst": "2026-11-01T09:23:00+09:00",
+        "title": "2027 대한민국 퍼스트브랜드 대상 소비자조사 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pbE1kTzFHaFBIejZIY2pVSENtZnRpYzBYMXhRbTlJbXVvYTBBQ1A1WElTUTZSU3RUd1FPUkRVdU1rN2kzNktiTFN5LVJfMXBBeE5GajVOaVZkZw?oc=5",
+        "summary": "2027 대한민국 퍼스트브랜드 대상 소비자조사 한국경제 2027 대한민국 퍼스트브랜드 대상 소비자조사 - 한국경제",
+        "published": "Sun, 01 Nov 2026 08:10:22 GMT",
+        "published_kst": "2026-11-01T17:10:22+09:00",
         "domain": "google.com",
         "key_figures": [
-          "9000",
-          "1153"
+          "2027"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국 수출 첫 9천억달러 돌파…연 수출 1조 달러 확실시 - 연합뉴스TV",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwLVFab2l0bGRXTWNReXZkMWhPakltWXJxRXNvVEd3RmV3RWRTVi1FdGdWSEZEUEI2VDV4a1VDbnVqZVByM09aMjNrd2dGQ2MwTHhVU2hjRGxfMG5fNndteHk0dEJsU0U?oc=5",
-        "summary": "한국 수출 첫 9천억달러 돌파…연 수출 1조 달러 확실시 연합뉴스TV 한국 수출 첫 9천억달러 돌파…연 수출 1조 달러 확실시 - 연합뉴스TV",
-        "published": "Sun, 01 Nov 2026 00:22:00 GMT",
-        "published_kst": "2026-11-01T09:22:00+09:00",
+        "title": "한국해운협회, '탄소 규제 대응과 비용 최소화' 포럼 개최 - 서울파이낸스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRFc4RTlqLXQ5RzZzTDNaYU1NNUljcG9waVpOcV9BbUhxSS1kVmJyc1JpbHpTZUFyQTkwT0F5ZXBtQjBCRE83bHB5Y0VNajlkY1RGbnFZM1ptZzhBRERVUkxsczNkM2tUMnc?oc=5",
+        "summary": "한국해운협회, '탄소 규제 대응과 비용 최소화' 포럼 개최 서울파이낸스 한국해운협회, '탄소 규제 대응과 비용 최소화' 포럼 개최 - 서울파이낸스",
+        "published": "Sun, 01 Nov 2026 07:16:40 GMT",
+        "published_kst": "2026-11-01T16:16:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[속보] 한국 수출 첫 9000억달러 돌파…10월 1153억달러 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Xa2VNUGtGZmRlcVd2WmQ0dFRDWHR5M05ySkEyMDlPNTNVNjh5N3FHY21NV1B1WmxPVkM0c0ItMS00U0twRjN4ZXUyNkFtZE9FOUN5b3hDSDhzQQ?oc=5",
-        "summary": "[속보] 한국 수출 첫 9000억달러 돌파…10월 1153억달러 한국경제 [속보] 한국 수출 첫 9000억달러 돌파…10월 1153억달러 - 한국경제",
-        "published": "Sun, 01 Nov 2026 00:20:05 GMT",
-        "published_kst": "2026-11-01T09:20:05+09:00",
+        "title": "한국 수출 첫 9000억달러…'연간 1조달러' 카운트다운 - 뉴스토마토",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xREEyelVFb0hfeHpIWFN0a19NRmVXZXFVdGRIV2Q4Q1ZKSGxCekhjczktdVRjSU9CV0N0alhvcklrLUdrNnJ4MWsyUWFkYko4QWJ1RjhheFJQMW1Za2lNTA?oc=5",
+        "summary": "한국 수출 첫 9000억달러…'연간 1조달러' 카운트다운 뉴스토마토 한국 수출 첫 9000억달러…'연간 1조달러' 카운트다운 - 뉴스토마토",
+        "published": "Sun, 01 Nov 2026 07:03:29 GMT",
+        "published_kst": "2026-11-01T16:03:29+09:00",
         "domain": "google.com",
         "key_figures": [
-          "9000",
-          "1153"
+          "9000"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
+      {
+        "title": "[APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil - The Korea Herald",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CdzFUREFmbW5EdGhCVWxjSGVNTVJIdjZaa0NPeWtDNjdzMFNRNmktRkR1VDVhVDVydmR6ODZScVhCWTdyX0NFMW5ZS3B6T2hLVUxPUmtscw?oc=5",
+        "summary": "[APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil The Korea Herald [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil - The Korea Herald",
+        "published": "Sun, 01 Nov 2026 04:17:13 GMT",
+        "published_kst": "2026-11-01T13:17:13+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "RMD Q3 deep dive: product innovation and supply chain execution drive results amid evolving landscape - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTdHT0hEVDRmbjBicmw1c0RCXzZKVWJtdnNXTDVVc29LTHpqYXVQRDZmQmxwTkNhc0ZabHVjSTlTZS1BQUktVzJZUnVwVXJCX3RTMXVJV25qeW55NUVacWdpX1YxaVIwNXBVUko5MnkyelBkcEpqUVQ4RDhWNWhEUXlsOUljYkpBLUR5d3hB?oc=5",
@@ -130,22 +144,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Quad ministers flag economic coercion and supply chain risks - India Today",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUUpaTjdMVXJjS2NKb0RzYmxYVlZ3MFMtN3dEWU00RnliYXZaNy05OTRPY1plNEJmZ1E4Z09yVUdoYVVNVVNCT2wzOWpDdG1RVHp0WkNvbG8zNHBvMzA5ekJQZ2tTUU5OZEpISFFTbXVmUDRIX1NFd0JqZ084aURuZDRTS0FRaWswRnJkeElfWW9uMElyMnd1bm5ZbWZKOXRmOF9KTXRhdE0yVmVxX0MzVG9EcklJU2Y1aUQ5ZXZQVUtHZXJtQ043OXdWUi16OEM1dUHSAdcBQVVfeXFMTlNySnJnakVRRHdKTTk0WXhad1p1cE5rOTRHNnd6VjV1MVV5T0lCelNXYllMZzE3N292aTNuWDYxQTJKY1d6VzJ2RXVGcE1xd1pMdmZlSjZoSndNajNZN1A3cVF6WEhyWkI0azIxcVRoZFpRcHJFTk1kcm5FaGdsUUhjSjIweTk5NnJUaXZPbjByNXhkbDVMYXp2bDJnQjhqaV9ZdWZHMmNFeXA2Z0N6TUFmMktmV2lSQlREQVBnX2wwOWVNYmE5c01ydXBoNjVyMkVCSVhWblE?oc=5",
-        "summary": "Quad ministers flag economic coercion and supply chain risks India Today Quad ministers flag economic coercion and supply chain risks - India Today",
-        "published": "Sat, 31 Oct 2026 19:14:17 GMT",
-        "published_kst": "2026-11-01T04:14:17+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Shipping Rates Fall: Why Operators See No Relief - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0lxWXdqU3JPOXlHZWRZR0lyNDNqcEotaVAtWEpKLVB5RzhKNldHbnNzaVdlUmFZeDV3SHpSajY2VFZHMDBud3dodzBjNlRQeHhsUUhmeDE1SDBZQjJMazBCM192bEVGTElkbUhxWThIWDlxY2I3T0x6M1QxNDhHMFF5ZFkweEloX19GNkk3dmNSSDZtZ3pISzJ2NEhZMXB6LThveExWaFY3NEQzRFZlcnlhUXk0TDE0a1pzV1JHUQ?oc=5",
-        "summary": "Shipping Rates Fall: Why Operators See No Relief Supply & Demand Chain Executive Shipping Rates Fall: Why Operators See No Relief - Supply & Demand Chain Executive",
-        "published": "Sat, 31 Oct 2026 18:41:10 GMT",
-        "published_kst": "2026-11-01T03:41:10+09:00",
+        "title": "Rubio says G20 focused on energy security, critical minerals, and supply chains - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzBpMGlzT2NtZ2pWc2ZwcHZNbDlWc1dUZWJ3ekpvWTdWcUNhdGtLZ1MtYm1PLWVhdVpkbTM5YTI1anhHamVTVEhQX2pBTHZwQjZ5UmhyTUhLc3VuYUd0eTJqOUlpZTkzUUl5UWVpdXpNMW9rN3MtejdxQjZrN3pYWjkwQ29JX2RQejJrMEgxTWZlYmJHTkFSTzdkeXZDX1FnbF9HcVhIZ2RURlhRU1FJV0tkM2I3eGM?oc=5",
+        "summary": "Rubio says G20 focused on energy security, critical minerals, and supply chains Anadolu Ajansı Rubio says G20 focused on energy security, critical minerals, and supply chains - Anadolu Ajansı",
+        "published": "Sat, 31 Oct 2026 21:43:25 GMT",
+        "published_kst": "2026-11-01T06:43:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -153,6 +156,6 @@
       }
     ]
   },
-  "wrap_summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article. Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice / [속보] 한국 수출 첫 9000억달러 돌파… 10월 1153억달러 Chosunbiz [속보] 한국 수출 첫 9000억달러 돌파… 10월 1153억달러 - Chosunbiz / RMD Q3 deep dive: product innovation and supply chain execution drive results amid evolving landscape Yahoo Finance RMD Q3 deep dive: product innovation and supply chain execution drive results amid evolving landscape - Yahoo Finance",
+  "wrap_summary": "US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% CGTN US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN / 2027 대한민국 퍼스트브랜드 대상 소비자조사 한국경제 2027 대한민국 퍼스트브랜드 대상 소비자조사 - 한국경제 / [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil The Korea Herald [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil - The Korea Herald",
   "invest_summary": ""
 }
