@@ -1,42 +1,66 @@
 {
   "date": "2026-11-01",
-  "generated_at_utc": "2026-11-01T08:17:39Z",
-  "cutoff_kst": "2026-11-01T17:17:00+09:00",
+  "generated_at_utc": "2026-11-01T12:05:22Z",
+  "cutoff_kst": "2026-11-01T21:05:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcndlVEU5b3hzSjdRWjcxR3EyaURad0xSQm91c1BRNndROTJTdU1Tb1Zrc1RNSUV1c2RMaU1Ub0dVWDZDRV9KVU5Ga3lmTUJOZUJxclBQMG9mOUVjMThZOC0yb05aWWtBRENNZnlQS1B4LUswMUtTQkR0VTcxMzk0aXRPS183QjBnZ0FpZXlkTnIwWHl6U1lxVVktT0V6UjRnWEV1cjhLNUUwTnZIQnB3TlpRVQ?oc=5",
-        "summary": "US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% CGTN US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN",
-        "published": "Sun, 01 Nov 2026 07:24:52 GMT",
-        "published_kst": "2026-11-01T16:24:52+09:00",
+        "title": "Will US jobs growth remain subdued? - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYW1ub1o1bGIyaUNRcHY2OXhjd2Y5NVdMelBQZTNkcjI2dng4dWdYT3Vsak11Qm82OFc2Q3EwdWFHZ25oZWkyOHhLWW83ZC1XOURrd3dEZ2o2a0RndDRWVHM1TVZtLUVmZkplX3VrWFVKSDVjNDhyeU9BOTBxRzVBRUJZTnQ?oc=5",
+        "summary": "Financial Times Will US jobs growth remain subdued?",
+        "published": "Sun, 01 Nov 2026 12:00:01 GMT",
+        "published_kst": "2026-11-01T21:00:01+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Why AI is boosting Meta's ad business while hurting Google search",
+        "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+        "summary": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter. Why AI is boosting Meta's ad business while hurting Google search",
+        "published": "Sun, 01 Nov 2026 12:00:01 GMT",
+        "published_kst": "2026-11-01T21:00:01+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "13%",
-          "29%"
+          "2021"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjA5czFvNHJVY3pfd3I2ZGt0eGlkWDZCa3llcU5VRjUxV3pHc2pOUFI5NGZERThCY0lZNkJQZXFPMUphdmw4OEJOV2V2blZ2NGlDakI4NDRVM3VYR0ViSkhGbS1SR2Q0Sk03TmFRd1FvOW90U1Q4TnJYVFJIbVpUSEhpMTVMUmNrbGxpNldwOUZTbXVjV3hpTVV5d00tRHpPOHVJdmVOaEM1ZWc?oc=5",
-        "summary": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again Bloomberg.com US Jobs Pickup May Keep Fed on Track to Hike Rates Again - Bloomberg.com",
-        "published": "Sun, 01 Nov 2026 06:44:00 GMT",
-        "published_kst": "2026-11-01T15:44:00+09:00",
+        "title": "Why the U.S. can’t get inflation under control, explained in seven charts - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcl9QVUhMOWN6c3FDUFBiSEtack9mek0zX2VsQjZfR3NPM283OWFHQkNuTGFRekRPSjFyTndvWFFkZzc3cEEtNHFzbDQ2a0wxVVBhNzNORGxVSGxIVW9KS1FUZjJYamhXYW9rT0o4ZG5UR05oTG1yRUJKU2I1aEtHcFAtWVJ5N092X3hUa05JUnQyNVVnV2YzQnlYTU5mdzZUaFE?oc=5",
+        "summary": "can’t get inflation under control, explained in seven charts The Globe and Mail Why the U.S.",
+        "published": "Sun, 01 Nov 2026 12:00:00 GMT",
+        "published_kst": "2026-11-01T21:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Companies promised AI gains— here's how the payoff showed up in earnings - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TUzBvaG91ZkJPb2Z3cDhJOHZGVW4tSGxXbXhuS0JTa0JQYVlaOE1kb3FzS1lKdjU4ckY5aWlON3pOWUY2eUcyRlkwSl9ob3E0TnpGQ005TW5kX19SWmJoUmttd3Vqcnp5MXNEckRENzA1eFJFeTh30gF8QVVfeXFMTkkydnZzNHdpR0RrUkVDb2UycEEzeF9ZejZZdnFBUlJfN0VIa2Zub3NCaFBXQzRMczNpbzQyWm1KZXA1UWk5MHBRVXo4WE1VN2tNUjJYUE1hbU1MRS02SUZ3NEk4Vk9VY0V5YjZnU1JVNS1La3g4dVpSOXJzbg?oc=5",
-        "summary": "Companies promised AI gains— here's how the payoff showed up in earnings CNBC Companies promised AI gains— here's how the payoff showed up in earnings - CNBC",
-        "published": "Sun, 01 Nov 2026 06:00:01 GMT",
-        "published_kst": "2026-11-01T15:00:01+09:00",
+        "title": "White House expresses \"concern\" that Flynn lied - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qZVVGNVBGbWt0Uk8tcmR5dTRRQ2d4WVNkTTkwQ1gyaVFLUmVMeVU5a2swRVlVZUhacHFDWk5CWVlONHVuR2x1M3lSX3NMMzJmc2VQQkZTXzd5QzRF?oc=5",
+        "summary": "White House expresses \"concern\" that Flynn lied Reuters White House expresses \"concern\" that Flynn lied - Reuters",
+        "published": "Sun, 01 Nov 2026 11:33:18 GMT",
+        "published_kst": "2026-11-01T20:33:18+09:00",
         "domain": "google.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+        "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+        "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals. Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+        "published": "Sun, 01 Nov 2026 09:03:47 GMT",
+        "published_kst": "2026-11-01T18:03:47+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$6.3",
+          "90%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -50,75 +74,66 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-        "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-        "summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article. Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-        "published": "Sat, 31 Oct 2026 23:56:40 GMT",
-        "published_kst": "2026-11-01T08:56:40+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2025"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-        "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-        "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks. Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-        "published": "Sat, 31 Oct 2026 22:27:56 GMT",
-        "published_kst": "2026-11-01T07:27:56+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "90%",
-          "$6.3"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "2027 대한민국 퍼스트브랜드 대상 소비자조사 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pbE1kTzFHaFBIejZIY2pVSENtZnRpYzBYMXhRbTlJbXVvYTBBQ1A1WElTUTZSU3RUd1FPUkRVdU1rN2kzNktiTFN5LVJfMXBBeE5GajVOaVZkZw?oc=5",
-        "summary": "2027 대한민국 퍼스트브랜드 대상 소비자조사 한국경제 2027 대한민국 퍼스트브랜드 대상 소비자조사 - 한국경제",
-        "published": "Sun, 01 Nov 2026 08:10:22 GMT",
-        "published_kst": "2026-11-01T17:10:22+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2027"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "한국해운협회, '탄소 규제 대응과 비용 최소화' 포럼 개최 - 서울파이낸스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRFc4RTlqLXQ5RzZzTDNaYU1NNUljcG9waVpOcV9BbUhxSS1kVmJyc1JpbHpTZUFyQTkwT0F5ZXBtQjBCRE83bHB5Y0VNajlkY1RGbnFZM1ptZzhBRERVUkxsczNkM2tUMnc?oc=5",
-        "summary": "한국해운협회, '탄소 규제 대응과 비용 최소화' 포럼 개최 서울파이낸스 한국해운협회, '탄소 규제 대응과 비용 최소화' 포럼 개최 - 서울파이낸스",
-        "published": "Sun, 01 Nov 2026 07:16:40 GMT",
-        "published_kst": "2026-11-01T16:16:40+09:00",
+        "title": "룰라의 결선 역전승, 한국 노동정치에 무엇을 묻는가 - 미디어피아",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DclBQVUxxNDBHbGt3OHhQb01IZ09hdGg5VC1YVkptbWtwRExxeExKVTZUUHNrTTNJd3pWT1ZJZEc0b29mN05RRG1XUW5GZHZ1Vzh0TTN5alh1RUI1eE5FYnQtNUFoSmN0NlAzUkh3?oc=5",
+        "summary": "룰라의 결선 역전승, 한국 노동정치에 무엇을 묻는가 미디어피아 룰라의 결선 역전승, 한국 노동정치에 무엇을 묻는가 - 미디어피아",
+        "published": "Sun, 01 Nov 2026 11:08:47 GMT",
+        "published_kst": "2026-11-01T20:08:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국 수출 첫 9000억달러…'연간 1조달러' 카운트다운 - 뉴스토마토",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xREEyelVFb0hfeHpIWFN0a19NRmVXZXFVdGRIV2Q4Q1ZKSGxCekhjczktdVRjSU9CV0N0alhvcklrLUdrNnJ4MWsyUWFkYko4QWJ1RjhheFJQMW1Za2lNTA?oc=5",
-        "summary": "한국 수출 첫 9000억달러…'연간 1조달러' 카운트다운 뉴스토마토 한국 수출 첫 9000억달러…'연간 1조달러' 카운트다운 - 뉴스토마토",
-        "published": "Sun, 01 Nov 2026 07:03:29 GMT",
-        "published_kst": "2026-11-01T16:03:29+09:00",
+        "title": "美 공격재개 전망 속…이란, 카타르와 협상 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84aE11UUpEMEZuTUtIaVZaTllONkN5VzJuc2U0V0V5dkFWZ0w4MFRTM296dEpFYy1ZbFZWN2lObUg2dmo5RTJ4Z2c4NGNWSUVpTlpZbW92b18wdw?oc=5",
+        "summary": "美 공격재개 전망 속…이란, 카타르와 협상 한국경제 美 공격재개 전망 속…이란, 카타르와 협상 - 한국경제",
+        "published": "Sun, 01 Nov 2026 10:30:00 GMT",
+        "published_kst": "2026-11-01T19:30:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "9000"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "한국 수출 사상 첫 9천억 달러 돌파…‘1조 달러’ 시대 연다 - JTBC",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13YzV3QnRHMWxDQzAtZzVXbDMxX0NGTjBtc0ZHLWdiR3RhOXF0V214TjdYT3hmS1kxbnowc3dzVEVRMFVnTndUM0tqcTJkbUZEbDJDNg?oc=5",
+        "summary": "한국 수출 사상 첫 9천억 달러 돌파…‘1조 달러’ 시대 연다 JTBC 한국 수출 사상 첫 9천억 달러 돌파…‘1조 달러’ 시대 연다 - JTBC",
+        "published": "Sun, 01 Nov 2026 09:54:00 GMT",
+        "published_kst": "2026-11-01T18:54:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
+      {
+        "title": "3 AI Chip Supply Chain Stocks Investors Should Watch As Demand Tests Pricing - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd09iaVhRZkJxX3hVNE4zZ0IwQnlZRzdCQ0RGRjRXWFpFQkFzbzZMUVdnVVFDTjF0QnZhb0NEbjAtbkVRYWZlWjV1Z3NhNlpvb2xSVlRSNGJlcnI3ajBOSEpRQjN3dDhTS29oSUdsWGVOWGduSUtyRy1JY0REZnFNQmpKUVZCMGo5Q3hxWWpYWTE2TGdBbWNOOG1ZVW9oUTBCVURmaFBYaGh4Ri1uZE9tYTV3d2V6eUNMVHE0cm8xNGRqZ2JEZUJ4Z2xMOHluZjl2a2hF0gHYAUFVX3lxTE0wQkliTTdZZjFwWGt2RmJ4VFZzVGhvUUdFTG9TbVJ2bWxoNEg2eFc4TmtfSzRuVXRkLTltZVoyRlRQUVBXQm9ucEQydUF1S3lMeE1ualFUdDhsZ1UzVFdkUXhib2RCenVlZmFrQkZBb3lLaF9Pa1R0VnVrdkdZZjNTRi14SVktcFdUTHlBTTJLZmxwcjR4NUY4U1czSVp0M1N6UlN4OGdNdFpGdmI4c0pQaTROd19SUnYyVm1aUmtfYzJ3VEhtbDJ4MTJmOU9yZW5DamlfZU9HRA?oc=5",
+        "summary": "3 AI Chip Supply Chain Stocks Investors Should Watch As Demand Tests Pricing Simply Wall St 3 AI Chip Supply Chain Stocks Investors Should Watch As Demand Tests Pricing - Simply Wall St",
+        "published": "Sun, 01 Nov 2026 10:42:22 GMT",
+        "published_kst": "2026-11-01T19:42:22+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Secure supply chains, resilience key for global economy: Jaishankar - BusinessLine",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcDUtUjVyMjUxMDVTMnlqQ05fNEczRnRBR2hOMVNXTFJ3M0VQQ0JqcG9ybUdWaXRvTDhpdndQek4wUTZjZ0x2WG5GZXRURm4xRl9ISXZZQzJfenRwVVRQNU50eGIwOXotWDZ3ajhZSERRcGN2bmNMb18wN3VpVS01ek1odUV6VFFqbWs2bWthdHFSemJJVTVhUzR2YVNjQlN2cTIweXlodE9DcGdCMVBDLUdLZ2t4eXQ3WXNwMlh6T2plLWhoOXfSAcwBQVVfeXFMTjJkZzlWOUQxdFU2TGozX1lzd0F6TURZREtEdEpTc283VjBWWS1xWHZJUnI5a2ZSSkVvY3FEV1NNUUpVaUZvSm40QThHN3NPZ0lSN0oyaU9NZk1VcGZiR29BNUJhZ3l3X0FTSldFM0tFZ2xNNGQ3SzVXSGVUYkJ4UlVqWGNTVnFmQzhNM2F0VFFXQlRBUFVZbDh1bVdRd3pPVnEtU1psZkJnUlBGd0RidGItZlB6MXJ6b3ZXM24zcGhIeVVEQ21oeTBjZ1o1?oc=5",
+        "summary": "Secure supply chains, resilience key for global economy: Jaishankar BusinessLine Secure supply chains, resilience key for global economy: Jaishankar - BusinessLine",
+        "published": "Sun, 01 Nov 2026 07:41:53 GMT",
+        "published_kst": "2026-11-01T16:41:53+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "[APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil - The Korea Herald",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CdzFUREFmbW5EdGhCVWxjSGVNTVJIdjZaa0NPeWtDNjdzMFNRNmktRkR1VDVhVDVydmR6ODZScVhCWTdyX0NFMW5ZS3B6T2hLVUxPUmtscw?oc=5",
@@ -131,31 +146,9 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "RMD Q3 deep dive: product innovation and supply chain execution drive results amid evolving landscape - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTdHT0hEVDRmbjBicmw1c0RCXzZKVWJtdnNXTDVVc29LTHpqYXVQRDZmQmxwTkNhc0ZabHVjSTlTZS1BQUktVzJZUnVwVXJCX3RTMXVJV25qeW55NUVacWdpX1YxaVIwNXBVUko5MnkyelBkcEpqUVQ4RDhWNWhEUXlsOUljYkpBLUR5d3hB?oc=5",
-        "summary": "RMD Q3 deep dive: product innovation and supply chain execution drive results amid evolving landscape Yahoo Finance RMD Q3 deep dive: product innovation and supply chain execution drive results amid evolving landscape - Yahoo Finance",
-        "published": "Sat, 31 Oct 2026 23:07:00 GMT",
-        "published_kst": "2026-11-01T08:07:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Rubio says G20 focused on energy security, critical minerals, and supply chains - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzBpMGlzT2NtZ2pWc2ZwcHZNbDlWc1dUZWJ3ekpvWTdWcUNhdGtLZ1MtYm1PLWVhdVpkbTM5YTI1anhHamVTVEhQX2pBTHZwQjZ5UmhyTUhLc3VuYUd0eTJqOUlpZTkzUUl5UWVpdXpNMW9rN3MtejdxQjZrN3pYWjkwQ29JX2RQejJrMEgxTWZlYmJHTkFSTzdkeXZDX1FnbF9HcVhIZ2RURlhRU1FJV0tkM2I3eGM?oc=5",
-        "summary": "Rubio says G20 focused on energy security, critical minerals, and supply chains Anadolu Ajansı Rubio says G20 focused on energy security, critical minerals, and supply chains - Anadolu Ajansı",
-        "published": "Sat, 31 Oct 2026 21:43:25 GMT",
-        "published_kst": "2026-11-01T06:43:25+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% CGTN US tech stocks hit by earnings shock: Alphabet slides 13%, Intel plunges 29% - CGTN / 2027 대한민국 퍼스트브랜드 대상 소비자조사 한국경제 2027 대한민국 퍼스트브랜드 대상 소비자조사 - 한국경제 / [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil The Korea Herald [APK 2026] Korea, Germany deepen AI, supply chain ties amid global turmoil - The Korea Herald",
+  "wrap_summary": "Financial Times Will US jobs growth remain subdued? / 룰라의 결선 역전승, 한국 노동정치에 무엇을 묻는가 미디어피아 룰라의 결선 역전승, 한국 노동정치에 무엇을 묻는가 - 미디어피아 / 3 AI Chip Supply Chain Stocks Investors Should Watch As Demand Tests Pricing Simply Wall St 3 AI Chip Supply Chain Stocks Investors Should Watch As Demand Tests Pricing - Simply Wall St",
   "invest_summary": ""
 }
