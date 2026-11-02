@@ -1,76 +1,78 @@
 {
   "date": "2026-11-02",
-  "generated_at_utc": "2026-11-02T01:03:12Z",
-  "cutoff_kst": "2026-11-02T10:03:00+09:00",
+  "generated_at_utc": "2026-11-02T08:31:29Z",
+  "cutoff_kst": "2026-11-02T17:31:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Warnock says he plans 2028 run for ‘high office.’ He doesn’t say which one. - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVGJ4RWpKeU1ERnZEenJZNnhMNUdCT19UaHZ1MV82U2VaZkN0OHZmbHpVcks4djM0ZjA3ZE1ZN1lRUTA3RXJVRUpjaFRQcnlXYUZfNVgzUUQ1Z1lJNGRtcnJFSWd6T0IyaTBYY2dYMHQ0eXRJYU5jMDl5UTlGN2lNY3E5YjY3dlVPeFBIc1BWUHVCNWZjMUF1QTZnX3RCbEUxLWxrNkxGX3p3T1FuVW5XQ3dPWUhlcFNuUUE?oc=5",
-        "summary": "The Washington Post Warnock says he plans 2028 run for ‘high office.’ He doesn’t say which one. - The Washington Post",
-        "published": "Mon, 02 Nov 2026 01:02:24 GMT",
-        "published_kst": "2026-11-02T10:02:24+09:00",
+        "title": "Trump Entertains Idea of Nicki Minaj as White House Press Secretary - AM 740 KVOR",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkxQVnNHQndWenJ2d3dzRXgzeE5YQ05sR1NHaTJKNDRrU1NqNWdYbU42X3hvazBkZDEwLVVpejFvcFZwS0JRelFObzRxVlpIbmFMOWcwNDYtSGx2RG5kZlgySjlUb1pWSGdBWkIteEsyaWhoVjNxN3JCRTNSN1RPNEp3YU5iNWU3UXJscndtRjJ2Vkc1dW9pSFFIY1ZLNno2bmc?oc=5",
+        "summary": "Trump Entertains Idea of Nicki Minaj as White House Press Secretary AM 740 KVOR Trump Entertains Idea of Nicki Minaj as White House Press Secretary - AM 740 KVOR",
+        "published": "Mon, 02 Nov 2026 08:29:38 GMT",
+        "published_kst": "2026-11-02T17:29:38+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+        "url": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
+        "summary": "Apollo has launched a 10 billion euro European private credit platform backed by major global investors. Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+        "published": "Mon, 02 Nov 2026 08:22:27 GMT",
+        "published_kst": "2026-11-02T17:22:27+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "2028"
+          "$11"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. stock futures edge high after bruising Oct; earnings, elections in focus - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcUw4U2dGOWNjeU5xRDZ5LVNHMFpBcFV3cF9UdDFiWlBrczhqLXZkOElteW8ycHlmU0F6NzZtYUVGYUhJdkJ0X3NOcTZaQWtRN1hqeS00ZmRTdTNSVExPaHdZSllCVjFrTW1PdGUtWkFFR3pmcEFzeFBQSmlxQjZGdmJPeUYtaUt1WXBrcVcwZ0xJdnUzbkhfMHlnS3dmVVRSUG8weF9zZ3o4NzduTmxrQndFeHFKTjBpTzlZNHZKb0NEc25UbTVyZndR?oc=5",
-        "summary": "stock futures edge high after bruising Oct; earnings, elections in focus Investing.com U.S.",
-        "published": "Mon, 02 Nov 2026 00:35:17 GMT",
-        "published_kst": "2026-11-02T09:35:17+09:00",
+        "title": "Week Ahead for FX, Bonds : U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates - marketscreener.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOEY5UzNPd2FTUERMTUgzV2NaSVgzYjAwRGhqakliaTRPOGhxcFFvLXdLSEx0Q2pFY2RZOHU1NjduT056TS0zT3FjVXB2V2Q2ekZRTmFsTEVHQWJ2QVdhcGw1WTg3amhHYkJaNW14blZWaFhfS0JQWTlfS0tJV3JfbDREMTROZ1VHNVFtcnpxcnk3ZHBnSzEwajBVd3BpbkEtWGVDMmtIMWFHcXYtSV9GVWFnNG1DZDB4eFgwZldMZHBNeExsTFYzV0xKQWEzcHZZVVE?oc=5",
+        "summary": "Midterms, Jobs Data in Focus; BOE Expected to Raise Rates marketscreener.com Week Ahead for FX, Bonds : U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates - marketscreener.com",
+        "published": "Mon, 02 Nov 2026 08:15:33 GMT",
+        "published_kst": "2026-11-02T17:15:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trade: Alibaba drops US jobs promise, OECD sees growth 'peaking' - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QZmV5aFFfTzV0cHVNZWtTdHA3c2F5QzduRzFjdEd3a2p6X1FfRFRUbFlKNVVoeVktdndudzFGU19CNzU1RG83SmxHeFN0d29LMHNzNG5QVHlsVm9X?oc=5",
-        "summary": "Trade: Alibaba drops US jobs promise, OECD sees growth 'peaking' Reuters Trade: Alibaba drops US jobs promise, OECD sees growth 'peaking' - Reuters",
-        "published": "Mon, 02 Nov 2026 00:29:15 GMT",
-        "published_kst": "2026-11-02T09:29:15+09:00",
+        "title": "Quick Hits: Tilray Cuts U.S. Brewery Footprint And Jobs / 2026 GABF Winners In Biggest Categories - American Craft Beer",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEFkazQtUXpXUTBSYkRVQmd4MURYQzBXT2hwQ0VUNnp5SjdEa3ZoRXdNNkFxQWdXbVdhbDJzM3U2YXU2Q0NRUVFKVzBCWW9LemNDU0RibUJfRW5YMnNCLVVnUmttVkxGZWlYVUc0cnJ2SjI3VTR3ZC1aZEczd2o0VUFNbldGSXN0THlXOEdiZFM1NF9LZ2wzcjk1UXJOeFU4T2NMYWQ3bkQ2bnlTYk1KWU5mM2RVMFdkNE5jekRwcHZNVVVnOUtn?oc=5",
+        "summary": "Brewery Footprint And Jobs / 2026 GABF Winners In Biggest Categories American Craft Beer Quick Hits: Tilray Cuts U.S. Quick Hits: Tilray Cuts U.S.",
+        "published": "Mon, 02 Nov 2026 08:13:26 GMT",
+        "published_kst": "2026-11-02T17:13:26+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-        "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-        "summary": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets. Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-        "published": "Mon, 02 Nov 2026 00:11:37 GMT",
-        "published_kst": "2026-11-02T09:11:37+09:00",
-        "domain": "cnbc.com",
         "key_figures": [
-          "$3.64",
-          "$6.3",
-          "2.1%"
+          "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-        "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-        "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent. Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-        "published": "Sun, 01 Nov 2026 23:17:57 GMT",
-        "published_kst": "2026-11-02T08:17:57+09:00",
+        "title": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+        "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
+        "summary": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"significantly higher airfares\" of up to 20% next year as fuel costs rise. Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
+        "published": "Mon, 02 Nov 2026 08:02:34 GMT",
+        "published_kst": "2026-11-02T17:02:34+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "20%",
+          "2027",
+          "$2.2"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-        "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-        "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-        "published": "Sun, 01 Nov 2026 21:06:42 GMT",
-        "published_kst": "2026-11-02T06:06:42+09:00",
+        "title": "AI is coming to construction sites. But does it make workers safer?",
+        "url": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
+        "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited. AI is coming to construction sites.",
+        "published": "Mon, 02 Nov 2026 06:55:19 GMT",
+        "published_kst": "2026-11-02T15:55:19+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -79,77 +81,77 @@
     ],
     "kr": [
       {
-        "title": "주가 급락에도…모더나 CEO “암 백신 효과 확신” - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tZHhzc0hrZDdDZUZwWmg3clNFOXI1eWowakMwb01id0FzMTF5MDJFZ0RtdkhtSlBRZ0V4LWVpdklmRVp0bXVoaUtudlFSNDJDUXlVYUdvaUd0QQ?oc=5",
-        "summary": "주가 급락에도…모더나 CEO “암 백신 효과 확신” 한국경제 주가 급락에도…모더나 CEO “암 백신 효과 확신” - 한국경제",
-        "published": "Mon, 02 Nov 2026 00:47:30 GMT",
-        "published_kst": "2026-11-02T09:47:30+09:00",
+        "title": "[부고]김철수(전 한국경제신문 상무)씨 장모상 - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SVXZNaG93NExVTHFPNWw5UTU2aGNlYllOQkt6MWxObW1McDNsUllQQ0EtQWRQNHY0emNVeGZiMnhZS01FS285dUtlTTNfenJlQjNLT3NGRTBDcW9kbmVxcQ?oc=5",
+        "summary": "[부고]김철수(전 한국경제신문 상무)씨 장모상 아시아경제 [부고]김철수(전 한국경제신문 상무)씨 장모상 - 아시아경제",
+        "published": "Mon, 02 Nov 2026 08:29:28 GMT",
+        "published_kst": "2026-11-02T17:29:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[데스크 칼럼] 증권사 NCR규제의 역설 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fWllFMUFib0RtZXRweGRBdjdpM0FsMlhuRWFhYmQ4dDhPMEN5dXFtZ1RhOUhURHBkRlpXX3Q4SFprVDhvd3NTVUMyM2VNbzdZUzVnRWZDakpPUQ?oc=5",
-        "summary": "[데스크 칼럼] 증권사 NCR규제의 역설 한국경제 [데스크 칼럼] 증권사 NCR규제의 역설 - 한국경제",
-        "published": "Mon, 02 Nov 2026 00:30:00 GMT",
-        "published_kst": "2026-11-02T09:30:00+09:00",
+        "title": "포스코·롯데·현산 \"목동 잡아라\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtWGhRYnAtLTRSckZCSXFpVTRKZzY0cnNvQmlFcVRMeVZoMnZNSzR0Y2NNdXVxTTVoSEMtWnNCNEZHMmRmMHFUZ1VIdWZCb2tJc1hLelhkR0xYUQ?oc=5",
+        "summary": "포스코·롯데·현산 \"목동 잡아라\" 한국경제 포스코·롯데·현산 \"목동 잡아라\" - 한국경제",
+        "published": "Mon, 02 Nov 2026 08:23:16 GMT",
+        "published_kst": "2026-11-02T17:23:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "효성화학, 3분기 적자전환에 20% 가까운 '급락' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pUnFFaFJTeWJnak5FRXJpSlJieW1HaXJlNy1XX2hBZGhvdUNWVTNZNW5aSmNJdkExc2w1S0xpY1l1VV9HclhrYUZVM3Jua19xdXpTU21YSXNKUQ?oc=5",
-        "summary": "효성화학, 3분기 적자전환에 20% 가까운 '급락' 한국경제 효성화학, 3분기 적자전환에 20% 가까운 '급락' - 한국경제",
-        "published": "Mon, 02 Nov 2026 00:26:19 GMT",
-        "published_kst": "2026-11-02T09:26:19+09:00",
+        "title": "한국게임산업협회, '국회 입법박람회'서 게임산업 5대 입법과제 제안 - 데일리게임",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11ZDJfRGJNS2lnSERQcHdGM25jQURZQk9nNjk1MHZ3Wmg2d3VaR3ZvX1Q3WFJ5VEMzejd2OW9rQnBfZjh4bmJwaXk3T0ducGdJOTB3aHZBQ01DTmpZXzJPQkdUTThleXlLbXdWaWFST1RleUp3ODBaRFNGdw?oc=5",
+        "summary": "한국게임산업협회, '국회 입법박람회'서 게임산업 5대 입법과제 제안 데일리게임 한국게임산업협회, '국회 입법박람회'서 게임산업 5대 입법과제 제안 - 데일리게임",
+        "published": "Mon, 02 Nov 2026 08:10:54 GMT",
+        "published_kst": "2026-11-02T17:10:54+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "20%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Cuba increasingly isolated from the global economy amid tough new U.S. sanctions - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuTDhRajhoRlF1cGF2cEJyR1k5Z2Z6YmNPZThVaEp0cjMwVmVwT0Q5UWkxV2M0cDZkby1PazNZVXJzVFZJNlZVdUZjRV90YTItd0NKQnpsem1Pa2t2ZkxXQU0zRktBU0VHRHZRSnBualg?oc=5",
-        "summary": "sanctions CBS News Cuba increasingly isolated from the global economy amid tough new U.S. sanctions - CBS News",
-        "published": "Mon, 02 Nov 2026 00:45:00 GMT",
-        "published_kst": "2026-11-02T09:45:00+09:00",
+        "title": "Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update - EIN Presswire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXFQNFF3cC0tRGtaRUZzY0h1TWhXMUVpOTBLUE11LUNWRldDY29xdTBtNkI0aHQ1ZnFKRGF0UktnelpnbDJENnJudDVxQUJ0X2pVam9NUmh5cy1iTWV1X0FoaF9Lb3ZVREVhOFV3LVZVSDdkVjR4b0pNR216TTVfR2x2OTZyM2xNcGNfMUplaFNGY0pDemNUeEgwYllnUmx5UF8wbHo0OUVQRnlabmVrRUZmUmplTEstMlFpakRn?oc=5",
+        "summary": "Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update EIN Presswire Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update - EIN Presswire",
+        "published": "Mon, 02 Nov 2026 07:49:00 GMT",
+        "published_kst": "2026-11-02T16:49:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Army prioritizes industrial modernization, supply-chain resilience and research partnerships - Defence Industry Europe",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDhNZVBRRGpEZzNyOU5xWHl3SmJqRWhUNDlXaldiMnVGQ2dFMHI5NTgyWW1mS29ycUZwcWs0OWZUOHI1NlVhMWNMNllRSUlQQmktRUZpNlRiMEIydjlKUWJ4bS0zTktLV21vR25SWnV3aVQwaFF6VHhOMlZxVlN6YkR3aXRtRHluekstdDUtZEpmZXEtTE9MQ2o0OGg5YkQyUENaSmVSQTQycmgyLVNUUGVKdmlwZW5ULVB5d1FXWk9yZw?oc=5",
-        "summary": "Army prioritizes industrial modernization, supply-chain resilience and research partnerships Defence Industry Europe U.S.",
-        "published": "Sun, 01 Nov 2026 22:29:25 GMT",
-        "published_kst": "2026-11-02T07:29:25+09:00",
+        "title": "Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal - Caixin Global",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUHEzalhmODNJc19BNk85STV3aWdvZTNDcjBjTUxQUmhyOTJuR0VOaFdQajdqR1ZFbkRMallJYlRXTG1kam00OHJleUdIdDBmS0lDdWN2U3MtWDQwX0pOTVJBZ1JqcHdVcmFNMVVsSE5rV1JSTHdsTzVoSlR6NkNXdGZ4N3V3dnFQS2pmZTVuOWNnSkM4Nms5dWVqNkFrWEJIVW1DVnJ3VlZIMEE3VUtoNGh3?oc=5",
+        "summary": "Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal Caixin Global Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal - Caixin Global",
+        "published": "Mon, 02 Nov 2026 07:40:00 GMT",
+        "published_kst": "2026-11-02T16:40:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Koliway Acquires Millhouse Logistics: Expedited Freight - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzJ4UlpDd3JDS1Z6dWRLc09WSldjQzk5TFFhU3RkbnVDZmtNZkxJRG5QTmlHQzhRcmN4dVNQTTJDZW9kUUpXTnc4NlFYUjk5NWhmcXVCR0Nwbzh6NE0xTWVJM1N4R3BEcV85QnpwaTFESHl2MnVsbXp5ODZGcDBRckVMU016cmE5QnVpbFpfZTEwSENZZHdGbDRsdWdiZjRFaFdEc3E4d0VtYUJDRkF6OTFHRHBxM0IwVTJjbWRnLWdWWDFMWG9RbklPN2pQMkFG?oc=5",
-        "summary": "Koliway Acquires Millhouse Logistics: Expedited Freight Supply & Demand Chain Executive Koliway Acquires Millhouse Logistics: Expedited Freight - Supply & Demand Chain Executive",
-        "published": "Sun, 01 Nov 2026 20:41:51 GMT",
-        "published_kst": "2026-11-02T05:41:51+09:00",
+        "title": "Big 5 Global 2026 to spotlight AI, supply chain resilience and sustainable construction - Gulf Business",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdEJzRXN0YS1yWjdOc3k0YjBfRjE5cVdENGhSVkt2TFJJUno2NE5FWS1oWEhJYWhtTjVNOUVmel8xMS1BQVJkQWhnZTMxRUZRMk1rWm5Va0FQYVI1d1V3b0xZVnJfM1JWUTktOEY1MFlyZ3c3UmVRWnJjUllKTTc0dHFwTEhTSFc1V2d6cF9mSmRJc3ZSRjgySk1VZXdFU19tWXp0TUhMTkFLZ3hkTU9rTW1kbTAyTHFrcXY1MXE2SzhOa3dS?oc=5",
+        "summary": "Big 5 Global 2026 to spotlight AI, supply chain resilience and sustainable construction Gulf Business Big 5 Global 2026 to spotlight AI, supply chain resilience and sustainable construction - Gulf Business",
+        "published": "Mon, 02 Nov 2026 06:40:57 GMT",
+        "published_kst": "2026-11-02T15:40:57+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "The Washington Post Warnock says he plans 2028 run for ‘high office.’ He doesn’t say which one. - The Washington Post / 주가 급락에도…모더나 CEO “암 백신 효과 확신” 한국경제 주가 급락에도…모더나 CEO “암 백신 효과 확신” - 한국경제 / sanctions CBS News Cuba increasingly isolated from the global economy amid tough new U.S. sanctions - CBS News",
+  "wrap_summary": "Trump Entertains Idea of Nicki Minaj as White House Press Secretary AM 740 KVOR Trump Entertains Idea of Nicki Minaj as White House Press Secretary - AM 740 KVOR / [부고]김철수(전 한국경제신문 상무)씨 장모상 아시아경제 [부고]김철수(전 한국경제신문 상무)씨 장모상 - 아시아경제 / Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update EIN Presswire Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update - EIN Presswire",
   "invest_summary": ""
 }
