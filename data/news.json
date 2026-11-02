@@ -1,63 +1,15 @@
 {
   "date": "2026-11-02",
-  "generated_at_utc": "2026-11-02T08:31:29Z",
-  "cutoff_kst": "2026-11-02T17:31:00+09:00",
+  "generated_at_utc": "2026-11-02T13:54:51Z",
+  "cutoff_kst": "2026-11-02T22:54:00+09:00",
   "regions": {
     "us": [
-      {
-        "title": "Trump Entertains Idea of Nicki Minaj as White House Press Secretary - AM 740 KVOR",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkxQVnNHQndWenJ2d3dzRXgzeE5YQ05sR1NHaTJKNDRrU1NqNWdYbU42X3hvazBkZDEwLVVpejFvcFZwS0JRelFObzRxVlpIbmFMOWcwNDYtSGx2RG5kZlgySjlUb1pWSGdBWkIteEsyaWhoVjNxN3JCRTNSN1RPNEp3YU5iNWU3UXJscndtRjJ2Vkc1dW9pSFFIY1ZLNno2bmc?oc=5",
-        "summary": "Trump Entertains Idea of Nicki Minaj as White House Press Secretary AM 740 KVOR Trump Entertains Idea of Nicki Minaj as White House Press Secretary - AM 740 KVOR",
-        "published": "Mon, 02 Nov 2026 08:29:38 GMT",
-        "published_kst": "2026-11-02T17:29:38+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
-        "url": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
-        "summary": "Apollo has launched a 10 billion euro European private credit platform backed by major global investors. Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
-        "published": "Mon, 02 Nov 2026 08:22:27 GMT",
-        "published_kst": "2026-11-02T17:22:27+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$11"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Week Ahead for FX, Bonds : U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOEY5UzNPd2FTUERMTUgzV2NaSVgzYjAwRGhqakliaTRPOGhxcFFvLXdLSEx0Q2pFY2RZOHU1NjduT056TS0zT3FjVXB2V2Q2ekZRTmFsTEVHQWJ2QVdhcGw1WTg3amhHYkJaNW14blZWaFhfS0JQWTlfS0tJV3JfbDREMTROZ1VHNVFtcnpxcnk3ZHBnSzEwajBVd3BpbkEtWGVDMmtIMWFHcXYtSV9GVWFnNG1DZDB4eFgwZldMZHBNeExsTFYzV0xKQWEzcHZZVVE?oc=5",
-        "summary": "Midterms, Jobs Data in Focus; BOE Expected to Raise Rates marketscreener.com Week Ahead for FX, Bonds : U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates - marketscreener.com",
-        "published": "Mon, 02 Nov 2026 08:15:33 GMT",
-        "published_kst": "2026-11-02T17:15:33+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Quick Hits: Tilray Cuts U.S. Brewery Footprint And Jobs / 2026 GABF Winners In Biggest Categories - American Craft Beer",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEFkazQtUXpXUTBSYkRVQmd4MURYQzBXT2hwQ0VUNnp5SjdEa3ZoRXdNNkFxQWdXbVdhbDJzM3U2YXU2Q0NRUVFKVzBCWW9LemNDU0RibUJfRW5YMnNCLVVnUmttVkxGZWlYVUc0cnJ2SjI3VTR3ZC1aZEczd2o0VUFNbldGSXN0THlXOEdiZFM1NF9LZ2wzcjk1UXJOeFU4T2NMYWQ3bkQ2bnlTYk1KWU5mM2RVMFdkNE5jekRwcHZNVVVnOUtn?oc=5",
-        "summary": "Brewery Footprint And Jobs / 2026 GABF Winners In Biggest Categories American Craft Beer Quick Hits: Tilray Cuts U.S. Quick Hits: Tilray Cuts U.S.",
-        "published": "Mon, 02 Nov 2026 08:13:26 GMT",
-        "published_kst": "2026-11-02T17:13:26+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
       {
         "title": "Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
         "url": "https://www.cnbc.com/2026/11/02/ryanair-h1-earnings-iran-war-fuel-costs.html",
         "summary": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"significantly higher airfares\" of up to 20% next year as fuel costs rise. Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion",
-        "published": "Mon, 02 Nov 2026 08:02:34 GMT",
-        "published_kst": "2026-11-02T17:02:34+09:00",
+        "published": "Mon, 02 Nov 2026 13:42:14 GMT",
+        "published_kst": "2026-11-02T22:42:14+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "20%",
@@ -68,11 +20,57 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AI is coming to construction sites. But does it make workers safer?",
-        "url": "https://www.cnbc.com/2026/10/31/ai-construction-worker-safety.html",
-        "summary": "AI is flagging hazards on construction sites, but researchers say evidence that the technology prevents injuries remains limited. AI is coming to construction sites.",
-        "published": "Mon, 02 Nov 2026 06:55:19 GMT",
-        "published_kst": "2026-11-02T15:55:19+09:00",
+        "title": "The Latest: Democrats and Republicans make a final push one day before midterm elections - WJTV",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWxlWGxtUkpfZHpTaE5hcDdPUEFMNUhheGVZVW5xWWdYMEZUaEQ2UWtQbTB2ZlNIbWVxa3JNWktKSXFrTk5ySjVJWERwb2RkdFFyM3puZmo4NVdMakFTN29DRzRPcTlvMmhKTXpiY3hwMFEwekVjbHdNQTJ3WHFJTUZRNFhpLVlKc1RfekZjYWpJV3VaRWRHOS1STE5vNnVwVmpLUktOQTAxN19mZkhHeF9ZZjRTX1VH0gG-AUFVX3lxTE5OQ3N5S2UyU3BXZUU3SGoyVkNkSnV0b2RMQXB5MVZseTNCclJKLVNaRklvSmRLd3ExVmtVeDlWMVp6am1zLTkybzZ1LTZfWWRsRUhHN2QweklVaGJhLW9nSlViTWdSMWV2VkFTSHNBeDF3TkgyNlVKZDk0UFBxdGF1ZTV1YmpqWnBKWHRNYlNGYWdqbnJiLUt5NjBKMVdrVlEzczMyUXdBUkE0d0JRNTBQdnZ1dkFFeDkyODEyYVE?oc=5",
+        "summary": "The Latest: Democrats and Republicans make a final push one day before midterm elections WJTV The Latest: Democrats and Republicans make a final push one day before midterm elections - WJTV",
+        "published": "Mon, 02 Nov 2026 13:41:43 GMT",
+        "published_kst": "2026-11-02T22:41:43+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+        "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+        "summary": "and Iran are pursuing diplomacy amid ongoing Mideast tensions U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+        "published": "Mon, 02 Nov 2026 13:41:05 GMT",
+        "published_kst": "2026-11-02T22:41:05+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$100"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House’s Hassett Dismisses Concern Over Financing of AI - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1d4V2ZlTkllU25xS0tGajBKUEM5TWpOZU1GTHdYakZtb1VTOTBXbkpiYzBWNTFjZlNoXzF1LXB4bmRIZklydW9VM0psaVJabHdWeDVtRjEyUWZYV003dVB4eGdLN01KYWxoWl9QTVR2dXZlQTh5NjRvc1U0S3F5VzJEc294TmJRUmgtYkVmSmtPMHg4VUNaUXVqNExGaVhNaUg5ZXFtR282T05uQlVEVw?oc=5",
+        "summary": "White House’s Hassett Dismisses Concern Over Financing of AI Bloomberg White House’s Hassett Dismisses Concern Over Financing of AI - Bloomberg",
+        "published": "Mon, 02 Nov 2026 13:39:42 GMT",
+        "published_kst": "2026-11-02T22:39:42+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump is Giving Closing Midterm Pitch at Problem-Plagued Lincoln Memorial Reflecting Pool - The Well News",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPamgwVTMyc3U5cFc4TjVRUXdobXh0U1BrOUFJdWpXaldUMDh2bzNvcWJlcU5jS01UbEFYM3V2R3ptWHZLRi1CZXFIdUdaQ29FVnVsSDBQQkRhcUNuQ2JQN010aXNfNUd2czM2VkNzbmNObUFBM1B5bkRsZDh2Y2RqLTRBcVFhUXFBQ245UUlZaVEzei1sLUNWTmFqbWcxQmxfaDd4dlhWVUpDZ09QbGVkMTd5NzBIeENsUUxudElQV0R6WGhMQ2s5TlVn?oc=5",
+        "summary": "Trump is Giving Closing Midterm Pitch at Problem-Plagued Lincoln Memorial Reflecting Pool The Well News Trump is Giving Closing Midterm Pitch at Problem-Plagued Lincoln Memorial Reflecting Pool - The Well News",
+        "published": "Mon, 02 Nov 2026 13:35:37 GMT",
+        "published_kst": "2026-11-02T22:35:37+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The market view of the oil, AI and bond trades went through a major change in October",
+        "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+        "summary": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation. The market view of the oil, AI and bond trades went through a major change in October",
+        "published": "Mon, 02 Nov 2026 13:26:05 GMT",
+        "published_kst": "2026-11-02T22:26:05+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -81,33 +79,33 @@
     ],
     "kr": [
       {
-        "title": "[부고]김철수(전 한국경제신문 상무)씨 장모상 - 아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SVXZNaG93NExVTHFPNWw5UTU2aGNlYllOQkt6MWxObW1McDNsUllQQ0EtQWRQNHY0emNVeGZiMnhZS01FS285dUtlTTNfenJlQjNLT3NGRTBDcW9kbmVxcQ?oc=5",
-        "summary": "[부고]김철수(전 한국경제신문 상무)씨 장모상 아시아경제 [부고]김철수(전 한국경제신문 상무)씨 장모상 - 아시아경제",
-        "published": "Mon, 02 Nov 2026 08:29:28 GMT",
-        "published_kst": "2026-11-02T17:29:28+09:00",
+        "title": "\"반도체 끝났나\" 했는데…'삼전닉스' 급반등하자 나온 전망 [종목+] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRUZsbzlOajZRYy1UOXpoRHR0RUlrb3M0Nld3ZlZETWcxV18wSFdGZ2FHNmFUZmtlTUVwRzQ1Z2EyZnVLNlNnSURFeHdQWmthN0xqQm1UV2FWQQ?oc=5",
+        "summary": "\"반도체 끝났나\" 했는데…'삼전닉스' 급반등하자 나온 전망 [종목+] 한국경제 \"반도체 끝났나\" 했는데…'삼전닉스' 급반등하자 나온 전망 [종목+] - 한국경제",
+        "published": "Mon, 02 Nov 2026 13:00:02 GMT",
+        "published_kst": "2026-11-02T22:00:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "포스코·롯데·현산 \"목동 잡아라\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtWGhRYnAtLTRSckZCSXFpVTRKZzY0cnNvQmlFcVRMeVZoMnZNSzR0Y2NNdXVxTTVoSEMtWnNCNEZHMmRmMHFUZ1VIdWZCb2tJc1hLelhkR0xYUQ?oc=5",
-        "summary": "포스코·롯데·현산 \"목동 잡아라\" 한국경제 포스코·롯데·현산 \"목동 잡아라\" - 한국경제",
-        "published": "Mon, 02 Nov 2026 08:23:16 GMT",
-        "published_kst": "2026-11-02T17:23:16+09:00",
+        "title": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1reVRuREpsYzFkdGNtVUZCakFjM0NrWWtjbXhFb1R0ZXBnVlRYb01PTVhEWGk0cGlId1NhTHBrWGY1ZTRJcEQ4YnIxekNNNkZrZGZ4MmE5QmgwUQ?oc=5",
+        "summary": "엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고 한국경제 엔비디아 시총 제친 애플…월가는 \"주가 고평가\" 경고 - 한국경제",
+        "published": "Mon, 02 Nov 2026 12:11:06 GMT",
+        "published_kst": "2026-11-02T21:11:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국게임산업협회, '국회 입법박람회'서 게임산업 5대 입법과제 제안 - 데일리게임",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11ZDJfRGJNS2lnSERQcHdGM25jQURZQk9nNjk1MHZ3Wmg2d3VaR3ZvX1Q3WFJ5VEMzejd2OW9rQnBfZjh4bmJwaXk3T0ducGdJOTB3aHZBQ01DTmpZXzJPQkdUTThleXlLbXdWaWFST1RleUp3ODBaRFNGdw?oc=5",
-        "summary": "한국게임산업협회, '국회 입법박람회'서 게임산업 5대 입법과제 제안 데일리게임 한국게임산업협회, '국회 입법박람회'서 게임산업 5대 입법과제 제안 - 데일리게임",
-        "published": "Mon, 02 Nov 2026 08:10:54 GMT",
-        "published_kst": "2026-11-02T17:10:54+09:00",
+        "title": "판도라 (판을 읽는 도파민 라이브) - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVRQYzRuYXNUbXVLdEJ0LVZBMm5CeHBsWVBXRGZmcl9hZGh0WERtaklMbWdaWmY1UFhqby1WSFBOVkhFaVVRV1VUNkpnVkRhRnlKbk0temdrUjZOVnBhWkNBejNHUXMyR1cwcVlBT2s1aEFadms2SFdiTGhua0ZyRXlER2VLNkFFdU9IUmVZN3JLYjJJRVBIZEJMaVlNMmx6amw4?oc=5",
+        "summary": "판도라 (판을 읽는 도파민 라이브) 한국경제TV 판도라 (판을 읽는 도파민 라이브) - 한국경제TV",
+        "published": "Mon, 02 Nov 2026 10:57:42 GMT",
+        "published_kst": "2026-11-02T19:57:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -116,42 +114,40 @@
     ],
     "world": [
       {
-        "title": "Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update - EIN Presswire",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXFQNFF3cC0tRGtaRUZzY0h1TWhXMUVpOTBLUE11LUNWRldDY29xdTBtNkI0aHQ1ZnFKRGF0UktnelpnbDJENnJudDVxQUJ0X2pVam9NUmh5cy1iTWV1X0FoaF9Lb3ZVREVhOFV3LVZVSDdkVjR4b0pNR216TTVfR2x2OTZyM2xNcGNfMUplaFNGY0pDemNUeEgwYllnUmx5UF8wbHo0OUVQRnlabmVrRUZmUmplTEstMlFpakRn?oc=5",
-        "summary": "Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update EIN Presswire Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update - EIN Presswire",
-        "published": "Mon, 02 Nov 2026 07:49:00 GMT",
-        "published_kst": "2026-11-02T16:49:00+09:00",
+        "title": "Customs AI That Ignores the Operator is Built to Fail - Global Trade Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDJPdTZMOGx2YVROUDBSTzFKclZuc2w1aUp3TmpDdW9jUnBQbzlMYzJxdUZXY195aW9Cd3JrTzdPakd3M1lJSmtOc2t5UmFHQmYyNEVZSDg4a3FFSVlpYVdfSVNKWDJnQ1Ezb0FvN2xTa29lQjRsOE5YSXhpYlJCTUh0ZTI4dHl6T3pPSnBn?oc=5",
+        "summary": "Customs AI That Ignores the Operator is Built to Fail Global Trade Magazine Customs AI That Ignores the Operator is Built to Fail - Global Trade Magazine",
+        "published": "Mon, 02 Nov 2026 13:38:56 GMT",
+        "published_kst": "2026-11-02T22:38:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal - Caixin Global",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUHEzalhmODNJc19BNk85STV3aWdvZTNDcjBjTUxQUmhyOTJuR0VOaFdQajdqR1ZFbkRMallJYlRXTG1kam00OHJleUdIdDBmS0lDdWN2U3MtWDQwX0pOTVJBZ1JqcHdVcmFNMVVsSE5rV1JSTHdsTzVoSlR6NkNXdGZ4N3V3dnFQS2pmZTVuOWNnSkM4Nms5dWVqNkFrWEJIVW1DVnJ3VlZIMEE3VUtoNGh3?oc=5",
-        "summary": "Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal Caixin Global Xiaomi Diversifies Battery Supply Chain With Sunwoda Deal - Caixin Global",
-        "published": "Mon, 02 Nov 2026 07:40:00 GMT",
-        "published_kst": "2026-11-02T16:40:00+09:00",
+        "title": "RANE Partners with ISM to Help Global Supply Chain Professionals Get Ahead of Disruption - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOazQ4b1RQYzJFOVJ3Wld1amxESDk4eWdlcU1jZEhrc25qZzduUFZ1Qkxpc1JSWW4yY1lvd1FCdmJfWnpTM0hUYVQtRWZuZ09BWUoxbzRlSmJqTUtpMmE3bnNES1BlUUxVdlJtYVBNSHJfSDBzYTFjVi1lOTFSWGhYaXZYZlRPMjB5SFhyeHpZZ09USnR5RHdrcTdQdjVTOHhjLWZoRHpFX1BDQXBnaF9kR0ZJcmRlaFN0cVRONWdlTXpVNkM4SkRfYU4wSURKejJtdHBRQzUwVWNYNXk0bV9LSkh0eU5ZQlFDdnlaMUludmlrSDhY0gH6AUFVX3lxTE1uWVZHU3hsUEJRd2prTFdFMTZKd2F0VmVEVmcyeEJjUDlWVzd3bTBGaUZPWFRqSHlFZnVKZ2FnOWRZaTRUay0xRklXOFdXQk14aTRFb3lhbnNzQ0pMNG1kMVd4YkkyYjZoWFFyR2g1NDMyVDZ2Q0xOZG81a3J1ek9tTFNMNkZ6c2pxblRNWFpXVjhhOU5pRWtHZFJLbEN2OVFVc2VmZTIyTm1lU0ZxbFF4bmx3elE0V3UwNks5SFhEOElqVjA2ZFpqRVFtRjRqUW1GSlNnUXBXOGNlQWtadE8yalh0TzJqZ3c5NjJCRGJZQzVxRng4OURVUEE?oc=5",
+        "summary": "RANE Partners with ISM to Help Global Supply Chain Professionals Get Ahead of Disruption The Manila Times RANE Partners with ISM to Help Global Supply Chain Professionals Get Ahead of Disruption - The Manila Times",
+        "published": "Mon, 02 Nov 2026 13:11:17 GMT",
+        "published_kst": "2026-11-02T22:11:17+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Big 5 Global 2026 to spotlight AI, supply chain resilience and sustainable construction - Gulf Business",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdEJzRXN0YS1yWjdOc3k0YjBfRjE5cVdENGhSVkt2TFJJUno2NE5FWS1oWEhJYWhtTjVNOUVmel8xMS1BQVJkQWhnZTMxRUZRMk1rWm5Va0FQYVI1d1V3b0xZVnJfM1JWUTktOEY1MFlyZ3c3UmVRWnJjUllKTTc0dHFwTEhTSFc1V2d6cF9mSmRJc3ZSRjgySk1VZXdFU19tWXp0TUhMTkFLZ3hkTU9rTW1kbTAyTHFrcXY1MXE2SzhOa3dS?oc=5",
-        "summary": "Big 5 Global 2026 to spotlight AI, supply chain resilience and sustainable construction Gulf Business Big 5 Global 2026 to spotlight AI, supply chain resilience and sustainable construction - Gulf Business",
-        "published": "Mon, 02 Nov 2026 06:40:57 GMT",
-        "published_kst": "2026-11-02T15:40:57+09:00",
+        "title": "Walmart Hails Sustainable Supply Chain Progression - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1poQWVGREpWRVk0N1Rob3JoY3FsVnJlOWY4ZHhac2xyVUlHT3ZiMWYwbVA4azNNbFY4ci04cDJTdmtkLXdkRm5SYTBJTG1VSEt1U2NMS0FuS2J2VTVQOWx1UDFjWTBEUzdSQ0UzMXEzczNvZHRCZHExeVlkUjZZbk9tXzMtUFZNV01wWVF3TQ?oc=5",
+        "summary": "Walmart Hails Sustainable Supply Chain Progression Supply Chain Digital Magazine Walmart Hails Sustainable Supply Chain Progression - Supply Chain Digital Magazine",
+        "published": "Mon, 02 Nov 2026 12:44:02 GMT",
+        "published_kst": "2026-11-02T21:44:02+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Trump Entertains Idea of Nicki Minaj as White House Press Secretary AM 740 KVOR Trump Entertains Idea of Nicki Minaj as White House Press Secretary - AM 740 KVOR / [부고]김철수(전 한국경제신문 상무)씨 장모상 아시아경제 [부고]김철수(전 한국경제신문 상무)씨 장모상 - 아시아경제 / Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update EIN Presswire Alliance Releases Vietnam Biotech Supply Chain Report Following DHS Update - EIN Presswire",
+  "wrap_summary": "Ryanair's CEO Michael O'Leary told CNBC that European airlines may have \"significantly higher airfares\" of up to 20% next year as fuel costs rise. Ryanair CEO warns fares could rise by up to 20% in 2027 as fuel bill jumps by $2.2 billion / \"반도체 끝났나\" 했는데…'삼전닉스' 급반등하자 나온 전망 [종목+] 한국경제 \"반도체 끝났나\" 했는데…'삼전닉스' 급반등하자 나온 전망 [종목+] - 한국경제 / Customs AI That Ignores the Operator is Built to Fail Global Trade Magazine Customs AI That Ignores the Operator is Built to Fail - Global Trade Magazine",
   "invest_summary": ""
 }
