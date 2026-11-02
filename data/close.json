@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-11-02",
   "values": {
     "SPX": 7580.07,
     "IXIC": 25437.0,
     "DJI": 51770.31,
-    "KOSPI": 5730.74
+    "KOSPI": 5901.38
   },
   "source": "yfinance (Yahoo)"
 }
