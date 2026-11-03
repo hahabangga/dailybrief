@@ -1,72 +1,74 @@
 {
-  "date": "2026-11-03",
-  "generated_at_utc": "2026-11-03T13:03:06Z",
-  "cutoff_kst": "2026-11-03T22:03:00+09:00",
+  "date": "2026-11-04",
+  "generated_at_utc": "2026-11-03T17:40:13Z",
+  "cutoff_kst": "2026-11-04T02:40:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
+        "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+        "url": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+        "summary": "Tuesday's midterm elections follow record spending on AI-generated political ads. AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+        "published": "Tue, 03 Nov 2026 17:37:31 GMT",
+        "published_kst": "2026-11-04T02:37:31+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
         "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-        "summary": "The iPhone-maker and software giant fell after earnings failed to impress investors. Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings",
-        "published": "Tue, 03 Nov 2026 12:50:27 GMT",
-        "published_kst": "2026-11-03T21:50:27+09:00",
+        "summary": "The software giant's stock fell after earnings failed to impress investors. Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
+        "published": "Tue, 03 Nov 2026 17:24:34 GMT",
+        "published_kst": "2026-11-04T02:24:34+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "6%"
+          "2%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
-        "url": "https://www.cnbc.com/2026/11/03/supermarket-fridges-hack-cyberattack-europe.html",
-        "summary": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food. Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
-        "published": "Tue, 03 Nov 2026 12:46:58 GMT",
-        "published_kst": "2026-11-03T21:46:58+09:00",
+        "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
+        "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+        "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare. Midterm elections could jolt stocks if Democrats sweep Congress",
+        "published": "Tue, 03 Nov 2026 17:15:20 GMT",
+        "published_kst": "2026-11-04T02:15:20+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-        "url": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-        "summary": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic. Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-        "published": "Tue, 03 Nov 2026 12:44:15 GMT",
-        "published_kst": "2026-11-03T21:44:15+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Americans head to polls in midterm elections seen as referendum on Trump - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0hIb19GNGlTQ1U4aERJR09mSjlBMVBaNTdFQnNxYWxXdjJJandvdWhoeUQ0NldfN1oyc05wRzRlRDlwdllONGRia3FVUDk2a29ia2JCVWI1dHg3VFZXYTBnYUo5a0tiT0ZGaXN2OGV3SC0wQVBwUDN3NTBMbHJ1U2RWc1ZTUDg?oc=5",
-        "summary": "Americans head to polls in midterm elections seen as referendum on Trump The Guardian Americans head to polls in midterm elections seen as referendum on Trump - The Guardian",
-        "published": "Tue, 03 Nov 2026 12:28:00 GMT",
-        "published_kst": "2026-11-03T21:28:00+09:00",
+        "title": "Pound Sterling Price News and Forecast: GBP/USD flatlines as US jobs strength, election risks loom - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRlVWcFNTc3pfZ0JaX0pOZ3piN2R2Y1MzQU9jRDBFMTZEUVJaQk9GWU9PSXktdW9MelliLTNjeFY1VXQydm12WGE1d0JKMFhLQlBpTnBxV1FPWDltRlU3UzdJX0dXZEtJZi1rNF9rZ0ducG9USlRoYmVuRHN5bEhOZlBNUl9LWjE0N09KMVo3UUNzMFJ2bkk5c0Q5R3hsVk1RM0E2Q2Mzc0hwci0tR21fSjdNbUJoQUVlcUVTTFdKUWJyM1k5dVZ4bjhxYWUzWFhXVlBMb1ln?oc=5",
+        "summary": "Pound Sterling Price News and Forecast: GBP/USD flatlines as US jobs strength, election risks loom FXStreet Pound Sterling Price News and Forecast: GBP/USD flatlines as US jobs strength, election risks loom - FXStreet",
+        "published": "Tue, 03 Nov 2026 16:59:41 GMT",
+        "published_kst": "2026-11-04T01:59:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How Trump Is Spending Election Day and Night - Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdThYdWkxS0Y2N3BVM3RHR3pTNUZ2RG1qVEQwTHQ2WWkwT1dBZS1QbTFBUXRtMGlKWXdBM0VuUlRKUTlwdlN5cEY3VXlQdUFJOXdFbktYNjNleUtYVTN5WlF4NFQ2UjZva1l3Wm9jNVlPTUxWbFZIVlhhR2NpT1ZTV3JlT1Zac1hJRUgtQjQ3WElEWjA?oc=5",
-        "summary": "How Trump Is Spending Election Day and Night Time Magazine How Trump Is Spending Election Day and Night - Time Magazine",
-        "published": "Tue, 03 Nov 2026 12:00:00 GMT",
-        "published_kst": "2026-11-03T21:00:00+09:00",
+        "title": "U.S. jobs market perks up, but it’s still not a great time to get hired - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUtTZ2JNb2VGRGdUTXhObTk5Y0J6UHJXeTFobEVBMDJuWVltWWhHOUFnV2VQUWVXZTliTUdCVS1uMDY3STRvWUc1QmpxLVBXOHZyVHg3NDJuOGJUN3NMTXFqVk9zSC1DbFRFMGhEMjhfV3dpR1lmc3JndzByZ0p6bzF4czZmTG16MjFQVTdNTGpHZlFIZ3lmbkRVSnJnSXE4cl9nVHVxZ0FhQmpmVFgxZQ?oc=5",
+        "summary": "jobs market perks up, but it’s still not a great time to get hired MarketWatch U.S.",
+        "published": "Tue, 03 Nov 2026 16:56:00 GMT",
+        "published_kst": "2026-11-04T01:56:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Midterm elections could jolt stocks if Democrats sweep Congress - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ua0pHS0JmY1BBaERCRF9iQXFoRnYyYm1ZamRxdHRJbkU4WEI0TkRobUVkMWxpQWIzRFMzaklSY2VOeVlzSmdocEhVaTduQmx0SGo4RTdqU2k1bW5mSlFDazlNT3pXZlVhYzlOYjFaaXVwWkdB0gF6QVVfeXFMTlhUMHhuNVFSZ3Z0OWdhUUxiUk5RSE12R1hzTmcwT0s0d0hVX3RqZnZleHg3cGMtaW5fTklxYWN3V0NPdFZFWEdXcU1HNVFvWXZhLWRiYkZPZ21CWTFibWMyVzlQUFZGOFZzdUJkalZiYlltTjlSejl6TWc?oc=5",
-        "summary": "Midterm elections could jolt stocks if Democrats sweep Congress CNBC Midterm elections could jolt stocks if Democrats sweep Congress - CNBC",
-        "published": "Tue, 03 Nov 2026 11:37:27 GMT",
-        "published_kst": "2026-11-03T20:37:27+09:00",
+        "title": "Author says Jacqueline Kennedy used White House to showcase top American art - KOMO",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjk4YVZ6ejVod3RSREpSekVlV1Fzc0tIekVUU1cwcHM2SnY4SUxHS3RuMFJWNGpUOVhhaGRMWFdrRUFuMUtYVDhwOW1MdW5aRzFJRGVVQm5jbEFReVJPaWl6am9CdTEtWWp2Z2pUdWtPaWtQYlNwUF9TQjJndDVqTGsyYW9PZlM5YjVDOXVKMldPSXRIUF83SlFmczhHZHBTQ040NURNaVBjclp5dWg3dnc0WVo?oc=5",
+        "summary": "Author says Jacqueline Kennedy used White House to showcase top American art KOMO Author says Jacqueline Kennedy used White House to showcase top American art - KOMO",
+        "published": "Tue, 03 Nov 2026 16:47:57 GMT",
+        "published_kst": "2026-11-04T01:47:57+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,35 +77,33 @@
     ],
     "kr": [
       {
-        "title": "호주 기준금리 4.85%로 인상…18년 만에 최고치 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Vem03Y2RsZEx1WGRPOEVfVTE4MVFacGUwRjFrYm1Ud09hQVBHWDVWbHFFckpacUpfZ0l2MkEtd3c0cmNyUnVrb3NtY2NxTElUUEFaQlJ2SnlvQQ?oc=5",
-        "summary": "호주 기준금리 4.85%로 인상…18년 만에 최고치 한국경제 호주 기준금리 4.85%로 인상…18년 만에 최고치 - 한국경제",
-        "published": "Tue, 03 Nov 2026 12:48:35 GMT",
-        "published_kst": "2026-11-03T21:48:35+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "4.85%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "한국 국회는 한중 관계 증진에 기여한 베트남 통신사(VNA)와 연합뉴스의 역할에 깊이 감사드립니다. - Vietnam.vn",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMTZLc1NvRVVpb01ncnZMaGtBQjA0Mi1MSGkzODdSalVZZ3NQVWUyTVFFTXdCeXl4U1F2NmVXSnNnU0FMcDhoT19iRU9nc1JnbW0zc01VcndlZTRkNnc0Qjd4UnlRLWdJdlViMjJZQWJhYi1QeDBRUHpaUjZ6cmd0TFdxeXYxQURFQ0oyVTc5dUpXWkctb1NHYXAyZ3o1ODJiT0F2WXhqbFFySVBoLVRqY1BoZ0V2bEU?oc=5",
-        "summary": "Vietnam.vn 한국 국회는 한중 관계 증진에 기여한 베트남 통신사(VNA)와 연합뉴스의 역할에 깊이 감사드립니다.",
-        "published": "Tue, 03 Nov 2026 11:59:29 GMT",
-        "published_kst": "2026-11-03T20:59:29+09:00",
+        "title": "'그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OQnh6Z2tpSWg0cTBFVGZ0RWh3cEJTQ2NobkNfeVM2VkFleVdKR0NNMXBHaE51dW50NUtPYjNWUlVOWEhuSXNSRFJiUzFIeVhleHFyS20tNWZzQQ?oc=5",
+        "summary": "'그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' 한국경제 '그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' - 한국경제",
+        "published": "Tue, 03 Nov 2026 16:15:00 GMT",
+        "published_kst": "2026-11-04T01:15:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "디즈니도 수천명 해고…넷플릭스 이어 할리우드 감원 한파 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ENnppeGhvM3FMY0kwZXRBX2x2V09nVEdZaUZyOU9VZGZDX1NOcDI5b25feDFxbzNVWGNJUnB3amt5cEZNZGhLNGxHUHBJSGZsMGZqa2VLeTh6dw?oc=5",
-        "summary": "디즈니도 수천명 해고…넷플릭스 이어 할리우드 감원 한파 한국경제 디즈니도 수천명 해고…넷플릭스 이어 할리우드 감원 한파 - 한국경제",
-        "published": "Tue, 03 Nov 2026 11:34:38 GMT",
-        "published_kst": "2026-11-03T20:34:38+09:00",
+        "title": "없애면 없앨수록 또렷해지는 나무 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BRDNTWG93bl80cnRYMnZsVDdrQURzZnR3c2dYTGQ3X1FmUWRPUHNNXzZ1VzBCVGw5VlZPeFFHNXVNbkJxZW1OcWNERXBoUnBxUC1RMU9zLU9XUQ?oc=5",
+        "summary": "없애면 없앨수록 또렷해지는 나무 한국경제 없애면 없앨수록 또렷해지는 나무 - 한국경제",
+        "published": "Tue, 03 Nov 2026 16:13:00 GMT",
+        "published_kst": "2026-11-04T01:13:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[천자칼럼] 냉장고의 소중함 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idVNGYmhzZFpJSHA1MldxS1VUWnlWOEJucWpPOTU4dEQxRVBxUEpiM0ZLTXdOY093NW9MQmFVcU9YUTNwUkpqT1pIdWU4VzhSa1JkbnMxbVNPZw?oc=5",
+        "summary": "[천자칼럼] 냉장고의 소중함 한국경제 [천자칼럼] 냉장고의 소중함 - 한국경제",
+        "published": "Tue, 03 Nov 2026 16:12:00 GMT",
+        "published_kst": "2026-11-04T01:12:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,35 +112,33 @@
     ],
     "world": [
       {
-        "title": "AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 - American Journal of Transportation",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTZHaENpT1RhejQtbVRyQTlqR1ZocVRoX19tOEItaHVPa0d0b1pITmpZVnhYcHhxbzlxckxpYkx5SkNBYTdHRVFIM0c5U294ZkNUVHVzTllpT2RLNzdzNnc4LUlJV0JpckZwMHIzLTF5MUljSzZ2Y0J0bXdqZjJCTDJPdFNXSUdPSHdRUEs1S2M0WHNvWFhiV0JoVHZMbWZzSFlj?oc=5",
-        "summary": "AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 American Journal of Transportation AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 - American Journal of Transportation",
-        "published": "Tue, 03 Nov 2026 12:55:00 GMT",
-        "published_kst": "2026-11-03T21:55:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Taiwan eyes to emerge as Asia's drone supply-chain hub - Janes Defence Intelligence",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDNrb3F3VnJZUVZjNUJnTVhFb2N4NnVZUGZsXzRzUlF3Wk4tcGthbGdycTJtRmNjWFdqa0llLThhcWp1TUZMZDdFZjg5LVp0Y1M1Tkw2UnY5OGg4a3dPbWtfeGJvSkJkbXRnSE00cWJaNmY5SFlBckJ3TVN0cmxNcElkanR6U2Zyc083WV9reHdoNlhtQ0dVM0JDT2ZwMHFhYkFjRi1WZHkwWWhLMkt4OVpxVXNKVW1BWFBmMWJkQQ?oc=5",
-        "summary": "Taiwan eyes to emerge as Asia's drone supply-chain hub Janes Defence Intelligence Taiwan eyes to emerge as Asia's drone supply-chain hub - Janes Defence Intelligence",
-        "published": "Tue, 03 Nov 2026 11:56:01 GMT",
-        "published_kst": "2026-11-03T20:56:01+09:00",
+        "title": "Chargebacks911 Introduces AI Agent Purchase Protection for Merchants - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnM5RzhfRzdEVFBPVnZRYUN3dmxJd05meDBZUUZiWnpnLWdHdFVnRmdEZE9wTTJSZzB2bVoxQWlDLWdULUlLQ1hEajl2cmNFUEZsc2c1bEtiX0hiWEdoR0xPTldISFJHQ2N5R0psTjVDTkV5SHpXRm83VE90RzE0SVhHTWR5dElFSHJqODlwZE5iLUVTbWxMWURhUGNJQV84SEh5T0lqQXh0MEZsLTREQU5kSlkzV0tjRkxsd0xFUUJHR1lJ?oc=5",
+        "summary": "Chargebacks911 Introduces AI Agent Purchase Protection for Merchants Supply & Demand Chain Executive Chargebacks911 Introduces AI Agent Purchase Protection for Merchants - Supply & Demand Chain Executive",
+        "published": "Tue, 03 Nov 2026 16:43:38 GMT",
+        "published_kst": "2026-11-04T01:43:38+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The importance of supply chain resilience to national security and export controls - The Chartered Institute of Export & International Trade",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc1BaMzFteUJoTXRmejd6TG5qVXp5VFNVQ1VxdnB4Qko5cWs0Y2xfSHYzTlhvUDdVaGJzSTVKWDNWOVN0a3JZdk1yV05VY3R1bGZwLUh0UU5jc0h2RTNRN0NQWnNvSUwtc2YtMU1aWFNjR2VoaVl2aGlsdmxBTEp5ODFJUTJGdzRrX0Vkak5hZlFEZEl3WUJZalotOWpON0ViLWN4YUtFRmtnOGY1dWVIcUdSM051Qkt3NGlrS0lvV3Ztd3pu?oc=5",
-        "summary": "The importance of supply chain resilience to national security and export controls The Chartered Institute of Export & International Trade The importance of supply chain resilience to national security and export controls - The Chartered Institute of Export & International Trade",
-        "published": "Tue, 03 Nov 2026 11:25:23 GMT",
-        "published_kst": "2026-11-03T20:25:23+09:00",
+        "title": "Speed — A New Supply Chain Capability - ismworld",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOXFFTW9Ob1dOMTlIaC1EOXllNDdlNXpZQmVuVDJPWVBWbHR4eS03RXdMNS1rcTU1aVNEeUVpejg5LTNHdm9mTll1aDBlV3QzdjF6ZktpbVBPNjZHc3lxejRVSXVMeVhuYWQwblQzVjNIU1RCXzJJb0x0SEphbUIyODdFY2RWcGhjSmNvaTF6UG55ZTl4QjQybnpwZGlXUzhzeVN0ZUUzeDVrM2I3WnUxVVJOTW9qWllXdHIyRzNHQ2tndWw5a3JOdm5tT09JQ2pzMG5rU2liNVRJSzAxVWhFTG5YaE5PVzg1Mk9aZ0l4bUZjS2J6YXZqZUVFcw?oc=5",
+        "summary": "Speed — A New Supply Chain Capability ismworld Speed — A New Supply Chain Capability - ismworld",
+        "published": "Tue, 03 Nov 2026 16:16:56 GMT",
+        "published_kst": "2026-11-04T01:16:56+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "How Strategic Storage Planning Can Strengthen Supply Chain Resilience - Global Trade Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWm9JckUxZXMteVdNVm0xdWxpQmp0cTQwXzB4UjJOS2ItN0M4U3FMcGxGRVIxX1JIc3JZLTRWR1l5ek80WTBZV09HSERwOWFVOFJFcnVTM1phZ0g4RHlLTTVxYU5LX05vVGlvS0RxVGgyN0pyNVdJUGo0MHZMOWFwbmpnVE9kVWQxY0ZVLTVQd0FiSXREaW0zQ3BlajJRTHdRYmdF?oc=5",
+        "summary": "How Strategic Storage Planning Can Strengthen Supply Chain Resilience Global Trade Magazine How Strategic Storage Planning Can Strengthen Supply Chain Resilience - Global Trade Magazine",
+        "published": "Tue, 03 Nov 2026 15:44:04 GMT",
+        "published_kst": "2026-11-04T00:44:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "The iPhone-maker and software giant fell after earnings failed to impress investors. Apple shares slide after weak margin outlook; Palantir slumps 6% after earnings / 호주 기준금리 4.85%로 인상…18년 만에 최고치 한국경제 호주 기준금리 4.85%로 인상…18년 만에 최고치 - 한국경제 / AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 American Journal of Transportation AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 - American Journal of Transportation",
+  "wrap_summary": "Tuesday's midterm elections follow record spending on AI-generated political ads. AI-generated 'slopaganda' in political ads puts internet platforms on alert / '그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' 한국경제 '그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' - 한국경제 / Chargebacks911 Introduces AI Agent Purchase Protection for Merchants Supply & Demand Chain Executive Chargebacks911 Introduces AI Agent Purchase Protection for Merchants - Supply & Demand Chain Executive",
   "invest_summary": ""
 }
