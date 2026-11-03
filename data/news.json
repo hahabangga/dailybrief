@@ -1,75 +1,71 @@
 {
   "date": "2026-11-03",
-  "generated_at_utc": "2026-11-02T22:10:38Z",
-  "cutoff_kst": "2026-11-03T07:10:00+09:00",
+  "generated_at_utc": "2026-11-03T03:05:41Z",
+  "cutoff_kst": "2026-11-03T12:05:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "What Millions of Data Points Reveal About US Inflation - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SRkFGWDRuQ2hKTGFVUTdUYVpLOXRUUmYwWEJqZjRsd2lIMFBzUFRzR2N4SHNXd2lmTTVlcVFOWHZFMXlBLWwtUnhwOTQwVGhTWkJhT2lVN3BwTkJ6Q240emF3YXd5NHdjczlLNFhHdw?oc=5",
-        "summary": "What Millions of Data Points Reveal About US Inflation Bloomberg.com What Millions of Data Points Reveal About US Inflation - Bloomberg.com",
-        "published": "Mon, 02 Nov 2026 22:00:00 GMT",
-        "published_kst": "2026-11-03T07:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-        "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-        "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million. commercial revenue growth, topping government for first time",
-        "published": "Mon, 02 Nov 2026 21:46:56 GMT",
-        "published_kst": "2026-11-03T06:46:56+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "148%",
-          "$984",
-          "$953"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump says he had ‘very good talk’ with Netanyahu, discussed Iran - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSm00T0daQ3BsSkNhUG11N3ZMak0tazJwMk9UbldXOVN6Wl9xTUpaT0FVeFR6SzVDVzJQZGNZMUt1NzlxSWs5empVZTltYW9IY0NtNnVjMDlBNDV5a2Y0YVdsbXVlTGFFZEhwRThKX2JvUEhvMXFEUlpXTUxHYVJUbzJSVExyOFY3OXMyQkc1S01iTGJud1h4TEhLQUdiVkRE?oc=5",
-        "summary": "Trump says he had ‘very good talk’ with Netanyahu, discussed Iran The Washington Post Trump says he had ‘very good talk’ with Netanyahu, discussed Iran - The Washington Post",
-        "published": "Mon, 02 Nov 2026 21:42:48 GMT",
-        "published_kst": "2026-11-03T06:42:48+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
-        "url": "https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html",
-        "summary": "Kimberly-Clark has a plan improve growth and earnings following its acquisition of Kenvue Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next",
-        "published": "Mon, 02 Nov 2026 21:35:06 GMT",
-        "published_kst": "2026-11-03T06:35:06+09:00",
+        "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+        "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+        "summary": "military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+        "published": "Tue, 03 Nov 2026 02:51:33 GMT",
+        "published_kst": "2026-11-03T11:51:33+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "House Democrats Demand White House Preserve AI Chatbot Records - MeriTalk",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZEh2UVo2TlNfOVlqTUxKR0VfMmpKaWQwZV9QcFZWYlY5a0txbWlzUWROT0s3VWRRMk9YVzhvUlVDQ0ZfZGR1b09uRi1HRlNrMzlvWm1McGFpdkdfeWt5TTFkZkZtRFdqdFJmb0NNLXI2VUxreVp1ZjVHaXg3QUpsNzI4TElXY0NSaENOZHlCRlRXb3VIb0hLUFZKd05OQQ?oc=5",
-        "summary": "House Democrats Demand White House Preserve AI Chatbot Records MeriTalk House Democrats Demand White House Preserve AI Chatbot Records - MeriTalk",
-        "published": "Mon, 02 Nov 2026 21:34:18 GMT",
-        "published_kst": "2026-11-03T06:34:18+09:00",
+        "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+        "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+        "summary": "North Korea denies links to Binance hack as researchers trace stolen billions allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+        "published": "Tue, 03 Nov 2026 02:50:34 GMT",
+        "published_kst": "2026-11-03T11:50:34+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+        "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+        "summary": "Army Secretary Dan Driscoll for a newly created national security role for national security modernization. OpenAI has hired former U.S.",
+        "published": "Tue, 03 Nov 2026 02:47:57 GMT",
+        "published_kst": "2026-11-03T11:47:57+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House refuses to disclose how it vets AI security threats - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzVaRWF3M05XNENCeWdkX1lJWGRjck8yWGh5SkZuR2N0WlFpYldkMXZCU2pXNWJ4WXgwQWl1aEJwYzhGbUJidkxic3lHQWtHMzFyUGtSTE1CamhlV19nQW5QUEtWUG13ZGFBZ0xaSDBjVjBlbGFSUzZocEdvZnRuWDhSbHBaN3lnUlNLZmNWTGh4ekRoTG5RVUpfamRQZ25nejJvVm9TQ0R1dE9lbWFScU5jWFg?oc=5",
+        "summary": "White House refuses to disclose how it vets AI security threats The Washington Post White House refuses to disclose how it vets AI security threats - The Washington Post",
+        "published": "Tue, 03 Nov 2026 02:00:59 GMT",
+        "published_kst": "2026-11-03T11:00:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
-        "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
-        "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. Trump focuses on Reflecting Pool in final public speech before midterms",
-        "published": "Mon, 02 Nov 2026 21:15:13 GMT",
-        "published_kst": "2026-11-03T06:15:13+09:00",
-        "domain": "cnbc.com",
+        "title": "U.S. stock futures steady; Apple dips after mixed earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdk5XMjVwNms5dDIzb3A3Q2FKdVhNbFc0Rk92dTFWczN1QUN5UjJzQjBtWm9oMjFZRThRZ2RtUjdKTlAyZzhVamVILXFWNlhsZGhxZHVnY0taSjdTV3liUnMwLXJXM1VuNmw0MURXNkVFcF9oX1Y5ZzVJMnZRVlgtblROR0ZZc3FHYUgtQ2lUeTVtaldWWUk0TA?oc=5",
+        "summary": "stock futures steady; Apple dips after mixed earnings Yahoo Finance U.S.",
+        "published": "Tue, 03 Nov 2026 01:31:00 GMT",
+        "published_kst": "2026-11-03T10:31:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Kaitlan Collins | White House prepare for possible power shift | CNN Politics - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFFhd0c3MU14bmNodFl2dzY4OEdKVHJtRE5oT0VuUzRpeWd0X3NhTkpfNEhyNVdCeHJiU0VYY3RuZzFMLS1CSmNKMllaR1pHWFRvamtpbFg3T0tKVmtnOUljYXU5Vk9qbDUxYlhzUGpFbklRUFNSZ2VhMld4MjZiRi05UnZ0U3EwQTc3aDg4ZVg0QUVhYmo2VHVjNXpKM19GRXpUTl9YN1FPZw?oc=5",
+        "summary": "Kaitlan Collins | White House prepare for possible power shift | CNN Politics CNN Kaitlan Collins | White House prepare for possible power shift | CNN Politics - CNN",
+        "published": "Tue, 03 Nov 2026 01:17:00 GMT",
+        "published_kst": "2026-11-03T10:17:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,36 +73,36 @@
     ],
     "kr": [
       {
-        "title": "\"반토막 났는데\"…목표가 200만원 찍은 '이 종목' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4N0ZfdzY5WHU4bHBvMzdaOWFrdzRnX2ZUTXM4d0lfdXpnT3BqYWZ6Z1VxYm9wenJzeWE1UlJ0SDBmR2czZER6NUlYb205eE5sMlctQ001S3JzQQ?oc=5",
-        "summary": "\"반토막 났는데\"…목표가 200만원 찍은 '이 종목' 한국경제 \"반토막 났는데\"…목표가 200만원 찍은 '이 종목' - 한국경제",
-        "published": "Mon, 02 Nov 2026 22:00:13 GMT",
-        "published_kst": "2026-11-03T07:00:13+09:00",
+        "title": "[포토] 2차 중앙행정기관 세종 이전 관련 공청회 개최 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RR2RMd2o3OFFJU1dyZDVHR01vM0NRRUx5QlpVbVVmRlVWMXR3TFNCaGlxbVVqMHhYUWkzV3JjMDY2YWptRUZQMDlaT09xZnpiYXNfT1VES280UQ?oc=5",
+        "summary": "[포토] 2차 중앙행정기관 세종 이전 관련 공청회 개최 한국경제 [포토] 2차 중앙행정기관 세종 이전 관련 공청회 개최 - 한국경제",
+        "published": "Tue, 03 Nov 2026 02:32:21 GMT",
+        "published_kst": "2026-11-03T11:32:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[韓경제 아킬레스건](41) 디스플레이의 반격 : 격차 수성 속 가중되는 경제 안보 리스크 - 금융소비자뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GYkpudWdoTFNXQVBWdnlhSm5PQ2liaDNfYUg2NllFclQ2dDZVY3NGNnF5RUxtU0NxYmFKalBOWlpvOXpQRkwwMVlGT2pIQndOdktZNW55MVpTOVozcTg0LU1EdWJwcmJseWc?oc=5",
-        "summary": "[韓경제 아킬레스건](41) 디스플레이의 반격 : 격차 수성 속 가중되는 경제 안보 리스크 금융소비자뉴스 [韓경제 아킬레스건](41) 디스플레이의 반격 : 격차 수성 속 가중되는 경제 안보 리스크 - 금융소비자뉴스",
-        "published": "Mon, 02 Nov 2026 22:00:00 GMT",
-        "published_kst": "2026-11-03T07:00:00+09:00",
+        "title": "[포토] 외교부, '대통령 순방단 개인정보' 유출 관련 브리핑 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kQWVRLTlVaGVoQ1BHWmZudG91R1ZNVldGWVc4TS1TTHdzam51TUJTaE9qdlBXRU1FR1lqMi1SblM1NmVwazNwcU9WbW53VHkydzhwVXVVdkFfdw?oc=5",
+        "summary": "[포토] 외교부, '대통령 순방단 개인정보' 유출 관련 브리핑 한국경제 [포토] 외교부, '대통령 순방단 개인정보' 유출 관련 브리핑 - 한국경제",
+        "published": "Tue, 03 Nov 2026 02:29:41 GMT",
+        "published_kst": "2026-11-03T11:29:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "트럼프 \"이란과 합의 가능\"…국제유가 7%대 급락 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNklnOTFzNmtuak9zWm4tOEdmQzJ2U1dfYUVwNEIxdEdrZjdHMzEyVWhTcmpBMWhvNEtZeDR5VFM2d3Q0d2V2c2t6MmFNRGJKM1pqNW9iUUJSZw?oc=5",
-        "summary": "트럼프 \"이란과 합의 가능\"…국제유가 7%대 급락 한국경제 트럼프 \"이란과 합의 가능\"…국제유가 7%대 급락 - 한국경제",
-        "published": "Mon, 02 Nov 2026 21:15:54 GMT",
-        "published_kst": "2026-11-03T06:15:54+09:00",
+        "title": "\"급락은 오히려 기회\"…상위 1% 투자 고수들의 선택 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DM0pBX05qaFFKSmlrMHZRZHNGaU0tMTJHdHBncjBLTFRwVmNYck9kWkthd09TRURhSTA4REtxZlRha2psVTgyZXlsSGMzdXFrY3BqbmhERXM3dw?oc=5",
+        "summary": "\"급락은 오히려 기회\"…상위 1% 투자 고수들의 선택 한국경제 \"급락은 오히려 기회\"…상위 1% 투자 고수들의 선택 - 한국경제",
+        "published": "Tue, 03 Nov 2026 02:28:01 GMT",
+        "published_kst": "2026-11-03T11:28:01+09:00",
         "domain": "google.com",
         "key_figures": [
-          "7%"
+          "1%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -114,33 +110,33 @@
     ],
     "world": [
       {
-        "title": "AI in Supply Chains: Why Trusted Data Is the Competitive Advantage - Logistics Viewpoints",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2hhOFdHNHA5S0Nlb0IzVjZ3aXczZThVVE9yNTE2UzRZN3N5TnNmN0pIb3RlSmhlSUpINzI5MDZyclFTS1lMYmEwZlpVeHF2Snp2QTl4R0E4Yk8zQUs4emRDb0xYX0RzM0ZOTDJpaW00Vm9yd254d2dpdVJ3TnpUOUJPMW0tR3F6VE1Bb0NDa2N0aXJma1kzUnNNRjJ2MU5yUDBjNzlGYVVXZS1pR3c?oc=5",
-        "summary": "AI in Supply Chains: Why Trusted Data Is the Competitive Advantage Logistics Viewpoints AI in Supply Chains: Why Trusted Data Is the Competitive Advantage - Logistics Viewpoints",
-        "published": "Mon, 02 Nov 2026 19:39:18 GMT",
-        "published_kst": "2026-11-03T04:39:18+09:00",
+        "title": "Dubai set to bring global food industry together to advance manufacturing innovation and supply chain resilience - Asia Food Journal",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY3BCVDJVcDdfVFlzM1JuWTI4UmpFOEJoNFNjS2YydjZtMk5lOUlzZVY3WlhURWVEWWo0eFhCLWE1dDAyMTFydmlNRW81X05HNmQ3UVE0RW5hOWJQc1phc1JMUmsxMTEwc2szejYtZGdrQXNqeUx5TTIxaXkzRTFRUUFkS0JEenpGLXVIdDVwOGhwOE1tT3pWcThYdGJuMUExQ1psOG5HVTBGTmJoZ0hvUVJHR2oxZXNVMjJLRkg2WUJOam5fczNWbW1qUjlmXzVMOEdaQlJKYkQ?oc=5",
+        "summary": "Dubai set to bring global food industry together to advance manufacturing innovation and supply chain resilience Asia Food Journal Dubai set to bring global food industry together to advance manufacturing innovation and supply chain resilience - Asia Food Journal",
+        "published": "Tue, 03 Nov 2026 02:38:53 GMT",
+        "published_kst": "2026-11-03T11:38:53+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Where transformation became action - Supply Chain Management Review",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqMEg0QVA2RVJZd2lySlIyc3hpUGpCSEFEZVczTFBwWi1UV1QyNVJMaHM1d1ZtblZ1a1RCQ2ZRRkdBNmU4ejNRTVg3WDlybGZuU3RlMEdJSzdHLVpyb2poTmRxNFR0cURkeERZMXVNaE8?oc=5",
-        "summary": "Where transformation became action Supply Chain Management Review Where transformation became action - Supply Chain Management Review",
-        "published": "Mon, 02 Nov 2026 19:38:00 GMT",
-        "published_kst": "2026-11-03T04:38:00+09:00",
+        "title": "China’s vast battery industry runs on nickel. Now, supplies are being disrupted - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdXZfSFpJOFBIamd0RWp0cnZjVGNfQ1l3TTk5NEdVRWFGdlEtdEV4Q2E3TTYtYkVncmhVNGVXRGxwa2JlTnk5d2JrbHAzTU1WQ3QzLV9RNXRDZmI4RWMydkNIU3FUMFRlaVlndkZvb0doN25kTkl4cWtldGNvZXRNLUo4OWZwVDdiSzRTY25aWjdXd25KcnBpOUF2ZVZlWmkwWUF6QzFabjR3cHZrR3Q3NGxHMjg5WXdTMWdWYW5WcmRoZTdldWd6cGlyMA?oc=5",
+        "summary": "Now, supplies are being disrupted South China Morning Post China’s vast battery industry runs on nickel. China’s vast battery industry runs on nickel.",
+        "published": "Tue, 03 Nov 2026 01:53:45 GMT",
+        "published_kst": "2026-11-03T10:53:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "BREAKING: European Markets Attacked Across 8 Nations, Major Food Supply Chain Disruption - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVUREdGdFZkpIS0FZNGs3aEd0bjJoTkpfSUJkVGx6bGQwdlkwUy02eXYzeEVfa0l0dkM0VzRMQXZSUjZuV2plVk9XTk9mT2RTd0hacF85YmRhZElJRkw4eE9nMG9Rb19JbTdLTXZ1Um5yam96MGdFQ2xGc2ZUb1ZCV1U1Y0RPRUdsRk1yd194eUdsNHhtcXpWVklEVW5SdF9ISkFIMVFZb0tubUh2TFhJc3g4RmVxNGhLV0F2M2dBRjdjbFYzWVQxSWZ2WE9Ub0xzTmtfZzFrSTh0eEdNZjVEN193dlZUNGtWRkloaXFsRmVENTRjc0lPV0syVdIBgAJBVV95cUxQVXNRUGhQNzhGOWp5aUt1eXNnenNTVGpVWmFoMGxSTzZVMmFDRVRscG8zVXdkZVFXcVoxUDNsckdEWDJqcnhUU2hHXzlaWTRsUU1uSDRwU3RobTM0cE9vb0d4cVhya2VUc19NQWpSYkpsZDlTTU5hV2RyM1ZDTWFobjMxYkxLTnRvb0FlN3NITnA3azE1RHdpaEV6eXZMN0dlak0xdXQ4TzZwQ2lQWnJfZlc4aGNyck5fNmVuME5lVE5BSDM0UkhOd1NHcUVBVEFiX3ZIX2lELVA5VmFiSVQzWl9BRWdFeGE1czVpZW56eHNEb1U4LUZ1cTdCWkN1al9R?oc=5",
-        "summary": "BREAKING: European Markets Attacked Across 8 Nations, Major Food Supply Chain Disruption The Times of India BREAKING: European Markets Attacked Across 8 Nations, Major Food Supply Chain Disruption - The Times of India",
-        "published": "Mon, 02 Nov 2026 19:35:51 GMT",
-        "published_kst": "2026-11-03T04:35:51+09:00",
+        "title": "G20 Chair Rubio focuses on energy and supply chains as EU HR Kallas warns of coercion - INSIGHT EU MONITORING",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZTVpcEhGRVEyWXVET3JES3RvdVdZSS1Ud2JKOHVfLWFPc0hTaG9kRXJXdGJIR0htTDlQeDhIc0lxTmw0WnNRVy1kcGc1OWVuTnhZZDV5SzN3UFJGMHlZMXdTMjVCd2RBYUlNaGNSZ1ZhYjFhTlMtNTdjMWJUa085T05KTXFZVG5TLXQydWlyMlp6ZURGR012UDc4eFlNUld1dHk5NmwxU0pYRHFnV2dTYlExV1Y2Z3FpVEd1bnE1Rk4xaGp4NE9VRXJBZHlVOGV6ME52dXNxWF9scTg1RG9wTXhJVmVNd1E?oc=5",
+        "summary": "G20 Chair Rubio focuses on energy and supply chains as EU HR Kallas warns of coercion INSIGHT EU MONITORING G20 Chair Rubio focuses on energy and supply chains as EU HR Kallas warns of coercion - INSIGHT EU MONITORING",
+        "published": "Mon, 02 Nov 2026 23:38:10 GMT",
+        "published_kst": "2026-11-03T08:38:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "What Millions of Data Points Reveal About US Inflation Bloomberg.com What Millions of Data Points Reveal About US Inflation - Bloomberg.com / \"반토막 났는데\"…목표가 200만원 찍은 '이 종목' 한국경제 \"반토막 났는데\"…목표가 200만원 찍은 '이 종목' - 한국경제 / AI in Supply Chains: Why Trusted Data Is the Competitive Advantage Logistics Viewpoints AI in Supply Chains: Why Trusted Data Is the Competitive Advantage - Logistics Viewpoints",
+  "wrap_summary": "military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran / [포토] 2차 중앙행정기관 세종 이전 관련 공청회 개최 한국경제 [포토] 2차 중앙행정기관 세종 이전 관련 공청회 개최 - 한국경제 / Dubai set to bring global food industry together to advance manufacturing innovation and supply chain resilience Asia Food Journal Dubai set to bring global food industry together to advance manufacturing innovation and supply chain resilience - Asia Food Journal",
   "invest_summary": ""
 }
