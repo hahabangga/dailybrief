@@ -1,75 +1,73 @@
 {
   "date": "2026-11-04",
-  "generated_at_utc": "2026-11-03T17:40:13Z",
-  "cutoff_kst": "2026-11-04T02:40:00+09:00",
+  "generated_at_utc": "2026-11-03T19:59:55Z",
+  "cutoff_kst": "2026-11-04T04:59:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-        "url": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
-        "summary": "Tuesday's midterm elections follow record spending on AI-generated political ads. AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-        "published": "Tue, 03 Nov 2026 17:37:31 GMT",
-        "published_kst": "2026-11-04T02:37:31+09:00",
-        "domain": "cnbc.com",
+        "title": "Melania Trump to host Ukrainian, Russian representatives at White House this week - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORlplc2MwNmptQTNXSDZkNVk2bEFsN3hlcVhieXZFUUxXbWExR0pud2t3Q1premVPM0F3dy1uYmR4YzN0bVJMRDJGYk14aE03TklnREFtUC1PRk5kR3NiQTk2c1ZxM2hGa004Q0dQZG4wcmdUNTQ5dWU5blAtNDFTVlRGSDNQUVR2bkE3dUF3RGRLTlZoU1BIdG5qT05QMUdQS0FpaE5EdTJoZXRQVU5J?oc=5",
+        "summary": "Melania Trump to host Ukrainian, Russian representatives at White House this week The Washington Post Melania Trump to host Ukrainian, Russian representatives at White House this week - The Washington Post",
+        "published": "Tue, 03 Nov 2026 19:46:51 GMT",
+        "published_kst": "2026-11-04T04:46:51+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
-        "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
-        "summary": "The software giant's stock fell after earnings failed to impress investors. Palantir sinks 2% after earnings as analysts point to slowdown in total contract value",
-        "published": "Tue, 03 Nov 2026 17:24:34 GMT",
-        "published_kst": "2026-11-04T02:24:34+09:00",
-        "domain": "cnbc.com",
+        "title": "CPI | Fox’s $22 Billion Roku Takeover Nears US Antitrust Approval - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVRHNThTVm9NZ3R3ajJsWG5KY25SMTRuVHd4MFZJbzB2cEtPTS0yQURhVkQzTWhzc3A0WjMxbG40R1NNODM2MU9HQ05YcFpRZ2stbVlyUFlNd1JPTXhmalRadnduMS1DRE1pS3dlSUVXa01CSjVYOF8xMTh1Q19LNjJvY2Q2bkNvQlhNZURLNDhBNVlzX1E?oc=5",
+        "summary": "CPI | Fox’s $22 Billion Roku Takeover Nears US Antitrust Approval PYMNTS.com CPI | Fox’s $22 Billion Roku Takeover Nears US Antitrust Approval - PYMNTS.com",
+        "published": "Tue, 03 Nov 2026 19:40:24 GMT",
+        "published_kst": "2026-11-04T04:40:24+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "2%"
+          "$22"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-        "url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-        "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare. Midterm elections could jolt stocks if Democrats sweep Congress",
-        "published": "Tue, 03 Nov 2026 17:15:20 GMT",
-        "published_kst": "2026-11-04T02:15:20+09:00",
+        "title": "Arakhamia, Lubinets to attend meeting with Melania Trump at White House – source - Ukrinform",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDl0VDlPbXlZQk9wZFRlbDJyS0pnVm9FRjBhaE1XVllDT2JuempsZ0xrQXdSS0hCUXYxVm5XN2NJeEZrc211ME9CWHJrZFdHTm44aE9hcmVDYy0zSjczYXRqSTZQbG56eUZITHU2RVBwRlB0dXA4eEtJb0Q3UlpxTlFFSjhvN2RzVUxPTk5uVDNTcllkV05FaEJMVmd2UEJEWXBQQzByclJ2OTJuYkNwVkoyMUd0aW40c0hjOUVRR1ZuVVJBTmswWDJyNkfSAdIBQVVfeXFMT0Z0TU1hOWliRVhObENvek5qREFkbG4tX0d6Q3c0OG5vUmMxMGs2Smhzd3FNRnRqUC14dkFONkRYcC1yT0JneHNmS0Y4RHBPb0pFZTdrVnBuZWRsblliXzM3WnM2V095ZDQxTjJkR0hvYmNqQUsyWXhxQkRWalV2M01TVVp2akFZZGVjR0Z4WUZjbFVZQU91VE1FVDduaG1GNXZIcEhJUkZBLVM2WWpsYlNLNExVYy12RFhobjVQbzJyckxqRDE2eU1EWVB0cm16YjhR?oc=5",
+        "summary": "Arakhamia, Lubinets to attend meeting with Melania Trump at White House – source Ukrinform Arakhamia, Lubinets to attend meeting with Melania Trump at White House – source - Ukrinform",
+        "published": "Tue, 03 Nov 2026 19:40:00 GMT",
+        "published_kst": "2026-11-04T04:40:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+        "url": "https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html",
+        "summary": "Chris Murphy, a Connecticut Democrat, was still in the hospital as of Tuesday, his office confirmed. Chris Murphy still hospitalized after suffering a stroke over the weekend",
+        "published": "Tue, 03 Nov 2026 19:36:16 GMT",
+        "published_kst": "2026-11-04T04:36:16+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Pound Sterling Price News and Forecast: GBP/USD flatlines as US jobs strength, election risks loom - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRlVWcFNTc3pfZ0JaX0pOZ3piN2R2Y1MzQU9jRDBFMTZEUVJaQk9GWU9PSXktdW9MelliLTNjeFY1VXQydm12WGE1d0JKMFhLQlBpTnBxV1FPWDltRlU3UzdJX0dXZEtJZi1rNF9rZ0ducG9USlRoYmVuRHN5bEhOZlBNUl9LWjE0N09KMVo3UUNzMFJ2bkk5c0Q5R3hsVk1RM0E2Q2Mzc0hwci0tR21fSjdNbUJoQUVlcUVTTFdKUWJyM1k5dVZ4bjhxYWUzWFhXVlBMb1ln?oc=5",
-        "summary": "Pound Sterling Price News and Forecast: GBP/USD flatlines as US jobs strength, election risks loom FXStreet Pound Sterling Price News and Forecast: GBP/USD flatlines as US jobs strength, election risks loom - FXStreet",
-        "published": "Tue, 03 Nov 2026 16:59:41 GMT",
-        "published_kst": "2026-11-04T01:59:41+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. jobs market perks up, but it’s still not a great time to get hired - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUtTZ2JNb2VGRGdUTXhObTk5Y0J6UHJXeTFobEVBMDJuWVltWWhHOUFnV2VQUWVXZTliTUdCVS1uMDY3STRvWUc1QmpxLVBXOHZyVHg3NDJuOGJUN3NMTXFqVk9zSC1DbFRFMGhEMjhfV3dpR1lmc3JndzByZ0p6bzF4czZmTG16MjFQVTdNTGpHZlFIZ3lmbkRVSnJnSXE4cl9nVHVxZ0FhQmpmVFgxZQ?oc=5",
-        "summary": "jobs market perks up, but it’s still not a great time to get hired MarketWatch U.S.",
-        "published": "Tue, 03 Nov 2026 16:56:00 GMT",
-        "published_kst": "2026-11-04T01:56:00+09:00",
-        "domain": "google.com",
+        "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+        "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+        "summary": "CrowdStrike launched an AI kill switch that the company says can stop internal agents, block relaunches and cut enterprise network access. CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue",
+        "published": "Tue, 03 Nov 2026 19:35:24 GMT",
+        "published_kst": "2026-11-04T04:35:24+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Author says Jacqueline Kennedy used White House to showcase top American art - KOMO",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNjk4YVZ6ejVod3RSREpSekVlV1Fzc0tIekVUU1cwcHM2SnY4SUxHS3RuMFJWNGpUOVhhaGRMWFdrRUFuMUtYVDhwOW1MdW5aRzFJRGVVQm5jbEFReVJPaWl6am9CdTEtWWp2Z2pUdWtPaWtQYlNwUF9TQjJndDVqTGsyYW9PZlM5YjVDOXVKMldPSXRIUF83SlFmczhHZHBTQ040NURNaVBjclp5dWg3dnc0WVo?oc=5",
-        "summary": "Author says Jacqueline Kennedy used White House to showcase top American art KOMO Author says Jacqueline Kennedy used White House to showcase top American art - KOMO",
-        "published": "Tue, 03 Nov 2026 16:47:57 GMT",
-        "published_kst": "2026-11-04T01:47:57+09:00",
-        "domain": "google.com",
+        "title": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
+        "url": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
+        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Election Day: Here is the No.",
+        "published": "Tue, 03 Nov 2026 19:29:41 GMT",
+        "published_kst": "2026-11-04T04:29:41+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,46 +75,64 @@
     ],
     "kr": [
       {
-        "title": "'그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OQnh6Z2tpSWg0cTBFVGZ0RWh3cEJTQ2NobkNfeVM2VkFleVdKR0NNMXBHaE51dW50NUtPYjNWUlVOWEhuSXNSRFJiUzFIeVhleHFyS20tNWZzQQ?oc=5",
-        "summary": "'그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' 한국경제 '그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' - 한국경제",
-        "published": "Tue, 03 Nov 2026 16:15:00 GMT",
-        "published_kst": "2026-11-04T01:15:00+09:00",
+        "title": "[오늘의 1면 사진] 3600톤급 최신예 잠수함 '서희함' 진수 - 한국일보",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ObmpjdEVOZGo1U0pNeFU4N1lISVo4QlFCWHQ5NDZzWm1OalhUbUktS3RpVXNOLVdwWEJKX3FJX0o4QzNUanRKSFMxTUNWWkV6aGNKTVpFMXdoTU9GSGdpNmcyQzRsaFBzRjRTVnJ30gFzQVVfeXFMUExHeTFhUmthMS1LVUpuT0hPTFJldkhHZy1tQU9GM29ySTk2WUVQYjhCQWhFdk8tMm9KN28ya2JoUGE2NHhqQ0l5dU9Nc1VvWmkwMml3MW5qcVdEek9lLXBldzhCVzdmNzZTLU5kcW1KZ2JWMA?oc=5",
+        "summary": "[오늘의 1면 사진] 3600톤급 최신예 잠수함 '서희함' 진수 한국일보 [오늘의 1면 사진] 3600톤급 최신예 잠수함 '서희함' 진수 - 한국일보",
+        "published": "Tue, 03 Nov 2026 19:30:00 GMT",
+        "published_kst": "2026-11-04T04:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "3600"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "골드만삭스 \"단기 충격 대비해 현금 비중 올려야\" [월가 업&다운] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2MkxBUktmQVpoNk4wOTBKUzU4cW9Tbk1qWGNxbkRDTVhSMU9UbjVLS3NHX3VHNTBCcTZDcTh5b2EwM3Mtb2JnSVVIUTJnSVBkdlZqbjhyei1tdw?oc=5",
+        "summary": "골드만삭스 \"단기 충격 대비해 현금 비중 올려야\" [월가 업&다운] 한국경제 골드만삭스 \"단기 충격 대비해 현금 비중 올려야\" [월가 업&다운] - 한국경제",
+        "published": "Tue, 03 Nov 2026 19:06:03 GMT",
+        "published_kst": "2026-11-04T04:06:03+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "없애면 없앨수록 또렷해지는 나무 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BRDNTWG93bl80cnRYMnZsVDdrQURzZnR3c2dYTGQ3X1FmUWRPUHNNXzZ1VzBCVGw5VlZPeFFHNXVNbkJxZW1OcWNERXBoUnBxUC1RMU9zLU9XUQ?oc=5",
-        "summary": "없애면 없앨수록 또렷해지는 나무 한국경제 없애면 없앨수록 또렷해지는 나무 - 한국경제",
-        "published": "Tue, 03 Nov 2026 16:13:00 GMT",
-        "published_kst": "2026-11-04T01:13:00+09:00",
+        "title": "테슬라 中 생산 전기차 10월 10% 증가…한국이 수출 20% 흡수 - 글로벌이코노믹",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUU4N25HbzZQUURBMnBLbGdzanRwRGRncDBuclhpX3FFUG1iWHVuQ1JQQ0pnZ3hOdUhYdnp5NFBBeUxvdEZuM3p6Q3d2dW9JVlNrZWkwMGtveUgweVBybEhQTVJYbENaQ2hyNzlzNmdmdURJeGU2NWh6aTVLbkptZ0lBTkg3TXdT?oc=5",
+        "summary": "테슬라 中 생산 전기차 10월 10% 증가…한국이 수출 20% 흡수 글로벌이코노믹 테슬라 中 생산 전기차 10월 10% 증가…한국이 수출 20% 흡수 - 글로벌이코노믹",
+        "published": "Tue, 03 Nov 2026 19:00:00 GMT",
+        "published_kst": "2026-11-04T04:00:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[천자칼럼] 냉장고의 소중함 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9idVNGYmhzZFpJSHA1MldxS1VUWnlWOEJucWpPOTU4dEQxRVBxUEpiM0ZLTXdOY093NW9MQmFVcU9YUTNwUkpqT1pIdWU4VzhSa1JkbnMxbVNPZw?oc=5",
-        "summary": "[천자칼럼] 냉장고의 소중함 한국경제 [천자칼럼] 냉장고의 소중함 - 한국경제",
-        "published": "Tue, 03 Nov 2026 16:12:00 GMT",
-        "published_kst": "2026-11-04T01:12:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "10%",
+          "20%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
+        "title": "AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 - American Journal of Transportation",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTZHaENpT1RhejQtbVRyQTlqR1ZocVRoX19tOEItaHVPa0d0b1pITmpZVnhYcHhxbzlxckxpYkx5SkNBYTdHRVFIM0c5U294ZkNUVHVzTllpT2RLNzdzNnc4LUlJV0JpckZwMHIzLTF5MUljSzZ2Y0J0bXdqZjJCTDJPdFNXSUdPSHdRUEs1S2M0WHNvWFhiV0JoVHZMbWZzSFlj?oc=5",
+        "summary": "AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 American Journal of Transportation AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 - American Journal of Transportation",
+        "published": "Tue, 03 Nov 2026 16:55:00 GMT",
+        "published_kst": "2026-11-04T01:55:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
         "title": "Chargebacks911 Introduces AI Agent Purchase Protection for Merchants - Supply & Demand Chain Executive",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVnM5RzhfRzdEVFBPVnZRYUN3dmxJd05meDBZUUZiWnpnLWdHdFVnRmdEZE9wTTJSZzB2bVoxQWlDLWdULUlLQ1hEajl2cmNFUEZsc2c1bEtiX0hiWEdoR0xPTldISFJHQ2N5R0psTjVDTkV5SHpXRm83VE90RzE0SVhHTWR5dElFSHJqODlwZE5iLUVTbWxMWURhUGNJQV84SEh5T0lqQXh0MEZsLTREQU5kSlkzV0tjRkxsd0xFUUJHR1lJ?oc=5",
         "summary": "Chargebacks911 Introduces AI Agent Purchase Protection for Merchants Supply & Demand Chain Executive Chargebacks911 Introduces AI Agent Purchase Protection for Merchants - Supply & Demand Chain Executive",
-        "published": "Tue, 03 Nov 2026 16:43:38 GMT",
-        "published_kst": "2026-11-04T01:43:38+09:00",
+        "published": "Tue, 03 Nov 2026 16:42:59 GMT",
+        "published_kst": "2026-11-04T01:42:59+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -132,20 +148,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How Strategic Storage Planning Can Strengthen Supply Chain Resilience - Global Trade Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWm9JckUxZXMteVdNVm0xdWxpQmp0cTQwXzB4UjJOS2ItN0M4U3FMcGxGRVIxX1JIc3JZLTRWR1l5ek80WTBZV09HSERwOWFVOFJFcnVTM1phZ0g4RHlLTTVxYU5LX05vVGlvS0RxVGgyN0pyNVdJUGo0MHZMOWFwbmpnVE9kVWQxY0ZVLTVQd0FiSXREaW0zQ3BlajJRTHdRYmdF?oc=5",
-        "summary": "How Strategic Storage Planning Can Strengthen Supply Chain Resilience Global Trade Magazine How Strategic Storage Planning Can Strengthen Supply Chain Resilience - Global Trade Magazine",
-        "published": "Tue, 03 Nov 2026 15:44:04 GMT",
-        "published_kst": "2026-11-04T00:44:04+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Tuesday's midterm elections follow record spending on AI-generated political ads. AI-generated 'slopaganda' in political ads puts internet platforms on alert / '그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' 한국경제 '그래미 스타'부터 웅산까지…늦가을 적시는 '재즈 향연' - 한국경제 / Chargebacks911 Introduces AI Agent Purchase Protection for Merchants Supply & Demand Chain Executive Chargebacks911 Introduces AI Agent Purchase Protection for Merchants - Supply & Demand Chain Executive",
+  "wrap_summary": "Melania Trump to host Ukrainian, Russian representatives at White House this week The Washington Post Melania Trump to host Ukrainian, Russian representatives at White House this week - The Washington Post / [오늘의 1면 사진] 3600톤급 최신예 잠수함 '서희함' 진수 한국일보 [오늘의 1면 사진] 3600톤급 최신예 잠수함 '서희함' 진수 - 한국일보 / AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 American Journal of Transportation AAL Shipping wins ‘Export’ award at EIC World Energy Supply Chain Awards 2026 - American Journal of Transportation",
   "invest_summary": ""
 }
