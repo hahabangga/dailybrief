@@ -1,73 +1,73 @@
 {
   "date": "2026-11-04",
-  "generated_at_utc": "2026-11-04T08:14:14Z",
-  "cutoff_kst": "2026-11-04T17:14:00+09:00",
+  "generated_at_utc": "2026-11-04T13:18:35Z",
+  "cutoff_kst": "2026-11-04T22:18:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Rates Spark: A blue wave in the US and euro inflation - ing think",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDY4WDMtUEtiTEx6cC1OODdwaERMc2xPU3UyYkR5RHM4MUJiaXNBTWVQdEpnU1ZINGJhRW9sd0NGVEhEYndYS1ZpS3dvN0Z3Ymk3RVZyaGdESEtTRGhOQkhFR0M5aWZGUmR3QWRrQk10bmlUTmhZbGloTUtWNkQwV0d6aGd6RVFyLTRBbQ?oc=5",
-        "summary": "Rates Spark: A blue wave in the US and euro inflation ing think Rates Spark: A blue wave in the US and euro inflation - ing think",
-        "published": "Wed, 04 Nov 2026 08:08:45 GMT",
-        "published_kst": "2026-11-04T17:08:45+09:00",
+        "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+        "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+        "summary": "Private-sector job growth held steady in October, with gains spread across sectors Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
+        "published": "Wed, 04 Nov 2026 13:15:03 GMT",
+        "published_kst": "2026-11-04T22:15:03+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
+        "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+        "summary": "AI fortunes were mixed as premarket trading opened on Wednesday. AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
+        "published": "Wed, 04 Nov 2026 13:03:31 GMT",
+        "published_kst": "2026-11-04T22:03:31+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+        "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
+        "summary": "midterm elections on Wednesday, flipping key Republican-held seats in Congress. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
+        "published": "Wed, 04 Nov 2026 13:02:32 GMT",
+        "published_kst": "2026-11-04T22:02:32+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "World reacts to Democrats’ midterm elections victory - NPR",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTU1qeFYyMUhPLTQ4YzlqSzd4UUxSZk1DSVF2UmthS1BkeFJWb1ByUzQ4MFhySUJWRkJpM1hDZmhmUm5KdjI5NzBXQkpXWXNTR2V5VVdvRlZKYUdlZ2E2dnVJNDVKQS1UemRyRmVFSF9Vc2FvRERReWhQV0V4U19Xag?oc=5",
+        "summary": "World reacts to Democrats’ midterm elections victory NPR World reacts to Democrats’ midterm elections victory - NPR",
+        "published": "Wed, 04 Nov 2026 12:34:35 GMT",
+        "published_kst": "2026-11-04T21:34:35+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
-        "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
-        "summary": "Novo posted quarterly earnings ahead of expectations early Wednesday as sales of its Wegovy pill blew past estimates Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
-        "published": "Wed, 04 Nov 2026 08:06:50 GMT",
-        "published_kst": "2026-11-04T17:06:50+09:00",
-        "domain": "cnbc.com",
+        "title": "Wayfair Q3 2026 Earnings: U.S. Growth Supports a Return to Profit - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcmxXbE11aTdaLVVVeFpHeEV6alNqZGhUVUNRYXFaQ1ByQl92cEt3Rzg0VkUwZ3l5dlNBN0hTaWpEUmVMTml1VkJWMEZLczgwYXE3aWVXZ0Z3TzVKa2tZVw?oc=5",
+        "summary": "Growth Supports a Return to Profit TradingKey Wayfair Q3 2026 Earnings: U.S. Growth Supports a Return to Profit - TradingKey",
+        "published": "Wed, 04 Nov 2026 12:12:12 GMT",
+        "published_kst": "2026-11-04T21:12:12+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "6%"
+          "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
-        "summary": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans AP News Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
-        "published": "Wed, 04 Nov 2026 07:57:00 GMT",
-        "published_kst": "2026-11-04T16:57:00+09:00",
+        "title": "U.S. Futures Rally After Democrats Take Congress; AMD Pops After Earnings - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1VCMU5INWxvNlZZNDVWWXlab1I2RTRIMFNhbm9DVXQwRnM1dmU3SS1LWHlkNzBwQlVLUmh3M1Zpd2lYUnAtLURjNTdNS3BqaFlCN2VSYXpmYWVFYTBiNDlNUF9kNWhYX1R2bUdmaFBGZjdQcEdrM29qN3RzSElLNEtWMWVickFvc281MHRKWHhrODMtcV9XOEFaTVRRV00zVmpWR3FRMEN3NkZGWEo5VDBZNUUtdw?oc=5",
+        "summary": "Futures Rally After Democrats Take Congress; AMD Pops After Earnings Barchart.com U.S.",
+        "published": "Wed, 04 Nov 2026 11:38:37 GMT",
+        "published_kst": "2026-11-04T20:38:37+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Economic Calendar: European Inflation and US ADP in Focus 🔎 - XTB.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVhJNDU0NkdTSGc4M0NXTHpuYjJCamNSNTdkTkJaNU5oU2MyWmlCS05CaGhNWnkyQW52X191anFRSEpra1V0c3MtYXdaMkItUUtkWXpqZlMtU09qbjdqNGx5S1BTVDZCd0oxWlJBVTBVdDVSbGtEZHZ6MEJaMjZzeUlDMDM5c1dlWFBDeVJXcC1WSGF0ZUhzb04wQQ?oc=5",
-        "summary": "Economic Calendar: European Inflation and US ADP in Focus 🔎 XTB.com Economic Calendar: European Inflation and US ADP in Focus 🔎 - XTB.com",
-        "published": "Wed, 04 Nov 2026 07:53:28 GMT",
-        "published_kst": "2026-11-04T16:53:28+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-        "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
-        "summary": "Precious metals saw strong gains on Tuesday morning, as investors digested a Democratic sweep in the U.S. Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
-        "published": "Wed, 04 Nov 2026 07:43:43 GMT",
-        "published_kst": "2026-11-04T16:43:43+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-        "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
-        "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
-        "published": "Wed, 04 Nov 2026 07:27:48 GMT",
-        "published_kst": "2026-11-04T16:27:48+09:00",
-        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,68 +75,73 @@
     ],
     "kr": [
       {
-        "title": "“회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] - 세무사신문",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44VkZOWW5obUdLLUUteGtKS3RXVGo1WG4wOFVvUnBNNk4tVHNlNHZzLVYzdkcxMmV0V2thQWV6TnY5THBuNEhFVmVKeTk3anhWR2xQR0xmdUNoVC1HMVN5YjZJNUtYYXVEWFRndQ?oc=5",
-        "summary": "“회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] 세무사신문 “회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] - 세무사신문",
-        "published": "Wed, 04 Nov 2026 08:00:00 GMT",
-        "published_kst": "2026-11-04T17:00:00+09:00",
+        "title": "[논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 - 뉴스앤넷",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBadUxnZm1DaWFNaGIyNFpNMkplRlJBMjhoNXVSYUhXX3NEM3QzMTBFMFhMbDZNN1BBNmZRaTFfWWhCOV9HZ3g1X0xTclBoN3RPekM4Yy1DV1k4M2xWRnF0U2cyYkJMSnNtN2c?oc=5",
+        "summary": "[논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 뉴스앤넷 [논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 - 뉴스앤넷",
+        "published": "Wed, 04 Nov 2026 13:02:47 GMT",
+        "published_kst": "2026-11-04T22:02:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[허프 생각] 대통령 연설에 야유, 악수엔 '배신자' 낙인 : 극한 진영 대립에 한국 정치 '금도' 무너진다 - 허프포스트코리아",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oQUVnUG5VaUNOZ3E0a1NMTDNUajFPRWpYd3JEdUx6RnVfeTd6alZlWVVpWXdOaFdKZWlCdU42OXNwdUNoaDNnYWZGYWZMMkF2MVdKUmFiWQ?oc=5",
-        "summary": "[허프 생각] 대통령 연설에 야유, 악수엔 '배신자' 낙인 : 극한 진영 대립에 한국 정치 '금도' 무너진다 허프포스트코리아 [허프 생각] 대통령 연설에 야유, 악수엔 '배신자' 낙인 : 극한 진영 대립에 한국 정치 '금도' 무너진다 - 허프포스트코리아",
-        "published": "Wed, 04 Nov 2026 07:53:03 GMT",
-        "published_kst": "2026-11-04T16:53:03+09:00",
+        "title": "삼전닉스 덮친 '블루 쓰나미'…반도체 수요 꺾일까 [분석+] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dU10Yk9HNUxPQV9yQlpXeGMwY1BhUFdNRWhkSjNNb1ZfcWlQRGtHaHFNeGEyaDVoY04zWUVOc2xhdHpSSWVuZ2dxQ2o0MmtnSVg1V3ZTTDNCdw?oc=5",
+        "summary": "삼전닉스 덮친 '블루 쓰나미'…반도체 수요 꺾일까 [분석+] 한국경제 삼전닉스 덮친 '블루 쓰나미'…반도체 수요 꺾일까 [분석+] - 한국경제",
+        "published": "Wed, 04 Nov 2026 13:00:04 GMT",
+        "published_kst": "2026-11-04T22:00:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험” - 경향신문",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDBiNjVsdVBuS19HM2lnSGJQdDJoTS04QzNCQ2poRWF5aDFXS1g0Q0w1SkxyNWE4Vnh1N29IZGFlUks0SHpES0VfRmVXWFEzMVpBcHR3UWtKdw?oc=5",
-        "summary": "미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험” 경향신문 미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험” - 경향신문",
-        "published": "Wed, 04 Nov 2026 07:53:00 GMT",
-        "published_kst": "2026-11-04T16:53:00+09:00",
+        "title": "[설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련 - 대한민국 정책브리핑",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3lWRGpSUlRzUjlRSlFiSGdrWTBMX3JScHpITl9MTG1weDFWeE9mbjJsenBtXzJQc3c5Q3NfTEpmckUta0ItRmhoV2xKcjdoNDFjUzMtZXB5UnBuVFkzWk80YmVVUGVsSURRZk50QU1GQXg3WmxCZEhuSThVRHlmYmRBbF9hZTk3WlFyUkk1TQ?oc=5",
+        "summary": "[설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련 대한민국 정책브리핑 [설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련 - 대한민국 정책브리핑",
+        "published": "Wed, 04 Nov 2026 12:02:12 GMT",
+        "published_kst": "2026-11-04T21:02:12+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026",
+          "1104"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership - Cincinnati Enquirer",
-        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb2ktSjFHVE5seXVjdVJ6TS1waWhVM3Z6UlpIQ3pVOVF3ZWF6S09qNno2Z002emQycDBuV0NCMkhua0hmY213NEJKTVpEZFBUbU9uZm9MMV9pUEQwMWpmeU02cEk4cnloOE1uY0Q3dVZxcnJ4WllZazVqbXB1dzcwLUNlNExmUU1PeDFqZkZHZVd4WXhSdmpnbGdNQkdDbDdGYU9pclRlZHFOQWE3c21oalM2OEVrZmtPMktBQ1ZwcHVUcjlqZ2FQdWVkbHAwWHZjZFJ2OHRITGt6c1RUVGNOR1BwVWN0aXVjcDl3RWdOMlpUYUVrOUhybEh6b2lVQQ?oc=5",
-        "summary": "Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership Cincinnati Enquirer Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership - Cincinnati Enquirer",
-        "published": "Wed, 04 Nov 2026 07:48:02 GMT",
-        "published_kst": "2026-11-04T16:48:02+09:00",
+        "title": "How Nissan is integrating supply chain data and processes - Automotive Logistics",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdllETzU5NmN5YUpjUnh4LXEyMEY2dmRNdlNJZDVsaEk2Z0JPMjZNeGFKaEdRWnVhVHZfZlVzYjRQRzV3NzNieGZucGNIbXpERl9aNGVkY0Q0aXBESXMzR2MxeS11M1psVEJjMnBQMTg0WjBjckVTUVlfNUNMYk9BTU5veWo2UDNWQk5adTRTbEp2cEtvczZTWXItLVZvWUd4a2J6LUlCX3RYWHBsckZ5aHVEMWE1bmpDd2xCSDJmMUowVF9oX2FqaWlESEJUZWZPR3pyZkZpLTdJYlVsMk9GVmJB?oc=5",
+        "summary": "How Nissan is integrating supply chain data and processes Automotive Logistics How Nissan is integrating supply chain data and processes - Automotive Logistics",
+        "published": "Wed, 04 Nov 2026 12:45:47 GMT",
+        "published_kst": "2026-11-04T21:45:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Securing the Cross-Border Supply Chain: Risk Mitigation and Customs Compliance in U.S.-Mexico Trade - SupplyChainBrain",
-        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZmtVd3lWOG9CVkg3d1JZZUdfYkl5OWFrRGdUTXVjX3pydlJaV3NnX0UyRnFnY0s3X0FiTmdJSEN0LXRITFdIRi1BTHQyME5pRjc2NzJSV19tLUdSOHNGSGs5MkhQZ3d2cmFORjZjRG4xX0RHN1BFUEIwdmZjR0E3MWF3YzJjMkNFOUhzbTRzcHJfMlJGaWc3RDhOZ2Y3UTd1MnUzZzhVQjlCbzA0VTc5cTdGVTU2TGZlblpsOFUtSTVmWWNacFl5bURnQkFieGR6eTk1bVp2bU90WU1TYVh1dFA0cjNSVnRqa25XWHl0ZXB2bzd4TkhZZTVicnE4dk52?oc=5",
-        "summary": "Securing the Cross-Border Supply Chain: Risk Mitigation and Customs Compliance in U.S.-Mexico Trade SupplyChainBrain Securing the Cross-Border Supply Chain: Risk Mitigation and Customs Compliance in U.S.-Mexico Trade - SupplyChainBrain",
-        "published": "Wed, 04 Nov 2026 02:48:42 GMT",
-        "published_kst": "2026-11-04T11:48:42+09:00",
+        "title": "Fibre makers slide 9% as US midterms rattle Tokyo’s AI supply chain - Capacity Media",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkdybTdublZubi1FbEVmQnhKckUxd1NmQ2VRVVhmTFBvNjE2RloyZXcyWFNzOUFGQVMtWThyTUdLRE9JaUItQVhBR2RGYUNaNzA5TUt4RmdSazBNVTNtME1VMFdkaGFpbFZpbkpHaHA1TkhNU3NpVUtfSnFpOEFlZ2VfZmRMWDFieklLS1BiejlyRHFxZnJoa2ZRdw?oc=5",
+        "summary": "Fibre makers slide 9% as US midterms rattle Tokyo’s AI supply chain Capacity Media Fibre makers slide 9% as US midterms rattle Tokyo’s AI supply chain - Capacity Media",
+        "published": "Wed, 04 Nov 2026 12:30:00 GMT",
+        "published_kst": "2026-11-04T21:30:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "9%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The Burden of Uncertainty: How North American Businesses are Shaping Their Response to Tariffs and What Trade Volatility Really Costs - SupplyChainBrain",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdk5xY1Q0alVrbm15bHJheHVFQjFKOS1sUVpkUHA0czF3XzNvcHVNbUluUlBDT3pwS0NIdjlPY0htZHk3Uk9xQ1M3NFpKaG8za1RjZy1yVzh5WDd2dFFfcGxvSkRzQWs0V3VFNGhZQ0JkSE1sYkZOWktXLTZhWE5BRE92eUlGUVhnWmtsa0FzNmRjVFlWMUladGJ3cHI0ZHdLc2d5Q1pFYS1hQld6NGtSR1RYNXozTmVYXzFpYkgzYkx3S0VBMVk4NTJ3SnZaVk0wcC1GMG5oaUdwRXktSEpXZmJGMENtVEJ4RmIyWU0yLWdncHBzeHZ1RlczUHJGY3BfX3J6ZkpDcWVjc3NlMWVDeEZTNWJISjdNR3RQZ21xamt0Y0E?oc=5",
-        "summary": "The Burden of Uncertainty: How North American Businesses are Shaping Their Response to Tariffs and What Trade Volatility Really Costs SupplyChainBrain The Burden of Uncertainty: How North American Businesses are Shaping Their Response to Tariffs and What Trade Volatility Really Costs - SupplyChainBrain",
-        "published": "Wed, 04 Nov 2026 02:48:34 GMT",
-        "published_kst": "2026-11-04T11:48:34+09:00",
+        "title": "DHL Express targets Polish high-growth sector opportunities - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjFEWi11dDFQVl93QlpmY0hBbUhvMjNQNWVPOW5RekhTLXVQdEpsNlBJMDVXemFmVjM3cUFUMmJuMXBMeFFubDQ3VGJvM091LVh5djJpcFNIUTE5c2I4SGowWk9wZFJWU0ZfcVlnSnZNdlF5cGFZSm4xT3lxQmpZMjJndUxTUENtbGJPdVpUZER5T180b18walo0WTdKM3A4?oc=5",
+        "summary": "DHL Express targets Polish high-growth sector opportunities Supply Chain Digital Magazine DHL Express targets Polish high-growth sector opportunities - Supply Chain Digital Magazine",
+        "published": "Wed, 04 Nov 2026 12:11:42 GMT",
+        "published_kst": "2026-11-04T21:11:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +149,6 @@
       }
     ]
   },
-  "wrap_summary": "Rates Spark: A blue wave in the US and euro inflation ing think Rates Spark: A blue wave in the US and euro inflation - ing think / “회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] 세무사신문 “회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] - 세무사신문 / Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership Cincinnati Enquirer Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership - Cincinnati Enquirer",
+  "wrap_summary": "Private-sector job growth held steady in October, with gains spread across sectors Private companies added 86,000 jobs in October, slightly higher than expected, ADP says / [논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 뉴스앤넷 [논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 - 뉴스앤넷 / How Nissan is integrating supply chain data and processes Automotive Logistics How Nissan is integrating supply chain data and processes - Automotive Logistics",
   "invest_summary": ""
 }
