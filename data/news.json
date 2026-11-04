@@ -1,72 +1,76 @@
 {
-  "date": "2026-11-04",
-  "generated_at_utc": "2026-11-04T13:18:35Z",
-  "cutoff_kst": "2026-11-04T22:18:00+09:00",
+  "date": "2026-11-05",
+  "generated_at_utc": "2026-11-04T17:52:34Z",
+  "cutoff_kst": "2026-11-05T02:52:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-        "url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-        "summary": "Private-sector job growth held steady in October, with gains spread across sectors Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-        "published": "Wed, 04 Nov 2026 13:15:03 GMT",
-        "published_kst": "2026-11-04T22:15:03+09:00",
+        "title": "CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+        "url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+        "summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018. CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10%",
+        "published": "Wed, 04 Nov 2026 17:49:47 GMT",
+        "published_kst": "2026-11-05T02:49:47+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
-        "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
-        "summary": "AI fortunes were mixed as premarket trading opened on Wednesday. AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown",
-        "published": "Wed, 04 Nov 2026 13:03:31 GMT",
-        "published_kst": "2026-11-04T22:03:31+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-        "url": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
-        "summary": "midterm elections on Wednesday, flipping key Republican-held seats in Congress. midterm elections in pictures: Democrats' sweeping victories deliver rebuke to Trump",
-        "published": "Wed, 04 Nov 2026 13:02:32 GMT",
-        "published_kst": "2026-11-04T22:02:32+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "World reacts to Democrats’ midterm elections victory - NPR",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTU1qeFYyMUhPLTQ4YzlqSzd4UUxSZk1DSVF2UmthS1BkeFJWb1ByUzQ4MFhySUJWRkJpM1hDZmhmUm5KdjI5NzBXQkpXWXNTR2V5VVdvRlZKYUdlZ2E2dnVJNDVKQS1UemRyRmVFSF9Vc2FvRERReWhQV0V4U19Xag?oc=5",
-        "summary": "World reacts to Democrats’ midterm elections victory NPR World reacts to Democrats’ midterm elections victory - NPR",
-        "published": "Wed, 04 Nov 2026 12:34:35 GMT",
-        "published_kst": "2026-11-04T21:34:35+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Wayfair Q3 2026 Earnings: U.S. Growth Supports a Return to Profit - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcmxXbE11aTdaLVVVeFpHeEV6alNqZGhUVUNRYXFaQ1ByQl92cEt3Rzg0VkUwZ3l5dlNBN0hTaWpEUmVMTml1VkJWMEZLczgwYXE3aWVXZ0Z3TzVKa2tZVw?oc=5",
-        "summary": "Growth Supports a Return to Profit TradingKey Wayfair Q3 2026 Earnings: U.S. Growth Supports a Return to Profit - TradingKey",
-        "published": "Wed, 04 Nov 2026 12:12:12 GMT",
-        "published_kst": "2026-11-04T21:12:12+09:00",
-        "domain": "google.com",
         "key_figures": [
-          "2026"
+          "10%",
+          "$78",
+          "2018"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. Futures Rally After Democrats Take Congress; AMD Pops After Earnings - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1VCMU5INWxvNlZZNDVWWXlab1I2RTRIMFNhbm9DVXQwRnM1dmU3SS1LWHlkNzBwQlVLUmh3M1Zpd2lYUnAtLURjNTdNS3BqaFlCN2VSYXpmYWVFYTBiNDlNUF9kNWhYX1R2bUdmaFBGZjdQcEdrM29qN3RzSElLNEtWMWVickFvc281MHRKWHhrODMtcV9XOEFaTVRRV00zVmpWR3FRMEN3NkZGWEo5VDBZNUUtdw?oc=5",
-        "summary": "Futures Rally After Democrats Take Congress; AMD Pops After Earnings Barchart.com U.S.",
-        "published": "Wed, 04 Nov 2026 11:38:37 GMT",
-        "published_kst": "2026-11-04T20:38:37+09:00",
+        "title": "Back in the majority, Democrats have plans for a long list of Trump investigations - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVU04OU4tZ2ZTNTZqQUNEdFlVUnl3NHM3aWpVOFFmeHNaeFl2bVMzc1VTWWJVVmZPQWRkVHJxTzVyOEx6WkJsd2tYOXo4Uk5hQUZ3ZDRON0R6OW50OHY5YjlPUHc5eEFQTzVMclB5amh0XzFHVV9yLWo3dEVWSFBXQ0pVSHd1UG9o?oc=5",
+        "summary": "Back in the majority, Democrats have plans for a long list of Trump investigations NPR Back in the majority, Democrats have plans for a long list of Trump investigations - NPR",
+        "published": "Wed, 04 Nov 2026 17:38:36 GMT",
+        "published_kst": "2026-11-05T02:38:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Democrats, Trump face off after elections as Washington heads for divided government - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5",
+        "summary": "Democrats, Trump face off after elections as Washington heads for divided government Reuters Democrats, Trump face off after elections as Washington heads for divided government - Reuters",
+        "published": "Wed, 04 Nov 2026 17:33:54 GMT",
+        "published_kst": "2026-11-05T02:33:54+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
+        "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+        "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default. Analysis: The Democrats have one chance to extract concessions from Trump.",
+        "published": "Wed, 04 Nov 2026 17:32:26 GMT",
+        "published_kst": "2026-11-05T02:32:26+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
+        "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+        "summary": "Kraft Heinz will divest its North American coffee business to private equity firm One Rock Capital Partners as CEO Steve Cahillane works to revive the company. Kraft Heinz to divest its North American coffee business in $650 million deal",
+        "published": "Wed, 04 Nov 2026 17:21:06 GMT",
+        "published_kst": "2026-11-05T02:21:06+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$650"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "McDonald's Beats Earnings, but US Sales Tell Another Story - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa050WFBwWXlsckZjYm9QUDZZSGxHWEVjdVlqRXNvR0NwZHFRVmR3Y1g2QUdxdC1EMmRIQjN4NEs3SWlXSERZWTl5OVZwOVNZdEtpc1FHc3hiVW5ibUtwRzAtNGRnSVBIYVFmS3lvNDZ1RDFDYi1GUk9wXzhnNTQydzZ3aTRhMjZVcmZqNEhmMk84TUZtOGhRUFdVbw?oc=5",
+        "summary": "McDonald's Beats Earnings, but US Sales Tell Another Story GuruFocus McDonald's Beats Earnings, but US Sales Tell Another Story - GuruFocus",
+        "published": "Wed, 04 Nov 2026 17:08:49 GMT",
+        "published_kst": "2026-11-05T02:08:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,73 +79,68 @@
     ],
     "kr": [
       {
-        "title": "[논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 - 뉴스앤넷",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBadUxnZm1DaWFNaGIyNFpNMkplRlJBMjhoNXVSYUhXX3NEM3QzMTBFMFhMbDZNN1BBNmZRaTFfWWhCOV9HZ3g1X0xTclBoN3RPekM4Yy1DV1k4M2xWRnF0U2cyYkJMSnNtN2c?oc=5",
-        "summary": "[논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 뉴스앤넷 [논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 - 뉴스앤넷",
-        "published": "Wed, 04 Nov 2026 13:02:47 GMT",
-        "published_kst": "2026-11-04T22:02:47+09:00",
+        "title": "트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 - 뉴스버스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yczZLZTViaWg3WjJsUmFaeTdyNXJ1bXVxWVRRSE53ZDhaS2E3X1BtMFkwU1o5Mi03ZTVKSHFoU1YtbXdJOUlXY2ZXcFJ2LUs3STNwdzc0UTlJdkRVeGhKMGJXQzQ5YnVIREE?oc=5",
+        "summary": "트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 뉴스버스 트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 - 뉴스버스",
+        "published": "Wed, 04 Nov 2026 17:21:12 GMT",
+        "published_kst": "2026-11-05T02:21:12+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "삼전닉스 덮친 '블루 쓰나미'…반도체 수요 꺾일까 [분석+] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dU10Yk9HNUxPQV9yQlpXeGMwY1BhUFdNRWhkSjNNb1ZfcWlQRGtHaHFNeGEyaDVoY04zWUVOc2xhdHpSSWVuZ2dxQ2o0MmtnSVg1V3ZTTDNCdw?oc=5",
-        "summary": "삼전닉스 덮친 '블루 쓰나미'…반도체 수요 꺾일까 [분석+] 한국경제 삼전닉스 덮친 '블루 쓰나미'…반도체 수요 꺾일까 [분석+] - 한국경제",
-        "published": "Wed, 04 Nov 2026 13:00:04 GMT",
-        "published_kst": "2026-11-04T22:00:04+09:00",
+        "title": "日, 러시아에 자동차 불법 수출한 한국 국적 남성 체포 - 중앙일보",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oRnIxZm5OMnpHaU5iemhGdlBaWlJaMTc0c1dYWU83ZmY4dG1FNTEtY19GS0dUaFg4SmFpQ29pbG5xYWE1NG80aWhIMmRicHpiU2FUTmFR?oc=5",
+        "summary": "日, 러시아에 자동차 불법 수출한 한국 국적 남성 체포 중앙일보 日, 러시아에 자동차 불법 수출한 한국 국적 남성 체포 - 중앙일보",
+        "published": "Wed, 04 Nov 2026 16:51:52 GMT",
+        "published_kst": "2026-11-05T01:51:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련 - 대한민국 정책브리핑",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3lWRGpSUlRzUjlRSlFiSGdrWTBMX3JScHpITl9MTG1weDFWeE9mbjJsenBtXzJQc3c5Q3NfTEpmckUta0ItRmhoV2xKcjdoNDFjUzMtZXB5UnBuVFkzWk80YmVVUGVsSURRZk50QU1GQXg3WmxCZEhuSThVRHlmYmRBbF9hZTk3WlFyUkk1TQ?oc=5",
-        "summary": "[설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련 대한민국 정책브리핑 [설명] 20261104 한국경제TV(11.4.) 두나무-네이버 합병 초읽기 기사 관련 - 대한민국 정책브리핑",
-        "published": "Wed, 04 Nov 2026 12:02:12 GMT",
-        "published_kst": "2026-11-04T21:02:12+09:00",
+        "title": "기업 채용문 좁아지는데, 알바도 '바늘구멍' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Q3BTVjVfcnRDQW1HZzVfdk9MbXRrNDU5YzA4Y0hsSHI0clEzNHdraXFxNktkSktpdVdrYXJsczBUbF9BXzVoZDlGaVIyLWVubnllTmtPYU10dw?oc=5",
+        "summary": "기업 채용문 좁아지는데, 알바도 '바늘구멍' 한국경제 기업 채용문 좁아지는데, 알바도 '바늘구멍' - 한국경제",
+        "published": "Wed, 04 Nov 2026 16:39:00 GMT",
+        "published_kst": "2026-11-05T01:39:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026",
-          "1104"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "How Nissan is integrating supply chain data and processes - Automotive Logistics",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdllETzU5NmN5YUpjUnh4LXEyMEY2dmRNdlNJZDVsaEk2Z0JPMjZNeGFKaEdRWnVhVHZfZlVzYjRQRzV3NzNieGZucGNIbXpERl9aNGVkY0Q0aXBESXMzR2MxeS11M1psVEJjMnBQMTg0WjBjckVTUVlfNUNMYk9BTU5veWo2UDNWQk5adTRTbEp2cEtvczZTWXItLVZvWUd4a2J6LUlCX3RYWHBsckZ5aHVEMWE1bmpDd2xCSDJmMUowVF9oX2FqaWlESEJUZWZPR3pyZkZpLTdJYlVsMk9GVmJB?oc=5",
-        "summary": "How Nissan is integrating supply chain data and processes Automotive Logistics How Nissan is integrating supply chain data and processes - Automotive Logistics",
-        "published": "Wed, 04 Nov 2026 12:45:47 GMT",
-        "published_kst": "2026-11-04T21:45:47+09:00",
+        "title": "MH Supply Chain Limited appoints leadership team to drive global automotive logistics joint venture - American Journal of Transportation",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb3dabWMydWlVeGtWS19jYTRfSTZQdUpoYlFfVFRMam5iTmdBSXR1dWxCZm9pRnZleUV2YmhHY2xPSUJJV1VXX0gzOUZuc0ZsQjVQaURjTjV4bzdhQUN0RzF1bW82Zl9mdkZjSmN0ZzRVS05WcGR5Z1JXenhsT2RuUGNoUTZ0d1VhR1RwVkk3NVN3eTBtNVpzSEtTeXdjVm0xS1QxRXZzSnhyaVVaT1N2V0wxZXc5OFJTT1ZoSHhqbklkZ1E?oc=5",
+        "summary": "MH Supply Chain Limited appoints leadership team to drive global automotive logistics joint venture American Journal of Transportation MH Supply Chain Limited appoints leadership team to drive global automotive logistics joint venture - American Journal of Transportation",
+        "published": "Wed, 04 Nov 2026 16:56:00 GMT",
+        "published_kst": "2026-11-05T01:56:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Fibre makers slide 9% as US midterms rattle Tokyo’s AI supply chain - Capacity Media",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkdybTdublZubi1FbEVmQnhKckUxd1NmQ2VRVVhmTFBvNjE2RloyZXcyWFNzOUFGQVMtWThyTUdLRE9JaUItQVhBR2RGYUNaNzA5TUt4RmdSazBNVTNtME1VMFdkaGFpbFZpbkpHaHA1TkhNU3NpVUtfSnFpOEFlZ2VfZmRMWDFieklLS1BiejlyRHFxZnJoa2ZRdw?oc=5",
-        "summary": "Fibre makers slide 9% as US midterms rattle Tokyo’s AI supply chain Capacity Media Fibre makers slide 9% as US midterms rattle Tokyo’s AI supply chain - Capacity Media",
-        "published": "Wed, 04 Nov 2026 12:30:00 GMT",
-        "published_kst": "2026-11-04T21:30:00+09:00",
+        "title": "Scan Global Logistics to Acquire OIA Global - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3BaYzhzZE1SQUREbGJodWdkUm43WndqRERRX1RCQkI5MzcybDE5VVktSEhZUTFQVkJVbjh1eGZRZU9ITzVtSDFNTmpXR01GNk1WRlJsai1oS0MxNkRHSnVPZlJtbEpqYlBTSzdjckFpM1JJby1zVzZMV0NPQ1UtQlo1NHVxREpxUkJjcmFlMHpaU2VoVWc5ZW05cUxsbDZuUS1TcWZKVUV4YzdzN1Z0V3cxbw?oc=5",
+        "summary": "Scan Global Logistics to Acquire OIA Global Supply & Demand Chain Executive Scan Global Logistics to Acquire OIA Global - Supply & Demand Chain Executive",
+        "published": "Wed, 04 Nov 2026 16:44:12 GMT",
+        "published_kst": "2026-11-05T01:44:12+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "9%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "DHL Express targets Polish high-growth sector opportunities - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjFEWi11dDFQVl93QlpmY0hBbUhvMjNQNWVPOW5RekhTLXVQdEpsNlBJMDVXemFmVjM3cUFUMmJuMXBMeFFubDQ3VGJvM091LVh5djJpcFNIUTE5c2I4SGowWk9wZFJWU0ZfcVlnSnZNdlF5cGFZSm4xT3lxQmpZMjJndUxTUENtbGJPdVpUZER5T180b18walo0WTdKM3A4?oc=5",
-        "summary": "DHL Express targets Polish high-growth sector opportunities Supply Chain Digital Magazine DHL Express targets Polish high-growth sector opportunities - Supply Chain Digital Magazine",
-        "published": "Wed, 04 Nov 2026 12:11:42 GMT",
-        "published_kst": "2026-11-04T21:11:42+09:00",
+        "title": "US midterm shake-up: Cheaper oil for India, but tougher Russia sanctions could complicate crude imports - ThePrint",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVE9udng0b0lMYkRCZkZOVjllWWdsVXZDaFpyazBWVTl4TWxjWGRxbW1pQ2ZKYVRmbUdlQjlqM0N1U25kbmswNWh2MjctVDJ4dm5TNzNJdXlsR2ZfUmJqbGY0cUJRU3h6TUFvd2NTYmViczBGcEwwdjRna1JzT0JYZnF5aVE4R0o4N1AwZE9yVVQ3MVEzQkFfRUlqUzNzYnloT2YzdHo3UGVaNWptYnlQVkRzc2o3QkRFMTdiOHBtN1lKejZ5dXRNb2V0NjBrMkVnVy01WdIB2gFBVV95cUxPVlg0STZvd3I4ZXhzOHJySVpNb0pjTWl6MVE4Z1lXcms4c01QNDB1bk5yZXdhVXNTTmRjQTZ5a2ZndnBCVHVLVXJobkcxT3ZJQW0wNGVrUmZINm5uV1g5MjcxTnZjOFE1a0dCYU9TalFFR2tjWDVFUlNqZDBFX2xobm90SlFiQmJKeFRYd2RVZkJKMmlLdzFEbzFIcDhaT0NEb1hKa0VWQVQwV0x1SWR2QVFJcWYxbVNvVWlack9QdkQyNE95bnNTRWVPcHZ1eGc0SHN3NEVydnRWdw?oc=5",
+        "summary": "US midterm shake-up: Cheaper oil for India, but tougher Russia sanctions could complicate crude imports ThePrint US midterm shake-up: Cheaper oil for India, but tougher Russia sanctions could complicate crude imports - ThePrint",
+        "published": "Wed, 04 Nov 2026 16:24:11 GMT",
+        "published_kst": "2026-11-05T01:24:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -149,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Private-sector job growth held steady in October, with gains spread across sectors Private companies added 86,000 jobs in October, slightly higher than expected, ADP says / [논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 뉴스앤넷 [논설] 미국 중간선거 참패, 한국 정치도 변해야 한다 - 뉴스앤넷 / How Nissan is integrating supply chain data and processes Automotive Logistics How Nissan is integrating supply chain data and processes - Automotive Logistics",
+  "wrap_summary": "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018. CVS to split off drugstore business in major breakup of healthcare giant; shares fall 10% / 트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 뉴스버스 트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 - 뉴스버스 / MH Supply Chain Limited appoints leadership team to drive global automotive logistics joint venture American Journal of Transportation MH Supply Chain Limited appoints leadership team to drive global automotive logistics joint venture - American Journal of Transportation",
   "invest_summary": ""
 }
