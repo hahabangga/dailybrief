@@ -1,70 +1,72 @@
 {
   "date": "2026-11-04",
-  "generated_at_utc": "2026-11-04T01:43:48Z",
-  "cutoff_kst": "2026-11-04T10:43:00+09:00",
+  "generated_at_utc": "2026-11-04T08:14:14Z",
+  "cutoff_kst": "2026-11-04T17:14:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida's 20th District - PBS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpTX1hiaDV6UFlvQWFzVWNMR0tRTFBwYjlQdlZSNjNIdEk1YVVUQm1BOGo4S2E0ZDJ3ZngyR1Z5andEbUszV05kS2pJUWdjbHF4R0pqOGV0MnJWSnpNelZfTm82TjUtQ19Ncy1qVVhiSmZGU2doM0pRYnVZM3pxV21BQ0k3YjJPdDFNWjdWSVNnZ2JCM2paVGhHNmg4QVZZSUN3QjBXRmNCUDd1NWxXNmVCb3FmYVVWRWRHQ1pSOUlQWGRG0gHKAUFVX3lxTFBKRHhWZVNnZzB1VTZ1MzIwUlhTMWpUN3JRbU00eEU1R1Q3NTQ4MnNSbVk4RTgyZlh2b3phWHBGOXJQSzdPbHBiNTBLNWZKbTBjcnlvc0FLODdlOTlPZzRsRnNYMHhrcTRjd2dKMTVqNERERGQxLUpOTWFSdmdWODdKajUzTkdOV2s2ZWsyUkFDeWdHVDJSeDQ0TTJlMV9IVUtuUmFRT1g3R2NXQm5VYk9vdzI2SEw5SWtUWl9YRGRZN3h6NG9DdjNnNEE?oc=5",
-        "summary": "House in Florida's 20th District PBS Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida's 20th District - PBS",
-        "published": "Wed, 04 Nov 2026 01:29:31 GMT",
-        "published_kst": "2026-11-04T10:29:31+09:00",
+        "title": "Rates Spark: A blue wave in the US and euro inflation - ing think",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaDY4WDMtUEtiTEx6cC1OODdwaERMc2xPU3UyYkR5RHM4MUJiaXNBTWVQdEpnU1ZINGJhRW9sd0NGVEhEYndYS1ZpS3dvN0Z3Ymk3RVZyaGdESEtTRGhOQkhFR0M5aWZGUmR3QWRrQk10bmlUTmhZbGloTUtWNkQwV0d6aGd6RVFyLTRBbQ?oc=5",
+        "summary": "Rates Spark: A blue wave in the US and euro inflation ing think Rates Spark: A blue wave in the US and euro inflation - ing think",
+        "published": "Wed, 04 Nov 2026 08:08:45 GMT",
+        "published_kst": "2026-11-04T17:08:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The White House Chose the Wrong Day to Piss Off Adéla - The Cut",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMzJMUHhkWUFkcXFfOGVzY2g5c3BpYTRHYTQyUjNSeW12MnFCZW11dzRNZEV4UzNqVXl4N1dIQTZhSGNUcUF4UkwwczlCTzd5RmkteHJaUWh5R1JHZFktbmtsTE1NRFV2TnU2S052RFMxZDhtZ25uXy1SRjhQYXpHeDFGb2hmT1ZSYnE3a0szVi1SLWFj?oc=5",
-        "summary": "The White House Chose the Wrong Day to Piss Off Adéla The Cut The White House Chose the Wrong Day to Piss Off Adéla - The Cut",
-        "published": "Wed, 04 Nov 2026 01:16:05 GMT",
-        "published_kst": "2026-11-04T10:16:05+09:00",
+        "title": "Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
+        "url": "https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html",
+        "summary": "Novo posted quarterly earnings ahead of expectations early Wednesday as sales of its Wegovy pill blew past estimates Novo shares jump 6% as Wegovy pill sales impress, drugmaker hikes outlook",
+        "published": "Wed, 04 Nov 2026 08:06:50 GMT",
+        "published_kst": "2026-11-04T17:06:50+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "6%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFA3Qk9sWVFFclA5aUMzTVlKenJNX25YTU5oenBmQXVqWjlneGxXUWRyZ3FSNE43TmRRcjJnbVEzLXJFazZJTVVMeDVUSE9FRktPQXh6b1FpeWtrbzYyMmFtYThKN3Y2NE9nTUV4a2RQaXpGblMxM2JycTVkTFQ5cG9hV3NObHpnMnFUQ0lxNlVuaHpOR1lUWkxPZ2NZcUctRnNnNjE1NjZEeUZBTWZaYVg4V2lBaDM0?oc=5",
+        "summary": "Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans AP News Democrats win the US House and Senate as voters deliver a strong rebuke to Trump and Republicans - AP News",
+        "published": "Wed, 04 Nov 2026 07:57:00 GMT",
+        "published_kst": "2026-11-04T16:57:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Google responds to political backlash over removing search from schools that ban AI",
-        "url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-        "summary": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews. Google responds to political backlash over removing search from schools that ban AI",
-        "published": "Wed, 04 Nov 2026 01:07:01 GMT",
-        "published_kst": "2026-11-04T10:07:01+09:00",
+        "title": "Economic Calendar: European Inflation and US ADP in Focus 🔎 - XTB.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZVhJNDU0NkdTSGc4M0NXTHpuYjJCamNSNTdkTkJaNU5oU2MyWmlCS05CaGhNWnkyQW52X191anFRSEpra1V0c3MtYXdaMkItUUtkWXpqZlMtU09qbjdqNGx5S1BTVDZCd0oxWlJBVTBVdDVSbGtEZHZ6MEJaMjZzeUlDMDM5c1dlWFBDeVJXcC1WSGF0ZUhzb04wQQ?oc=5",
+        "summary": "Economic Calendar: European Inflation and US ADP in Focus 🔎 XTB.com Economic Calendar: European Inflation and US ADP in Focus 🔎 - XTB.com",
+        "published": "Wed, 04 Nov 2026 07:53:28 GMT",
+        "published_kst": "2026-11-04T16:53:28+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+        "url": "https://www.cnbc.com/2026/11/04/gold-silver-platinum-dollar-midterms.html",
+        "summary": "Precious metals saw strong gains on Tuesday morning, as investors digested a Democratic sweep in the U.S. Gold, silver and precious metals prices jump, dollar dips as Democrats take control of Congress",
+        "published": "Wed, 04 Nov 2026 07:43:43 GMT",
+        "published_kst": "2026-11-04T16:43:43+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The White House has prepared talking points in case Republicans fail in the U.S. congressional elections - Українські Національні Новини (УНН)",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMTJ5VzduQ08yYmo2UWlfVExvRy1NYkFWYlVqUUMydy1uRDZRWDdHeWdNU0J0djZRQVBWY19oNG1rUUNMdkVLaS1NVFRhY3d6V0hlWG0teXljMkd5VTR4elhRYjZ5aHBOXzdfSFdfNVVwcTNDZXhNOFljOTFzejFLdWdycWs0TTQ2ZXg4d3cxM21lbXUzb2Jwd1hVUUJaNHBLVS1iM18xdENhVmF0QjdmeHNqeUUydnF6amU5aGl4UkdjUWvSAcIBQVVfeXFMUGJpTy0wRTU1c3VFTUxWdFhvWXdNMWcyYVBpZjZqLTVyQ0JIeEtPWG9UeEc4NEVwMkxXVjVMd1RwUGtiUEZ4QXFOLVVYVXlXbzVzcmlWOEd3RFpTYnpxWlItVXo4NDFPQi11aERuT0pKYmZkdjhCQTdqLWYtMHY0N19MeUxIM2Nva3NIS25KbG9SeWZFODlwY1hkZ0x1VmRlakxpOFpvdElpUkZzV2w1dGVLU040SUhQUklOS1BseExnclE?oc=5",
-        "summary": "congressional elections Українські Національні Новини (УНН) The White House has prepared talking points in case Republicans fail in the U.S. congressional elections - Українські Національні Новини (УНН)",
-        "published": "Wed, 04 Nov 2026 01:05:30 GMT",
-        "published_kst": "2026-11-04T10:05:30+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
-        "url": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
-        "summary": "Cramer said a new group of technology stocks may be emerging as market leaders. Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
-        "published": "Tue, 03 Nov 2026 23:58:09 GMT",
-        "published_kst": "2026-11-04T08:58:09+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-        "url": "https://www.cnbc.com/2026/11/03/crowdstrikes-new-kill-switch-can-stop-rogue-ai-agents-in-their-tracks-ceo-says.html",
-        "summary": "\"Enabling agents to work safely is a massive market opportunity for CrowdStrike,\" CrowdStrike CEO George Kurtz told CNBC's Jim Cramer. CrowdStrike's new kill switch can stop rogue AI agents in their tracks, CEO says",
-        "published": "Tue, 03 Nov 2026 23:37:07 GMT",
-        "published_kst": "2026-11-04T08:37:07+09:00",
+        "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+        "url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+        "summary": "Treasury yields fell on Tuesday night, as investors sought shelter from a sell-off in equity futures sparked by big victories from Democrats in the U.S. Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
+        "published": "Wed, 04 Nov 2026 07:27:48 GMT",
+        "published_kst": "2026-11-04T16:27:48+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,75 +75,68 @@
     ],
     "kr": [
       {
-        "title": "\"삼전닉스는 괜찮다는데…\" 경고음 끊이지 않는 'AI 베팅' [테크로그] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtcTVEVFI4VXdyN0JhelNWVl81RGlURkg2WHpIamozTHBnNU1SbFJ2QjJmOXp0bmp0cC1BMHdfMG1RbVpkSDM2TWljbC01bFpKOEp0TGdTNkYydw?oc=5",
-        "summary": "\"삼전닉스는 괜찮다는데…\" 경고음 끊이지 않는 'AI 베팅' [테크로그] 한국경제 \"삼전닉스는 괜찮다는데…\" 경고음 끊이지 않는 'AI 베팅' [테크로그] - 한국경제",
-        "published": "Wed, 04 Nov 2026 01:31:16 GMT",
-        "published_kst": "2026-11-04T10:31:16+09:00",
+        "title": "“회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] - 세무사신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44VkZOWW5obUdLLUUteGtKS3RXVGo1WG4wOFVvUnBNNk4tVHNlNHZzLVYzdkcxMmV0V2thQWV6TnY5THBuNEhFVmVKeTk3anhWR2xQR0xmdUNoVC1HMVN5YjZJNUtYYXVEWFRndQ?oc=5",
+        "summary": "“회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] 세무사신문 “회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] - 세무사신문",
+        "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+        "published_kst": "2026-11-04T17:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[속보] 상승 출발했던 코스피·코스닥 하락전환…1%대 하락 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53ckdSQm5keXRjV3VOd1BhenJWT3NjbWZsVWZBb1RCa0NEeDFCdUUxRzhFSkpkdU5kNTd2LVg4WnQ1WUlyZkNCWHNvOUxvUXdDSUt5cmpLLUdiZw?oc=5",
-        "summary": "[속보] 상승 출발했던 코스피·코스닥 하락전환…1%대 하락 한국경제 [속보] 상승 출발했던 코스피·코스닥 하락전환…1%대 하락 - 한국경제",
-        "published": "Wed, 04 Nov 2026 01:25:02 GMT",
-        "published_kst": "2026-11-04T10:25:02+09:00",
+        "title": "[허프 생각] 대통령 연설에 야유, 악수엔 '배신자' 낙인 : 극한 진영 대립에 한국 정치 '금도' 무너진다 - 허프포스트코리아",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oQUVnUG5VaUNOZ3E0a1NMTDNUajFPRWpYd3JEdUx6RnVfeTd6alZlWVVpWXdOaFdKZWlCdU42OXNwdUNoaDNnYWZGYWZMMkF2MVdKUmFiWQ?oc=5",
+        "summary": "[허프 생각] 대통령 연설에 야유, 악수엔 '배신자' 낙인 : 극한 진영 대립에 한국 정치 '금도' 무너진다 허프포스트코리아 [허프 생각] 대통령 연설에 야유, 악수엔 '배신자' 낙인 : 극한 진영 대립에 한국 정치 '금도' 무너진다 - 허프포스트코리아",
+        "published": "Wed, 04 Nov 2026 07:53:03 GMT",
+        "published_kst": "2026-11-04T16:53:03+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "1%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "“코스피 하루 만에 3.59% 급락” …외국인 1조 5000억 원대 순매도 - 용인신문",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dzQ4a1hPOG56aWZldnhPb18yQkhxdUlLc1BZM1F5TnEzU0RZMHJPMk5US1pzVklSM295Nk9TR1BPamRPUUJTWUtxNVFrRlRuMmR6X0ROWl9keWVWS3FhZ2ZtUzQ?oc=5",
-        "summary": "“코스피 하루 만에 3.59% 급락” …외국인 1조 5000억 원대 순매도 용인신문 “코스피 하루 만에 3.59% 급락” …외국인 1조 5000억 원대 순매도 - 용인신문",
-        "published": "Wed, 04 Nov 2026 01:18:07 GMT",
-        "published_kst": "2026-11-04T10:18:07+09:00",
+        "title": "미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험” - 경향신문",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00cDBiNjVsdVBuS19HM2lnSGJQdDJoTS04QzNCQ2poRWF5aDFXS1g0Q0w1SkxyNWE4Vnh1N29IZGFlUks0SHpES0VfRmVXWFEzMVpBcHR3UWtKdw?oc=5",
+        "summary": "미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험” 경향신문 미 ‘블루웨이브’가 한국 경제에 미칠 영향···“셧다운 나면 금융시장과 환율 위험” - 경향신문",
+        "published": "Wed, 04 Nov 2026 07:53:00 GMT",
+        "published_kst": "2026-11-04T16:53:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "3.59%",
-          "5000"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Second Half of Systematic Globalization: Chinese Automakers Need a Data Supply Chain - Gasgoo",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVHRTeGhKZFFUZUFZd0ZaVXZVNFFKZlJ3cm1feExTWXNqMXN0eEUzbFFFRzhvSWYwcmlNNl9icXBqV2ZvOW9nSW5PdEloTF9vUTdtRFpWSF9pRkhRM2JwaVVoc240dkNtT1JzQ2RUVDktVUJ1MG9MSzAtOHZVLWhFOUtoZ0ZrSjRqSHVTVW9sSjFLS09SN050dXZJdFlxb2xQX3RYOFFHSm1WTkNVT1dkbk8tVlhPNXBrQ0E4MFhRUDlPb3gwSTRKWXM3ZFJZNzN6bURYWVJMZU92cDhKd1E?oc=5",
-        "summary": "Second Half of Systematic Globalization: Chinese Automakers Need a Data Supply Chain Gasgoo Second Half of Systematic Globalization: Chinese Automakers Need a Data Supply Chain - Gasgoo",
-        "published": "Wed, 04 Nov 2026 01:19:35 GMT",
-        "published_kst": "2026-11-04T10:19:35+09:00",
+        "title": "Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership - Cincinnati Enquirer",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNb2ktSjFHVE5seXVjdVJ6TS1waWhVM3Z6UlpIQ3pVOVF3ZWF6S09qNno2Z002emQycDBuV0NCMkhua0hmY213NEJKTVpEZFBUbU9uZm9MMV9pUEQwMWpmeU02cEk4cnloOE1uY0Q3dVZxcnJ4WllZazVqbXB1dzcwLUNlNExmUU1PeDFqZkZHZVd4WXhSdmpnbGdNQkdDbDdGYU9pclRlZHFOQWE3c21oalM2OEVrZmtPMktBQ1ZwcHVUcjlqZ2FQdWVkbHAwWHZjZFJ2OHRITGt6c1RUVGNOR1BwVWN0aXVjcDl3RWdOMlpUYUVrOUhybEh6b2lVQQ?oc=5",
+        "summary": "Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership Cincinnati Enquirer Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership - Cincinnati Enquirer",
+        "published": "Wed, 04 Nov 2026 07:48:02 GMT",
+        "published_kst": "2026-11-04T16:48:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Supply Chain Innovation 2026: A Mandate for Creativity and Change - SupplyChainBrain",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNnpOOXJBVExoQkMza1JuWjQxekhVbWQ1ZERkYjlxX2k2NjU1d3FMekZBbjgxZ1lIQzlmajJpYTNmYW9mRjdmM3hPM2ZPNkxuczdkQ1RxWVFyLWtPX2JNMTF2NXpOMEpKTlNoaThpQjF3eURZUU9rb2l6UEIwWDJOSmFBallWRGk1dlZEWng2Q1Rzd1pfeEcwQm5rVlFXRHY1bXVTdWE5bXpPTVVyNm1kSzJZNzdWWENzT3laZnpZak5ITFJzbksxdUxzYkNURDFuWmducGxOeGNvUm5fTWloQmF0OTNuREFpTzhZVk5R?oc=5",
-        "summary": "Supply Chain Innovation 2026: A Mandate for Creativity and Change SupplyChainBrain Supply Chain Innovation 2026: A Mandate for Creativity and Change - SupplyChainBrain",
-        "published": "Tue, 03 Nov 2026 22:22:52 GMT",
-        "published_kst": "2026-11-04T07:22:52+09:00",
+        "title": "Securing the Cross-Border Supply Chain: Risk Mitigation and Customs Compliance in U.S.-Mexico Trade - SupplyChainBrain",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZmtVd3lWOG9CVkg3d1JZZUdfYkl5OWFrRGdUTXVjX3pydlJaV3NnX0UyRnFnY0s3X0FiTmdJSEN0LXRITFdIRi1BTHQyME5pRjc2NzJSV19tLUdSOHNGSGs5MkhQZ3d2cmFORjZjRG4xX0RHN1BFUEIwdmZjR0E3MWF3YzJjMkNFOUhzbTRzcHJfMlJGaWc3RDhOZ2Y3UTd1MnUzZzhVQjlCbzA0VTc5cTdGVTU2TGZlblpsOFUtSTVmWWNacFl5bURnQkFieGR6eTk1bVp2bU90WU1TYVh1dFA0cjNSVnRqa25XWHl0ZXB2bzd4TkhZZTVicnE4dk52?oc=5",
+        "summary": "Securing the Cross-Border Supply Chain: Risk Mitigation and Customs Compliance in U.S.-Mexico Trade SupplyChainBrain Securing the Cross-Border Supply Chain: Risk Mitigation and Customs Compliance in U.S.-Mexico Trade - SupplyChainBrain",
+        "published": "Wed, 04 Nov 2026 02:48:42 GMT",
+        "published_kst": "2026-11-04T11:48:42+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Fluence Energy names interim CEO, CFO amid supply chain hiccups - CFO Dive",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVm05ckF3dTZUbVB1Tl8yaEhmcU03VE1oWWk1R2FCNDVRMFN4NUpVVUdURDZCUFByNHQ1cnNBejM2VzhyZUlUdmlZRl8tV3VzWkdlVUZVT1BuWVd4WUJDa2FVUnB1QnVjdUxsR0REQks4RzRPOGZ2SHlDbnNYRjVUbm1UY2REWWMwS1dxaTJzbw?oc=5",
-        "summary": "Fluence Energy names interim CEO, CFO amid supply chain hiccups CFO Dive Fluence Energy names interim CEO, CFO amid supply chain hiccups - CFO Dive",
-        "published": "Tue, 03 Nov 2026 22:12:29 GMT",
-        "published_kst": "2026-11-04T07:12:29+09:00",
+        "title": "The Burden of Uncertainty: How North American Businesses are Shaping Their Response to Tariffs and What Trade Volatility Really Costs - SupplyChainBrain",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdk5xY1Q0alVrbm15bHJheHVFQjFKOS1sUVpkUHA0czF3XzNvcHVNbUluUlBDT3pwS0NIdjlPY0htZHk3Uk9xQ1M3NFpKaG8za1RjZy1yVzh5WDd2dFFfcGxvSkRzQWs0V3VFNGhZQ0JkSE1sYkZOWktXLTZhWE5BRE92eUlGUVhnWmtsa0FzNmRjVFlWMUladGJ3cHI0ZHdLc2d5Q1pFYS1hQld6NGtSR1RYNXozTmVYXzFpYkgzYkx3S0VBMVk4NTJ3SnZaVk0wcC1GMG5oaUdwRXktSEpXZmJGMENtVEJ4RmIyWU0yLWdncHBzeHZ1RlczUHJGY3BfX3J6ZkpDcWVjc3NlMWVDeEZTNWJISjdNR3RQZ21xamt0Y0E?oc=5",
+        "summary": "The Burden of Uncertainty: How North American Businesses are Shaping Their Response to Tariffs and What Trade Volatility Really Costs SupplyChainBrain The Burden of Uncertainty: How North American Businesses are Shaping Their Response to Tariffs and What Trade Volatility Really Costs - SupplyChainBrain",
+        "published": "Wed, 04 Nov 2026 02:48:34 GMT",
+        "published_kst": "2026-11-04T11:48:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -149,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "House in Florida's 20th District PBS Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida's 20th District - PBS / \"삼전닉스는 괜찮다는데…\" 경고음 끊이지 않는 'AI 베팅' [테크로그] 한국경제 \"삼전닉스는 괜찮다는데…\" 경고음 끊이지 않는 'AI 베팅' [테크로그] - 한국경제 / Second Half of Systematic Globalization: Chinese Automakers Need a Data Supply Chain Gasgoo Second Half of Systematic Globalization: Chinese Automakers Need a Data Supply Chain - Gasgoo",
+  "wrap_summary": "Rates Spark: A blue wave in the US and euro inflation ing think Rates Spark: A blue wave in the US and euro inflation - ing think / “회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] 세무사신문 “회계사 이해충돌 입법 철회하라!”… 한국세무사고시회, 국회 앞 릴레이 1인 시위 [3일차] - 세무사신문 / Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership Cincinnati Enquirer Influential Women: Kassandra O’Brien, Turns Calculated Courage & Cross-Industry Experience Into Supply Chain Leadership - Cincinnati Enquirer",
   "invest_summary": ""
 }
