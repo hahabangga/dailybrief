@@ -1,111 +1,109 @@
 {
-  "date": "2026-11-05",
-  "generated_at_utc": "2026-11-05T13:31:55Z",
-  "cutoff_kst": "2026-11-05T22:31:00+09:00",
+  "date": "2026-11-06",
+  "generated_at_utc": "2026-11-05T17:55:40Z",
+  "cutoff_kst": "2026-11-06T02:55:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
-        "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-        "summary": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy. Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
-        "published": "Thu, 05 Nov 2026 13:26:28 GMT",
-        "published_kst": "2026-11-05T22:26:28+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$1.4"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
-        "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
-        "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers. OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
-        "published": "Thu, 05 Nov 2026 13:22:39 GMT",
-        "published_kst": "2026-11-05T22:22:39+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
-        "url": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
-        "summary": "AI data centers are facing national outcry for draining local water and power supply. Voters rejected AI data centers over resource concerns.",
-        "published": "Thu, 05 Nov 2026 13:00:01 GMT",
-        "published_kst": "2026-11-05T22:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVE0VHd0eUdFbFJ5SzlEV2xKajVxQ296YlR3dm1HOGNoTktqSkl3WGJYd01CT1BjRGhaT3Y4V3hEOUtiXzk1WUxnUFN1emFQaHMya1NyWlZLRVVickVNd1BWaTA5cHpTMmNlZERGUTdOZHlmRDRON2hvUUdiTXQ0eEZlYmxUTnZSRFhrTUdzcDVHZEttQnhWY0g5Y3FTMnNwZ3FudUYyTlotbHJMeEJTblRZZGVHeWs?oc=5",
-        "summary": "Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus FXStreet Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus - FXStreet",
-        "published": "Thu, 05 Nov 2026 12:54:19 GMT",
-        "published_kst": "2026-11-05T21:54:19+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$4"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption' - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnc2bFMxNGlrc1pwZWhmR083YWFZbWl3ZEFGV2dGMjZmNm1rZlRwMTctUXdNTVlHOXpwMVlhczhENk51bWJZU1dzNlRCSEtVUkxsRmkyc2VHQjVlMWVjWUVSTWt6UTktT1VFaHJzSEJ3LVFuUlR3OEpXdGhwVENORGhYMUMxZ2JGSHVMdWJRTWlBbVVXTzR1NWF3QUdoTkc1TXI0MENzaGxjNGE5NDZ0eVRIcVgzUk0?oc=5",
-        "summary": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption' Los Angeles Times After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption' - Los Angeles Times",
-        "published": "Thu, 05 Nov 2026 12:51:15 GMT",
-        "published_kst": "2026-11-05T21:51:15+09:00",
+        "title": "DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms - FOX 4 News Dallas-Fort Worth",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzRoekZBbmJRU1U2eDdPUDY4OGJ2NmhmRlJnS2pkbTBZeGhlWTVmU3NWY1Vqai1Pa0R3RW5vdm5sQV9jX3paM0NxZjQtcHEyU2NMR1p3QWZlbF9kcVhRQjhIRWNUa0ZQRFRKRmZHUGx1TTd4QnBOUkFSVUhXN3ptclZoSnBiNGlUdXJSZHJHWnNNYXM5clFxX3pLZ1B6TzlVVzJwa3ViQWp3c29oZ3FyMkR6blozMkpoLV9BcUR2UlVBb2pZSTNtUg?oc=5",
+        "summary": "DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms FOX 4 News Dallas-Fort Worth DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms - FOX 4 News Dallas-Fort Worth",
+        "published": "Thu, 05 Nov 2026 17:46:53 GMT",
+        "published_kst": "2026-11-06T02:46:53+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "N-Able US earnings beat by $0.02, revenue topped estimates - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3h6WkJBTjFpUzdxb0U0QW8wRzFraEtPNC1CanAzNEx6cVk0NzE0UFdCOTR3Q09VQWZkX2xkZVFlX2x6TG9sRENrSWY4bVh0OTZib2hkZF96TVFIZXFIVmJsVzg0TjZJQ1hJM0FTRFM5OU42Sng4ZHlERjlqRkctWnhlYzAxVGxMWXhuM1BWOXc4MWhrajZ1cGIzVTRDa2ZSZDltUw?oc=5",
-        "summary": "N-Able US earnings beat by $0.02, revenue topped estimates Investing.com N-Able US earnings beat by $0.02, revenue topped estimates - Investing.com",
-        "published": "Thu, 05 Nov 2026 12:42:01 GMT",
-        "published_kst": "2026-11-05T21:42:01+09:00",
+        "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+        "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+        "summary": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home. Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+        "published": "Thu, 05 Nov 2026 17:42:29 GMT",
+        "published_kst": "2026-11-06T02:42:29+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "HSA-eligible health plans in 2027: What to know about tax savings vs. higher deductibles",
+        "url": "https://www.cnbc.com/2026/11/05/hsa-health-plan-2027.html",
+        "summary": "Many employees are eligible to choose an HSA-eligible high-deductible health plan during open enrollment. HSA-eligible health plans in 2027: What to know about tax savings vs.",
+        "published": "Thu, 05 Nov 2026 17:41:16 GMT",
+        "published_kst": "2026-11-06T02:41:16+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2027"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
+        "url": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+        "summary": "From its intraday low to high Thursday, VIX moved more than 11 points, the biggest one-day move since April 9. Wall Street's fear gauge surges the most since April.",
+        "published": "Thu, 05 Nov 2026 17:34:16 GMT",
+        "published_kst": "2026-11-06T02:34:16+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Midterms over, Democrats plunge into wide-open 2028 presidential race - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdXdzQ2lsb2Z4akFLZzFiR3otamdxek1RbXM3WWVWTE9hcXJRR28yMlZ1LU8zb1c2RWpGQ1NRNmVNSXVXVU5BSkJBYmgzeTRoTlNiUFpGX3B0eEdkVWM3ZlVrTVRBRHJOc05WUVFGY2dvcG9YLVhSUlN4S2NhdnlUZk1ZVDRjMGNIa1lBUWVNbGNsNmEtRnBFeDZSdjBRVzJfV2pnWkdSU19yb2JqNERLR1d2NHl0alhPbDVJSlV3?oc=5",
+        "summary": "Midterms over, Democrats plunge into wide-open 2028 presidential race Reuters Midterms over, Democrats plunge into wide-open 2028 presidential race - Reuters",
+        "published": "Thu, 05 Nov 2026 17:19:37 GMT",
+        "published_kst": "2026-11-06T02:19:37+09:00",
         "domain": "google.com",
         "key_figures": [
-          "$0.02"
+          "2028"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Marco Rubio Resignation Rumors Draw White House Denial - Dallas Express",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHVMTUgtUHp4UkM4ak9qb1VvcGsyQU5VaW9FUGNfeUNROVZud2d6UzJCUGN1blNBeUcyZlNxTzJBMXU2cDJfU05PZzA5bzJCaEpNLWJ1SW5FR3ZxLXVmX21KZEx5ZHdPNEVETllIeDdnQ3doQzZVNTUyUFhac1doQXh5OEdOT2Q4X3dZdDF5X2gta1ZZ?oc=5",
+        "summary": "Marco Rubio Resignation Rumors Draw White House Denial Dallas Express Marco Rubio Resignation Rumors Draw White House Denial - Dallas Express",
+        "published": "Thu, 05 Nov 2026 17:19:26 GMT",
+        "published_kst": "2026-11-06T02:19:26+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "주식, 알아야번다 - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDBuVml5VUdTb2stY05mVWNISEM4YmtVV0N0d2huYmgzWjlLNU5aam9nazlZUDlWdUlHcnFlQzhseG9VVURTdHBqV2Z6azA4cmpiXy11RFZnSEJtdTlROFJKU0tKRGdNYm9xV2p3eTc3TGZTTjQyZ2xhUlVDSng3cUxmTXNlTlV4TkotZU5McHBiejFZWnNOLUlMMGRKeF9jWENF?oc=5",
-        "summary": "주식, 알아야번다 한국경제TV 주식, 알아야번다 - 한국경제TV",
-        "published": "Thu, 05 Nov 2026 13:27:49 GMT",
-        "published_kst": "2026-11-05T22:27:49+09:00",
+        "title": "'실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HQUFyUlhFZEZ5LTN2VnFGZmZxZGI5T0V5QXY5RGJzRmVjdVlSVlRUUXJLYWZJMGRiTFIyczd4czhfN0U1dWVWS3hTS0NDTnhvMGZfcFJFeDVldw?oc=5",
+        "summary": "'실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9' 한국경제 '실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9' - 한국경제",
+        "published": "Thu, 05 Nov 2026 17:38:00 GMT",
+        "published_kst": "2026-11-06T02:38:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "의료기기산업협, ‘한국과 유럽 의료기기 규제 체계 웨비나’ 개최 - 메드월드뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNDFtdmNQajNDcVJsWFM2RC1RTXJFTWFzS09iSEZVZldhX2dvSW8zbFQwV0ZsREozM0lfLU9EX2hvS2JrbUk4UkJRbjd1R0JmdjBQWWQxSG5vV3Y2dWR4V1hnRDlIUFFMb2IwTw?oc=5",
-        "summary": "의료기기산업협, ‘한국과 유럽 의료기기 규제 체계 웨비나’ 개최 메드월드뉴스 의료기기산업협, ‘한국과 유럽 의료기기 규제 체계 웨비나’ 개최 - 메드월드뉴스",
-        "published": "Thu, 05 Nov 2026 13:22:11 GMT",
-        "published_kst": "2026-11-05T22:22:11+09:00",
+        "title": "[단독] 대통령이 제안한 '적자기업에 先보조금' 없던 일로 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15ZVRLQUM1dUFDTkVrREpvME1rUkFvanpxeFVwUHYxTWxoWXBaa0lHNW5SVDN2S2pNTk5HWjc2czRPOE5ZMDlrNTVfMjMwc19tWi1sTVgwbHgzZw?oc=5",
+        "summary": "[단독] 대통령이 제안한 '적자기업에 先보조금' 없던 일로 한국경제 [단독] 대통령이 제안한 '적자기업에 先보조금' 없던 일로 - 한국경제",
+        "published": "Thu, 05 Nov 2026 17:07:00 GMT",
+        "published_kst": "2026-11-06T02:07:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94dGs5TkF2c2tMOXFVQjltaTYySVlfM3JxdzlxQy12STk2bkxldkZlODlzdTMyZHZycHk5S1R4WnQ5OVVzcWxWQ1pZbFZnUWFFMkU1VzkzdzI4dFBMcldUT2lSZHJ5MkZ40gFuQVVfeXFMUEtnWkhvcHVaa0J0N2ZjaDNMTHYtOFBJS0FnX3JsdXdtTmZjLXBXTkVBSk1HVjRKdG4yUElTa1hrbkN6bGh6dWtVc2M1ekN6TlE1Tkp2SW5BbkdyUUR0QnlmMHphZlhkX0VpTTV1Wnc?oc=5",
-        "summary": "- 머니투데이 머니투데이 \"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이",
-        "published": "Thu, 05 Nov 2026 12:53:56 GMT",
-        "published_kst": "2026-11-05T21:53:56+09:00",
+        "title": "'일의 양극화'…AI 잘하는 직원에 집중 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SVV6cFQtVmNBUWFpSWlqcEc5dUY4RkF3cUU0clBSTzNNcjNvUjdyRVJkQ2IxZDJXQnJUTlhWdUtYR1I4REtPemF6YXNfUm0wdkN2MFpsRDVwZw?oc=5",
+        "summary": "'일의 양극화'…AI 잘하는 직원에 집중 한국경제 '일의 양극화'…AI 잘하는 직원에 집중 - 한국경제",
+        "published": "Thu, 05 Nov 2026 17:03:00 GMT",
+        "published_kst": "2026-11-06T02:03:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,35 +112,33 @@
     ],
     "world": [
       {
-        "title": "US Treasury sanctions India-based fraud network aiding Iranian oil fleet - www.tokenpost.com",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxY2k0aG1Sa2hiNDVrN29wU3NVUFBLSUJMd1I5NnZtNlgwQ1cwdzRmTnRHS3dDSHVvYnRnRkQ0amZlcFZETUlVZWRQUmF6RXlMa0UxeHdRVk9yYjQ?oc=5",
-        "summary": "US Treasury sanctions India-based fraud network aiding Iranian oil fleet www.tokenpost.com US Treasury sanctions India-based fraud network aiding Iranian oil fleet - www.tokenpost.com",
-        "published": "Thu, 05 Nov 2026 12:40:34 GMT",
-        "published_kst": "2026-11-05T21:40:34+09:00",
+        "title": "Why the world's carmakers are being forced to rewrite their supply chain playbook - Automotive Logistics",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcjRKSFVzREdXYTE1bWc2WHZYMWwydDFLLTZpZjg0ZzVrR204Q0ZBUjhsNWgzZUp0NXZrQVhoSDViWFE5Z1BnNUNNYWdrNXJlOGlNYlN2M0FVbVFwdzJ0eDE1UUFfVnowTEctZ3ZSUTZXbTJ5UEdoMTVZb2Z0cXpGQlJCSGRWV0RRU19VSkJ6UGExazI3cjQxdzlxYWVHV3lzbWlOTnFsaEc1QUJHaTNqeklfTkpkRU1KNGZPNnNxUkEzemQ0WnM1MElXaGNKRHZILUJCQnhEQzdyZw?oc=5",
+        "summary": "Why the world's carmakers are being forced to rewrite their supply chain playbook Automotive Logistics Why the world's carmakers are being forced to rewrite their supply chain playbook - Automotive Logistics",
+        "published": "Thu, 05 Nov 2026 16:37:03 GMT",
+        "published_kst": "2026-11-06T01:37:03+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "ADIPEC 2026 | Shell on supply chain resilience, the Triple 10 Challenge and AI data centres - Oil & Gas Middle East",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa29mQW9ZMmVVV0lOWDN3ZktjS3ZhZjFySHBrZ2djUHFvVng2RU5manItank5Z0RST2EwUkZZei1BU0lOZzFXRDRiaVRZdXlqVFgyN3VXdi1lWHVIUGVTaWtmU05pWVV0Rlo2X0lJMGpQcmRkR3BROG96R3JJM04teEE1ZV9EbGNMV2x2VkhMV2M?oc=5",
-        "summary": "ADIPEC 2026 | Shell on supply chain resilience, the Triple 10 Challenge and AI data centres Oil & Gas Middle East ADIPEC 2026 | Shell on supply chain resilience, the Triple 10 Challenge and AI data centres - Oil & Gas Middle East",
-        "published": "Thu, 05 Nov 2026 12:30:00 GMT",
-        "published_kst": "2026-11-05T21:30:00+09:00",
+        "title": "AutoStore to Acquire Logiqs B.V. to Accelerate Automation - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYV9KdnJ0N2Q3TDExc0dtSjQxUjNNSGs4TTlOY0h4LUJvTDZfaC1ReGxTTDlrWlR4OE85MHZDTmlJaHhDTnZaYnV3ajJteGUzaHJVMlFQRkE3Zzh3VFp6ZDFLWkFFNWdfQy1HaFdveGNIZW9mNkh5VlRmZkc1Qm5lOHdvY21yZ0NacWMtZGZMeG9ZbnNrRE5R?oc=5",
+        "summary": "to Accelerate Automation Supply Chain Digital Magazine AutoStore to Acquire Logiqs B.V. to Accelerate Automation - Supply Chain Digital Magazine",
+        "published": "Thu, 05 Nov 2026 16:34:25 GMT",
+        "published_kst": "2026-11-06T01:34:25+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Petrovietnam ran out of Middle East crude during the Iran war—now it's betting on LNG, wind, and nuclear - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rZzI4Nm9fUnJsOThBLVU0c1NYZU9FV2ExdHh4Rm1WTUVhVEIxNy1xOG9vVjMtTll1TWEzM0FDb1BoMzluUlNaVkZNMTdKLUl0dVRfOTAtRGxaa1BITnZJVFR4TkRRWXpCalFmS2FPSXdUNDQ?oc=5",
-        "summary": "Petrovietnam ran out of Middle East crude during the Iran war—now it's betting on LNG, wind, and nuclear Fortune Petrovietnam ran out of Middle East crude during the Iran war—now it's betting on LNG, wind, and nuclear - Fortune",
-        "published": "Thu, 05 Nov 2026 11:32:00 GMT",
-        "published_kst": "2026-11-05T20:32:00+09:00",
+        "title": "5 ingredients that could become food’s next supply-chain headache - FoodNavigator.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTQ1SFRzcHktRl9SZmlTcTZSb3IwVmlvNkRnMTVOZU9MWmtvaUZhVGFEQmhFS1U5M0IwdTZueUhsRVpETDNVMEtsck51TlhCM1A3VlJKOWZPRXU3WU9IakdTLUsyRHFJYW03M0xQWTZSUS1NbFpTbmo1Mm9sQTZaNWg0MlBzYW9JbmRXd2hHZ1BtQnVGd2x0YUFYMDFiSzhjcEVWQjVMNGJaNzRzcWhrOGdrZVE?oc=5",
+        "summary": "5 ingredients that could become food’s next supply-chain headache FoodNavigator.com 5 ingredients that could become food’s next supply-chain headache - FoodNavigator.com",
+        "published": "Thu, 05 Nov 2026 16:28:55 GMT",
+        "published_kst": "2026-11-06T01:28:55+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -150,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy. Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian / 주식, 알아야번다 한국경제TV 주식, 알아야번다 - 한국경제TV / US Treasury sanctions India-based fraud network aiding Iranian oil fleet www.tokenpost.com US Treasury sanctions India-based fraud network aiding Iranian oil fleet - www.tokenpost.com",
+  "wrap_summary": "DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms FOX 4 News Dallas-Fort Worth DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms - FOX 4 News Dallas-Fort Worth / '실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9' 한국경제 '실적 우등생' 가장 먼저 찾아준다…확 달라진 '한경 프리미엄9' - 한국경제 / Why the world's carmakers are being forced to rewrite their supply chain playbook Automotive Logistics Why the world's carmakers are being forced to rewrite their supply chain playbook - Automotive Logistics",
   "invest_summary": ""
 }
