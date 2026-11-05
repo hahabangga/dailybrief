@@ -1,151 +1,54 @@
 {
   "date": "2026-11-05",
-  "generated_at_utc": "2026-11-04T20:18:03Z",
-  "cutoff_kst": "2026-11-05T05:18:00+09:00",
+  "generated_at_utc": "2026-11-05T01:51:19Z",
+  "cutoff_kst": "2026-11-05T10:51:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Trump focuses on White House construction after Democrats' midterm victories - WBUR",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LTEVaeFNoenVVTklLNkg5R25hODdEZlIwSlB0dGc3SEMyV21rQXh4QWRzeHBlNVMtWlR2Mll0d1NZSDM5YkpmU1VwUDdWdUNKQ2VTUFRlOXpWMTZ1dzlsZ3g1Q2hzWnZhZW9ia3pGbl9UdE9qVWc?oc=5",
-        "summary": "Trump focuses on White House construction after Democrats' midterm victories WBUR Trump focuses on White House construction after Democrats' midterm victories - WBUR",
-        "published": "Wed, 04 Nov 2026 20:06:56 GMT",
-        "published_kst": "2026-11-05T05:06:56+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Why we're kicking CVS out of our Bullpen watchlist. Plus, Intel's CEO makes a stand",
-        "url": "https://www.cnbc.com/investingclub/2026/11/04/why-were-kicking-cvs-out-of-our-bullpen-watchlist-plus-intels-ceo-makes-a-stand.html",
-        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Why we're kicking CVS out of our Bullpen watchlist.",
-        "published": "Wed, 04 Nov 2026 20:05:55 GMT",
-        "published_kst": "2026-11-05T05:05:55+09:00",
+        "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
+        "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+        "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now. White House panel delays hearing on Fed's Lisa Cook to Dec.",
+        "published": "Thu, 05 Nov 2026 01:11:26 GMT",
+        "published_kst": "2026-11-05T10:11:26+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "2025"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war - AP News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemZtNHA3MndVd0YwZEZjYVZSdXA5NVpnXzhpUnY5Mkp5U2lBTnBtNEV6dVB0LUJZVXBDV2lUNnNHbTczNWFVVEtXUVhFdlUxdm5sOWl6U0JFMjhGXzgzQ19GNXdrNUVJMlB4czlkenlNOUctMGllMmFLRTJrVXl0T1hoQ1ZUcmI4N0xxU18wTEhuQUNHYm5mNFhNc0pVRjJqY0s0clotUW42czd0TTRCNw?oc=5",
-        "summary": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war AP News Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war - AP News",
-        "published": "Wed, 04 Nov 2026 20:05:00 GMT",
-        "published_kst": "2026-11-05T05:05:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+        "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
+        "summary": "NextDC shares surged more than 40% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake. NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+        "published": "Thu, 05 Nov 2026 00:24:57 GMT",
+        "published_kst": "2026-11-05T09:24:57+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "43%",
+          "40%",
+          "9.9%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-        "url": "https://www.cnbc.com/2026/11/04/wayfair-w-q3-2026-earnings.html",
-        "summary": "Wayfair said its sales jumped 10% in the third quarter as the retailer posted its strongest quarter since the pandemic. Wayfair sales jump 10% as furniture retailer says it's winning share of sluggish market",
-        "published": "Wed, 04 Nov 2026 20:04:26 GMT",
-        "published_kst": "2026-11-05T05:04:26+09:00",
+        "title": "Snap shares fall over 10% on third-quarter revenue miss",
+        "url": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
+        "summary": "Snap misses on revenue and daily active users in third-quarter earnings reported Wednesday. Snap shares fall over 10% on third-quarter revenue miss",
+        "published": "Thu, 05 Nov 2026 00:14:47 GMT",
+        "published_kst": "2026-11-05T09:14:47+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "10%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
-        "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
-        "summary": "Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own. CVS Health plans to split itself up.",
-        "published": "Wed, 04 Nov 2026 19:58:41 GMT",
-        "published_kst": "2026-11-05T04:58:41+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Knives Are Out in the White House - WIRED",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdDB3X2NIR3U3X3NRVm9DcnB1cTh6WExMYmxONHpVemtNcUFDQjcwLUd0eFlRaklGbndTQXFJSm1WN29qTzVwWDV2XzRiRWhqa19zX1ZYblN1ODczYmgteWVWZW1ta0J5UlVDZ0lWTQ?oc=5",
-        "summary": "Knives Are Out in the White House WIRED Knives Are Out in the White House - WIRED",
-        "published": "Wed, 04 Nov 2026 19:32:00 GMT",
-        "published_kst": "2026-11-05T04:32:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "kr": [
-      {
-        "title": "\"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94dGs5TkF2c2tMOXFVQjltaTYySVlfM3JxdzlxQy12STk2bkxldkZlODlzdTMyZHZycHk5S1R4WnQ5OVVzcWxWQ1pZbFZnUWFFMkU1VzkzdzI4dFBMcldUT2lSZHJ5MkZ40gFuQVVfeXFMUEtnWkhvcHVaa0J0N2ZjaDNMTHYtOFBJS0FnX3JsdXdtTmZjLXBXTkVBSk1HVjRKdG4yUElTa1hrbkN6bGh6dWtVc2M1ekN6TlE1Tkp2SW5BbkdyUUR0QnlmMHphZlhkX0VpTTV1Wnc?oc=5",
-        "summary": "- 머니투데이 머니투데이 \"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이",
-        "published": "Wed, 04 Nov 2026 18:43:47 GMT",
-        "published_kst": "2026-11-05T03:43:47+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 - 뉴스버스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yczZLZTViaWg3WjJsUmFaeTdyNXJ1bXVxWVRRSE53ZDhaS2E3X1BtMFkwU1o5Mi03ZTVKSHFoU1YtbXdJOUlXY2ZXcFJ2LUs3STNwdzc0UTlJdkRVeGhKMGJXQzQ5YnVIREE?oc=5",
-        "summary": "트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 뉴스버스 트럼프 덮친 '블루 쓰나미'...한국엔 반도체 AI 규제 등 새 시험대 - 뉴스버스",
-        "published": "Wed, 04 Nov 2026 17:21:12 GMT",
-        "published_kst": "2026-11-05T02:21:12+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[기자수첩] 반도체의 눈부신 호황, 한국 경제는 한쪽 날개로 날 수 없다 - 현대경제",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80R2E2eUItQWhQMHZseExWa0liRW5RMWZwVzFaOXNiNEJWdWFGT0hrOFhTdGhpRy1jNTNlckhBc1c5bkx0N0F6X1BYRmh1Q3ItV3BXVVRKOXRoVS1mYk5Ubldja1FzZ2VrQldR?oc=5",
-        "summary": "[기자수첩] 반도체의 눈부신 호황, 한국 경제는 한쪽 날개로 날 수 없다 현대경제 [기자수첩] 반도체의 눈부신 호황, 한국 경제는 한쪽 날개로 날 수 없다 - 현대경제",
-        "published": "Wed, 04 Nov 2026 13:15:04 GMT",
-        "published_kst": "2026-11-04T22:15:04+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      }
-    ],
-    "world": [
-      {
-        "title": "Kearney’s forecasts supply chain cost increases of 2.7-6.7%, United States. News story in Forkliftaction News - Forkliftaction",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXFoc3pjVUxEUGp1OTFZRHoyNlhtYlBsWjdQQjY4WkRvcW5BUXA4dlBjdXN5aWh2Tmp0YkVwUFB3YWZ0QlczNnBpOUYzLW9hSzAwTFc2XzFkQWs2OGRXUTA5ZGRteFhyWWQ2MFlNNFB4Q2RveWNwMk5TVWZwZmdXTHJIY2ZmY1k5QURXdkYya1dEcHY2VVRZNHNBVnVUdmlnbmhWYV9PVkliQQ?oc=5",
-        "summary": "News story in Forkliftaction News Forkliftaction Kearney’s forecasts supply chain cost increases of 2.7-6.7%, United States. News story in Forkliftaction News - Forkliftaction",
-        "published": "Wed, 04 Nov 2026 19:48:40 GMT",
-        "published_kst": "2026-11-05T04:48:40+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "6.7%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Supply Chain Resilience Was in Focus at CPHI Milan - PharmTech.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3pWcGlVdUdTU2N1MGZUZV85Z1ZJdENncE83S2ZfSTlXV2pUNGFDUnVNVm15dmhHYzVuU1RLcU9QY08taHRibkJaMTFIWXZ5akVRNVNRaHFnR290NVQxcTJBZFdmamhkMDRONW5VRWdUTFM0dlA1VXFNMFhuQlN3LWtONHVBZFVE?oc=5",
-        "summary": "Supply Chain Resilience Was in Focus at CPHI Milan PharmTech.com Supply Chain Resilience Was in Focus at CPHI Milan - PharmTech.com",
-        "published": "Wed, 04 Nov 2026 18:54:12 GMT",
-        "published_kst": "2026-11-05T03:54:12+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Securing The Supply Chain: A Survey Of Contrasting Global Approaches To Critical Minerals Strategic Reserves - JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQlFOS2xjVG16akxnb1pBVlBHcW9tVWotSTdhYWc4UUlBN2ZEU2pPU3BueVhIUG9JTnBoMFNZUDdZd0FXblcydGdBMWVQOVM4elFqblI3NVFyR1hlRWY1eHEyNlo4UmRhcy1jdkhzNWJtUDJxNnB1WV9Ea0poYm5ZdC1JNHVhOE0?oc=5",
-        "summary": "Securing The Supply Chain: A Survey Of Contrasting Global Approaches To Critical Minerals Strategic Reserves JD Supra Securing The Supply Chain: A Survey Of Contrasting Global Approaches To Critical Minerals Strategic Reserves - JD Supra",
-        "published": "Wed, 04 Nov 2026 18:01:58 GMT",
-        "published_kst": "2026-11-05T03:01:58+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      }
-    ]
+    "kr": [],
+    "world": []
   },
-  "wrap_summary": "Trump focuses on White House construction after Democrats' midterm victories WBUR Trump focuses on White House construction after Democrats' midterm victories - WBUR / - 머니투데이 머니투데이 \"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이 / News story in Forkliftaction News Forkliftaction Kearney’s forecasts supply chain cost increases of 2.7-6.7%, United States. News story in Forkliftaction News - Forkliftaction",
+  "wrap_summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now. White House panel delays hearing on Fed's Lisa Cook to Dec.",
   "invest_summary": ""
 }
