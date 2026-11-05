@@ -1,54 +1,154 @@
 {
   "date": "2026-11-05",
-  "generated_at_utc": "2026-11-05T01:51:19Z",
-  "cutoff_kst": "2026-11-05T10:51:00+09:00",
+  "generated_at_utc": "2026-11-05T08:39:36Z",
+  "cutoff_kst": "2026-11-05T17:39:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
-        "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
-        "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now. White House panel delays hearing on Fed's Lisa Cook to Dec.",
-        "published": "Thu, 05 Nov 2026 01:11:26 GMT",
-        "published_kst": "2026-11-05T10:11:26+09:00",
+        "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
+        "url": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
+        "summary": "South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026. From tanks to drones: South Korea’s defense firms face a new battlefield test",
+        "published": "Thu, 05 Nov 2026 08:07:43 GMT",
+        "published_kst": "2026-11-05T17:07:43+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2025"
+          "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
+        "title": "Jobs Report vs. Midterms in the Fight to Steer Gold and the Dollar - StoneX",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVQxcDU5Y3E3MlFudHJNWl9nbGw3SnJqckJub1p6azl5OVZ5TTQzR0dLdUFIRUtrZ3JnOUJiNEdSckJQbmQ4ZEtldFI0YTdEVkFGU2tNYUxxYU8zLVdhdUdiZWVtMTlFOUZndUxzZG9vaTRRb2Vla3QtMDE5NHlFM1EtS2h0aDdFTURfNEpuX3hEaGhZUTNUcTVsVEExZWJEc3E3QmREWQ?oc=5",
+        "summary": "Midterms in the Fight to Steer Gold and the Dollar StoneX Jobs Report vs.",
+        "published": "Thu, 05 Nov 2026 08:06:09 GMT",
+        "published_kst": "2026-11-05T17:06:09+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
+        "summary": "Trump's political humbling signals short-term gain, long-term pain for China Reuters Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
+        "published": "Thu, 05 Nov 2026 07:57:00 GMT",
+        "published_kst": "2026-11-05T16:57:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Sumitomo Forestry: TPH lifts sales, but U.S. housing weakness cuts earnings and FY26 guidance - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdm4zaTZPVU5qcEpBVXNXQzFORENMRzgxS1g2SWNUcGo4WS03VXNoaElBUV9EMVdKdzNuOXVSUmo5ejZiQnQ3VmlLS2N1VlJhMEJZVmxmczl5bjhKRklNZDU2RmhrTW9HWThDWkoydU13aWJ6ZDFScUlUYWE4Y21xNWo2THZiX0dydk5wTU1FcDl1YnpMQlp4T09uc2dNYklJSE5UVi1TRzlXbEdZRXFjc0JuelhOQ1g0a1A3VzVxUUxoVzNvbzdZUGF6NnBLWTBrb1g1RWxSVHlDaHZHVGEyT2ljcUVMaHpnNDVjTC0zWWVITDg3S29RLXVRSVZiSVNibUNN?oc=5",
+        "summary": "housing weakness cuts earnings and FY26 guidance TradingView Sumitomo Forestry: TPH lifts sales, but U.S. Sumitomo Forestry: TPH lifts sales, but U.S.",
+        "published": "Thu, 05 Nov 2026 07:56:00 GMT",
+        "published_kst": "2026-11-05T16:56:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+        "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+        "summary": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs. Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+        "published": "Thu, 05 Nov 2026 07:30:58 GMT",
+        "published_kst": "2026-11-05T16:30:58+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "41%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
         "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
-        "summary": "NextDC shares surged more than 40% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake. NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
-        "published": "Thu, 05 Nov 2026 00:24:57 GMT",
-        "published_kst": "2026-11-05T09:24:57+09:00",
+        "summary": "NextDC shares surged nearly 51% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake. NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
+        "published": "Thu, 05 Nov 2026 07:15:43 GMT",
+        "published_kst": "2026-11-05T16:15:43+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "43%",
-          "40%",
+          "51%",
           "9.9%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Snap shares fall over 10% on third-quarter revenue miss",
-        "url": "https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html",
-        "summary": "Snap misses on revenue and daily active users in third-quarter earnings reported Wednesday. Snap shares fall over 10% on third-quarter revenue miss",
-        "published": "Thu, 05 Nov 2026 00:14:47 GMT",
-        "published_kst": "2026-11-05T09:14:47+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "10%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "kr": [],
-    "world": []
+    "kr": [
+      {
+        "title": "'일의 양극화'…AI 잘하는 직원에 집중 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SVV6cFQtVmNBUWFpSWlqcEc5dUY4RkF3cUU0clBSTzNNcjNvUjdyRVJkQ2IxZDJXQnJUTlhWdUtYR1I4REtPemF6YXNfUm0wdkN2MFpsRDVwZw?oc=5",
+        "summary": "'일의 양극화'…AI 잘하는 직원에 집중 한국경제 '일의 양극화'…AI 잘하는 직원에 집중 - 한국경제",
+        "published": "Thu, 05 Nov 2026 08:27:35 GMT",
+        "published_kst": "2026-11-05T17:27:35+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[데스크 칼럼] 글로벌 의약품 규제 협력, 한국 기업의 해외 진출 기회로 연결해야 - 헬스코리아뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vc0d0R2pLR01UM2NsOXJlV0hpVURJbDV3T19MQW1HbTNNQTNkV1RZclAtSHhpOXU2eGI2WE9yNC0tVEFhQWxDM0RZM3NlUUdlQ0pSNEFINEIwZEhDUF82ZjBueFFBRVE?oc=5",
+        "summary": "[데스크 칼럼] 글로벌 의약품 규제 협력, 한국 기업의 해외 진출 기회로 연결해야 헬스코리아뉴스 [데스크 칼럼] 글로벌 의약품 규제 협력, 한국 기업의 해외 진출 기회로 연결해야 - 헬스코리아뉴스",
+        "published": "Thu, 05 Nov 2026 08:26:23 GMT",
+        "published_kst": "2026-11-05T17:26:23+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"AI 멈춰도 대응 가능한 경험형 직업훈련 필요\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTQVkxMW9ybE5jbVVlUzJJVk1HZHJQcEg1YlV2S1dYaFlaZjBtVERDb0dWS0FFeGFsVUdUQnhvZHRkYlF1RGRHUGpCT3NEd3RUZFhldHN3cDF6UQ?oc=5",
+        "summary": "\"AI 멈춰도 대응 가능한 경험형 직업훈련 필요\" 한국경제 \"AI 멈춰도 대응 가능한 경험형 직업훈련 필요\" - 한국경제",
+        "published": "Thu, 05 Nov 2026 08:25:08 GMT",
+        "published_kst": "2026-11-05T17:25:08+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ],
+    "world": [
+      {
+        "title": "Form 4 Ecolab : Benjamin M. Clark (EVP - Global Supply Chain) For: 2 November - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0Z1dWpScmM0STViUnhTR3U5UGRtQU95TTNINUpsOW1lX2lfZEEzcFpOcHJJYUJyaE5odFdVc3J0dkh2TUxnM3NQZnNTZHRKandOenNXLVJGLU1hcGZ3dTdsRkhCeWJ2M2tJcUNJcE9GblpMS3JEYi1DY3haNTJwTF9qbDRadHBtRk5hbEs0TWs4MlAxcEFheWprX1ZGaFZTX0NWRHdqdWJHa1VGbzVURmwwcjF2UWVHblNaemFsZGVHOGN5dUZSWFZPU08?oc=5",
+        "summary": "Clark (EVP - Global Supply Chain) For: 2 November Investing.com UK Form 4 Ecolab : Benjamin M. Clark (EVP - Global Supply Chain) For: 2 November - Investing.com UK",
+        "published": "Thu, 05 Nov 2026 07:32:00 GMT",
+        "published_kst": "2026-11-05T16:32:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Op-ED. How 4PL Helps Manufacturers Build More Resilient Supply Chains - DirectIndustry e-Magazine",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXhNWk5CXy1BSzZPM3JkT0tvWUJDODRJd3ZiRW9NYWZ0bC1sdS04Q3ViWUhyd0hQV2RoR3U2RXJQRmlFVjBORHRjdTgyVkhONVBtWF9xSGhYaTJ6UlBYbjdSajlWOXpqdXNXSklxSldyRVZrRDlzMWozUVpBajl1MHl4QUdCMkJOVWdST2Y5eU9qQ1BPZXpZQ3FwTVgxRkxwVzk4cnItQjduSkh5N2VQVWZabGF4VWREVXFBcmhMMkVkSm5HTFlJ?oc=5",
+        "summary": "How 4PL Helps Manufacturers Build More Resilient Supply Chains DirectIndustry e-Magazine Op-ED.",
+        "published": "Thu, 05 Nov 2026 07:30:00 GMT",
+        "published_kst": "2026-11-05T16:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain - EIN Presswire",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0diRzdGbkhTV0EtRDFuMHRWVVA2VG5TYzNRaUFVQ0Nta09mck5rLS15RkZRNTROUEtZd3l1U05qZl80YzZKMTZsR0wzM3p3bkxtRTltdHRjZmd0U0d2ekcxQWxxNUJGYWNKY1JvM1RoT0FydmF5QnV3cmhJV1psRVlVRzRybzhLd184M01pVEFySjlxZ2Z6VTlvU0ZnUnBXOVRQdmdUdUNzZmNleGp2dWFqdTdOdDlQVEd6NGM3SF9heXlmWHNIY0FZdl9rMmVTVl82Z3BOTTJ3T055Q1E?oc=5",
+        "summary": "Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain EIN Presswire Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain - EIN Presswire",
+        "published": "Thu, 05 Nov 2026 06:32:00 GMT",
+        "published_kst": "2026-11-05T15:32:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ]
   },
-  "wrap_summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now. White House panel delays hearing on Fed's Lisa Cook to Dec.",
+  "wrap_summary": "South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026. From tanks to drones: South Korea’s defense firms face a new battlefield test / '일의 양극화'…AI 잘하는 직원에 집중 한국경제 '일의 양극화'…AI 잘하는 직원에 집중 - 한국경제 / Clark (EVP - Global Supply Chain) For: 2 November Investing.com UK Form 4 Ecolab : Benjamin M. Clark (EVP - Global Supply Chain) For: 2 November - Investing.com UK",
   "invest_summary": ""
 }
