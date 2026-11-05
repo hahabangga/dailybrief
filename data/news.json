@@ -1,78 +1,77 @@
 {
   "date": "2026-11-05",
-  "generated_at_utc": "2026-11-05T08:39:36Z",
-  "cutoff_kst": "2026-11-05T17:39:00+09:00",
+  "generated_at_utc": "2026-11-05T13:31:55Z",
+  "cutoff_kst": "2026-11-05T22:31:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
-        "url": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
-        "summary": "South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026. From tanks to drones: South Korea’s defense firms face a new battlefield test",
-        "published": "Thu, 05 Nov 2026 08:07:43 GMT",
-        "published_kst": "2026-11-05T17:07:43+09:00",
+        "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
+        "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+        "summary": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy. Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
+        "published": "Thu, 05 Nov 2026 13:26:28 GMT",
+        "published_kst": "2026-11-05T22:26:28+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2026"
+          "$1.4"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Jobs Report vs. Midterms in the Fight to Steer Gold and the Dollar - StoneX",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVQxcDU5Y3E3MlFudHJNWl9nbGw3SnJqckJub1p6azl5OVZ5TTQzR0dLdUFIRUtrZ3JnOUJiNEdSckJQbmQ4ZEtldFI0YTdEVkFGU2tNYUxxYU8zLVdhdUdiZWVtMTlFOUZndUxzZG9vaTRRb2Vla3QtMDE5NHlFM1EtS2h0aDdFTURfNEpuX3hEaGhZUTNUcTVsVEExZWJEc3E3QmREWQ?oc=5",
-        "summary": "Midterms in the Fight to Steer Gold and the Dollar StoneX Jobs Report vs.",
-        "published": "Thu, 05 Nov 2026 08:06:09 GMT",
-        "published_kst": "2026-11-05T17:06:09+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQVBkVEFRMUNIQ0xmQVZXR1lLZmJBeVJiMXJMalZKLTRCaG00cmhCWjVKQjZmUUh3ajlGY3hjejlwRm40M1BNVXlwWFJjcXU0Um40QVNQY1BjNEZFbGF0RUdvamZYNlBCelY2UFBuOHVzU2pRYWk5RXRPbjU5QkdwcUo2cXhKU2JqMy01ZHpoQk5MbTg2a19rdXRCR1JLeFI2RzJMNDNtMm9LelZOWS1vaVpyNG5GS2pManc?oc=5",
-        "summary": "Trump's political humbling signals short-term gain, long-term pain for China Reuters Trump's political humbling signals short-term gain, long-term pain for China - Reuters",
-        "published": "Thu, 05 Nov 2026 07:57:00 GMT",
-        "published_kst": "2026-11-05T16:57:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Sumitomo Forestry: TPH lifts sales, but U.S. housing weakness cuts earnings and FY26 guidance - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdm4zaTZPVU5qcEpBVXNXQzFORENMRzgxS1g2SWNUcGo4WS03VXNoaElBUV9EMVdKdzNuOXVSUmo5ejZiQnQ3VmlLS2N1VlJhMEJZVmxmczl5bjhKRklNZDU2RmhrTW9HWThDWkoydU13aWJ6ZDFScUlUYWE4Y21xNWo2THZiX0dydk5wTU1FcDl1YnpMQlp4T09uc2dNYklJSE5UVi1TRzlXbEdZRXFjc0JuelhOQ1g0a1A3VzVxUUxoVzNvbzdZUGF6NnBLWTBrb1g1RWxSVHlDaHZHVGEyT2ljcUVMaHpnNDVjTC0zWWVITDg3S29RLXVRSVZiSVNibUNN?oc=5",
-        "summary": "housing weakness cuts earnings and FY26 guidance TradingView Sumitomo Forestry: TPH lifts sales, but U.S. Sumitomo Forestry: TPH lifts sales, but U.S.",
-        "published": "Thu, 05 Nov 2026 07:56:00 GMT",
-        "published_kst": "2026-11-05T16:56:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
-        "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
-        "summary": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs. Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
-        "published": "Thu, 05 Nov 2026 07:30:58 GMT",
-        "published_kst": "2026-11-05T16:30:58+09:00",
+        "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+        "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+        "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers. OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
+        "published": "Thu, 05 Nov 2026 13:22:39 GMT",
+        "published_kst": "2026-11-05T22:22:39+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
+        "url": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
+        "summary": "AI data centers are facing national outcry for draining local water and power supply. Voters rejected AI data centers over resource concerns.",
+        "published": "Thu, 05 Nov 2026 13:00:01 GMT",
+        "published_kst": "2026-11-05T22:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVE0VHd0eUdFbFJ5SzlEV2xKajVxQ296YlR3dm1HOGNoTktqSkl3WGJYd01CT1BjRGhaT3Y4V3hEOUtiXzk1WUxnUFN1emFQaHMya1NyWlZLRVVickVNd1BWaTA5cHpTMmNlZERGUTdOZHlmRDRON2hvUUdiTXQ0eEZlYmxUTnZSRFhrTUdzcDVHZEttQnhWY0g5Y3FTMnNwZ3FudUYyTlotbHJMeEJTblRZZGVHeWs?oc=5",
+        "summary": "Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus FXStreet Gold stalls below $4,150 as US Dollar regains ground, US jobs data in focus - FXStreet",
+        "published": "Thu, 05 Nov 2026 12:54:19 GMT",
+        "published_kst": "2026-11-05T21:54:19+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "41%"
+          "$4"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
-        "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
-        "summary": "NextDC shares surged nearly 51% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake. NextDC shares soar nearly 51% after Goodman, Digital Realty stake purchases",
-        "published": "Thu, 05 Nov 2026 07:15:43 GMT",
-        "published_kst": "2026-11-05T16:15:43+09:00",
-        "domain": "cnbc.com",
+        "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption' - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNnc2bFMxNGlrc1pwZWhmR083YWFZbWl3ZEFGV2dGMjZmNm1rZlRwMTctUXdNTVlHOXpwMVlhczhENk51bWJZU1dzNlRCSEtVUkxsRmkyc2VHQjVlMWVjWUVSTWt6UTktT1VFaHJzSEJ3LVFuUlR3OEpXdGhwVENORGhYMUMxZ2JGSHVMdWJRTWlBbVVXTzR1NWF3QUdoTkc1TXI0MENzaGxjNGE5NDZ0eVRIcVgzUk0?oc=5",
+        "summary": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption' Los Angeles Times After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption' - Los Angeles Times",
+        "published": "Thu, 05 Nov 2026 12:51:15 GMT",
+        "published_kst": "2026-11-05T21:51:15+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "N-Able US earnings beat by $0.02, revenue topped estimates - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3h6WkJBTjFpUzdxb0U0QW8wRzFraEtPNC1CanAzNEx6cVk0NzE0UFdCOTR3Q09VQWZkX2xkZVFlX2x6TG9sRENrSWY4bVh0OTZib2hkZF96TVFIZXFIVmJsVzg0TjZJQ1hJM0FTRFM5OU42Sng4ZHlERjlqRkctWnhlYzAxVGxMWXhuM1BWOXc4MWhrajZ1cGIzVTRDa2ZSZDltUw?oc=5",
+        "summary": "N-Able US earnings beat by $0.02, revenue topped estimates Investing.com N-Able US earnings beat by $0.02, revenue topped estimates - Investing.com",
+        "published": "Thu, 05 Nov 2026 12:42:01 GMT",
+        "published_kst": "2026-11-05T21:42:01+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "51%",
-          "9.9%"
+          "$0.02"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -80,33 +79,33 @@
     ],
     "kr": [
       {
-        "title": "'일의 양극화'…AI 잘하는 직원에 집중 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04SVV6cFQtVmNBUWFpSWlqcEc5dUY4RkF3cUU0clBSTzNNcjNvUjdyRVJkQ2IxZDJXQnJUTlhWdUtYR1I4REtPemF6YXNfUm0wdkN2MFpsRDVwZw?oc=5",
-        "summary": "'일의 양극화'…AI 잘하는 직원에 집중 한국경제 '일의 양극화'…AI 잘하는 직원에 집중 - 한국경제",
-        "published": "Thu, 05 Nov 2026 08:27:35 GMT",
-        "published_kst": "2026-11-05T17:27:35+09:00",
+        "title": "주식, 알아야번다 - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDBuVml5VUdTb2stY05mVWNISEM4YmtVV0N0d2huYmgzWjlLNU5aam9nazlZUDlWdUlHcnFlQzhseG9VVURTdHBqV2Z6azA4cmpiXy11RFZnSEJtdTlROFJKU0tKRGdNYm9xV2p3eTc3TGZTTjQyZ2xhUlVDSng3cUxmTXNlTlV4TkotZU5McHBiejFZWnNOLUlMMGRKeF9jWENF?oc=5",
+        "summary": "주식, 알아야번다 한국경제TV 주식, 알아야번다 - 한국경제TV",
+        "published": "Thu, 05 Nov 2026 13:27:49 GMT",
+        "published_kst": "2026-11-05T22:27:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[데스크 칼럼] 글로벌 의약품 규제 협력, 한국 기업의 해외 진출 기회로 연결해야 - 헬스코리아뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vc0d0R2pLR01UM2NsOXJlV0hpVURJbDV3T19MQW1HbTNNQTNkV1RZclAtSHhpOXU2eGI2WE9yNC0tVEFhQWxDM0RZM3NlUUdlQ0pSNEFINEIwZEhDUF82ZjBueFFBRVE?oc=5",
-        "summary": "[데스크 칼럼] 글로벌 의약품 규제 협력, 한국 기업의 해외 진출 기회로 연결해야 헬스코리아뉴스 [데스크 칼럼] 글로벌 의약품 규제 협력, 한국 기업의 해외 진출 기회로 연결해야 - 헬스코리아뉴스",
-        "published": "Thu, 05 Nov 2026 08:26:23 GMT",
-        "published_kst": "2026-11-05T17:26:23+09:00",
+        "title": "의료기기산업협, ‘한국과 유럽 의료기기 규제 체계 웨비나’ 개최 - 메드월드뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrNDFtdmNQajNDcVJsWFM2RC1RTXJFTWFzS09iSEZVZldhX2dvSW8zbFQwV0ZsREozM0lfLU9EX2hvS2JrbUk4UkJRbjd1R0JmdjBQWWQxSG5vV3Y2dWR4V1hnRDlIUFFMb2IwTw?oc=5",
+        "summary": "의료기기산업협, ‘한국과 유럽 의료기기 규제 체계 웨비나’ 개최 메드월드뉴스 의료기기산업협, ‘한국과 유럽 의료기기 규제 체계 웨비나’ 개최 - 메드월드뉴스",
+        "published": "Thu, 05 Nov 2026 13:22:11 GMT",
+        "published_kst": "2026-11-05T22:22:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"AI 멈춰도 대응 가능한 경험형 직업훈련 필요\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTQVkxMW9ybE5jbVVlUzJJVk1HZHJQcEg1YlV2S1dYaFlaZjBtVERDb0dWS0FFeGFsVUdUQnhvZHRkYlF1RGRHUGpCT3NEd3RUZFhldHN3cDF6UQ?oc=5",
-        "summary": "\"AI 멈춰도 대응 가능한 경험형 직업훈련 필요\" 한국경제 \"AI 멈춰도 대응 가능한 경험형 직업훈련 필요\" - 한국경제",
-        "published": "Thu, 05 Nov 2026 08:25:08 GMT",
-        "published_kst": "2026-11-05T17:25:08+09:00",
+        "title": "\"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94dGs5TkF2c2tMOXFVQjltaTYySVlfM3JxdzlxQy12STk2bkxldkZlODlzdTMyZHZycHk5S1R4WnQ5OVVzcWxWQ1pZbFZnUWFFMkU1VzkzdzI4dFBMcldUT2lSZHJ5MkZ40gFuQVVfeXFMUEtnWkhvcHVaa0J0N2ZjaDNMTHYtOFBJS0FnX3JsdXdtTmZjLXBXTkVBSk1HVjRKdG4yUElTa1hrbkN6bGh6dWtVc2M1ekN6TlE1Tkp2SW5BbkdyUUR0QnlmMHphZlhkX0VpTTV1Wnc?oc=5",
+        "summary": "- 머니투데이 머니투데이 \"한국 경제에 큰 충격줄 수도\"…美 '블루웨이브', K반도체에 불똥? - 머니투데이 - 머니투데이",
+        "published": "Thu, 05 Nov 2026 12:53:56 GMT",
+        "published_kst": "2026-11-05T21:53:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -115,33 +114,35 @@
     ],
     "world": [
       {
-        "title": "Form 4 Ecolab : Benjamin M. Clark (EVP - Global Supply Chain) For: 2 November - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc0Z1dWpScmM0STViUnhTR3U5UGRtQU95TTNINUpsOW1lX2lfZEEzcFpOcHJJYUJyaE5odFdVc3J0dkh2TUxnM3NQZnNTZHRKandOenNXLVJGLU1hcGZ3dTdsRkhCeWJ2M2tJcUNJcE9GblpMS3JEYi1DY3haNTJwTF9qbDRadHBtRk5hbEs0TWs4MlAxcEFheWprX1ZGaFZTX0NWRHdqdWJHa1VGbzVURmwwcjF2UWVHblNaemFsZGVHOGN5dUZSWFZPU08?oc=5",
-        "summary": "Clark (EVP - Global Supply Chain) For: 2 November Investing.com UK Form 4 Ecolab : Benjamin M. Clark (EVP - Global Supply Chain) For: 2 November - Investing.com UK",
-        "published": "Thu, 05 Nov 2026 07:32:00 GMT",
-        "published_kst": "2026-11-05T16:32:00+09:00",
+        "title": "US Treasury sanctions India-based fraud network aiding Iranian oil fleet - www.tokenpost.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxY2k0aG1Sa2hiNDVrN29wU3NVUFBLSUJMd1I5NnZtNlgwQ1cwdzRmTnRHS3dDSHVvYnRnRkQ0amZlcFZETUlVZWRQUmF6RXlMa0UxeHdRVk9yYjQ?oc=5",
+        "summary": "US Treasury sanctions India-based fraud network aiding Iranian oil fleet www.tokenpost.com US Treasury sanctions India-based fraud network aiding Iranian oil fleet - www.tokenpost.com",
+        "published": "Thu, 05 Nov 2026 12:40:34 GMT",
+        "published_kst": "2026-11-05T21:40:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Op-ED. How 4PL Helps Manufacturers Build More Resilient Supply Chains - DirectIndustry e-Magazine",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXhNWk5CXy1BSzZPM3JkT0tvWUJDODRJd3ZiRW9NYWZ0bC1sdS04Q3ViWUhyd0hQV2RoR3U2RXJQRmlFVjBORHRjdTgyVkhONVBtWF9xSGhYaTJ6UlBYbjdSajlWOXpqdXNXSklxSldyRVZrRDlzMWozUVpBajl1MHl4QUdCMkJOVWdST2Y5eU9qQ1BPZXpZQ3FwTVgxRkxwVzk4cnItQjduSkh5N2VQVWZabGF4VWREVXFBcmhMMkVkSm5HTFlJ?oc=5",
-        "summary": "How 4PL Helps Manufacturers Build More Resilient Supply Chains DirectIndustry e-Magazine Op-ED.",
-        "published": "Thu, 05 Nov 2026 07:30:00 GMT",
-        "published_kst": "2026-11-05T16:30:00+09:00",
+        "title": "ADIPEC 2026 | Shell on supply chain resilience, the Triple 10 Challenge and AI data centres - Oil & Gas Middle East",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa29mQW9ZMmVVV0lOWDN3ZktjS3ZhZjFySHBrZ2djUHFvVng2RU5manItank5Z0RST2EwUkZZei1BU0lOZzFXRDRiaVRZdXlqVFgyN3VXdi1lWHVIUGVTaWtmU05pWVV0Rlo2X0lJMGpQcmRkR3BROG96R3JJM04teEE1ZV9EbGNMV2x2VkhMV2M?oc=5",
+        "summary": "ADIPEC 2026 | Shell on supply chain resilience, the Triple 10 Challenge and AI data centres Oil & Gas Middle East ADIPEC 2026 | Shell on supply chain resilience, the Triple 10 Challenge and AI data centres - Oil & Gas Middle East",
+        "published": "Thu, 05 Nov 2026 12:30:00 GMT",
+        "published_kst": "2026-11-05T21:30:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain - EIN Presswire",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPX0diRzdGbkhTV0EtRDFuMHRWVVA2VG5TYzNRaUFVQ0Nta09mck5rLS15RkZRNTROUEtZd3l1U05qZl80YzZKMTZsR0wzM3p3bkxtRTltdHRjZmd0U0d2ekcxQWxxNUJGYWNKY1JvM1RoT0FydmF5QnV3cmhJV1psRVlVRzRybzhLd184M01pVEFySjlxZ2Z6VTlvU0ZnUnBXOVRQdmdUdUNzZmNleGp2dWFqdTdOdDlQVEd6NGM3SF9heXlmWHNIY0FZdl9rMmVTVl82Z3BOTTJ3T055Q1E?oc=5",
-        "summary": "Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain EIN Presswire Industry Analysis Identifies 10 Smart Wearable Manufacturers Reshaping the Global B2B Supply Chain - EIN Presswire",
-        "published": "Thu, 05 Nov 2026 06:32:00 GMT",
-        "published_kst": "2026-11-05T15:32:00+09:00",
+        "title": "Petrovietnam ran out of Middle East crude during the Iran war—now it's betting on LNG, wind, and nuclear - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rZzI4Nm9fUnJsOThBLVU0c1NYZU9FV2ExdHh4Rm1WTUVhVEIxNy1xOG9vVjMtTll1TWEzM0FDb1BoMzluUlNaVkZNMTdKLUl0dVRfOTAtRGxaa1BITnZJVFR4TkRRWXpCalFmS2FPSXdUNDQ?oc=5",
+        "summary": "Petrovietnam ran out of Middle East crude during the Iran war—now it's betting on LNG, wind, and nuclear Fortune Petrovietnam ran out of Middle East crude during the Iran war—now it's betting on LNG, wind, and nuclear - Fortune",
+        "published": "Thu, 05 Nov 2026 11:32:00 GMT",
+        "published_kst": "2026-11-05T20:32:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -149,6 +150,6 @@
       }
     ]
   },
-  "wrap_summary": "South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026. From tanks to drones: South Korea’s defense firms face a new battlefield test / '일의 양극화'…AI 잘하는 직원에 집중 한국경제 '일의 양극화'…AI 잘하는 직원에 집중 - 한국경제 / Clark (EVP - Global Supply Chain) For: 2 November Investing.com UK Form 4 Ecolab : Benjamin M. Clark (EVP - Global Supply Chain) For: 2 November - Investing.com UK",
+  "wrap_summary": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy. Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian / 주식, 알아야번다 한국경제TV 주식, 알아야번다 - 한국경제TV / US Treasury sanctions India-based fraud network aiding Iranian oil fleet www.tokenpost.com US Treasury sanctions India-based fraud network aiding Iranian oil fleet - www.tokenpost.com",
   "invest_summary": ""
 }
