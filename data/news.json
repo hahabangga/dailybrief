@@ -1,61 +1,41 @@
 {
-  "date": "2026-11-06",
-  "generated_at_utc": "2026-11-06T13:17:09Z",
-  "cutoff_kst": "2026-11-06T22:17:00+09:00",
+  "date": "2026-11-07",
+  "generated_at_utc": "2026-11-06T17:16:46Z",
+  "cutoff_kst": "2026-11-07T02:16:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
-        "url": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
-        "summary": "MLB executive tells CNBC dynasties can be 'wonderful' for a league if spending rules are fair for all teams. How MLB, the NFL, and the NBA try to find competitive balance",
-        "published": "Fri, 06 Nov 2026 13:15:40 GMT",
-        "published_kst": "2026-11-06T22:15:40+09:00",
+        "title": "Watch live: Cramer updates his views on all the Club stocks and 1 to buy right now",
+        "url": "https://www.cnbc.com/investingclub/2026/11/06/watch-jim-cramer-live.html",
+        "summary": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home. Watch live: Cramer updates his views on all the Club stocks and 1 to buy right now",
+        "published": "Fri, 06 Nov 2026 17:15:08 GMT",
+        "published_kst": "2026-11-07T02:15:08+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-        "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-        "summary": "The Cybertruck and its polarizing design gained a niche following, but it did not achieve mass-market sales and Tesla has issued several voluntary recalls. Tesla to wind down Cybertruck production in Texas next year to ramp Cybercab, Musk says",
-        "published": "Fri, 06 Nov 2026 13:12:36 GMT",
-        "published_kst": "2026-11-06T22:12:36+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Outside groups urge congressional Dems to target corporate interests over Trump",
-        "url": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
-        "summary": "Groups and strategists advising Democrats are warning them to use their investigative tools on corporate interests, rather than on President Donald Trump. Outside groups urge congressional Dems to target corporate interests over Trump",
-        "published": "Fri, 06 Nov 2026 13:08:58 GMT",
-        "published_kst": "2026-11-06T22:08:58+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US inflation too high; essential to get back to 2%: Fed's Williams - Kitco",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUGdxQlg5RDNfVzMtLXFsVXZKU2RJeUFjZmwwWE9taVN4YUlNTnNlb3FvalpnWFNNUENOcGJIejRWWkp5R0dLZFRSbURaT3BZaTMwSDVQQ3FZbG1JQVBxRm8wa0ozYVFWQUY3VlBsNkNESkpYUndwN1NoNndsMXBfY2J1UmZRTE9oUzh5VkRRWFNrQzA3S0wxZGRYOTBLeG5ncEg2LXVjNEJldDg?oc=5",
-        "summary": "US inflation too high; essential to get back to 2%: Fed's Williams Kitco US inflation too high; essential to get back to 2%: Fed's Williams - Kitco",
-        "published": "Fri, 06 Nov 2026 13:06:11 GMT",
-        "published_kst": "2026-11-06T22:06:11+09:00",
-        "domain": "google.com",
         "key_figures": [
-          "2%"
+          "2027"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB?oc=5",
-        "summary": "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift The New York Times Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift - The New York Times",
-        "published": "Fri, 06 Nov 2026 13:00:00 GMT",
-        "published_kst": "2026-11-06T22:00:00+09:00",
+        "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "summary": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+        "published": "Fri, 06 Nov 2026 17:09:53 GMT",
+        "published_kst": "2026-11-07T02:09:53+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "16%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. Hiring Picks Up and Unemployment Falls - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWtWUC0wbVZ5Um5oQUpudDNtcUZWLXV0SWJDRFRpSVBTRDhJTHUtT20xV3hPR3FwV2NRUERjVVFMeWgtMFhVV2QyNEVJcndzSEJ2Wmo3dkMzb2FWWkV4OXk0R292RnhOUENMbi1rX2d3NE4xV2RJcDIzWmJrbERwdkpabWo4QnhGb0E?oc=5",
+        "summary": "Hiring Picks Up and Unemployment Falls The New York Times U.S.",
+        "published": "Fri, 06 Nov 2026 17:06:37 GMT",
+        "published_kst": "2026-11-07T02:06:37+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -65,8 +45,30 @@
         "title": "White House said Starlink donated its service, but tax dollars are funding it - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUdMbVVxYVNKOUp1LTJfcURWcUtFeDNCYWtnMS1yZ2FBRU5kcnhqaTlfTzNTMDRwQ0pWVTY0VlFTcmRUQ2g5ZUtWZk8yR3FseFM2MUFuSDNoNUhPejdVVjhnUElEaUFOVFJRMEk5TjR5X0NMYkhweU52dEJOR0ZEMzJmbDJjYllDcGkzUllOU2l6RUxMbE1nWlVJdFZfTW5QWWNUczZ1cFNFMWFRbUM5bXA3b3VSTDUwRHZLQjB6NEJGSC1IeDhVOWdB?oc=5",
         "summary": "White House said Starlink donated its service, but tax dollars are funding it The Washington Post White House said Starlink donated its service, but tax dollars are funding it - The Washington Post",
-        "published": "Fri, 06 Nov 2026 12:31:52 GMT",
-        "published_kst": "2026-11-06T21:31:52+09:00",
+        "published": "Fri, 06 Nov 2026 17:01:52 GMT",
+        "published_kst": "2026-11-07T02:01:52+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Dynasties or Parity? How MLB, the NFL, and the NBA try to find competitive balance",
+        "url": "https://www.cnbc.com/2026/11/06/dynasties-or-parity-how-mlb-nfl-nba-try-to-find-competitive-balance.html",
+        "summary": "MLB executive tells CNBC dynasties can be 'wonderful' for a league if spending rules are fair for all teams. How MLB, the NFL, and the NBA try to find competitive balance",
+        "published": "Fri, 06 Nov 2026 17:01:52 GMT",
+        "published_kst": "2026-11-07T02:01:52+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Week Ahead for FX, Bonds: U.S. Inflation Data Could Give Clues on Rate-Hike Prospects - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb240VU05c2oyd2dPY0RhUUx5NzRvYWE5V1BCMHJHWkI5VlZITl94SFl5MDNkZ3JmSHM3b3pLajlzVS1ZT0x3Q3lYRTQyd2gyQm1Ca3lTbGx6ZzBTa0ZlX0V5VGJ6NXpHeXZoeldqZmwyT19Ua1BZNmdiZHNZdW1qOFNPNElWME03UTZjUmg0c0xwcTdaZjA0MUw0NE1IMjVXa1lFcnV3VThwWmVNNm94U0dZRjhUenF2TFIw?oc=5",
+        "summary": "Inflation Data Could Give Clues on Rate-Hike Prospects WSJ Week Ahead for FX, Bonds: U.S. Inflation Data Could Give Clues on Rate-Hike Prospects - WSJ",
+        "published": "Fri, 06 Nov 2026 16:52:00 GMT",
+        "published_kst": "2026-11-07T01:52:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -75,35 +77,33 @@
     ],
     "kr": [
       {
-        "title": "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가 - 마켓인",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jRVhnNmhnNWJsYXR5WXNsYUxFZGw4YTlBb1h2SW54YlBnZFBBNVNEdmNfc29DZUN4QjVKeXBGRFBkUlB3NHlzRzN6Yy1RaHJPdTZQX3ZVRWU0eXJTejFId1ZLVWlZd0QzSVg4bmRfV0tSaWc?oc=5",
-        "summary": "3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가 마켓인 3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가 - 마켓인",
-        "published": "Fri, 06 Nov 2026 13:05:57 GMT",
-        "published_kst": "2026-11-06T22:05:57+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "5000"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크 - 재외동포신문",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGcnRjNy1MbXVvTHctV0dnXzFSWWdWWkZLQ3U4SjY1RkNOU1dhUklXMFlKYzNjbVpjMm1hdWxGUG41eWJ3RE0wb2VXeUg3Sk13Mk91X0ZVWTA0NkJ3WVVwQXMwdjcwaDl1Ulg2Yw?oc=5",
-        "summary": "美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크 재외동포신문 美 중간선거가 부른 'AI 규제 공포'…한국증시 덮친 반도체 쇼크 - 재외동포신문",
-        "published": "Fri, 06 Nov 2026 13:04:58 GMT",
-        "published_kst": "2026-11-06T22:04:58+09:00",
+        "title": "기아 3조 투자…\"광주공장 미래차 전환\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQkg0QXp1UkN0MEQwbWhOanNINm5nRjZ3RkpiWlQ4cXQ4bGhUVU5lNVh3MFZMZ09PTU1DdHlmMldrcWdqckhHS0VrdlRNaUJzTzYyNDduYWp4QQ?oc=5",
+        "summary": "기아 3조 투자…\"광주공장 미래차 전환\" 한국경제 기아 3조 투자…\"광주공장 미래차 전환\" - 한국경제",
+        "published": "Fri, 06 Nov 2026 16:30:00 GMT",
+        "published_kst": "2026-11-07T01:30:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[한국 청년세대의 발견] 3. 청년예산 30조, 돈은 청년의 ‘언제’에 들어가는가 - 동아일보",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KdC1NUmM3Z1hKbWlPdXk2aDdoR0VsQlEyTjhEeFZ3Q0xFY2pReEJaQ0M3WFpibEN0dDd6V0hxMThDQU5KWG56djdqeXBub3FhaXJiMk9vdjBPclo2RlhPSEExY2VzVWZwRHZr0gFmQVVfeXFMUFIxVUhwc0pfdHBDOURqakRaUzRhYnZ6djNUWm90cENSR1RRV005ZFdfWGtjVmxjQ0xBV3VSR1k1RFhUWFRsdUxqQ2lickZpb0lENmI1Y3FsUVlvV09DN21PUFNFbkFB?oc=5",
-        "summary": "청년예산 30조, 돈은 청년의 ‘언제’에 들어가는가 동아일보 [한국 청년세대의 발견] 3. 청년예산 30조, 돈은 청년의 ‘언제’에 들어가는가 - 동아일보",
-        "published": "Fri, 06 Nov 2026 11:44:09 GMT",
-        "published_kst": "2026-11-06T20:44:09+09:00",
+        "title": "\"같은 평수 받으려면 9억?\"…은마아파트 집주인들 '날벼락' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3YjFPX0VWempNN241Sm90UW5MN1d1YUhuUjlReFRhZWFpbzdsYVotRWYxNjB1TUxGdDMteVdwNjdLMGVjRWhLNVZQdEc0b0V5OThBRk9ycFQtQQ?oc=5",
+        "summary": "\"같은 평수 받으려면 9억?\"…은마아파트 집주인들 '날벼락' 한국경제 \"같은 평수 받으려면 9억?\"…은마아파트 집주인들 '날벼락' - 한국경제",
+        "published": "Fri, 06 Nov 2026 16:18:00 GMT",
+        "published_kst": "2026-11-07T01:18:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "법관대표회의, 이달 30일로 앞당긴다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DYmNxT0U0R3pkWlhTb2VRc25RRkIzNFpOUEhzekxxZk1XZGtDS3BYME5raTd3cWVmU3QtaGI3THBVUkYyNzJENlpTcmpKMGxRUWRXUDQyTUUwQQ?oc=5",
+        "summary": "법관대표회의, 이달 30일로 앞당긴다 한국경제 법관대표회의, 이달 30일로 앞당긴다 - 한국경제",
+        "published": "Fri, 06 Nov 2026 16:04:00 GMT",
+        "published_kst": "2026-11-07T01:04:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,33 +112,35 @@
     ],
     "world": [
       {
-        "title": "LS Eco Energy Secures Non‑China Samarium Supply Chain - Businesskorea",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YQ1FaNnFFaUpLVURvQlA5SUtMSkFGU0ZxdVFUcWQ4dlFfdTl4clI5dmJnd3pHNS1LdWZIRDFjTHFWTGJjeDhndXZzc1hCY2J5NmxMakdIVklWdkpNRXlNb2dJb28wSDkwM0VoRmc2SlJ6d3lf?oc=5",
-        "summary": "LS Eco Energy Secures Non‑China Samarium Supply Chain Businesskorea LS Eco Energy Secures Non‑China Samarium Supply Chain - Businesskorea",
-        "published": "Fri, 06 Nov 2026 12:08:34 GMT",
-        "published_kst": "2026-11-06T21:08:34+09:00",
+        "title": "GXO’s Strategic Logistics Hub: Growth Across Asia Pacific - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlpyVm9yeU5uV203YmZJUFVNSUdWLW1MQ1F3ZEF4bkMtTDNoNlI3NVdzeWlFUXNtZXRET1dhYS10cEhvWkRHOFhGc2tSeTdDRFBHaTliTWQzal9TLUl1U3plZ2tKWWNOeVhHdHZyZmlPTEQ0TFhCZ1YtQTRNQ1BHRGk1c2NHbWxuZEhvTHFmQmNLakh6Rnc?oc=5",
+        "summary": "GXO’s Strategic Logistics Hub: Growth Across Asia Pacific Supply Chain Digital Magazine GXO’s Strategic Logistics Hub: Growth Across Asia Pacific - Supply Chain Digital Magazine",
+        "published": "Fri, 06 Nov 2026 16:56:57 GMT",
+        "published_kst": "2026-11-07T01:56:57+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’ - Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlhSSm1fRk1ncTdNLVlWRzltV0pWeGd3VFU3V3RvWUdjWnVRQTNGdzlkX2FfNTN0TVMxV1hqOFVFelFTVkYyMERVX0E2ZzZtNmh3S3hmUXhkSmFIZXI2RzNVbF9MZXRaZV9WY3ZlQnRYVlZPbnFpUi1aYWNMZnktNnlGbDFPT0ZQcHZ5SHdsVHI1TkJQQ05XckFKM0RKd0ozWFRiTHNsNkRUR0RBeHBZRms1aUhlLXJK0gG-AUFVX3lxTE9laUh2ODA2a3F6OWo0MDZiVVlUYmNZREpqLUhlRV92SHZJVi1DWG80NnR4N1VXeGdQdF9XeGIwU19kcDlJU0x5MU93RkwzWDFnRnVkQ3ZqUFJ3MVYwTnp4QnNtRTU4RFFkbG1TOWNGUkV2eUxlTE13RGJodmd6Q1ZHY1RCZWFHZlMwS0x5OG5nZ0VINHJuU1FlUHJVUzFTSGpIa19PTDEtaDBDZU53TlAtekZxTGo1THZEY2pIN0E?oc=5",
-        "summary": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’ Al Jazeera UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’ - Al Jazeera",
-        "published": "Fri, 06 Nov 2026 08:45:38 GMT",
-        "published_kst": "2026-11-06T17:45:38+09:00",
+        "title": "Logitech Launches \"Chain Reaction\" to Cut Supply Chain Emissions and Support 2030 Climate Goal - CarbonCredits.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTTZHOUFiVGlJY1RUdjVwTzZOQVdNVFlodF93SzN3LVhJb29WOXVOZnBvWGowbnlnYmtTUGU1MVRpWURZMjRRc3BxWXVZUjFaV0h4TXVLUEJmYzNkOVFkNGJJVzJvTVcyWlNITF9LUG5iVmhNbWR4V2lhWXVHSTdiV0RfaFVQZw?oc=5",
+        "summary": "Logitech Launches \"Chain Reaction\" to Cut Supply Chain Emissions and Support 2030 Climate Goal CarbonCredits.com Logitech Launches \"Chain Reaction\" to Cut Supply Chain Emissions and Support 2030 Climate Goal - CarbonCredits.com",
+        "published": "Fri, 06 Nov 2026 16:42:15 GMT",
+        "published_kst": "2026-11-07T01:42:15+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2030"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "TV Costs Rise and Auto Production Halts as China's Supply Chain Dominance Shakes Global Manufacturing - https://economy.ac/",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54Y2VXaDRCU1oxZ20za3Nkd0pvSUNMbTdCQS00S0poMng1ZV9OaUxxcWJNOHlCdENzaGN0UXc1Y0ZsMC1HR1g3UzRDRUMyZE5jcTRiNG1lZw?oc=5",
-        "summary": "TV Costs Rise and Auto Production Halts as China's Supply Chain Dominance Shakes Global Manufacturing https://economy.ac/ TV Costs Rise and Auto Production Halts as China's Supply Chain Dominance Shakes Global Manufacturing - https://economy.ac/",
-        "published": "Fri, 06 Nov 2026 08:14:14 GMT",
-        "published_kst": "2026-11-06T17:14:14+09:00",
+        "title": "Lear to open automated factory as ‘blueprint’ for global network - Supply Chain Dive",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDlQYVVTY0RZS2lENDVYV3JqbmlkSzFBRUF3dko4MDRJR0JTWWFaN3VTblltZ0h1a0lIOWdvLTl5MGF1TE5FaGZqNXpnbTBZNk83WGZ6RkxQV2ZFQUlLMC1Eb09XNEZkQVdoN2JqRTBrZ21XRTdOLTZGSG1RMkNHY256NTE2NW84N3NqT3UtYzg1X1hRNWRZLVdoM2NFaWFNWjU3X044NEhtOTg?oc=5",
+        "summary": "Lear to open automated factory as ‘blueprint’ for global network Supply Chain Dive Lear to open automated factory as ‘blueprint’ for global network - Supply Chain Dive",
+        "published": "Fri, 06 Nov 2026 14:47:46 GMT",
+        "published_kst": "2026-11-06T23:47:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "MLB executive tells CNBC dynasties can be 'wonderful' for a league if spending rules are fair for all teams. How MLB, the NFL, and the NBA try to find competitive balance / 3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가 마켓인 3개월 전 \"코스피5000 깨질 수도, 현금 가져라\"…예언 적중한 전문가 - 마켓인 / LS Eco Energy Secures Non‑China Samarium Supply Chain Businesskorea LS Eco Energy Secures Non‑China Samarium Supply Chain - Businesskorea",
+  "wrap_summary": "At the Investing Club's 4th annual meeting, Cramer also reveals his outlook for 2027 and answers questions from the live audience and members at home. Watch live: Cramer updates his views on all the Club stocks and 1 to buy right now / 기아 3조 투자…\"광주공장 미래차 전환\" 한국경제 기아 3조 투자…\"광주공장 미래차 전환\" - 한국경제 / GXO’s Strategic Logistics Hub: Growth Across Asia Pacific Supply Chain Digital Magazine GXO’s Strategic Logistics Hub: Growth Across Asia Pacific - Supply Chain Digital Magazine",
   "invest_summary": ""
 }
