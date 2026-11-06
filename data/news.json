@@ -1,113 +1,111 @@
 {
   "date": "2026-11-06",
-  "generated_at_utc": "2026-11-05T20:29:06Z",
-  "cutoff_kst": "2026-11-06T05:29:00+09:00",
+  "generated_at_utc": "2026-11-06T01:50:30Z",
+  "cutoff_kst": "2026-11-06T10:50:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "South-Central Gulf Leasing: 133,000 U.S. Jobs by 2040 - U.S. Chamber of Commerce",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ1E4NWlxMnYwdkhvbUJCSmpYNWw4WGJyVUR4YU5SYjhQTkRkSzhxcUxVQTVCZFQ4SXJoV1ZFajNkc0tJUUdNak0xUzNvNHU4TWIta2FQMll4WkJWU3ktckxveWc2bDdCdGJBUGNHWlctNFVWeldaa0ZsdmpxNFBXTmFhMVpyZTVldGxCQ3ltWk0teGZEVWNUMURtdldIZ2tmWGYwalJmNU9RVzlaTDVsQ3FfYlViZw?oc=5",
-        "summary": "Chamber of Commerce South-Central Gulf Leasing: 133,000 U.S. South-Central Gulf Leasing: 133,000 U.S.",
-        "published": "Thu, 05 Nov 2026 20:20:15 GMT",
-        "published_kst": "2026-11-06T05:20:15+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2040"
-        ],
+        "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+        "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+        "summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+        "published": "Fri, 06 Nov 2026 01:41:32 GMT",
+        "published_kst": "2026-11-06T10:41:32+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump’s White House Ballroom Reaches a Major Construction Milestone - ELLE Decor",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY0I0TVpqbU01VTRidkpFNGVvWkZWdkJwU2loYjlkWmVBSE1hZklGUlpMVGRvbVJ5VGFuNUJzN3FhblBqMG80WlBMbUtGVU8xVlBVWGgtemFsNkMzQnF6aHhtWERxUDZSQ2g0bUw1bVlxRko3VXBTV2l4eDNRSWFnN2NLNUZ2clY1Ni1XbEkyaw?oc=5",
-        "summary": "Trump’s White House Ballroom Reaches a Major Construction Milestone ELLE Decor Trump’s White House Ballroom Reaches a Major Construction Milestone - ELLE Decor",
-        "published": "Thu, 05 Nov 2026 20:20:05 GMT",
-        "published_kst": "2026-11-06T05:20:05+09:00",
+        "title": "Trump makes the Oval Office a national monument. But future presidents can still redecorate - AP News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUHJ3cFN3VWhNTTlLTDhHT1ZGdl9EdTZ2dC1xTEU3QklLUU1zMkltS1o2WkktNWx3T2FiVlNrLTN6bTVoYnQxQms2aWtGQ0lHbS1qSmNlRFZONWpNNll0ZloyUU1ObHZkN0IxNy1pM3NWcXc4S3k1cmg2eVZTYVpTMks1ZmZVYkcwTm9SSnRRN3VRX2RyUG9rbXBhSXU5WVhzMjc2Uw?oc=5",
+        "summary": "But future presidents can still redecorate AP News Trump makes the Oval Office a national monument. Trump makes the Oval Office a national monument.",
+        "published": "Fri, 06 Nov 2026 01:31:00 GMT",
+        "published_kst": "2026-11-06T10:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-        "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-        "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections. Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-        "published": "Thu, 05 Nov 2026 20:17:16 GMT",
-        "published_kst": "2026-11-06T05:17:16+09:00",
+        "title": "IRS announces new federal income tax brackets for 2027",
+        "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+        "summary": "The IRS has announced higher federal income tax brackets and standard deductions for 2027. IRS announces new federal income tax brackets for 2027",
+        "published": "Fri, 06 Nov 2026 01:21:08 GMT",
+        "published_kst": "2026-11-06T10:21:08+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2026"
+          "2027"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
-        "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-        "summary": "Companies tied to the AI buildout are all selling off as concerns mount about a slowdown following the midterm elections. AI meltdown: Chip stocks and neoclouds plunge, pushing Nasdaq to worst day since April 2025",
-        "published": "Thu, 05 Nov 2026 20:08:49 GMT",
-        "published_kst": "2026-11-06T05:08:49+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2025"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "There's plenty to unify the Democrat Party: Ex-White House official - Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zSzdLQXhocDNTMFZyR3laMGpyVHRTN1hkVWR2LTZ1eFpOLUVqNFJNbkM0bUJGWm02dHFSV201NUdUTERPUUc3bjFVRmc0MmQ1UkU4LU9yYzFkaDA?oc=5",
-        "summary": "There's plenty to unify the Democrat Party: Ex-White House official Fox Business There's plenty to unify the Democrat Party: Ex-White House official - Fox Business",
-        "published": "Thu, 05 Nov 2026 20:08:05 GMT",
-        "published_kst": "2026-11-06T05:08:05+09:00",
+        "title": "Trump signs order to prevent future presidents from changing Oval Office - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMUZ5akFDc1lMeThXeEt4TjdYRTR4UjhyMl9Qbi13VjNxRjY2Q3h6Q1UtYmxiYjRvd3k2TDNjd21DckNiZWR5cTM2eWM5Yll4b0h5MzVMMW4zVTQ?oc=5",
+        "summary": "Trump signs order to prevent future presidents from changing Oval Office BBC Trump signs order to prevent future presidents from changing Oval Office - BBC",
+        "published": "Fri, 06 Nov 2026 01:20:01 GMT",
+        "published_kst": "2026-11-06T10:20:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How Wall Street's postelection rally got obliterated — and what's next",
-        "url": "https://www.cnbc.com/investingclub/2026/11/05/how-wall-streets-postelection-rally-got-obliterated-and-whats-next.html",
-        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. How Wall Street's postelection rally got obliterated — and what's next",
-        "published": "Thu, 05 Nov 2026 20:06:31 GMT",
-        "published_kst": "2026-11-06T05:06:31+09:00",
-        "domain": "cnbc.com",
+        "title": "Sources: White House aides met to discuss path forward after losing Congress - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczR1SGFMRFo5OVI5bG5JS3pXWHN2b1hWa0Z6N1NleVJzR1E4WElCWVBkRElIYXVCZHJmOWpoeWktNnNWQ0lOaFlTbkpWWEJ2ZHZ2aDZhWFhBWGFnUDJLMEJEVXR6TFZaTzZJN3FfNmU4dmJCSmVoRFNlQVNMN2xuTUZuVHVmaFlfc1FBWEtad3NUeGVqY2wyRVZSVHRUVTQ1QTgtY1pGeW5seWVscmZPS0p1QUFYQUFRcFE?oc=5",
+        "summary": "Sources: White House aides met to discuss path forward after losing Congress CNN Sources: White House aides met to discuss path forward after losing Congress - CNN",
+        "published": "Fri, 06 Nov 2026 01:06:52 GMT",
+        "published_kst": "2026-11-06T10:06:52+09:00",
+        "domain": "google.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "IRS unveils higher capital gains tax brackets for 2027",
+        "url": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+        "summary": "The IRS has announced higher long-term capital gains brackets for 2027. IRS unveils higher capital gains tax brackets for 2027",
+        "published": "Fri, 06 Nov 2026 01:00:10 GMT",
+        "published_kst": "2026-11-06T10:00:10+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "[허원순의 경제로 세상보기] AI 강국 외치면서 전력망 깔 돈은 없다니 - 글로벌경제신문",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IS2wxclhnYk1ubnpMSTNweHlsN09QYWpEMWg1MjdqakQ3ZUJyZHpBZE45Um41RkRJa0FhQTlFRWVraHVENHNKYXhlU2ktY3pieG9Ld3BMTHZLM2VoN0p2eGkwVlM1dVg5c2lQT9IBcEFVX3lxTE9qQUpZaVFiOHFzUVN4anB3N05DZTFEdGlyUHdfV0l3eENFZ0dNVm1ldTFaOUhVZlB1dzlDMmlodFVnSTZmZmJ3UHZMMWZxUmgyX1hQcDNRZUtIUUoxMmdDQVNGNTZqQVMyU3hUQVdtdHQ?oc=5",
-        "summary": "[허원순의 경제로 세상보기] AI 강국 외치면서 전력망 깔 돈은 없다니 글로벌경제신문 [허원순의 경제로 세상보기] AI 강국 외치면서 전력망 깔 돈은 없다니 - 글로벌경제신문",
-        "published": "Thu, 05 Nov 2026 19:00:00 GMT",
-        "published_kst": "2026-11-06T04:00:00+09:00",
+        "title": "한국스테이블코인학회, AML 규제기술 ‘임베디드 가디언’ 개발 추진 - 경향게임스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1neFNDdFhtNmxRbTdacGhSUkhzby03VU5ackdPVkhjdEV3X2swbXpHOV9kQk5UdjdJOUdnc3RreGRBUE50SXRIaHJVaWtvQVM2RmZTejg5SlAxTkNiMzVFYWVzRjdXd29nR29ITg?oc=5",
+        "summary": "한국스테이블코인학회, AML 규제기술 ‘임베디드 가디언’ 개발 추진 경향게임스 한국스테이블코인학회, AML 규제기술 ‘임베디드 가디언’ 개발 추진 - 경향게임스",
+        "published": "Fri, 06 Nov 2026 01:34:32 GMT",
+        "published_kst": "2026-11-06T10:34:32+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[플라자] 한국국제정치학회 2026년 추계학술회의 개최 - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNXzZyZm91d0JaQjFHNEV3SmZJalFYdHVBWWl6eGVYcWpRd1NKVEotSnhSNXdQQnQ3ekdrRzBjTXVFS3FJcHozcW5jVmYwaGc5YXF3VkJqREtZckVEbi01SXFGZjhmMGZ3WFVrZms3RERiM0NMZGJsZi1lMEtUMXFHbi1WTkRSdGFGUHhBVW9RY2VCQVE?oc=5",
-        "summary": "[플라자] 한국국제정치학회 2026년 추계학술회의 개최 조선일보 [플라자] 한국국제정치학회 2026년 추계학술회의 개최 - 조선일보",
-        "published": "Thu, 05 Nov 2026 15:38:00 GMT",
-        "published_kst": "2026-11-06T00:38:00+09:00",
+        "title": "석 달 전 '코스피 5000 붕괴' 경고 적중… 김영익 교수 재조명 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JNXpoQnpLcXRKU1B0ZWxYZ0lsT2VNanlIRTBON0VUWExXRElLa3pqbkZkX2U0WEdfLUo4SE1yTTNySGgzNGJWTEc1ZDFqeWdMdk5NTFc1Vlp0dw?oc=5",
+        "summary": "석 달 전 '코스피 5000 붕괴' 경고 적중… 김영익 교수 재조명 한국경제 석 달 전 '코스피 5000 붕괴' 경고 적중… 김영익 교수 재조명 - 한국경제",
+        "published": "Fri, 06 Nov 2026 01:23:11 GMT",
+        "published_kst": "2026-11-06T10:23:11+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2026"
+          "5000"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AI 데이터센터 확장에 제동 거는 각국…한국은 규제 완화로 투자 촉진 - ESG비즈니스리뷰",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSZ3pqSEFMQzQwdGxpS1RyZ0pMSk9OUmc1NzBRQ216UkJkclB2QkNnTEFic3o1ckwxN1o5V2RrXzZwSFR0NHo0LW9ENWFwQXc3dDlLWWw1NGJ5Q3JIVUY0eXk3TUViZ2JtT3dOUmZPdjhOdFU?oc=5",
-        "summary": "AI 데이터센터 확장에 제동 거는 각국…한국은 규제 완화로 투자 촉진 ESG비즈니스리뷰 AI 데이터센터 확장에 제동 거는 각국…한국은 규제 완화로 투자 촉진 - ESG비즈니스리뷰",
-        "published": "Thu, 05 Nov 2026 14:56:10 GMT",
-        "published_kst": "2026-11-05T23:56:10+09:00",
+        "title": "블루 쓰나미 직격탄...나스닥·코스피·비트코인 '와르르' - 블루밍비트",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8za3ZkaXo3WFBONWNnRGpJa3FCLXN4VUF6TUExazRoWGFLQWFoZFJzTmduOVpQaGJKMjdRblVjLVE2OVY2MlBZVGFmQzlzVFJE?oc=5",
+        "summary": "블루 쓰나미 직격탄...나스닥·코스피·비트코인 '와르르' 블루밍비트 블루 쓰나미 직격탄...나스닥·코스피·비트코인 '와르르' - 블루밍비트",
+        "published": "Fri, 06 Nov 2026 01:14:52 GMT",
+        "published_kst": "2026-11-06T10:14:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -116,33 +114,33 @@
     ],
     "world": [
       {
-        "title": "anchr: AI Replenishment Planning With Existing ERPs - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblViYjFxbW00UzkzRnBJV21kUEphN2xLa0RndXExUDc1d3NuTER1YkZEZU5YNE92OXpTWjRBZGVsRW55OFRCNTRTQnpJamVjNFphUjE2ZVlwY3BNY3ZUTzNxUlBpaXlFdUJKcUZnS0lQQXk3OUxKbHF3RGVzZ1h6eFE2LTdFbWxEUUFXS3pYOF9xT3RVcWc?oc=5",
-        "summary": "anchr: AI Replenishment Planning With Existing ERPs Supply Chain Digital Magazine anchr: AI Replenishment Planning With Existing ERPs - Supply Chain Digital Magazine",
-        "published": "Thu, 05 Nov 2026 20:01:57 GMT",
-        "published_kst": "2026-11-06T05:01:57+09:00",
+        "title": "Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force - digitimes",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnR2S0V3aHFPVVhLemVTdGJybmZkbGRkdXhFSVAtVUlhYTV4MlZpTncwWG91Q0JmTXY4cWJIV1BabnoxVDBZNnFzQ1J5c3hIdjNCMG9DUlpnTE00ZmctcUs3VkNVM1ZoTk1VbUE4MkxCZjd3dW1GS2EyUDY1d3hzZThILWExaGJXZU44WHJRVWlTM0pfTTNjX3BXdm1ldF93Sm1EU3U5VlY0STNJcmQ4Qg?oc=5",
+        "summary": "Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force digitimes Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force - digitimes",
+        "published": "Thu, 05 Nov 2026 23:20:19 GMT",
+        "published_kst": "2026-11-06T08:20:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "New York Fed says global supply chain pressures eased in October - www.marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVWZqSm00WmlLdDRZTXZJN3lXeEZIbzhiU0tsaG9sa0JtSGhxR1IwdE5YQVdPMnJrLUVRM2p0LVhKdVAzVG5EZTY1RTZ2QlZWc2pzekpDZ21JdTc4WHRpQXAyT2hSS1pvV1UtT3pwTDdMbzdPZm1WUmV3YTRTd2NVNVBEZU9xUV9pSFRyQjlxR2ljbzdXVmtWY2c1SjRIeGlpYW9BdVI1TXJJT0dUQjIwc1ZsTENQLW1j?oc=5",
-        "summary": "New York Fed says global supply chain pressures eased in October www.marketscreener.com New York Fed says global supply chain pressures eased in October - www.marketscreener.com",
-        "published": "Thu, 05 Nov 2026 19:52:25 GMT",
-        "published_kst": "2026-11-06T04:52:25+09:00",
+        "title": "Quote of the day by TSMC founder Morris Chang: 'Globalization is almost dead and free trade is almost dead' — a post-mortem on the tech supply chain breakdown - TechRadar",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMjJ5V3FzczYwTFBPMGFEZDU4UHFQb0huXzFmbk1KdUNEcVJMUHQ4ZzBEZUQwTUZPNTFaQWNiVk9idlRBeER0M2Y3cmJySzJDTkI3X19iT19DT2Ixb2NWWXVTb0ZldXhVTmZUZ1FVdUNST3laTDZaOHNveXloc01kMU5DMzV6eVZ6RTd6NXJzUVl0LWNuMmlxNTZWYWFteF9pLTl1WXd1TTBGc0VfMDVuVEU3VXFHdTJSQUt3ZmpWeUEydDJvR2pSaGp5clBZdHBrNktjY0Z5VDdYWk5Db3lGaUhKNTJkSEhuajBuWlZUWS1qbXo1R2t3OGJSY2hLMnM1SWZhUHo3allXTS1LdDF5Qw?oc=5",
+        "summary": "Quote of the day by TSMC founder Morris Chang: 'Globalization is almost dead and free trade is almost dead' — a post-mortem on the tech supply chain breakdown TechRadar Quote of the day by TSMC founder Morris Chang: 'Globalization is almost dead and free trade is almost dead' — a post-mortem on the tech supply chain breakdown - TechRadar",
+        "published": "Thu, 05 Nov 2026 23:00:00 GMT",
+        "published_kst": "2026-11-06T08:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
-        "summary": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy Reuters US issues new Cuba sanctions, takes aim at sectors of Cuban economy - Reuters",
-        "published": "Thu, 05 Nov 2026 18:11:08 GMT",
-        "published_kst": "2026-11-06T03:11:08+09:00",
+        "title": "Supply Chain News: Deals, Investments, and Executive Moves - Inbound Logistics",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR29QSFlHMEpLYjNRa3YtZ1MxTkdmR1hVLXl2d0drYU9TSU4yeklkdFJleDFjUHI4QTIwQWxsekdaZ3J4R19oRklRdUtqME91b25DWU0wSkNwN0lFdTFNcnJ4eE5LdFRBQmxVV3lSenhuRTB6NEctNUhJZm9NVXdXcFEwdw?oc=5",
+        "summary": "Supply Chain News: Deals, Investments, and Executive Moves Inbound Logistics Supply Chain News: Deals, Investments, and Executive Moves - Inbound Logistics",
+        "published": "Thu, 05 Nov 2026 22:13:46 GMT",
+        "published_kst": "2026-11-06T07:13:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -150,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Chamber of Commerce South-Central Gulf Leasing: 133,000 U.S. South-Central Gulf Leasing: 133,000 U.S. / [허원순의 경제로 세상보기] AI 강국 외치면서 전력망 깔 돈은 없다니 글로벌경제신문 [허원순의 경제로 세상보기] AI 강국 외치면서 전력망 깔 돈은 없다니 - 글로벌경제신문 / anchr: AI Replenishment Planning With Existing ERPs Supply Chain Digital Magazine anchr: AI Replenishment Planning With Existing ERPs - Supply Chain Digital Magazine",
+  "wrap_summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory. Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble / 한국스테이블코인학회, AML 규제기술 ‘임베디드 가디언’ 개발 추진 경향게임스 한국스테이블코인학회, AML 규제기술 ‘임베디드 가디언’ 개발 추진 - 경향게임스 / Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force digitimes Foxtron aims to turn Taiwan's automotive supply chain into a global net-zero force - digitimes",
   "invest_summary": ""
 }
