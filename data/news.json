@@ -1,71 +1,73 @@
 {
-  "date": "2026-11-07",
-  "generated_at_utc": "2026-11-07T11:57:16Z",
-  "cutoff_kst": "2026-11-07T20:57:00+09:00",
+  "date": "2026-11-08",
+  "generated_at_utc": "2026-11-07T16:12:54Z",
+  "cutoff_kst": "2026-11-08T01:12:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Armed man arrested near White House after saying voices told him to kill Trump - Politico",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzlpQktFMm5RTm1fN2VaUTlLd29IY0NRcVRhWVhtdm1HbFU3aEJaaWdXcUFGRkNfdkV4RlhlY0d1dUhDZ2FNeUU3dEh0eEJyb3QwTVBHdnhHM3puOVZvRWZGTGhkODU1WlN1V0w0TV80MDBUS1UxMktFRW5RZ2EtWUd5SnNPeEJMTXlPQ1NwWG1kRUlIdjhqV0x0ZlBQUi1IOXVzY1AzaDNySkNyV0hvOFJXQVJCTjlPdl9BMHpCNHk?oc=5",
-        "summary": "Armed man arrested near White House after saying voices told him to kill Trump Politico Armed man arrested near White House after saying voices told him to kill Trump - Politico",
-        "published": "Sat, 07 Nov 2026 10:16:00 GMT",
-        "published_kst": "2026-11-07T19:16:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "3 Staffing Stocks Investors Are Watching After The Strong U.S. Jobs Report - Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVIwUG5CZWZ0UGRhSDR0RjlqMG5CQnd0c08yeXUyaVA2RUtVc00yUU9NYnpnUmp5YkszVHlaM1lFUEFfNktPb1h6N2NMZS1lcmVIVjlKcG1VRWZIeWVUZEczRE1VTmh2aGlRWENZbUttU25uelcyVHdmZGRqN0tVTDk1U3lFVUZtMVZ1QVhR?oc=5",
-        "summary": "Jobs Report Yahoo Finance Singapore 3 Staffing Stocks Investors Are Watching After The Strong U.S. Jobs Report - Yahoo Finance Singapore",
-        "published": "Sat, 07 Nov 2026 10:13:10 GMT",
-        "published_kst": "2026-11-07T19:13:10+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY0FnYVdEdFhsczZ2Mk5NcnY0Zl82MmRVVlVueF9hVlNpNW45eWVELVZ5UVZwTHhua2R1QnItNWtrektXYTVxU3JnUkswckRTd1BJanl4bXZ4RVdTMEYwLTljUFFuUFBSZjUwNVhuQ3FNUmlBS05ZUERMVWJHN1Z4eVRsQnI?oc=5",
-        "summary": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff The Guardian Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff - The Guardian",
-        "published": "Sat, 07 Nov 2026 10:02:00 GMT",
-        "published_kst": "2026-11-07T19:02:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-        "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-        "summary": "The \"weakest point of aviation is targeting it in-flight,\" analysts say — but any change to procedures will be a lengthy process. Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-        "published": "Sat, 07 Nov 2026 09:01:57 GMT",
-        "published_kst": "2026-11-07T18:01:57+09:00",
+        "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+        "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+        "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress. Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+        "published": "Sat, 07 Nov 2026 16:02:33 GMT",
+        "published_kst": "2026-11-08T01:02:33+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-        "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-        "summary": "carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-        "published": "Sat, 07 Nov 2026 07:37:36 GMT",
-        "published_kst": "2026-11-07T16:37:36+09:00",
+        "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+        "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+        "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit. Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+        "published": "Sat, 07 Nov 2026 15:23:46 GMT",
+        "published_kst": "2026-11-08T00:23:46+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-        "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-        "summary": "Fusion energy has the potential to provide abundant, clean power. The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-        "published": "Sat, 07 Nov 2026 06:00:01 GMT",
-        "published_kst": "2026-11-07T15:00:01+09:00",
+        "title": "US employers added surprising 165,000 jobs in October; unemployment rate dipped to 4.1% - WFAA",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPODRXQ25YSWpwTW1tRU93NVpTdjdKLV9WMVFial9TeEdabF9mSXRacGJYd1RzSS1SalBISFozUXRvemxpQm40NjlDcUI1RlE2bjNUYnQwaE5NNkFiTEs3TkN5UVFLWHVlbER6SV9fSlpOOWpHOW9yM2JRc25BV3VnY3pPYjJWM05rQnRGMGUtblpzUk81QkNGUXFoZkVYSWE0UkFqak5ZY2lUM1k3UERwTmh2V3RwN1BEZlVFY01VVjBmN0lSTnQ5c2pnYTRYclplREdET2ZrQ0s0c0o5WXo0Qk0wWDVtd05COHkzWEJ1bmhkaXo4eU9ZVkx3?oc=5",
+        "summary": "US employers added surprising 165,000 jobs in October; unemployment rate dipped to 4.1% WFAA US employers added surprising 165,000 jobs in October; unemployment rate dipped to 4.1% - WFAA",
+        "published": "Sat, 07 Nov 2026 15:12:55 GMT",
+        "published_kst": "2026-11-08T00:12:55+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "4.1%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week - dailyrecordnews.com",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRjlqelV0clNkVndLS0RKTDdxVUtYMFI4Z0N1LS1iZEhGV0RvT3ZkcGZpeFV2QXRjQk4xbmR2TFd6LXZwZC1QbmxIakJVeUtUS01hanMzMGRJTTNLQzNSaExRS2wyNEx5R180M3JleXl6dVNCcWtJd3NhMk56Y1B5SDl2Uy1SRHphMl9faEhtNkdLaUdWNkxPamJQQndRc0Zna2ctNDM0Ym8tMmtHYkFTYWozWjZCMXNzT0hlb09DLWFfT0NRSi04a29TT1A4MVJxYXgtQWVVekZ3WVFSN3UzczlqazJ2a0N3QXpWNVJIYXM4TXdjYk9qVXV1U1g0MUJVaUs4b0VsSDZZRjNET3hMY2p3?oc=5",
+        "summary": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week dailyrecordnews.com Inflation, housing, jobs and corporate earnings will dominate the business calendar this week - dailyrecordnews.com",
+        "published": "Sat, 07 Nov 2026 15:10:07 GMT",
+        "published_kst": "2026-11-08T00:10:07+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+        "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+        "summary": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring. America's newest small business owners with no employees are off to a hot start in AI era",
+        "published": "Sat, 07 Nov 2026 14:45:01 GMT",
+        "published_kst": "2026-11-07T23:45:01+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "In his words: New White House chief of staff Stephen Miller is US immigration hardliner, bombastic critic of Democrats - ABC7 Chicago",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGtEdXV5SWMzTzlMVWdHcUlvZWdfLW8wVExKZkpNcGJxQ2FZZU84VmxLWUd1TWl4UENONmNuZkZaUTNfbDVQSzFPV2FfTjhubGhxNVRnX3ZmRWRiM0tjTkVEaTFFZ0dKeWhxUGJTS21xdmVkazctSnRPMy1nVkFOZzN1LWhZUGlNcmFPMWJfUUFKYi1Bbm5iaG9RN2l4RlYyUFM3OTNIYUxmaVR4Q0NpWVdtdk9Wb3lOVzYxSFdoVWM1dThhODZsb3ZMcHF3WnZSUzhUeUY1d1I5d9IB3wFBVV95cUxNRGlwWnMwa2J0ZTNwUTlYblBQWkNHNklxRHlacVh2RVlJZERyMGVJMjRlNlQ3cjFUWVpmbXg5a3ZoRmptX3hSd1JQNnNyYlBRVzN5THR0YXBvaldxb0g1eTktdjh1LVFfVmhmb3VDczR4aXZfTnRnLVRhUFFjZXB0VUstM3lBV1d3SDlua3FieHUtLXgyM2hucDQ2MDRrbW1MVDdnQUFUVTJFTjQ3YWNXQ3lOTnFudXowTWlQSUc1d2VibFpld0ZLd0Q3OUhYZUI2T1plb3ItYUN1d0tCMXg4?oc=5",
+        "summary": "In his words: New White House chief of staff Stephen Miller is US immigration hardliner, bombastic critic of Democrats ABC7 Chicago In his words: New White House chief of staff Stephen Miller is US immigration hardliner, bombastic critic of Democrats - ABC7 Chicago",
+        "published": "Sat, 07 Nov 2026 12:26:49 GMT",
+        "published_kst": "2026-11-07T21:26:49+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,33 +75,35 @@
     ],
     "kr": [
       {
-        "title": "\"호남반도체 방해하는 미군 박살\"…기지 난입 대학생들 항소 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VNklsUDZPYU9FX0d4dUh1TDVzak1lcDQzcDc4UHdTS05qRmJIN3lkVU1ZNjRmN0ZqR01tbUg4TGN3Wm5hNk42emdaX0RRLUxmaDRIVFFsbFlVZw?oc=5",
-        "summary": "\"호남반도체 방해하는 미군 박살\"…기지 난입 대학생들 항소 한국경제 \"호남반도체 방해하는 미군 박살\"…기지 난입 대학생들 항소 - 한국경제",
-        "published": "Sat, 07 Nov 2026 11:43:00 GMT",
-        "published_kst": "2026-11-07T20:43:00+09:00",
+        "title": "[오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVlgtNUh1LUJ6aUUxSEFVcHkwQ0xMYnFvUGU1RmRMUnB3UWtQd0loZFhpb3Z5S3JmNF9oejFvQ2dZcmkwcExFbkNjUjVLM3ByTjhWWTFPckpQQQ?oc=5",
+        "summary": "[오늘의 운세] 2026년 11월 8일 별자리 운세 한국경제 [오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제",
+        "published": "Sat, 07 Nov 2026 15:00:06 GMT",
+        "published_kst": "2026-11-08T00:00:06+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[오늘의 운세] 11월 8일 띠별 운세 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLZm1WTkNKbWRwYVNJR1EtR0pKbmNZel9SY1BybDZ2RnBJM3JlSzlEbkFBbkFvWWFwSE9oZmpISFkzYmZ0OXNqamk5VnRsNVV1Ulpyc3ZCU2VSQQ?oc=5",
+        "summary": "[오늘의 운세] 11월 8일 띠별 운세 한국경제 [오늘의 운세] 11월 8일 띠별 운세 - 한국경제",
+        "published": "Sat, 07 Nov 2026 15:00:04 GMT",
+        "published_kst": "2026-11-08T00:00:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "꺾이는 증시, 들끓는 개미…증시 법안 두고 與 '골머리' [여의도는 지금] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xZzRFaWVPaW9rVnNzd3J1QUNYWXVMSFNuWEQzb0JBQWhKb3ZWTFJoXzcyOHhTYTE1Sl9vZ1pwYUluaHFkNU1JZV9weUhuLUlaS2hnMXdTLU82dw?oc=5",
-        "summary": "꺾이는 증시, 들끓는 개미…증시 법안 두고 與 '골머리' [여의도는 지금] 한국경제 꺾이는 증시, 들끓는 개미…증시 법안 두고 與 '골머리' [여의도는 지금] - 한국경제",
-        "published": "Sat, 07 Nov 2026 11:24:00 GMT",
-        "published_kst": "2026-11-07T20:24:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "'삐끼삐끼' 이주은, 대만 야구장 달구더니…깜짝 근황 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IUjFTSTJEYUVJaXFqeHBERllGNTUzbTh0Wnhoc1pPbnhFZ2lRX0tWSnR4Z0Z4Y1pfcVVSZE9fa08zb2ZOTlA4a2hfdkhwMmpaTlItVzdFc3g2Zw?oc=5",
-        "summary": "'삐끼삐끼' 이주은, 대만 야구장 달구더니…깜짝 근황 한국경제 '삐끼삐끼' 이주은, 대만 야구장 달구더니…깜짝 근황 - 한국경제",
-        "published": "Sat, 07 Nov 2026 10:49:56 GMT",
-        "published_kst": "2026-11-07T19:49:56+09:00",
+        "title": "중국 옌타이, AI 연산센터 5.8억 위안 투자…한·중 경제협력 프로젝트 11건 유치 - 뉴스비전e",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtSkFDeDNIWV9SS3Z1SnlKSGpDWVBPR0UxSEh3WGVXUEdBNlVpV0ZvanJNRzNxVHRXVVg5MTNUcTA1WjNPQlA1MTdUYnNsbEdNdElIY1JiSnhrVVJIeTZHUVBVaUJ3QQ?oc=5",
+        "summary": "중국 옌타이, AI 연산센터 5.8억 위안 투자…한·중 경제협력 프로젝트 11건 유치 뉴스비전e 중국 옌타이, AI 연산센터 5.8억 위안 투자…한·중 경제협력 프로젝트 11건 유치 - 뉴스비전e",
+        "published": "Sat, 07 Nov 2026 13:44:34 GMT",
+        "published_kst": "2026-11-07T22:44:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Armed man arrested near White House after saying voices told him to kill Trump Politico Armed man arrested near White House after saying voices told him to kill Trump - Politico / \"호남반도체 방해하는 미군 박살\"…기지 난입 대학생들 항소 한국경제 \"호남반도체 방해하는 미군 박살\"…기지 난입 대학생들 항소 - 한국경제 / Seeing Like a Supply Chain ProMarket Seeing Like a Supply Chain - ProMarket",
+  "wrap_summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress. Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup / [오늘의 운세] 2026년 11월 8일 별자리 운세 한국경제 [오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제 / Seeing Like a Supply Chain ProMarket Seeing Like a Supply Chain - ProMarket",
   "invest_summary": ""
 }
