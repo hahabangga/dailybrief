@@ -1,9 +1,57 @@
 {
   "date": "2026-11-08",
-  "generated_at_utc": "2026-11-07T16:12:54Z",
-  "cutoff_kst": "2026-11-08T01:12:00+09:00",
+  "generated_at_utc": "2026-11-07T17:57:10Z",
+  "cutoff_kst": "2026-11-08T02:57:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+        "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+        "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July. Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+        "published": "Sat, 07 Nov 2026 17:51:16 GMT",
+        "published_kst": "2026-11-08T02:51:16+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$17.5"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data - FOREX.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3F0eEpPdmd4NmRjNFZ2MVJNaHRhVE1GM29XbjJRLV9WV1JCTkRyX0hPTkVJVXJ6dnkxWkZiTHF4YTBzMlJ6X3RoM0xqLTZFSkFudzZUV3Z1QlBSWVhTOWJzSnNZU210dVVMcHZOd2hqMXpBaG43RzV5RkwxZFNrYzZrY3djUGhRc0lmUmlZMGsxOUtMamtOb3h1U1lXQXhrMmluaXlKbWYtZk1QTXJmTzZyYVhQQWl4SkY0eg?oc=5",
+        "summary": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data FOREX.com Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data - FOREX.com",
+        "published": "Sat, 07 Nov 2026 17:46:58 GMT",
+        "published_kst": "2026-11-08T02:46:58+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$4"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US MARKETS CALL: S&P 500 Valuation Dives As Earnings Soar - Yardeni QuickTakes",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPME5WNUlORDdUS1ZYX0o3Wm04VHkzVEJsZDFJZ18tV2lvZm9sdlZRR3BMMjZsR2JqTjlfRnlXY2x0YXgyeUJUYkpYOFdPNDJ0MkNBWm9vMGhBTGNoTUR2Zm5OVnkzNlBycktVZjNXTzk2MjBEZlFPOHhLSlBORFUwczcxR1VGMEpVS2tXdElxWXptNk02M1E?oc=5",
+        "summary": "US MARKETS CALL: S&P 500 Valuation Dives As Earnings Soar Yardeni QuickTakes US MARKETS CALL: S&P 500 Valuation Dives As Earnings Soar - Yardeni QuickTakes",
+        "published": "Sat, 07 Nov 2026 17:38:49 GMT",
+        "published_kst": "2026-11-08T02:38:49+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5",
+        "summary": "3 things to know about Stephen Miller, new White House chief of staff The Washington Post 3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
+        "published": "Sat, 07 Nov 2026 17:01:42 GMT",
+        "published_kst": "2026-11-08T02:01:42+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
         "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
@@ -22,52 +70,6 @@
         "published": "Sat, 07 Nov 2026 15:23:46 GMT",
         "published_kst": "2026-11-08T00:23:46+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US employers added surprising 165,000 jobs in October; unemployment rate dipped to 4.1% - WFAA",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPODRXQ25YSWpwTW1tRU93NVpTdjdKLV9WMVFial9TeEdabF9mSXRacGJYd1RzSS1SalBISFozUXRvemxpQm40NjlDcUI1RlE2bjNUYnQwaE5NNkFiTEs3TkN5UVFLWHVlbER6SV9fSlpOOWpHOW9yM2JRc25BV3VnY3pPYjJWM05rQnRGMGUtblpzUk81QkNGUXFoZkVYSWE0UkFqak5ZY2lUM1k3UERwTmh2V3RwN1BEZlVFY01VVjBmN0lSTnQ5c2pnYTRYclplREdET2ZrQ0s0c0o5WXo0Qk0wWDVtd05COHkzWEJ1bmhkaXo4eU9ZVkx3?oc=5",
-        "summary": "US employers added surprising 165,000 jobs in October; unemployment rate dipped to 4.1% WFAA US employers added surprising 165,000 jobs in October; unemployment rate dipped to 4.1% - WFAA",
-        "published": "Sat, 07 Nov 2026 15:12:55 GMT",
-        "published_kst": "2026-11-08T00:12:55+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "4.1%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week - dailyrecordnews.com",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRjlqelV0clNkVndLS0RKTDdxVUtYMFI4Z0N1LS1iZEhGV0RvT3ZkcGZpeFV2QXRjQk4xbmR2TFd6LXZwZC1QbmxIakJVeUtUS01hanMzMGRJTTNLQzNSaExRS2wyNEx5R180M3JleXl6dVNCcWtJd3NhMk56Y1B5SDl2Uy1SRHphMl9faEhtNkdLaUdWNkxPamJQQndRc0Zna2ctNDM0Ym8tMmtHYkFTYWozWjZCMXNzT0hlb09DLWFfT0NRSi04a29TT1A4MVJxYXgtQWVVekZ3WVFSN3UzczlqazJ2a0N3QXpWNVJIYXM4TXdjYk9qVXV1U1g0MUJVaUs4b0VsSDZZRjNET3hMY2p3?oc=5",
-        "summary": "Inflation, housing, jobs and corporate earnings will dominate the business calendar this week dailyrecordnews.com Inflation, housing, jobs and corporate earnings will dominate the business calendar this week - dailyrecordnews.com",
-        "published": "Sat, 07 Nov 2026 15:10:07 GMT",
-        "published_kst": "2026-11-08T00:10:07+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "America's newest small business owners with no employees are off to a hot start in AI era",
-        "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
-        "summary": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring. America's newest small business owners with no employees are off to a hot start in AI era",
-        "published": "Sat, 07 Nov 2026 14:45:01 GMT",
-        "published_kst": "2026-11-07T23:45:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "In his words: New White House chief of staff Stephen Miller is US immigration hardliner, bombastic critic of Democrats - ABC7 Chicago",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGtEdXV5SWMzTzlMVWdHcUlvZWdfLW8wVExKZkpNcGJxQ2FZZU84VmxLWUd1TWl4UENONmNuZkZaUTNfbDVQSzFPV2FfTjhubGhxNVRnX3ZmRWRiM0tjTkVEaTFFZ0dKeWhxUGJTS21xdmVkazctSnRPMy1nVkFOZzN1LWhZUGlNcmFPMWJfUUFKYi1Bbm5iaG9RN2l4RlYyUFM3OTNIYUxmaVR4Q0NpWVdtdk9Wb3lOVzYxSFdoVWM1dThhODZsb3ZMcHF3WnZSUzhUeUY1d1I5d9IB3wFBVV95cUxNRGlwWnMwa2J0ZTNwUTlYblBQWkNHNklxRHlacVh2RVlJZERyMGVJMjRlNlQ3cjFUWVpmbXg5a3ZoRmptX3hSd1JQNnNyYlBRVzN5THR0YXBvaldxb0g1eTktdjh1LVFfVmhmb3VDczR4aXZfTnRnLVRhUFFjZXB0VUstM3lBV1d3SDlua3FieHUtLXgyM2hucDQ2MDRrbW1MVDdnQUFUVTJFTjQ3YWNXQ3lOTnFudXowTWlQSUc1d2VibFpld0ZLd0Q3OUhYZUI2T1plb3ItYUN1d0tCMXg4?oc=5",
-        "summary": "In his words: New White House chief of staff Stephen Miller is US immigration hardliner, bombastic critic of Democrats ABC7 Chicago In his words: New White House chief of staff Stephen Miller is US immigration hardliner, bombastic critic of Democrats - ABC7 Chicago",
-        "published": "Sat, 07 Nov 2026 12:26:49 GMT",
-        "published_kst": "2026-11-07T21:26:49+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -148,6 +150,6 @@
       }
     ]
   },
-  "wrap_summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress. Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup / [오늘의 운세] 2026년 11월 8일 별자리 운세 한국경제 [오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제 / Seeing Like a Supply Chain ProMarket Seeing Like a Supply Chain - ProMarket",
+  "wrap_summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July. Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO / [오늘의 운세] 2026년 11월 8일 별자리 운세 한국경제 [오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제 / Seeing Like a Supply Chain ProMarket Seeing Like a Supply Chain - ProMarket",
   "invest_summary": ""
 }
