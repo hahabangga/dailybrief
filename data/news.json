@@ -1,38 +1,49 @@
 {
   "date": "2026-11-08",
-  "generated_at_utc": "2026-11-08T00:56:19Z",
-  "cutoff_kst": "2026-11-08T09:56:00+09:00",
+  "generated_at_utc": "2026-11-08T08:12:11Z",
+  "cutoff_kst": "2026-11-08T17:12:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5",
-        "summary": "3 things to know about Stephen Miller, new White House chief of staff The Washington Post 3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
-        "published": "Sun, 08 Nov 2026 00:32:20 GMT",
-        "published_kst": "2026-11-08T09:32:20+09:00",
+        "title": "US bonds’ midterm election rally skids to halt after strong jobs data - The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeEV3UnJhMTFEb3czZ25jd1ZUX3V3VF9IRTBoUjZEWmE4UXVNSGRpc0pYaXFGeXJ0bHN5ZFRjMmFGZUJlTjFYZzBiOWpERmZoSHFtSVJhMTJlN3puY01oSEdwc3NIZUJ2bS15NmxmOFdxNGFjMHY5cmRHdjJURzRrajF2SFZ5QVRudi1JV1V2OWpqbTFMYXlpdXZhOXRDaXBVcVVBWkpLTE9DR1NmSTYwbjdoUkN5b0ZqdmFRTXdFa0RxYXBMN2M3QVVFZXQ3N0tsQ3dKWnQwaENPWEU?oc=5",
+        "summary": "US bonds’ midterm election rally skids to halt after strong jobs data The Business Times US bonds’ midterm election rally skids to halt after strong jobs data - The Business Times",
+        "published": "Sun, 08 Nov 2026 07:49:00 GMT",
+        "published_kst": "2026-11-08T16:49:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Susie Wiles’s exit adds to list of women leaving top roles in Trump administration - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeHR1Y3YtYlJlVVhBVS04R2JnczFFZ1JWOEtjYkZIMFlvb2lfVERuYzJFQWdRMnNaWExYNnZvSGhuTnJrZTNTMHV0QWRmRFl0RncwX0hTQ3FOOVlnVUREeTJuSXh3RDEyRGdTeEptWXp4VU5fNTNMWDlPYV9XenkyYWRxNWpFWjVJWGV0YkpQRDA3VFF2U2UzWjdTTnZ2VWVyUGs3MWZtYldzXzV5UU1Tem5ZbGdobzZJQXZCSm90MGdBUQ?oc=5",
-        "summary": "Susie Wiles’s exit adds to list of women leaving top roles in Trump administration The Washington Post Susie Wiles’s exit adds to list of women leaving top roles in Trump administration - The Washington Post",
-        "published": "Sun, 08 Nov 2026 00:02:46 GMT",
-        "published_kst": "2026-11-08T09:02:46+09:00",
+        "title": "Republican Sen. Ron Johnson accuses Trump administration of corruption - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONFhmSkN5WS1HYVFMRC04SVJ4aC16WFNGeU42YmwycTdJVi1UVDY2ZnhtUlNGWjI3R0pRaGx3Szhid3RQZ0k2eXlGdWdLOGZieDBTS3B3MWRnSEFfZXlqb01WUjJ2Tll2UGxiZTFST1FjX2Y3Zi1VUDU5YVQwQkV3UmJjdWNuMUpraUYzWHcyem43U2tjaGJZMDNXeWNhbWhFSDFhdTNOQWcxeWNLZFVhdUVOdzBjSElBMFE?oc=5",
+        "summary": "Ron Johnson accuses Trump administration of corruption The Washington Post Republican Sen.",
+        "published": "Sun, 08 Nov 2026 07:00:00 GMT",
+        "published_kst": "2026-11-08T16:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump offers press secretary position to UFC head Dana White - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTNiUl8xU2lhaDVvMVhMV1JVbmJweEtIR1VGX0JnamVoNHpVYlN5S1ZZdzNPU09rTEtRYVlhcmpVOTNOS0FrX3N1dEtmTE9wemxsc3F2ZUdRb2NJLWo2WVNnNm9CTlozWC1SV2xlRDFsT01PTXdySmhiMURrM2Z0dVhtQTVRWXEzWmUwOFAzVC1FbGxFRUd0NVIyV2VwZS1samYwT0l6OXBONEU?oc=5",
-        "summary": "Trump offers press secretary position to UFC head Dana White NBC News Trump offers press secretary position to UFC head Dana White - NBC News",
-        "published": "Sat, 07 Nov 2026 23:57:41 GMT",
-        "published_kst": "2026-11-08T08:57:41+09:00",
+        "title": "US Inflation Set to Simmer Down Some After Recent Pickup - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHB3c0hUZDUwNkFjQmh3VW9PTGE3dmpzRkUwRWI2d25MZWhOcmRPOHhmaVdBNGp0YTF3WU9IaVQ0NVNtVG1nZDZTbXlYRVNWdmdpcUJ3cVdVcE5mMUltMWdwZE10Q3lmcFdHR2RINEtlcW54RW56ZkY1MnNsell5b3VLanVoTnh1Y0FKUVhZampkZ2xWUHJPOWxhSWVxa0VFRWhPbzdITTdjRzA?oc=5",
+        "summary": "US Inflation Set to Simmer Down Some After Recent Pickup Bloomberg.com US Inflation Set to Simmer Down Some After Recent Pickup - Bloomberg.com",
+        "published": "Sun, 08 Nov 2026 06:32:00 GMT",
+        "published_kst": "2026-11-08T15:32:00+09:00",
         "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+        "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+        "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now. Cathie Wood 'always feels better when the market is worried' — here's why",
+        "published": "Sun, 08 Nov 2026 06:00:01 GMT",
+        "published_kst": "2026-11-08T15:00:01+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -58,48 +69,37 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-        "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-        "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin. Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-        "published": "Sat, 07 Nov 2026 21:59:10 GMT",
-        "published_kst": "2026-11-08T06:59:10+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "한국노총 '약속할땐 노동존중, 돌아온건 불통정치' - 영등포신문",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00QkVURUdqQXRQNTdRZ3ZVN3czb193VXc0bTNYREVmVDRaeDVBa0RiZlhLb3RxNC1SbW4tXzZyT1ViYWxuOFRnUDhnSml0Nk90UWJJOEhqTjJZaGJN?oc=5",
-        "summary": "한국노총 '약속할땐 노동존중, 돌아온건 불통정치' 영등포신문 한국노총 '약속할땐 노동존중, 돌아온건 불통정치' - 영등포신문",
-        "published": "Sun, 08 Nov 2026 00:39:38 GMT",
-        "published_kst": "2026-11-08T09:39:38+09:00",
+        "title": "이미경 '美 아시안 명예의 전당' 헌액 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tUXhjWTFEQ2lYMmFwV1JRVTRxS3dmNzBHdTI4RkJGZ3pBbDhoZy11WGlOeDNXVk85NW8zZ3lrYk9xai1CUzJiZ18wSVItcHVuMWwyWHQzUU41UQ?oc=5",
+        "summary": "이미경 '美 아시안 명예의 전당' 헌액 한국경제 이미경 '美 아시안 명예의 전당' 헌액 - 한국경제",
+        "published": "Sun, 08 Nov 2026 08:09:47 GMT",
+        "published_kst": "2026-11-08T17:09:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[미국 중간선거와 한국 산업①] 美 의회 권력 이동, 트럼프 경제정책 시험대…레임덕 빨라지나 - 뉴시안",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONGVJZENIMGstcmRfMHpvTFdHSXZJcW1xLV9uZXlTbmFHUnYwdE5SclRlZFFsQlFfajcyNUI5WE16TUJnU0VTS3NDQnhlOEJPNUZwY00yY29HOVl5TEhlc1FGa3JWQUNLLW9qbQ?oc=5",
-        "summary": "[미국 중간선거와 한국 산업①] 美 의회 권력 이동, 트럼프 경제정책 시험대…레임덕 빨라지나 뉴시안 [미국 중간선거와 한국 산업①] 美 의회 권력 이동, 트럼프 경제정책 시험대…레임덕 빨라지나 - 뉴시안",
-        "published": "Sun, 08 Nov 2026 00:38:15 GMT",
-        "published_kst": "2026-11-08T09:38:15+09:00",
+        "title": "'주자창 싹쓸이' 나선 카카오모빌리티 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJSVpWOHRjTnVSVHdTQ1RBY01VQmY4NmZTN21rOEpXWDM4NGR3S1d4UnI2YXhmeGhid3V6WjE5SzRwUm5RM3B6TllXYTFfVlFBcGV4WE8zSGRsUQ?oc=5",
+        "summary": "'주자창 싹쓸이' 나선 카카오모빌리티 한국경제 '주자창 싹쓸이' 나선 카카오모빌리티 - 한국경제",
+        "published": "Sun, 08 Nov 2026 08:08:50 GMT",
+        "published_kst": "2026-11-08T17:08:50+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국무역보험공사, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원 - TV서울",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uSmY3Q213T1VacFhHLU9nUmFZTjZlTWNjWkFPWnNQOHozb0N2NXA4eGFBYXU0QjBKNURTeDNLMmNXYURlcmdkSjZKMFY3VFV6TjQtVm1qazI?oc=5",
-        "summary": "한국무역보험공사, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원 TV서울 한국무역보험공사, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원 - TV서울",
-        "published": "Sun, 08 Nov 2026 00:04:17 GMT",
-        "published_kst": "2026-11-08T09:04:17+09:00",
+        "title": "부캉이 이어 돌고래 안목이도 바다로 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QSUNSUmdtOFVBZWNpMWZyczNaUHVMMG9EczZPYk9TQkgtbUJqT2hIb0c3S3YtNFpzcGpHRHNaY3h2SkQtZU9GeF84MzVYRkFrN2R0MEtXZ2g4Zw?oc=5",
+        "summary": "부캉이 이어 돌고래 안목이도 바다로 한국경제 부캉이 이어 돌고래 안목이도 바다로 - 한국경제",
+        "published": "Sun, 08 Nov 2026 08:08:46 GMT",
+        "published_kst": "2026-11-08T17:08:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -107,6 +107,31 @@
       }
     ],
     "world": [
+      {
+        "title": "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks - The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOVZReHl0Y1RRS0ZKSmRGQzhjcVVFNVRMcFpNR2xZbWJpUFNibkhLY2tTSnQwOV95Q0tFVDU3eFBlaEw5OEdacjRiOWlmQ2w0MW1OQ184b3R6dGlxVlFOVThOeEJ5ZXZUWUtZM0d6MnN0cTRuMlE3blNYOTU4MWhhdzk2elVncWdEeEkyY3RpeTdKT0w5Z2FvYzdwRlRWM3FNdEdvZWtlVTAwbjdaN180Sm1FSjI4eWQ2SFFEcHRuZ0Rrak4zMXNLQTRrVXpYdWRaUEswMFJWT2VyY0g4NHBQbUZlQllFczAzMGR0eTBuNThIbkRhR2g0bGlR0gH_AUFVX3lxTFBrbXFoM0ozQVVvbHJ3X3l4ZkJsWmozNTkzNWVmZUw0SHpnVFFsQnhSeDVQaFhDalByQTg4bEU4TEs0UUJDcDBDb195OVF5ZU5XajVHTG5MUEoya2FRUFhNWjg4SkhlTXE3M0pHS2czYzFxemV2X0d6dUZ0NHFtODAtWFJQdXVpd3BTSVljYUphcEJxR0ZwYzJYX2ZWRHFILW1STkZJcEVGRXo1YVFiMVAzczJTMGR1enZVd2JHNmNRd2VIWGJHMWwxNDdsN2xQQ3o2M1ozZE04WnptNnJZZ2lmS19rbThVcmdpQjdCazFzcUZmaVUxR3MxTmtuSmxZSQ?oc=5",
+        "summary": "IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks The Economic Times IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks - The Economic Times",
+        "published": "Sun, 08 Nov 2026 05:43:11 GMT",
+        "published_kst": "2026-11-08T14:43:11+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees - Global South Opportunities",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xbko2clV4Vk9BNWZZcS1UTEZfazJxVThzUjdkX0pTcE5xVnJzemdFc01ZVnVBUzU0c1R5MGxoT1JWOWFxbW5lMVRTRzdqSlljMEFPUzZFOWVsbDdBazVNTmhfb0x4QjcxcHRB?oc=5",
+        "summary": "Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees Global South Opportunities Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees - Global South Opportunities",
+        "published": "Sat, 07 Nov 2026 22:59:52 GMT",
+        "published_kst": "2026-11-08T07:59:52+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026",
+          "$35"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Middle East Port Diversions Still 2.4x Higher - Supply & Demand Chain Executive",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUFpQWEwUnlBdS1WYVpBN194STdFa2lTTDY5NS1YaElqMHRZaXBuNTVVQmpTTGF3d2hKUDV2M2hsSXdFUm5rVEhiSzU1QlFpMW9wVS1sRzZTMWY2UGcyMkRHTnR4NVNNWWpjdXlRZ3I5Sng1dTlsWkdEVjVwQnFybDJDUDl3UWh4T0NxWFdDV0ZTSWpEUzFsenFsVTFoTV9wcERzRFVjaGgyOVl6dUVGSnU1LWQyT0hmbDE3QVVPNnU0QThsS2Fr?oc=5",
@@ -117,34 +142,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees - Global South Opportunities",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xbko2clV4Vk9BNWZZcS1UTEZfazJxVThzUjdkX0pTcE5xVnJzemdFc01ZVnVBUzU0c1R5MGxoT1JWOWFxbW5lMVRTRzdqSlljMEFPUzZFOWVsbDdBazVNTmhfb0x4QjcxcHRB?oc=5",
-        "summary": "Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees Global South Opportunities Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees - Global South Opportunities",
-        "published": "Sat, 07 Nov 2026 20:57:44 GMT",
-        "published_kst": "2026-11-08T05:57:44+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026",
-          "$35"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Flexible Four-Tier Sourcing: How an Integrated Powder, Disc, and Capacitor Supplier Optimizes Supply Chain Efficiency - EIN News",
-        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMzJ3TFMyLXZCQkhlS0d4eTYzbHNEdnhhcWR1dE84bFlLVnBYUmVhZUNDSldpbWhLYUdZTzZNLXF3Sm9YNlR2cGRGc1pnNHZaWnU4WmsxSGRaUHdpMWpQQk5sM0ZDYm8waVYwRTFqN1BKdE82WjQzdkxNOWFOdDlIZVRjVlpGVlNXUEVoTTdpVlBjT3Rad2dLeWppS2VyQnRNS0F0NU90Mi15cjhRMTdsVUFTNURzaWtNeU96N3ZDNUNnMkw2WGw2d2dhel8wTEp4ckV1MlAtYlB2Y29zaTFVeEtCbWtESTFjVW5OSQ?oc=5",
-        "summary": "Flexible Four-Tier Sourcing: How an Integrated Powder, Disc, and Capacitor Supplier Optimizes Supply Chain Efficiency EIN News Flexible Four-Tier Sourcing: How an Integrated Powder, Disc, and Capacitor Supplier Optimizes Supply Chain Efficiency - EIN News",
-        "published": "Sat, 07 Nov 2026 14:28:00 GMT",
-        "published_kst": "2026-11-07T23:28:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "3 things to know about Stephen Miller, new White House chief of staff The Washington Post 3 things to know about Stephen Miller, new White House chief of staff - The Washington Post / 한국노총 '약속할땐 노동존중, 돌아온건 불통정치' 영등포신문 한국노총 '약속할땐 노동존중, 돌아온건 불통정치' - 영등포신문 / Middle East Port Diversions Still 2.4x Higher Supply & Demand Chain Executive Middle East Port Diversions Still 2.4x Higher - Supply & Demand Chain Executive",
+  "wrap_summary": "US bonds’ midterm election rally skids to halt after strong jobs data The Business Times US bonds’ midterm election rally skids to halt after strong jobs data - The Business Times / 이미경 '美 아시안 명예의 전당' 헌액 한국경제 이미경 '美 아시안 명예의 전당' 헌액 - 한국경제 / IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks The Economic Times IOC to buy crude, LPG ships as West Asia crisis exposes shipping risks - The Economic Times",
   "invest_summary": ""
 }
