@@ -1,26 +1,59 @@
 {
   "date": "2026-11-09",
-  "generated_at_utc": "2026-11-08T16:33:54Z",
-  "cutoff_kst": "2026-11-09T01:33:00+09:00",
+  "generated_at_utc": "2026-11-08T18:13:49Z",
+  "cutoff_kst": "2026-11-09T03:13:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Will US inflation data ease affordability concerns? - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1gxeFlicC03N0VwSW1fUFZpUlV0UDdCQ2Q2SkJoVGF2d2YzUEg1RDNHbWJTNDgzMTd0TURpVkRoRTl6UjZrd0NMbG5vZFh5VjRxXzU4bmVFdzl4Szl1RlNvdXpGTUpKMjZqYjdmbEFaNmtaNHZUTFdRR0pobFJzZ1Z4M2U?oc=5",
-        "summary": "Financial Times Will US inflation data ease affordability concerns?",
-        "published": "Sun, 08 Nov 2026 16:20:06 GMT",
-        "published_kst": "2026-11-09T01:20:06+09:00",
+        "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+        "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+        "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset. Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+        "published": "Sun, 08 Nov 2026 18:06:12 GMT",
+        "published_kst": "2026-11-09T03:06:12+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
+        "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+        "summary": "CoreWeave earnings and inflation data will take center stage. Here are the 2 big things we're watching in the stock market in the week ahead",
+        "published": "Sun, 08 Nov 2026 17:40:15 GMT",
+        "published_kst": "2026-11-09T02:40:15+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Justice Department braces for congressional scrutiny after Democrats sweep elections - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1k5bkNuRlJYajVrcWdnNFBwMXRRRG4zZlRoY2E3ZWw2bENleE00ZnVXQU40MVhKd2REU1JFbTRFZXFWN1dHajFyVXN5UVJZWGt6ZGotcXFLMzN4c0xqeU5Jb3VLeHNGM3dEalNEdUhPY1RId3RBME84ZWNhN1l5eExYR0pLcDNlZ1QwZU5fcUVTRHprcXVQbUZEQ3NJeGVGRWVaZUl6TUduZnRTdVhRQV9XWGJxQ192VWRUYV84cF9iQVlE?oc=5",
+        "summary": "Justice Department braces for congressional scrutiny after Democrats sweep elections The Washington Post Justice Department braces for congressional scrutiny after Democrats sweep elections - The Washington Post",
+        "published": "Sun, 08 Nov 2026 17:36:56 GMT",
+        "published_kst": "2026-11-09T02:36:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "UFC CEO Dana White to visit White House after Trump offers him press secretary role - WLWT",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVZzNTVMMDRWbXhJbEtVWDNjM281RWZxNEtxcmVEUnNTM1VJSy05V1BMR1cxSWQ2czE0cmZuVTJYemdQT3dIb2RCQnRYMDY2ZERNOWZiMjloY0JzZHE1dzJvTlZvbmRadFp3MnRFZmNTa2NwbXd4S25lalNlVUw2Z0NoNzA?oc=5",
-        "summary": "UFC CEO Dana White to visit White House after Trump offers him press secretary role WLWT UFC CEO Dana White to visit White House after Trump offers him press secretary role - WLWT",
-        "published": "Sun, 08 Nov 2026 16:11:00 GMT",
-        "published_kst": "2026-11-09T01:11:00+09:00",
+        "title": "With Stephen Miller at the helm, Trump charts a course for conflict - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0hzOUNLZUw4VklCNFBfZ0lyaU1WWTVXaFJUT0NNd3J4VUloem9VdDRfbW96WXh6MWQwLURSbC1LN3d5N2h5VGhteVRyWlB6RXI0bTBpdTBXVkVFbmQyRjZqLWlvVUl5R2g4QU13QzFlbzRKVmMwSmRCdEtyaHZQbGdBSmZvY2ZqRmFWMFJDQm5YVGVQNnRKYW03STJMVTI2RkhDLVh6N2dyX01JaWc?oc=5",
+        "summary": "With Stephen Miller at the helm, Trump charts a course for conflict Reuters With Stephen Miller at the helm, Trump charts a course for conflict - Reuters",
+        "published": "Sun, 08 Nov 2026 17:25:07 GMT",
+        "published_kst": "2026-11-09T02:25:07+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Democrats eye Musk, Miller probes after midterm rout - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbWFGX05UdDR5UEFldE1ZWU5JTEpqczV4ZkFvZFRROWlvLWdsMlpocDZaY0R4eU1FSkJONjlVMGtDOFRVVjJHeWp3X3VWVWREMGdqQWN5WDdFamtYR2VBb0h3b3BrZTlUQlpGTDRzdVd6ZWowSDJoQnJ1eVFvX3B5SVZ5N0h2X0EwMWhYdGhHUzFHd0VUTEdLVW9OVFh6UUFLb09ZWF9BWQ?oc=5",
+        "summary": "Democrats eye Musk, Miller probes after midterm rout Reuters Democrats eye Musk, Miller probes after midterm rout - Reuters",
+        "published": "Sun, 08 Nov 2026 17:22:40 GMT",
+        "published_kst": "2026-11-09T02:22:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -36,59 +69,26 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Justice Department braces for congressional scrutiny after Democrats sweep elections - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1k5bkNuRlJYajVrcWdnNFBwMXRRRG4zZlRoY2E3ZWw2bENleE00ZnVXQU40MVhKd2REU1JFbTRFZXFWN1dHajFyVXN5UVJZWGt6ZGotcXFLMzN4c0xqeU5Jb3VLeHNGM3dEalNEdUhPY1RId3RBME84ZWNhN1l5eExYR0pLcDNlZ1QwZU5fcUVTRHprcXVQbUZEQ3NJeGVGRWVaZUl6TUduZnRTdVhRQV9XWGJxQ192VWRUYV84cF9iQVlE?oc=5",
-        "summary": "Justice Department braces for congressional scrutiny after Democrats sweep elections The Washington Post Justice Department braces for congressional scrutiny after Democrats sweep elections - The Washington Post",
-        "published": "Sun, 08 Nov 2026 15:34:24 GMT",
-        "published_kst": "2026-11-09T00:34:24+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-        "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-        "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin. Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-        "published": "Sun, 08 Nov 2026 14:15:00 GMT",
-        "published_kst": "2026-11-08T23:15:00+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
-        "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
-        "summary": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
-        "published": "Sun, 08 Nov 2026 14:14:11 GMT",
-        "published_kst": "2026-11-08T23:14:11+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0taHlMUmlyWWNEeUZoelhnQ0VEMDJuSkk2WmR5V3o2OGw5czJhc1BYcjFDTzBIaGFkVDlwdllpN0JEdVF0anRJejhtQUxaY19CVzFJNUVoSW1KUQ?oc=5",
-        "summary": "수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나 한국경제 수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나 - 한국경제",
-        "published": "Sun, 08 Nov 2026 15:36:00 GMT",
-        "published_kst": "2026-11-09T00:36:00+09:00",
+        "title": "한국 정부는 미성년자의 소셜 미디어 이용 규제를 강화하는 방안을 검토 중입니다. - Vietnam.vn",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeXZWWlQxdFlreU9iNUdvM3RfYlVRbVVuMmtjZ0EtMDFWTlpUYUtVVmsxN01uYTFQdFlpd1VaUFBXYm94VkNIYlhmblZ2em05TkUydTFnaTA2ZVlrVGVMMllsUUlGVkxnTXp4U1Rtb0xOMDgzcEdVRlRpZDlnQTdXVlFXT19NZEgtZmFsWmIxSXl0eEgxSXg2QTdR?oc=5",
+        "summary": "Vietnam.vn 한국 정부는 미성년자의 소셜 미디어 이용 규제를 강화하는 방안을 검토 중입니다.",
+        "published": "Sun, 08 Nov 2026 17:10:10 GMT",
+        "published_kst": "2026-11-09T02:10:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"워크아웃 상시화해야\" VS \"소수 채권자 권리 침해\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uQklOZl8wY0szenNvQlRnZHhyNDVXZWVhUmNNMDJVNExiV1MxRXBzaEIxNEd1NzFyRjhIMm5vLXB1WjdFblZlMnVMekZ1UTl6cVZTbURHZXNCZw?oc=5",
-        "summary": "\"워크아웃 상시화해야\" VS \"소수 채권자 권리 침해\" 한국경제 \"워크아웃 상시화해야\" VS \"소수 채권자 권리 침해\" - 한국경제",
-        "published": "Sun, 08 Nov 2026 15:30:00 GMT",
-        "published_kst": "2026-11-09T00:30:00+09:00",
+        "title": "한국콜마, 고객사 6곳과 호주 K-뷰티 시장 공략 수출 판로 확대 - 코스인코리아닷컴",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XUlNEOXF4V2plY2lKQ0RFaUtHaHdGMVZRZi10ZXBrWDIwVVN2MS1fU3RSYVlyNVhaZG9ENTBjemY2azNUUG1jY2FWMUxSZXBxX2doRi1PTEVvazFiTm5EeW5VZw?oc=5",
+        "summary": "한국콜마, 고객사 6곳과 호주 K-뷰티 시장 공략 수출 판로 확대 코스인코리아닷컴 한국콜마, 고객사 6곳과 호주 K-뷰티 시장 공략 수출 판로 확대 - 코스인코리아닷컴",
+        "published": "Sun, 08 Nov 2026 16:34:42 GMT",
+        "published_kst": "2026-11-09T01:34:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -107,6 +107,17 @@
       }
     ],
     "world": [
+      {
+        "title": "Sphera AI Turns Supply Chain Signals Into Fast Decisions - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdnMwMGtrenVNdmNqVFZnLVBwa1JIbFhwRHVtd1czbE03aGxHa0IzSFc1T2xNdFdFQVB6N0pFSXdBLXZLYlhvN0lwbEs1dGdQc1JVRDVNa3dhRFZ2QUQ4UUFMaXB4Uzl2S29CSzRkbW1YeU5CRUZ6LWdCTlM2TFdGQTlYUWJ4T3pHR1N3a0dmT3A4UzFJUUVCRDJUT2M5SkRGcWlYbDlKcXVpb2VCbXotRDI5UEhFaUUyYzg2TXhkQ2tjX25QUlloZ3FhejVSVG1aOXdrVExVN05ZdmlIeVh5d1BQT2VTYjk0dW5rWkp5dGRqT2s?oc=5",
+        "summary": "Sphera AI Turns Supply Chain Signals Into Fast Decisions Supply & Demand Chain Executive Sphera AI Turns Supply Chain Signals Into Fast Decisions - Supply & Demand Chain Executive",
+        "published": "Sun, 08 Nov 2026 17:26:46 GMT",
+        "published_kst": "2026-11-09T02:26:46+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Building a Shock-Resilient Supply Chain: New Risk-Management Strategies - Asia Insurance Post",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lY1R2TDRCaFVoQ1RmRTJXLWF2U3E4LVJzMm1OWnYwbTZ2aGNkOXYzQjBuX0N4eFFybE5fRFcwVjRYVDI0RGtPVlJadUxSZTk4THhRN0x2SQ?oc=5",
@@ -128,20 +139,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "A 1-km supply chain: Inside world's largest electronics market, Shenzhen - CGTN",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcFZzbExvb2I2dzBPcmZWcUpmTzlrZENHVFRFelJBZVZXUTdEM0NWa2lNMUU3SUdnejdKZlkxWWpQYUU2bmxIakxxbWt0VUxJQzdqNmUwVWZTXzcwUzNRUlNVenpiODQyakN5V1QwZjhVWlRvWnhKQ0Y3bi1JdXJneVNBZnd0UDVjMEdhV2NkTG1mX19BWXBlV284eVY1RTF3OVVXSXVNMkxwZmwzczdYd1BBejA5X0wwdGc?oc=5",
-        "summary": "A 1-km supply chain: Inside world's largest electronics market, Shenzhen CGTN A 1-km supply chain: Inside world's largest electronics market, Shenzhen - CGTN",
-        "published": "Sun, 08 Nov 2026 08:38:27 GMT",
-        "published_kst": "2026-11-08T17:38:27+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Financial Times Will US inflation data ease affordability concerns? / 수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나 한국경제 수억대 '재초환 청구서' 현실화…'닥공 속도전' 제동 걸리나 - 한국경제 / Building a Shock-Resilient Supply Chain: New Risk-Management Strategies Asia Insurance Post Building a Shock-Resilient Supply Chain: New Risk-Management Strategies - Asia Insurance Post",
+  "wrap_summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset. Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link / Vietnam.vn 한국 정부는 미성년자의 소셜 미디어 이용 규제를 강화하는 방안을 검토 중입니다. / Sphera AI Turns Supply Chain Signals Into Fast Decisions Supply & Demand Chain Executive Sphera AI Turns Supply Chain Signals Into Fast Decisions - Supply & Demand Chain Executive",
   "invest_summary": ""
 }
