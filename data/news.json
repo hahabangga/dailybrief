@@ -1,74 +1,70 @@
 {
   "date": "2026-11-08",
-  "generated_at_utc": "2026-11-07T17:57:10Z",
-  "cutoff_kst": "2026-11-08T02:57:00+09:00",
+  "generated_at_utc": "2026-11-08T00:56:19Z",
+  "cutoff_kst": "2026-11-08T09:56:00+09:00",
   "regions": {
     "us": [
-      {
-        "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-        "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-        "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July. Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-        "published": "Sat, 07 Nov 2026 17:51:16 GMT",
-        "published_kst": "2026-11-08T02:51:16+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$17.5"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data - FOREX.com",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3F0eEpPdmd4NmRjNFZ2MVJNaHRhVE1GM29XbjJRLV9WV1JCTkRyX0hPTkVJVXJ6dnkxWkZiTHF4YTBzMlJ6X3RoM0xqLTZFSkFudzZUV3Z1QlBSWVhTOWJzSnNZU210dVVMcHZOd2hqMXpBaG43RzV5RkwxZFNrYzZrY3djUGhRc0lmUmlZMGsxOUtMamtOb3h1U1lXQXhrMmluaXlKbWYtZk1QTXJmTzZyYVhQQWl4SkY0eg?oc=5",
-        "summary": "Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data FOREX.com Gold weekly outlook: XAU/USD holds above $4,000 despite strong US jobs data - FOREX.com",
-        "published": "Sat, 07 Nov 2026 17:46:58 GMT",
-        "published_kst": "2026-11-08T02:46:58+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$4"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US MARKETS CALL: S&P 500 Valuation Dives As Earnings Soar - Yardeni QuickTakes",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPME5WNUlORDdUS1ZYX0o3Wm04VHkzVEJsZDFJZ18tV2lvZm9sdlZRR3BMMjZsR2JqTjlfRnlXY2x0YXgyeUJUYkpYOFdPNDJ0MkNBWm9vMGhBTGNoTUR2Zm5OVnkzNlBycktVZjNXTzk2MjBEZlFPOHhLSlBORFUwczcxR1VGMEpVS2tXdElxWXptNk02M1E?oc=5",
-        "summary": "US MARKETS CALL: S&P 500 Valuation Dives As Earnings Soar Yardeni QuickTakes US MARKETS CALL: S&P 500 Valuation Dives As Earnings Soar - Yardeni QuickTakes",
-        "published": "Sat, 07 Nov 2026 17:38:49 GMT",
-        "published_kst": "2026-11-08T02:38:49+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
       {
         "title": "3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0x5NXhxRFEtSUtTanJra3FqbExtTlpEMmFkYXNld2FMYjlLWlNQMnctNFFrQ1NzNzZ4VmJRbkV1dkM2WXhzUk91Z0Vja21jQ1lXOFVJWWJ3eEpKcGxta1hQWlc0am9LX1RjaDdzRU1jM2FuNEsyUkxZRV9KcS1xV2FfWVN6WVpZRjJnTjM0MXBBYThjVHJiYVFwcTBTNlRVLTZnQVFGVWotT3NrNWxJ?oc=5",
         "summary": "3 things to know about Stephen Miller, new White House chief of staff The Washington Post 3 things to know about Stephen Miller, new White House chief of staff - The Washington Post",
-        "published": "Sat, 07 Nov 2026 17:01:42 GMT",
-        "published_kst": "2026-11-08T02:01:42+09:00",
+        "published": "Sun, 08 Nov 2026 00:32:20 GMT",
+        "published_kst": "2026-11-08T09:32:20+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-        "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-        "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress. Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-        "published": "Sat, 07 Nov 2026 16:02:33 GMT",
-        "published_kst": "2026-11-08T01:02:33+09:00",
+        "title": "Susie Wiles’s exit adds to list of women leaving top roles in Trump administration - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeHR1Y3YtYlJlVVhBVS04R2JnczFFZ1JWOEtjYkZIMFlvb2lfVERuYzJFQWdRMnNaWExYNnZvSGhuTnJrZTNTMHV0QWRmRFl0RncwX0hTQ3FOOVlnVUREeTJuSXh3RDEyRGdTeEptWXp4VU5fNTNMWDlPYV9XenkyYWRxNWpFWjVJWGV0YkpQRDA3VFF2U2UzWjdTTnZ2VWVyUGs3MWZtYldzXzV5UU1Tem5ZbGdobzZJQXZCSm90MGdBUQ?oc=5",
+        "summary": "Susie Wiles’s exit adds to list of women leaving top roles in Trump administration The Washington Post Susie Wiles’s exit adds to list of women leaving top roles in Trump administration - The Washington Post",
+        "published": "Sun, 08 Nov 2026 00:02:46 GMT",
+        "published_kst": "2026-11-08T09:02:46+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump offers press secretary position to UFC head Dana White - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTNiUl8xU2lhaDVvMVhMV1JVbmJweEtIR1VGX0JnamVoNHpVYlN5S1ZZdzNPU09rTEtRYVlhcmpVOTNOS0FrX3N1dEtmTE9wemxsc3F2ZUdRb2NJLWo2WVNnNm9CTlozWC1SV2xlRDFsT01PTXdySmhiMURrM2Z0dVhtQTVRWXEzWmUwOFAzVC1FbGxFRUd0NVIyV2VwZS1samYwT0l6OXBONEU?oc=5",
+        "summary": "Trump offers press secretary position to UFC head Dana White NBC News Trump offers press secretary position to UFC head Dana White - NBC News",
+        "published": "Sat, 07 Nov 2026 23:57:41 GMT",
+        "published_kst": "2026-11-08T08:57:41+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump offers UFC chief Dana White press secretary job",
+        "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+        "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday. Trump offers UFC chief Dana White press secretary job",
+        "published": "Sat, 07 Nov 2026 23:13:38 GMT",
+        "published_kst": "2026-11-08T08:13:38+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-        "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-        "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit. Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-        "published": "Sat, 07 Nov 2026 15:23:46 GMT",
-        "published_kst": "2026-11-08T00:23:46+09:00",
+        "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+        "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+        "summary": "and Iran are on a collision course as tensions in the Middle East simmer. Risk of Iran war escalation remains high despite Democratic sweep in U.S.",
+        "published": "Sat, 07 Nov 2026 22:17:52 GMT",
+        "published_kst": "2026-11-08T07:17:52+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+        "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+        "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin. Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+        "published": "Sat, 07 Nov 2026 21:59:10 GMT",
+        "published_kst": "2026-11-08T06:59:10+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -77,35 +73,33 @@
     ],
     "kr": [
       {
-        "title": "[오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVlgtNUh1LUJ6aUUxSEFVcHkwQ0xMYnFvUGU1RmRMUnB3UWtQd0loZFhpb3Z5S3JmNF9oejFvQ2dZcmkwcExFbkNjUjVLM3ByTjhWWTFPckpQQQ?oc=5",
-        "summary": "[오늘의 운세] 2026년 11월 8일 별자리 운세 한국경제 [오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제",
-        "published": "Sat, 07 Nov 2026 15:00:06 GMT",
-        "published_kst": "2026-11-08T00:00:06+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[오늘의 운세] 11월 8일 띠별 운세 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLZm1WTkNKbWRwYVNJR1EtR0pKbmNZel9SY1BybDZ2RnBJM3JlSzlEbkFBbkFvWWFwSE9oZmpISFkzYmZ0OXNqamk5VnRsNVV1Ulpyc3ZCU2VSQQ?oc=5",
-        "summary": "[오늘의 운세] 11월 8일 띠별 운세 한국경제 [오늘의 운세] 11월 8일 띠별 운세 - 한국경제",
-        "published": "Sat, 07 Nov 2026 15:00:04 GMT",
-        "published_kst": "2026-11-08T00:00:04+09:00",
+        "title": "한국노총 '약속할땐 노동존중, 돌아온건 불통정치' - 영등포신문",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00QkVURUdqQXRQNTdRZ3ZVN3czb193VXc0bTNYREVmVDRaeDVBa0RiZlhLb3RxNC1SbW4tXzZyT1ViYWxuOFRnUDhnSml0Nk90UWJJOEhqTjJZaGJN?oc=5",
+        "summary": "한국노총 '약속할땐 노동존중, 돌아온건 불통정치' 영등포신문 한국노총 '약속할땐 노동존중, 돌아온건 불통정치' - 영등포신문",
+        "published": "Sun, 08 Nov 2026 00:39:38 GMT",
+        "published_kst": "2026-11-08T09:39:38+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "중국 옌타이, AI 연산센터 5.8억 위안 투자…한·중 경제협력 프로젝트 11건 유치 - 뉴스비전e",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtSkFDeDNIWV9SS3Z1SnlKSGpDWVBPR0UxSEh3WGVXUEdBNlVpV0ZvanJNRzNxVHRXVVg5MTNUcTA1WjNPQlA1MTdUYnNsbEdNdElIY1JiSnhrVVJIeTZHUVBVaUJ3QQ?oc=5",
-        "summary": "중국 옌타이, AI 연산센터 5.8억 위안 투자…한·중 경제협력 프로젝트 11건 유치 뉴스비전e 중국 옌타이, AI 연산센터 5.8억 위안 투자…한·중 경제협력 프로젝트 11건 유치 - 뉴스비전e",
-        "published": "Sat, 07 Nov 2026 13:44:34 GMT",
-        "published_kst": "2026-11-07T22:44:34+09:00",
+        "title": "[미국 중간선거와 한국 산업①] 美 의회 권력 이동, 트럼프 경제정책 시험대…레임덕 빨라지나 - 뉴시안",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBONGVJZENIMGstcmRfMHpvTFdHSXZJcW1xLV9uZXlTbmFHUnYwdE5SclRlZFFsQlFfajcyNUI5WE16TUJnU0VTS3NDQnhlOEJPNUZwY00yY29HOVl5TEhlc1FGa3JWQUNLLW9qbQ?oc=5",
+        "summary": "[미국 중간선거와 한국 산업①] 美 의회 권력 이동, 트럼프 경제정책 시험대…레임덕 빨라지나 뉴시안 [미국 중간선거와 한국 산업①] 美 의회 권력 이동, 트럼프 경제정책 시험대…레임덕 빨라지나 - 뉴시안",
+        "published": "Sun, 08 Nov 2026 00:38:15 GMT",
+        "published_kst": "2026-11-08T09:38:15+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "한국무역보험공사, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원 - TV서울",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uSmY3Q213T1VacFhHLU9nUmFZTjZlTWNjWkFPWnNQOHozb0N2NXA4eGFBYXU0QjBKNURTeDNLMmNXYURlcmdkSjZKMFY3VFV6TjQtVm1qazI?oc=5",
+        "summary": "한국무역보험공사, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원 TV서울 한국무역보험공사, '수출성장 플래닛' 기업 21곳 신규 선발…맞춤형 지원 - TV서울",
+        "published": "Sun, 08 Nov 2026 00:04:17 GMT",
+        "published_kst": "2026-11-08T09:04:17+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,35 +108,36 @@
     ],
     "world": [
       {
-        "title": "Seeing Like a Supply Chain - ProMarket",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxZWxZaDlzcUtDblduRmh4WWlNTHNEM0E1S1c5T3V3UzJyejZfbVVuU1Z6RmFxSWt1TmE1RVA5NVJMb1B3QWFjVmdMN3B3M0d3OUJQa1NYRTg2U2U5TGJZb3ZOTFhQX28wRkRISUU2MU1Gdw?oc=5",
-        "summary": "Seeing Like a Supply Chain ProMarket Seeing Like a Supply Chain - ProMarket",
-        "published": "Sat, 07 Nov 2026 11:00:00 GMT",
-        "published_kst": "2026-11-07T20:00:00+09:00",
+        "title": "Middle East Port Diversions Still 2.4x Higher - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUFpQWEwUnlBdS1WYVpBN194STdFa2lTTDY5NS1YaElqMHRZaXBuNTVVQmpTTGF3d2hKUDV2M2hsSXdFUm5rVEhiSzU1QlFpMW9wVS1sRzZTMWY2UGcyMkRHTnR4NVNNWWpjdXlRZ3I5Sng1dTlsWkdEVjVwQnFybDJDUDl3UWh4T0NxWFdDV0ZTSWpEUzFsenFsVTFoTV9wcERzRFVjaGgyOVl6dUVGSnU1LWQyT0hmbDE3QVVPNnU0QThsS2Fr?oc=5",
+        "summary": "Middle East Port Diversions Still 2.4x Higher Supply & Demand Chain Executive Middle East Port Diversions Still 2.4x Higher - Supply & Demand Chain Executive",
+        "published": "Sat, 07 Nov 2026 21:24:16 GMT",
+        "published_kst": "2026-11-08T06:24:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Vietnam's 2027 exports poised to benefit from global supply chain shifts - Theinvestor",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTmRyT2t1dVIycjk2cG5Ebm5kVXpvVnppMzVmQW9jTHl6YWJ6NU1UTDA3U0dPRERmVzBiaTFuNFl0ZFNyV1ZqRGJtMW5UNHNXWU5ZT1VTN0pkN1lSYXZfWS0yVUhpX2p6RzFlYldraDhpY1oyMExKaDZjeXF5MDJyUmlac2lpVmZzTXVrLXVkaTdUMEF3M0FVdU5sTjdyeFVYVmRrYTNEek1PQQ?oc=5",
-        "summary": "Vietnam's 2027 exports poised to benefit from global supply chain shifts Theinvestor Vietnam's 2027 exports poised to benefit from global supply chain shifts - Theinvestor",
-        "published": "Sat, 07 Nov 2026 10:07:11 GMT",
-        "published_kst": "2026-11-07T19:07:11+09:00",
+        "title": "Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees - Global South Opportunities",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xbko2clV4Vk9BNWZZcS1UTEZfazJxVThzUjdkX0pTcE5xVnJzemdFc01ZVnVBUzU0c1R5MGxoT1JWOWFxbW5lMVRTRzdqSlljMEFPUzZFOWVsbDdBazVNTmhfb0x4QjcxcHRB?oc=5",
+        "summary": "Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees Global South Opportunities Apply for the University of Waikato PhD Scholarship 2026 in Logistics and Supply Chain Management: Receive NZ$35,000 Annually Plus University Fees - Global South Opportunities",
+        "published": "Sat, 07 Nov 2026 20:57:44 GMT",
+        "published_kst": "2026-11-08T05:57:44+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2027"
+          "2026",
+          "$35"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why Supply Chain Due Diligence Needs a Shared Approach - Global Trade Magazine",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdjBfYWlMVG9hY2ZmcjNuVnE4NDlGTTAzNHE5alF2OHl1TEswMWxPU0VXZm54NWJGQkYzOGtNbk1BS3JkTHoxM0RGeGQ1YlpudVJlaGEyN0lHWHo3elFZcVphM0NoRU1VR2lsUWdPM1BZRkY2OVdJcFpveEZXQmVVMGRmMndNc2swZTlHY0J2SQ?oc=5",
-        "summary": "Why Supply Chain Due Diligence Needs a Shared Approach Global Trade Magazine Why Supply Chain Due Diligence Needs a Shared Approach - Global Trade Magazine",
-        "published": "Sat, 07 Nov 2026 09:22:30 GMT",
-        "published_kst": "2026-11-07T18:22:30+09:00",
+        "title": "Flexible Four-Tier Sourcing: How an Integrated Powder, Disc, and Capacitor Supplier Optimizes Supply Chain Efficiency - EIN News",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMzJ3TFMyLXZCQkhlS0d4eTYzbHNEdnhhcWR1dE84bFlLVnBYUmVhZUNDSldpbWhLYUdZTzZNLXF3Sm9YNlR2cGRGc1pnNHZaWnU4WmsxSGRaUHdpMWpQQk5sM0ZDYm8waVYwRTFqN1BKdE82WjQzdkxNOWFOdDlIZVRjVlpGVlNXUEVoTTdpVlBjT3Rad2dLeWppS2VyQnRNS0F0NU90Mi15cjhRMTdsVUFTNURzaWtNeU96N3ZDNUNnMkw2WGw2d2dhel8wTEp4ckV1MlAtYlB2Y29zaTFVeEtCbWtESTFjVW5OSQ?oc=5",
+        "summary": "Flexible Four-Tier Sourcing: How an Integrated Powder, Disc, and Capacitor Supplier Optimizes Supply Chain Efficiency EIN News Flexible Four-Tier Sourcing: How an Integrated Powder, Disc, and Capacitor Supplier Optimizes Supply Chain Efficiency - EIN News",
+        "published": "Sat, 07 Nov 2026 14:28:00 GMT",
+        "published_kst": "2026-11-07T23:28:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -150,6 +145,6 @@
       }
     ]
   },
-  "wrap_summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July. Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO / [오늘의 운세] 2026년 11월 8일 별자리 운세 한국경제 [오늘의 운세] 2026년 11월 8일 별자리 운세 - 한국경제 / Seeing Like a Supply Chain ProMarket Seeing Like a Supply Chain - ProMarket",
+  "wrap_summary": "3 things to know about Stephen Miller, new White House chief of staff The Washington Post 3 things to know about Stephen Miller, new White House chief of staff - The Washington Post / 한국노총 '약속할땐 노동존중, 돌아온건 불통정치' 영등포신문 한국노총 '약속할땐 노동존중, 돌아온건 불통정치' - 영등포신문 / Middle East Port Diversions Still 2.4x Higher Supply & Demand Chain Executive Middle East Port Diversions Still 2.4x Higher - Supply & Demand Chain Executive",
   "invest_summary": ""
 }
