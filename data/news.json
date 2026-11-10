@@ -1,78 +1,75 @@
 {
-  "date": "2026-11-10",
-  "generated_at_utc": "2026-11-10T13:49:10Z",
-  "cutoff_kst": "2026-11-10T22:49:00+09:00",
+  "date": "2026-11-11",
+  "generated_at_utc": "2026-11-10T17:36:35Z",
+  "cutoff_kst": "2026-11-11T02:36:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-        "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-        "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates. Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-        "published": "Tue, 10 Nov 2026 13:45:04 GMT",
-        "published_kst": "2026-11-10T22:45:04+09:00",
+        "title": "Inflation Continues to Challenge U.S. Economy - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVpwcENQUHRhMFlZU2YwaTBFMUhNejZDd3lWc0kyWWcxZVlPTUs4Z2NWUkpMZUFlckdoQUR1SXVfLWFIWFZ0dGVvMndxd3pqelFHRnJMT29LRkdaOVJEUk96YVlCWGkwRnMzVVp2ZTV5b29uSnZoT01zY2hPSWhCckRSaw?oc=5",
+        "summary": "Economy The New York Times Inflation Continues to Challenge U.S. Inflation Continues to Challenge U.S.",
+        "published": "Tue, 10 Nov 2026 17:28:04 GMT",
+        "published_kst": "2026-11-11T02:28:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+        "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
+        "summary": "As high prices continue to strain household budgets, many consumers have turned to credit cards to help make ends meet. Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
+        "published": "Tue, 10 Nov 2026 17:16:18 GMT",
+        "published_kst": "2026-11-11T02:16:18+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "0.4%"
+          "$1.29"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-        "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-        "summary": "Secretary of Defense Pete Hegseth railed against the Republican congressman who introduced articles of impeachment against him. Pete Hegseth decries impeachment push, defends Iran war handling",
-        "published": "Tue, 10 Nov 2026 13:44:10 GMT",
-        "published_kst": "2026-11-10T22:44:10+09:00",
+        "title": "Democrats press White House on prediction market betting by staff - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnB2eDlmMUllQ2NKWlJQYkZfaTVvYWROSlBMVWRQeVJVZmdvMWJ1a2VrOWpNNWpYSFlFTm1uck1HVVgwdVNxZTZzTk1DZ2VZaUs4LTJBNmh2NEdBa3YtNU5aUkEyWXI5RjJnVDRfa2xCSXNJQ3dReFlxOWFyWmJoNWhqRmJIYVU4cGNvaGF3?oc=5",
+        "summary": "Democrats press White House on prediction market betting by staff Fortune Democrats press White House on prediction market betting by staff - Fortune",
+        "published": "Tue, 10 Nov 2026 17:16:00 GMT",
+        "published_kst": "2026-11-11T02:16:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US inflation runs hotter than expected, raising odds of Fed hike - The Journal Record",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYWVxLXNCRkJob3Nra2xQajl2N0Ryb0R1alV4T0pETGk0d3Y5SDVXY2RtVGN1dVJfbU9LTUk3eXVVcVRrSUNXTWQyc2NDV3FyUXMtSXdmVzZfZ0dpZTh2djlmWEM4ZVFkVHVLWVdsd01xbGRQWUh2UFhObFdybjZIWU9yMmtoR3p1ZDNfUFRUa0s?oc=5",
+        "summary": "US inflation runs hotter than expected, raising odds of Fed hike The Journal Record US inflation runs hotter than expected, raising odds of Fed hike - The Journal Record",
+        "published": "Tue, 10 Nov 2026 16:56:17 GMT",
+        "published_kst": "2026-11-11T01:56:17+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Our Nvidia downgrade — plus, Cramer is looking to add to this position",
+        "url": "https://www.cnbc.com/investingclub/2026/11/10/our-nvidia-downgrade-plus-cramer-is-looking-to-add-to-this-position.html",
+        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. Our Nvidia downgrade — plus, Cramer is looking to add to this position",
+        "published": "Tue, 10 Nov 2026 16:44:13 GMT",
+        "published_kst": "2026-11-11T01:44:13+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-        "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-        "summary": "France said the cyber unit of Iran's Islamic Revolutionary Guard Corps carried out an \"unprecedented campaign\" that caused millions of euros in damage. France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-        "published": "Tue, 10 Nov 2026 13:43:38 GMT",
-        "published_kst": "2026-11-10T22:43:38+09:00",
+        "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+        "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+        "summary": "Treasury yields moved higher after hotter-than-expected CPI report. 10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+        "published": "Tue, 10 Nov 2026 16:44:11 GMT",
+        "published_kst": "2026-11-11T01:44:11+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UMUtoVXdvYjhUN2JkS3JvSzJGNlotWUJQZF9jSnNuTDNfRk9DTVE0SXNxWWFENUw1N1hhSXAwYkR6NEZmOVA1RzBXdmN4djlDdGppbjRYSlNFN0Q3M3Z3MXlMTWprRVdxM2lNMVVOS3JNLUx5TnNjTERFdHVGdw?oc=5",
-        "summary": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped The Guardian US inflation rose 0.4% in October as price increases cooled and gas costs dipped - The Guardian",
-        "published": "Tue, 10 Nov 2026 13:36:00 GMT",
-        "published_kst": "2026-11-10T22:36:00+09:00",
-        "domain": "google.com",
         "key_figures": [
-          "0.4%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Tax and Transfer Rules Should be Exempt from White House Mandates for Cost-Benefit Analysis - Yale Journal on Regulation",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTVF6SEJYU01QdlB1d2RVQ3hDbk1rZk91SUtValB0a2VtOXZuWGR1ZXdhYWZCNkItUnAtc1JHSnl0bTFaWmk0U0ItOVM4emxoSEw0Nzl0R0pRLXVtSEZvdTItekxNaGdwRUVTRFc1aklDaGZuTUFmbklRSm40c1VKcjRjRUJTVlZOMXJ3b21yRTAwT21jTnZSeFRJTGhuR3NvMVM2ekxPNjBFY3ZyQkZQNDVQQkVzQ3dsUF96Rg?oc=5",
-        "summary": "Tax and Transfer Rules Should be Exempt from White House Mandates for Cost-Benefit Analysis Yale Journal on Regulation Tax and Transfer Rules Should be Exempt from White House Mandates for Cost-Benefit Analysis - Yale Journal on Regulation",
-        "published": "Tue, 10 Nov 2026 13:34:21 GMT",
-        "published_kst": "2026-11-10T22:34:21+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3% - CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHFNQ2h0OXJRbGQxN2dWLVp5bV96cVdoejZvN0U4WmlWVmw5dTZYbWtraGpleXA1REZtaERNRDE5ODg4TFpQQk0xZjd2bWR6WHptbDBSM3UwbWJxbGVNdm9SbFVoUVFXVFlnQ3V4TFk5RXBLS24yUHExT2FBc2FjM0xYclpZUFZhUFJNTURKUkNPUV90QXJHQkhNLTROd05DNHJsMmttWjVlb1JVZU9zWGdYTQ?oc=5",
-        "summary": "CPI rose stronger than expected 0.4% in October; core rate rose 0.3% CoinDesk U.S.",
-        "published": "Tue, 10 Nov 2026 13:33:25 GMT",
-        "published_kst": "2026-11-10T22:33:25+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "0.4%",
-          "0.3%"
+          "5%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -80,33 +77,33 @@
     ],
     "kr": [
       {
-        "title": "스페이스X·테슬라 합병 어려워졌다…엔비디아 강세론 유지 [월가 업&다운] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ydU1jMlYyRHNZSlVzdVo1eGVpTlpjaEpNSGNORi1mLUNUZUJFZHVIdG9wWjZqR1lRYjVBTDdfZGhRNWwxWi1HVHd0RGI0V2pzSGc4OHFYajRHdw?oc=5",
-        "summary": "스페이스X·테슬라 합병 어려워졌다…엔비디아 강세론 유지 [월가 업&다운] 한국경제 스페이스X·테슬라 합병 어려워졌다…엔비디아 강세론 유지 [월가 업&다운] - 한국경제",
-        "published": "Tue, 10 Nov 2026 13:39:32 GMT",
-        "published_kst": "2026-11-10T22:39:32+09:00",
+        "title": "[포토] 엔비디아 시총 260조 증발…삼전닉스는 반등 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4bzZsbFNjUDRCRC12dHdyeXJxbHdxTHF3aGRfdGQ5cms2MjBURm5CZGFZXzRlM0FmeGxfanh6WnhCUk1qdnd3WHhjRjRoMl9pbE13elg0YXlGZw?oc=5",
+        "summary": "[포토] 엔비디아 시총 260조 증발…삼전닉스는 반등 한국경제 [포토] 엔비디아 시총 260조 증발…삼전닉스는 반등 - 한국경제",
+        "published": "Tue, 10 Nov 2026 16:29:00 GMT",
+        "published_kst": "2026-11-11T01:29:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXNYbTZMNnotcUdRNHRFOVFMUDNYX0J0aWx4Y3Jpd1pOUm9lVzZCUERaQzBMb25GT0J4NVJudXlJQTFrSENrU0lEdnVUM1VIdGpLZzFOcEN2Q3UtZFJkUGVYaTVUOU54Ym83OU1tZUFrOEdlQnY5QzRsRlk3MC04VWg4X0t3VnNyb3Q5ZmFUb1RFa3FNdFVXWm9OLUpCS0ZLSmNz?oc=5",
-        "summary": "No.1 경제·증권 채널 : @HKWOWTV 한국경제TV No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
-        "published": "Tue, 10 Nov 2026 13:39:32 GMT",
-        "published_kst": "2026-11-10T22:39:32+09:00",
+        "title": "울산 울주군 '국내 최고 여행지' 선정 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85WUQ0NVVFTFBRdW42c0tuUWFGQkI0S3htdE9uUXhWX2hwY0ZkbkxfckpFdUFSLVh0OUdmLTNTUXpVd2N2Y3dKWW9XZVBnRmQ0UkFXMmdUamFuZw?oc=5",
+        "summary": "울산 울주군 '국내 최고 여행지' 선정 한국경제 울산 울주군 '국내 최고 여행지' 선정 - 한국경제",
+        "published": "Tue, 10 Nov 2026 16:23:00 GMT",
+        "published_kst": "2026-11-11T01:23:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "스탁리그 히어로즈 - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlRpNmVlQklZSThvWXBwVl9YcnV1UkNiX1BjRlYtNGUxZTROczZEd1FpQ0dIMlNxR2huRjNESzgxUUx0eWV2c0VmX3VCSEZWQjVKT0EwOHh3Z0tLWWxxdnNMVWxJdHV0U2kwcTU5bHlKQjFfaEJhMzFNZUxQVVJmeHJYYXF1RHU2bUkxeHRuVHc1S0h0YWxiQlg2RjFLX1dOYjFJ?oc=5",
-        "summary": "스탁리그 히어로즈 한국경제TV 스탁리그 히어로즈 - 한국경제TV",
-        "published": "Tue, 10 Nov 2026 13:19:20 GMT",
-        "published_kst": "2026-11-10T22:19:20+09:00",
+        "title": "글로벌 극장 매출 코로나 이후 최대 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vQ1F1WTFJcDIzYWt4TWx3VlE3SldOek15WWdjT21iU0xOWURUMlE4UFRhNVNnWlZ3c0VkQkloT0dlcE1YOE9sX3haMkhGaVZHNkJ4Qkp3dFYzdw?oc=5",
+        "summary": "글로벌 극장 매출 코로나 이후 최대 한국경제 글로벌 극장 매출 코로나 이후 최대 - 한국경제",
+        "published": "Tue, 10 Nov 2026 16:21:00 GMT",
+        "published_kst": "2026-11-11T01:21:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -115,33 +112,33 @@
     ],
     "world": [
       {
-        "title": "Mercedes-Benz Lays Out Supply Chain Decarbonisation Plans - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGptNmtGcXc5SDZjS0huU1VGUTk0UFd4cW5fNDFSUzBZYXFXWHBLZzh1NXg2OVBPSjZEMzZYM3dWWF9vSHlyTHZEd3RNMEJuVjJNemFrOWI1Q2tFTXp4MnJzTlp6bnRwVHpLbnVyM1A5dDNsOFNHY2FzLTl1cWljSHB3STNwOG5OUGJHV1JuSnlPOG90M1VVN1lBX00?oc=5",
-        "summary": "Mercedes-Benz Lays Out Supply Chain Decarbonisation Plans Supply Chain Digital Magazine Mercedes-Benz Lays Out Supply Chain Decarbonisation Plans - Supply Chain Digital Magazine",
-        "published": "Tue, 10 Nov 2026 12:10:34 GMT",
-        "published_kst": "2026-11-10T21:10:34+09:00",
+        "title": "Honda Boosts Hybrid Production with New US Auto Plant - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0dEcXNOQlhXRDZYZW1aaUtRZ1BtT1pZUWNPeXRaN2Q1WGtuVzFPX3hXWG45akMyWUxhSUJmU1k2T1ZDeGkxRzFqRDNOWml4SWpEMmVaSTBiS052cngyTS1qLUNZYi1ZcW9WemU1R01DcjBsUTFaeHpWSE5nMkVoZ0psVjhUNEhYWmNXTERjVHRKZEtJZEhLcw?oc=5",
+        "summary": "Honda Boosts Hybrid Production with New US Auto Plant Supply Chain Digital Magazine Honda Boosts Hybrid Production with New US Auto Plant - Supply Chain Digital Magazine",
+        "published": "Tue, 10 Nov 2026 17:25:49 GMT",
+        "published_kst": "2026-11-11T02:25:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "SCM Leaders Connect UK - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zTnRhTE9JVHlJaUpCamFwMS1qR2hYZW1oZ2ZqMlpMSTAxQ0lncndMYXdCUkRFN1JmalRZWnUyUjVuc3NBdUJqdzhoUGlScWhIYzlzZG1uMUZYclVqVTFtdWhSN0tXTG9tQTdqdA?oc=5",
-        "summary": "SCM Leaders Connect UK Supply Chain Digital Magazine SCM Leaders Connect UK - Supply Chain Digital Magazine",
-        "published": "Tue, 10 Nov 2026 12:01:13 GMT",
-        "published_kst": "2026-11-10T21:01:13+09:00",
+        "title": "PwC's Experts on Transforming Finance and Supply Chain - AI Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3Y5ZEVaNE9YWWhCSEJIU1R1OFJFc2p6b0dfRzJ1Vmh0MV9KSXZYbkhrV2xsQ2I0V3BQZVNZNk5qbVh3a21BT2NhMEhELXBnX2JQdzFhUC1abGZIamJCYnlYaVhkRlFURGRmRWw4Q2doLTcyQlRvbDk0SXRqUVh1LXJ4LS11eHU5SUVtWUdTVG9ISHktYnZZ?oc=5",
+        "summary": "PwC's Experts on Transforming Finance and Supply Chain AI Magazine PwC's Experts on Transforming Finance and Supply Chain - AI Magazine",
+        "published": "Tue, 10 Nov 2026 17:04:01 GMT",
+        "published_kst": "2026-11-11T02:04:01+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "BMW Faces Supply Chain Issues Impacting Production at Three Plants - Global Banking & Finance Review",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFp4aWhoN2JGS0d3WW1WWHJoUGlacGZfSzVOY21ELUQ5Y19lemFfdjlvTmlnLVJLbmhhVE1ENkRDa0tUQ0w3d1hWVWxrSEdiT3BKbldBZGJFWWM2RUxkUzFzSVloSHNuQ3NtVUlMREZBQ0syYUVHMHFPdzdTTjRGc2pKZHpGV0k3SjhpMVhhejN0a2VLdXc?oc=5",
-        "summary": "BMW Faces Supply Chain Issues Impacting Production at Three Plants Global Banking & Finance Review BMW Faces Supply Chain Issues Impacting Production at Three Plants - Global Banking & Finance Review",
-        "published": "Tue, 10 Nov 2026 11:47:44 GMT",
-        "published_kst": "2026-11-10T20:47:44+09:00",
+        "title": "The AI aftershocks shaking Supply Chains - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ3VGRWVkY0JzZVR3cS1lbFI2TGVmbG9BbkEtYlhITG9Icmp1NkphQnd6V0ttNERUWkxmWUZ2b2MzSXNVOHRiRmV3d3pVWGUyaVR4LU9MNEdvd2FhUGlRNE80Yk5UMDRsRFJqcXhBZkw3Uk9FLThOWUtXODBqN0IyWE1Fc19yN0ptTVNV?oc=5",
+        "summary": "The AI aftershocks shaking Supply Chains Supply Chain Digital Magazine The AI aftershocks shaking Supply Chains - Supply Chain Digital Magazine",
+        "published": "Tue, 10 Nov 2026 15:31:00 GMT",
+        "published_kst": "2026-11-11T00:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -149,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates. Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight / 스페이스X·테슬라 합병 어려워졌다…엔비디아 강세론 유지 [월가 업&다운] 한국경제 스페이스X·테슬라 합병 어려워졌다…엔비디아 강세론 유지 [월가 업&다운] - 한국경제 / Mercedes-Benz Lays Out Supply Chain Decarbonisation Plans Supply Chain Digital Magazine Mercedes-Benz Lays Out Supply Chain Decarbonisation Plans - Supply Chain Digital Magazine",
+  "wrap_summary": "Economy The New York Times Inflation Continues to Challenge U.S. Inflation Continues to Challenge U.S. / [포토] 엔비디아 시총 260조 증발…삼전닉스는 반등 한국경제 [포토] 엔비디아 시총 260조 증발…삼전닉스는 반등 - 한국경제 / Honda Boosts Hybrid Production with New US Auto Plant Supply Chain Digital Magazine Honda Boosts Hybrid Production with New US Auto Plant - Supply Chain Digital Magazine",
   "invest_summary": ""
 }
