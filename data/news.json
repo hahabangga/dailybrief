@@ -1,79 +1,78 @@
 {
   "date": "2026-11-10",
-  "generated_at_utc": "2026-11-10T03:50:53Z",
-  "cutoff_kst": "2026-11-10T12:50:00+09:00",
+  "generated_at_utc": "2026-11-10T08:54:18Z",
+  "cutoff_kst": "2026-11-10T17:54:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
-        "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-        "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September. China exports, imports soar past expectations in October — surplus narrows sharply",
-        "published": "Tue, 10 Nov 2026 03:43:42 GMT",
-        "published_kst": "2026-11-10T12:43:42+09:00",
+        "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+        "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+        "summary": "The agency has found evidence of a potential increased risk of a rare eye condition linked to the use of GLP-1 drugs used for weight management and diabetes. FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+        "published": "Tue, 10 Nov 2026 08:22:49 GMT",
+        "published_kst": "2026-11-10T17:22:49+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold remains depressed above $4,100 as traders eye US CPI for Fed rate cues - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV0puSlB2QU9SbnZZMzZxOEltSVB1QVI5dm55d0hkLWxZZXh5VGFiaDNyNVZxaWVCVlJNV1hTWnR0MkFOZFVvWWZnNFdHeFZUeUZIX3VQa1lybExnMzdnTzI0Qm5qTkc4dE95clJrSmV3UDBGZlBmZko3SXV0LWdvY3A1bEx4NEtmWm1TMm1NVWlWbHNBWFprWURlTTNDLXg2Sjc1Z0RxMDYxV1lKaC1wZ0ZqVVQ5ei1fMng4emRxMHhJT1BGUGM3TFFhSjRGQQ?oc=5",
+        "summary": "Gold remains depressed above $4,100 as traders eye US CPI for Fed rate cues FXStreet Gold remains depressed above $4,100 as traders eye US CPI for Fed rate cues - FXStreet",
+        "published": "Tue, 10 Nov 2026 08:16:35 GMT",
+        "published_kst": "2026-11-10T17:16:35+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$4"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+        "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
+        "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027. SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+        "published": "Tue, 10 Nov 2026 08:11:44 GMT",
+        "published_kst": "2026-11-10T17:11:44+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "35.2%",
-          "33.5%",
-          "36.3%"
+          "$7",
+          "2027"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Gold edges lower as focus shifts to US inflation data - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
-        "summary": "Gold edges lower as focus shifts to US inflation data Reuters Gold edges lower as focus shifts to US inflation data - Reuters",
-        "published": "Tue, 10 Nov 2026 03:31:00 GMT",
-        "published_kst": "2026-11-10T12:31:00+09:00",
+        "title": "Jimmy Kimmel Responds to Latest White House Attack: ‘Sick Burn, Bro’ - Rolling Stone",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEk0R1k4WEE5cEdPUzdfRDRBcm5UMU5XQzdiWDRvdUVZVTJEMnZZSk9NRGxhT2U3QjMtbHBHMy1PbmRUY3ppcnNYeUpLLVVZWjBXYWZfVVhodEJQZlM3SUJmOGY0d2FfdE5BenhIRXRvbC00R1UzcnYtdWdFQUNzeXlwMU83LV9xZkxFZVlTdFh0RVZ4YUFxVVpuWm1PNVZWRU0zY1BzczNVUTdyY3RjRkZ1OFpwak1SV1E?oc=5",
+        "summary": "Jimmy Kimmel Responds to Latest White House Attack: ‘Sick Burn, Bro’ Rolling Stone Jimmy Kimmel Responds to Latest White House Attack: ‘Sick Burn, Bro’ - Rolling Stone",
+        "published": "Tue, 10 Nov 2026 08:09:12 GMT",
+        "published_kst": "2026-11-10T17:09:12+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough - CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVB0OGFPOUxheEVGRjJkZWZGNGsxSkJHeUw3ZzBqT1FoWEZQZWc0NkJYd0YweW55NmZLYnNvQmdQSElfbHBDQnh3azRJeTdoWnJsbEE5QTNSMW5oM0pKUTFIajNvbEtsMXExcjFiYjk4dFNZOVlTQ0ZSMUNKUUlXeDRtUllSdDRnTWpTVDRNYTRrVEcwdjBka0oyQlIyb2poMjhURWg5WFdicW95dXJSTkQyQlR4dFZqeG1NM3g5Zw?oc=5",
-        "summary": "CPI test as analysts warn inflation relief may not be enough CoinDesk Bitcoin faces U.S.",
-        "published": "Tue, 10 Nov 2026 03:26:00 GMT",
-        "published_kst": "2026-11-10T12:26:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Audi Considers $3B Investment to Expand US Plant, Add 3,000 Jobs - Gasgoo",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlF6N3IxODBFQTdya3REUU5xQ1JGQ3lKNHEtMHAxSGdOLS02MkdnZnA0Z1VMbWNrS1FJUHUxbnlrSWwzU0RDWXJwejdFUy1GSEJIVmduekc0QjJCVWFCLUx5c2NJeHd4U0taR2FCcklMWGEzVGZsSHg5TEZUQlQwLWVLWGZFbVp3STZiMzA3Ny1CTkpXajRmNFY1QTc4d0ZYcmpzTlJLZHZhQWhOTzRnSUZHYlZSUFZzeUZGZjh5WnQ?oc=5",
-        "summary": "Audi Considers $3B Investment to Expand US Plant, Add 3,000 Jobs Gasgoo Audi Considers $3B Investment to Expand US Plant, Add 3,000 Jobs - Gasgoo",
-        "published": "Tue, 10 Nov 2026 03:14:55 GMT",
-        "published_kst": "2026-11-10T12:14:55+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$3"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+        "title": "SoftBank Group shares surge 14% as Asian tech stocks track Wall Street rebound",
         "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
-        "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off. SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
-        "published": "Tue, 10 Nov 2026 01:50:57 GMT",
-        "published_kst": "2026-11-10T10:50:57+09:00",
+        "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off. SoftBank Group shares surge 14% as Asian tech stocks track Wall Street rebound",
+        "published": "Tue, 10 Nov 2026 08:06:29 GMT",
+        "published_kst": "2026-11-10T17:06:29+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "11%"
+          "14%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-        "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-        "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy. Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-        "published": "Tue, 10 Nov 2026 01:43:47 GMT",
-        "published_kst": "2026-11-10T10:43:47+09:00",
-        "domain": "cnbc.com",
+        "title": "Dollar holds losses ahead of U.S. inflation data - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNDFrbm1IMk5rWC1iZkJVSUhlWlRwLXdnZHNPMGlfU2lNTm5HelFDYmg2TGRzMkxTZm16REwwcEZYOTR6QzVFY09ZRXc1Zno3M2I1Qzh0WndDeV93blBieXlBQTJFU1lZUmMwMVR2T3dzcW0wTU45VGxCVlIwTl9LTWZhQkdDUUFlTl82eHFtYl9PRDhzLUotMDc2WXpyVmFERkNCYXp1WFlJZnM4U2dfTjNB?oc=5",
+        "summary": "inflation data Investing.com Dollar holds losses ahead of U.S. inflation data - Investing.com",
+        "published": "Tue, 10 Nov 2026 08:05:33 GMT",
+        "published_kst": "2026-11-10T17:05:33+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -81,70 +80,68 @@
     ],
     "kr": [
       {
-        "title": "[곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 - technovalue.com",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41clhfOWFoYi04ajNYcUprb3Q5SV9mTFktM0xEMFVXS0N2cWU0b3Zvd2VlcWdhRDZNTzI1WkEzdDJJOFFuc0R4S2k0bXdaYWgwR0k5djJ4OA?oc=5",
-        "summary": "[곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 technovalue.com [곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 - technovalue.com",
-        "published": "Tue, 10 Nov 2026 03:08:50 GMT",
-        "published_kst": "2026-11-10T12:08:50+09:00",
+        "title": "NHN, 분기 최대 실적에 상한가…클라우드 매출이 효자 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81SWFnLXZEWDFyVUM4UWpRZXFDWTdieHZaa2hzUkxFcXQxbWRSLTdXaUw2cUpzNHNDNkxOdGRrTE1fdG1Sa2pBZjVTRXRPMUVHeXR2X3FPNHhGZw?oc=5",
+        "summary": "NHN, 분기 최대 실적에 상한가…클라우드 매출이 효자 한국경제 NHN, 분기 최대 실적에 상한가…클라우드 매출이 효자 - 한국경제",
+        "published": "Tue, 10 Nov 2026 08:50:03 GMT",
+        "published_kst": "2026-11-10T17:50:03+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyWGJ5VzNMYURrN0ZmVThTdno1ZHR0RXNtZjJLeVlkdnpRMHQ0RTE0dHhGRlpETk5VMU1QOEtNcDZUZUk4OGFMQ1NRLTRZS0g2M3pGVmlZSDVOZw?oc=5",
-        "summary": "\"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다 한국경제 \"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다 - 한국경제",
-        "published": "Tue, 10 Nov 2026 03:00:05 GMT",
-        "published_kst": "2026-11-10T12:00:05+09:00",
+        "title": "몸값 반토막 앤트로픽, 예정대로 상장 진행할 듯 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2V1Q2dUJlMVZ5Qml4Z25mSG51OWlXeVlLdmhGN0s0TXR4Z1g3ZmxNZkwxZzdIQWRvTU9MRi1ocjhYZ1puV2d3QkdQU1lQc2NJSVpLdDZpZmUyQQ?oc=5",
+        "summary": "몸값 반토막 앤트로픽, 예정대로 상장 진행할 듯 한국경제 몸값 반토막 앤트로픽, 예정대로 상장 진행할 듯 - 한국경제",
+        "published": "Tue, 10 Nov 2026 08:48:46 GMT",
+        "published_kst": "2026-11-10T17:48:46+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "﻿[AI로 읽는 경제] ① 무료 AI 2500억원, 한국 경제에 무엇을 남길까 - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aajZXbm9Tc291aEZ5dFV6RzlITngyRmtWZUxsX09VYXBGWHViUWJDTjNDMnhJN2xBb0QzbUZqNzdrVS10TFhtVkV2b3kyLTBEb0NVckNzZF9ZdzU0?oc=5",
-        "summary": "﻿[AI로 읽는 경제] ① 무료 AI 2500억원, 한국 경제에 무엇을 남길까 뉴스핌 ﻿[AI로 읽는 경제] ① 무료 AI 2500억원, 한국 경제에 무엇을 남길까 - 뉴스핌",
-        "published": "Tue, 10 Nov 2026 03:00:00 GMT",
-        "published_kst": "2026-11-10T12:00:00+09:00",
+        "title": "[시론] 돈은 두 번 쓰이지 않는다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yVUNEZjJLMjdSOHl5UmI2aWlwX2c3Nmcyb01PTkVfa1A1VGliNGdHU196LU90ZXhWRi00MEN0elExT3ZWaWs3UVVqbzhwYUVQYlNTbnFQVUhxZw?oc=5",
+        "summary": "[시론] 돈은 두 번 쓰이지 않는다 한국경제 [시론] 돈은 두 번 쓰이지 않는다 - 한국경제",
+        "published": "Tue, 10 Nov 2026 08:43:11 GMT",
+        "published_kst": "2026-11-10T17:43:11+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2500"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade - BusinessToday Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSXg1WmFGQS1YMkV3RldTSWFaVGtyaEMwWDh5U0JRaEszWklJU0VfSjFtcTBTR2UwTy1zcnRUVXRSeDVROHRhRFREZjdDZ2ZGaHlNVVBva2ozaEZKd01GaVFEVGxuTGR4a3J5c0UwU0ZjTVZJZUdpaHdXTDktTG1CQ3BzYk1TZ1A2TlY2X3ItVjBtb256QXQ5TkFfRnZoOUNFaXE4ZVlucUx5U0x6Yi1yZzZwVTduVkpQNURMNlE3d0x1empKcWNBS3hhdlFqbTA3WmdiaXZyWEFCcWZl?oc=5",
-        "summary": "Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade BusinessToday Malaysia Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade - BusinessToday Malaysia",
-        "published": "Tue, 10 Nov 2026 03:31:54 GMT",
-        "published_kst": "2026-11-10T12:31:54+09:00",
+        "title": "Vinted Go Expands European Network With Finland Launch - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSE1MMXp1ZnlnbmdHRUhERGpjU0czdGhWbFFMc1pEQU5fRVk4T2dWVTZrUDNxRDczQ3pyZnRtdU44YUZNa2h6TTN0M0lLczU0U2xDMHA0TUZ4amZYb2VVREZIVkptQVQwM0NFZ2txUFJKSG5DVHh6akVQVVE5RmhaQVhXUTVRN0lwWWRGSVc5ZUIwdkFR?oc=5",
+        "summary": "Vinted Go Expands European Network With Finland Launch Supply Chain Digital Magazine Vinted Go Expands European Network With Finland Launch - Supply Chain Digital Magazine",
+        "published": "Tue, 10 Nov 2026 07:02:05 GMT",
+        "published_kst": "2026-11-10T16:02:05+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Battery Passport Countdown: A Major Test for Supply Chain Data - Gasgoo",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBXOV9Gb3E3SnhGeUQzeDdlVTNPQ1RlLXNSbWxtN1AwdXVEejlzQTIwZjdtaFRFMTJ6TkV4bnl2cC1yRGxZTU55M3FjaklNNXdMaTVfVXRuSERUNHVSQmJzOWxoMWNXNTN3SkdqWEtxb1ZHZWRoTkpvRnozMXZZSWJ5WWZzLXZFRkRwamFBV1l3dXlZTUdxX01MWHY4VlAtbDBPMWM1U09BQlpyUnMwLTdIbzl3X1Nyb185azVGMHE?oc=5",
-        "summary": "Battery Passport Countdown: A Major Test for Supply Chain Data Gasgoo Battery Passport Countdown: A Major Test for Supply Chain Data - Gasgoo",
-        "published": "Tue, 10 Nov 2026 03:28:25 GMT",
-        "published_kst": "2026-11-10T12:28:25+09:00",
+        "title": "Quantexa Launches Supply Chain Integrity & Fraud Solution with PwC, to Expose Hidden Risk Across Multi-Tier Supplier Networks - The Manila Times",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNci1wdFVqWmVNc1h5eFlVR3N2ZG5IU0VjTjV5Mi1FUjJYeG5kUWdWaEJsZGdGVnQxd2F6VW9CSVlCU010MDVFdUk4T1pGZ21JVkNKOU50QzJubThWSjlfeE9vRjJHNG82WDM1RzFGQ195aDJpcFFoV2JOX1RDZ0I2NjAzYVo1UkxMSmFxZXRRdHMtZkRndVdZXzl6cWt0T3V4QWc3WS1mVktxMjBFYXQ1Sks5XzF0cTNZWjFsc0J2OTdQbzEzN1I5VXlDbEh6YTFnTjBUOXNXbzNlTkVFUmpMQjZ0dDY0RXdVcGFQNU0xUExKLUxnSThINkhua0M0RjRVVGw3Tm9WOFlvclVIa1hvZjlBVmxic25ZdFVEbmpSOXRUUdIBpwJBVV95cUxOSVhsME9EYlNBNGZUT2tIV3JCQ3V3WWE2ZGxKaHNCMlhSaGVQemhjUlotZ3VoMU5VZTBwaEFmZEJCUDBvY1ZLTjkwNWZSd0RqNXRVR0MyVmEzSUY2YktMbW52LUIyOUVuY0pRLUxjMUlId0VuUF9QWWJxa19hOEV0bWVueWs3VzlKV24tUnVNRmJYbzFpUHlHdVBJMDBOVl9JaDZxZDJlZjI3OTRMMkI3cFNPZ1JJNlBzQThOX05EZ29PbmZqQjF3YjhNWWQ3d2tCWHRSOTUtcFd3N0lqTlR3OUpGekpmVkptOG1kNGVzSGUyWnBkNnNMYklvV09KUmNPaTlpQmN3cV81UEVvS2hqMDh5emV0R0xtQXpSc0ZJdTkxcEtSZm4w?oc=5",
+        "summary": "Quantexa Launches Supply Chain Integrity & Fraud Solution with PwC, to Expose Hidden Risk Across Multi-Tier Supplier Networks The Manila Times Quantexa Launches Supply Chain Integrity & Fraud Solution with PwC, to Expose Hidden Risk Across Multi-Tier Supplier Networks - The Manila Times",
+        "published": "Tue, 10 Nov 2026 06:49:33 GMT",
+        "published_kst": "2026-11-10T15:49:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CIIE Insights | Is Nissan Reshaping the Global Automotive Value Chain? - Gasgoo",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczV5NGlQcm5CWU52UG96OHVCV1RTYWgtVk91emFLcEJwWVRzeE1SYV9neWJTd3U1S2xjT21henhyUHAyd0R2Y1VYWnUtbEI5ejRoc3M2emFTVExaNUVtaVBsOEVnSzBqQkJBVXQzOHdvMzZROFJ4ZFVjTGRScXdTQktucnBTNVRJOVBOdVM4SGk5NWw1ekdCczFvWmp2T2hOeG5ON2NieDlQb3AxblNhVUZLUXZrVGRRWUtNTWFmOEJKTlYzdURrVw?oc=5",
-        "summary": "Gasgoo CIIE Insights | Is Nissan Reshaping the Global Automotive Value Chain?",
-        "published": "Tue, 10 Nov 2026 02:41:09 GMT",
-        "published_kst": "2026-11-10T11:41:09+09:00",
+        "title": "Resilient by design: Reinventing supply chains with human-agent operations - Capgemini",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN19TTkVTRUVCYnNnbFlxZnJjclZEWnRHRzJOX1NBSnM4VENmY3Y5anlBaU9UT2trV0xqbUNHanJsd3dYTU02cHhhOGtkRlRwbklPWFVEZkFhVGdXMjdBaEQ5N3Z1ejJaNDdRZ3pkbFlxNzRteFEtOUVQX0xxV1dUS3Q3VzY?oc=5",
+        "summary": "Resilient by design: Reinventing supply chains with human-agent operations Capgemini Resilient by design: Reinventing supply chains with human-agent operations - Capgemini",
+        "published": "Tue, 10 Nov 2026 06:09:18 GMT",
+        "published_kst": "2026-11-10T15:09:18+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -152,6 +149,6 @@
       }
     ]
   },
-  "wrap_summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September. China exports, imports soar past expectations in October — surplus narrows sharply / [곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 technovalue.com [곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 - technovalue.com / Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade BusinessToday Malaysia Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade - BusinessToday Malaysia",
+  "wrap_summary": "The agency has found evidence of a potential increased risk of a rare eye condition linked to the use of GLP-1 drugs used for weight management and diabetes. FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound / NHN, 분기 최대 실적에 상한가…클라우드 매출이 효자 한국경제 NHN, 분기 최대 실적에 상한가…클라우드 매출이 효자 - 한국경제 / Vinted Go Expands European Network With Finland Launch Supply Chain Digital Magazine Vinted Go Expands European Network With Finland Launch - Supply Chain Digital Magazine",
   "invest_summary": ""
 }
