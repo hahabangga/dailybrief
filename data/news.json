@@ -1,146 +1,150 @@
 {
   "date": "2026-11-10",
-  "generated_at_utc": "2026-11-09T22:53:29Z",
-  "cutoff_kst": "2026-11-10T07:53:00+09:00",
+  "generated_at_utc": "2026-11-10T03:50:53Z",
+  "cutoff_kst": "2026-11-10T12:50:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Democracy Defenders Fund Calls for Federal Investigation into Former White House Crypto Adviser Bo Hines Over Tether Ties - Democracy Defenders Fund",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeGFzOW95R0kwZ1gtTEdhVkNKblU3S2lzc0lJZERLejdTQXhwUDJ4ZnJGSFBydmVtYkQ5YVptRHVxeU10NnN0bkZzNVhwaTk4SmhkOU9UR18tLXpqYm03ZVRHOW5kaWZTOEFsM091cjNNeS1EQThadkw4R0VwYkppR042TENFTF9zNFQ3QWp6T2ZoQmYtRjJUa2dnSDlUN0paVmVsTlA1VWhhb3FDVFFfUWg3VzdzZnA4T0hVaGx6ZUVENThPUnFOUm9KeG5QY3FtOHh5TTVEbw?oc=5",
-        "summary": "Democracy Defenders Fund Calls for Federal Investigation into Former White House Crypto Adviser Bo Hines Over Tether Ties Democracy Defenders Fund Democracy Defenders Fund Calls for Federal Investigation into Former White House Crypto Adviser Bo Hines Over Tether Ties - Democracy Defenders Fund",
-        "published": "Mon, 09 Nov 2026 22:50:19 GMT",
-        "published_kst": "2026-11-10T07:50:19+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Dana White turns down White House press secretary job - NBC News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb3lBOVdqdFZGQjlqTFVaQW5GWXFnWVpwVENYVWM2MlFvTFNweTB0RU5vZ3JJclMtRkdWMGpLU2tKZ01UcVhVOXNxbFFoaDdfSzI0YU9qbzJONUNFN3J1aEV1VV9XQ2t5SU5oWFhoMFhDY3UtenJaVTM0VVI0VkwtTlBXS09vR1B5Ny03emZrVnQ3U1NHNG5CZmZMZU9TYXV0WExkcTZ3?oc=5",
-        "summary": "Dana White turns down White House press secretary job NBC News Dana White turns down White House press secretary job - NBC News",
-        "published": "Mon, 09 Nov 2026 22:49:01 GMT",
-        "published_kst": "2026-11-10T07:49:01+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Watch: Dana White declines Trump’s offer to be White House press secretary - BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KSjRNV3cxN3pMWXhtcnFfOXNZMG8wdVB3Y3RCVzVkT0Z5REFZMXNvWkJPLUlmbS1fYWg1RUVRM2pnSWRaVWtpZDB0VzlyMTdhbWl0RmR4U0M?oc=5",
-        "summary": "Watch: Dana White declines Trump’s offer to be White House press secretary BBC Watch: Dana White declines Trump’s offer to be White House press secretary - BBC",
-        "published": "Mon, 09 Nov 2026 22:46:27 GMT",
-        "published_kst": "2026-11-10T07:46:27+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Hegseth impeachment articles introduced by Rep. Massie",
-        "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-        "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Hegseth impeachment articles introduced by Rep.",
-        "published": "Mon, 09 Nov 2026 22:41:12 GMT",
-        "published_kst": "2026-11-10T07:41:12+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-        "url": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-        "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet. Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-        "published": "Mon, 09 Nov 2026 22:40:26 GMT",
-        "published_kst": "2026-11-10T07:40:26+09:00",
+        "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+        "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+        "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September. China exports, imports soar past expectations in October — surplus narrows sharply",
+        "published": "Tue, 10 Nov 2026 03:43:42 GMT",
+        "published_kst": "2026-11-10T12:43:42+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "1993"
+          "35.2%",
+          "33.5%",
+          "36.3%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump questions midterm election results, revives voting-machine conspiracy",
-        "url": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-        "summary": "President Trump's questioning of the legitimacy of his loss in the 2020 election culminated with an attack on the U.S. Capitol by a mob of his supporters.",
-        "published": "Mon, 09 Nov 2026 22:40:09 GMT",
-        "published_kst": "2026-11-10T07:40:09+09:00",
+        "title": "Gold edges lower as focus shifts to US inflation data - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUt5d0NsOEFXZzVGWU5qOFFwbGtuT0pyM3RMcTR3ZDRXYzFqV1NkM1VadUV0VzdNUFpZREVYLU1mdWFpSDE5V0w3Qlo5X1luTXVXRkZKNHQ1bXY1X0VCNHRienZVbnhQdE93UWFYRk41T0Fhd2tiQ2dpZzF2WEZmM0hVTFpjMVFzR2JhNlpWN0R5ZkFCY0JkRUVuYw?oc=5",
+        "summary": "Gold edges lower as focus shifts to US inflation data Reuters Gold edges lower as focus shifts to US inflation data - Reuters",
+        "published": "Tue, 10 Nov 2026 03:31:00 GMT",
+        "published_kst": "2026-11-10T12:31:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVB0OGFPOUxheEVGRjJkZWZGNGsxSkJHeUw3ZzBqT1FoWEZQZWc0NkJYd0YweW55NmZLYnNvQmdQSElfbHBDQnh3azRJeTdoWnJsbEE5QTNSMW5oM0pKUTFIajNvbEtsMXExcjFiYjk4dFNZOVlTQ0ZSMUNKUUlXeDRtUllSdDRnTWpTVDRNYTRrVEcwdjBka0oyQlIyb2poMjhURWg5WFdicW95dXJSTkQyQlR4dFZqeG1NM3g5Zw?oc=5",
+        "summary": "CPI test as analysts warn inflation relief may not be enough CoinDesk Bitcoin faces U.S.",
+        "published": "Tue, 10 Nov 2026 03:26:00 GMT",
+        "published_kst": "2026-11-10T12:26:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Audi Considers $3B Investment to Expand US Plant, Add 3,000 Jobs - Gasgoo",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORlF6N3IxODBFQTdya3REUU5xQ1JGQ3lKNHEtMHAxSGdOLS02MkdnZnA0Z1VMbWNrS1FJUHUxbnlrSWwzU0RDWXJwejdFUy1GSEJIVmduekc0QjJCVWFCLUx5c2NJeHd4U0taR2FCcklMWGEzVGZsSHg5TEZUQlQwLWVLWGZFbVp3STZiMzA3Ny1CTkpXajRmNFY1QTc4d0ZYcmpzTlJLZHZhQWhOTzRnSUZHYlZSUFZzeUZGZjh5WnQ?oc=5",
+        "summary": "Audi Considers $3B Investment to Expand US Plant, Add 3,000 Jobs Gasgoo Audi Considers $3B Investment to Expand US Plant, Add 3,000 Jobs - Gasgoo",
+        "published": "Tue, 10 Nov 2026 03:14:55 GMT",
+        "published_kst": "2026-11-10T12:14:55+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$3"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+        "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+        "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off. SoftBank Group shares surge 11% as Asian tech stocks track Wall Street rebound",
+        "published": "Tue, 10 Nov 2026 01:50:57 GMT",
+        "published_kst": "2026-11-10T10:50:57+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2020"
+          "11%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+        "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+        "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy. Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+        "published": "Tue, 10 Nov 2026 01:43:47 GMT",
+        "published_kst": "2026-11-10T10:43:47+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "러시아에 발목 잡힌 담배업체, 이틀 연속 하한가 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05aTc4bm55S3RMYW9JMGJHa1NZZVdWcG5HcWRzSUtfMzBSU0FidkFDRHVDSGlpa2h0eWoxNFpTZm44VUdrMExFVmNHSTdqZ1VPOHBqTWM0SDJkdw?oc=5",
-        "summary": "러시아에 발목 잡힌 담배업체, 이틀 연속 하한가 한국경제 러시아에 발목 잡힌 담배업체, 이틀 연속 하한가 - 한국경제",
-        "published": "Mon, 09 Nov 2026 22:42:44 GMT",
-        "published_kst": "2026-11-10T07:42:44+09:00",
+        "title": "[곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 - technovalue.com",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41clhfOWFoYi04ajNYcUprb3Q5SV9mTFktM0xEMFVXS0N2cWU0b3Zvd2VlcWdhRDZNTzI1WkEzdDJJOFFuc0R4S2k0bXdaYWgwR0k5djJ4OA?oc=5",
+        "summary": "[곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 technovalue.com [곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 - technovalue.com",
+        "published": "Tue, 10 Nov 2026 03:08:50 GMT",
+        "published_kst": "2026-11-10T12:08:50+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"두산, 전자사업 호실적에도…목표가 50%↓\"-DB - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yXzI0NG5BVllPaXpmc0o3M29tNFVpbi1HeGpJVWUwYnl5OU5pNFV5dmlyYmFwdVpnLXI1UjJPWTlaSzVlU091ckstbGlCb2VOYTMxeWJXYmFDQQ?oc=5",
-        "summary": "\"두산, 전자사업 호실적에도…목표가 50%↓\"-DB 한국경제 \"두산, 전자사업 호실적에도…목표가 50%↓\"-DB - 한국경제",
-        "published": "Mon, 09 Nov 2026 22:27:52 GMT",
-        "published_kst": "2026-11-10T07:27:52+09:00",
+        "title": "\"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyWGJ5VzNMYURrN0ZmVThTdno1ZHR0RXNtZjJLeVlkdnpRMHQ0RTE0dHhGRlpETk5VMU1QOEtNcDZUZUk4OGFMQ1NRLTRZS0g2M3pGVmlZSDVOZw?oc=5",
+        "summary": "\"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다 한국경제 \"수입 원료 대신 토종 생물\"…K뷰티 독자 소재 만든다 - 한국경제",
+        "published": "Tue, 10 Nov 2026 03:00:05 GMT",
+        "published_kst": "2026-11-10T12:00:05+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "﻿[AI로 읽는 경제] ① 무료 AI 2500억원, 한국 경제에 무엇을 남길까 - 뉴스핌",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aajZXbm9Tc291aEZ5dFV6RzlITngyRmtWZUxsX09VYXBGWHViUWJDTjNDMnhJN2xBb0QzbUZqNzdrVS10TFhtVkV2b3kyLTBEb0NVckNzZF9ZdzU0?oc=5",
+        "summary": "﻿[AI로 읽는 경제] ① 무료 AI 2500억원, 한국 경제에 무엇을 남길까 뉴스핌 ﻿[AI로 읽는 경제] ① 무료 AI 2500억원, 한국 경제에 무엇을 남길까 - 뉴스핌",
+        "published": "Tue, 10 Nov 2026 03:00:00 GMT",
+        "published_kst": "2026-11-10T12:00:00+09:00",
         "domain": "google.com",
         "key_figures": [
-          "50%"
+          "2500"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[스타트 경제] '젠슨 황 오너리스크' 엔비디아 나홀로 하락...'깐부' 한국 기업 영향은? - YTN",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHc3V3WllHdHlIb3EyRThCWWhQbDd3S1V3WUJMTXdVaGJxM0doUm1BZ19tMl9DeXpYaXExN1lSZXdTWFVyWFJVRHBoR000WDVjWlNjejJ2MWszMmZ0OUE?oc=5",
-        "summary": "YTN [스타트 경제] '젠슨 황 오너리스크' 엔비디아 나홀로 하락...'깐부' 한국 기업 영향은?",
-        "published": "Mon, 09 Nov 2026 22:18:00 GMT",
-        "published_kst": "2026-11-10T07:18:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Demand-Driven AI in Supply Chain - Inbound Logistics",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SeTUtY2FYSVJIY1NUd1RWUHZCRlJJbHVRenJBbWV6dUs1b2FXeVlvRUNaT1JiMmxpcHc3YWI4cGtseFhsS1JpNkdxb1ZPOHZHZkd0VUFlbG5KN05XNHlKbWdrVmQ1bmpOSWhr?oc=5",
-        "summary": "Demand-Driven AI in Supply Chain Inbound Logistics Demand-Driven AI in Supply Chain - Inbound Logistics",
-        "published": "Mon, 09 Nov 2026 20:14:50 GMT",
-        "published_kst": "2026-11-10T05:14:50+09:00",
+        "title": "Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade - BusinessToday Malaysia",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSXg1WmFGQS1YMkV3RldTSWFaVGtyaEMwWDh5U0JRaEszWklJU0VfSjFtcTBTR2UwTy1zcnRUVXRSeDVROHRhRFREZjdDZ2ZGaHlNVVBva2ozaEZKd01GaVFEVGxuTGR4a3J5c0UwU0ZjTVZJZUdpaHdXTDktTG1CQ3BzYk1TZ1A2TlY2X3ItVjBtb256QXQ5TkFfRnZoOUNFaXE4ZVlucUx5U0x6Yi1yZzZwVTduVkpQNURMNlE3d0x1empKcWNBS3hhdlFqbTA3WmdiaXZyWEFCcWZl?oc=5",
+        "summary": "Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade BusinessToday Malaysia Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade - BusinessToday Malaysia",
+        "published": "Tue, 10 Nov 2026 03:31:54 GMT",
+        "published_kst": "2026-11-10T12:31:54+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Cree LED Changes Hands for Third Time as Private Equity Takeover Reshapes Global Lighting Supply Chain - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ScWhMT3o2RVkxLU14c2dFOHA1cWdpc0pMdDI3N3l1MjlhNkFsT0R5RE9DZVM4NHg5VHpXeVhBSnBmaFJYZlpwaWtDcnc2Vm1lY1Zudy1hZkwtV2VhV1JKcklNVE1jX2dWNVBNSUowUzNUSnhKX1E?oc=5",
-        "summary": "Cree LED Changes Hands for Third Time as Private Equity Takeover Reshapes Global Lighting Supply Chain BigGo Finance Cree LED Changes Hands for Third Time as Private Equity Takeover Reshapes Global Lighting Supply Chain - BigGo Finance",
-        "published": "Mon, 09 Nov 2026 18:16:00 GMT",
-        "published_kst": "2026-11-10T03:16:00+09:00",
+        "title": "Battery Passport Countdown: A Major Test for Supply Chain Data - Gasgoo",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFBXOV9Gb3E3SnhGeUQzeDdlVTNPQ1RlLXNSbWxtN1AwdXVEejlzQTIwZjdtaFRFMTJ6TkV4bnl2cC1yRGxZTU55M3FjaklNNXdMaTVfVXRuSERUNHVSQmJzOWxoMWNXNTN3SkdqWEtxb1ZHZWRoTkpvRnozMXZZSWJ5WWZzLXZFRkRwamFBV1l3dXlZTUdxX01MWHY4VlAtbDBPMWM1U09BQlpyUnMwLTdIbzl3X1Nyb185azVGMHE?oc=5",
+        "summary": "Battery Passport Countdown: A Major Test for Supply Chain Data Gasgoo Battery Passport Countdown: A Major Test for Supply Chain Data - Gasgoo",
+        "published": "Tue, 10 Nov 2026 03:28:25 GMT",
+        "published_kst": "2026-11-10T12:28:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "U.S. government launches assessment of drug supply chain vulnerabilities - BenefitsPRO",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOci1XamNDZE9ZQU5xM3doUFhwSkV0eUhCMnJoUW1MenRpcFlnLXdMeGpGZ1JxTkxoaTlvNXBpUUdrM0RvS2JWZnl3MllTOVhVNWx1LTh5bmtIdFVEYklVUzAwWl9YWWhMRUFNZlhPTFV6NHZlNHRncnd6YWRpTnFrNWVzNlNlNnNTeml5QWU4dHltVG4yaW4xa1pwUG9HeEd3UXRYa3N2OUZoSzNHYk0w?oc=5",
-        "summary": "government launches assessment of drug supply chain vulnerabilities BenefitsPRO U.S.",
-        "published": "Mon, 09 Nov 2026 18:05:03 GMT",
-        "published_kst": "2026-11-10T03:05:03+09:00",
+        "title": "CIIE Insights | Is Nissan Reshaping the Global Automotive Value Chain? - Gasgoo",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPczV5NGlQcm5CWU52UG96OHVCV1RTYWgtVk91emFLcEJwWVRzeE1SYV9neWJTd3U1S2xjT21henhyUHAyd0R2Y1VYWnUtbEI5ejRoc3M2emFTVExaNUVtaVBsOEVnSzBqQkJBVXQzOHdvMzZROFJ4ZFVjTGRScXdTQktucnBTNVRJOVBOdVM4SGk5NWw1ekdCczFvWmp2T2hOeG5ON2NieDlQb3AxblNhVUZLUXZrVGRRWUtNTWFmOEJKTlYzdURrVw?oc=5",
+        "summary": "Gasgoo CIIE Insights | Is Nissan Reshaping the Global Automotive Value Chain?",
+        "published": "Tue, 10 Nov 2026 02:41:09 GMT",
+        "published_kst": "2026-11-10T11:41:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +152,6 @@
       }
     ]
   },
-  "wrap_summary": "Democracy Defenders Fund Calls for Federal Investigation into Former White House Crypto Adviser Bo Hines Over Tether Ties Democracy Defenders Fund Democracy Defenders Fund Calls for Federal Investigation into Former White House Crypto Adviser Bo Hines Over Tether Ties - Democracy Defenders Fund / 러시아에 발목 잡힌 담배업체, 이틀 연속 하한가 한국경제 러시아에 발목 잡힌 담배업체, 이틀 연속 하한가 - 한국경제 / Demand-Driven AI in Supply Chain Inbound Logistics Demand-Driven AI in Supply Chain - Inbound Logistics",
+  "wrap_summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September. China exports, imports soar past expectations in October — surplus narrows sharply / [곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 technovalue.com [곽재원 컬럼]세 개의 창으로 본 한국 경제: 최악의 시나리오에 대비하라 - technovalue.com / Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade BusinessToday Malaysia Malaysia Urged To Tighten Online Platform Controls, Supply Chain Enforcement To Combat Illicit Trade - BusinessToday Malaysia",
   "invest_summary": ""
 }
