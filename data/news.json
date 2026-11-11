@@ -1,71 +1,75 @@
 {
-  "date": "2026-11-11",
-  "generated_at_utc": "2026-11-11T12:59:55Z",
-  "cutoff_kst": "2026-11-11T21:59:00+09:00",
+  "date": "2026-11-12",
+  "generated_at_utc": "2026-11-11T17:47:56Z",
+  "cutoff_kst": "2026-11-12T02:47:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
-        "url": "https://www.cnbc.com/2026/11/11/hoax-bomb-threats-schools-italy-uk.html",
-        "summary": "Hundreds of schools across Europe were evacuated on Wednesday after receiving bomb threats, police forces say, amid growing worries of hybrid threats. Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats",
-        "published": "Wed, 11 Nov 2026 12:57:07 GMT",
-        "published_kst": "2026-11-11T21:57:07+09:00",
+        "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+        "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+        "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business. Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+        "published": "Wed, 11 Nov 2026 17:39:26 GMT",
+        "published_kst": "2026-11-12T02:39:26+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Global markets mixed as hotter-than-expected US inflation fuels hawkish expectations - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXdOelJUSVU2TXc5eHotbU1GQnlhcVVmajI1Sl9QRkQyVE9qd2dKZ1U0NkZvNnhLVWdLNDFOelZrdy1NbXRkOWJPQ01sMlVJSEhlQzlXYTB1cU5YcFFoWHMxeUprZXRMZDJxUm5GZEE1aldBbzQ3WTlwemQ5ekUxbjd4aU1DT2ZGdXgtSDhpQ0pjcG1EMTktUHJEd0x5cFZHTXlCbkx3a1NUM1JPLWRHbzV4Z2RnNlhnVkdLM2FqTmYxZlE?oc=5",
-        "summary": "Global markets mixed as hotter-than-expected US inflation fuels hawkish expectations Anadolu Ajansı Global markets mixed as hotter-than-expected US inflation fuels hawkish expectations - Anadolu Ajansı",
-        "published": "Wed, 11 Nov 2026 12:56:20 GMT",
-        "published_kst": "2026-11-11T21:56:20+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+        "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+        "summary": "American Airlines' first class food options include sandwiches, fruit and chia bowls American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+        "published": "Wed, 11 Nov 2026 17:34:18 GMT",
+        "published_kst": "2026-11-12T02:34:18+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2019"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The Democrats have a mandate to tackle corruption. Here’s how. - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUJXS3p4bG1vbE9obnVveGcwcEJMS0IzRVM0Y25YVTZ1LTFVZXMzdENyTEZXM041QldpUk40S2V3WUdIZzFkVE8ycUh0MVRwYnJUb0JMa0lNeUJOX21peHlBOW1aaFFEc2dEVVR0cVNqcWZMX0RYSUdNVVU5TzNsa250c2s4QXJIZ2xZdmtxdXd0X0ZIRFJ4VGx5N0dsWmFISmszS2ZJQlczdnprWU5KMmFvcDFiODAzSDkxWXIxaw?oc=5",
-        "summary": "The Washington Post The Democrats have a mandate to tackle corruption. - The Washington Post",
-        "published": "Wed, 11 Nov 2026 12:52:58 GMT",
-        "published_kst": "2026-11-11T21:52:58+09:00",
+        "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tORWxkdHRBenRxSW9hSW4wekZsa3Y5VTA0d3A3NTNzTVhMazhTWnNEWlJvMlMzUFIyenNRVl8xWWJaOTdMN2NQVmNsWjhRYUJKWmplRU8zbGthZGQ0R0NlRzFSWmZObzBRSnVNSHFGM3owd2JpTmZHVEkyaEVIS2dLclc3cGZkWXBUSlFoRnpCUTRKdTFrNzNCb2xwUVJic0RoaGgwZzF0ZktCMWc?oc=5",
+        "summary": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks Bloomberg.com Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks - Bloomberg.com",
+        "published": "Wed, 11 Nov 2026 17:33:27 GMT",
+        "published_kst": "2026-11-12T02:33:27+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$4"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-        "url": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-        "summary": "Nvidia employees described the mood as \"sad\" as CEO Jensen Huang returned to the office after disclosing an affair. Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-        "published": "Wed, 11 Nov 2026 12:52:26 GMT",
-        "published_kst": "2026-11-11T21:52:26+09:00",
+        "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
+        "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
+        "summary": "News of the probe comes after the CFTC ordered Kalshi to take down a sports-related \"mention markets\" back in August. CFTC investigates if Kalshi improperly self-certified event contracts",
+        "published": "Wed, 11 Nov 2026 17:22:34 GMT",
+        "published_kst": "2026-11-12T02:22:34+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Gold outlook: haven demand fades as hot US CPI adds to the pressure - FOREX.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHFNLWstM19lWXdGTjNoSUxOelVzN2lDUEFnd1pUeVJCUHJTTFpwbjBNSVdlNmtma2VqOG83VHktR25sOVBoN0VfTDNIX1RuNm9yOGI0dE5JWmZkblhLcGZVWS1IUlNpRTJUMnRCdGdjcHU5TlhSbUpRQU9ZMFJDdlVMOXVqRko3d0RVSU9NTU81NjBOVDZ5NUF1NGlLdTN1SEVYTmRXNm5qN1FOeVlN0gG7AUFVX3lxTFA3T2lUTHAwczVuY1daMGdERGxoMTM5ZHNuQ1B6NHFaRVVXZ3hiNjFoaFJydkM5VVJkdXgtbXNlNHB4ZHJ6SWsyYlhOTUwzR1dobURKeVc4ekZhdXZHbFJ0SnJVbkl0MkZFbXQyTzAteXVrZlZjWGdJQU41MDFROXJqbDBrSHo2dkg0Nk5hWFFiQVhBNHlRLVUtU0RDQy1uYzcyLUpXcS1PU2N2a2I2bHNVMjU4SGpCYi1kS0U?oc=5",
-        "summary": "Gold outlook: haven demand fades as hot US CPI adds to the pressure FOREX.com Gold outlook: haven demand fades as hot US CPI adds to the pressure - FOREX.com",
-        "published": "Wed, 11 Nov 2026 12:46:07 GMT",
-        "published_kst": "2026-11-11T21:46:07+09:00",
+        "title": "White House threatens criminal probe into Democrats' investigations - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTFDWGRLbkRmcm45M2tTMHlrTm5iem1xNHNTNlRaVmVnbDZob0FaaGF1WWFCY09nZENjRHN2VjZUeXlHbGN0amZndEFSY0pEbFJzTE9nREg3ZDZIdWZrV0hzcVBrT2t3dUdOOUdONUQ2dVZnbUV1NUZSZTdIUkxxUGxMSkVGMHJKZWFTR25WWURPdWQyMjJuQWZWNHd1UDk0REZ2aTZRcl9QMktQSlVEVEV5WTYzVWxC?oc=5",
+        "summary": "White House threatens criminal probe into Democrats' investigations USA Today White House threatens criminal probe into Democrats' investigations - USA Today",
+        "published": "Wed, 11 Nov 2026 17:06:00 GMT",
+        "published_kst": "2026-11-12T02:06:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-        "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-        "summary": "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress. John Thune elected GOP leaders in Congress",
-        "published": "Wed, 11 Nov 2026 12:42:09 GMT",
-        "published_kst": "2026-11-11T21:42:09+09:00",
-        "domain": "cnbc.com",
+        "title": "Stephen Miller’s White House will test Mexico’s red lines - The Hill",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDgwREc3SWJfcEVuZ2dvNTZrcVA0RF9JT3hZMUJZS1pTaEtFX1ljZ1dYcE5ZY2JHMG1veGl4bWxqQTZVMWhsTzBQR0t5MHdjR29CNU5qQnRTYUdDTUJINjAyTUUzVDV2aHZHSlJwYURucmM1MnFhZlJvYkk3ZElvYzVZZ3BSSXRl0gGOAUFVX3lxTE4tQjJ5dm9VV09IRkplUzRMSjY2cWRzQ1dzZG9vTl8xSFhYVEcxaV8yOFJ2QnltalU3cVlHdzNtSFhGNi1Bci1rV2VJWVRDN2VLSWN6THRpWmVUYi1MNWZFdFlUVjFsQTNtSFliZE1qV2N5bko4dm4ydUpWdVZKUWhRVDdlREI1WG8tRHdjbEE?oc=5",
+        "summary": "Stephen Miller’s White House will test Mexico’s red lines The Hill Stephen Miller’s White House will test Mexico’s red lines - The Hill",
+        "published": "Wed, 11 Nov 2026 17:00:00 GMT",
+        "published_kst": "2026-11-12T02:00:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,77 +77,79 @@
     ],
     "kr": [
       {
-        "title": "'금감원 사칭' 계정에 금융보안원 당했다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44VzZvM05iQUNvY253cnJBQWNiOUV1TnYwXzhPRHk3N3NWMkFTTFdMRGNSM290S3NyMElUdnpaN1FvS2h4c2R5azhQeEplYXJQZnNUU09nTWE3UQ?oc=5",
-        "summary": "'금감원 사칭' 계정에 금융보안원 당했다 한국경제 '금감원 사칭' 계정에 금융보안원 당했다 - 한국경제",
-        "published": "Wed, 11 Nov 2026 11:45:00 GMT",
-        "published_kst": "2026-11-11T20:45:00+09:00",
+        "title": "결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 - 더스쿠프",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nMXpZM1VkZlNtNm1qSXZsQXFqYkJZUEFWZGhnNnlPbjZvLU9IOG51b0hIZ0taeGQ1SUE0Wlp4azRBS0JldkhtT1I3c2NTWTR5eHJ5UHEyNENYUFNROU81MVJsZW9YUFlXMnplMllB?oc=5",
+        "summary": "결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 더스쿠프 결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 - 더스쿠프",
+        "published": "Wed, 11 Nov 2026 16:38:17 GMT",
+        "published_kst": "2026-11-12T01:38:17+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "국민들은 왜 서·논술형 수능을 바라지 않나 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEZGI2VUJyRmtuX0pMa2E5MEx3R2kzUE1fNWxRVkUxZUxmM1d4dzB1NWRyRVZQYVVhS2pXQks2eG9ZcTVnTzdqVU1BSkVUdXppRGIybXRtamEzdw?oc=5",
-        "summary": "국민들은 왜 서·논술형 수능을 바라지 않나 한국경제 국민들은 왜 서·논술형 수능을 바라지 않나 - 한국경제",
-        "published": "Wed, 11 Nov 2026 09:17:19 GMT",
-        "published_kst": "2026-11-11T18:17:19+09:00",
+        "title": "공화 하원 원내대표에 'MAGA 선봉장'…트럼프 탄핵 방어 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TDhwY20wRGM4RDJqVlNfWkN3N0xONmZNZ1dpX0JySVhnU05zSF9oaF9fbWh1NWhlVzFHRjJabVJxdGF1ZEZMem1BeGxLaVM2VlgtQWlsOS0yQQ?oc=5",
+        "summary": "공화 하원 원내대표에 'MAGA 선봉장'…트럼프 탄핵 방어 한국경제 공화 하원 원내대표에 'MAGA 선봉장'…트럼프 탄핵 방어 - 한국경제",
+        "published": "Wed, 11 Nov 2026 16:38:00 GMT",
+        "published_kst": "2026-11-12T01:38:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국 경제 미래 먹거리 찾는다…‘2026 초혁신경제 포럼’ 개최 - 브릿지경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtb3lWZUgzRFdleWdSNFhJQ3dVZ2lxREhDYkNmTktwYTJMcXV0VkZHTlRuYmhuMDJDZ2NNNWt4X2dqTG83dHZYbE0yNmVCbFFYVXBUOV9yZW1Udw?oc=5",
-        "summary": "한국 경제 미래 먹거리 찾는다…‘2026 초혁신경제 포럼’ 개최 브릿지경제 한국 경제 미래 먹거리 찾는다…‘2026 초혁신경제 포럼’ 개최 - 브릿지경제",
-        "published": "Wed, 11 Nov 2026 09:13:00 GMT",
-        "published_kst": "2026-11-11T18:13:00+09:00",
+        "title": "[단독] '백상예술대상' HLL중앙 인수전에 하이브·신세계 참전 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwVzlwOHF5ZFpXRS1LdVN2djFCbVExU0s1aHJkOW9zV0RQV1A1a0s5Tnlsb2RwZi1QOFhITUlReVpybW1DNnBQaG5uX0Zsc3BIdUY4X2hQcjg0dw?oc=5",
+        "summary": "[단독] '백상예술대상' HLL중앙 인수전에 하이브·신세계 참전 한국경제 [단독] '백상예술대상' HLL중앙 인수전에 하이브·신세계 참전 - 한국경제",
+        "published": "Wed, 11 Nov 2026 16:34:00 GMT",
+        "published_kst": "2026-11-12T01:34:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Government announces long-delayed supply chain law in wake of coverage from The Independent - The Independent",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzlYRE4xeHUxN2VnVUJicTIwRG12THFZV3FRZEVhYmtGS2ZIR2VpQUJHV0UzSXNpNnVXbFZCenJLQUpEVzVZTEJxUVZna3hsZklPWDhYbS11clhNRDR2QVdlQzVLdXFyQW11UWNfcndxWi1venRjV3FTTHZrbkZKYzlWZFc5S3I1MmR6YllCTlFmQUkzTzZ3YTVEb201V00?oc=5",
-        "summary": "Government announces long-delayed supply chain law in wake of coverage from The Independent The Independent Government announces long-delayed supply chain law in wake of coverage from The Independent - The Independent",
-        "published": "Wed, 11 Nov 2026 11:34:00 GMT",
-        "published_kst": "2026-11-11T20:34:00+09:00",
+        "title": "MP Materials at Baird 2026 Global Industrial Conference: supply chain edge - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWY5N2gyUmxZRGViYjNuak1raEV3Q1pQWWZDYzBkWFhyRjRvV296SzdPdjBDbENpam5ZWFg0ZnhPTDF4LWNiZVh2Wm9ILUV5RGFjRFdhWk9nUU8yTjJBVjNScG84R3ZNb1MyUUJKczZNZGU0NzdyY2otSzkxZThGQTRVQ1lNUzhFU01rRmtPMGJVNW95VkxOTnU2RGFIV3dHTmEwcHB3c0dLTlZyNGpLNmVzQ1dKTXVCZE5tSXhwaXl1WXNWdUtOOA?oc=5",
+        "summary": "MP Materials at Baird 2026 Global Industrial Conference: supply chain edge Investing.com MP Materials at Baird 2026 Global Industrial Conference: supply chain edge - Investing.com",
+        "published": "Wed, 11 Nov 2026 15:43:39 GMT",
+        "published_kst": "2026-11-12T00:43:39+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Building a shock-resilient supply chain - kpmg.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkZ4LTZEN1RZZl9nSmhrR1NxVGhqS2syLWE5Qkh0aW1NVWRoVzNWSUNfTVVJWlAxYVVOY1ppRkpjd256ZDZQX25lSlZJWXZuaVR6SDdsNW45S1lXVV9XMlByQUZwdHF4U184T3dmczRfUUJBSGhQcnplMTB0RjgtRnlQQWRCS3BlbGZ0cW5NanJDQ1M0a0VLSExZRzc?oc=5",
+        "summary": "Building a shock-resilient supply chain kpmg.com Building a shock-resilient supply chain - kpmg.com",
+        "published": "Wed, 11 Nov 2026 15:10:32 GMT",
+        "published_kst": "2026-11-12T00:10:32+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "BizClik & Supply Chain Queen® Announce Strategic Partnership - Sustainability Magazine",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWThhNVlSSnpWUU5YY0pQWFhlZEV1Q3lCNy1LM05YclVkVEZtbGY3Ty1qLWRrS09KUkxJYWVlbF9qUTV5TWRDeFFtV1lydlV3VWl1RjZYVHpFTDkzX1JwQWkxRERXWW1qYjJFOVJZR2psdmx5d1ZLVjlJWFRvMFkyeWF3dWpBWHJvR2JGbGdCMlZkb2o5bUhiTjBPYXVUTGhnb2piMm1adw?oc=5",
-        "summary": "BizClik & Supply Chain Queen® Announce Strategic Partnership Sustainability Magazine BizClik & Supply Chain Queen® Announce Strategic Partnership - Sustainability Magazine",
-        "published": "Wed, 11 Nov 2026 11:04:12 GMT",
-        "published_kst": "2026-11-11T20:04:12+09:00",
+        "title": "Over 90% of China’s solar supply chain is reporting losses, says IEA - pv magazine Global",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnF3dThSLUlFTXl2RGxPSEo2c2Z0SzVLdlRQblVpanlFU2QtR2JyR2l0ZkZJeEMwVG44Y3pYQU0zcTFZbHFaSXN5UnVXZEJka2dLcDRjNzJsTk9SdzZJY2RKSlUzNlJBa3FISlp0b3B5YUxicm5tSktDREowZHEzSW1pbHlYd0lONXFaRzF6RHNhLTF6UEkzXy1PN0pHajhtUHFYbUJTWFE?oc=5",
+        "summary": "Over 90% of China’s solar supply chain is reporting losses, says IEA pv magazine Global Over 90% of China’s solar supply chain is reporting losses, says IEA - pv magazine Global",
+        "published": "Wed, 11 Nov 2026 13:18:45 GMT",
+        "published_kst": "2026-11-11T22:18:45+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Unilever & Iron Mountain Establish UAE Logistics Partnership - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkRTR3pyc0tKU2tmMThCZUM3RHpING1OYmxRaHZkU2FMYkN4WG9DejNFV0pJaDh4SjFzZmlpTGd3ZmlDdFZmMndpbVlsbUxEYmpGeUZSNjJxcTNONlV4Wmt0and2andDOEY1R1E2SkV1b29pcE0xWUhFeERGVGJfdks1al9WWHJ4Rno0bDBOVmRVekxZdzlhbTJ3?oc=5",
-        "summary": "Unilever & Iron Mountain Establish UAE Logistics Partnership Supply Chain Digital Magazine Unilever & Iron Mountain Establish UAE Logistics Partnership - Supply Chain Digital Magazine",
-        "published": "Wed, 11 Nov 2026 10:51:47 GMT",
-        "published_kst": "2026-11-11T19:51:47+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "90%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Hundreds of schools across Europe were evacuated on Wednesday after receiving bomb threats, police forces say, amid growing worries of hybrid threats. Hundreds of schools in Italy, UK evacuated over 'hoax' bomb threats / '금감원 사칭' 계정에 금융보안원 당했다 한국경제 '금감원 사칭' 계정에 금융보안원 당했다 - 한국경제 / Government announces long-delayed supply chain law in wake of coverage from The Independent The Independent Government announces long-delayed supply chain law in wake of coverage from The Independent - The Independent",
+  "wrap_summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business. Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings / 결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 더스쿠프 결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 - 더스쿠프 / MP Materials at Baird 2026 Global Industrial Conference: supply chain edge Investing.com MP Materials at Baird 2026 Global Industrial Conference: supply chain edge - Investing.com",
   "invest_summary": ""
 }
