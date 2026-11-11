@@ -1,81 +1,90 @@
 {
   "date": "2026-11-12",
-  "generated_at_utc": "2026-11-11T17:47:56Z",
-  "cutoff_kst": "2026-11-12T02:47:00+09:00",
+  "generated_at_utc": "2026-11-11T20:01:09Z",
+  "cutoff_kst": "2026-11-12T05:01:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-        "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
-        "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business. Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
-        "published": "Wed, 11 Nov 2026 17:39:26 GMT",
-        "published_kst": "2026-11-12T02:39:26+09:00",
+        "title": "White House lawyer sends warning to House Democrats about potential investigations - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTkhHZzBINFVYTTVFQ3VVOWdUbndFaHRpS0JLdEhDWUJuMnNoQ1lvSTBPdG03SURxYW1YYjE3c0dlYjhNNGlBbHBTNzZFZW5pR1ZJeDcxRWw2ajBBYmdiLW5KdU1Pak5mY0V5NmEwSXNKV2tFbGItNmx5T3VTbURxSU5vaUVJQVNDNi1YZDhLejh2cV96MHFNaElILVd2ZGs2MlY3VnNCdkk2N2t6ZF9YUlU5RUZMYzk2MmQwQlNuSEZ0Um5FS3NtUQ?oc=5",
+        "summary": "White House lawyer sends warning to House Democrats about potential investigations NBC News White House lawyer sends warning to House Democrats about potential investigations - NBC News",
+        "published": "Wed, 11 Nov 2026 19:56:45 GMT",
+        "published_kst": "2026-11-12T04:56:45+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump Admin. Officials Speak to White House Reporters - C-SPAN",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE91bnd0bExNVzhnbFBEeFRYTkFEUlFTTFZZVjhqNWZIbDZqbDFvUVhmLXdFUEtYVW9FY2NNVkhJLWZ2Z1FITzJEdVB3ZXlsTnphaXc0NmN5MUdiTFpVdU1OOTIwWGRDT2pqcHpUUVl5bk41cElrTWZfbXIyekpOeG8yTDZJODlRNDdkUm1NRURSajg4c3JrYlhxQ0g3RXpoaXFFaXhHcHhzdw?oc=5",
+        "summary": "Officials Speak to White House Reporters C-SPAN Trump Admin.",
+        "published": "Wed, 11 Nov 2026 19:55:48 GMT",
+        "published_kst": "2026-11-12T04:55:48+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+        "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+        "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots. Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+        "published": "Wed, 11 Nov 2026 19:55:39 GMT",
+        "published_kst": "2026-11-12T04:55:39+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-        "url": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
-        "summary": "American Airlines' first class food options include sandwiches, fruit and chia bowls American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
-        "published": "Wed, 11 Nov 2026 17:34:18 GMT",
-        "published_kst": "2026-11-12T02:34:18+09:00",
+        "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
+        "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
+        "summary": "An aging work force is not the only reason Social Security's trust funds now have a looming shortfall, according to AARP Public Policy Institute research. Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
+        "published": "Wed, 11 Nov 2026 19:54:27 GMT",
+        "published_kst": "2026-11-12T04:54:27+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2019"
+          "2059"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2tORWxkdHRBenRxSW9hSW4wekZsa3Y5VTA0d3A3NTNzTVhMazhTWnNEWlJvMlMzUFIyenNRVl8xWWJaOTdMN2NQVmNsWjhRYUJKWmplRU8zbGthZGQ0R0NlRzFSWmZObzBRSnVNSHFGM3owd2JpTmZHVEkyaEVIS2dLclc3cGZkWXBUSlFoRnpCUTRKdTFrNzNCb2xwUVJic0RoaGgwZzF0ZktCMWc?oc=5",
-        "summary": "Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks Bloomberg.com Gold Holds Loss Near $4,000 on Hot US Inflation, Fed Remarks - Bloomberg.com",
-        "published": "Wed, 11 Nov 2026 17:33:27 GMT",
-        "published_kst": "2026-11-12T02:33:27+09:00",
+        "title": "White House warns House Democrats not to harass staff - Denver Gazette",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWpLekNTZHRCWFZLVmIwZXRlaHZmSk1MNVdTZXVKNldXV2lpOFRWQldzcU5KbURIQmM2RGdudThwYS0xTVM3NEZLWHlvZWI4Y2RfZmZsTGlfUEluU0dLaWxidjd4bUtLVWNFSzNlOFdseU9zdm92SlFqRE9KWlFSMFRzbXRlUThsamtaUnRESlNIOW5OM29Xc1pZcw?oc=5",
+        "summary": "White House warns House Democrats not to harass staff Denver Gazette White House warns House Democrats not to harass staff - Denver Gazette",
+        "published": "Wed, 11 Nov 2026 19:53:48 GMT",
+        "published_kst": "2026-11-12T04:53:48+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$4"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CFTC investigates if Kalshi improperly self-certified event contracts",
-        "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
-        "summary": "News of the probe comes after the CFTC ordered Kalshi to take down a sports-related \"mention markets\" back in August. CFTC investigates if Kalshi improperly self-certified event contracts",
-        "published": "Wed, 11 Nov 2026 17:22:34 GMT",
-        "published_kst": "2026-11-12T02:22:34+09:00",
+        "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+        "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+        "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage. Its AI financing web raises the stakes",
+        "published": "Wed, 11 Nov 2026 19:17:19 GMT",
+        "published_kst": "2026-11-12T04:17:19+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House threatens criminal probe into Democrats' investigations - USA Today",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTFDWGRLbkRmcm45M2tTMHlrTm5iem1xNHNTNlRaVmVnbDZob0FaaGF1WWFCY09nZENjRHN2VjZUeXlHbGN0amZndEFSY0pEbFJzTE9nREg3ZDZIdWZrV0hzcVBrT2t3dUdOOUdONUQ2dVZnbUV1NUZSZTdIUkxxUGxMSkVGMHJKZWFTR25WWURPdWQyMjJuQWZWNHd1UDk0REZ2aTZRcl9QMktQSlVEVEV5WTYzVWxC?oc=5",
-        "summary": "White House threatens criminal probe into Democrats' investigations USA Today White House threatens criminal probe into Democrats' investigations - USA Today",
-        "published": "Wed, 11 Nov 2026 17:06:00 GMT",
-        "published_kst": "2026-11-12T02:06:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Stephen Miller’s White House will test Mexico’s red lines - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDgwREc3SWJfcEVuZ2dvNTZrcVA0RF9JT3hZMUJZS1pTaEtFX1ljZ1dYcE5ZY2JHMG1veGl4bWxqQTZVMWhsTzBQR0t5MHdjR29CNU5qQnRTYUdDTUJINjAyTUUzVDV2aHZHSlJwYURucmM1MnFhZlJvYkk3ZElvYzVZZ3BSSXRl0gGOAUFVX3lxTE4tQjJ5dm9VV09IRkplUzRMSjY2cWRzQ1dzZG9vTl8xSFhYVEcxaV8yOFJ2QnltalU3cVlHdzNtSFhGNi1Bci1rV2VJWVRDN2VLSWN6THRpWmVUYi1MNWZFdFlUVjFsQTNtSFliZE1qV2N5bko4dm4ydUpWdVZKUWhRVDdlREI1WG8tRHdjbEE?oc=5",
-        "summary": "Stephen Miller’s White House will test Mexico’s red lines The Hill Stephen Miller’s White House will test Mexico’s red lines - The Hill",
-        "published": "Wed, 11 Nov 2026 17:00:00 GMT",
-        "published_kst": "2026-11-12T02:00:00+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
+      {
+        "title": "대통령이 잘되길 바라는 사람도 많다 [36.5˚C] - 한국일보",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WMjBacTcwb0dCR3M5UmltYzVoallLclNoSTdtTkhfQ2VvQnNYRTF4bE8tc29CS2FzZUxSUi02YTZhcGYwS1VfNzM4TFQwSUprLTI0aUhNT3QtOVhEbHN1Vk8ycF8ydk90UG5oaWR30gFzQVVfeXFMUDYxeElUeDFzMUlGQmpleXZaRWZEZUtZbUNRazVGeUpOdGNxZW9jeWFwNWFvR2VKN0x4eGxKN3NZbTVEUU9wVGtuOFhpWVRRRHZ5bk9rQTJFU05jXzNYVTlNOTZJUU5kUWMtUVh4U3k5ejRnOA?oc=5",
+        "summary": "대통령이 잘되길 바라는 사람도 많다 [36.5˚C] 한국일보 대통령이 잘되길 바라는 사람도 많다 [36.5˚C] - 한국일보",
+        "published": "Wed, 11 Nov 2026 19:30:00 GMT",
+        "published_kst": "2026-11-12T04:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 - 더스쿠프",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nMXpZM1VkZlNtNm1qSXZsQXFqYkJZUEFWZGhnNnlPbjZvLU9IOG51b0hIZ0taeGQ1SUE0Wlp4azRBS0JldkhtT1I3c2NTWTR5eHJ5UHEyNENYUFNROU81MVJsZW9YUFlXMnplMllB?oc=5",
@@ -88,22 +97,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "공화 하원 원내대표에 'MAGA 선봉장'…트럼프 탄핵 방어 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44TDhwY20wRGM4RDJqVlNfWkN3N0xONmZNZ1dpX0JySVhnU05zSF9oaF9fbWh1NWhlVzFHRjJabVJxdGF1ZEZMem1BeGxLaVM2VlgtQWlsOS0yQQ?oc=5",
-        "summary": "공화 하원 원내대표에 'MAGA 선봉장'…트럼프 탄핵 방어 한국경제 공화 하원 원내대표에 'MAGA 선봉장'…트럼프 탄핵 방어 - 한국경제",
-        "published": "Wed, 11 Nov 2026 16:38:00 GMT",
-        "published_kst": "2026-11-12T01:38:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[단독] '백상예술대상' HLL중앙 인수전에 하이브·신세계 참전 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwVzlwOHF5ZFpXRS1LdVN2djFCbVExU0s1aHJkOW9zV0RQV1A1a0s5Tnlsb2RwZi1QOFhITUlReVpybW1DNnBQaG5uX0Zsc3BIdUY4X2hQcjg0dw?oc=5",
-        "summary": "[단독] '백상예술대상' HLL중앙 인수전에 하이브·신세계 참전 한국경제 [단독] '백상예술대상' HLL중앙 인수전에 하이브·신세계 참전 - 한국경제",
-        "published": "Wed, 11 Nov 2026 16:34:00 GMT",
-        "published_kst": "2026-11-12T01:34:00+09:00",
+        "title": "AI주 구원투수로 등장한 코어위브? [박신영의 개장전 요것만] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmUXptYlpmX0xrS3BadjdiYnk1VXZTVmxFNDdvQXF1VVEzc1hJcGtRNVdSLTEtdVVMdEhvRlZ6SGZEdGpWR3ZFbTZjX2hkekFSV2Z5TDJFQ3loUQ?oc=5",
+        "summary": "[박신영의 개장전 요것만] 한국경제 AI주 구원투수로 등장한 코어위브? AI주 구원투수로 등장한 코어위브?",
+        "published": "Wed, 11 Nov 2026 15:13:16 GMT",
+        "published_kst": "2026-11-12T00:13:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,44 +110,42 @@
     ],
     "world": [
       {
-        "title": "MP Materials at Baird 2026 Global Industrial Conference: supply chain edge - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWY5N2gyUmxZRGViYjNuak1raEV3Q1pQWWZDYzBkWFhyRjRvV296SzdPdjBDbENpam5ZWFg0ZnhPTDF4LWNiZVh2Wm9ILUV5RGFjRFdhWk9nUU8yTjJBVjNScG84R3ZNb1MyUUJKczZNZGU0NzdyY2otSzkxZThGQTRVQ1lNUzhFU01rRmtPMGJVNW95VkxOTnU2RGFIV3dHTmEwcHB3c0dLTlZyNGpLNmVzQ1dKTXVCZE5tSXhwaXl1WXNWdUtOOA?oc=5",
-        "summary": "MP Materials at Baird 2026 Global Industrial Conference: supply chain edge Investing.com MP Materials at Baird 2026 Global Industrial Conference: supply chain edge - Investing.com",
-        "published": "Wed, 11 Nov 2026 15:43:39 GMT",
-        "published_kst": "2026-11-12T00:43:39+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Building a shock-resilient supply chain - kpmg.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWkZ4LTZEN1RZZl9nSmhrR1NxVGhqS2syLWE5Qkh0aW1NVWRoVzNWSUNfTVVJWlAxYVVOY1ppRkpjd256ZDZQX25lSlZJWXZuaVR6SDdsNW45S1lXVV9XMlByQUZwdHF4U184T3dmczRfUUJBSGhQcnplMTB0RjgtRnlQQWRCS3BlbGZ0cW5NanJDQ1M0a0VLSExZRzc?oc=5",
-        "summary": "Building a shock-resilient supply chain kpmg.com Building a shock-resilient supply chain - kpmg.com",
-        "published": "Wed, 11 Nov 2026 15:10:32 GMT",
-        "published_kst": "2026-11-12T00:10:32+09:00",
+        "title": "Scaling Personalised Therapies Across APAC Starts With Supply Chain Readiness - BioPharma APAC",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMk5abEFudVhPSHNrMFJmSkF6UzNVdkMxSHVjU0pVNlZLRDVKSXFvemczSUZpZlRHNC1FQW4zYng3TzBCYnpLd1ZCeFg5UF9FclBSVlhDbnRsZF9uV1pOMTVIN0w1QkMxTmRHY0tFYXR4UWdpbTE5MERpS2ZWRjZsSV9FRm9fMnhLcWVWUkJlSFBTSDEwVllEN1BZNDI1ZzRGeHdsTlRIN3pscVlBbFhPRnpTS0R3UC16Yzl5R25kMUtlU2wzUHJESGEtbw?oc=5",
+        "summary": "Scaling Personalised Therapies Across APAC Starts With Supply Chain Readiness BioPharma APAC Scaling Personalised Therapies Across APAC Starts With Supply Chain Readiness - BioPharma APAC",
+        "published": "Wed, 11 Nov 2026 19:21:19 GMT",
+        "published_kst": "2026-11-12T04:21:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Over 90% of China’s solar supply chain is reporting losses, says IEA - pv magazine Global",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnF3dThSLUlFTXl2RGxPSEo2c2Z0SzVLdlRQblVpanlFU2QtR2JyR2l0ZkZJeEMwVG44Y3pYQU0zcTFZbHFaSXN5UnVXZEJka2dLcDRjNzJsTk9SdzZJY2RKSlUzNlJBa3FISlp0b3B5YUxicm5tSktDREowZHEzSW1pbHlYd0lONXFaRzF6RHNhLTF6UEkzXy1PN0pHajhtUHFYbUJTWFE?oc=5",
-        "summary": "Over 90% of China’s solar supply chain is reporting losses, says IEA pv magazine Global Over 90% of China’s solar supply chain is reporting losses, says IEA - pv magazine Global",
-        "published": "Wed, 11 Nov 2026 13:18:45 GMT",
-        "published_kst": "2026-11-11T22:18:45+09:00",
+        "title": "Solid but narrow footing: UBS sees 3.5% global growth driven by AI capex - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkhhbmFQbHVBcjhrMkphNGNUX2JGcGRhbHVZTWtuUmU0aG82UmpJQkZQTkdmOUkyWGxLSnRDR2NzS2FiMVB0V0o5bDRPdlpEYzN4SXJkZmJCVjRjZE9USzZlRW9XY1VCYkw5YTRwdXQ5YW14VFdST3J3SDJ4OC1ubVZwWnhFQndmbV9tV1pKWFVwYnlzbXczVmVpQWVaTC1EU0RYOVlmMEJieVpPNXpNRHhqR2tmSE00Q0k3cVdFczVSV1VQcV92WktoRkJYdw?oc=5",
+        "summary": "Solid but narrow footing: UBS sees 3.5% global growth driven by AI capex TradingView Solid but narrow footing: UBS sees 3.5% global growth driven by AI capex - TradingView",
+        "published": "Wed, 11 Nov 2026 18:36:18 GMT",
+        "published_kst": "2026-11-12T03:36:18+09:00",
         "domain": "google.com",
         "key_figures": [
-          "90%"
+          "3.5%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Freightos Extends AI to Simplify Freight Forwarding Process - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNelRYMkRETkx3cU9GUmk5RzRvM3dqbTREWEJKekJvQkduS19mWVlLVUNZZVMxTGRTVWdGNWU1Um4zM2lYelF2MUlxMDU2SnY2MWpjNXVPTzBSNXRxTFZpMldMdjN1QUJOTnUyVE5IZGctSjl1Q3g4OV9wRWljaElyTDI3MEc1RVQzallRVWtxVjdnMHZlUjNpRTJvdXZJRFlx?oc=5",
+        "summary": "Freightos Extends AI to Simplify Freight Forwarding Process Supply Chain Digital Magazine Freightos Extends AI to Simplify Freight Forwarding Process - Supply Chain Digital Magazine",
+        "published": "Wed, 11 Nov 2026 18:23:06 GMT",
+        "published_kst": "2026-11-12T03:23:06+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business. Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings / 결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 더스쿠프 결국 “빅스텝”까지 거론됐다…금리 급등 신호탄일까 - 더스쿠프 / MP Materials at Baird 2026 Global Industrial Conference: supply chain edge Investing.com MP Materials at Baird 2026 Global Industrial Conference: supply chain edge - Investing.com",
+  "wrap_summary": "White House lawyer sends warning to House Democrats about potential investigations NBC News White House lawyer sends warning to House Democrats about potential investigations - NBC News / 대통령이 잘되길 바라는 사람도 많다 [36.5˚C] 한국일보 대통령이 잘되길 바라는 사람도 많다 [36.5˚C] - 한국일보 / Scaling Personalised Therapies Across APAC Starts With Supply Chain Readiness BioPharma APAC Scaling Personalised Therapies Across APAC Starts With Supply Chain Readiness - BioPharma APAC",
   "invest_summary": ""
 }
