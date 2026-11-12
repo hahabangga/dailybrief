@@ -1,75 +1,70 @@
 {
   "date": "2026-11-13",
-  "generated_at_utc": "2026-11-12T18:01:12Z",
-  "cutoff_kst": "2026-11-13T03:01:00+09:00",
+  "generated_at_utc": "2026-11-12T20:40:08Z",
+  "cutoff_kst": "2026-11-13T05:40:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-        "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-        "summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight. Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-        "published": "Thu, 12 Nov 2026 17:59:26 GMT",
-        "published_kst": "2026-11-13T02:59:26+09:00",
+        "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+        "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+        "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor. Alice Huang tied to Nvidia’s biggest Chinese competitor",
+        "published": "Thu, 12 Nov 2026 20:34:54 GMT",
+        "published_kst": "2026-11-13T05:34:54+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-        "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2028-meeting-will-not-see-a-vote-on-interest-rates.html",
-        "summary": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
-        "published": "Thu, 12 Nov 2026 17:58:29 GMT",
-        "published_kst": "2026-11-13T02:58:29+09:00",
+        "title": "Trump says ‘we don’t need a deal with Iran’",
+        "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+        "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states. Trump says ‘we don’t need a deal with Iran’",
+        "published": "Thu, 12 Nov 2026 20:34:31 GMT",
+        "published_kst": "2026-11-13T05:34:31+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "2027"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-        "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-        "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week. Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-        "published": "Thu, 12 Nov 2026 17:53:31 GMT",
-        "published_kst": "2026-11-13T02:53:31+09:00",
+        "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+        "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+        "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him. Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+        "published": "Thu, 12 Nov 2026 20:32:21 GMT",
+        "published_kst": "2026-11-13T05:32:21+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "16%",
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US inflation rises more than expected, raising likelihood of Fed rate hike - FOX 17 West Michigan News",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVVc0Zk5yS0gycW05eHBuZDZfaTlleHVaOFpnaWF6NDlHdWlhT1QtanRmNTdwcWZZZFJKMEdMajNHa1M1eERRaFJoOUF0Yk5yYXVOWFZhNWVqbHF5Nnp4RVAtV3FETWRBa2ZaWUNJN0w0eEsyVGo4V3hrSnUtNGZseTJmT1F0WlpaSnFlV09oUzJKOGVVbDJBZ3JUYVBxMzd6RUtFX2JCMDFyczNkMVgxV05La2s0LUlzN0RfbjNRWmRxdHIzZm1maGd0cw?oc=5",
-        "summary": "US inflation rises more than expected, raising likelihood of Fed rate hike FOX 17 West Michigan News US inflation rises more than expected, raising likelihood of Fed rate hike - FOX 17 West Michigan News",
-        "published": "Thu, 12 Nov 2026 17:53:21 GMT",
-        "published_kst": "2026-11-13T02:53:21+09:00",
+        "title": "Canadian dollar steadies near 19-month low ahead of US inflation data - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3UzM2VUR3MtMHVGVnlhSzdLWmpnZks3empvRE1nVV9DbjNBUmNuQXBNSTVXQURfMnN0S1VJdVdfbS1aV19XTjhHX04za2lpbElHam0tTDNoZU1xbGxTN0NLZXJQMS1HbXcxX2prclluZW1zZlVKMjktZnFidlJHNmlIR3kyZm5iWnZMaXJGemk0cDlZeC16UFgtc2hiQy1ZLVV0SHVOV1NLbXFnNUtFY3FYVQ?oc=5",
+        "summary": "Canadian dollar steadies near 19-month low ahead of US inflation data Reuters Canadian dollar steadies near 19-month low ahead of US inflation data - Reuters",
+        "published": "Thu, 12 Nov 2026 20:21:26 GMT",
+        "published_kst": "2026-11-13T05:21:26+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Forex Today: US inflation is back - FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb0RWV201SzBKdXF0VDlvWlBnVzk4ZWwwS3VHbDBBZ1huLUNiSm5sSTZPaDJ2bFlaeS1qZjBvdHJiZUZSbVBiZmJ0UTBoZEc1M25UdG1aaG9tX2FvUVVFUXBPeXg0TlJZdXVmOTdJbFctQ3gyZ3JGM3lwTHk3NWpXcA?oc=5",
-        "summary": "Forex Today: US inflation is back FXStreet Forex Today: US inflation is back - FXStreet",
-        "published": "Thu, 12 Nov 2026 17:47:07 GMT",
-        "published_kst": "2026-11-13T02:47:07+09:00",
+        "title": "Canadian dollar steadies near 19-month low ahead of US inflation data - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX05fNW9pRmRQdG41d2xpQmR5LXUxTERKeXRPMXVlOWNyTWxyTTNvMTBiaF9jNFVnOGtrYkhpand3RWRLdzV0UXNJYWM0ZUhNVHlIVVFaTkR5c0ZScFhwMmI3b2tOOWNfNUhvdFBkVUx4Y2ZER0RGbFhCaE9kQnI1c1BxMlgxcy0xcDZsUTVTUXQwTUZBZ0lZVUN3aWx4Z0dBUXdMSnpoeC1DZkdncVFYUDM3b3lHSXpUN0U2OE1nMzJlX2w5ajZHY0RvTjl6QWZoNG5sRVRn?oc=5",
+        "summary": "Canadian dollar steadies near 19-month low ahead of US inflation data TradingView Canadian dollar steadies near 19-month low ahead of US inflation data - TradingView",
+        "published": "Thu, 12 Nov 2026 20:12:54 GMT",
+        "published_kst": "2026-11-13T05:12:54+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House counsel says Supreme Court delivered ‘generational win’ on presidential firing power - The Hill",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUdlaXlpMDJfeGplVm04X2JnZW5JQm9LTEtjT2FiU05lZFd6d0hvZWcwWkp4dVg3bnpjLVNWdWpGbTFDdDBmS2xBd1BvT2FiZlJaVXFjZ2txYVZwbW0zWlMwR2hIYUlKZFg2WkZyMlJKb1I0RVJpMkxSNlQ0dFM5OG1XU3psUnJDeHpYUDFRaE8taUtOWnhWVmlldTk?oc=5",
-        "summary": "White House counsel says Supreme Court delivered ‘generational win’ on presidential firing power The Hill White House counsel says Supreme Court delivered ‘generational win’ on presidential firing power - The Hill",
-        "published": "Thu, 12 Nov 2026 17:30:00 GMT",
-        "published_kst": "2026-11-13T02:30:00+09:00",
+        "title": "Americans paid to help overseas workers land U.S. jobs faced prison, steep forfeitures - Cleveland.com",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEdYWlV6RlNOV1FPUHJUdkM0VklTSDFrUHpCaDIxdnFRTlNCUTRnbjQzVWl5Mk1XLVFJMUFselFkOVl1UGYtNm55bllMdlJNRE9vWjNUdzB0VEZOa2JhbGY5OHFGc1hTWV9yZ1ljS2t2WHlxZ2Rrc05MaVpCcVFjb2lPbk9sSUJjamN6MElLT3Q1LWJSSzRBOEpXMWlvMlFsaEk5ZmstNXNCVm1yUmVGQll0MnN4cE1BcGFtZlFZejhyQjllSFk4THpPQkRER0d1alg2TkdNSk9OeDYxdUl3MUQyTHBfUVJt?oc=5",
+        "summary": "jobs faced prison, steep forfeitures Cleveland.com Americans paid to help overseas workers land U.S. jobs faced prison, steep forfeitures - Cleveland.com",
+        "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+        "published_kst": "2026-11-13T05:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -78,33 +73,33 @@
     ],
     "kr": [
       {
-        "title": "\"엔비디아 성장 이어갈 수 있나\"…월가, 줄줄이 목표가 낮춰 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hUjN5b0VwNzVZcm5vOUJNVE5FU1JNUnFjak5zS0xYTlgtcHNSd0FIa2djbFRDVjF5cHhGVS1OTEw3MkZnaHVwWkRwcFFiT185NDM1TEFXREc4QQ?oc=5",
-        "summary": "\"엔비디아 성장 이어갈 수 있나\"…월가, 줄줄이 목표가 낮춰 한국경제 \"엔비디아 성장 이어갈 수 있나\"…월가, 줄줄이 목표가 낮춰 - 한국경제",
-        "published": "Thu, 12 Nov 2026 16:58:00 GMT",
-        "published_kst": "2026-11-13T01:58:00+09:00",
+        "title": "■11월 13일 금 경제 캘린더 - YTN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tT2lISF9SNkxJeGpNeHc2aklJa0dEa3RYdEFzSjNzSEN2NmJsRld4XzJEUU1QNDJzVTZEYkIxamM1by1hSDhtZ0pVT0dxLW9pU1lDRUdxUURmbHhBTWc?oc=5",
+        "summary": "■11월 13일 금 경제 캘린더 YTN ■11월 13일 금 경제 캘린더 - YTN",
+        "published": "Thu, 12 Nov 2026 20:31:00 GMT",
+        "published_kst": "2026-11-13T05:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "국채 맡겨 달러 빌린 신흥국…재정 부담 커지나 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zQng2WmxYcldyb3FjVFk2SmJySjFReFBsODNqa3FKam1FaXAwcVAxd3RGaEJIaDdxZGViS2xiTEo2NG1XUERtSktoZi12azB5Z0VadUE5RjI5Zw?oc=5",
-        "summary": "국채 맡겨 달러 빌린 신흥국…재정 부담 커지나 한국경제 국채 맡겨 달러 빌린 신흥국…재정 부담 커지나 - 한국경제",
-        "published": "Thu, 12 Nov 2026 16:30:00 GMT",
-        "published_kst": "2026-11-13T01:30:00+09:00",
+        "title": "온주, 사립 직업학교 규제 강화 - 캐나다 한국일보",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kWThJc1dsS1FLSzA2QmhvSUN5ajZOZjh3RDFTYUxPS3BXSEl3YnJsYkJ0MXVmVXZKVGQ4NUI3aHBuNmNrWm8wZ29CLTF1UktfdjRqSA?oc=5",
+        "summary": "온주, 사립 직업학교 규제 강화 캐나다 한국일보 온주, 사립 직업학교 규제 강화 - 캐나다 한국일보",
+        "published": "Thu, 12 Nov 2026 19:16:31 GMT",
+        "published_kst": "2026-11-13T04:16:31+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "치솟는 집값에 스페인도 폭발 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90SzFZMDNGSG9zaU5XYmZ6aVo2bmJ3cm1nNXZhUmY1OEdqOVJmdkJwMWVCeFU0aFQtb3RTblZrdWRGUUlQVTZNZkIxVEV4TmhFX0VGMk5QOFZVZw?oc=5",
-        "summary": "치솟는 집값에 스페인도 폭발 한국경제 치솟는 집값에 스페인도 폭발 - 한국경제",
-        "published": "Thu, 12 Nov 2026 16:27:00 GMT",
-        "published_kst": "2026-11-13T01:27:00+09:00",
+        "title": "판도라 (판을 읽는 도파민 라이브) - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYzFmRFI0d0hkMUtESlM5V1lHV2lEdTktOFMtMUtMdWc3WTRMSXdFeFdCY0Fzd1ZWYlpWTG5qTTNDdzVkRW1FX3Uxb0VnXzZNWVFFb1ZSSlQ2djVEVWtmOXVzejhnTDI3Qk10Y1NJaDA3T2Z1YUU0TDBFMmdzd1lyaWIxM3V4V0hnbXBtbzR4Umh3dVYzY0NqWlF2eE1IRW5XZWxF?oc=5",
+        "summary": "판도라 (판을 읽는 도파민 라이브) 한국경제TV 판도라 (판을 읽는 도파민 라이브) - 한국경제TV",
+        "published": "Thu, 12 Nov 2026 16:04:58 GMT",
+        "published_kst": "2026-11-13T01:04:58+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,6 +107,28 @@
       }
     ],
     "world": [
+      {
+        "title": "Mathematical Model Couples Knowledge Graphs to Balance Supply Chain Costs and Emissions - Bioengineer.org",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGtJOHhVdC1faGxyNFpNZjhuTXQwaG9FdkEweVpGU1d5VnZmLWJTMXc3WnE5R2F0WFE1Y0psd1Y4c1ZtZlJVS0xTXzVzTDRELU1LWURLcUVkSnFDXzVfYXNqWkhfV0o5QWpMWGQxNTJoYVBLbFRCYlhYemJGMEFwVVgzd1RJWDVrdnNtc2ZkNC1LQ0VBQTVITWxCdk5xelRjS2hBOExROVUtWU12bWlOLVBB?oc=5",
+        "summary": "Mathematical Model Couples Knowledge Graphs to Balance Supply Chain Costs and Emissions Bioengineer.org Mathematical Model Couples Knowledge Graphs to Balance Supply Chain Costs and Emissions - Bioengineer.org",
+        "published": "Thu, 12 Nov 2026 18:55:59 GMT",
+        "published_kst": "2026-11-13T03:55:59+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Circulor Partners With Ford Trucks For EU Battery Passport - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmRJZ3lqRUhkN2hnTnFCdVd5N2VUQ1Vld05SN3lYbklRcWhOclJGZW5tRURVRWlycjBMM3FQd2d4SFNIR3A2bV9fS3FoS2RSemJBQW81SENRQ3I3ZTQ4NmdSZWVVR3Y2V2NhZ0gwZDVXVWhKV3NQZF9uQVc0ZFI0RF9CR2hRbUFKR3NVZlVsVUE1a0pKd2Vpb0dB?oc=5",
+        "summary": "Circulor Partners With Ford Trucks For EU Battery Passport Supply Chain Digital Magazine Circulor Partners With Ford Trucks For EU Battery Passport - Supply Chain Digital Magazine",
+        "published": "Thu, 12 Nov 2026 18:20:03 GMT",
+        "published_kst": "2026-11-13T03:20:03+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Emirates SkyCargo AI Tech: Safe AI Infrastructure Logistics - Supply & Demand Chain Executive",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnRZVUZWcURubEZTVWtMaEw0MV92V3ZQamZzY2xRXzlZallobVNaSkVBa1hEMS14SGVKdGZvNHlZWjhLVjZVMnNiX0tHdFg0UmI2aXhEUWlsbU5iSU5adW5qNVIwS3g2WHNURUNudTFRVG9TcUE3RTdHUFNJUDQzaGZRcUxjY1RHSGNLMUZ1d0p3SFY2UFBiQy1mWC16WWItN2t4SC1PWDRtVmhVV2NkUzhQVjNCWWZKNW9wNlE0X3lqVVozb29XWjc3ZUpvWDdVeFFUWFRR?oc=5",
@@ -122,33 +139,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "COSCO SHIPPING North America advances integrated supply chain solutions through new partnerships at CIIE 2026 - American Journal of Transportation",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOEtRWXNnUk1JdHVZUUtiSUw5QnpoR2hOaW1oWUMyNWpIUEFMa0JTMFZmTW1TMnpKdGllRVFqaExFQXFBVGlGYWZYblgwRUpyR2l1Vnh5Xy10eWo5OHZkUnQtT0l6NUVaTE1hMV9HRTBFbXhyd1Y1VjJldl90TnVoNHZDZlpWb3FGRGRKRFJLaE9IdUhzb0lRMjM2UTVnV2xYRWlUVWlMVUVVcVFEbzRmTEFVa0J5SnBSeVJDTmNidlU1V3hJaUxXX1B0NXh1SHg4?oc=5",
-        "summary": "COSCO SHIPPING North America advances integrated supply chain solutions through new partnerships at CIIE 2026 American Journal of Transportation COSCO SHIPPING North America advances integrated supply chain solutions through new partnerships at CIIE 2026 - American Journal of Transportation",
-        "published": "Thu, 12 Nov 2026 17:24:00 GMT",
-        "published_kst": "2026-11-13T02:24:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Apple’s India supply chain encounters setback — what ‘Make in India’ still lacks - Global Times",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YUVU1ZXIwSHRMS0pnYmNXU25CdnpMYjY5c3RMbTBlSDFZNzRuR0tJRUJVbmkwR29NUE9Dc05hSXZTQTcyNkRFeXlXai1kUXRoM211UUxCRU95bkNDOFVlNUdn?oc=5",
-        "summary": "Apple’s India supply chain encounters setback — what ‘Make in India’ still lacks Global Times Apple’s India supply chain encounters setback — what ‘Make in India’ still lacks - Global Times",
-        "published": "Thu, 12 Nov 2026 15:46:00 GMT",
-        "published_kst": "2026-11-13T00:46:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight. Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait' / \"엔비디아 성장 이어갈 수 있나\"…월가, 줄줄이 목표가 낮춰 한국경제 \"엔비디아 성장 이어갈 수 있나\"…월가, 줄줄이 목표가 낮춰 - 한국경제 / Emirates SkyCargo AI Tech: Safe AI Infrastructure Logistics Supply & Demand Chain Executive Emirates SkyCargo AI Tech: Safe AI Infrastructure Logistics - Supply & Demand Chain Executive",
+  "wrap_summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor. Alice Huang tied to Nvidia’s biggest Chinese competitor / ■11월 13일 금 경제 캘린더 YTN ■11월 13일 금 경제 캘린더 - YTN / Mathematical Model Couples Knowledge Graphs to Balance Supply Chain Costs and Emissions Bioengineer.org Mathematical Model Couples Knowledge Graphs to Balance Supply Chain Costs and Emissions - Bioengineer.org",
   "invest_summary": ""
 }
