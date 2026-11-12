@@ -1,107 +1,111 @@
 {
   "date": "2026-11-12",
-  "generated_at_utc": "2026-11-12T02:33:06Z",
-  "cutoff_kst": "2026-11-12T11:33:00+09:00",
+  "generated_at_utc": "2026-11-12T08:55:05Z",
+  "cutoff_kst": "2026-11-12T17:55:00+09:00",
   "regions": {
     "us": [
       {
         "title": "Trump Admin. Officials Speak to White House Reporters - C-SPAN",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE91bnd0bExNVzhnbFBEeFRYTkFEUlFTTFZZVjhqNWZIbDZqbDFvUVhmLXdFUEtYVW9FY2NNVkhJLWZ2Z1FITzJEdVB3ZXlsTnphaXc0NmN5MUdiTFpVdU1OOTIwWGRDT2pqcHpUUVl5bk41cElrTWZfbXIyekpOeG8yTDZJODlRNDdkUm1NRURSajg4c3JrYlhxQ0g3RXpoaXFFaXhHcHhzdw?oc=5",
         "summary": "Officials Speak to White House Reporters C-SPAN Trump Admin.",
-        "published": "Thu, 12 Nov 2026 01:55:48 GMT",
-        "published_kst": "2026-11-12T10:55:48+09:00",
+        "published": "Thu, 12 Nov 2026 07:55:48 GMT",
+        "published_kst": "2026-11-12T16:55:48+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House confronts Democrats over planned probes, claiming possible ‘criminality’ - AP News",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkF3VkJLSWtHYzVKNWo1bC1RYmhjSTZLV3lIdjJPSDRudEVXR0tNM0M4VWVtcHJ6VHQ5ME84SGlCVmYyWGRha2NZR1ZZdHQ4dVlsVG1vUXJFdzVoYnIxSlNfZ1NzQ1FWcTNYMFp1RlJEZUx0MkJlZ0pFRGZrX19nNG1QZVYwM1ZrSmtCb1ZPNUFSM28?oc=5",
-        "summary": "White House confronts Democrats over planned probes, claiming possible ‘criminality’ AP News White House confronts Democrats over planned probes, claiming possible ‘criminality’ - AP News",
-        "published": "Thu, 12 Nov 2026 01:36:00 GMT",
-        "published_kst": "2026-11-12T10:36:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-        "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-        "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang. Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-        "published": "Thu, 12 Nov 2026 01:14:21 GMT",
-        "published_kst": "2026-11-12T10:14:21+09:00",
+        "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
+        "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+        "summary": "Treasury yields rose as bond markets reopened following Veterans Day. Treasury yields edge higher as investors await fresh inflation and housing data",
+        "published": "Thu, 12 Nov 2026 07:38:45 GMT",
+        "published_kst": "2026-11-12T16:38:45+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDd3RXl0cjZBOUtQSktfTzRnRTQ4RDBfUTU1LVlsQUZZRGFoaVBCOXVuRzVETXRsVEpDdVlqVGNKZE1CQm5qQkN6ZmExdl9neXlnTGdRWjU4R2hrM3U2LWRDV1gxNlJfbUVXX2VFNnU0STZnZ2pGOFNjZ2g0aVFqTm9KUU9MZ0xobnRsOHNFOGxqMllHZnNVeGt1bWtsMzFPcmZYVll5c0diUldFaFhtNVFSb1I1WVV0NzlMcFFlUVctd21GemZDaA?oc=5",
-        "summary": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations marketscreener.com Gold slips as strong US inflation data bolsters dollar, Fed hike expectations - marketscreener.com",
-        "published": "Thu, 12 Nov 2026 00:51:33 GMT",
-        "published_kst": "2026-11-12T09:51:33+09:00",
+        "title": "UK Stock Market Today: FTSE 100 Futures Edge Lower On Sticky US Inflation Concerns - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVRWM3BRUkhxemlSeHlPa01oTnRqUEswaFp2SUgzY01BUHdMRzBXTUV1VHJjc1p1ZkFCZDd0bDZqLWdldThvRm9tQUh2bnB6RUItQVdfcXN0R1FXVzkxTDR2bGpnNU5jTG90SXBSRXNnX2prSjBnVURfbC1yVHRyR0R5cjdxM25fWkllSmhvZjVMdUJoREhkcmpLQUlrNk0?oc=5",
+        "summary": "UK Stock Market Today: FTSE 100 Futures Edge Lower On Sticky US Inflation Concerns Yahoo Finance UK Stock Market Today: FTSE 100 Futures Edge Lower On Sticky US Inflation Concerns - Yahoo Finance",
+        "published": "Thu, 12 Nov 2026 07:12:00 GMT",
+        "published_kst": "2026-11-12T16:12:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-        "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
-        "summary": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over. Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-        "published": "Thu, 12 Nov 2026 00:46:08 GMT",
-        "published_kst": "2026-11-12T09:46:08+09:00",
-        "domain": "cnbc.com",
+        "title": "Silver Holds Near $51.52 as Hot US Inflation Fuels Bets on a Half-Point Fed Hike - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZlFmLWI3bi1nczBfd29aOGdqSlpneVdnT3FhR05JQVB2Y1ZjWHVLX01aOWR0bTloRVo0OHlnZVFEOUFQRVlGWmxqSVFhREVkVEJlYXZ0LVJGWVFGejhKai04ZXlaWXNoX1RWNTZyTTRYd2tVU0E?oc=5",
+        "summary": "Silver Holds Near $51.52 as Hot US Inflation Fuels Bets on a Half-Point Fed Hike finance.biggo.com Silver Holds Near $51.52 as Hot US Inflation Fuels Bets on a Half-Point Fed Hike - finance.biggo.com",
+        "published": "Thu, 12 Nov 2026 06:55:00 GMT",
+        "published_kst": "2026-11-12T15:55:00+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "2027"
+          "$51.52"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+        "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
         "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-        "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-        "published": "Thu, 12 Nov 2026 00:21:27 GMT",
-        "published_kst": "2026-11-12T09:21:27+09:00",
+        "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
+        "published": "Thu, 12 Nov 2026 06:11:16 GMT",
+        "published_kst": "2026-11-12T15:11:16+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The world's super-rich are piling into alternative investments. Here's why",
+        "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+        "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth. The world's super-rich are piling into alternative investments.",
+        "published": "Thu, 12 Nov 2026 03:36:44 GMT",
+        "published_kst": "2026-11-12T12:36:44+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "60%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "한국경제연구학회 추계학술대회…\"AI·부동산 연계 성장모델 모색\" - 뉴시스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVHlKazJDWmJyNnpmakJsU05SckJVQWN5cTBzb25rWnIyaVRRcXFXSGdmdjR2aWoxNEJYaDlYWWtKTVFQNjZndGF0aXYwSjZKYUNKTy1PdjJ3cmlfZjJaVtIBeEFVX3lxTE5wLXNrc0lsdnp1U1hBRUR1WFl1c3g5M2RzcDZEVnVueXB5ZEFfazRNV2hjd3RmSVpXS0lxTmtOTUF4UDdhS1BrQWtCX1VDc3JoUnRWQnFpalBYS3QwcXA1LVRWejhva1RMeXR4bUZQRTdlZkZvRmFLZA?oc=5",
-        "summary": "한국경제연구학회 추계학술대회…\"AI·부동산 연계 성장모델 모색\" 뉴시스 한국경제연구학회 추계학술대회…\"AI·부동산 연계 성장모델 모색\" - 뉴시스",
-        "published": "Thu, 12 Nov 2026 02:09:36 GMT",
-        "published_kst": "2026-11-12T11:09:36+09:00",
+        "title": "K웨이브의 힘…외국인 관광객 2000만 시대 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SDRQZEx6Y3JWTzlMUEdyQS1vV3Atb2Z3MVNKb0wwMm92ejFnbURHcEtMQ3dkdXpiS1JrQ3A3NkVBMUtEU2hfRWU5b0ZiaTBJNFFzQ2hIYnpwQQ?oc=5",
+        "summary": "K웨이브의 힘…외국인 관광객 2000만 시대 한국경제 K웨이브의 힘…외국인 관광객 2000만 시대 - 한국경제",
+        "published": "Thu, 12 Nov 2026 08:47:57 GMT",
+        "published_kst": "2026-11-12T17:47:57+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2000"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "경북, 대형 AI 데이터센터 유치 재검토 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVYWZnVVNuZXFwQ2V2V3I0N3o2bjZXZFhSOHlkYi1oVVZfSXgteWZlbjVpWTJncVR6V2RwSE9RQjM1bkJ3eVl0S2s4N0ZZbDNYa1JIWEs5aTdUUQ?oc=5",
+        "summary": "경북, 대형 AI 데이터센터 유치 재검토 한국경제 경북, 대형 AI 데이터센터 유치 재검토 - 한국경제",
+        "published": "Thu, 12 Nov 2026 08:43:25 GMT",
+        "published_kst": "2026-11-12T17:43:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "시흥시 예산 투입한 한국공학대 산학협력…지역 기업 매출·고용 결실 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lSTF3T3NhQWNCcXRCZ2RaTzQ0MG10SVVsUlBhckVmWktZSHAtcEtOdnB4VTZZYkdNUGZQb1BHRVVFam4yTG9fWTdZUVB0WGZuNWNYQnFDZG9BUHhmZHJJTXFlWE0xMXlxb1lVU0tTdnJPWjRxNThB0gF8QVVfeXFMUEhxZE1RNmZJa2JXdzRWYl9KOGhmekQ1QjhhVHZZVVlCTkRfWndlTlNuVHZtOWlGNVhmZ0E0anNvektWWjhSMTFKelJHV1hwT3JXb04yalZpak5oOGxUeTRqdTNodU1WM3p5ZXU0Sl9zQ0hfcXkzTG5UVkJWTg?oc=5",
-        "summary": "시흥시 예산 투입한 한국공학대 산학협력…지역 기업 매출·고용 결실 - 머니투데이 머니투데이 시흥시 예산 투입한 한국공학대 산학협력…지역 기업 매출·고용 결실 - 머니투데이 - 머니투데이",
-        "published": "Thu, 12 Nov 2026 02:06:13 GMT",
-        "published_kst": "2026-11-12T11:06:13+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "“파마리서치, 주가 바닥 지났다…목표가 42만원” - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mRWFlaWtxUjVoNjA0Qi1IR0VuZE9qSVZWcTBXM3AzRlZkZWw1OUtZdVE3MlpiYVZ3ZktpbjR3RkxKRHpnSjBsZjVrczlqMkhJRGdOb29CaEY0QQ?oc=5",
-        "summary": "“파마리서치, 주가 바닥 지났다…목표가 42만원” 한국경제 “파마리서치, 주가 바닥 지났다…목표가 42만원” - 한국경제",
-        "published": "Thu, 12 Nov 2026 01:30:04 GMT",
-        "published_kst": "2026-11-12T10:30:04+09:00",
+        "title": "[이슈프리즘] 흔들리는 정책 신뢰 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsSF9PS3RIdzFPczdJdnF5MjlSYU9qdGpxaC1FcE9UbGpZUHRNWlVFV3JnODBVVGp4UlIyZlNyTTFteEstTlc0NkpHb2d3UWotTnBjQmF5ZVR4dw?oc=5",
+        "summary": "[이슈프리즘] 흔들리는 정책 신뢰 한국경제 [이슈프리즘] 흔들리는 정책 신뢰 - 한국경제",
+        "published": "Thu, 12 Nov 2026 08:42:13 GMT",
+        "published_kst": "2026-11-12T17:42:13+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +114,33 @@
     ],
     "world": [
       {
-        "title": "3 Supply Chain Stocks Linked To New Trade And Automation Rules - Simply Wall St",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdmk2VS1FcmN3Sk5QbTdJVHBlcnJWUld3MmszQXgxa1EySEZYSzBMeFJVNEJtdDhXWk84RUtzZDdDanlDckhuc29SYnk2OGdLTUVGYkNKWEZNUGpwa1h5Y29kLTRoZm0tek1IcjlDZ1dkV3dnb0hfWFpSSExsVk0tTkw2bWhxNlduTDB0bGREU2lIV3d0RG1OWFBfbHJ5WFZIQ19BbEVPQWExMVI3b3BTZGRyWWFRU2lCTEp0Mzh0WFVnbzNsRUtmTmNrWmtpU0RGV0FtM2FZYUpnNG1uWTBV0gHkAUFVX3lxTFBjZnBpVzVvVWlfOTZmQkduQkxjVVNucVdqTktiMEdhdzF2VVZaTGZrWkFPX0UtWE5ZcTZReUJsMUg0bnQwOEtWS3hfVVhhdXd6MWluR0Vxa1RQUnR3NWY4WlZzOHV3cmVvNFNhQklqOGdZVWU5TWtQazNKMG12czhGWkhfRnlVcEk4ajhGcE5jeHFQTXlYT2doeG5NZGhzRlF5UmpTMENzcTRld1VDelZQZnZmSDhrR0h2bV9SYTBJNTRyZ3RKY1RLejJLU01NUmZuRVptcEVhaWxaZWJkR1B6dVpzZQ?oc=5",
-        "summary": "3 Supply Chain Stocks Linked To New Trade And Automation Rules Simply Wall St 3 Supply Chain Stocks Linked To New Trade And Automation Rules - Simply Wall St",
-        "published": "Thu, 12 Nov 2026 01:32:59 GMT",
-        "published_kst": "2026-11-12T10:32:59+09:00",
+        "title": "Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains - EME Outlook Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDdOWHh6RnRSME1MTHN5bk5jWnhuU3FYVG1DQ2FHdzZ4NXpaOWtrWDlma1c3YndXOW1ZWkpTU2FMLWRlNHV2T1Zaa1Y3VC1VbUQ0Rk9MQmdJVUxvbU1vNGdIVV9RTzdMQTI3Z1VKNlZob0J1TjFlS05XS2ZBclZGZm45Q2F4N29SejVxRFZ4QzJYRjY0X0RqUXdmYi0wV0JEN2laRGpFNkVnVGE0MUtvZXBUTWRTSWs0NkZhYnpsbTl1UEU?oc=5",
+        "summary": "Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains EME Outlook Magazine Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains - EME Outlook Magazine",
+        "published": "Thu, 12 Nov 2026 08:37:00 GMT",
+        "published_kst": "2026-11-12T17:37:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Be Built For Change in the Supply Chain - Logistics Business",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNnRaVHlvVDdBNXplMEZwUG44YjljdS1SSHJuZHlVMWlXT29idjRvdTRxR3VydFMzQ0pwd1NqMmVfVktSdHEtYjUzWDJKMUJIcDc0VWlDaWNUQmctWU1NeWtDeUxUaFdIUVR3LXNnQy13OFVaTk9BR1QteHdjOUdRY2dMRUp3LUI4UzM0aDFPZzlaWVR4YlNuZnEzc1NfajRIemhSZkR4YmdBVHpxMEh3?oc=5",
-        "summary": "Be Built For Change in the Supply Chain Logistics Business Be Built For Change in the Supply Chain - Logistics Business",
-        "published": "Thu, 12 Nov 2026 01:25:41 GMT",
-        "published_kst": "2026-11-12T10:25:41+09:00",
+        "title": "Nvidia's Asian Supply Chain Braces for Leadership Transition - Global Banking & Finance Review",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFRfUGktNUNiOU1fT2w4dGxjRzhRUnRZQkJtak5JNGZXbzZVWXdrSW41aV9rck53ZlZQMHdfM3pjT2dqQVpQUEl5V2tYV0RaeHhoRlVZZ29YeUhDb3hybUhqelFfeVczTHc4RWxvUEZHVFN6bWZadThiaHlqaE9TQi00NEwzQXJuVnY3WDRRNk8?oc=5",
+        "summary": "Nvidia's Asian Supply Chain Braces for Leadership Transition Global Banking & Finance Review Nvidia's Asian Supply Chain Braces for Leadership Transition - Global Banking & Finance Review",
+        "published": "Thu, 12 Nov 2026 08:36:10 GMT",
+        "published_kst": "2026-11-12T17:36:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "i-ESG Identifies Supply Chain Risks with AI, Verifies Them on the Ground: An ESG Due Diligence Collaboration in Malaysia - EIN News",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbTFXaEc4ZnRnOVd4NWNtMDMxNkNlbmh3bk5Oek9wRXNwU18wVDVRSENvMHYyMXRxX3lZODE1M0xqN29MVVJac1E0MkxHd0JGLVozVnA5Z2s2RGxMQTYyYk1OM0tIVXlFQlp6SHM5eVp1ZWxWMmlHaUJQaHBBX0diYWxNUmhETERlTklvT0d0Tm9tWllZOXdGM0d5d3ZNdVk4dnlBSC01dmZJblJ0WHlJYnlIb2ExRnBxam5LakFpRzEyNFRBaHBaQllhSXRRLVY0NV9LSGNlZVMwT1kxQi16Y19BbHZMc1BpQ2wyU0JYeWZEZw?oc=5",
-        "summary": "i-ESG Identifies Supply Chain Risks with AI, Verifies Them on the Ground: An ESG Due Diligence Collaboration in Malaysia EIN News i-ESG Identifies Supply Chain Risks with AI, Verifies Them on the Ground: An ESG Due Diligence Collaboration in Malaysia - EIN News",
-        "published": "Wed, 11 Nov 2026 23:00:00 GMT",
-        "published_kst": "2026-11-12T08:00:00+09:00",
+        "title": "Nvidia's Asian supply chain prepares for life after Huang - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2RQOV84TlcyTFFmRzdkcjdsLUFVcGZSdGZRRjJkZk1mdEZNNW5pa25vYmsxVVRaNG81bzlEdzQ2MmM3RUhCRkhzYmxHazNHRUJhT09tT3p2OGYtaE1wb3ZNcWptc05uTy03NVRvVkVta3JrNkk2NXRCejNhNThieU1EZXVJSDlHZGNVNDZIYUg0RTJkRlhUSzF4QnR3OXczR1V1UzRrZHRUYmZMU0UzVg?oc=5",
+        "summary": "Nvidia's Asian supply chain prepares for life after Huang Reuters Nvidia's Asian supply chain prepares for life after Huang - Reuters",
+        "published": "Thu, 12 Nov 2026 08:31:51 GMT",
+        "published_kst": "2026-11-12T17:31:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "Officials Speak to White House Reporters C-SPAN Trump Admin. / 한국경제연구학회 추계학술대회…\"AI·부동산 연계 성장모델 모색\" 뉴시스 한국경제연구학회 추계학술대회…\"AI·부동산 연계 성장모델 모색\" - 뉴시스 / 3 Supply Chain Stocks Linked To New Trade And Automation Rules Simply Wall St 3 Supply Chain Stocks Linked To New Trade And Automation Rules - Simply Wall St",
+  "wrap_summary": "Officials Speak to White House Reporters C-SPAN Trump Admin. / K웨이브의 힘…외국인 관광객 2000만 시대 한국경제 K웨이브의 힘…외국인 관광객 2000만 시대 - 한국경제 / Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains EME Outlook Magazine Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains - EME Outlook Magazine",
   "invest_summary": ""
 }
