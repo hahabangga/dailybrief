@@ -1,111 +1,105 @@
 {
   "date": "2026-11-12",
-  "generated_at_utc": "2026-11-12T08:55:05Z",
-  "cutoff_kst": "2026-11-12T17:55:00+09:00",
+  "generated_at_utc": "2026-11-12T14:01:18Z",
+  "cutoff_kst": "2026-11-12T23:01:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Trump Admin. Officials Speak to White House Reporters - C-SPAN",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE91bnd0bExNVzhnbFBEeFRYTkFEUlFTTFZZVjhqNWZIbDZqbDFvUVhmLXdFUEtYVW9FY2NNVkhJLWZ2Z1FITzJEdVB3ZXlsTnphaXc0NmN5MUdiTFpVdU1OOTIwWGRDT2pqcHpUUVl5bk41cElrTWZfbXIyekpOeG8yTDZJODlRNDdkUm1NRURSajg4c3JrYlhxQ0g3RXpoaXFFaXhHcHhzdw?oc=5",
-        "summary": "Officials Speak to White House Reporters C-SPAN Trump Admin.",
-        "published": "Thu, 12 Nov 2026 07:55:48 GMT",
-        "published_kst": "2026-11-12T16:55:48+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Treasury yields edge higher as investors await fresh inflation and housing data",
-        "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-        "summary": "Treasury yields rose as bond markets reopened following Veterans Day. Treasury yields edge higher as investors await fresh inflation and housing data",
-        "published": "Thu, 12 Nov 2026 07:38:45 GMT",
-        "published_kst": "2026-11-12T16:38:45+09:00",
+        "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+        "url": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+        "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries. Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S.",
+        "published": "Thu, 12 Nov 2026 13:59:30 GMT",
+        "published_kst": "2026-11-12T22:59:30+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "UK Stock Market Today: FTSE 100 Futures Edge Lower On Sticky US Inflation Concerns - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORVRWM3BRUkhxemlSeHlPa01oTnRqUEswaFp2SUgzY01BUHdMRzBXTUV1VHJjc1p1ZkFCZDd0bDZqLWdldThvRm9tQUh2bnB6RUItQVdfcXN0R1FXVzkxTDR2bGpnNU5jTG90SXBSRXNnX2prSjBnVURfbC1yVHRyR0R5cjdxM25fWkllSmhvZjVMdUJoREhkcmpLQUlrNk0?oc=5",
-        "summary": "UK Stock Market Today: FTSE 100 Futures Edge Lower On Sticky US Inflation Concerns Yahoo Finance UK Stock Market Today: FTSE 100 Futures Edge Lower On Sticky US Inflation Concerns - Yahoo Finance",
-        "published": "Thu, 12 Nov 2026 07:12:00 GMT",
-        "published_kst": "2026-11-12T16:12:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Silver Holds Near $51.52 as Hot US Inflation Fuels Bets on a Half-Point Fed Hike - finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZlFmLWI3bi1nczBfd29aOGdqSlpneVdnT3FhR05JQVB2Y1ZjWHVLX01aOWR0bTloRVo0OHlnZVFEOUFQRVlGWmxqSVFhREVkVEJlYXZ0LVJGWVFGejhKai04ZXlaWXNoX1RWNTZyTTRYd2tVU0E?oc=5",
-        "summary": "Silver Holds Near $51.52 as Hot US Inflation Fuels Bets on a Half-Point Fed Hike finance.biggo.com Silver Holds Near $51.52 as Hot US Inflation Fuels Bets on a Half-Point Fed Hike - finance.biggo.com",
-        "published": "Thu, 12 Nov 2026 06:55:00 GMT",
-        "published_kst": "2026-11-12T15:55:00+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$51.52"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-        "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-        "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-        "published": "Thu, 12 Nov 2026 06:11:16 GMT",
-        "published_kst": "2026-11-12T15:11:16+09:00",
+        "title": "Trump says ‘we don’t need a deal with Iran’",
+        "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+        "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states. Trump says ‘we don’t need a deal with Iran’",
+        "published": "Thu, 12 Nov 2026 13:54:31 GMT",
+        "published_kst": "2026-11-12T22:54:31+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The world's super-rich are piling into alternative investments. Here's why",
-        "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-        "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth. The world's super-rich are piling into alternative investments.",
-        "published": "Thu, 12 Nov 2026 03:36:44 GMT",
-        "published_kst": "2026-11-12T12:36:44+09:00",
+        "title": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
+        "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+        "summary": "Oil prices popped Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight. Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
+        "published": "Thu, 12 Nov 2026 13:49:46 GMT",
+        "published_kst": "2026-11-12T22:49:46+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "60%"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Hot US Inflation Pulls Gold Lower as Fed Hike Bets Test Miners - Crux Investor",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcHhPZHNsb0dzSENmc0ZCaXMxOG5IOUxYYkJCUDJmSGc0emNpZ2Z2T1l6cEJvM1FWeC1TSjdlTlJtZzNTcl9kYjh0UnloZTd1WTJ0U2tkcG5RTlNZNEZDc2xGRlRMU1huQ0FPbFUxOWZLMFZWUkgtZDBSeGFJdHJaU0ZpVHpxUEZGRUUtRVYwZmgta285Rm9tcTNZQ0ZkQQ?oc=5",
+        "summary": "Hot US Inflation Pulls Gold Lower as Fed Hike Bets Test Miners Crux Investor Hot US Inflation Pulls Gold Lower as Fed Hike Bets Test Miners - Crux Investor",
+        "published": "Thu, 12 Nov 2026 12:26:59 GMT",
+        "published_kst": "2026-11-12T21:26:59+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "'Blatant criminality': White House warns Democrats on proposed investigations in letter - WXII",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdE9GbWVGZ090QzVNV3poUzRYdG4zTFlvRFQyUHNMUVc5WkJkU3V3UVNWV2haZW9ZUWZzTF95dTE4cGFTZVByNjZvR1cyMEstQl82ajNBLVJKdzJwX2wzVHlCNE9yN2pZeGc3T0kxdWt6cjhIcmxrZFhsbjVXRDkyOHRNeFNPRGRfMlg0LUdrQ0w2Vzl3MWc?oc=5",
+        "summary": "'Blatant criminality': White House warns Democrats on proposed investigations in letter WXII 'Blatant criminality': White House warns Democrats on proposed investigations in letter - WXII",
+        "published": "Thu, 12 Nov 2026 12:22:00 GMT",
+        "published_kst": "2026-11-12T21:22:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Can a new US Congress mean an end to the Iran war? - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmRaejBnMHp1QkhibDEzU1hQLVhZZWlaeXV2d1dGcHF5OU1CbGUzTWtVYXpLT1hFcUh5SzVJbWg2eHZpRy1oU1IxZzByY2hhQmpyTDNHTUh4U1NVVE1DWktWMlU1ZUMtNy1xZk1TN3dXVzBXY1dXVDV2aFhuNURkTWpteWpUblljY3p0QjN3?oc=5",
+        "summary": "Reuters Can a new US Congress mean an end to the Iran war?",
+        "published": "Thu, 12 Nov 2026 11:42:53 GMT",
+        "published_kst": "2026-11-12T20:42:53+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "K웨이브의 힘…외국인 관광객 2000만 시대 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14SDRQZEx6Y3JWTzlMUEdyQS1vV3Atb2Z3MVNKb0wwMm92ejFnbURHcEtMQ3dkdXpiS1JrQ3A3NkVBMUtEU2hfRWU5b0ZiaTBJNFFzQ2hIYnpwQQ?oc=5",
-        "summary": "K웨이브의 힘…외국인 관광객 2000만 시대 한국경제 K웨이브의 힘…외국인 관광객 2000만 시대 - 한국경제",
-        "published": "Thu, 12 Nov 2026 08:47:57 GMT",
-        "published_kst": "2026-11-12T17:47:57+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2000"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "경북, 대형 AI 데이터센터 유치 재검토 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVYWZnVVNuZXFwQ2V2V3I0N3o2bjZXZFhSOHlkYi1oVVZfSXgteWZlbjVpWTJncVR6V2RwSE9RQjM1bkJ3eVl0S2s4N0ZZbDNYa1JIWEs5aTdUUQ?oc=5",
-        "summary": "경북, 대형 AI 데이터센터 유치 재검토 한국경제 경북, 대형 AI 데이터센터 유치 재검토 - 한국경제",
-        "published": "Thu, 12 Nov 2026 08:43:25 GMT",
-        "published_kst": "2026-11-12T17:43:25+09:00",
+        "title": "文 \"日보다 경제성장률 뒤진 건 IMF 위기外 처음 있는 충격\" - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBM0I4aVYzOGVKQlNiZHVyRWVqR3NDUktIQ2tyUkVxM1V4RVlBUHpZcVZWdFhzVnp1ODNXMDVIeklDeUpXTnN2NWtULXNKY1Ri?oc=5",
+        "summary": "文 \"日보다 경제성장률 뒤진 건 IMF 위기外 처음 있는 충격\" 매일경제 마켓 文 \"日보다 경제성장률 뒤진 건 IMF 위기外 처음 있는 충격\" - 매일경제 마켓",
+        "published": "Thu, 12 Nov 2026 13:47:54 GMT",
+        "published_kst": "2026-11-12T22:47:54+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[이슈프리즘] 흔들리는 정책 신뢰 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsSF9PS3RIdzFPczdJdnF5MjlSYU9qdGpxaC1FcE9UbGpZUHRNWlVFV3JnODBVVGp4UlIyZlNyTTFteEstTlc0NkpHb2d3UWotTnBjQmF5ZVR4dw?oc=5",
-        "summary": "[이슈프리즘] 흔들리는 정책 신뢰 한국경제 [이슈프리즘] 흔들리는 정책 신뢰 - 한국경제",
-        "published": "Thu, 12 Nov 2026 08:42:13 GMT",
-        "published_kst": "2026-11-12T17:42:13+09:00",
+        "title": "주식, 알아야번다 - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORmlFa2tJRzN4WXhwZkZMYjgyVkYzVVZVZ2RQbzZtQWdfMzk3ZnlvR2V2WmVja1FkUkFmODNvS2p3VzNHRGNVRUpycTZpZ25nT21zVWx2VWZVOGhSSEU4U3JjVFdoTVRlcEgwQTdMUmgzb1hXNlFlUmJ1cUdrakJjQ2lMVXBNa1llaC1ycHlZYTBSenRhZElaVDhuZElxMnJJMzVF?oc=5",
+        "summary": "주식, 알아야번다 한국경제TV 주식, 알아야번다 - 한국경제TV",
+        "published": "Thu, 12 Nov 2026 13:27:13 GMT",
+        "published_kst": "2026-11-12T22:27:13+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[기획/경제] ㉖ 기후변화는 한국의 식탁에 어떻게 도착하나? - 기후에너지경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53V0hEZWtHSkdkQ3FnSHlFalNVMkxSVG5fUUl4X1IzMWVhMHctQnlxTlJVQ29jeUFITWhwYmpvZzdQejhHNWR6OXN4YjU1MHA3blIwMkhVQUI3a2hfa0pmNTV1bTg?oc=5",
+        "summary": "기후에너지경제 [기획/경제] ㉖ 기후변화는 한국의 식탁에 어떻게 도착하나?",
+        "published": "Thu, 12 Nov 2026 13:21:39 GMT",
+        "published_kst": "2026-11-12T22:21:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,33 +108,33 @@
     ],
     "world": [
       {
-        "title": "Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains - EME Outlook Magazine",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDdOWHh6RnRSME1MTHN5bk5jWnhuU3FYVG1DQ2FHdzZ4NXpaOWtrWDlma1c3YndXOW1ZWkpTU2FMLWRlNHV2T1Zaa1Y3VC1VbUQ0Rk9MQmdJVUxvbU1vNGdIVV9RTzdMQTI3Z1VKNlZob0J1TjFlS05XS2ZBclZGZm45Q2F4N29SejVxRFZ4QzJYRjY0X0RqUXdmYi0wV0JEN2laRGpFNkVnVGE0MUtvZXBUTWRTSWs0NkZhYnpsbTl1UEU?oc=5",
-        "summary": "Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains EME Outlook Magazine Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains - EME Outlook Magazine",
-        "published": "Thu, 12 Nov 2026 08:37:00 GMT",
-        "published_kst": "2026-11-12T17:37:00+09:00",
+        "title": "GEP: Stockpiling Surges on Inflation and Supply Fears - Procurement Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYnBuVlNDT05HUEVvUUJUN2tKR1FLXy1DRlp2OVp1M3B2eU1US0JRdGVacUhMZkExcGJDcjFOZzVDa2dZTzVEdEhtRi10b0ZlT2FjYm0xcnROb2ZYdEZSckptaEdIdkc5Q3gzOXgtenE3QUF3dVAzMGZ1Zm5uMkdrem1fQVVkU3dSNVUzSA?oc=5",
+        "summary": "GEP: Stockpiling Surges on Inflation and Supply Fears Procurement Magazine GEP: Stockpiling Surges on Inflation and Supply Fears - Procurement Magazine",
+        "published": "Thu, 12 Nov 2026 12:57:25 GMT",
+        "published_kst": "2026-11-12T21:57:25+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia's Asian Supply Chain Braces for Leadership Transition - Global Banking & Finance Review",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFRfUGktNUNiOU1fT2w4dGxjRzhRUnRZQkJtak5JNGZXbzZVWXdrSW41aV9rck53ZlZQMHdfM3pjT2dqQVpQUEl5V2tYV0RaeHhoRlVZZ29YeUhDb3hybUhqelFfeVczTHc4RWxvUEZHVFN6bWZadThiaHlqaE9TQi00NEwzQXJuVnY3WDRRNk8?oc=5",
-        "summary": "Nvidia's Asian Supply Chain Braces for Leadership Transition Global Banking & Finance Review Nvidia's Asian Supply Chain Braces for Leadership Transition - Global Banking & Finance Review",
-        "published": "Thu, 12 Nov 2026 08:36:10 GMT",
-        "published_kst": "2026-11-12T17:36:10+09:00",
+        "title": "Three Ryder Leaders Named Top Women in Supply Chain - 巴士的報",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbFlpSHRXRkpybW1sNWpUVmhKRldrWERwSkJTLVZpUFEwMEVBcDlsNG52X09VUnhfajhxN01uMHhSNENkQkRZWXJ5ZGE4TEJnaUJTcXBLX0xPY0pqa2daV0JYem8zY2U2ZVpqM2Y0djFMNUJrUGZraHJvVU9zMXJuVUk4Rk4yZlp1bGt4Q0dyenRKM2x6aVNKT1oweEtMblJwSWZ4LWdn?oc=5",
+        "summary": "Three Ryder Leaders Named Top Women in Supply Chain 巴士的報 Three Ryder Leaders Named Top Women in Supply Chain - 巴士的報",
+        "published": "Thu, 12 Nov 2026 11:55:09 GMT",
+        "published_kst": "2026-11-12T20:55:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia's Asian supply chain prepares for life after Huang - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2RQOV84TlcyTFFmRzdkcjdsLUFVcGZSdGZRRjJkZk1mdEZNNW5pa25vYmsxVVRaNG81bzlEdzQ2MmM3RUhCRkhzYmxHazNHRUJhT09tT3p2OGYtaE1wb3ZNcWptc05uTy03NVRvVkVta3JrNkk2NXRCejNhNThieU1EZXVJSDlHZGNVNDZIYUg0RTJkRlhUSzF4QnR3OXczR1V1UzRrZHRUYmZMU0UzVg?oc=5",
-        "summary": "Nvidia's Asian supply chain prepares for life after Huang Reuters Nvidia's Asian supply chain prepares for life after Huang - Reuters",
-        "published": "Thu, 12 Nov 2026 08:31:51 GMT",
-        "published_kst": "2026-11-12T17:31:51+09:00",
+        "title": "Shipsy: The Role of AI in Delivery Network Planning - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY1lWSEYwZElkeUUtdk5SQ25QS1VNR1Y0TjRCeHVRdVdBTlcyWmtmTy1OWnlnLUFRdnhyZEhJeFJmcGxrLW12RFV4Tk1vVjdESmJiWDYwcktQZkY2MmdmcV90SUgyckdvbEVRMklqNEZ5MGZCclJEQzFKOFRoZkt1ZTl6N2Mzd2dCYUp4V0JkSQ?oc=5",
+        "summary": "Shipsy: The Role of AI in Delivery Network Planning Supply Chain Digital Magazine Shipsy: The Role of AI in Delivery Network Planning - Supply Chain Digital Magazine",
+        "published": "Thu, 12 Nov 2026 11:25:44 GMT",
+        "published_kst": "2026-11-12T20:25:44+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +142,6 @@
       }
     ]
   },
-  "wrap_summary": "Officials Speak to White House Reporters C-SPAN Trump Admin. / K웨이브의 힘…외국인 관광객 2000만 시대 한국경제 K웨이브의 힘…외국인 관광객 2000만 시대 - 한국경제 / Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains EME Outlook Magazine Opinion: Resilient by Design – Nearshoring as a Strategy in Modern Supply Chains - EME Outlook Magazine",
+  "wrap_summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries. Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. / 文 \"日보다 경제성장률 뒤진 건 IMF 위기外 처음 있는 충격\" 매일경제 마켓 文 \"日보다 경제성장률 뒤진 건 IMF 위기外 처음 있는 충격\" - 매일경제 마켓 / GEP: Stockpiling Surges on Inflation and Supply Fears Procurement Magazine GEP: Stockpiling Surges on Inflation and Supply Fears - Procurement Magazine",
   "invest_summary": ""
 }
