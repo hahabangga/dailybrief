@@ -1,73 +1,71 @@
 {
   "date": "2026-11-14",
-  "generated_at_utc": "2026-11-13T17:35:36Z",
-  "cutoff_kst": "2026-11-14T02:35:00+09:00",
+  "generated_at_utc": "2026-11-13T20:20:55Z",
+  "cutoff_kst": "2026-11-14T05:20:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "AstraZeneca cuts 600 US jobs amid $1.5B cost-saving overhaul - Bloomberg - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZzRhR2ZLSnJJbzZvdTBVeUxRNVpZOF9WVXRyc0cycjlEUWVldHQyY0ZoRmVkaFpINDI0aDFfb2hFOHpxUVlIeExaTDViNGNLUzJRdkg2ZXo5dF9yai1Uc2RIV0VSdUhCeVNGT0p0MEJnQ1RVa2t6Q1lXUzQ3YmdiUVZqNmpMdEFnOU9lc1VNTGRoOUotZ2ZtUXpRdUE2c3hLaW1pR2ozSldfRnZoekpPSkNPMmNCZmZISmRsSmNJRDdyRWM?oc=5",
-        "summary": "AstraZeneca cuts 600 US jobs amid $1.5B cost-saving overhaul - Bloomberg Investing.com AstraZeneca cuts 600 US jobs amid $1.5B cost-saving overhaul - Bloomberg - Investing.com",
-        "published": "Fri, 13 Nov 2026 17:21:27 GMT",
-        "published_kst": "2026-11-14T02:21:27+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$1.5"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Firm US inflation keeps gold under pressure with rising yields weighing on sentiment - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVkU1RllrTDBwVWkxd3ZONmhLNi1ncGdiQXM5RGlvUS1lLUVLZnVfaXNpS3hhOWZSYmstS1pQbGZFSXR2UGYyWkY2NTNWQUJEYndnaUxIeFlsQWJpVTJ0Q2ZsM1g2UEpZVmp6THBvTm9xelBTV05SczV5Rmk1WFdsRXJCTG1XQQ?oc=5",
-        "summary": "Firm US inflation keeps gold under pressure with rising yields weighing on sentiment Traders Union Firm US inflation keeps gold under pressure with rising yields weighing on sentiment - Traders Union",
-        "published": "Fri, 13 Nov 2026 17:08:31 GMT",
-        "published_kst": "2026-11-14T02:08:31+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump’s Sweeping Media Ban Shocks The Nation—Who’s Next on the Chopping Block? - The Rotunda Online",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkd1MVBWZmFXRHlPVE11OWZoT2E0MUNsRXdQNkE1RGoyTlpFUkl2clppWHliRzdCZW15dDNaZXZkSWtlX3o5dDJvRTY4cXlmRG9Qa1lnWTUzU2VRanlDVGI0dzJ4M045clpfWFpZWVZMRVE5OVRjaUs0MldDZF9DYUFOa2lEYVE3LXhuZ1IxWTFWcTZYbXhGWUtYaHFRNFNHTXNLdTlNOWY2NVVKM3VuNVB5dkFBRzQ2Y2JVNDZnc3hBSHJoM05tRkZ1THo?oc=5",
-        "summary": "The Rotunda Online Trump’s Sweeping Media Ban Shocks The Nation—Who’s Next on the Chopping Block? - The Rotunda Online",
-        "published": "Fri, 13 Nov 2026 17:07:43 GMT",
-        "published_kst": "2026-11-14T02:07:43+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-        "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-        "summary": "Jensen Huang resigned as Nvidia CEO days after admitting to an affair following scrutiny of his relationship with a woman reportedly deemed a Chinese spy. Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-        "published": "Fri, 13 Nov 2026 17:06:57 GMT",
-        "published_kst": "2026-11-14T02:06:57+09:00",
+        "title": "Hassett denies report he's leaving White House: 'Not true'",
+        "url": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+        "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks. Hassett denies report he's leaving White House: 'Not true'",
+        "published": "Fri, 13 Nov 2026 20:14:28 GMT",
+        "published_kst": "2026-11-14T05:14:28+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-        "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
-        "summary": "Advisors say investors should weigh their Nvidia exposure, time horizon and risk tolerance before reacting to the leadership change. After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
-        "published": "Fri, 13 Nov 2026 17:01:26 GMT",
-        "published_kst": "2026-11-14T02:01:26+09:00",
+        "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+        "url": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
+        "summary": "commodities regulator in October announced proposed crypto rules to assert its jurisdiction over the asset class. CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
+        "published": "Fri, 13 Nov 2026 20:07:30 GMT",
+        "published_kst": "2026-11-14T05:07:30+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why the data center slowdown concern is overblown. Two stocks to buy amid the fear",
-        "url": "https://www.cnbc.com/2026/11/13/data-center-slowdown-utility-stocks.html",
-        "summary": "Not one utility CEO we spoke with at the EEI conference is anticipating a slowdown in electricity growth expectations. Why the data center slowdown concern is overblown.",
-        "published": "Fri, 13 Nov 2026 16:54:40 GMT",
-        "published_kst": "2026-11-14T01:54:40+09:00",
+        "title": "Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
+        "url": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+        "summary": "The Trump administration had urged the Supreme Court to hear an appeal by Robinhood of a lower-court's decision to revive an investors' lawsuit over the IPO. Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit",
+        "published": "Fri, 13 Nov 2026 20:00:06 GMT",
+        "published_kst": "2026-11-14T05:00:06+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House denies Hassett departing Trump administration - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRG5VWFduTnVycU5YUjlNR1UxdkZHVG90ZzhmOVRORXFINkFFOTlPMUs2V2QxTG43NUlBRThPVTRCYy1seWlRTERpZ1dMQXRiT1NiZjJqbGRrMmxINzJ4am92WW0wejBZcXFXbGxDSHVXZlhSYkNVWm5GSlNFaW56Zld4bFIwbWwyYlNyeTFlWEs0UGlvdkY2YW16NkttNFpMU3FZZEJHNA?oc=5",
+        "summary": "White House denies Hassett departing Trump administration Reuters White House denies Hassett departing Trump administration - Reuters",
+        "published": "Fri, 13 Nov 2026 19:56:25 GMT",
+        "published_kst": "2026-11-14T04:56:25+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Does the Public Have a Right to Information From the White House? First Amendment Lawsuit Argues Yes - Freedom Forum",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mNXlkVkg5d0cwVmNrZFUyZTJxTmNQZUk1UzhlUE96aTVtOEk4TmhhUlFVMDY0MU85aXpZcTFoaE16MmhQaUZPYi1xdWFoeXRtRXlGSGJ5STY1OWtqVjlralIxZUE0RU12N05KQUNQbVBMYVNab0Nv?oc=5",
+        "summary": "First Amendment Lawsuit Argues Yes Freedom Forum Does the Public Have a Right to Information From the White House? Does the Public Have a Right to Information From the White House?",
+        "published": "Fri, 13 Nov 2026 19:55:38 GMT",
+        "published_kst": "2026-11-14T04:55:38+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Hassett denies report he's leaving White House: 'Not true' - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3cWtkREFIR2lNTDFDZS1oalc4QWhFNjhhQlZSajN1TDFjSE9fRG5qTkc2OHhmd0dYZFg3aWN1S1dGZkxzX1JDb2ZreXhnWWpnOVlZemptTXlSSS04emVOdHdrXzNuYnBxMmZTM3hLSnI4MDRV0gF6QVVfeXFMT0VNaWlxQXlDMlgtMERvZnA1bDlvRTl5cFJiMHFSd29FX29MeGQxMjhtUXVxbVJmRVB2Yk1TOW94VmVFcWhfc3pPQ2VRZ29XcFJSaHRQWXVCaHR3WkFpSVdva1RPdE1hZXRycS1IckJNTjUtNWZOYVRHV0E?oc=5",
+        "summary": "Hassett denies report he's leaving White House: 'Not true' CNBC Hassett denies report he's leaving White House: 'Not true' - CNBC",
+        "published": "Fri, 13 Nov 2026 19:43:54 GMT",
+        "published_kst": "2026-11-14T04:43:54+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,8 +73,19 @@
     ],
     "kr": [
       {
+        "title": "한흥수(전 연세대 교수·한국정치학회 회장)씨 별세 - 상조장례뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTkN5MGVHcEpHZFptYlduS1VVU0JVMm9fSnYtVEtkbVBOcmktWVNKc3l0TGtZMzhCYk5ydGMtbmhZcWZPa2NyZDZ3OWhPdTQtUmozTnpwaU9rLXJsbnlYc0VXVF9YbUNXTFE?oc=5",
+        "summary": "한흥수(전 연세대 교수·한국정치학회 회장)씨 별세 상조장례뉴스 한흥수(전 연세대 교수·한국정치학회 회장)씨 별세 - 상조장례뉴스",
+        "published": "Fri, 13 Nov 2026 18:41:06 GMT",
+        "published_kst": "2026-11-14T03:41:06+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
         "title": "차세대 귀환동포 정착 지원, 국회서 해법 찾는다 - 재외동포신문",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmdlk2TGpCQ3M2aUl4X2QxclNQcUd2UVRhcmFHUGMwdTJETjlJS0JHczdtSnpEUmdVd21mZ01tWWRkT3d3NXpfVXNBVGlOMHltY3lYMXhoT1NrTXdtLU4tVHd2SjhqTTdibjhr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GSjlqbnJTMFFoQW9DWTY4NzJYMlZyTURpZnRKSUhtdDNURHZJZUpjS0VSNlU2WXlxWFVsaWR1bkI1cmlNUXNoMFBVSzUwNzJRb3VBN3RWX2tMUHRrVjBCWGVrZ2h4MUlZS29JSg?oc=5",
         "summary": "차세대 귀환동포 정착 지원, 국회서 해법 찾는다 재외동포신문 차세대 귀환동포 정착 지원, 국회서 해법 찾는다 - 재외동포신문",
         "published": "Fri, 13 Nov 2026 17:26:02 GMT",
         "published_kst": "2026-11-14T02:26:02+09:00",
@@ -86,22 +95,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "어느새 안방까지 치고 들어온 중국…처음으로 한국 제쳤다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oVjl3cnZ4YmczSFdGeWpLX2hQZEtWeUJuMVpmUEt1NW11d2x3RTJEeFRXcVJiS25KTV9mT2RVRUlQWndLaVBKY2VycTBFZVctZ2QwN0xuTzNiUQ?oc=5",
-        "summary": "어느새 안방까지 치고 들어온 중국…처음으로 한국 제쳤다 한국경제 어느새 안방까지 치고 들어온 중국…처음으로 한국 제쳤다 - 한국경제",
-        "published": "Fri, 13 Nov 2026 16:37:00 GMT",
-        "published_kst": "2026-11-14T01:37:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "금호건설, 호실적에 상한가…우선주·금호전기도 '껑충' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1NEF5OVZBUjRxUHo3ME1GX2dyMGxuVHJveklhWEdnQnpTWXNiSlR6STNBcVd4MFBMUU0tWldFeEFsM1VHTFBnOU16OWFXRk5KOWR0ekhrMFIyZw?oc=5",
-        "summary": "금호건설, 호실적에 상한가…우선주·금호전기도 '껑충' 한국경제 금호건설, 호실적에 상한가…우선주·금호전기도 '껑충' - 한국경제",
-        "published": "Fri, 13 Nov 2026 16:23:00 GMT",
-        "published_kst": "2026-11-14T01:23:00+09:00",
+        "title": "[비전 인사이트]한국 수출 1조 달러 시대 눈앞…AI 반도체 육성으로 미래 성장동력 확보 - 뉴스비전e",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vZU9vdFI4em1uTC15cFFHREpYOHFzcUx4TXRYVFdQSmNwR1c5WVZQeWZ1NmVQUmtNaVJGMUtDdFNBeWNJWUN3b3RjR0Mya0RPc2ltYi1uR0Jra01laGFWOEhQbkppQQ?oc=5",
+        "summary": "[비전 인사이트]한국 수출 1조 달러 시대 눈앞…AI 반도체 육성으로 미래 성장동력 확보 뉴스비전e [비전 인사이트]한국 수출 1조 달러 시대 눈앞…AI 반도체 육성으로 미래 성장동력 확보 - 뉴스비전e",
+        "published": "Fri, 13 Nov 2026 14:53:05 GMT",
+        "published_kst": "2026-11-13T23:53:05+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +108,35 @@
     ],
     "world": [
       {
-        "title": "Octave Expands Industrial AI Offering After Cerebre Takeover - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZIeHBOc0dWZGl0T0hDdlhxdUdNXzFoa042RWVaNS1aVjA4V2YwemUtZE0tVWprNFFpLXl0SENKYmZiNXF0MFEwM05iSlpUZk5TeEg0SjJGQlJVdFlyRHhpT0FNekMtbXJXM2t3UzBkWDF6NHVDcmhDcFkydmdMNjQwZGVBYUtBeEptLVBlM0xkV3JVd280eWhHdUs?oc=5",
-        "summary": "Octave Expands Industrial AI Offering After Cerebre Takeover Supply Chain Digital Magazine Octave Expands Industrial AI Offering After Cerebre Takeover - Supply Chain Digital Magazine",
-        "published": "Fri, 13 Nov 2026 16:28:40 GMT",
-        "published_kst": "2026-11-14T01:28:40+09:00",
+        "title": "Sayari Uses AI to Deepen Commercial Risk Platform Database - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdWp4ZnJfRWNMNTN6RzZ4eldJSjdLMEtNdEJaMzNLWTJKMmJ1a3V4R3pLVnFHSTJxVFdCdFBielJIQ3d6Q3JOUlVXMENscGNJNzFtelVJVEhrTUlyYjVkYWNMeEpaSVlVdHpadkJ4R2dOcFg5c29ReV9MWjBVUzJRU0NsLTlqQ3JwZnltTGpoV3dlQQ?oc=5",
+        "summary": "Sayari Uses AI to Deepen Commercial Risk Platform Database Supply Chain Digital Magazine Sayari Uses AI to Deepen Commercial Risk Platform Database - Supply Chain Digital Magazine",
+        "published": "Fri, 13 Nov 2026 19:37:27 GMT",
+        "published_kst": "2026-11-14T04:37:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain - Rest of World",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNmFyb3NOb040cU9XRGF2MGlfZUVGVjZJRktCdnNadW1sY0YzZEU2Qm1ybl9zTG5rbkFLb0lMYUdvaUhRQ3Juc3hrZXNCUTlTTThRUWV4cDR4aHR4NFRKLWRZZFRiWExEX25NWG1TN2JhM1dDYnhLZW56TlpzZ3h5aQ?oc=5",
-        "summary": "How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain Rest of World How Jensen Huang’s exit from Nvidia impacts China’s AI supply chain - Rest of World",
-        "published": "Fri, 13 Nov 2026 16:27:40 GMT",
-        "published_kst": "2026-11-14T01:27:40+09:00",
+        "title": "Supply Chain Management Market Size, Forecast, Demand, Opportunities, 2034 - Straits Research",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tZ0VwUlVINkQzQWRVSEVOTVFZa3JEZFIzM01XUUpscjlER1V5Z016bVlzdWg5bzlmMks0QkhKekVHS2pDYXdZRlFjZkE0M0VReU1ELXRRTlNZSDZ3d3dTN3dXT1NSMXF4ODc2cGtSbVFEMGM?oc=5",
+        "summary": "Supply Chain Management Market Size, Forecast, Demand, Opportunities, 2034 Straits Research Supply Chain Management Market Size, Forecast, Demand, Opportunities, 2034 - Straits Research",
+        "published": "Fri, 13 Nov 2026 18:48:28 GMT",
+        "published_kst": "2026-11-14T03:48:28+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2034"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Jalisco Seeks to Boost Tech Supply Chain - MEXICONOW",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNU3JrWHhKZXVwS3lqa01vbmExU0liS0pZRDc4MjJ3UE1yZktUMTEzTnc2ZFZOYUY3dFVJaFgySWN6QlhfT20wS1ZVcUNjT1B5clhzQjI1YUxmQWtLbmJMZ1BNYkFpdEk0aGhxZHV4ZGs3dw?oc=5",
-        "summary": "Jalisco Seeks to Boost Tech Supply Chain MEXICONOW Jalisco Seeks to Boost Tech Supply Chain - MEXICONOW",
-        "published": "Fri, 13 Nov 2026 16:14:44 GMT",
-        "published_kst": "2026-11-14T01:14:44+09:00",
+        "title": "Supply Chain Vulnerability - The Maritime Executive",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLUU9sZF9LUTNLRUpkYjBJNy1ZMEpHeXpRdU9jakRTYW1JLXVpa2JKWERVclk4V1BuWmJJRUp6MW1sWDN3Y0VXMU9HS2dZMnJCMUE5MWNidXRsRzJYbGVsYTgzSVpNcWU5SWItWXZFWUdzaWo5?oc=5",
+        "summary": "Supply Chain Vulnerability The Maritime Executive Supply Chain Vulnerability - The Maritime Executive",
+        "published": "Fri, 13 Nov 2026 18:18:00 GMT",
+        "published_kst": "2026-11-14T03:18:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "AstraZeneca cuts 600 US jobs amid $1.5B cost-saving overhaul - Bloomberg Investing.com AstraZeneca cuts 600 US jobs amid $1.5B cost-saving overhaul - Bloomberg - Investing.com / 차세대 귀환동포 정착 지원, 국회서 해법 찾는다 재외동포신문 차세대 귀환동포 정착 지원, 국회서 해법 찾는다 - 재외동포신문 / Octave Expands Industrial AI Offering After Cerebre Takeover Supply Chain Digital Magazine Octave Expands Industrial AI Offering After Cerebre Takeover - Supply Chain Digital Magazine",
+  "wrap_summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks. Hassett denies report he's leaving White House: 'Not true' / 한흥수(전 연세대 교수·한국정치학회 회장)씨 별세 상조장례뉴스 한흥수(전 연세대 교수·한국정치학회 회장)씨 별세 - 상조장례뉴스 / Sayari Uses AI to Deepen Commercial Risk Platform Database Supply Chain Digital Magazine Sayari Uses AI to Deepen Commercial Risk Platform Database - Supply Chain Digital Magazine",
   "invest_summary": ""
 }
