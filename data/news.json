@@ -1,71 +1,73 @@
 {
   "date": "2026-11-14",
-  "generated_at_utc": "2026-11-14T01:52:33Z",
-  "cutoff_kst": "2026-11-14T10:52:00+09:00",
+  "generated_at_utc": "2026-11-14T08:13:36Z",
+  "cutoff_kst": "2026-11-14T17:13:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "FAA lifts nationwide ground stop, White House says no indication of \"nefarious act\" - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UWWt5d2haNGYwVGZGMXVYUjhjZjlKbkhYWnNidWhBQ000OFgxbExacDFTY2IwYi1FLS03WkZKS1RTRmJNZDBEOERadEpPTk1jNGxNUkktSmo1TE92VTkxaFJ1YS1QR1ZEYTNMVlFhSnQ?oc=5",
-        "summary": "FAA lifts nationwide ground stop, White House says no indication of \"nefarious act\" CBS News FAA lifts nationwide ground stop, White House says no indication of \"nefarious act\" - CBS News",
-        "published": "Sat, 14 Nov 2026 01:47:00 GMT",
-        "published_kst": "2026-11-14T10:47:00+09:00",
+        "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+        "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+        "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+        "published": "Sat, 14 Nov 2026 08:11:28 GMT",
+        "published_kst": "2026-11-14T17:11:28+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "F.A.A. Ends Nationwide Ground Stop but Delays Persist - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
+        "summary": "Ends Nationwide Ground Stop but Delays Persist The New York Times F.A.A.",
+        "published": "Sat, 14 Nov 2026 08:01:00 GMT",
+        "published_kst": "2026-11-14T17:01:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-        "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-        "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights. FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-        "published": "Sat, 14 Nov 2026 01:44:39 GMT",
-        "published_kst": "2026-11-14T10:44:39+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-        "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-        "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang. Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S.",
-        "published": "Sat, 14 Nov 2026 01:34:11 GMT",
-        "published_kst": "2026-11-14T10:34:11+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The US Job Market Narrative Shifts Toward Inflationary Risks - Bloomberg",
+        "title": "The US Job Market Narrative Shifts Toward Inflationary Risks - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjU4Rkxkc2Y1a19LZy1GRW9Yb3BDblM4Um1Vd2tqVmc2RHgxaVRRZzlVemJkVzlLWXRLc0swbVFsWEkzbzZVM2hJYWpDVC1Yb3Utb25zWHhKWUpXTy0xN1VTYkNHU3pBRURzVWdGNlpEVnpmRl9wVlFUS3FBMFdRVG5oeGJ1TTZLMjlrOXFpUVU5aG5LUlRPcElEY3ZTd2xqU0htWlpiYWd6enc4dkNad3VFVVI?oc=5",
-        "summary": "The US Job Market Narrative Shifts Toward Inflationary Risks Bloomberg The US Job Market Narrative Shifts Toward Inflationary Risks - Bloomberg",
-        "published": "Sat, 14 Nov 2026 01:31:08 GMT",
-        "published_kst": "2026-11-14T10:31:08+09:00",
+        "summary": "The US Job Market Narrative Shifts Toward Inflationary Risks Bloomberg.com The US Job Market Narrative Shifts Toward Inflationary Risks - Bloomberg.com",
+        "published": "Sat, 14 Nov 2026 07:31:08 GMT",
+        "published_kst": "2026-11-14T16:31:08+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "SpaceX launches Starship in key test flight of massive rocket",
-        "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-        "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas. SpaceX launches Starship in key test flight of massive rocket",
-        "published": "Sat, 14 Nov 2026 01:18:51 GMT",
-        "published_kst": "2026-11-14T10:18:51+09:00",
+        "title": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher - The Defiant",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVRDcmVVUWo5TnFqUUVZckJuSjJiTWVaaXNYZzZNWlQ2bDdjYzFjS01sby04MlJzTWlXaWRiWFljNjVzOVNqUW5wdVZadUJfTko5cjlkUFFSUlFYNzZ2eHNZMHdNUEtfRDdoX2psS0FDNExpaDhkOXN3T1lzV1pFQUFsQV9xQ1pmSnBV?oc=5",
+        "summary": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher The Defiant US PPI Hits 6.5% as Bitcoin and Ether Edge Higher - The Defiant",
+        "published": "Sat, 14 Nov 2026 07:26:19 GMT",
+        "published_kst": "2026-11-14T16:26:19+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "6.5%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+        "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+        "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status. Analysis: Companies love a ‘rockstar’ CEO.",
+        "published": "Sat, 14 Nov 2026 07:08:45 GMT",
+        "published_kst": "2026-11-14T16:08:45+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House Urges Easing Liability to Encourage AI Disclosure - Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRnR2MHh2N1dqYVljRm44MklWcFJ1QXppTERpYnpCSUdDc2hIdTRUSTJuUTNVZTJSTmMxemUxdjlWQVp1OU4weHpwc2lveS1sbi1DazdUZUpSVGFMMUFBdGMwVnNYNV84aXdGVmdneFJlQlNaNmtnWWN0aGpVdkdaMXVMVlJsWXdfWU5kRHVsMGhBRGhoTEo5dUJEU2xuMy1GaFgtb01BZktjR2szUlZONjBR?oc=5",
-        "summary": "White House Urges Easing Liability to Encourage AI Disclosure Bloomberg White House Urges Easing Liability to Encourage AI Disclosure - Bloomberg",
-        "published": "Sat, 14 Nov 2026 00:34:00 GMT",
-        "published_kst": "2026-11-14T09:34:00+09:00",
-        "domain": "google.com",
+        "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+        "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+        "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil. Ecuador wants to monetize its biodiversity — while still drilling for oil",
+        "published": "Sat, 14 Nov 2026 06:00:01 GMT",
+        "published_kst": "2026-11-14T15:00:01+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,35 +75,33 @@
     ],
     "kr": [
       {
-        "title": "[다음주 경제] 2천조 넘은 가계빚 어디까지…IMF·KDI 성장률 전망 발표 - 산경투데이",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRVnUzT00xZDRvX1h4dFVVNkpuM3Y3TWI4MVhiZGVNbGlHR0ktSHFyVVVJcEZJNmYyUjZMVWR0UEZQM2JNSzFoMXNVREV3ZWxvZ3A3b1ZHUE5YOFJmZ25JVy1lWUVyVGY3bGZ0ZHI5Z3TSAXRBVV95cUxOcGpVbkY4cE5GcUFpNE9yampNZkhDempsSnFHckdEY0d1SXhlOTBTUk1IaEpjclhsMWl0Rm1nQU5oUTJpTWtJQTNNSHVXSGpvTGpONzV2UndIei1aMC12cTRjWUsyaFp1TC1MNklzODdnRXRuWg?oc=5",
-        "summary": "[다음주 경제] 2천조 넘은 가계빚 어디까지…IMF·KDI 성장률 전망 발표 산경투데이 [다음주 경제] 2천조 넘은 가계빚 어디까지…IMF·KDI 성장률 전망 발표 - 산경투데이",
-        "published": "Sat, 14 Nov 2026 01:29:38 GMT",
-        "published_kst": "2026-11-14T10:29:38+09:00",
+        "title": "중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 - 파이낸셜투데이",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNEJrazdUUmZvMVg1UzNGQXc4dDhMS0dDeFNYUDRxNWZzQVJCX1JLd1RQMzJndERIRnNsTFNjUDI5UUtpRmFLMy1sSmNiNkRuOWlGQXZCVW04VHRya1JGdVFQTWtSRWx1cWfSAW5BVV95cUxPMmZxRG5ULVcxSmFWeXlNTmQ0czhZUllHUlZReEdEYnd4cTdKd0FoQlZyLWR3b2swVGEtd1FHcU54LU1GY2lCcnlkVmNIQm5jaU1IbDMtb2JGVDdaM1NOdFhGTlFBTEVZSWlGel8zUQ?oc=5",
+        "summary": "중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 파이낸셜투데이 중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 - 파이낸셜투데이",
+        "published": "Sat, 14 Nov 2026 07:31:07 GMT",
+        "published_kst": "2026-11-14T16:31:07+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "젠슨 황 퇴진에 아시아 AI 협력 불확실…한국 5100억달러 공동사업·동남아 규제 변수 - 아시아투데이",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xZHBLRHlDVVlDU2k5TXNOdGVLQnZiMFIyZllRWVdpM2lma0MwNVcxOGE0Z21yZXpSb1NxdEFIRUNHLXdxQk9sbDFSRTNBMkFKekpMUE1OZ3hyTXc0dkhYLXgtVi1hVXcwblhRd2h3?oc=5",
-        "summary": "젠슨 황 퇴진에 아시아 AI 협력 불확실…한국 5100억달러 공동사업·동남아 규제 변수 아시아투데이 젠슨 황 퇴진에 아시아 AI 협력 불확실…한국 5100억달러 공동사업·동남아 규제 변수 - 아시아투데이",
-        "published": "Sat, 14 Nov 2026 01:13:32 GMT",
-        "published_kst": "2026-11-14T10:13:32+09:00",
+        "title": "공정위는 정말 '밥값'을 했을까 [청와대는 지금] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JWGxTUHdJMkpxbjR3Y0tUU195Mmx5MjVpTm1QSjZYdjZJN2owM05MOXhaVUplb3pZRVFUcHRSVnpBbllUeXhTMmlpTjlpOEhNR0UwTW9ZemhNQQ?oc=5",
+        "summary": "공정위는 정말 '밥값'을 했을까 [청와대는 지금] 한국경제 공정위는 정말 '밥값'을 했을까 [청와대는 지금] - 한국경제",
+        "published": "Sat, 14 Nov 2026 07:26:00 GMT",
+        "published_kst": "2026-11-14T16:26:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "5100"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국, 중국 수입시장 6개월 연속 1위…미국서도 6위로 상승 - KBC광주방송",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhRUd2MEdsRlE2RldtTGRNVTd2RC1UUnN3X2laZzZJX3pPZFY3WTBxWV9DT3lLSXU0bGpLc2tsSzNXbmg0R05WZG9UWnFEcnd2dFdpOGlsTXB1Vkl1Z0F5dA?oc=5",
-        "summary": "한국, 중국 수입시장 6개월 연속 1위…미국서도 6위로 상승 KBC광주방송 한국, 중국 수입시장 6개월 연속 1위…미국서도 6위로 상승 - KBC광주방송",
-        "published": "Sat, 14 Nov 2026 01:04:01 GMT",
-        "published_kst": "2026-11-14T10:04:01+09:00",
+        "title": "대구가톨릭대·대구한의대, 1.6t 김장김치 나눔 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTGpGekNIaWYxYUc0UFFobnZSUGJJVE13dm1Mc2o1MVZvalhwTE5NX3hqbkYwR3hDRURYSUcybEdhQU1lUFF6endhOFNOWkhzTXV5RE9RbUJodw?oc=5",
+        "summary": "대구가톨릭대·대구한의대, 1.6t 김장김치 나눔 한국경제 대구가톨릭대·대구한의대, 1.6t 김장김치 나눔 - 한국경제",
+        "published": "Sat, 14 Nov 2026 06:09:57 GMT",
+        "published_kst": "2026-11-14T15:09:57+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,42 +110,42 @@
     ],
     "world": [
       {
-        "title": "The Importance Of Indonesia To China: A Political Economy Study Of Capital, Markets, And Indo-Pacific Supply Chains - Analysis - Eurasia Review",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUHFpdzByNTd5WVhJd2lIUW5CclZOTmN2WHJyQTRjOUVORjhoODhLX0t1SGlrTW5nUElBcVBjSzltb1pCN1NkYVEtMnZrTUN5cTNZcGJZeF90a2prSUdIWm5MZ2JmdlZqa0R6blRZODlDVmdfYTBqNFFZYlBCbE9mdlRoc0wzbGZYOGNMenI2ejE1WTVQNHlKbWlkc1Fzd25mbGNiM0dtQWhud2xOVXFCU2VjaVRfZF95ak5QQUdxVUdBV21kMzlwVS1ZYkRzb3V3Rk56UDRMM1NtU1dhWXNRWmZpbmpWMzY4dnBUZlJFZW9OQjA?oc=5",
-        "summary": "The Importance Of Indonesia To China: A Political Economy Study Of Capital, Markets, And Indo-Pacific Supply Chains - Analysis Eurasia Review The Importance Of Indonesia To China: A Political Economy Study Of Capital, Markets, And Indo-Pacific Supply Chains - Analysis - Eurasia Review",
-        "published": "Sat, 14 Nov 2026 01:23:38 GMT",
-        "published_kst": "2026-11-14T10:23:38+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Hybrid Neural Network and Decision Tree Model Predicts Supply Chain Transaction Values - Bioengineer.org",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdTB4djVxRUttWUdnb2I5ZDItYU5tR01jalhlZXBWOTJlMjJwQTk0M0JMbkJ5aGhiTEg2eEZ6ZktOV1g1NUx5YlpnVTJsdDFnSGdSR3RnREhCczJpUkFpbnBYV295RjJyR0tydTVqbkQyZEowZ19pLTAxRjR6d3dQckVEVWNYdkFodDhBSEJuQ1MwNms3NFRXX2dGZi05X3lfUGd3N0VjX0JYN2xkV1N0Yg?oc=5",
-        "summary": "Hybrid Neural Network and Decision Tree Model Predicts Supply Chain Transaction Values Bioengineer.org Hybrid Neural Network and Decision Tree Model Predicts Supply Chain Transaction Values - Bioengineer.org",
-        "published": "Fri, 13 Nov 2026 22:37:35 GMT",
-        "published_kst": "2026-11-14T07:37:35+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Cheetah Net Supply Chain Service Inc. Announces Third Quarter 2026 Results and Provides Corporate Update - Quantisnow",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDJoRVlwcmYtWWRWd25mWFJhOGdmMkhxX2E5clVtamVRVWQyYWpoNUhPSGlsbHdxaThfdmFNT2VCMkU2aC0yT2dUbnlwUkZfQXBfUmxUQWRvREI2b3RaZ2hNblhvNUlUc0ZsQ2d6aFlnMXFqd2syUWdoS09RY2RVRkdQdVNsZnhrMzVVd3RSeDh6cVY3MWZ5dW5PWFVhd0gyTEVXb2FlVmFfcWhu?oc=5",
-        "summary": "Announces Third Quarter 2026 Results and Provides Corporate Update Quantisnow Cheetah Net Supply Chain Service Inc. Cheetah Net Supply Chain Service Inc.",
-        "published": "Fri, 13 Nov 2026 22:07:06 GMT",
-        "published_kst": "2026-11-14T07:07:06+09:00",
+        "title": "TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax - Machine Maker",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTZEcUwzTzY5eDd4amVvc3B0Sko4Rk05bi1Qci1DbDFhTUZuVTlmc1p0VWliV1FaRUZDZjExakxMMHdFaDduVWdoZ3ZLN21FMzlQWTh1dlA1OXFWODJZX1NlbVZ4UzlKb0Z6bjRXWWN2WkVMMmQtVVdCLXJaRERDOWpHNmNHNzJPbGcyYkRraVpzUGlISzVrZDBseTRHQ3dBTnVsY0VIbFJVZXpZ?oc=5",
+        "summary": "TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax Machine Maker TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax - Machine Maker",
+        "published": "Sat, 14 Nov 2026 07:55:01 GMT",
+        "published_kst": "2026-11-14T16:55:01+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2026"
+          "108%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Taiwan Physical Internet Alliance Forms as Reusable Logistics Boxes, SCOF Platform Target Low-Carbon Supply Chain - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yN2VlZEdzaUxDMmcxdlJNX1E4WktPU0ZWcTcyTHNaSy13cm55ci1uNnUzVWM4em5BZWNtbUlJNWdPRjVGd2xycmF3cVpmUzl4MlRTdFJ4ekJNei1hckloZ2NRbEFjOEpUY2tjWnE0YWh6SER2V1E?oc=5",
+        "summary": "Taiwan Physical Internet Alliance Forms as Reusable Logistics Boxes, SCOF Platform Target Low-Carbon Supply Chain BigGo Finance Taiwan Physical Internet Alliance Forms as Reusable Logistics Boxes, SCOF Platform Target Low-Carbon Supply Chain - BigGo Finance",
+        "published": "Sat, 14 Nov 2026 03:28:42 GMT",
+        "published_kst": "2026-11-14T12:28:42+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Nvidia CEO Exit Shakes 'Kkanbu Alliance' and AI Supply Chains - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1FENFVpNnVQb28yVlpUbV9vaWk5WnRYcEYzcy01b2RTX1dwVlJlRUNQOUdZNURHdEZTUUhobDl6Rm1uSlY1YWQxWkdmQVdkYS1zX19GYVFQOXpZTmVSNjBxQ09EaEtHQ0ppdHlzOV9Jb1hseW9YUXFxVE1yaHk3bnRyMVFrTktT?oc=5",
+        "summary": "Nvidia CEO Exit Shakes 'Kkanbu Alliance' and AI Supply Chains 조선일보 Nvidia CEO Exit Shakes 'Kkanbu Alliance' and AI Supply Chains - 조선일보",
+        "published": "Sat, 14 Nov 2026 02:53:36 GMT",
+        "published_kst": "2026-11-14T11:53:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "FAA lifts nationwide ground stop, White House says no indication of \"nefarious act\" CBS News FAA lifts nationwide ground stop, White House says no indication of \"nefarious act\" - CBS News / [다음주 경제] 2천조 넘은 가계빚 어디까지…IMF·KDI 성장률 전망 발표 산경투데이 [다음주 경제] 2천조 넘은 가계빚 어디까지…IMF·KDI 성장률 전망 발표 - 산경투데이 / The Importance Of Indonesia To China: A Political Economy Study Of Capital, Markets, And Indo-Pacific Supply Chains - Analysis Eurasia Review The Importance Of Indonesia To China: A Political Economy Study Of Capital, Markets, And Indo-Pacific Supply Chains - Analysis - Eurasia Review",
+  "wrap_summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. Microsoft apologizes for massive outage that took down Outlook and other 365 services / 중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 파이낸셜투데이 중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 - 파이낸셜투데이 / TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax Machine Maker TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax - Machine Maker",
   "invest_summary": ""
 }
