@@ -1,27 +1,64 @@
 {
   "date": "2026-11-15",
-  "generated_at_utc": "2026-11-14T16:28:07Z",
-  "cutoff_kst": "2026-11-15T01:28:00+09:00",
+  "generated_at_utc": "2026-11-14T18:39:29Z",
+  "cutoff_kst": "2026-11-15T03:39:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Stephen Miller faces first crisis as White House chief of staff - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUJGTmU0OUlnNHg1QVdVRUZsQVZkMWZ2MzhqRFBIMzFxOUNpN3AtUUl6a1lSZnNnZ3hpbUJUeFNqLS1mNlJtVHJtRk1UZFhNNmU1X0ZkS083UEF1S3F1TUJHS0tOaF9PalpmVEJMZjg2blpsRHVHeU05enVwakI2cFc0LXhmM3loeWotMkNyVGxsZEh5VVhxeDNZQzJtdnRlMGZaMGxiYXp3V0JnZWFwT2ZzYw?oc=5",
-        "summary": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Stephen Miller faces first crisis as White House chief of staff - The Washington Post",
-        "published": "Sat, 14 Nov 2026 16:23:20 GMT",
-        "published_kst": "2026-11-15T01:23:20+09:00",
+        "title": "Duffy Blames Congress, Demands $50 Billion as White House Confronts Airport Mess - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUF9BSS0xMzVoWGd0S3BxRUR1V2MxRGxteDFuN0FLRGstVmZwOHItR0VQUG1VM0ZtblBKYUZwVGJmWWNTNlVXOXZpcVhUYmtqOUFLWUdkakl2NmVFZDY4U3dkU3FKTDJIaGlaRklvelIwMEtvNDJMZEVJNHpXUDB4d2JSdl96WmpQMUkzRk9CcEZHcFNaQ1VLQkJleEJ5QVZWWEZFLTktcS12RFVEdlpJdE1peGxxX1RjZjktUUJLR20?oc=5",
+        "summary": "Duffy Blames Congress, Demands $50 Billion as White House Confronts Airport Mess WSJ Duffy Blames Congress, Demands $50 Billion as White House Confronts Airport Mess - WSJ",
+        "published": "Sat, 14 Nov 2026 18:35:00 GMT",
+        "published_kst": "2026-11-15T03:35:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$50"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+        "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+        "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday. Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+        "published": "Sat, 14 Nov 2026 18:32:47 GMT",
+        "published_kst": "2026-11-15T03:32:47+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The White House situation room and national security apparatus went into action over FAA problems - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNmJQMFd0aXhYNkNsSi1LenFuYXNDUTRhbFN4eW5wWktaMFZfTmdtSkVSeWllZGJycl9KckZRNTh5UG1HdFVHTXJGR0dlWXlvS3p6YVpJS19sM1VlY3c0RVBBVHdOQWgwaTM1TUFOWVVPLXh1c0hIaU5uZWFlRUVwUmoySXdJQVIzLWRZLS1kaFRJcnFiejlMSkwtQnZBbGFQazRqTndqb3ZVSXpGMTFySVRoWDRkb21GYktkbHJvemVjeEphd3dNc1FLMWkyaTNROURTM3lYbw?oc=5",
+        "summary": "The White House situation room and national security apparatus went into action over FAA problems Fortune The White House situation room and national security apparatus went into action over FAA problems - Fortune",
+        "published": "Sat, 14 Nov 2026 17:58:00 GMT",
+        "published_kst": "2026-11-15T02:58:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
-        "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-        "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday. Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
-        "published": "Sat, 14 Nov 2026 16:18:49 GMT",
-        "published_kst": "2026-11-15T01:18:49+09:00",
+        "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+        "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+        "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation. Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+        "published": "Sat, 14 Nov 2026 17:46:06 GMT",
+        "published_kst": "2026-11-15T02:46:06+09:00",
         "domain": "cnbc.com",
+        "key_figures": [
+          "$2.13"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Stephen Miller faces first crisis as White House chief of staff - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUJGTmU0OUlnNHg1QVdVRUZsQVZkMWZ2MzhqRFBIMzFxOUNpN3AtUUl6a1lSZnNnZ3hpbUJUeFNqLS1mNlJtVHJtRk1UZFhNNmU1X0ZkS083UEF1S3F1TUJHS0tOaF9PalpmVEJMZjg2blpsRHVHeU05enVwakI2cFc0LXhmM3loeWotMkNyVGxsZEh5VVhxeDNZQzJtdnRlMGZaMGxiYXp3V0JnZWFwT2ZzYw?oc=5",
+        "summary": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Stephen Miller faces first crisis as White House chief of staff - The Washington Post",
+        "published": "Sat, 14 Nov 2026 17:32:11 GMT",
+        "published_kst": "2026-11-15T02:32:11+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -33,39 +70,6 @@
         "published": "Sat, 14 Nov 2026 15:50:43 GMT",
         "published_kst": "2026-11-15T00:50:43+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-        "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-        "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang. Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S.",
-        "published": "Sat, 14 Nov 2026 15:36:47 GMT",
-        "published_kst": "2026-11-15T00:36:47+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "F.A.A. Ends Nationwide Ground Stop but Delays Persist - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
-        "summary": "Ends Nationwide Ground Stop but Delays Persist The New York Times F.A.A.",
-        "published": "Sat, 14 Nov 2026 15:25:00 GMT",
-        "published_kst": "2026-11-15T00:25:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Miller’s White House Ascent Rattles Mexico Trade Negotiators - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXJxbmhIRHJLcVZuUzJOYmtWTnJVSVhERVR1NjFGNVNseVdCSE5tcVMwaFpueTFBUWVNUWNtUGNfS3ptTzRqdGRKaFhWX1cwZzIxc0VqRFBQWUJYb29DX05FOUZ1RmpndHVCN3M5T3VMMXpGSk1yU2ROWmFsaldhZmFac3A1aTZLVU13WHhKTTFBZjdTc2xMVzhCRWJHLVdDSWx5dWQySXZrc1BNSlhscQ?oc=5",
-        "summary": "Miller’s White House Ascent Rattles Mexico Trade Negotiators Bloomberg.com Miller’s White House Ascent Rattles Mexico Trade Negotiators - Bloomberg.com",
-        "published": "Sat, 14 Nov 2026 13:30:00 GMT",
-        "published_kst": "2026-11-14T22:30:00+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -110,6 +114,19 @@
     ],
     "world": [
       {
+        "title": "The AI Supply Chain Management Skills 2027 Planners Need - AICERTs",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZDY1kxMkdQZHFSR0JGOG5DUkNpUkw2NzBQSlEtNVcyZk5yWDFrdXVjZE1iTFl1LXVOV0haVXgyVV9FcmhyaU5HZzRBY0JzS1JySjFHcWJJMHI5bGVhSTI2aDZUVzVmQXlFSGpGRi05ZDhxSTFWNEtpVEdlZEt3UTBGRGNPQ2JoOGxiQkhnVQ?oc=5",
+        "summary": "The AI Supply Chain Management Skills 2027 Planners Need AICERTs The AI Supply Chain Management Skills 2027 Planners Need - AICERTs",
+        "published": "Sat, 14 Nov 2026 17:47:17 GMT",
+        "published_kst": "2026-11-15T02:47:17+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2027"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
         "title": "Jabil Integrates Five Supply Chain Companies Into Unified Platform - Supply & Demand Chain Executive",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWtkM3UwZ0pGbVljQ0taSGVVT0FKU05kMDdIV3ozelJYbHhKa0VOdGhQNGJ3SlBOaHp4TlhRdFFyam8xdXFhYW5ZVks2YU82UlhrZ3ZUQUpwMWhZT29velE3ZE1XZi1aZ2lwMVJSN2lkQ2ZTa1B1SmduVUdPUWc5U2FfdU1NN1dzTjFyUWYzOXRWWGN6VTBpeUpWdlVoY0ZIREVEb0hQYXRXTzZBdVVXREFQTWNtbXJOdndTMmUzTVd4MXBxeGJnaEtqY25FbjN4WkZSVTBR?oc=5",
         "summary": "Jabil Integrates Five Supply Chain Companies Into Unified Platform Supply & Demand Chain Executive Jabil Integrates Five Supply Chain Companies Into Unified Platform - Supply & Demand Chain Executive",
@@ -130,22 +147,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax - Machine Maker",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTZEcUwzTzY5eDd4amVvc3B0Sko4Rk05bi1Qci1DbDFhTUZuVTlmc1p0VWliV1FaRUZDZjExakxMMHdFaDduVWdoZ3ZLN21FMzlQWTh1dlA1OXFWODJZX1NlbVZ4UzlKb0Z6bjRXWWN2WkVMMmQtVVdCLXJaRERDOWpHNmNHNzJPbGcyYkRraVpzUGlISzVrZDBseTRHQ3dBTnVsY0VIbFJVZXpZ?oc=5",
-        "summary": "TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax Machine Maker TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax - Machine Maker",
-        "published": "Sat, 14 Nov 2026 07:55:01 GMT",
-        "published_kst": "2026-11-14T16:55:01+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "108%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Stephen Miller faces first crisis as White House chief of staff - The Washington Post / 9월 수출·투자 늘고 소비도 개선…정부 \"견조한 성장세 지속\" 대한민국 정책브리핑 9월 수출·투자 늘고 소비도 개선…정부 \"견조한 성장세 지속\" - 대한민국 정책브리핑 / Jabil Integrates Five Supply Chain Companies Into Unified Platform Supply & Demand Chain Executive Jabil Integrates Five Supply Chain Companies Into Unified Platform - Supply & Demand Chain Executive",
+  "wrap_summary": "Duffy Blames Congress, Demands $50 Billion as White House Confronts Airport Mess WSJ Duffy Blames Congress, Demands $50 Billion as White House Confronts Airport Mess - WSJ / 9월 수출·투자 늘고 소비도 개선…정부 \"견조한 성장세 지속\" 대한민국 정책브리핑 9월 수출·투자 늘고 소비도 개선…정부 \"견조한 성장세 지속\" - 대한민국 정책브리핑 / The AI Supply Chain Management Skills 2027 Planners Need AICERTs The AI Supply Chain Management Skills 2027 Planners Need - AICERTs",
   "invest_summary": ""
 }
