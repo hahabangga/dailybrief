@@ -1,73 +1,75 @@
 {
   "date": "2026-11-14",
-  "generated_at_utc": "2026-11-14T08:13:36Z",
-  "cutoff_kst": "2026-11-14T17:13:00+09:00",
+  "generated_at_utc": "2026-11-14T12:33:04Z",
+  "cutoff_kst": "2026-11-14T21:33:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-        "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-        "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-        "published": "Sat, 14 Nov 2026 08:11:28 GMT",
-        "published_kst": "2026-11-14T17:11:28+09:00",
+        "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+        "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+        "summary": "flights are resuming after the FAA ground stop, but delays and cancellations are still piling up. Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
+        "published": "Sat, 14 Nov 2026 12:30:58 GMT",
+        "published_kst": "2026-11-14T21:30:58+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "F.A.A. Ends Nationwide Ground Stop but Delays Persist - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
-        "summary": "Ends Nationwide Ground Stop but Delays Persist The New York Times F.A.A.",
-        "published": "Sat, 14 Nov 2026 08:01:00 GMT",
-        "published_kst": "2026-11-14T17:01:00+09:00",
+        "title": "White House Counsel Threatens Democrats With Criminal Investigations Over Congressional Oversight - Davis Vanguard",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90ZHhzZlhHMDlqcmNWRmNsekdjWXhIamJHMDVFVTFmRHRxTDRmRW1aSU1RZGJCNUozNnE5VjFpQ21zeThLYkNucDcxNlYzQ0xsS1FCVkVBYy1Cd2Y5Wkh1ZUVpOU9RdHphNXY4V1V6UjV6Y05SUlJfWTRPY2hCVlE?oc=5",
+        "summary": "White House Counsel Threatens Democrats With Criminal Investigations Over Congressional Oversight Davis Vanguard White House Counsel Threatens Democrats With Criminal Investigations Over Congressional Oversight - Davis Vanguard",
+        "published": "Sat, 14 Nov 2026 12:17:42 GMT",
+        "published_kst": "2026-11-14T21:17:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "The US Job Market Narrative Shifts Toward Inflationary Risks - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUjU4Rkxkc2Y1a19LZy1GRW9Yb3BDblM4Um1Vd2tqVmc2RHgxaVRRZzlVemJkVzlLWXRLc0swbVFsWEkzbzZVM2hJYWpDVC1Yb3Utb25zWHhKWUpXTy0xN1VTYkNHU3pBRURzVWdGNlpEVnpmRl9wVlFUS3FBMFdRVG5oeGJ1TTZLMjlrOXFpUVU5aG5LUlRPcElEY3ZTd2xqU0htWlpiYWd6enc4dkNad3VFVVI?oc=5",
-        "summary": "The US Job Market Narrative Shifts Toward Inflationary Risks Bloomberg.com The US Job Market Narrative Shifts Toward Inflationary Risks - Bloomberg.com",
-        "published": "Sat, 14 Nov 2026 07:31:08 GMT",
-        "published_kst": "2026-11-14T16:31:08+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher - The Defiant",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVRDcmVVUWo5TnFqUUVZckJuSjJiTWVaaXNYZzZNWlQ2bDdjYzFjS01sby04MlJzTWlXaWRiWFljNjVzOVNqUW5wdVZadUJfTko5cjlkUFFSUlFYNzZ2eHNZMHdNUEtfRDdoX2psS0FDNExpaDhkOXN3T1lzV1pFQUFsQV9xQ1pmSnBV?oc=5",
-        "summary": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher The Defiant US PPI Hits 6.5% as Bitcoin and Ether Edge Higher - The Defiant",
-        "published": "Sat, 14 Nov 2026 07:26:19 GMT",
-        "published_kst": "2026-11-14T16:26:19+09:00",
-        "domain": "google.com",
+        "title": "Meet the seven co-founders of Anthropic",
+        "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+        "summary": "Four researchers, a former journalist, a public policymaker, and an engineer founded Anthropic in 2021. Meet the seven co-founders of Anthropic",
+        "published": "Sat, 14 Nov 2026 12:15:01 GMT",
+        "published_kst": "2026-11-14T21:15:01+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "6.5%"
+          "2021"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
-        "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
-        "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status. Analysis: Companies love a ‘rockstar’ CEO.",
-        "published": "Sat, 14 Nov 2026 07:08:45 GMT",
-        "published_kst": "2026-11-14T16:08:45+09:00",
+        "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+        "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+        "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan. Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+        "published": "Sat, 14 Nov 2026 12:00:01 GMT",
+        "published_kst": "2026-11-14T21:00:01+09:00",
         "domain": "cnbc.com",
+        "key_figures": [
+          "$4.6"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Stephen Miller faces first crisis as White House chief of staff - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUJGTmU0OUlnNHg1QVdVRUZsQVZkMWZ2MzhqRFBIMzFxOUNpN3AtUUl6a1lSZnNnZ3hpbUJUeFNqLS1mNlJtVHJtRk1UZFhNNmU1X0ZkS083UEF1S3F1TUJHS0tOaF9PalpmVEJMZjg2blpsRHVHeU05enVwakI2cFc0LXhmM3loeWotMkNyVGxsZEh5VVhxeDNZQzJtdnRlMGZaMGxiYXp3V0JnZWFwT2ZzYw?oc=5",
+        "summary": "Stephen Miller faces first crisis as White House chief of staff The Washington Post Stephen Miller faces first crisis as White House chief of staff - The Washington Post",
+        "published": "Sat, 14 Nov 2026 11:32:11 GMT",
+        "published_kst": "2026-11-14T20:32:11+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
-        "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
-        "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil. Ecuador wants to monetize its biodiversity — while still drilling for oil",
-        "published": "Sat, 14 Nov 2026 06:00:01 GMT",
-        "published_kst": "2026-11-14T15:00:01+09:00",
-        "domain": "cnbc.com",
+        "title": "Inside Stephen Miller’s aggressive first week as Trump’s chief of staff - CNN",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHFMOGVOUDhOREtMQjBGcXRVemE3dkw5N2ViVU9Gd09XOW00NjZqX3ctOHhqTVoxaS11OGNHRjAycjZ4RlZub05USmZDb1RFTkplUk54Y0hEc2stU0ZhWU1aakxJcGtMWGZtcmJldjhQbWE5cTVmbWdoal8tMHNsYg?oc=5",
+        "summary": "Inside Stephen Miller’s aggressive first week as Trump’s chief of staff CNN Inside Stephen Miller’s aggressive first week as Trump’s chief of staff - CNN",
+        "published": "Sat, 14 Nov 2026 11:00:15 GMT",
+        "published_kst": "2026-11-14T20:00:15+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,33 +77,33 @@
     ],
     "kr": [
       {
-        "title": "중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 - 파이낸셜투데이",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNEJrazdUUmZvMVg1UzNGQXc4dDhMS0dDeFNYUDRxNWZzQVJCX1JLd1RQMzJndERIRnNsTFNjUDI5UUtpRmFLMy1sSmNiNkRuOWlGQXZCVW04VHRya1JGdVFQTWtSRWx1cWfSAW5BVV95cUxPMmZxRG5ULVcxSmFWeXlNTmQ0czhZUllHUlZReEdEYnd4cTdKd0FoQlZyLWR3b2swVGEtd1FHcU54LU1GY2lCcnlkVmNIQm5jaU1IbDMtb2JGVDdaM1NOdFhGTlFBTEVZSWlGel8zUQ?oc=5",
-        "summary": "중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 파이낸셜투데이 중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 - 파이낸셜투데이",
-        "published": "Sat, 14 Nov 2026 07:31:07 GMT",
-        "published_kst": "2026-11-14T16:31:07+09:00",
+        "title": "의원 수를 줄이면 정치도 나아질까? 일본의 31석 감축이 한국에 던지는 질문 - 미래한국",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aV0x5RU0zUEt4MXNjWnJpQm90ejVISnlOV1IwTWQyS0w3U2RZR0lyWDk4LUt2VmhLNUJYU20yVjB0YXRzTjljWGNnVXJxdVFxbkZzU01CazVLREVyOEpQM2V3WUt3SG5iSmYyTDZFMUdxUQ?oc=5",
+        "summary": "일본의 31석 감축이 한국에 던지는 질문 미래한국 의원 수를 줄이면 정치도 나아질까? 일본의 31석 감축이 한국에 던지는 질문 - 미래한국",
+        "published": "Sat, 14 Nov 2026 12:09:31 GMT",
+        "published_kst": "2026-11-14T21:09:31+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "공정위는 정말 '밥값'을 했을까 [청와대는 지금] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JWGxTUHdJMkpxbjR3Y0tUU195Mmx5MjVpTm1QSjZYdjZJN2owM05MOXhaVUplb3pZRVFUcHRSVnpBbllUeXhTMmlpTjlpOEhNR0UwTW9ZemhNQQ?oc=5",
-        "summary": "공정위는 정말 '밥값'을 했을까 [청와대는 지금] 한국경제 공정위는 정말 '밥값'을 했을까 [청와대는 지금] - 한국경제",
-        "published": "Sat, 14 Nov 2026 07:26:00 GMT",
-        "published_kst": "2026-11-14T16:26:00+09:00",
+        "title": "TV 떠나는 소비자들… 홈쇼핑 3사 생존법도 제각각 [류은혁의 유통기한] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfRFVaYnNEeXNHdEI0NnkwbUxYbldWN3o0UnNJV1AwdGRJWHlXTzJhR3JFaU51Z0VHdUNDUE9KeFVyTnJ6Szd3YTRJRG9hSV9QNTFGdGZuOE9Edw?oc=5",
+        "summary": "TV 떠나는 소비자들… 홈쇼핑 3사 생존법도 제각각 [류은혁의 유통기한] 한국경제 TV 떠나는 소비자들… 홈쇼핑 3사 생존법도 제각각 [류은혁의 유통기한] - 한국경제",
+        "published": "Sat, 14 Nov 2026 11:00:02 GMT",
+        "published_kst": "2026-11-14T20:00:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "대구가톨릭대·대구한의대, 1.6t 김장김치 나눔 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTGpGekNIaWYxYUc0UFFobnZSUGJJVE13dm1Mc2o1MVZvalhwTE5NX3hqbkYwR3hDRURYSUcybEdhQU1lUFF6endhOFNOWkhzTXV5RE9RbUJodw?oc=5",
-        "summary": "대구가톨릭대·대구한의대, 1.6t 김장김치 나눔 한국경제 대구가톨릭대·대구한의대, 1.6t 김장김치 나눔 - 한국경제",
-        "published": "Sat, 14 Nov 2026 06:09:57 GMT",
-        "published_kst": "2026-11-14T15:09:57+09:00",
+        "title": "[부고] 임동진(한국경제TV 기자)씨 외조모상 - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lcFJpcndQcXZYckVkNlhFWkF5aVc0OHpMV3Zxam96ZVBXTENMeEliZDV4RElrQWpPbEVkMk44OTRWakFpSUM2cUtqY1pjN1B2bGFwNFBrLV8wUXPSAWBBVV95cUxPY2g0b0hUWnhsOTNPLTMxR3RvS2llVTc3NmVqRTUycHBkQ2JEbGY4bjJzcUkyRjIwOGVpQkxmZGl4eW9fY2wwQkVyUDJNaElsaWI4NkxrQzVHZEJzem1CT2o?oc=5",
+        "summary": "[부고] 임동진(한국경제TV 기자)씨 외조모상 연합뉴스 [부고] 임동진(한국경제TV 기자)씨 외조모상 - 연합뉴스",
+        "published": "Sat, 14 Nov 2026 10:59:58 GMT",
+        "published_kst": "2026-11-14T19:59:58+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -109,6 +111,17 @@
       }
     ],
     "world": [
+      {
+        "title": "This Week's Top Five Stories in Supply Chain - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2FtR3ZuUjI2YUtXby1sVFlJeVozTWtOVnFGZlFaVk5RdEVqT3VVQXFPaHFHUjVGdk85MVpsQ2NXYW5FRzgtaExzT1pYN2s5Q2g4Z2hKUUdtLUlEbm5VNV9oQS1tUVljeGhOa0VTLTZ6Z2RRZkdtODN1bENGbWJzbTluVWpOek5ESXRiQmdCd1FBYV9EVHc?oc=5",
+        "summary": "This Week's Top Five Stories in Supply Chain Supply Chain Digital Magazine This Week's Top Five Stories in Supply Chain - Supply Chain Digital Magazine",
+        "published": "Sat, 14 Nov 2026 09:01:05 GMT",
+        "published_kst": "2026-11-14T18:01:05+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax - Machine Maker",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLTZEcUwzTzY5eDd4amVvc3B0Sko4Rk05bi1Qci1DbDFhTUZuVTlmc1p0VWliV1FaRUZDZjExakxMMHdFaDduVWdoZ3ZLN21FMzlQWTh1dlA1OXFWODJZX1NlbVZ4UzlKb0Z6bjRXWWN2WkVMMmQtVVdCLXJaRERDOWpHNmNHNzJPbGcyYkRraVpzUGlISzVrZDBseTRHQ3dBTnVsY0VIbFJVZXpZ?oc=5",
@@ -126,19 +139,8 @@
         "title": "Taiwan Physical Internet Alliance Forms as Reusable Logistics Boxes, SCOF Platform Target Low-Carbon Supply Chain - BigGo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yN2VlZEdzaUxDMmcxdlJNX1E4WktPU0ZWcTcyTHNaSy13cm55ci1uNnUzVWM4em5BZWNtbUlJNWdPRjVGd2xycmF3cVpmUzl4MlRTdFJ4ekJNei1hckloZ2NRbEFjOEpUY2tjWnE0YWh6SER2V1E?oc=5",
         "summary": "Taiwan Physical Internet Alliance Forms as Reusable Logistics Boxes, SCOF Platform Target Low-Carbon Supply Chain BigGo Finance Taiwan Physical Internet Alliance Forms as Reusable Logistics Boxes, SCOF Platform Target Low-Carbon Supply Chain - BigGo Finance",
-        "published": "Sat, 14 Nov 2026 03:28:42 GMT",
-        "published_kst": "2026-11-14T12:28:42+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Nvidia CEO Exit Shakes 'Kkanbu Alliance' and AI Supply Chains - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1FENFVpNnVQb28yVlpUbV9vaWk5WnRYcEYzcy01b2RTX1dwVlJlRUNQOUdZNURHdEZTUUhobDl6Rm1uSlY1YWQxWkdmQVdkYS1zX19GYVFQOXpZTmVSNjBxQ09EaEtHQ0ppdHlzOV9Jb1hseW9YUXFxVE1yaHk3bnRyMVFrTktT?oc=5",
-        "summary": "Nvidia CEO Exit Shakes 'Kkanbu Alliance' and AI Supply Chains 조선일보 Nvidia CEO Exit Shakes 'Kkanbu Alliance' and AI Supply Chains - 조선일보",
-        "published": "Sat, 14 Nov 2026 02:53:36 GMT",
-        "published_kst": "2026-11-14T11:53:36+09:00",
+        "published": "Sat, 14 Nov 2026 03:25:00 GMT",
+        "published_kst": "2026-11-14T12:25:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365. Microsoft apologizes for massive outage that took down Outlook and other 365 services / 중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 파이낸셜투데이 중국 수입시장 7년 만에 1위…반도체가 바꾼 한국 수출 지형 - 파이낸셜투데이 / TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax Machine Maker TVS Supply Chain Solutions Reports 108% Growth in Q2 FY27 Profit Before Tax - Machine Maker",
+  "wrap_summary": "flights are resuming after the FAA ground stop, but delays and cancellations are still piling up. Flight disruptions continue after FAA lifts ground stop, some college football games delayed / 일본의 31석 감축이 한국에 던지는 질문 미래한국 의원 수를 줄이면 정치도 나아질까? 일본의 31석 감축이 한국에 던지는 질문 - 미래한국 / This Week's Top Five Stories in Supply Chain Supply Chain Digital Magazine This Week's Top Five Stories in Supply Chain - Supply Chain Digital Magazine",
   "invest_summary": ""
 }
