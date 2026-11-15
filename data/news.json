@@ -1,15 +1,61 @@
 {
   "date": "2026-11-15",
-  "generated_at_utc": "2026-11-15T01:21:08Z",
-  "cutoff_kst": "2026-11-15T10:21:00+09:00",
+  "generated_at_utc": "2026-11-15T08:33:29Z",
+  "cutoff_kst": "2026-11-15T17:33:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+        "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+        "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang. Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+        "published": "Sun, 15 Nov 2026 08:22:21 GMT",
+        "published_kst": "2026-11-15T17:22:21+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2025"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains what’s behind the president and former Nvidi - Facebook",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX29KZ1JJTTNKaDZyR2pETjVxMVNoWkFweDNCZXpRdWs2SzRDSTZWdWNvVFdBdmVBbWJBdEh1TDZPZkpUOFFkMkE1a1IzTkNPVk1rOG1JekhQNTY0YmdJem9MNkFRVy1jME9SenVxYnU0aE9vV1pUUWxRX2dlTlUzbDU1Yzl0Q2MwX1NiVEE1UmE5RDRNN1Z1aDVwV1QxWENkdEFESmM0ZjJFcjIyRnRGX0cwVU01WkRUeWJORjY2ajFZcFNHVVdjX2JNS0hLN2ItV3Iw?oc=5",
         "summary": "Our White House correspondent Maggie Haberman explains what’s behind the president and former Nvidi Facebook President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago. President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago.",
-        "published": "Sun, 15 Nov 2026 00:57:58 GMT",
-        "published_kst": "2026-11-15T09:57:58+09:00",
+        "published": "Sun, 15 Nov 2026 06:56:03 GMT",
+        "published_kst": "2026-11-15T15:56:03+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "3 US Bank Stocks Worth Watching As Higher Interest Rates Reshape Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTFQM29MVnVPbmM4NGlTR29sNGwxTURUNWFaZDRKMzl2UFJXNEM2X1RTUmhlalU3emNhdnYtU1pILVhWRWN6N3VzbEZWWEZmMmlCVHhBbjVRZ3BndVRoWi1NWlZBSnVWckV5X2F3czN6aUZLelA3UHlEZ2FMSXNBUlZrUEVfS1lmWnN2bjhUOEY?oc=5",
+        "summary": "3 US Bank Stocks Worth Watching As Higher Interest Rates Reshape Earnings Yahoo Finance 3 US Bank Stocks Worth Watching As Higher Interest Rates Reshape Earnings - Yahoo Finance",
+        "published": "Sun, 15 Nov 2026 06:08:00 GMT",
+        "published_kst": "2026-11-15T15:08:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Could Budapest be the next digital nomad hotspot?",
+        "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+        "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend. Could Budapest be the next digital nomad hotspot?",
+        "published": "Sun, 15 Nov 2026 06:00:01 GMT",
+        "published_kst": "2026-11-15T15:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "SNDL: The Earnings Potential Hidden Within Its U.S. Investments (NASDAQ:SNDL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2ZwVmxMUk1BS3JfTWtzZjIwcUc5VWE5TGhfYUo2RFJBYkV0cU15UTdfS09DOUxJS1VOS0czaFJ0cUtoVHUzWDFMVk9BR1V0NDBMeElsSktjS21zVGlibi12d3VuaTMzSXpWNVRyb2FXQzVyQS0tVnlfYkk2VUZnOWJTcGpxaHB2WlJYcHlESUEzbFBDOUtMVVZ5d2dTV3FkTGI0?oc=5",
+        "summary": "Investments (NASDAQ:SNDL) Seeking Alpha SNDL: The Earnings Potential Hidden Within Its U.S. Investments (NASDAQ:SNDL) - Seeking Alpha",
+        "published": "Sun, 15 Nov 2026 04:25:27 GMT",
+        "published_kst": "2026-11-15T13:25:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -19,56 +65,9 @@
         "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
         "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
         "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday. Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-        "published": "Sat, 14 Nov 2026 23:21:21 GMT",
-        "published_kst": "2026-11-15T08:21:21+09:00",
+        "published": "Sun, 15 Nov 2026 02:53:59 GMT",
+        "published_kst": "2026-11-15T11:53:59+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "SpaceX catches upper stage of Starship rocket in historic first",
-        "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
-        "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket. SpaceX catches upper stage of Starship rocket in historic first",
-        "published": "Sat, 14 Nov 2026 23:10:14 GMT",
-        "published_kst": "2026-11-15T08:10:14+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "$180 million Van Gogh tests the art market and collector confidence",
-        "url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
-        "summary": "The art auctions in New York next week could top $2 billion, as a treasure trove of masterpieces comes to the market for the first time in decades. $180 million Van Gogh tests the art market and collector confidence",
-        "published": "Sat, 14 Nov 2026 22:34:07 GMT",
-        "published_kst": "2026-11-15T07:34:07+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$180",
-          "$2"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "NEAR declines with US inflation surprise and Fed warning reducing crypto demand - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjRnMmY2RUNCaGJsQXRfdV91N2pZd2pJdU5ISDNWcWZjSm5lbWpMdW1lU3dpb0ZndTVoVlBBQ09XaVBuT0xvaHdYTUR3bldUUml6UWltNW1VVHNwQnVOTTZocFVlMzJpQXM3ZDIxOHliY1ZacGl3ZlZfSk5obndhSTFOQlJqTWJVUDBtTV9MLXB0NEFs?oc=5",
-        "summary": "NEAR declines with US inflation surprise and Fed warning reducing crypto demand Traders Union NEAR declines with US inflation surprise and Fed warning reducing crypto demand - Traders Union",
-        "published": "Sat, 14 Nov 2026 21:35:24 GMT",
-        "published_kst": "2026-11-15T06:35:24+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Are Trump Officials Living in an Alternate Reality? - Politico",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZy0tc3pUNXk0UnZmVEkxUUlXa3hwN2FDTnZWT1NwT1lqalp3dm9CckxFYW15N1J2YVhjN1VGMGtQb216LWp2S05BQkZvTFRJMUQ4b094WXhORjhsTkdQMDRzbkExZWZjcXNXeVpldDVKQW8zeTVCdC1kNUVYcXBxeHRwbWcyejV3cXFBMDVENW9CU0FGZm9SRlpCSHAwZ2pU?oc=5",
-        "summary": "Politico Are Trump Officials Living in an Alternate Reality?",
-        "published": "Sat, 14 Nov 2026 20:44:08 GMT",
-        "published_kst": "2026-11-15T05:44:08+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -76,33 +75,33 @@
     ],
     "kr": [
       {
-        "title": "한국마사회, 과천 취약계층에 김장 나눔…천만 원 후원 - BBS불교방송",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WYU5FdDQxbGZEZmdmb0FRcHlIR3A5cDJzMVVOV0R6dTBPLVRhUVhFVVdBOHFkZEhYa2tLVkVITldObW1wLU9Yb1JGNW9MLWJJTEFpOFVZT3R3YTVJRmh3SV9jNTI0NFlBV1pF?oc=5",
-        "summary": "한국마사회, 과천 취약계층에 김장 나눔…천만 원 후원 BBS불교방송 한국마사회, 과천 취약계층에 김장 나눔…천만 원 후원 - BBS불교방송",
-        "published": "Sun, 15 Nov 2026 01:12:28 GMT",
-        "published_kst": "2026-11-15T10:12:28+09:00",
+        "title": "올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10R0FLZWJSRWxLMDRFbGU3U1BxQV82dmFhbGt2N0FNRVdiRzlvaTBOdmRtRndNQUxNZjlOU3FXbUtwY0xFX2F6UTEyOEt6bDR3OTlVdFMxSjd5dw?oc=5",
+        "summary": "올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] 한국경제 올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] - 한국경제",
+        "published": "Sun, 15 Nov 2026 08:30:16 GMT",
+        "published_kst": "2026-11-15T17:30:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "실용주의 덫에 갇힌 개혁: 대전환기 한국 정치가 나아갈 길 - 현장언론 민플러스",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14ZVhkRHJxSHF6Y2tEVGduTXZXS0VMTUI5NjZtbnF0cG5mYXBMQVRGeVhMQmliRVVURU56SVVOQm05OUVienplQ2dUWE1GTXFCUEk4VlJQSTU0M1p1cmlvWU42WVdSd0hXeDlmYjR3?oc=5",
-        "summary": "실용주의 덫에 갇힌 개혁: 대전환기 한국 정치가 나아갈 길 현장언론 민플러스 실용주의 덫에 갇힌 개혁: 대전환기 한국 정치가 나아갈 길 - 현장언론 민플러스",
-        "published": "Sun, 15 Nov 2026 00:52:13 GMT",
-        "published_kst": "2026-11-15T09:52:13+09:00",
+        "title": "예전만 못한 TDF 수익률…성과 보여주는 '샤프지수' 보라 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QSk5xb1UwSGNHUjBSbmNreFFOcWl4d2d3NWdkenQ5VjRrb0xEYk9HOGVRZEhQb19oRTlLWmFKbHl2R1VSVjZ0TmFGQTF4Y1RMaWhvMjRLUFl4QQ?oc=5",
+        "summary": "예전만 못한 TDF 수익률…성과 보여주는 '샤프지수' 보라 한국경제 예전만 못한 TDF 수익률…성과 보여주는 '샤프지수' 보라 - 한국경제",
+        "published": "Sun, 15 Nov 2026 08:27:56 GMT",
+        "published_kst": "2026-11-15T17:27:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "김민석 취임 100일도 전에…커지는 與 집안싸움 [여의도는 지금] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yWEdYY0xpS1l4YnpDMExuVlJPaTJONTBfSmRfN2ZLZWpuUm5CVWFyLWNmNTFKbDZmX3VieXlsM3VyTEdhWW0zQV9jeE9qU0dRVzhxUi16eUNWQQ?oc=5",
-        "summary": "김민석 취임 100일도 전에…커지는 與 집안싸움 [여의도는 지금] 한국경제 김민석 취임 100일도 전에…커지는 與 집안싸움 [여의도는 지금] - 한국경제",
-        "published": "Sun, 15 Nov 2026 00:20:29 GMT",
-        "published_kst": "2026-11-15T09:20:29+09:00",
+        "title": "\"AI 기술 발전할수록 가장 필요한 건 사람\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1teEptblVTNm5VNDIxTGgtRVQ0c1AwakRTMU9zdUNKdXpjdzJUNG54M2xlUGRKRUhpTDVKOXYwRU1jalpQU3JIdnRVWVBxUXVieGxYRUJlX0RoQQ?oc=5",
+        "summary": "\"AI 기술 발전할수록 가장 필요한 건 사람\" 한국경제 \"AI 기술 발전할수록 가장 필요한 건 사람\" - 한국경제",
+        "published": "Sun, 15 Nov 2026 08:26:38 GMT",
+        "published_kst": "2026-11-15T17:26:38+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -122,6 +121,17 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
+        "title": "Industrial AI Value Cube: Framework for AI Opportunities - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUJXZDR0bFYxWkpBckFUQ2RPQmlNcUpRRllUMm1jM0hSaUk5N3Npcld6X2l0a1NHeG43bllxbVFaRWpHRFdQbFBoZkdxQS1NN2lLdkMyRGpQN2pQZFc5bTd3YTk1YU5jdWRkbWN5aXVRQW1ZLWxFWmlLNkR3NGZQSFdoRjZPa0NTQVhndkFnOGs2R2RhTHVwSl9fWjgwUFNDSDYwbzU2RUhaMU9sa2xGQ0VWc01YUVdnVjl5MzdzTW03VFcyWHc?oc=5",
+        "summary": "Industrial AI Value Cube: Framework for AI Opportunities Supply & Demand Chain Executive Industrial AI Value Cube: Framework for AI Opportunities - Supply & Demand Chain Executive",
+        "published": "Sat, 14 Nov 2026 21:33:37 GMT",
+        "published_kst": "2026-11-15T06:33:37+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
         "title": "Jabil Integrates Five Supply Chain Companies Into Unified Platform - Supply & Demand Chain Executive",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWtkM3UwZ0pGbVljQ0taSGVVT0FKU05kMDdIV3ozelJYbHhKa0VOdGhQNGJ3SlBOaHp4TlhRdFFyam8xdXFhYW5ZVks2YU82UlhrZ3ZUQUpwMWhZT29velE3ZE1XZi1aZ2lwMVJSN2lkQ2ZTa1B1SmduVUdPUWc5U2FfdU1NN1dzTjFyUWYzOXRWWGN6VTBpeUpWdlVoY0ZIREVEb0hQYXRXTzZBdVVXREFQTWNtbXJOdndTMmUzTVd4MXBxeGJnaEtqY25FbjN4WkZSVTBR?oc=5",
         "summary": "Jabil Integrates Five Supply Chain Companies Into Unified Platform Supply & Demand Chain Executive Jabil Integrates Five Supply Chain Companies Into Unified Platform - Supply & Demand Chain Executive",
@@ -131,20 +141,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Indonesia Nickel Supply Chain China Processing Risk - Rare Earth Exchanges",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0lBRUtmQ0dsSWp0dEs2Um1UcnYzdUJFQUJEaEVMY2RhRW9tbU9SZHRGR2RxS2x1R1o3WmY3ZjVvMUFPM0doN1psOWNqX0xyZ1RLRzlyeGNEZVFjeHpJcGF5aVNjcWZudVF6cWNIcXlPN3p6bjZlRE9kSS1IODJ5bA?oc=5",
-        "summary": "Indonesia Nickel Supply Chain China Processing Risk Rare Earth Exchanges Indonesia Nickel Supply Chain China Processing Risk - Rare Earth Exchanges",
-        "published": "Sat, 14 Nov 2026 11:25:38 GMT",
-        "published_kst": "2026-11-14T20:25:38+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Our White House correspondent Maggie Haberman explains what’s behind the president and former Nvidi Facebook President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago. President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago. / 한국마사회, 과천 취약계층에 김장 나눔…천만 원 후원 BBS불교방송 한국마사회, 과천 취약계층에 김장 나눔…천만 원 후원 - BBS불교방송 / Wheat Supply Chain: Farmers, Families and the River System U.S. Wheat Associates New USW Video Project Highlights U.S.",
+  "wrap_summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang. Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business / 올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] 한국경제 올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] - 한국경제 / Wheat Supply Chain: Farmers, Families and the River System U.S. Wheat Associates New USW Video Project Highlights U.S.",
   "invest_summary": ""
 }
