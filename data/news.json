@@ -1,70 +1,70 @@
 {
   "date": "2026-11-16",
-  "generated_at_utc": "2026-11-15T16:53:22Z",
-  "cutoff_kst": "2026-11-16T01:53:00+09:00",
+  "generated_at_utc": "2026-11-15T19:15:57Z",
+  "cutoff_kst": "2026-11-16T04:15:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+        "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+        "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours. 'We slept here': Flight delays linger but schedule is back on track for Monday",
+        "published": "Sun, 15 Nov 2026 18:22:23 GMT",
+        "published_kst": "2026-11-16T03:22:23+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+        "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+        "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+        "published": "Sun, 15 Nov 2026 18:15:14 GMT",
+        "published_kst": "2026-11-16T03:15:14+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
         "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
         "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter. Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-        "published": "Sun, 15 Nov 2026 16:49:11 GMT",
-        "published_kst": "2026-11-16T01:49:11+09:00",
+        "published": "Sun, 15 Nov 2026 18:10:18 GMT",
+        "published_kst": "2026-11-16T03:10:18+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "CPI | US Senator Pushes for Review of Nvidia’s ‘Too Big to Fail’ Risks - PYMNTS.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTk0zU2w4STlJNFBWWEh6T29JeXEzeUdpOUJkbmdwZk41cG1neUlLakhrRE1tWFdHRkFadmhtVktRSUlRWGpnbnppZnZYRExlcmhhVW9yOGxWZEh0UEpsRXRLTFNhd19QS2o1SnpVbUczVzdCSHk2TU1mZVduUy0yc09GclJjNDloSW9IYVBkMEY2YllyTmR0Ymtfcw?oc=5",
-        "summary": "CPI | US Senator Pushes for Review of Nvidia’s ‘Too Big to Fail’ Risks PYMNTS.com CPI | US Senator Pushes for Review of Nvidia’s ‘Too Big to Fail’ Risks - PYMNTS.com",
-        "published": "Sun, 15 Nov 2026 16:15:17 GMT",
-        "published_kst": "2026-11-16T01:15:17+09:00",
+        "title": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2xkYzJvbzJ4WTRvNnJsY2tQNHIwOTVjYmZENlJnQ1JXT0ZyMzFtUXowdTRPanYxa19rV3pZRkJ1dmxkUUk0WGR3RFk2RlJpdlBlQkhQU3NsSzJEWEUxYW1qZ044SEhXQ2JLSlB6Y08wZS1NZ0tGSjZZMC1fYktldy10Vk00YTRvWlRsTWxQVGJvaEJqeGYyVjZKWnFHSTg?oc=5",
+        "summary": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline The New York Times Embattled Federal Employees Look to a Democratic Congress for a Lifeline - The New York Times",
+        "published": "Sun, 15 Nov 2026 17:09:23 GMT",
+        "published_kst": "2026-11-16T02:09:23+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "3 big things we're watching in the stock market in the week ahead",
-        "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-        "summary": "Nvidia and Anthropic will share the spotlight in a pivotal week for the AI trade. 3 big things we're watching in the stock market in the week ahead",
-        "published": "Sun, 15 Nov 2026 15:26:20 GMT",
-        "published_kst": "2026-11-16T00:26:20+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump demands more money from Congress to upgrade air traffic control system - Toledo Blade",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTDRMdWhZZUdnVFZVUVpQQ1BZekoyQ2J1Z1AxaHdoLWhpZmpVZWxnNWh3c1RvS3RaZ1lOZllhb0RXeEllZ0Jxc25tN3U5bS1IcWJWeW9OYjZMT0hmWHY4T3VzZXFEWDRPM1AwMVVHWVBMMDZhT212bzdXM1M0TURKcDJpejdMNGh0eFBqMnNxZGtWcnJfeG54bVJoTGRjU0l4S0U3eVBsTU5MT0lNZlpWdU1rS2dqbTJMTnFwemJCVVpFbDQ4STBnVFo3cmprU00?oc=5",
-        "summary": "Trump demands more money from Congress to upgrade air traffic control system Toledo Blade Trump demands more money from Congress to upgrade air traffic control system - Toledo Blade",
-        "published": "Sun, 15 Nov 2026 14:47:19 GMT",
-        "published_kst": "2026-11-15T23:47:19+09:00",
+        "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress - PBS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5",
+        "summary": "Trump breaks silence on nationwide ground stop and demands more money from Congress PBS Trump breaks silence on nationwide ground stop and demands more money from Congress - PBS",
+        "published": "Sun, 15 Nov 2026 16:32:43 GMT",
+        "published_kst": "2026-11-16T01:32:43+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-        "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-        "summary": "Democrats advocated taxing high earners to shore up Social Security in the runup to the midterms. Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-        "published": "Sun, 15 Nov 2026 14:30:01 GMT",
-        "published_kst": "2026-11-15T23:30:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Bagley Cartoon: MAGA semantics, Russia-Ukraine talks, White House transparency, Utah Legislature - The Salt Lake Tribune",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONURWclJKVXJhM29TeTZwQzczQ3RkYzJ3Y0lRVGFKTUFSNnkxWlhzOUFhTmR3VG1ncEFaYjRPY0ZiLWhaQUVxY1ZvSWpvY3daTnVXbG5xSWhQV3ZnWHd1NzJQOUNZOGFya2QwTmtRMzl4X1lIZmhkNWpfRm5Uek95Y0VGX1c3Zw?oc=5",
-        "summary": "Bagley Cartoon: MAGA semantics, Russia-Ukraine talks, White House transparency, Utah Legislature The Salt Lake Tribune Bagley Cartoon: MAGA semantics, Russia-Ukraine talks, White House transparency, Utah Legislature - The Salt Lake Tribune",
-        "published": "Sun, 15 Nov 2026 13:04:08 GMT",
-        "published_kst": "2026-11-15T22:04:08+09:00",
+        "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPME5DNEdPT1FoZElNRGcxQjRUWTBBa3kwOVJVVzZxSktLR0xWc3VDSS01aWdSeTM3eTBveWkyRVlXN2ROampMWUxyd2tqc1ZvLXBYalp3Z3QyWHJRVlh2bVk2Y3FMcTZ6Uk9IbHFNaVdMaTltaE5rSzlsYlhwczV3SnBfb0ZlS0lURnN6S1hjek5tc2hvRjFrUC14dkRLOWtDZldibA?oc=5",
+        "summary": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage The Guardian Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage - The Guardian",
+        "published": "Sun, 15 Nov 2026 16:20:00 GMT",
+        "published_kst": "2026-11-16T01:20:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,33 +73,33 @@
     ],
     "kr": [
       {
-        "title": "이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90aF9iR3lvVjBiQjRPa2tMMEREV3FpNjJZZGJJOEFuN2ItR3ZaNHVhQXhjTWRiNGtIYzVwajV1UXg0VTRDUWhZYXdMSlI2alhrcjI4Yk0xTzJ2ODdtVzhpMWIwbnJrMWIyck1J0gFwQVVfeXFMT0ZqbEIyOGxTdjI5SHN3ck9zU1A4aWJUaENqSmZNTklDMlNOVDZWWU1ONlI5dGhCNUZqUElpT19pLXp2Tl9VeUtmQlFOQ2p6VTdISWNIV1Ztd1dLcnpZSVV3RlViNkcyS3pPdWx4NkNoTQ?oc=5",
-        "summary": "이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이 머니투데이 이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이 - 머니투데이",
-        "published": "Sun, 15 Nov 2026 16:27:27 GMT",
-        "published_kst": "2026-11-16T01:27:27+09:00",
+        "title": "가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVUtzU2J5T3dNSGRlRnF4QW9LU2o5Y3ZMamRyWHZYT0p4N3JrSHFWemtyRGFvb1ZjamFpZlRhd1M3UEVDTlRTVXJndFhVYVUtOXJLSS1OWFBHX3Q5c0dVR0twb2NjVk5HbUJR0gFwQVVfeXFMT1FNUWhzcHd0NFFMeUxEMlVhQ2FWclUtTm1TZWVtNV84RmJoeFpmcGVNZ3Rkd1NXU2lDTDBFLVN2cUpuNkJlbnFJM0hlVlktdUU5ZnZ4ZGRXZXV2ZGtXRUJZUXNBS1JwTE1JOEVhdE55SQ?oc=5",
+        "summary": "가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 머니투데이 가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 - 머니투데이",
+        "published": "Sun, 15 Nov 2026 19:00:00 GMT",
+        "published_kst": "2026-11-16T04:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'오락가락 美반도체 규제' 뒤엔 젠슨 황 그녀? - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QZ20tak1GUkRLbG1ZZHcxeU9rZlB0bkFLcFNGNGF4OGs0aXNjem5leEJERFVVa0Y4QUY1VjcwejBpOVZzb2x2WHR2UWVGNElPY3FfSDhHeGV0Zw?oc=5",
-        "summary": "한국경제 '오락가락 美반도체 규제' 뒤엔 젠슨 황 그녀?",
-        "published": "Sun, 15 Nov 2026 16:04:00 GMT",
-        "published_kst": "2026-11-16T01:04:00+09:00",
+        "title": "\"한국만 남는 장사\" 청구서 날아드나…수출 '1조달러의 저주' 피하려면 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UdU0wdWJHaVZ6dWJJY3g1M1ZQY1duNWxiemxBUlhDZ0E0cmQ4eUNSYjFCdF9qS3NfYnhEWDNtLWRVQ1hXbk1Pekx2V1Q3T20xQXRpTjBtenlJRDBLRm13UWZMUV9kU3VlNE43SUVIbmdQZ1ptZFRkVtIBfkFVX3lxTE5wQjFLUXBHejNicEp3UVlmUzcyd1ZMb1I5MWRXSE1JV2lXU01xdF9FRE5DLTlQMnAyb1hoV0lVNzBDUV9KaU4xWVRWYWdVWjZYTHZTdjdpalF5QURLRlJDNnJ2R1RjRXZRaHN3SG5GbV9UYURkYW9acFR2XzFrdw?oc=5",
+        "summary": "\"한국만 남는 장사\" 청구서 날아드나…수출 '1조달러의 저주' 피하려면 - 머니투데이 머니투데이 \"한국만 남는 장사\" 청구서 날아드나…수출 '1조달러의 저주' 피하려면 - 머니투데이 - 머니투데이",
+        "published": "Sun, 15 Nov 2026 19:00:00 GMT",
+        "published_kst": "2026-11-16T04:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6a3hleTlpWnM1YXNZWklSY2xVc3JuMWZKZ3lpQXhfQ1BHMkdkeWxHTENwY2JMTEpzLVJ4Y3llZzh2MFU1ajZHeUtBa0FZU0hKWXJ5WVBWTXRrUQ?oc=5",
-        "summary": "뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일 한국경제 뱀 잡아 팔던 나라가 반도체 강국으로…80년 만에 벌어진 일 - 한국경제",
-        "published": "Sun, 15 Nov 2026 16:03:00 GMT",
-        "published_kst": "2026-11-16T01:03:00+09:00",
+        "title": "“한국은 길 찾기 너무 어려워” 외국인 불만 쏟아졌는데…20년만에 규제 풀렸다 - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oYWRCVXlQV0VSQ0R1VTluSnVSLWN2Wmo2di00elFPUzdRQ2o0LXRRWFhIM1pTbjFqX3VoTXJJZDQ1OEg4T2JvZ0MxMVFPV1NQY2fSAVNBVV95cUxNTjZUenR1VHpZemQ3QU9RenRnNTQtREdhVll4eE5MSTIyOUlmS09XSk1JSjVRbmZMcVBBdTRFckdqNWxnN2s2U1NVcFJOeC00V25Lbw?oc=5",
+        "summary": "“한국은 길 찾기 너무 어려워” 외국인 불만 쏟아졌는데…20년만에 규제 풀렸다 서울경제 “한국은 길 찾기 너무 어려워” 외국인 불만 쏟아졌는데…20년만에 규제 풀렸다 - 서울경제",
+        "published": "Sun, 15 Nov 2026 17:00:00 GMT",
+        "published_kst": "2026-11-16T02:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -107,6 +107,19 @@
       }
     ],
     "world": [
+      {
+        "title": "Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims - Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmN2UlhlUk50dklpZ2ItVTRyZThGalpaR2ZUVE1RR1JLcU9kTkFlcm5CbmJUUjIxMk5uTTQxMW5jT3lMVXRfSEtzTldQNEF6SEZ2XzgtVkx1a3pEbkpGMFhDWTVMSjU0TlVVZ0QwNkt0cV9SbW83MnRoSlk2ZW9ldU43NFE3UEJRNEMtUGxfeXQxMngwVkFlbVFyOWxudXRMUDh5Q3BfbDdVUVZaczZJUU1jbVh0cFQtTTFnY0FJa2QzZw?oc=5",
+        "summary": "Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims Anadolu Ajansı Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims - Anadolu Ajansı",
+        "published": "Sun, 15 Nov 2026 17:06:05 GMT",
+        "published_kst": "2026-11-16T02:06:05+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2025"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "ASEAN Summit Opens In Manila Amid Energy And Trade Disruptions - Forbes Middle East",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdk82RFBZdnVVWGFvR0wyUzlRNmpfZHJZay1uOEwxWVI1alhOUElTU2dtam5jSm5ja0hrZkhKSGRnNHp5M3h0ZFRCU08zeGYxUFd5X0NyVUNuaFdMd0VQRm9jcEQwbHVpWmhyRkt5c2xmRzNVXzJKM3ZyZzVlU1h2dmJSeGV5U0djdUhLdkV2NXJCM1c5ZDdOXzhvYk9oZ3JucWhuelZteHVJS3pWbG5iVk53RjdGeVVTZ05J?oc=5",
@@ -130,20 +143,9 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Megaspeed rejects claims over supply chain, says Alice Huang no longer with firm - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEFKZ2hjOTBhbXVBN2luVHZHdnVTNThGcUx1WnFJYVNhektVXzB2RzkzM0E5aDR6ajRKZzlLd25aS0ZjakZpdUwxU2ZhcVBfRmN0SWpRRngxN0ZBb3FBMnk3S1ZHTUNITWJTR2xlc3BaRHZzZHJBdGN5c0xsMlVvMDRlcnl4bE5fN3dBbm9iemV1SlBWay1TeUIxbGlmRnQ5VU1CSmJpU0YxR1lGcHJNYUZmNA?oc=5",
-        "summary": "Megaspeed rejects claims over supply chain, says Alice Huang no longer with firm South China Morning Post Megaspeed rejects claims over supply chain, says Alice Huang no longer with firm - South China Morning Post",
-        "published": "Sun, 15 Nov 2026 10:10:34 GMT",
-        "published_kst": "2026-11-15T19:10:34+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter. Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO / 이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이 머니투데이 이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이 - 머니투데이 / ASEAN Summit Opens In Manila Amid Energy And Trade Disruptions Forbes Middle East ASEAN Summit Opens In Manila Amid Energy And Trade Disruptions - Forbes Middle East",
+  "wrap_summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours. 'We slept here': Flight delays linger but schedule is back on track for Monday / 가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 머니투데이 가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 - 머니투데이 / Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims Anadolu Ajansı Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims - Anadolu Ajansı",
   "invest_summary": ""
 }
