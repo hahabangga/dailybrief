@@ -1,15 +1,59 @@
 {
   "date": "2026-11-15",
-  "generated_at_utc": "2026-11-15T08:33:29Z",
-  "cutoff_kst": "2026-11-15T17:33:00+09:00",
+  "generated_at_utc": "2026-11-15T12:59:37Z",
+  "cutoff_kst": "2026-11-15T21:59:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+        "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+        "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours. 'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+        "published": "Sun, 15 Nov 2026 12:51:28 GMT",
+        "published_kst": "2026-11-15T21:51:28+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "‘I want nothing to do with politics’: Dana White shuts down political future after Trump’s press secretary offer - Yahoo Sports",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemgwUkNKaUdIOXVaZzJ6Z0hkdUIxdVFudExnaEVTbFZrOWlBX3BpNnp5RWhGdFh2LS1YazhESDJ0bWh3cFRpenh5cy0tdGFCNVJoRmhveHZxOF80TEduMlRzVTZXN0dkODdSWlhKSFZmcW41OXNXLThvR3B5aXl1Y3dJenJEdXNC?oc=5",
+        "summary": "‘I want nothing to do with politics’: Dana White shuts down political future after Trump’s press secretary offer Yahoo Sports ‘I want nothing to do with politics’: Dana White shuts down political future after Trump’s press secretary offer - Yahoo Sports",
+        "published": "Sun, 15 Nov 2026 12:10:07 GMT",
+        "published_kst": "2026-11-15T21:10:07+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+        "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+        "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum. Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+        "published": "Sun, 15 Nov 2026 12:00:01 GMT",
+        "published_kst": "2026-11-15T21:00:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmgzajlTc2t4SmdLb1g1X3o1VWhhMlFTWnJ3Sk5sOW9JcDBUU0ZYU0tkX0s4M28za1ZVRGw0S1FlZEJVNXhVRGhwTjI5Um9HRzJxb0lRWk8yeE9pb3ZuQXk3a3F4WU1wNDRHcTQ5SV9jRnpHOHlOOGZBWUliVU16bThPM0R5OElKQk5hXzNGR2pZc3BFYTcxa2IxcVVoLWhNaTJobDR1RHhZa3B1dHotX0hId1NPajBKSjBRa3BZSHUtN2RrV084?oc=5",
+        "summary": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks Reuters Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Reuters",
+        "published": "Sun, 15 Nov 2026 11:55:31 GMT",
+        "published_kst": "2026-11-15T20:55:31+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
         "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
         "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang. Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
-        "published": "Sun, 15 Nov 2026 08:22:21 GMT",
-        "published_kst": "2026-11-15T17:22:21+09:00",
+        "published": "Sun, 15 Nov 2026 08:34:46 GMT",
+        "published_kst": "2026-11-15T17:34:46+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "2025"
@@ -18,56 +62,12 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago. Our White House correspondent Maggie Haberman explains what’s behind the president and former Nvidi - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX29KZ1JJTTNKaDZyR2pETjVxMVNoWkFweDNCZXpRdWs2SzRDSTZWdWNvVFdBdmVBbWJBdEh1TDZPZkpUOFFkMkE1a1IzTkNPVk1rOG1JekhQNTY0YmdJem9MNkFRVy1jME9SenVxYnU0aE9vV1pUUWxRX2dlTlUzbDU1Yzl0Q2MwX1NiVEE1UmE5RDRNN1Z1aDVwV1QxWENkdEFESmM0ZjJFcjIyRnRGX0cwVU01WkRUeWJORjY2ajFZcFNHVVdjX2JNS0hLN2ItV3Iw?oc=5",
-        "summary": "Our White House correspondent Maggie Haberman explains what’s behind the president and former Nvidi Facebook President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago. President Trump’s show of support for Jensen Huang as he was under fire was a noteworthy moment in a relationship that barely existed two years ago.",
-        "published": "Sun, 15 Nov 2026 06:56:03 GMT",
-        "published_kst": "2026-11-15T15:56:03+09:00",
+        "title": "Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen - The Daily Beast",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHBwM3dCUWhmS0lXTFZpcG56S3RTSkg1NGhqcjRoX1FsRTZJODhfSFVvMUhWTVllNlRUMGpWSFpTR3U0VE1HclpiaTYzMHFYWkFxWG9qYy0tQ2cxYXh5ZjZEdDVrQkVGZmo5cEhlRDlVSFJiUDZlMWthM0ctRU1EUHZwRlJDRENieW5OekFhZ3VxSDZZRlI0QVNERnVQemRpOEVz?oc=5",
+        "summary": "Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen The Daily Beast Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen - The Daily Beast",
+        "published": "Sun, 15 Nov 2026 08:13:06 GMT",
+        "published_kst": "2026-11-15T17:13:06+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "3 US Bank Stocks Worth Watching As Higher Interest Rates Reshape Earnings - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTFQM29MVnVPbmM4NGlTR29sNGwxTURUNWFaZDRKMzl2UFJXNEM2X1RTUmhlalU3emNhdnYtU1pILVhWRWN6N3VzbEZWWEZmMmlCVHhBbjVRZ3BndVRoWi1NWlZBSnVWckV5X2F3czN6aUZLelA3UHlEZ2FMSXNBUlZrUEVfS1lmWnN2bjhUOEY?oc=5",
-        "summary": "3 US Bank Stocks Worth Watching As Higher Interest Rates Reshape Earnings Yahoo Finance 3 US Bank Stocks Worth Watching As Higher Interest Rates Reshape Earnings - Yahoo Finance",
-        "published": "Sun, 15 Nov 2026 06:08:00 GMT",
-        "published_kst": "2026-11-15T15:08:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Could Budapest be the next digital nomad hotspot?",
-        "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-        "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend. Could Budapest be the next digital nomad hotspot?",
-        "published": "Sun, 15 Nov 2026 06:00:01 GMT",
-        "published_kst": "2026-11-15T15:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "SNDL: The Earnings Potential Hidden Within Its U.S. Investments (NASDAQ:SNDL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2ZwVmxMUk1BS3JfTWtzZjIwcUc5VWE5TGhfYUo2RFJBYkV0cU15UTdfS09DOUxJS1VOS0czaFJ0cUtoVHUzWDFMVk9BR1V0NDBMeElsSktjS21zVGlibi12d3VuaTMzSXpWNVRyb2FXQzVyQS0tVnlfYkk2VUZnOWJTcGpxaHB2WlJYcHlESUEzbFBDOUtMVVZ5d2dTV3FkTGI0?oc=5",
-        "summary": "Investments (NASDAQ:SNDL) Seeking Alpha SNDL: The Earnings Potential Hidden Within Its U.S. Investments (NASDAQ:SNDL) - Seeking Alpha",
-        "published": "Sun, 15 Nov 2026 04:25:27 GMT",
-        "published_kst": "2026-11-15T13:25:27+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-        "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-        "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday. Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-        "published": "Sun, 15 Nov 2026 02:53:59 GMT",
-        "published_kst": "2026-11-15T11:53:59+09:00",
-        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,33 +75,33 @@
     ],
     "kr": [
       {
-        "title": "올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10R0FLZWJSRWxLMDRFbGU3U1BxQV82dmFhbGt2N0FNRVdiRzlvaTBOdmRtRndNQUxNZjlOU3FXbUtwY0xFX2F6UTEyOEt6bDR3OTlVdFMxSjd5dw?oc=5",
-        "summary": "올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] 한국경제 올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] - 한국경제",
-        "published": "Sun, 15 Nov 2026 08:30:16 GMT",
-        "published_kst": "2026-11-15T17:30:16+09:00",
+        "title": "말러의 질문에 래틀이 천재적으로 답한 밤 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1heW1DX1E0LWtUNmt4Q3I4eEpid1pIT1U3dVB1ZTVFdEpvOFI0QnhaODJVNmFmYndjZ2VFTWFsa1NvRVo4Vmp4aDVEVUdFZkpUUHBDY25UYWpadw?oc=5",
+        "summary": "말러의 질문에 래틀이 천재적으로 답한 밤 한국경제 말러의 질문에 래틀이 천재적으로 답한 밤 - 한국경제",
+        "published": "Sun, 15 Nov 2026 12:33:00 GMT",
+        "published_kst": "2026-11-15T21:33:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "예전만 못한 TDF 수익률…성과 보여주는 '샤프지수' 보라 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QSk5xb1UwSGNHUjBSbmNreFFOcWl4d2d3NWdkenQ5VjRrb0xEYk9HOGVRZEhQb19oRTlLWmFKbHl2R1VSVjZ0TmFGQTF4Y1RMaWhvMjRLUFl4QQ?oc=5",
-        "summary": "예전만 못한 TDF 수익률…성과 보여주는 '샤프지수' 보라 한국경제 예전만 못한 TDF 수익률…성과 보여주는 '샤프지수' 보라 - 한국경제",
-        "published": "Sun, 15 Nov 2026 08:27:56 GMT",
-        "published_kst": "2026-11-15T17:27:56+09:00",
+        "title": "조정식 국회의장, 주한인도대사 접견…조선·방산 전략 협력 확대 및 기업 애로 해소 총력 - ㈜한국탑뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5SkQ2TkNHTi1FS09sNENtVWgtUzdVRG82dkJQQktXWGpvWTFKd3p3M1FqNTI2TW5xdk9LVzhQR3g4RjZULUd6M2xGZklqZnpzal9OQkZKN1NjaHUtZm9hSnRn?oc=5",
+        "summary": "조정식 국회의장, 주한인도대사 접견…조선·방산 전략 협력 확대 및 기업 애로 해소 총력 ㈜한국탑뉴스 조정식 국회의장, 주한인도대사 접견…조선·방산 전략 협력 확대 및 기업 애로 해소 총력 - ㈜한국탑뉴스",
+        "published": "Sun, 15 Nov 2026 10:33:36 GMT",
+        "published_kst": "2026-11-15T19:33:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"AI 기술 발전할수록 가장 필요한 건 사람\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1teEptblVTNm5VNDIxTGgtRVQ0c1AwakRTMU9zdUNKdXpjdzJUNG54M2xlUGRKRUhpTDVKOXYwRU1jalpQU3JIdnRVWVBxUXVieGxYRUJlX0RoQQ?oc=5",
-        "summary": "\"AI 기술 발전할수록 가장 필요한 건 사람\" 한국경제 \"AI 기술 발전할수록 가장 필요한 건 사람\" - 한국경제",
-        "published": "Sun, 15 Nov 2026 08:26:38 GMT",
-        "published_kst": "2026-11-15T17:26:38+09:00",
+        "title": "[심층분석] 반도체 밖에서 커지는 한국 수출의 새 축…호주·유럽·동남아로 확산되는 산업재·K-소비재 수출 구조 - 뉴스밸류",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZOXc3by02RnN4YmtDRXk1VDBhUWRxWWdpamdSR1dqQklXMVMwU1BrbWQwMkM2VGVVWnVCNmpTY0ZMSWJQdWNyV3Z6RjlPcHpqNDhvTTZ1bC1zZTNleXZSVXBQREY1eWRoaVE?oc=5",
+        "summary": "[심층분석] 반도체 밖에서 커지는 한국 수출의 새 축…호주·유럽·동남아로 확산되는 산업재·K-소비재 수출 구조 뉴스밸류 [심층분석] 반도체 밖에서 커지는 한국 수출의 새 축…호주·유럽·동남아로 확산되는 산업재·K-소비재 수출 구조 - 뉴스밸류",
+        "published": "Sun, 15 Nov 2026 10:33:27 GMT",
+        "published_kst": "2026-11-15T19:33:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +110,35 @@
     ],
     "world": [
       {
-        "title": "New USW Video Project Highlights U.S. Wheat Supply Chain: Farmers, Families and the River System - U.S. Wheat Associates",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ0lfOGlUc2N3TU5qNWN3ZnZvemo1MUxQZ2llbVNsandFaWNHWFB0N1A4UzBpV0prVDg2blFKR0NFcWFJcllwZ3B1UGJuNTRZcEpCWXUwOFVlM1dzU0RtNkdjTDhVbDlDdHFPTWY4R2FwRlB2dTNVSTJ0ajlzNU1jcXNXSC1JZS1hMUFIdGFaUDd5M1VfRER5MjB6THo3M09td0wtUmREcENPRVFqSlBVTE9YbHVuT2NXUHhjamdrbUFCcldr?oc=5",
-        "summary": "Wheat Supply Chain: Farmers, Families and the River System U.S. Wheat Associates New USW Video Project Highlights U.S.",
-        "published": "Sat, 14 Nov 2026 23:24:20 GMT",
-        "published_kst": "2026-11-15T08:24:20+09:00",
+        "title": "Why Sustainability Is No Longer A Choice, But A Business Imperative - BusinessToday Malaysia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUZja3g2TDh1b0p1b0dXVXpGSWhYajN6RWlVT0hHRjZsX2l3cVAxNVZxaVZVVXF3SjNzc2JhS0kwNThCLUdtQ1JJbjhTMEFldG5Md1otZHRhQzVPcmpVWTdzVlNxVTJfeXNqaUlxRWFUajd5MXpReEhVQ0hEYmNMZ0xQR2NJcVl4T3QxQldTUEVmY3ZxZ1FhT0hUUUhZVWRLMExKN3NhYVprdC1xLUZEaA?oc=5",
+        "summary": "Why Sustainability Is No Longer A Choice, But A Business Imperative BusinessToday Malaysia Why Sustainability Is No Longer A Choice, But A Business Imperative - BusinessToday Malaysia",
+        "published": "Sun, 15 Nov 2026 10:39:33 GMT",
+        "published_kst": "2026-11-15T19:39:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Industrial AI Value Cube: Framework for AI Opportunities - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWUJXZDR0bFYxWkpBckFUQ2RPQmlNcUpRRllUMm1jM0hSaUk5N3Npcld6X2l0a1NHeG43bllxbVFaRWpHRFdQbFBoZkdxQS1NN2lLdkMyRGpQN2pQZFc5bTd3YTk1YU5jdWRkbWN5aXVRQW1ZLWxFWmlLNkR3NGZQSFdoRjZPa0NTQVhndkFnOGs2R2RhTHVwSl9fWjgwUFNDSDYwbzU2RUhaMU9sa2xGQ0VWc01YUVdnVjl5MzdzTW03VFcyWHc?oc=5",
-        "summary": "Industrial AI Value Cube: Framework for AI Opportunities Supply & Demand Chain Executive Industrial AI Value Cube: Framework for AI Opportunities - Supply & Demand Chain Executive",
-        "published": "Sat, 14 Nov 2026 21:33:37 GMT",
-        "published_kst": "2026-11-15T06:33:37+09:00",
+        "title": "Bangladeshi firms lead 26 markets in supply chain shifts, 91% confident on trade expansion: HSBC survey - The Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUElNZEZ4TTFZQ2hzVmJ5UUY1cGpxSXFZSkliem0xZmpxbTZydElmTUpmdTBZa3JlUWpWV3NmaXhubHNxUWJuNm8yaGFTcFdTVklJWG1nS0YtN1lJSHBRNWVrMWp1aDZPOTBVcDVtOUF3WnoxWFJzNnd6ZXRNS0VTc01RTmxLMjFkOUQ4aWtzSnF5ZW9BREJPRkZWUE9OQndWN0FvcG40Zzd6YWllMkpnbk9XRlpCRjUycmhF?oc=5",
+        "summary": "Bangladeshi firms lead 26 markets in supply chain shifts, 91% confident on trade expansion: HSBC survey The Business Standard Bangladeshi firms lead 26 markets in supply chain shifts, 91% confident on trade expansion: HSBC survey - The Business Standard",
+        "published": "Sun, 15 Nov 2026 10:20:37 GMT",
+        "published_kst": "2026-11-15T19:20:37+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "91%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Jabil Integrates Five Supply Chain Companies Into Unified Platform - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWtkM3UwZ0pGbVljQ0taSGVVT0FKU05kMDdIV3ozelJYbHhKa0VOdGhQNGJ3SlBOaHp4TlhRdFFyam8xdXFhYW5ZVks2YU82UlhrZ3ZUQUpwMWhZT29velE3ZE1XZi1aZ2lwMVJSN2lkQ2ZTa1B1SmduVUdPUWc5U2FfdU1NN1dzTjFyUWYzOXRWWGN6VTBpeUpWdlVoY0ZIREVEb0hQYXRXTzZBdVVXREFQTWNtbXJOdndTMmUzTVd4MXBxeGJnaEtqY25FbjN4WkZSVTBR?oc=5",
-        "summary": "Jabil Integrates Five Supply Chain Companies Into Unified Platform Supply & Demand Chain Executive Jabil Integrates Five Supply Chain Companies Into Unified Platform - Supply & Demand Chain Executive",
-        "published": "Sat, 14 Nov 2026 15:33:24 GMT",
-        "published_kst": "2026-11-15T00:33:24+09:00",
+        "title": "Megaspeed rejects claims over supply chain, says Alice Huang no longer with firm - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEFKZ2hjOTBhbXVBN2luVHZHdnVTNThGcUx1WnFJYVNhektVXzB2RzkzM0E5aDR6ajRKZzlLd25aS0ZjakZpdUwxU2ZhcVBfRmN0SWpRRngxN0ZBb3FBMnk3S1ZHTUNITWJTR2xlc3BaRHZzZHJBdGN5c0xsMlVvMDRlcnl4bE5fN3dBbm9iemV1SlBWay1TeUIxbGlmRnQ5VU1CSmJpU0YxR1lGcHJNYUZmNA?oc=5",
+        "summary": "Megaspeed rejects claims over supply chain, says Alice Huang no longer with firm South China Morning Post Megaspeed rejects claims over supply chain, says Alice Huang no longer with firm - South China Morning Post",
+        "published": "Sun, 15 Nov 2026 10:10:34 GMT",
+        "published_kst": "2026-11-15T19:10:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang. Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business / 올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] 한국경제 올해 마지막 연준 회의…'빅스텝' 확률 얼마나 되나 [한상춘의 국제경제 읽기] - 한국경제 / Wheat Supply Chain: Farmers, Families and the River System U.S. Wheat Associates New USW Video Project Highlights U.S.",
+  "wrap_summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours. 'We slept here.' Flight delays linger as airlines scramble to recover from ground stop / 말러의 질문에 래틀이 천재적으로 답한 밤 한국경제 말러의 질문에 래틀이 천재적으로 답한 밤 - 한국경제 / Why Sustainability Is No Longer A Choice, But A Business Imperative BusinessToday Malaysia Why Sustainability Is No Longer A Choice, But A Business Imperative - BusinessToday Malaysia",
   "invest_summary": ""
 }
