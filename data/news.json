@@ -1,15 +1,61 @@
 {
   "date": "2026-11-16",
-  "generated_at_utc": "2026-11-15T19:15:57Z",
-  "cutoff_kst": "2026-11-16T04:15:00+09:00",
+  "generated_at_utc": "2026-11-16T01:26:35Z",
+  "cutoff_kst": "2026-11-16T10:26:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+        "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+        "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war. Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+        "published": "Mon, 16 Nov 2026 01:02:48 GMT",
+        "published_kst": "2026-11-16T10:02:48+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "AU Morning Wrap | ASX 200 edges lower on US inflation and rate hike concerns - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFh2OFZ2U256TDQ5eGxxZTBwNU9ZeFBxQzVQdnc5QlUxcTg1Zk9hM09LLW9oZFlZYUtvR2xOc3p2djBrWGQ0S29HTW5oZFcxRDJKWWZHdmRtM0JXRk9mVlUxdUIxLXY0bVpNYWhtX0pRcGVtVnVBMHA5UXZDdW05VWp1dXpjQU5YQm9WVTVVcDVxOXZVUE1hZEJLWjBiOU5TYjM4YmRBYjM?oc=5",
+        "summary": "AU Morning Wrap | ASX 200 edges lower on US inflation and rate hike concerns Moomoo AU Morning Wrap | ASX 200 edges lower on US inflation and rate hike concerns - Moomoo",
+        "published": "Mon, 16 Nov 2026 00:30:41 GMT",
+        "published_kst": "2026-11-16T09:30:41+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "BlueScope reaffirms $1.1b half-year earnings outlook on stronger US operations - Capital Brief",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ1FrWVRpNFJuYkFFbFl0NjlPVm9PRDI4ZDNPaWR0U0IxMkFuRGhqUWVVcHA2ZUNRbXIxNXJ3VXBta3kyUkJjTmphMng0SnRPTjVRUkRqZ2txb1g4eE1KYkJZWXZ3Mzg1UVFUS281cm0tQVZfaGEtLUNPb3VXaVRhdnRKLVJxMmgtbTluVTE0eksxbnlDcU5fVXo1MHF1ODF4UHgzTHR4R2tDekNHLVZRbXVPUmhPOXFZam9oQXpnT3EtTTZWSzZiY01ab3pkcVB3TVBrWkxiWndmVzdxajVueXlrb3Fua0E?oc=5",
+        "summary": "BlueScope reaffirms $1.1b half-year earnings outlook on stronger US operations Capital Brief BlueScope reaffirms $1.1b half-year earnings outlook on stronger US operations - Capital Brief",
+        "published": "Mon, 16 Nov 2026 00:09:00 GMT",
+        "published_kst": "2026-11-16T09:09:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$1.1"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Can NEAR hold momentum with US inflation and rate hike concerns weighing on risk assets? - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdDNoZ3BsZHlYeVJDT0xYRERrcnh5UkZtQ0lrcGRrMG4yMU4tWTdyd3hHMXpncmE3aW9RRTVHTE56MEpTOTZLYjZ3Q3RfeUhVNFAtR1hXcG5hdDZQa3ZUeUdJR1hWbGRwS0k2dnJnQS1sX0taQWVma2s3VnBINEpncHlqcTJFNVIxQVJ0TnVVX19jU2JqalE?oc=5",
+        "summary": "Traders Union Can NEAR hold momentum with US inflation and rate hike concerns weighing on risk assets?",
+        "published": "Sun, 15 Nov 2026 23:37:21 GMT",
+        "published_kst": "2026-11-16T08:37:21+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
         "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
         "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours. 'We slept here': Flight delays linger but schedule is back on track for Monday",
-        "published": "Sun, 15 Nov 2026 18:22:23 GMT",
-        "published_kst": "2026-11-16T03:22:23+09:00",
+        "published": "Sun, 15 Nov 2026 22:33:26 GMT",
+        "published_kst": "2026-11-16T07:33:26+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -25,81 +71,37 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-        "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-        "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter. Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-        "published": "Sun, 15 Nov 2026 18:10:18 GMT",
-        "published_kst": "2026-11-16T03:10:18+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2xkYzJvbzJ4WTRvNnJsY2tQNHIwOTVjYmZENlJnQ1JXT0ZyMzFtUXowdTRPanYxa19rV3pZRkJ1dmxkUUk0WGR3RFk2RlJpdlBlQkhQU3NsSzJEWEUxYW1qZ044SEhXQ2JLSlB6Y08wZS1NZ0tGSjZZMC1fYktldy10Vk00YTRvWlRsTWxQVGJvaEJqeGYyVjZKWnFHSTg?oc=5",
-        "summary": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline The New York Times Embattled Federal Employees Look to a Democratic Congress for a Lifeline - The New York Times",
-        "published": "Sun, 15 Nov 2026 17:09:23 GMT",
-        "published_kst": "2026-11-16T02:09:23+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump breaks silence on nationwide ground stop and demands more money from Congress - PBS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQlN2bms3WThwX1hyY1pvcjVBa0FJeUNjaWE5Mll0MzNRVTZKUHltaDZwZlVLb3RtSHc3VjZEQzVkd29NbXpGZjdRTEQ5MjRTU3VMRWRiNHVjOUk3cU9jaUNzeGF3VWVyUDF0LW45bEZ4anNYcVRYQTNHVVd2OXZiY0s5ZWtMbnZlVlAxb1NkUjFyaFZtMTEwOXNiclMyM0VUOHVvWThCQnpzM2kxM1I3Q0k2QTltY0hMakJja3J30gHDAUFVX3lxTFBVMmdTSjk0cS12a29lalFrWVVtSXVHWFFycV9SS00yMTJvUGNYbVNkS01BV2o3ajFuR01xTmQ0MVhTYUhITGdQb0NGQzh0YVpacGVpWWZkRDhEYk5ValFhSjgwbUtNM3hTbkNTVjM5ZEswT2hHakZkRmZwRF9LTjBtUUJnX0g5QkJ5Y1ZPVGdldnJObEVBeHFmVTUxbllBLTJQQlc0ZF8tVG1wNXdhTURtTnBnTDN2MDBlNWdVTU1VWnFHdw?oc=5",
-        "summary": "Trump breaks silence on nationwide ground stop and demands more money from Congress PBS Trump breaks silence on nationwide ground stop and demands more money from Congress - PBS",
-        "published": "Sun, 15 Nov 2026 16:32:43 GMT",
-        "published_kst": "2026-11-16T01:32:43+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPME5DNEdPT1FoZElNRGcxQjRUWTBBa3kwOVJVVzZxSktLR0xWc3VDSS01aWdSeTM3eTBveWkyRVlXN2ROampMWUxyd2tqc1ZvLXBYalp3Z3QyWHJRVlh2bVk2Y3FMcTZ6Uk9IbHFNaVdMaTltaE5rSzlsYlhwczV3SnBfb0ZlS0lURnN6S1hjek5tc2hvRjFrUC14dkRLOWtDZldibA?oc=5",
-        "summary": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage The Guardian Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage - The Guardian",
-        "published": "Sun, 15 Nov 2026 16:20:00 GMT",
-        "published_kst": "2026-11-16T01:20:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LVUtzU2J5T3dNSGRlRnF4QW9LU2o5Y3ZMamRyWHZYT0p4N3JrSHFWemtyRGFvb1ZjamFpZlRhd1M3UEVDTlRTVXJndFhVYVUtOXJLSS1OWFBHX3Q5c0dVR0twb2NjVk5HbUJR0gFwQVVfeXFMT1FNUWhzcHd0NFFMeUxEMlVhQ2FWclUtTm1TZWVtNV84RmJoeFpmcGVNZ3Rkd1NXU2lDTDBFLVN2cUpuNkJlbnFJM0hlVlktdUU5ZnZ4ZGRXZXV2ZGtXRUJZUXNBS1JwTE1JOEVhdE55SQ?oc=5",
-        "summary": "가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 머니투데이 가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 - 머니투데이",
-        "published": "Sun, 15 Nov 2026 19:00:00 GMT",
-        "published_kst": "2026-11-16T04:00:00+09:00",
+        "title": "NH證 \"내년 달러-원 평균 1,345원…2분기 저점 후 반등\" - KB Think",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qc0VDdkZjMGRCQUJMN19sdnRjWnVFWHJCOXdPN3JTTmxwWV82OWF0UGlhMDZkNGktOXFUbFU1eUlfc2s1XzJrdVJkdVppOHd0OWl2RjdVbGtOOVM1Q2p1bGpXS25mZFNOVHhFbm1IMDNrZw?oc=5",
+        "summary": "NH證 \"내년 달러-원 평균 1,345원…2분기 저점 후 반등\" KB Think NH證 \"내년 달러-원 평균 1,345원…2분기 저점 후 반등\" - KB Think",
+        "published": "Mon, 16 Nov 2026 01:02:41 GMT",
+        "published_kst": "2026-11-16T10:02:41+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"한국만 남는 장사\" 청구서 날아드나…수출 '1조달러의 저주' 피하려면 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UdU0wdWJHaVZ6dWJJY3g1M1ZQY1duNWxiemxBUlhDZ0E0cmQ4eUNSYjFCdF9qS3NfYnhEWDNtLWRVQ1hXbk1Pekx2V1Q3T20xQXRpTjBtenlJRDBLRm13UWZMUV9kU3VlNE43SUVIbmdQZ1ptZFRkVtIBfkFVX3lxTE5wQjFLUXBHejNicEp3UVlmUzcyd1ZMb1I5MWRXSE1JV2lXU01xdF9FRE5DLTlQMnAyb1hoV0lVNzBDUV9KaU4xWVRWYWdVWjZYTHZTdjdpalF5QURLRlJDNnJ2R1RjRXZRaHN3SG5GbV9UYURkYW9acFR2XzFrdw?oc=5",
-        "summary": "\"한국만 남는 장사\" 청구서 날아드나…수출 '1조달러의 저주' 피하려면 - 머니투데이 머니투데이 \"한국만 남는 장사\" 청구서 날아드나…수출 '1조달러의 저주' 피하려면 - 머니투데이 - 머니투데이",
-        "published": "Sun, 15 Nov 2026 19:00:00 GMT",
-        "published_kst": "2026-11-16T04:00:00+09:00",
+        "title": "국민이 제안하고 국회가 입법 완성한다 - knpp.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE15VXM2c1M3VjVTbUJHcFpYVEw1aFVKZ3RZRWZUN3ZHVHNqUlM5QVEtUU8yRkhfTzBXanRLWHE4a0J4SWs?oc=5",
+        "summary": "국민이 제안하고 국회가 입법 완성한다 knpp.co.kr 국민이 제안하고 국회가 입법 완성한다 - knpp.co.kr",
+        "published": "Mon, 16 Nov 2026 01:01:49 GMT",
+        "published_kst": "2026-11-16T10:01:49+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "“한국은 길 찾기 너무 어려워” 외국인 불만 쏟아졌는데…20년만에 규제 풀렸다 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oYWRCVXlQV0VSQ0R1VTluSnVSLWN2Wmo2di00elFPUzdRQ2o0LXRRWFhIM1pTbjFqX3VoTXJJZDQ1OEg4T2JvZ0MxMVFPV1NQY2fSAVNBVV95cUxNTjZUenR1VHpZemQ3QU9RenRnNTQtREdhVll4eE5MSTIyOUlmS09XSk1JSjVRbmZMcVBBdTRFckdqNWxnN2s2U1NVcFJOeC00V25Lbw?oc=5",
-        "summary": "“한국은 길 찾기 너무 어려워” 외국인 불만 쏟아졌는데…20년만에 규제 풀렸다 서울경제 “한국은 길 찾기 너무 어려워” 외국인 불만 쏟아졌는데…20년만에 규제 풀렸다 - 서울경제",
-        "published": "Sun, 15 Nov 2026 17:00:00 GMT",
-        "published_kst": "2026-11-16T02:00:00+09:00",
+        "title": "No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd0h5U205NW5PeEpwXzhWZFcySkt1bWpSRWRid09DRUhXVVhELUFNeG1IOVlUQTJmTFlycy1hQXZTSDZrdG40RjBIVGlGX05FTDdkUUh6cldXUTdoWEF3cjk4cXZzbm85RHItNXVkaTZYRWVJaVh5SE51SDliX1ZxYjZiTG8zS01QMHh3TGpZWnp0aThVZTJoZ2R4N1c0bjlpUmpR?oc=5",
+        "summary": "No.1 경제·증권 채널 : @HKWOWTV 한국경제TV No.1 경제·증권 채널 : @HKWOWTV - 한국경제TV",
+        "published": "Mon, 16 Nov 2026 00:57:04 GMT",
+        "published_kst": "2026-11-16T09:57:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -108,44 +110,40 @@
     ],
     "world": [
       {
-        "title": "Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims - Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmN2UlhlUk50dklpZ2ItVTRyZThGalpaR2ZUVE1RR1JLcU9kTkFlcm5CbmJUUjIxMk5uTTQxMW5jT3lMVXRfSEtzTldQNEF6SEZ2XzgtVkx1a3pEbkpGMFhDWTVMSjU0TlVVZ0QwNkt0cV9SbW83MnRoSlk2ZW9ldU43NFE3UEJRNEMtUGxfeXQxMngwVkFlbVFyOWxudXRMUDh5Q3BfbDdVUVZaczZJUU1jbVh0cFQtTTFnY0FJa2QzZw?oc=5",
-        "summary": "Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims Anadolu Ajansı Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims - Anadolu Ajansı",
-        "published": "Sun, 15 Nov 2026 17:06:05 GMT",
-        "published_kst": "2026-11-16T02:06:05+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2025"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "ASEAN Summit Opens In Manila Amid Energy And Trade Disruptions - Forbes Middle East",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdk82RFBZdnVVWGFvR0wyUzlRNmpfZHJZay1uOEwxWVI1alhOUElTU2dtam5jSm5ja0hrZkhKSGRnNHp5M3h0ZFRCU08zeGYxUFd5X0NyVUNuaFdMd0VQRm9jcEQwbHVpWmhyRkt5c2xmRzNVXzJKM3ZyZzVlU1h2dmJSeGV5U0djdUhLdkV2NXJCM1c5ZDdOXzhvYk9oZ3JucWhuelZteHVJS3pWbG5iVk53RjdGeVVTZ05J?oc=5",
-        "summary": "ASEAN Summit Opens In Manila Amid Energy And Trade Disruptions Forbes Middle East ASEAN Summit Opens In Manila Amid Energy And Trade Disruptions - Forbes Middle East",
-        "published": "Sun, 15 Nov 2026 15:07:52 GMT",
-        "published_kst": "2026-11-16T00:07:52+09:00",
+        "title": "ASEAN seeks bigger role in critical minerals supply chain - Mining.com.au",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmlZQUo5ZWxLODAzVU5OT0lMT2ljLVZ2SUp0bnZSWUlSZHBzQUVybG9LeDVJRmtqZlZoM0ZnMFFaRkgybUx0Ui00XzdRXzJJNk1ESHhLbFpUa09mWDlVT1hSUjFYR3R2ZG5zMFJueVFnQ2JWdXRVLXNFWUZBd3FJYmpEYi13NkU?oc=5",
+        "summary": "ASEAN seeks bigger role in critical minerals supply chain Mining.com.au ASEAN seeks bigger role in critical minerals supply chain - Mining.com.au",
+        "published": "Sun, 15 Nov 2026 23:10:54 GMT",
+        "published_kst": "2026-11-16T08:10:54+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Bangladeshi firms lead 26 markets in supply chain shifts, 91% confident on trade expansion: HSBC survey - The Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUElNZEZ4TTFZQ2hzVmJ5UUY1cGpxSXFZSkliem0xZmpxbTZydElmTUpmdTBZa3JlUWpWV3NmaXhubHNxUWJuNm8yaGFTcFdTVklJWG1nS0YtN1lJSHBRNWVrMWp1aDZPOTBVcDVtOUF3WnoxWFJzNnd6ZXRNS0VTc01RTmxLMjFkOUQ4aWtzSnF5ZW9BREJPRkZWUE9OQndWN0FvcG40Zzd6YWllMkpnbk9XRlpCRjUycmhF?oc=5",
-        "summary": "Bangladeshi firms lead 26 markets in supply chain shifts, 91% confident on trade expansion: HSBC survey The Business Standard Bangladeshi firms lead 26 markets in supply chain shifts, 91% confident on trade expansion: HSBC survey - The Business Standard",
-        "published": "Sun, 15 Nov 2026 10:20:37 GMT",
-        "published_kst": "2026-11-15T19:20:37+09:00",
+        "title": "U.S., allies agree to coordinate AI supply chain security - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVmxsbFFvOEJyN0h6TnBXYlBka0xWbXM3QUdOcDRsVmhTM0dTTTZqdUxWOU5md0R5YXNoTlJ2WkhWRGU5S0ZZUnRwNjFhZnJ6UFNfZmhRdXRibUNIT09IbElxdWg3RHRGQW90aUhwZGJXQ19lS0JNNGt1RS1YR2xUbDlIWlhLNzlVWnB0bWM5ZWJhcGRFX2trRFZtckZJcE95a2w4Rkg2M0VaQUhsRElFbFFnRHd3REJOY2c?oc=5",
+        "summary": "U.S., allies agree to coordinate AI supply chain security TradingView U.S., allies agree to coordinate AI supply chain security - TradingView",
+        "published": "Sun, 15 Nov 2026 21:52:04 GMT",
+        "published_kst": "2026-11-16T06:52:04+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "91%"
-        ],
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Energy Constraints Threaten Supply Chain Growth: Gartner - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlc2WTVNMWIyVVVxUWRtSXVwREYya25hQzVmd2dXWFRHb0F5cktRaTRjNVJodFBMTWFkV1BOQjRFT1VfWWV4bk04eGplLUFYYjlGaXhKSkdtbUJzUXp1Y2VkNERfTmlLdXU4X3V3Y2VFZ1VRSUwwWTNIbk8waW14RnZFM1FmZDdNVzI2QTFPVy02UXNmNnFSMzh4QjBrMXFYd0tBWEE2eXdCaTROM0V1aV9ybElUSWZHdml0THdqemFBazQ?oc=5",
+        "summary": "Energy Constraints Threaten Supply Chain Growth: Gartner Supply & Demand Chain Executive Energy Constraints Threaten Supply Chain Growth: Gartner - Supply & Demand Chain Executive",
+        "published": "Sun, 15 Nov 2026 19:35:17 GMT",
+        "published_kst": "2026-11-16T04:35:17+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours. 'We slept here': Flight delays linger but schedule is back on track for Monday / 가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 머니투데이 가발 팔던 최빈국서 반도체 강국으로…80년 만에 수출 '1조달러' 눈앞 - 머니투데이 - 머니투데이 / Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims Anadolu Ajansı Megaspeed says Alice Huang left in 2025, launches internal probe over China chip claims - Anadolu Ajansı",
+  "wrap_summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war. Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite / NH證 \"내년 달러-원 평균 1,345원…2분기 저점 후 반등\" KB Think NH證 \"내년 달러-원 평균 1,345원…2분기 저점 후 반등\" - KB Think / ASEAN seeks bigger role in critical minerals supply chain Mining.com.au ASEAN seeks bigger role in critical minerals supply chain - Mining.com.au",
   "invest_summary": ""
 }
