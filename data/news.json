@@ -1,73 +1,38 @@
 {
-  "date": "2026-11-16",
-  "generated_at_utc": "2026-11-16T14:03:13Z",
-  "cutoff_kst": "2026-11-16T23:03:00+09:00",
+  "date": "2026-11-17",
+  "generated_at_utc": "2026-11-16T20:10:27Z",
+  "cutoff_kst": "2026-11-17T05:10:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Jamaica records three million visitors, US$3 billion in tourism earnings - Caribbean National Weekly",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQODNzM2hETmtuU2NKd0xFbzdqYnZSUm90dU5ZRG9CUEdZNkJDVDY5YXdmWFp3VnR0OGZKUnBkbXEtQ2lvLUE2VWFFUFl6QW0weElDXzlPaUtHdFVlVGFVR0EwWWJ2RlVpRUt0ck9QR00ybHl2UjM3TXNxNmRYLUNackxKTnByWUsxdHROaDl2SXdVOVB1NktjcFFBNEhBYmc2eERNR1NHUmZ4SXowVEZjeGdzTWVYWW8?oc=5",
-        "summary": "Jamaica records three million visitors, US$3 billion in tourism earnings Caribbean National Weekly Jamaica records three million visitors, US$3 billion in tourism earnings - Caribbean National Weekly",
-        "published": "Mon, 16 Nov 2026 14:02:10 GMT",
-        "published_kst": "2026-11-16T23:02:10+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$3"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors",
-        "url": "https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html",
-        "summary": "Five years after NFTs took off, a major marketplace is shutting down—here's what the boom and bust can teach investors about risky investments. A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors",
-        "published": "Mon, 16 Nov 2026 14:00:01 GMT",
-        "published_kst": "2026-11-16T23:00:01+09:00",
+        "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
+        "url": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
+        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Plus, another word of caution on Nvidia",
+        "published": "Mon, 16 Nov 2026 20:07:46 GMT",
+        "published_kst": "2026-11-17T05:07:46+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "We're booking huge profits on a tech winner and making a chip stock swap",
-        "url": "https://www.cnbc.com/investingclub/2026/11/16/were-booking-huge-profits-on-a-tech-winner-and-making-a-chip-stock-swap.html",
-        "summary": "We are making three trades on Monday. We're booking huge profits on a tech winner and making a chip stock swap",
-        "published": "Mon, 16 Nov 2026 13:58:53 GMT",
-        "published_kst": "2026-11-16T22:58:53+09:00",
+        "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+        "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+        "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation. California sues OpenAI over Hugging Face, other AI model loss of control",
+        "published": "Mon, 16 Nov 2026 20:02:43 GMT",
+        "published_kst": "2026-11-17T05:02:43+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
-        "url": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-        "summary": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power",
-        "published": "Mon, 16 Nov 2026 13:55:22 GMT",
-        "published_kst": "2026-11-16T22:55:22+09:00",
+        "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+        "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+        "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO. Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+        "published": "Mon, 16 Nov 2026 19:46:26 GMT",
+        "published_kst": "2026-11-17T04:46:26+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic - Orange County Register",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWdkVUZud2hWWGpKV0xhWlNYckNHa3IxcGlVSGdOd1N3enJFaHIyLVNidHg5QWZOVWlwYlhwZW9JSGlZZU1QekhUVFhBWjZXcExuZXJVYjVOUHZwV1hNVzBmV3YwYmx0OF92a2J2VWdtVmVpWkhNeGt5YTZPa1RaaQ?oc=5",
-        "summary": "Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic Orange County Register Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic - Orange County Register",
-        "published": "Mon, 16 Nov 2026 13:34:42 GMT",
-        "published_kst": "2026-11-16T22:34:42+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic - Marietta Daily Journal",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVHBkNDRrdGVLVngzR25JUVFscEdvczFPOGpjdUw3VjRIZ1pCakh5TzN2ZThSYkVOb001eHRCSlYtUWxsTFpDNlBBMDIyVFB5R3RkNF9RRUVnTTBva1lLOWZ3UWNBbEUxblVCUFNONXNBTXMzZW51VVBvTUZWcVdEZll6TlEtMWdGQk1oY0huNXo2T3pFVVI3Rjh3SDI4M2dObU9TUTl6QjVTMl9vLV81RkVrckczUTl0TFIteDJLMkxPekNYTHBPdDhiNmxFeUZvMFM3cG16bS0yYUtrMnRFcnFEcnlmX0taRDh6czJnN1pGaTJkclRDUTlLektYOUowUExSeUIzemxSRnVQ?oc=5",
-        "summary": "Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic Marietta Daily Journal Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic - Marietta Daily Journal",
-        "published": "Mon, 16 Nov 2026 13:02:43 GMT",
-        "published_kst": "2026-11-16T22:02:43+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,35 +40,33 @@
     ],
     "kr": [
       {
-        "title": "골드만삭스·모건스탠리,\"내년에도 AI주도 강세장\", 한국 기술주는?\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvX0V5bWx2Tjh6aU5VRWxNXzRGaVJjY3hDbV9lSjhYZUx1YWNMM2xUNUFHSUpFVlJnT3hDajRiT0pmeUYzNzJLQzFlbDF5V0s4RjFyb3oxUFlFZw?oc=5",
-        "summary": "골드만삭스·모건스탠리,\"내년에도 AI주도 강세장\", 한국 기술주는?\" 한국경제 골드만삭스·모건스탠리,\"내년에도 AI주도 강세장\", 한국 기술주는?\" - 한국경제",
-        "published": "Mon, 16 Nov 2026 13:34:37 GMT",
-        "published_kst": "2026-11-16T22:34:37+09:00",
+        "title": "\" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 - 선데이뉴스신문",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nN2dmcUZtbXFuWmpqb3drWWF6WGJuTnJkS2VEQUFqODlpTWxvUW1oMlRTYVhlbGtaNzdkbVRKYmg1LTBSVlJWNDV5YS1VYXpaN3dYVVpTdElfems?oc=5",
+        "summary": "\" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 선데이뉴스신문 \" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 - 선데이뉴스신문",
+        "published": "Mon, 16 Nov 2026 17:56:23 GMT",
+        "published_kst": "2026-11-17T02:56:23+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCVW5VazlkSUVSUEppYXdGbks3Nnl2NG5wVnZScElRX0tTc0wxdmlMT2NYSXkzWnNTUHZRcXFhZTYtdVdZNjFWZnNFQWF4aXg3YWc2bmVmRWdDQQ?oc=5",
-        "summary": "\"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+] 한국경제 \"코스피 8300 간다더니\"…증권가 전망에 개미들 '부글부글' [분석+] - 한국경제",
-        "published": "Mon, 16 Nov 2026 13:00:04 GMT",
-        "published_kst": "2026-11-16T22:00:04+09:00",
+        "title": "\"미국 해운ㆍ항만 규제 변화와 한국 수출기업의 물류비 부담\" - 쉬핑뉴스넷",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03RlpKMmZ1M2d4dzFka1ZObHZ1WDhqTV8wcEpBT0FSQmhWYUVDWElvbGk3bW1sb2RqdmdZS2oybFU2T1JSQW9qemd2NERhbEFBX2hKaWRyN09Pb1ZRdXJQMi1wbnZCYXNHb3RzWlVLaENrOUE?oc=5",
+        "summary": "\"미국 해운ㆍ항만 규제 변화와 한국 수출기업의 물류비 부담\" 쉬핑뉴스넷 \"미국 해운ㆍ항만 규제 변화와 한국 수출기업의 물류비 부담\" - 쉬핑뉴스넷",
+        "published": "Mon, 16 Nov 2026 15:26:03 GMT",
+        "published_kst": "2026-11-17T00:26:03+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "8300"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'AI 커닝' 세무사 수석, 공범 있었나…경찰 조사 예고 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fYU1qSG5NLWhVbDlZZGp1cEFSVm81ODMtV3ZaUnFzLXg2blhfNUNjZFdPQWFNY3IzX3Z4Y0VvOFdlSG5JS3FXTGRSd2h4Wk1uaE1ZLTRzZ1g2QQ?oc=5",
-        "summary": "'AI 커닝' 세무사 수석, 공범 있었나…경찰 조사 예고 한국경제 'AI 커닝' 세무사 수석, 공범 있었나…경찰 조사 예고 - 한국경제",
-        "published": "Mon, 16 Nov 2026 12:36:32 GMT",
-        "published_kst": "2026-11-16T21:36:32+09:00",
+        "title": "한국해운조합, '제430회 정기국회 종합 대응 상황실' 개소…예산·입법 총력전 돌입 - 컨슈머타임스",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaTBIelNzWU05YmFTZGRscXlQREJZaGxKalJvQV9NckdnQ3NQOHlBd2hmX1dvbDNmQXV1cUROQnQ5dWN3V0d5QWRsTzJNM0ZYSXZ2RjFnNXlaX0o3TW03WndhS1hhbWIzRUE?oc=5",
+        "summary": "한국해운조합, '제430회 정기국회 종합 대응 상황실' 개소…예산·입법 총력전 돌입 컨슈머타임스 한국해운조합, '제430회 정기국회 종합 대응 상황실' 개소…예산·입법 총력전 돌입 - 컨슈머타임스",
+        "published": "Mon, 16 Nov 2026 13:51:19 GMT",
+        "published_kst": "2026-11-16T22:51:19+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -112,35 +75,35 @@
     ],
     "world": [
       {
-        "title": "From the Bank of NVIDIA to AI in Your Pocket: Who Will Control Supply Chain Intelligence? - Logistics Viewpoints",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRWtKU1R3WUloMy1ETGZLXzVnLVNXajZrd0xYR2RtQmxMZGZDNmdhSnRpNkV2UnoxaTF1ODA2cEZvZ25maDJ0c2RTM2xlVEZ1V1ZWNlI5ZmNpTjVyRVZ3dXhtMlhSNnF6bks5SHJMeEhVX2k5V1l3eG5hTU5xRnI4b0lJT09GQ1kwOEllSEZUdnVuUU95NTA0XzRFa0J4MkNnRlYtaV9nQjJWeXdXLVp2X1ZTdnVzLVJZZUc0V2dpcUdMdFNGTXhZVTI0WQ?oc=5",
-        "summary": "Logistics Viewpoints From the Bank of NVIDIA to AI in Your Pocket: Who Will Control Supply Chain Intelligence?",
-        "published": "Mon, 16 Nov 2026 13:54:45 GMT",
-        "published_kst": "2026-11-16T22:54:45+09:00",
+        "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future - NVIDIA Blog",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DRElQY3hiNFJsMVZTRWRCQTBuaXFqS2tSTVhnWWFjUEM3SE43a3pXbGVlMWVNTDRVb3FPZUNqQ3VYQ1dfN0lxeENmVmV4SlFoWElLLXFsSndfUU1rRGkxbUJ1UVVSYUFfd2NhUzZn?oc=5",
+        "summary": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future NVIDIA Blog How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future - NVIDIA Blog",
+        "published": "Mon, 16 Nov 2026 20:01:40 GMT",
+        "published_kst": "2026-11-17T05:01:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "HSBC: 88% of Malaysian firms say supply chain overhauls, digital pivots are paying off - The Edge Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YQ2ZWZzZpZjVTUE1za3UtdlN0SjBPVFZKSTdtbTJxVzA4SFFzVlRIQWZtNDYwV2ZtNHlOYzBVcjI5ZFByYWI4anhTVjE0WVQy?oc=5",
-        "summary": "HSBC: 88% of Malaysian firms say supply chain overhauls, digital pivots are paying off The Edge Malaysia HSBC: 88% of Malaysian firms say supply chain overhauls, digital pivots are paying off - The Edge Malaysia",
-        "published": "Mon, 16 Nov 2026 13:23:04 GMT",
-        "published_kst": "2026-11-16T22:23:04+09:00",
+        "title": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS05vMS04S2owVzg3RUlBNEY5ekstbVNWbWhTMlIxb2tacVpMNlFBVjRfNWdWakpIVEV3aE00NVRmOEVkZkFra0JMaExXZ0ZyRDh5V0hPLVllQVg2YXdRSkkzbE40bWRYUG9kd1RnYVpJb21kbmlhRDVOakFHT2JXd2RYWXBJa3p3NVM0LS1jbGcteTA1YUF5TGNkSVFIVWdGVEQyRmtXa2lUWTBua1U0NUNTSUJZX2ktbW1HbWEwNlpocklaOVh6ZGJHbnk5SjlrSjY3UnZraVM2WDA4d3Q5d18wZWt6ZHNEVWFVU3ozTks5MkU4MzR2bHQtdHJTX3c?oc=5",
+        "summary": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains PR Newswire DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - PR Newswire",
+        "published": "Mon, 16 Nov 2026 19:48:00 GMT",
+        "published_kst": "2026-11-17T04:48:00+09:00",
         "domain": "google.com",
         "key_figures": [
-          "88%"
+          "12%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "3 AI Chip Stocks to Watch Beyond Nvidia After the Supply Chain Shock - Simply Wall St",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWmpuWVlueXg5V1VKenFTaERISFVHa3RhRmw0VnRHSWdDbUY0TFBsUmVfTEtsaUdmeUNHMmltMkJfZk1OT3hOZ1VlM1Y0MzU2SW83V3pUNlkybk9JWUlUbVk0eFRyTUl0eGc2TTBZZUwtSE1iT3hkQVJRakp4Umw5cTZycEJ5ME1OZVJQaXY2end0bTV1WWlpR0RIRndLZWNfUWVzSDQydFZickxwNEhvYWpZTTRxMmlyR2M4cHVBWUg2YzBhMVI0bGtObXJael81S0pGVDNnc2R4QdIB3wFBVV95cUxOcVZWX3hEZHJrRHZfSkx1R0Qwb2t1Y0ZCa1BpS1F4ZFc5ZW9XeUd0c1dINklXdlJTRlFYbEZWX1J0cmE5ckZZZFBKbllmRFA5TERNakN4TmJBVklkaGJ3cHhUdU14TC0yZEIxNjh4NFlwS29rdll6V2h6SHI3ZlBZb2h3cE5wR3dPN3g0U3NkRjVTdTlCWXFvcnB3bC1fZHEyNm9PbXNlS2YzTkI1NkVYVlZtc2pJVlFsVHdlVkJwSWJfUWJWeVNOLTYtTHYyUjJyTWdDSFhuU1NLMTd2OTU4?oc=5",
-        "summary": "3 AI Chip Stocks to Watch Beyond Nvidia After the Supply Chain Shock Simply Wall St 3 AI Chip Stocks to Watch Beyond Nvidia After the Supply Chain Shock - Simply Wall St",
-        "published": "Mon, 16 Nov 2026 13:14:07 GMT",
-        "published_kst": "2026-11-16T22:14:07+09:00",
+        "title": "Loftware to Acquire Seagull Software, Uniting Product Identification Solutions to Serve Businesses Across the Supply Chain - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONnJTek1nYUtOZHRvb0lIdHJPOW1pLWk0ckVCWTJwSnBlZkdyMWUwR2JSOHAtZmZscjN2WDk0Y2Y2YzRPS2hSbmF0T2JQTy1oVV9sMVBZa3Z1eEhwcEVReGZDdGRGc2xZckl0NldKU2drc29Rb24ybG1hNTNGeDVmWHJ5Y1JPVkJyREdMaldxSUx0bXFuM3lrVHlycVNVeC1DTi1ZTU9maUhFbHM0azhscHdtZTNFWWZmazNjeGs4Y3lqTHpjUzlqOWtYLU1tRVhYV1lSbVhCR1hEYzlodnpKRDlSMWdjMjZxOEFwbDJaTHpVU1lHNDhTNVV5anlIZjZxQ1cxLXp3RXM?oc=5",
+        "summary": "Loftware to Acquire Seagull Software, Uniting Product Identification Solutions to Serve Businesses Across the Supply Chain PR Newswire Loftware to Acquire Seagull Software, Uniting Product Identification Solutions to Serve Businesses Across the Supply Chain - PR Newswire",
+        "published": "Mon, 16 Nov 2026 18:00:00 GMT",
+        "published_kst": "2026-11-17T03:00:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +111,6 @@
       }
     ]
   },
-  "wrap_summary": "Jamaica records three million visitors, US$3 billion in tourism earnings Caribbean National Weekly Jamaica records three million visitors, US$3 billion in tourism earnings - Caribbean National Weekly / 골드만삭스·모건스탠리,\"내년에도 AI주도 강세장\", 한국 기술주는?\" 한국경제 골드만삭스·모건스탠리,\"내년에도 AI주도 강세장\", 한국 기술주는?\" - 한국경제 / Logistics Viewpoints From the Bank of NVIDIA to AI in Your Pocket: Who Will Control Supply Chain Intelligence?",
+  "wrap_summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Plus, another word of caution on Nvidia / \" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 선데이뉴스신문 \" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 - 선데이뉴스신문 / How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future NVIDIA Blog How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future - NVIDIA Blog",
   "invest_summary": ""
 }
