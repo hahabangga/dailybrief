@@ -1,37 +1,73 @@
 {
   "date": "2026-11-17",
-  "generated_at_utc": "2026-11-16T20:10:27Z",
-  "cutoff_kst": "2026-11-17T05:10:00+09:00",
+  "generated_at_utc": "2026-11-16T22:45:12Z",
+  "cutoff_kst": "2026-11-17T07:45:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Eli Lilly makes a deal outside obesity. Plus, another word of caution on Nvidia",
-        "url": "https://www.cnbc.com/investingclub/2026/11/16/eli-lilly-makes-a-deal-outside-obesity-plus-another-word-of-caution-on-nvidia.html",
-        "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Plus, another word of caution on Nvidia",
-        "published": "Mon, 16 Nov 2026 20:07:46 GMT",
-        "published_kst": "2026-11-17T05:07:46+09:00",
+        "title": "United Airlines reports system outage affecting departing flights",
+        "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+        "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights. United Airlines reports system outage affecting departing flights",
+        "published": "Mon, 16 Nov 2026 22:42:48 GMT",
+        "published_kst": "2026-11-17T07:42:48+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
-        "url": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
-        "summary": "Two OpenAI models in July gained unauthorized access to Hugging Face's internal systems to find information for use in cheating on an evaluation. California sues OpenAI over Hugging Face, other AI model loss of control",
-        "published": "Mon, 16 Nov 2026 20:02:43 GMT",
-        "published_kst": "2026-11-17T05:02:43+09:00",
+        "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+        "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
+        "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy. Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
+        "published": "Mon, 16 Nov 2026 22:37:45 GMT",
+        "published_kst": "2026-11-17T07:37:45+09:00",
         "domain": "cnbc.com",
+        "key_figures": [
+          "$97.5",
+          "$1"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House Wants to Pre-Approve Officials’ Congressional Testimony - notus.org",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3JkakhpYzBEdHNwdDJkUlpMOTV6S19ZZ1lSZ3RvTWNTRVE2emwtWHZCUC1DMktuNFhCWE00OGVId2hjb2FyRW9iNWdOS3FIaW1WM19xVHk3dTVwUVlVOVhaNzBMSDJtR25UYjIzQUxFX180YWlpb2JOM053cUQxNHRSdy0?oc=5",
+        "summary": "White House Wants to Pre-Approve Officials’ Congressional Testimony notus.org White House Wants to Pre-Approve Officials’ Congressional Testimony - notus.org",
+        "published": "Mon, 16 Nov 2026 22:35:03 GMT",
+        "published_kst": "2026-11-17T07:35:03+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-        "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
-        "summary": "Jensen Huang resigned from Nvidia last week after 33 years as CEO. Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-        "published": "Mon, 16 Nov 2026 19:46:26 GMT",
-        "published_kst": "2026-11-17T04:46:26+09:00",
+        "title": "White House weighs next steps for FDA nominee who faces bipartisan pushback - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFhDV2hyVlpzSlBTcEtudWdVSnFscXM5anotVHFuVjJqVDFoWmRQaFl0eXRfYS1JS3hwODBtZm0tQ25IQ1lDa3VmV1EyMWVOSWhsem9pRnlSX3VPM21nZXVNa2I2SmFaYWllNVk0Y0xyZWRjaXpiZ2tGckNJTk83YTMxOWxlaUxkWXZQV0hVYnZkQTFwblFjajVLU1JoRXZRckZWZGdlUVdoaVEwSThTZ1dnNDU4d3hSa3hWZFRXbFNJek0?oc=5",
+        "summary": "White House weighs next steps for FDA nominee who faces bipartisan pushback The Washington Post White House weighs next steps for FDA nominee who faces bipartisan pushback - The Washington Post",
+        "published": "Mon, 16 Nov 2026 22:34:26 GMT",
+        "published_kst": "2026-11-17T07:34:26+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House pushes for FAA funding after nationwide ground stop - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMng3ZHVQU2o5cU5ra09Fd0g0Ny1vVGU1eGpqZlVDNHppX2FLWm05ZjFaLXNCODFWMDUxTUpzcU9oR2NHdkk2UXFGd09xSFV2RlVILU1NcVVwdldrLUZtNEM0cEhfNW5qTk01M3Vzc1Bta2ZBVHIwajJCVWd6ek1zLUZmZzFlYTBBaVZETTRPUHJ3NjZJUXloeWpDMzFRNDFITFBTQw?oc=5",
+        "summary": "White House pushes for FAA funding after nationwide ground stop CBS News White House pushes for FAA funding after nationwide ground stop - CBS News",
+        "published": "Mon, 16 Nov 2026 22:25:00 GMT",
+        "published_kst": "2026-11-17T07:25:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
+        "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
+        "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America. Berkshire Hathaway raised its stake in Delta in the third quarter.",
+        "published": "Mon, 16 Nov 2026 22:22:52 GMT",
+        "published_kst": "2026-11-17T07:22:52+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -40,70 +76,70 @@
     ],
     "kr": [
       {
-        "title": "\" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 - 선데이뉴스신문",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nN2dmcUZtbXFuWmpqb3drWWF6WGJuTnJkS2VEQUFqODlpTWxvUW1oMlRTYVhlbGtaNzdkbVRKYmg1LTBSVlJWNDV5YS1VYXpaN3dYVVpTdElfems?oc=5",
-        "summary": "\" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 선데이뉴스신문 \" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 - 선데이뉴스신문",
-        "published": "Mon, 16 Nov 2026 17:56:23 GMT",
-        "published_kst": "2026-11-17T02:56:23+09:00",
+        "title": "[속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZWhIT1k2cHp2WTBqUWVzNlYzSWQzLVRnemh2ekU2Ql9WWm9lSDdWMi1rT2hDZVN4blp3dzRKdFFJNjk1YzNzZW5ldGpvd2dTOGhPMWJURHlCUQ?oc=5",
+        "summary": "[속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 한국경제 [속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 - 한국경제",
+        "published": "Mon, 16 Nov 2026 22:18:10 GMT",
+        "published_kst": "2026-11-17T07:18:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"미국 해운ㆍ항만 규제 변화와 한국 수출기업의 물류비 부담\" - 쉬핑뉴스넷",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03RlpKMmZ1M2d4dzFka1ZObHZ1WDhqTV8wcEpBT0FSQmhWYUVDWElvbGk3bW1sb2RqdmdZS2oybFU2T1JSQW9qemd2NERhbEFBX2hKaWRyN09Pb1ZRdXJQMi1wbnZCYXNHb3RzWlVLaENrOUE?oc=5",
-        "summary": "\"미국 해운ㆍ항만 규제 변화와 한국 수출기업의 물류비 부담\" 쉬핑뉴스넷 \"미국 해운ㆍ항만 규제 변화와 한국 수출기업의 물류비 부담\" - 쉬핑뉴스넷",
-        "published": "Mon, 16 Nov 2026 15:26:03 GMT",
-        "published_kst": "2026-11-17T00:26:03+09:00",
+        "title": "'억만장자 성범죄자' 엡스타인, 살해 가능성 제기 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRGJfdXlBZFlFTnFuVl9tbVBCdDdSSnVNdHNzU2pzazNMY3BmUFcyeTFDUWptb1dwQWhENXBFZHd1U2NyallWWUdSWUsxd19Sd3Z1YU9NbjNlQQ?oc=5",
+        "summary": "'억만장자 성범죄자' 엡스타인, 살해 가능성 제기 한국경제 '억만장자 성범죄자' 엡스타인, 살해 가능성 제기 - 한국경제",
+        "published": "Mon, 16 Nov 2026 22:16:08 GMT",
+        "published_kst": "2026-11-17T07:16:08+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국해운조합, '제430회 정기국회 종합 대응 상황실' 개소…예산·입법 총력전 돌입 - 컨슈머타임스",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaTBIelNzWU05YmFTZGRscXlQREJZaGxKalJvQV9NckdnQ3NQOHlBd2hmX1dvbDNmQXV1cUROQnQ5dWN3V0d5QWRsTzJNM0ZYSXZ2RjFnNXlaX0o3TW03WndhS1hhbWIzRUE?oc=5",
-        "summary": "한국해운조합, '제430회 정기국회 종합 대응 상황실' 개소…예산·입법 총력전 돌입 컨슈머타임스 한국해운조합, '제430회 정기국회 종합 대응 상황실' 개소…예산·입법 총력전 돌입 - 컨슈머타임스",
-        "published": "Mon, 16 Nov 2026 13:51:19 GMT",
-        "published_kst": "2026-11-16T22:51:19+09:00",
+        "title": "AI 매도세 지속에 일제 하락…나스닥 2.49%↓[뉴욕증시 브리핑] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMFJOWm5HWE5TQzVTZk9wQ1MyVHMyS0d2S2ExUWlUX0pJMjBnNTQtM1g0cVd1SWR5bjExeEJCOWQweFJMSjZaRi1VUTNNLWk4YUp3azlNdmlNdw?oc=5",
+        "summary": "AI 매도세 지속에 일제 하락…나스닥 2.49%↓[뉴욕증시 브리핑] 한국경제 AI 매도세 지속에 일제 하락…나스닥 2.49%↓[뉴욕증시 브리핑] - 한국경제",
+        "published": "Mon, 16 Nov 2026 22:14:28 GMT",
+        "published_kst": "2026-11-17T07:14:28+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2.49%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future - NVIDIA Blog",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DRElQY3hiNFJsMVZTRWRCQTBuaXFqS2tSTVhnWWFjUEM3SE43a3pXbGVlMWVNTDRVb3FPZUNqQ3VYQ1dfN0lxeENmVmV4SlFoWElLLXFsSndfUU1rRGkxbUJ1UVVSYUFfd2NhUzZn?oc=5",
-        "summary": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future NVIDIA Blog How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future - NVIDIA Blog",
-        "published": "Mon, 16 Nov 2026 20:01:40 GMT",
-        "published_kst": "2026-11-17T05:01:40+09:00",
+        "title": "Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPLVNJbm5JdVZqNk93b2tOUVEwYWlBcjRpV08weVpibE41bmtKNGN2YXFiMzJmMjVCb0F6MjVEMkVya19Pc19Nd2tJY2lTQnhYYnpYTGRoYll2c0NxeUE4OUlZX0R3T3I0NHZOdzlFaXRmT3BJZmRRZGZaSUY1am93Z0loLTlicjV1US1paFZMd2xvRUlYdkNuSnM3S1JBbG8tc0ZQd2llYzJ1VFJDeFJJYVJOMmFyVnVxWElGYzZnMEl1Y1pPeUk5R2gySnBsQlJqLXE0UWt2MjRnSUh6UTN1c05rN0gyNGNjalYzOGxTOVp4dUthbUJLZ1liaUdWNkFGaThraVlMM0x4RlZYQ25J?oc=5",
+        "summary": "Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents PR Newswire Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents - PR Newswire",
+        "published": "Mon, 16 Nov 2026 21:43:00 GMT",
+        "published_kst": "2026-11-17T06:43:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS05vMS04S2owVzg3RUlBNEY5ekstbVNWbWhTMlIxb2tacVpMNlFBVjRfNWdWakpIVEV3aE00NVRmOEVkZkFra0JMaExXZ0ZyRDh5V0hPLVllQVg2YXdRSkkzbE40bWRYUG9kd1RnYVpJb21kbmlhRDVOakFHT2JXd2RYWXBJa3p3NVM0LS1jbGcteTA1YUF5TGNkSVFIVWdGVEQyRmtXa2lUWTBua1U0NUNTSUJZX2ktbW1HbWEwNlpocklaOVh6ZGJHbnk5SjlrSjY3UnZraVM2WDA4d3Q5d18wZWt6ZHNEVWFVU3ozTks5MkU4MzR2bHQtdHJTX3c?oc=5",
-        "summary": "DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains PR Newswire DHL Supply Chain sees 12% year-on-year sustainable revenue growth as companies transform their global supply chains - PR Newswire",
-        "published": "Mon, 16 Nov 2026 19:48:00 GMT",
-        "published_kst": "2026-11-17T04:48:00+09:00",
+        "title": "Manufacturers Ramp Up Stockpiling Amid Inflation and Supply Concerns - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNXN0cUxYdW9SVkJmbUdGTmcyTEdkYlA2RllLTWtfUHlhbTcxREVaSzAxb3ZrdGhoazZONm00YlJSYmNJSzFuV25uMXBFRkJsUV90ZFBZNEIxQTdVajZUUEo2emVLOEFCcENjWkNCSkhPdi1HeFc4RGplMjhIckE3aHlfR3dMVmtVYTUxOHBGSnlIRGJDSnRqbnZwQVRTdGNhSmZMS21UWWVkT0N3V3N0a2pHdHZlYU51UHRMM2JZalc0cFQtVUE?oc=5",
+        "summary": "Manufacturers Ramp Up Stockpiling Amid Inflation and Supply Concerns Supply & Demand Chain Executive Manufacturers Ramp Up Stockpiling Amid Inflation and Supply Concerns - Supply & Demand Chain Executive",
+        "published": "Mon, 16 Nov 2026 21:36:08 GMT",
+        "published_kst": "2026-11-17T06:36:08+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "12%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Loftware to Acquire Seagull Software, Uniting Product Identification Solutions to Serve Businesses Across the Supply Chain - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONnJTek1nYUtOZHRvb0lIdHJPOW1pLWk0ckVCWTJwSnBlZkdyMWUwR2JSOHAtZmZscjN2WDk0Y2Y2YzRPS2hSbmF0T2JQTy1oVV9sMVBZa3Z1eEhwcEVReGZDdGRGc2xZckl0NldKU2drc29Rb24ybG1hNTNGeDVmWHJ5Y1JPVkJyREdMaldxSUx0bXFuM3lrVHlycVNVeC1DTi1ZTU9maUhFbHM0azhscHdtZTNFWWZmazNjeGs4Y3lqTHpjUzlqOWtYLU1tRVhYV1lSbVhCR1hEYzlodnpKRDlSMWdjMjZxOEFwbDJaTHpVU1lHNDhTNVV5anlIZjZxQ1cxLXp3RXM?oc=5",
-        "summary": "Loftware to Acquire Seagull Software, Uniting Product Identification Solutions to Serve Businesses Across the Supply Chain PR Newswire Loftware to Acquire Seagull Software, Uniting Product Identification Solutions to Serve Businesses Across the Supply Chain - PR Newswire",
-        "published": "Mon, 16 Nov 2026 18:00:00 GMT",
-        "published_kst": "2026-11-17T03:00:00+09:00",
+        "title": "Lords join call to protect UK food supply chain - Farmers Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkRkY09EUXN6cmdZS2lZUjJ4Q24yeklCa2hoUFd6VzhKRkRFYjRsOVQ0UVZxb0Yxc0hSSmZSVXZhNlIxeGU5RjZZVGxOdldxdE9KdVp6VmZveWNfSWIzWXUxMmt5OG1zT2dZR2F4Sl9aX2xQcGRwQTNvZnRTWHBNSVlVa1pLdjNmcEExWU5R?oc=5",
+        "summary": "Lords join call to protect UK food supply chain Farmers Guardian Lords join call to protect UK food supply chain - Farmers Guardian",
+        "published": "Mon, 16 Nov 2026 21:15:47 GMT",
+        "published_kst": "2026-11-17T06:15:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -111,6 +147,6 @@
       }
     ]
   },
-  "wrap_summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading. Plus, another word of caution on Nvidia / \" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 선데이뉴스신문 \" 미 중간선거를 통해 본 한국정치가 나아갈 길 국회토론회 개최, 우원식 등 민주당 국회의 - 선데이뉴스신문 / How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future NVIDIA Blog How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future - NVIDIA Blog",
+  "wrap_summary": "United Airlines said Monday that a widespread system outage was affecting departing flights. United Airlines reports system outage affecting departing flights / [속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 한국경제 [속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 - 한국경제 / Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents PR Newswire Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents - PR Newswire",
   "invest_summary": ""
 }
