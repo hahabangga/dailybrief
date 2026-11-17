@@ -1,152 +1,117 @@
 {
   "date": "2026-11-17",
-  "generated_at_utc": "2026-11-16T22:45:12Z",
-  "cutoff_kst": "2026-11-17T07:45:00+09:00",
+  "generated_at_utc": "2026-11-17T04:12:05Z",
+  "cutoff_kst": "2026-11-17T13:12:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "United Airlines reports system outage affecting departing flights",
-        "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-        "summary": "United Airlines said Monday that a widespread system outage was affecting departing flights. United Airlines reports system outage affecting departing flights",
-        "published": "Mon, 16 Nov 2026 22:42:48 GMT",
-        "published_kst": "2026-11-17T07:42:48+09:00",
+        "title": "US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings - Finimize",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGp0MjJaLWRBbWxTdURqZUtkWlptT1pzemNubUZTY2w4elR3RkVwWlhKVkNQUWhDNnppYzR2ZlV1eC01U0RaWnhmWFdDdnBCQTZwcnlpRDRmeEx5MXQzXzFyZ0F3VURkcWlXVktzUkxFQk9yVl9HMDZDUDE2bHZtaXdib0FsejIzT29KRG5heFY?oc=5",
+        "summary": "US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings Finimize US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings - Finimize",
+        "published": "Tue, 17 Nov 2026 01:01:04 GMT",
+        "published_kst": "2026-11-17T10:01:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+        "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+        "summary": "Kevin Warsh sees AI at a turning point. Analysis: The Fed's chairman sees an AI revolution coming.",
+        "published": "Tue, 17 Nov 2026 00:42:33 GMT",
+        "published_kst": "2026-11-17T09:42:33+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-        "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-        "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy. Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-        "published": "Mon, 16 Nov 2026 22:37:45 GMT",
-        "published_kst": "2026-11-17T07:37:45+09:00",
+        "title": "United Airlines resolves system outage that affected departing flights",
+        "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
+        "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack. United Airlines resolves system outage that affected departing flights",
+        "published": "Tue, 17 Nov 2026 00:00:49 GMT",
+        "published_kst": "2026-11-17T09:00:49+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+        "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
+        "summary": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom. Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
+        "published": "Mon, 16 Nov 2026 23:23:47 GMT",
+        "published_kst": "2026-11-17T08:23:47+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US tech extends slide ahead of Nvidia earnings - Semafor",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOU91MDJDb1lLTm81Q1NPNXliYjVsM1gtLXFtZU41b29rOHFjVmdYY0ZfV0xKNjQzal9JandrTnhteWRyaTloalZpV2U0TDNLcThfX20zZW9ZenNERHlTV0sxdUgwaTBYN3psNzYwRUZ2c1Z3Y3U1eVJibU5sSDFuSUQwUzhfUWRvcXZETC1ON292TlE?oc=5",
+        "summary": "US tech extends slide ahead of Nvidia earnings Semafor US tech extends slide ahead of Nvidia earnings - Semafor",
+        "published": "Mon, 16 Nov 2026 22:55:00 GMT",
+        "published_kst": "2026-11-17T07:55:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Aramark earnings bring US$1 billion buyback and higher dividend - finchannel",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMnkwMlkweWVuYzVVWkVDZFR6d3FLN1YwZ2tHNUp4TE1JWXI2aHpLNlFaZF9XcjNmb0Y3cGJreHRnZGN1LVRveWp6WkxGOXBLQm80VzdYU0ExeC1Qb0w2T3NCeWowRFBDNV9TeXRQSU9hNUtESXg3UGVXREZKdGFmVGUwdl8wbGl1WXl5WVBzSUI5MGd2TzVaYURtd2lsNUhiWjZPb05SWnVJaGNQODlxV2RoTXN6SndoZUFFT0l3TmtfR1pzRTFrTC0zZGgtR2liM2hyTW9B?oc=5",
+        "summary": "Aramark earnings bring US$1 billion buyback and higher dividend finchannel Aramark earnings bring US$1 billion buyback and higher dividend - finchannel",
+        "published": "Mon, 16 Nov 2026 22:38:52 GMT",
+        "published_kst": "2026-11-17T07:38:52+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "$97.5",
           "$1"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House Wants to Pre-Approve Officials’ Congressional Testimony - notus.org",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3JkakhpYzBEdHNwdDJkUlpMOTV6S19ZZ1lSZ3RvTWNTRVE2emwtWHZCUC1DMktuNFhCWE00OGVId2hjb2FyRW9iNWdOS3FIaW1WM19xVHk3dTVwUVlVOVhaNzBMSDJtR25UYjIzQUxFX180YWlpb2JOM053cUQxNHRSdy0?oc=5",
-        "summary": "White House Wants to Pre-Approve Officials’ Congressional Testimony notus.org White House Wants to Pre-Approve Officials’ Congressional Testimony - notus.org",
-        "published": "Mon, 16 Nov 2026 22:35:03 GMT",
-        "published_kst": "2026-11-17T07:35:03+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House weighs next steps for FDA nominee who faces bipartisan pushback - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOFhDV2hyVlpzSlBTcEtudWdVSnFscXM5anotVHFuVjJqVDFoWmRQaFl0eXRfYS1JS3hwODBtZm0tQ25IQ1lDa3VmV1EyMWVOSWhsem9pRnlSX3VPM21nZXVNa2I2SmFaYWllNVk0Y0xyZWRjaXpiZ2tGckNJTk83YTMxOWxlaUxkWXZQV0hVYnZkQTFwblFjajVLU1JoRXZRckZWZGdlUVdoaVEwSThTZ1dnNDU4d3hSa3hWZFRXbFNJek0?oc=5",
-        "summary": "White House weighs next steps for FDA nominee who faces bipartisan pushback The Washington Post White House weighs next steps for FDA nominee who faces bipartisan pushback - The Washington Post",
-        "published": "Mon, 16 Nov 2026 22:34:26 GMT",
-        "published_kst": "2026-11-17T07:34:26+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House pushes for FAA funding after nationwide ground stop - CBS News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMng3ZHVQU2o5cU5ra09Fd0g0Ny1vVGU1eGpqZlVDNHppX2FLWm05ZjFaLXNCODFWMDUxTUpzcU9oR2NHdkk2UXFGd09xSFV2RlVILU1NcVVwdldrLUZtNEM0cEhfNW5qTk01M3Vzc1Bta2ZBVHIwajJCVWd6ek1zLUZmZzFlYTBBaVZETTRPUHJ3NjZJUXloeWpDMzFRNDFITFBTQw?oc=5",
-        "summary": "White House pushes for FAA funding after nationwide ground stop CBS News White House pushes for FAA funding after nationwide ground stop - CBS News",
-        "published": "Mon, 16 Nov 2026 22:25:00 GMT",
-        "published_kst": "2026-11-17T07:25:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-        "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-        "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America. Berkshire Hathaway raised its stake in Delta in the third quarter.",
-        "published": "Mon, 16 Nov 2026 22:22:52 GMT",
-        "published_kst": "2026-11-17T07:22:52+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "[속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZWhIT1k2cHp2WTBqUWVzNlYzSWQzLVRnemh2ekU2Ql9WWm9lSDdWMi1rT2hDZVN4blp3dzRKdFFJNjk1YzNzZW5ldGpvd2dTOGhPMWJURHlCUQ?oc=5",
-        "summary": "[속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 한국경제 [속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 - 한국경제",
-        "published": "Mon, 16 Nov 2026 22:18:10 GMT",
-        "published_kst": "2026-11-17T07:18:10+09:00",
+        "title": "벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ydTZ6dkdGZnpoUm1GSTRrYWw0SEpEeUo1Q0daOXhlZnJyNlJEUVQyV0V6czRLdk5nMDR0aWRuZkZiU2hfVzNKejBzcjhscUJYTllIQWdzREZmQQ?oc=5",
+        "summary": "벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 한국경제 벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 - 한국경제",
+        "published": "Tue, 17 Nov 2026 03:04:11 GMT",
+        "published_kst": "2026-11-17T12:04:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'억만장자 성범죄자' 엡스타인, 살해 가능성 제기 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRGJfdXlBZFlFTnFuVl9tbVBCdDdSSnVNdHNzU2pzazNMY3BmUFcyeTFDUWptb1dwQWhENXBFZHd1U2NyallWWUdSWUsxd19Sd3Z1YU9NbjNlQQ?oc=5",
-        "summary": "'억만장자 성범죄자' 엡스타인, 살해 가능성 제기 한국경제 '억만장자 성범죄자' 엡스타인, 살해 가능성 제기 - 한국경제",
-        "published": "Mon, 16 Nov 2026 22:16:08 GMT",
-        "published_kst": "2026-11-17T07:16:08+09:00",
+        "title": "韓 총리 \"수능 시험장 스마트기기 원천차단…전수점검\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94T1lxNktDeTlpVDJVWHAxeHlQRlhIZ0dGYUtHUVJTTk1jekU4MHJDR2E5OTBzZ2xRZFh5OUg0QzFnMGJNcDNqUW1MVkFMR045RmRmUDkwNHJKUQ?oc=5",
+        "summary": "韓 총리 \"수능 시험장 스마트기기 원천차단…전수점검\" 한국경제 韓 총리 \"수능 시험장 스마트기기 원천차단…전수점검\" - 한국경제",
+        "published": "Tue, 17 Nov 2026 02:48:00 GMT",
+        "published_kst": "2026-11-17T11:48:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "AI 매도세 지속에 일제 하락…나스닥 2.49%↓[뉴욕증시 브리핑] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMFJOWm5HWE5TQzVTZk9wQ1MyVHMyS0d2S2ExUWlUX0pJMjBnNTQtM1g0cVd1SWR5bjExeEJCOWQweFJMSjZaRi1VUTNNLWk4YUp3azlNdmlNdw?oc=5",
-        "summary": "AI 매도세 지속에 일제 하락…나스닥 2.49%↓[뉴욕증시 브리핑] 한국경제 AI 매도세 지속에 일제 하락…나스닥 2.49%↓[뉴욕증시 브리핑] - 한국경제",
-        "published": "Mon, 16 Nov 2026 22:14:28 GMT",
-        "published_kst": "2026-11-17T07:14:28+09:00",
+        "title": "3040 자산가 “자녀에게 부동산 아닌 주식·펀드 물려주겠다” - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aR0p4TXFWdFZFalVRa0xRd0hRUXVIMTlGd3NuZjNJeTVWdUJmQnh2dnFnOUJTbVZ5MjB5Tk5LdnczdHRZWTlrNnFGMnFiRlM5R0t3T0tPN2tGUQ?oc=5",
+        "summary": "3040 자산가 “자녀에게 부동산 아닌 주식·펀드 물려주겠다” 한국경제 3040 자산가 “자녀에게 부동산 아닌 주식·펀드 물려주겠다” - 한국경제",
+        "published": "Tue, 17 Nov 2026 02:44:17 GMT",
+        "published_kst": "2026-11-17T11:44:17+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2.49%"
+          "3040"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "world": [
-      {
-        "title": "Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents - PR Newswire",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPLVNJbm5JdVZqNk93b2tOUVEwYWlBcjRpV08weVpibE41bmtKNGN2YXFiMzJmMjVCb0F6MjVEMkVya19Pc19Nd2tJY2lTQnhYYnpYTGRoYll2c0NxeUE4OUlZX0R3T3I0NHZOdzlFaXRmT3BJZmRRZGZaSUY1am93Z0loLTlicjV1US1paFZMd2xvRUlYdkNuSnM3S1JBbG8tc0ZQd2llYzJ1VFJDeFJJYVJOMmFyVnVxWElGYzZnMEl1Y1pPeUk5R2gySnBsQlJqLXE0UWt2MjRnSUh6UTN1c05rN0gyNGNjalYzOGxTOVp4dUthbUJLZ1liaUdWNkFGaThraVlMM0x4RlZYQ25J?oc=5",
-        "summary": "Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents PR Newswire Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents - PR Newswire",
-        "published": "Mon, 16 Nov 2026 21:43:00 GMT",
-        "published_kst": "2026-11-17T06:43:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Manufacturers Ramp Up Stockpiling Amid Inflation and Supply Concerns - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNXN0cUxYdW9SVkJmbUdGTmcyTEdkYlA2RllLTWtfUHlhbTcxREVaSzAxb3ZrdGhoazZONm00YlJSYmNJSzFuV25uMXBFRkJsUV90ZFBZNEIxQTdVajZUUEo2emVLOEFCcENjWkNCSkhPdi1HeFc4RGplMjhIckE3aHlfR3dMVmtVYTUxOHBGSnlIRGJDSnRqbnZwQVRTdGNhSmZMS21UWWVkT0N3V3N0a2pHdHZlYU51UHRMM2JZalc0cFQtVUE?oc=5",
-        "summary": "Manufacturers Ramp Up Stockpiling Amid Inflation and Supply Concerns Supply & Demand Chain Executive Manufacturers Ramp Up Stockpiling Amid Inflation and Supply Concerns - Supply & Demand Chain Executive",
-        "published": "Mon, 16 Nov 2026 21:36:08 GMT",
-        "published_kst": "2026-11-17T06:36:08+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Lords join call to protect UK food supply chain - Farmers Guardian",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRkRkY09EUXN6cmdZS2lZUjJ4Q24yeklCa2hoUFd6VzhKRkRFYjRsOVQ0UVZxb0Yxc0hSSmZSVXZhNlIxeGU5RjZZVGxOdldxdE9KdVp6VmZveWNfSWIzWXUxMmt5OG1zT2dZR2F4Sl9aX2xQcGRwQTNvZnRTWHBNSVlVa1pLdjNmcEExWU5R?oc=5",
-        "summary": "Lords join call to protect UK food supply chain Farmers Guardian Lords join call to protect UK food supply chain - Farmers Guardian",
-        "published": "Mon, 16 Nov 2026 21:15:47 GMT",
-        "published_kst": "2026-11-17T06:15:47+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      }
-    ]
+    "world": []
   },
-  "wrap_summary": "United Airlines said Monday that a widespread system outage was affecting departing flights. United Airlines reports system outage affecting departing flights / [속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 한국경제 [속보] 러 군용기 여러대 KADIZ 진입…軍, 전투기 투입 대응 - 한국경제 / Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents PR Newswire Graphic Packaging Consolidates North American Operations and Centralizes Supply Chain, Appointing Two Executive Vice Presidents - PR Newswire",
+  "wrap_summary": "US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings Finimize US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings - Finimize / 벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 한국경제 벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 - 한국경제",
   "invest_summary": ""
 }
