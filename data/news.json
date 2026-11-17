@@ -1,117 +1,149 @@
 {
   "date": "2026-11-17",
-  "generated_at_utc": "2026-11-17T04:12:05Z",
-  "cutoff_kst": "2026-11-17T13:12:00+09:00",
+  "generated_at_utc": "2026-11-17T09:50:43Z",
+  "cutoff_kst": "2026-11-17T18:50:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings - Finimize",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZGp0MjJaLWRBbWxTdURqZUtkWlptT1pzemNubUZTY2w4elR3RkVwWlhKVkNQUWhDNnppYzR2ZlV1eC01U0RaWnhmWFdDdnBCQTZwcnlpRDRmeEx5MXQzXzFyZ0F3VURkcWlXVktzUkxFQk9yVl9HMDZDUDE2bHZtaXdib0FsejIzT29KRG5heFY?oc=5",
-        "summary": "US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings Finimize US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings - Finimize",
-        "published": "Tue, 17 Nov 2026 01:01:04 GMT",
-        "published_kst": "2026-11-17T10:01:04+09:00",
+        "title": "Democrats are still cautiously optimistic about an immigration deal with Trump - Politico",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGpfWW9hc21tY2tCc3dtNk9laUxxaWlkV1JOVjNlclJlR2NUczl1czRveXE3dHlXbF9sdUdOOTdqckkwaDlpc1ZLdWp4Y0hwaWVJdGpwdjJwTEhmXzRNa2pVMjY1ZC1rWkRWX1c4OXZhNE8xQVV2cGxqZTBIOTJYcE5ZZmdTbzJRN0xBWA?oc=5",
+        "summary": "Democrats are still cautiously optimistic about an immigration deal with Trump Politico Democrats are still cautiously optimistic about an immigration deal with Trump - Politico",
+        "published": "Tue, 17 Nov 2026 09:45:00 GMT",
+        "published_kst": "2026-11-17T18:45:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-        "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-        "summary": "Kevin Warsh sees AI at a turning point. Analysis: The Fed's chairman sees an AI revolution coming.",
-        "published": "Tue, 17 Nov 2026 00:42:33 GMT",
-        "published_kst": "2026-11-17T09:42:33+09:00",
+        "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+        "url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
+        "summary": "A 15-million-file leak details alleged control failures at Deutsche Bank, including Epstein-linked payments and a Trump tax blunder. Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
+        "published": "Tue, 17 Nov 2026 09:23:40 GMT",
+        "published_kst": "2026-11-17T18:23:40+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "United Airlines resolves system outage that affected departing flights",
-        "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-        "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack. United Airlines resolves system outage that affected departing flights",
-        "published": "Tue, 17 Nov 2026 00:00:49 GMT",
-        "published_kst": "2026-11-17T09:00:49+09:00",
+        "title": "South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here’s why",
+        "url": "https://www.cnbc.com/2026/11/17/south-korea-suspend-aircraft-exam-markets.html",
+        "summary": "South Korea will suspend aircraft takeoffs and landings nationwide for 35 minutes on Thursday to minimize noise during a college entrance exam. South Korea will suspend all aircraft operation for 35 minutes and markets will open late.",
+        "published": "Tue, 17 Nov 2026 08:39:17 GMT",
+        "published_kst": "2026-11-17T17:39:17+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
-        "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
-        "summary": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom. Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
-        "published": "Mon, 16 Nov 2026 23:23:47 GMT",
-        "published_kst": "2026-11-17T08:23:47+09:00",
+        "title": "Treasury yields are broadly flat as investors await retail sales data",
+        "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+        "summary": "Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session. Treasury yields are broadly flat as investors await retail sales data",
+        "published": "Tue, 17 Nov 2026 08:23:51 GMT",
+        "published_kst": "2026-11-17T17:23:51+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "US tech extends slide ahead of Nvidia earnings - Semafor",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOU91MDJDb1lLTm81Q1NPNXliYjVsM1gtLXFtZU41b29rOHFjVmdYY0ZfV0xKNjQzal9JandrTnhteWRyaTloalZpV2U0TDNLcThfX20zZW9ZenNERHlTV0sxdUgwaTBYN3psNzYwRUZ2c1Z3Y3U1eVJibU5sSDFuSUQwUzhfUWRvcXZETC1ON292TlE?oc=5",
-        "summary": "US tech extends slide ahead of Nvidia earnings Semafor US tech extends slide ahead of Nvidia earnings - Semafor",
-        "published": "Mon, 16 Nov 2026 22:55:00 GMT",
-        "published_kst": "2026-11-17T07:55:00+09:00",
+        "title": "White House Orders Federal Agencies to Get Approval Before Testifying to Congress - Law Commentary",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOajZRd1IwMXozWjFmTnRuWVJ6ZnZhMFdCSmQyZTZQeV9wbEcyb1JsdGNHNWVDZGJXckluREVIRUNsTVE4eVpqOFVSeUxPOWxiUC1uUjJKLTRvTkt6UkJTOWpxN0pEX1kxWWJjb2wtd1RjRF9ORGRXTFdxRGN6SWxaVkw5UzY4SV9YOFFF?oc=5",
+        "summary": "White House Orders Federal Agencies to Get Approval Before Testifying to Congress Law Commentary White House Orders Federal Agencies to Get Approval Before Testifying to Congress - Law Commentary",
+        "published": "Tue, 17 Nov 2026 07:53:58 GMT",
+        "published_kst": "2026-11-17T16:53:58+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Aramark earnings bring US$1 billion buyback and higher dividend - finchannel",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMnkwMlkweWVuYzVVWkVDZFR6d3FLN1YwZ2tHNUp4TE1JWXI2aHpLNlFaZF9XcjNmb0Y3cGJreHRnZGN1LVRveWp6WkxGOXBLQm80VzdYU0ExeC1Qb0w2T3NCeWowRFBDNV9TeXRQSU9hNUtESXg3UGVXREZKdGFmVGUwdl8wbGl1WXl5WVBzSUI5MGd2TzVaYURtd2lsNUhiWjZPb05SWnVJaGNQODlxV2RoTXN6SndoZUFFT0l3TmtfR1pzRTFrTC0zZGgtR2liM2hyTW9B?oc=5",
-        "summary": "Aramark earnings bring US$1 billion buyback and higher dividend finchannel Aramark earnings bring US$1 billion buyback and higher dividend - finchannel",
-        "published": "Mon, 16 Nov 2026 22:38:52 GMT",
-        "published_kst": "2026-11-17T07:38:52+09:00",
+        "title": "Inflation Is Sending US Bond Yields Higher Again. Here’s Why We’re Not Worried - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMXAwUHNsaFRvRDRQWTNkWENEemFteUJibzd3M3pKaVV6SWNBMTB4NjZCdU9sZUJqaW9ObGcyT3dONFUzbTk4amttNDd0Wmh1Yk4wUGs3MWN6VDBKUWxzcERVZTZlaXhDWHRycGdMVktBYWJVWkRDOVp1M1U0RFBQd3k4c1NodFd4MURXbjdHUUp5QzV6NWNER0ZqYzlZeG9OQTRhamx3bUpjV3pFLWFPMnhYZjA2clBOdHhleg?oc=5",
+        "summary": "Here’s Why We’re Not Worried Morningstar Inflation Is Sending US Bond Yields Higher Again. Inflation Is Sending US Bond Yields Higher Again.",
+        "published": "Tue, 17 Nov 2026 07:18:18 GMT",
+        "published_kst": "2026-11-17T16:18:18+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$1"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ydTZ6dkdGZnpoUm1GSTRrYWw0SEpEeUo1Q0daOXhlZnJyNlJEUVQyV0V6czRLdk5nMDR0aWRuZkZiU2hfVzNKejBzcjhscUJYTllIQWdzREZmQQ?oc=5",
-        "summary": "벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 한국경제 벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 - 한국경제",
-        "published": "Tue, 17 Nov 2026 03:04:11 GMT",
-        "published_kst": "2026-11-17T12:04:11+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "韓 총리 \"수능 시험장 스마트기기 원천차단…전수점검\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94T1lxNktDeTlpVDJVWHAxeHlQRlhIZ0dGYUtHUVJTTk1jekU4MHJDR2E5OTBzZ2xRZFh5OUg0QzFnMGJNcDNqUW1MVkFMR045RmRmUDkwNHJKUQ?oc=5",
-        "summary": "韓 총리 \"수능 시험장 스마트기기 원천차단…전수점검\" 한국경제 韓 총리 \"수능 시험장 스마트기기 원천차단…전수점검\" - 한국경제",
-        "published": "Tue, 17 Nov 2026 02:48:00 GMT",
-        "published_kst": "2026-11-17T11:48:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "3040 자산가 “자녀에게 부동산 아닌 주식·펀드 물려주겠다” - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aR0p4TXFWdFZFalVRa0xRd0hRUXVIMTlGd3NuZjNJeTVWdUJmQnh2dnFnOUJTbVZ5MjB5Tk5LdnczdHRZWTlrNnFGMnFiRlM5R0t3T0tPN2tGUQ?oc=5",
-        "summary": "3040 자산가 “자녀에게 부동산 아닌 주식·펀드 물려주겠다” 한국경제 3040 자산가 “자녀에게 부동산 아닌 주식·펀드 물려주겠다” - 한국경제",
-        "published": "Tue, 17 Nov 2026 02:44:17 GMT",
-        "published_kst": "2026-11-17T11:44:17+09:00",
+        "title": "[포토] 2026 대한민국 ESG 경영혁신대상 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OUE1ZOGV1MjlfdGozNkVJMHhCRUtWOWkxa1p3ck5PbDMtcXR4eXBNdEUyX1pYODhXcWR1VWoybzRpdlJ2MC14WkRGVC1FbHNicHJUOWYwQmpOZw?oc=5",
+        "summary": "[포토] 2026 대한민국 ESG 경영혁신대상 한국경제 [포토] 2026 대한민국 ESG 경영혁신대상 - 한국경제",
+        "published": "Tue, 17 Nov 2026 09:16:05 GMT",
+        "published_kst": "2026-11-17T18:16:05+09:00",
         "domain": "google.com",
         "key_figures": [
-          "3040"
+          "2026"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "파워인터뷰 - 한국경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWJKTUViNTVETTJkTjhfRmN1TGxDUHJWT1hzUndUdGxSeWt4RWpCUkdVejNwUml0SE9JRF9QQ2lyUk11a0dYOXFwX28xU3I2dktmUkZPMXhlQmtGOXN5cXFhMVl4V0R4TzBfSDNiU0NHMF9KNzhhai1LZUc1d2VURzlaamxoLUluZDIzTUlHT1ltbld0T2REeWw0RFNIeUFwLTV3?oc=5",
+        "summary": "파워인터뷰 한국경제TV 파워인터뷰 - 한국경제TV",
+        "published": "Tue, 17 Nov 2026 09:04:56 GMT",
+        "published_kst": "2026-11-17T18:04:56+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "AI투심 악화 직격탄…2월로 돌아간 코스피 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oTzhpWGRxNnc5dTBBNWdnTUV3R1gtbVlDdXR0QmRBQjhHd05BYkZsa1k2YWt5MXR6N1gxQTZfQ0xuSTA0TmVScE1pelpvM0RWVU5Ec1FPVldNUQ?oc=5",
+        "summary": "AI투심 악화 직격탄…2월로 돌아간 코스피 한국경제 AI투심 악화 직격탄…2월로 돌아간 코스피 - 한국경제",
+        "published": "Tue, 17 Nov 2026 08:55:48 GMT",
+        "published_kst": "2026-11-17T17:55:48+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "world": []
+    "world": [
+      {
+        "title": "Rio Tinto CEO flags historic minerals demand, urges supply-chain integration - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdG10aEN1ZnpzanJYS1F5M09VWkJqN2FzNE9seXZkOUZfeWtVVldDbU9reHZqRWN4MzhJU19fN0ZxYTNBUlZidE15T1FwMDNzYzBWZEJtY0V3ZmNsLXV1ZHN0OTJnSElMWGNXeVpYQ1Z4WFk3WFZ5V1gyRk43dlJjakdCaEZTNGZ5NkJCX0pIZ3dBOUVLU2RUSldTbDJWeUQyTVZuVElpLWpXUGNJRTFqbGs0UlloejhwOXBsaV9KWmwwbDBMQWhEaE5QUml0YzZuMy1ITnVBZWRwQVNVdGQ0bG5mVmw4d2dZVXc?oc=5",
+        "summary": "Rio Tinto CEO flags historic minerals demand, urges supply-chain integration South China Morning Post Rio Tinto CEO flags historic minerals demand, urges supply-chain integration - South China Morning Post",
+        "published": "Tue, 17 Nov 2026 09:00:05 GMT",
+        "published_kst": "2026-11-17T18:00:05+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "EU sanctions Russian refinery operators and an oil terminal - energynews.pro",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR3BfR3dTNi1sVmpQMGlTbDY3NVJ2aTdFRHRWRERaWlpzSGJWV2NmdHpVdXNJdGRKZWdLUnRHVkMwS25kZ2tGamFmdzFFQnc3dDFKUUluTWpTV0JWdFd5UGdjdlpxamxLdVN1ZFo3R25wY0d5djJhVnBYLW42NGJ3ZGF6cF8wdGxuYURDYVhn?oc=5",
+        "summary": "EU sanctions Russian refinery operators and an oil terminal energynews.pro EU sanctions Russian refinery operators and an oil terminal - energynews.pro",
+        "published": "Tue, 17 Nov 2026 08:31:05 GMT",
+        "published_kst": "2026-11-17T17:31:05+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[Exclusive] 1 Trillion Won Investment in Rare Earth Supply Chain... POSCO International Eyed for National Growth Fund’s First Key Minerals Investment - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wV2FJOEtXQlZ6OEZHNTFrMThrVTJlcExqU21YX0g5cVIzZmIxMjNUWGtEajlyQmFkWnJSUWxMWnZmNGRVRHZXdWJJUzU3Y3M5WEgw?oc=5",
+        "summary": "POSCO International Eyed for National Growth Fund’s First Key Minerals Investment 매일경제 [Exclusive] 1 Trillion Won Investment in Rare Earth Supply Chain... [Exclusive] 1 Trillion Won Investment in Rare Earth Supply Chain...",
+        "published": "Tue, 17 Nov 2026 08:21:58 GMT",
+        "published_kst": "2026-11-17T17:21:58+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ]
   },
-  "wrap_summary": "US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings Finimize US Export Curbs Rattle Asian Tech Ahead Of Nvidia Earnings - Finimize / 벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 한국경제 벤처투자 역대 최대라는데…게임산업은 돈줄 마른다 - 한국경제",
+  "wrap_summary": "Democrats are still cautiously optimistic about an immigration deal with Trump Politico Democrats are still cautiously optimistic about an immigration deal with Trump - Politico / [포토] 2026 대한민국 ESG 경영혁신대상 한국경제 [포토] 2026 대한민국 ESG 경영혁신대상 - 한국경제 / Rio Tinto CEO flags historic minerals demand, urges supply-chain integration South China Morning Post Rio Tinto CEO flags historic minerals demand, urges supply-chain integration - South China Morning Post",
   "invest_summary": ""
 }
