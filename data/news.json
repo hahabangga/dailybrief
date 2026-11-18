@@ -1,70 +1,72 @@
 {
   "date": "2026-11-18",
-  "generated_at_utc": "2026-11-18T03:09:48Z",
-  "cutoff_kst": "2026-11-18T12:09:00+09:00",
+  "generated_at_utc": "2026-11-18T09:23:17Z",
+  "cutoff_kst": "2026-11-18T18:23:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "White House Pulls FDA Nominee Before Hearing, Axios Says - The Spokesman-Review",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcDhfOS0zdDBLSmpHbm9MQmZ0UEYwb0RFYVowUW1TcmZvWnEyMjdKUVlYdDU4cFRoOHk1RktWSkJqMFBVOVcyWlhvQUJJWjM1bTF1blZoUzZ4VXhDY0lIM0NIVXF1VTAtWTBzNFZmVVVzeXR5b1dmWDlmNEk1Sl9UZW0tUVpxbUZ4SG95REE2bThlMVdFY2FJQklSWlRXUQ?oc=5",
-        "summary": "White House Pulls FDA Nominee Before Hearing, Axios Says The Spokesman-Review White House Pulls FDA Nominee Before Hearing, Axios Says - The Spokesman-Review",
-        "published": "Wed, 18 Nov 2026 02:53:20 GMT",
-        "published_kst": "2026-11-18T11:53:20+09:00",
+        "title": "Nvidia stock up 3% as earnings beat expectations. Neoclouds surge",
+        "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+        "summary": "The chip giant's earnings come at a tumultuous time for the company. Nvidia stock up 3% as earnings beat expectations.",
+        "published": "Wed, 18 Nov 2026 09:20:51 GMT",
+        "published_kst": "2026-11-18T18:20:51+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "3%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. stock futures rise as Nvidia earnings beat lifts AI sentiment (US100:IND:) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSW5uYVBIb0Z5YzBWM3EydFphMGxEdlVSb1dOUDI3alNDNFRmdEQxaVNCQk9QendUMl9Db0djcGlld2FmVE11bDlQa0dTblVWSjJNZUF3cTNMTVNqemp4cG1zOGdING1LX2JkYkFMWkh2V1FublRxSFNLRTkyaElxb1dSTmJGVmg4ck41UEZKWFRxMlBCTTVzWVBwcGpnQkJYbUc3Qg?oc=5",
+        "summary": "stock futures rise as Nvidia earnings beat lifts AI sentiment (US100:IND:) Seeking Alpha U.S.",
+        "published": "Wed, 18 Nov 2026 09:12:38 GMT",
+        "published_kst": "2026-11-18T18:12:38+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-        "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-        "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions. JPMorgan is working on AI agent transactions that don’t involve humans",
-        "published": "Wed, 18 Nov 2026 02:52:51 GMT",
-        "published_kst": "2026-11-18T11:52:51+09:00",
+        "title": "Trump lands in China for historic meeting with Xi, Putin",
+        "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+        "summary": "President Donald Trump has landed in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin. Trump lands in China for historic meeting with Xi, Putin",
+        "published": "Wed, 18 Nov 2026 09:11:50 GMT",
+        "published_kst": "2026-11-18T18:11:50+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
-        "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
-        "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine. Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
-        "published": "Wed, 18 Nov 2026 02:50:16 GMT",
-        "published_kst": "2026-11-18T11:50:16+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House withdraws nomination of Heidi Overton to lead FDA - The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2prZzY5aUV5c0ltcUg1aURaYXpBWHVNdjJyU2VuUzBldFBvV1BvZlpjOUVEdXZ6eVdiMGtjNUk0alh2OGVTaDZ5eEZWRGhMdWdHUWNET0oxQkVwWllHaXJFb2xvY2kwRXJfb2Rrd0R5b19SSHdUYjBrd0FSTWpjd3M0T2M4REFqOTl6YnF6S2E?oc=5",
-        "summary": "White House withdraws nomination of Heidi Overton to lead FDA The Guardian White House withdraws nomination of Heidi Overton to lead FDA - The Guardian",
-        "published": "Wed, 18 Nov 2026 02:37:00 GMT",
-        "published_kst": "2026-11-18T11:37:00+09:00",
+        "title": "New Zealand Dollar declines as US Dollar gain ahead of FOMC Meeting Minutes - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVTdMVUlGVUZVWENuR2NJcndORVJ3eEtFWFZULU02aWRXSk1FNFNyQ2huZ0Qyc3ctT1Z1djh4WWtoeUw4NG1IdElRbFVieFpNNDAxVEtSREJEOGRVUUwyYW1UOFg3S0hwam45c0VUSF9ZaEZiQ0ZGbEFJMWQ4VzJwNVR2SUVFTlJQUmpGZW1OTVVGWl84U1VQVXFhTzNhQ1ZEQTBma1puSFh4YzRQZDJrRzB4Z2ZGV1BQWGc?oc=5",
+        "summary": "New Zealand Dollar declines as US Dollar gain ahead of FOMC Meeting Minutes FXStreet New Zealand Dollar declines as US Dollar gain ahead of FOMC Meeting Minutes - FXStreet",
+        "published": "Wed, 18 Nov 2026 08:38:24 GMT",
+        "published_kst": "2026-11-18T17:38:24+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-        "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-        "summary": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-        "published": "Wed, 18 Nov 2026 02:23:20 GMT",
-        "published_kst": "2026-11-18T11:23:20+09:00",
+        "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+        "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+        "summary": "sanctions, and played up opportunities for APEC members in the country. Putin used the speech to emphasize Russia's economic resilience despite U.S.",
+        "published": "Wed, 18 Nov 2026 08:29:35 GMT",
+        "published_kst": "2026-11-18T17:29:35+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House pulls FDA nominee amid bipartisan pushback - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcnRjRmRSNEgxSDlzc25sSkx1Q0tNelRHbDNJMTlXd2FzYV9lTjBFajBvQnNIZmFDMkxDZzBmc1lyeXM3X3o5bThUR1daNEVPV1dmUjE3SFRldmdDYWlZU19MVGhSUXlVcWZKbVBFWTlTNTlrMDlvOGxLRjlfT3djTkpfd1YxSUNGMEk3QzV2VlM2VWl1V3F6LWdGUkZPMTVVN29VUDRPUQ?oc=5",
-        "summary": "White House pulls FDA nominee amid bipartisan pushback The Washington Post White House pulls FDA nominee amid bipartisan pushback - The Washington Post",
-        "published": "Wed, 18 Nov 2026 02:22:21 GMT",
-        "published_kst": "2026-11-18T11:22:21+09:00",
+        "title": "US Dollar Index Price Forecast: DXY could target 104.00 as bulls await FOMC Minutes - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc0hOTmZJQkxIai1DZm55bVRuX2JxV2xRV2JTY3Bva0c1dHNHSGdITjJ0LVNQWXRKbHcwUWhzYkpIblFGMWFnb1UtTWI5VF9TX3FRWDMtU0lmZWZHbXRrUm81WlpxNWtNVEZPcGtTalhmdE9mRnFGek5TTXFiWVhPb0k5ZndyWDczb3A3ZTFScFlHUXh4Rks5NmMxc3o1dDVwTTl2Tk9xSm4xbmEwb3dPNTBZTll4VWhDTTdRZXFaeXM1QQ?oc=5",
+        "summary": "US Dollar Index Price Forecast: DXY could target 104.00 as bulls await FOMC Minutes FXStreet US Dollar Index Price Forecast: DXY could target 104.00 as bulls await FOMC Minutes - FXStreet",
+        "published": "Wed, 18 Nov 2026 08:19:34 GMT",
+        "published_kst": "2026-11-18T17:19:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,36 +75,33 @@
     ],
     "kr": [
       {
-        "title": "KDI \"韓경제, 올해 3.8%·내년 3.9% 성장\"…반도체 호황 지속 - 연합인포맥스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BZndVNjFtSFBzNjdkMHVRSDFyZzNEb0ZCUG04dnMzbXgzYW9vTmx3T2RqMEo5MFc1cUlSWkt3Tms3eE95cUJQSVZjSExtejRVM0dGSVpxVUNhc1REb0pOcTlqTnZpVmtCaWZXNDBhMUE?oc=5",
-        "summary": "KDI \"韓경제, 올해 3.8%·내년 3.9% 성장\"…반도체 호황 지속 연합인포맥스 KDI \"韓경제, 올해 3.8%·내년 3.9% 성장\"…반도체 호황 지속 - 연합인포맥스",
-        "published": "Wed, 18 Nov 2026 03:00:03 GMT",
-        "published_kst": "2026-11-18T12:00:03+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "3.8%",
-          "3.9%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"탄소 팔아 돈 번다\"…노르웨이 찜한 이곳 역대급 거래 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zU3lRM0ROS1hXS181dWU0MEhZdlZ5STVDaHZWa1N4Wjc2VU9rcTE3UTF6NE1qemNFNjUxdkZLTjNQUUhsaGlwTkhJQzBIekY3RS0wWEdXLVZGZw?oc=5",
-        "summary": "\"탄소 팔아 돈 번다\"…노르웨이 찜한 이곳 역대급 거래 한국경제 \"탄소 팔아 돈 번다\"…노르웨이 찜한 이곳 역대급 거래 - 한국경제",
-        "published": "Wed, 18 Nov 2026 02:54:25 GMT",
-        "published_kst": "2026-11-18T11:54:25+09:00",
+        "title": "한국외식업중앙회, 경영안정 바우처·상생배달플랫폼 예산 증액 촉구 - 한국외식신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFdTFpel84VjA1UkhzU21xRmxzbG5zTEtWcGsyME9PSXo0N3hJUUROZG9jSTduaGw3WTlBUGd2YUVkaFVBdnlvNGtwYzZ2THRuUFJpb1ZmMHNpc09aYXFULVBjSUZjckZCT3plVw?oc=5",
+        "summary": "한국외식업중앙회, 경영안정 바우처·상생배달플랫폼 예산 증액 촉구 한국외식신문 한국외식업중앙회, 경영안정 바우처·상생배달플랫폼 예산 증액 촉구 - 한국외식신문",
+        "published": "Wed, 18 Nov 2026 09:16:28 GMT",
+        "published_kst": "2026-11-18T18:16:28+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국규제과학센터, '식의약규제과학원'으로 기관명 변경 현판식 개최 - 팜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkeXpoX1IwOTFyUEJWU0JIMmhtYXRnWE11MHN6d3lUOFZBS3pSNGs4RzgyT3Fidm9DLTE4MlMzV1ZCcUl2SHdoSWJWc05POGpKbmJqdEFPTVBCS190bkJGTDAtanNZOS1iSllnRA?oc=5",
-        "summary": "한국규제과학센터, '식의약규제과학원'으로 기관명 변경 현판식 개최 팜뉴스 한국규제과학센터, '식의약규제과학원'으로 기관명 변경 현판식 개최 - 팜뉴스",
-        "published": "Wed, 18 Nov 2026 02:39:58 GMT",
-        "published_kst": "2026-11-18T11:39:58+09:00",
+        "title": "트럼프-시진핑, 반도체·희토류 해법 나올까 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Ri15MHZXXzI0YUQteHJRMzFQeGVWenZuOGtIYVpUZk1Ob0FCYmE4ckJIRVZ5dXJRYUZPV0pod3A5UnVmU21aZ0NiSG9yWXUxSm52WnJfZnduUQ?oc=5",
+        "summary": "트럼프-시진핑, 반도체·희토류 해법 나올까 한국경제 트럼프-시진핑, 반도체·희토류 해법 나올까 - 한국경제",
+        "published": "Wed, 18 Nov 2026 09:06:46 GMT",
+        "published_kst": "2026-11-18T18:06:46+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "KDI \"韓 경제, 내년 더 좋을 것\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQenJ3OFUydWpvZ0ZSdUZYTmZMY1VRQWdhZmZOVzVyQ1ZpQUJCLWRNRWd0SmpZU3I3cEhlVWNTX0hkVVhmU1RHcm92eWp1ejdxN2hRN2xjRVYzQQ?oc=5",
+        "summary": "KDI \"韓 경제, 내년 더 좋을 것\" 한국경제 KDI \"韓 경제, 내년 더 좋을 것\" - 한국경제",
+        "published": "Wed, 18 Nov 2026 09:01:20 GMT",
+        "published_kst": "2026-11-18T18:01:20+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -111,33 +110,35 @@
     ],
     "world": [
       {
-        "title": "Nearly 200 major websites hit by supply-chain cyber attack - The Business Standard",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHJUWnNESHl4aG9uaEVUMkVteTFkdk0tLUNmYkJ6T2dTQ2ROSTR1aWswSmZEWmNPTGF6emtoMmp5Z3hmLXgxSEFvRmVyS3Z4S045ZzIyWFB6R1V2ZkhIVXdNdU9OUmNGS2xNcGR4Z3EwMnpBazZHOVVOTWVoVWpPWFpsc1VJQUxjNnVYX3Q3SWFmU1BQSGRsYg?oc=5",
-        "summary": "Nearly 200 major websites hit by supply-chain cyber attack The Business Standard Nearly 200 major websites hit by supply-chain cyber attack - The Business Standard",
-        "published": "Wed, 18 Nov 2026 01:50:04 GMT",
-        "published_kst": "2026-11-18T10:50:04+09:00",
+        "title": "Mars commits $22.4m to strengthen India's mint supply chain and farming communities - FoodBev Media",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRjUtVWt1UjRBbVVqemJfSXNoMkc4RFREOFB5WWhRVFBrX2pfaDkxUTJ3cENCeVotSGdsUFFlLXZHVU1oTjAzX0pUekVkNWVkN3hmR2hmQ3lweW1GS01TVVJuU1JDQTI3blZYU0ZHMVpkbU5WZ1FqNGpicWwtMmVVY2hLb3diRWFMZ3FMUTl4ZkhPaU96NFVEcW5zUVVlWnAxLW91M21IcWFySVpyOW54cUU4SmY?oc=5",
+        "summary": "Mars commits $22.4m to strengthen India's mint supply chain and farming communities FoodBev Media Mars commits $22.4m to strengthen India's mint supply chain and farming communities - FoodBev Media",
+        "published": "Wed, 18 Nov 2026 09:11:24 GMT",
+        "published_kst": "2026-11-18T18:11:24+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$22.4"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Samsung Electro-Mechanics Expands Nvidia Partnership to MLCCs - www.thelec.net",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dUkzUTYtbV9OdnlleFFzQ1pHSVEzSHU4eUh2bzlkMFZxNjMxQnBXZnJ1MGZGVnA0TzltUm1JWk5vc1kwR2l2bVhicjR1ZjRCeVJpNGxWWU1uNXBJS1lCWXIwZXJ3MVE?oc=5",
+        "summary": "Samsung Electro-Mechanics Expands Nvidia Partnership to MLCCs www.thelec.net Samsung Electro-Mechanics Expands Nvidia Partnership to MLCCs - www.thelec.net",
+        "published": "Wed, 18 Nov 2026 08:46:56 GMT",
+        "published_kst": "2026-11-18T17:46:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "NVIDIA's Supply Chain Chief Deb Shoquist: Allocating TSMC Chips Weekly, Delivery Cycles Can Be Compressed to Two Weeks - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aVjJYSUMxYV92UDZKT1NxaFVzT3B5Z204S01lMlB1UlJFTHltUXJ0U0lxV3hJWmt3aXBTYjFFMlNGNlZwZzk4c0VTRlMtM2hSNXk2aHI3ZGlVRGItb1dnN1dtVks4Q3VxZXBJem55NHZscUhPT1E?oc=5",
-        "summary": "NVIDIA's Supply Chain Chief Deb Shoquist: Allocating TSMC Chips Weekly, Delivery Cycles Can Be Compressed to Two Weeks BigGo Finance NVIDIA's Supply Chain Chief Deb Shoquist: Allocating TSMC Chips Weekly, Delivery Cycles Can Be Compressed to Two Weeks - BigGo Finance",
-        "published": "Wed, 18 Nov 2026 01:45:00 GMT",
-        "published_kst": "2026-11-18T10:45:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Cambridge Dictionary chooses ‘human’ as word of the year in response to AI fears - Baltimore Sun",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMjlkWjV5RFQ4VXNEZnFpcS14Snd0YnBTSllDQkRhR25sNDQtMS1zNnQ3T0F6elcwZnNGMjUtSlhnd1Q4Zk1zZlRIaTdOd3RuNk9MaGs1VlF6NnNlZFdycDRHS2hXU1NuX3drUS15MlQxYXJTWU0yYnBjS3VqTGVLVA?oc=5",
-        "summary": "Cambridge Dictionary chooses ‘human’ as word of the year in response to AI fears Baltimore Sun Cambridge Dictionary chooses ‘human’ as word of the year in response to AI fears - Baltimore Sun",
-        "published": "Wed, 18 Nov 2026 01:08:01 GMT",
-        "published_kst": "2026-11-18T10:08:01+09:00",
+        "title": "Xi and Putin Blast Western 'Protectionism,' Sanctions Before Meeting Trump at APEC - The Moscow Times",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjF5M2ZXODdvbVBrNGFlWGVaTkVtOHBTUjlQTWcycjZxUUlFTzNRQ3N4VG1GRGQzSlc2YURXMFFSZGo1QzVMeDZhendteFJJYzNyU0tjdVppNy1hVXpwTktxYzhhWnk2MDF2LUk2cEM3ZGxPeUx5T1hEdldLblN4NTFiWVQ1OEtxcVFsQ1JabWpjRnZsZlhvdWFrelpwTERHdDcyZkNtaDFsRXA2RzJZalp1amhfRWY3cUdTVA?oc=5",
+        "summary": "Xi and Putin Blast Western 'Protectionism,' Sanctions Before Meeting Trump at APEC The Moscow Times Xi and Putin Blast Western 'Protectionism,' Sanctions Before Meeting Trump at APEC - The Moscow Times",
+        "published": "Wed, 18 Nov 2026 08:02:18 GMT",
+        "published_kst": "2026-11-18T17:02:18+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -145,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "White House Pulls FDA Nominee Before Hearing, Axios Says The Spokesman-Review White House Pulls FDA Nominee Before Hearing, Axios Says - The Spokesman-Review / KDI \"韓경제, 올해 3.8%·내년 3.9% 성장\"…반도체 호황 지속 연합인포맥스 KDI \"韓경제, 올해 3.8%·내년 3.9% 성장\"…반도체 호황 지속 - 연합인포맥스 / Nearly 200 major websites hit by supply-chain cyber attack The Business Standard Nearly 200 major websites hit by supply-chain cyber attack - The Business Standard",
+  "wrap_summary": "The chip giant's earnings come at a tumultuous time for the company. Nvidia stock up 3% as earnings beat expectations. / 한국외식업중앙회, 경영안정 바우처·상생배달플랫폼 예산 증액 촉구 한국외식신문 한국외식업중앙회, 경영안정 바우처·상생배달플랫폼 예산 증액 촉구 - 한국외식신문 / Mars commits $22.4m to strengthen India's mint supply chain and farming communities FoodBev Media Mars commits $22.4m to strengthen India's mint supply chain and farming communities - FoodBev Media",
   "invest_summary": ""
 }
