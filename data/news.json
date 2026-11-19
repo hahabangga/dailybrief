@@ -1,70 +1,72 @@
 {
   "date": "2026-11-19",
-  "generated_at_utc": "2026-11-18T21:07:13Z",
-  "cutoff_kst": "2026-11-19T06:07:00+09:00",
+  "generated_at_utc": "2026-11-19T02:50:55Z",
+  "cutoff_kst": "2026-11-19T11:50:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
-        "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-        "summary": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren Nvidia's earnings come at a tumultuous time for the company.",
-        "published": "Wed, 18 Nov 2026 21:06:49 GMT",
-        "published_kst": "2026-11-19T06:06:49+09:00",
+        "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+        "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+        "summary": "midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit. Elon Musk spoke about Jensen Huang, his U.S.",
+        "published": "Thu, 19 Nov 2026 02:49:35 GMT",
+        "published_kst": "2026-11-19T11:49:35+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+        "title": "White House: FEMA ‘reviewing’ disaster declaration for Nov. 2 flooding - WKMG",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMlVfc0lJQzhIZV9jZW4zUmRJNndPdVJVeWdkeUZCYWNZSGhRNEg5QlJPbmxCYzlaUVp6V0xNamhNTzdkbl85Z1JwdjVNU2NoOWZDNlRIdjlsSVVnMllqUFJZclhaYWJ2Z2JCU3NoSjgybUtuNUtVUFVJc19BcVlRenRSRG81eXpFWDR0dVpDdm5OLVd0eHY1VDhxR0pkdzFBLWNvZDQ4V2ZMVi1ueVBNQUZOV0RaTkJsV0E?oc=5",
+        "summary": "2 flooding WKMG White House: FEMA ‘reviewing’ disaster declaration for Nov. 2 flooding - WKMG",
+        "published": "Thu, 19 Nov 2026 02:36:52 GMT",
+        "published_kst": "2026-11-19T11:36:52+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Palo Alto Networks Rallies on Blowout Earnings Amid Wave of U.S. Digital Outages - NAI500",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1ZCUDFBM1Vubm5ITHlxSDFZMmlUZ1d4SjNmQ3E2S2lMbzh4TGFZb1pxS1poYkNUc19xZm9KUzlmVS1Qdy1tSk96N3ZiZkQyQmVCN0pmSkpiNzZLREFFM2JjX2c2MnoxWWhEVFhrcTFDOVpkRzhZc09oLXJWTm5BOUlNMGdDVVZGVXV5TDE1WlBob3RwUHdqUmE0MUZUSnhBekpfZnJLNk1fUHhtOVYybFBB?oc=5",
+        "summary": "Digital Outages NAI500 Palo Alto Networks Rallies on Blowout Earnings Amid Wave of U.S. Digital Outages - NAI500",
+        "published": "Thu, 19 Nov 2026 01:16:51 GMT",
+        "published_kst": "2026-11-19T10:16:51+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
         "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-        "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday. Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
-        "published": "Wed, 18 Nov 2026 20:20:35 GMT",
-        "published_kst": "2026-11-19T05:20:35+09:00",
+        "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday. Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+        "published": "Thu, 19 Nov 2026 01:13:20 GMT",
+        "published_kst": "2026-11-19T10:13:20+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$81"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+        "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+        "summary": "The ASEAN summit in the Philippines failed to conclude the Code of Conduct for the South China Sea despite Manila pledging it would happen this year. One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+        "published": "Thu, 19 Nov 2026 00:31:00 GMT",
+        "published_kst": "2026-11-19T09:31:00+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nvidia reverses, metals crash ahead of Anthropic IPO",
-        "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
-        "summary": "Big moves have options traders wondering if Anthropic's IPO is spurring a rotation trade. Nvidia reverses, metals crash ahead of Anthropic IPO",
-        "published": "Wed, 18 Nov 2026 20:10:07 GMT",
-        "published_kst": "2026-11-19T05:10:07+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US Federal Reserve Officials Focused on Inflation Risks at October Meeting - صحيفة مال",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RMjVHWEF4UTZhZ1ptdkV5RjVwdEdlNV9QZFBMWVpUYjJtQmVqLVNUZzlLNnFzQWEzYlllWDNLVEJyNGNia2Z1Z3NRODNrNHNlNXpjczFTSUJaYWJGbkhOa3RvNzB4Y1RjNmtsYjU3VQ?oc=5",
-        "summary": "US Federal Reserve Officials Focused on Inflation Risks at October Meeting صحيفة مال US Federal Reserve Officials Focused on Inflation Risks at October Meeting - صحيفة مال",
-        "published": "Wed, 18 Nov 2026 20:00:27 GMT",
-        "published_kst": "2026-11-19T05:00:27+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House pulls Heidi Overton’s nomination for FDA chief - CIDRAP",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUm9PVXhfT0tEWko1Z2NXTnlIbVpuaGVlaGotRWd5VFhqczJ6OE1mOFVxQUNzQnFFM0xQTGpVS3FjODQ1WWhWSVk3QjRTSkdyS0VsUkdCaHFtSU9RZVRwa2VHQzZDbXZpeWE1Vmk0dDRjVmxzR2FRemRFVXFLVnN1WWNnWDVZMVR6WFFWMS1fX0k2c09rbjdKM1E4OA?oc=5",
-        "summary": "White House pulls Heidi Overton’s nomination for FDA chief CIDRAP White House pulls Heidi Overton’s nomination for FDA chief - CIDRAP",
-        "published": "Wed, 18 Nov 2026 19:58:00 GMT",
-        "published_kst": "2026-11-19T04:58:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Lawmakers call on White House to develop defensive AI cyber systems - The Record from Recorded Future News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zUkw3Rm82dklVNGxMc1dfYkFSOU5MVFB2UUdTVDFZYVRlSEY3akVvODlfN21ORk10dkJCSVZMaVRmaTA4RDdFUTRXclQ0UUI0WUcyX2F5QQ?oc=5",
-        "summary": "Lawmakers call on White House to develop defensive AI cyber systems The Record from Recorded Future News Lawmakers call on White House to develop defensive AI cyber systems - The Record from Recorded Future News",
-        "published": "Wed, 18 Nov 2026 19:26:42 GMT",
-        "published_kst": "2026-11-19T04:26:42+09:00",
+        "title": "US Catholic bishops' new AI task force urges regulation and worker protections - News4JAX",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVEpYQXFZSzJ4NExMbUFKRVV2eHFSN3JSdFNuS3hiX04xZkY3eEpEY2Y1RUg0MTAwTEU1U1lMQmFUcW5rdEg1OFA4VFR4RHE5d3QtakhnTGVVWE5JdGN2WXZldUZhN3d5WTAwWTIwenJEQ25MQk5NNjIyWm03VDFaOV85Q1AzMjl4RnF3MUdpcWY2WXZTb21GazhxbXNnNlpzODNGMnBYVnk1U1FSWjY0Mjg1cWdncnBPS3Bn?oc=5",
+        "summary": "US Catholic bishops' new AI task force urges regulation and worker protections News4JAX US Catholic bishops' new AI task force urges regulation and worker protections - News4JAX",
+        "published": "Thu, 19 Nov 2026 00:12:02 GMT",
+        "published_kst": "2026-11-19T09:12:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -73,74 +75,70 @@
     ],
     "kr": [
       {
-        "title": "\"일찌감치 연차 냈습니다\"…전 세계 직장인 들썩인 이유 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2NnFjSzdJRGxNcEk4NXRkTTRzQkNHaGhHdU96dkZZZV9lMWpQdy1QWVBIblVqcHQ2Rzd3bWxDR19naTAxY1lHNU03TExKbnBBbDRSeDVkMWRIUQ?oc=5",
-        "summary": "\"일찌감치 연차 냈습니다\"…전 세계 직장인 들썩인 이유 한국경제 \"일찌감치 연차 냈습니다\"…전 세계 직장인 들썩인 이유 - 한국경제",
-        "published": "Wed, 18 Nov 2026 21:00:10 GMT",
-        "published_kst": "2026-11-19T06:00:10+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"샤오미가 삼성과 붙는다면\"…난공불락 한국인, 속마음 '깜짝' [트렌드시그널] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KaHh6MWhfTEZOcXQzNmdMR282NHFZeWo2YUhzdVk1ZS1OaFh6aVZVY21WRE1xSW5DT29iUG1fZjFQRkhnQjd2OGFIVnJna2k1emZQNFJSUzBHQQ?oc=5",
-        "summary": "\"샤오미가 삼성과 붙는다면\"…난공불락 한국인, 속마음 '깜짝' [트렌드시그널] 한국경제 \"샤오미가 삼성과 붙는다면\"…난공불락 한국인, 속마음 '깜짝' [트렌드시그널] - 한국경제",
-        "published": "Wed, 18 Nov 2026 21:00:07 GMT",
-        "published_kst": "2026-11-19T06:00:07+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[2027 투자전략] ① 세계경제 떠받친 AI 투자 둔화…경기침체 뇌관 되나 - 뉴스핌",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hWnFHV0lUVTlpOXE4eWJOOTlGRDB2WlphTy13NTh4bko1Q2VEeUVfa0d6MF9FOGdkdmZKTVhDQU1fejBTQ1Q4OElpUU01MDhIUy0zSlZDUDRTNXRX?oc=5",
-        "summary": "[2027 투자전략] ① 세계경제 떠받친 AI 투자 둔화…경기침체 뇌관 되나 뉴스핌 [2027 투자전략] ① 세계경제 떠받친 AI 투자 둔화…경기침체 뇌관 되나 - 뉴스핌",
-        "published": "Wed, 18 Nov 2026 21:00:00 GMT",
-        "published_kst": "2026-11-19T06:00:00+09:00",
+        "title": "한투 '글로벌 리서치' 1000만회 '클릭'…최고 인기 리포트는 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WLXFzRGRFNEtpbTU4QUtOd2hTa2FMaGJQWlY0czd3NnJIV2pzVGVuT1ViTk0tclpqYkw2cmFmM2Z3dFozN3hnNlhfY2dSUlloampoOFdOaTZGUQ?oc=5",
+        "summary": "한투 '글로벌 리서치' 1000만회 '클릭'…최고 인기 리포트는 한국경제 한투 '글로벌 리서치' 1000만회 '클릭'…최고 인기 리포트는 - 한국경제",
+        "published": "Thu, 19 Nov 2026 02:30:01 GMT",
+        "published_kst": "2026-11-19T11:30:01+09:00",
         "domain": "google.com",
         "key_figures": [
-          "2027"
+          "1000"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[포토] 파리바게뜨, K-베이커리 페스티벌 참석 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02LUg5NUJwT0pqTWgxM1Y5UHZWaERFZmxpS2dPaVU0VzNfakQ1alZqTTZnYjNHSHRfNVRYQTR6ODdiYWp1UGhrcGN2ZkZTS3haTW9RT01uWnFpUQ?oc=5",
+        "summary": "[포토] 파리바게뜨, K-베이커리 페스티벌 참석 한국경제 [포토] 파리바게뜨, K-베이커리 페스티벌 참석 - 한국경제",
+        "published": "Thu, 19 Nov 2026 02:24:46 GMT",
+        "published_kst": "2026-11-19T11:24:46+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "동국제약, 화장품 수출 '날개'…연매출 1조 시대 연다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dWNfLVByVzhBVmQ1MVgxTk50amkwa3l2ZEdFd0RPelVHSktaZW8xT0RYTDI1YVl3QzUyNU84ZUFmRXliU2EwSWxOSU5hbTdlczEzb0lFTDVRUQ?oc=5",
+        "summary": "동국제약, 화장품 수출 '날개'…연매출 1조 시대 연다 한국경제 동국제약, 화장품 수출 '날개'…연매출 1조 시대 연다 - 한국경제",
+        "published": "Thu, 19 Nov 2026 02:24:00 GMT",
+        "published_kst": "2026-11-19T11:24:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "Mission Solar Energy puts supply chain transparency in the spotlight at RE+ 2026 - Solar Power World",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUWl1T3R6UThMWmx3RlpQVTJweC15SFU1cVNRaFRlQk13Q21PRHNVcmRMcXNPWEFTOV9JNDFlcl9ZTkJqV2QwNzd4dVlqVU9JVEtUbVZkWnlGdUMzYU91c2ktd0FaR2t4Yi1ON2Y2d2ZMMDZJSFpUVDcyZ0I5NGVmOEI5MjFlZ0tEaE5qQWtwbVBDbTAyZjJWTGM0V25NZTFfbm5oX0ZLbG1RNHdWSGl4SXNOTUgxWVlCZWxNSG9RYS1pSFVy?oc=5",
-        "summary": "Mission Solar Energy puts supply chain transparency in the spotlight at RE+ 2026 Solar Power World Mission Solar Energy puts supply chain transparency in the spotlight at RE+ 2026 - Solar Power World",
-        "published": "Wed, 18 Nov 2026 19:39:24 GMT",
-        "published_kst": "2026-11-19T04:39:24+09:00",
+        "title": "Genie Powers GSK’s Supply Chain - Databricks",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBocjgtQnNpenpFYWJhOTl5dVpuMk9BN0IzaktxbVZwRk1ta0pMMEt4d0NSNGNGRVhBVlhaMTJqWXMtR0k3R0tvRFFRSFhHX085ZFVubEVzS2hiUQ?oc=5",
+        "summary": "Genie Powers GSK’s Supply Chain Databricks Genie Powers GSK’s Supply Chain - Databricks",
+        "published": "Thu, 19 Nov 2026 02:39:39 GMT",
+        "published_kst": "2026-11-19T11:39:39+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "UL Solutions Strikes $350 Million Deal for Supply Chain Data Firm Worldly - ESG News",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmlsSGJmSDE3bXcwZmNVQTQtcDdsc2VLZ3NZSWt1RkxFSmxnYi14ZTJqRzZEUTRvajd6NjFhQkZ6cEp2NE4tX1gzZXhEUjRvRGlOMGgtdlNlbERKc0ZwcFFiNy05dTBqTDRmNm51anBOMTBGVDZpNUZvbWc3anRtcmlDXzZZUkFBOERzb2FtdG9DUW9MbU85ZQ?oc=5",
-        "summary": "UL Solutions Strikes $350 Million Deal for Supply Chain Data Firm Worldly ESG News UL Solutions Strikes $350 Million Deal for Supply Chain Data Firm Worldly - ESG News",
-        "published": "Wed, 18 Nov 2026 19:36:08 GMT",
-        "published_kst": "2026-11-19T04:36:08+09:00",
+        "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - New Hampshire Union Leader",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdjhOSmFuVEtLZ3AyT1pwZDNmWG1BbnNrZzctODdtWnpPTGo0UTYwUjZtMVB0SWVObnBFZFc4M0V3b2JjaVAtNmdjdHMta05aSldTckJRV3R1UjlSb2Vabzk1R213TmxzUm03Z25vRllHV1hkTERpNVNPSktWRUVoQTA5bUpiZjZBQ2hjb2t5VWVsM2VFb3dlRTdMMlU4SmdqcmtuREdPQmtrZWFyS0RKUVZZRnFyaUV5bG95M3d5TjVBZS1jZ002YXlFY19xMXVQSVRZeQ?oc=5",
+        "summary": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China New Hampshire Union Leader Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - New Hampshire Union Leader",
+        "published": "Thu, 19 Nov 2026 00:26:34 GMT",
+        "published_kst": "2026-11-19T09:26:34+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "$350"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "ketteQ Launches AI Capability for Supply Chain Planning - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY1Z5RjQxbjBfNmdpWFlyRVlOVERMMEllbW5majZqYlltNlRicE5BblhuSkQ3TzhaangxZkFpaUVXQ0VKQ0UySW1WU0xaUkdfVV9tS0Naek10REFvVWpsTFh2Y01uQURwWWRkMWxLa0laSHhDa0tpQzdSdkFZYkEweDk4YllQaWxVOC14bTY5OTN0WF9ydnc?oc=5",
-        "summary": "ketteQ Launches AI Capability for Supply Chain Planning Supply Chain Digital Magazine ketteQ Launches AI Capability for Supply Chain Planning - Supply Chain Digital Magazine",
-        "published": "Wed, 18 Nov 2026 17:46:19 GMT",
-        "published_kst": "2026-11-19T02:46:19+09:00",
+        "title": "Tehran threatens oil routes, wider missile strikes amid US sanctions - Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DSEVVUmJnOUlvaHpJLWFZUWN1ZHdfZUh0ZVNwZlBLMXNCbzVaLXlXUDBaZjQ2dE5YbnJLOExKbTdqYm41cHQ3bFkteTJPMmlDTkE?oc=5",
+        "summary": "Tehran threatens oil routes, wider missile strikes amid US sanctions Iran International Tehran threatens oil routes, wider missile strikes amid US sanctions - Iran International",
+        "published": "Wed, 18 Nov 2026 23:16:10 GMT",
+        "published_kst": "2026-11-19T08:16:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren Nvidia's earnings come at a tumultuous time for the company. / \"일찌감치 연차 냈습니다\"…전 세계 직장인 들썩인 이유 한국경제 \"일찌감치 연차 냈습니다\"…전 세계 직장인 들썩인 이유 - 한국경제 / Mission Solar Energy puts supply chain transparency in the spotlight at RE+ 2026 Solar Power World Mission Solar Energy puts supply chain transparency in the spotlight at RE+ 2026 - Solar Power World",
+  "wrap_summary": "midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit. Elon Musk spoke about Jensen Huang, his U.S. / 한투 '글로벌 리서치' 1000만회 '클릭'…최고 인기 리포트는 한국경제 한투 '글로벌 리서치' 1000만회 '클릭'…최고 인기 리포트는 - 한국경제 / Genie Powers GSK’s Supply Chain Databricks Genie Powers GSK’s Supply Chain - Databricks",
   "invest_summary": ""
 }
