@@ -1,73 +1,75 @@
 {
   "date": "2026-11-20",
-  "generated_at_utc": "2026-11-19T18:55:27Z",
-  "cutoff_kst": "2026-11-20T03:55:00+09:00",
+  "generated_at_utc": "2026-11-19T21:12:41Z",
+  "cutoff_kst": "2026-11-20T06:12:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Anthropic's historic IPO is a boon to these 12 portfolio stocks. Here's how they benefit",
-        "url": "https://www.cnbc.com/investingclub/2026/11/19/anthropics-historic-ipo-is-a-boon-to-these-12-portfolio-stocks-heres-how-they-benefit.html",
-        "summary": "From chips to industrials and banks, we have companies that stand to gain from Anthropic's blockbuster debut. Anthropic's historic IPO is a boon to these 12 portfolio stocks.",
-        "published": "Thu, 19 Nov 2026 18:48:29 GMT",
-        "published_kst": "2026-11-20T03:48:29+09:00",
+        "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+        "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+        "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China. Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
+        "published": "Thu, 19 Nov 2026 21:08:45 GMT",
+        "published_kst": "2026-11-20T06:08:45+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-        "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-        "summary": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney. Jensen Huang's — and Nvidia's — legal exposure balloons",
-        "published": "Thu, 19 Nov 2026 18:44:34 GMT",
-        "published_kst": "2026-11-20T03:44:34+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "US gas exporters more comfortable signing European deals after EU delays methane regulation - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ZuUlpxWkdlajd2bGh6anB2TWphTmU2TVVLR21rWnViZnNEUmNMOVRVLXItNjNxTWZ2RUlDa04xdXU3OTNwXzlyVk90cEhGX3RvM1lSYW5LU0E3NnFvZ2dSTmQxUl9tUktzcGh0NEhZOE9RdDQ2WXVvbUdma1UtN3h6eEF1REdXSGtaTHVoNVJOOTd4WFdveE0tT2tBWjlYNkZEakJJbTZRbEw0dmF0cmFmQkQ5Yy1jTE1YZ2xwS0dQWDVqTXFlRDdpeGU?oc=5",
-        "summary": "US gas exporters more comfortable signing European deals after EU delays methane regulation Reuters US gas exporters more comfortable signing European deals after EU delays methane regulation - Reuters",
-        "published": "Thu, 19 Nov 2026 18:42:45 GMT",
-        "published_kst": "2026-11-20T03:42:45+09:00",
+        "title": "House Democrats eye stock trading ban as early priority next Congress - Roll Call",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXlOTHRoREVuTlBrVHZRWUV3cnctYlYyX2k3V1UwSF81ZGVJN2VJUUlUT2JuRkpzcWJFV2loeVRkYUJqQnB0Q2FzWU84MjBJSGRCNVk0UjVRVFJEbmdOWV9YdFN0QW91d1BQM1gyVUQ4U3ZIQTEwMndYT1FBZEwwNWFpN3J5OW1nUy1BbmVFVEo?oc=5",
+        "summary": "House Democrats eye stock trading ban as early priority next Congress Roll Call House Democrats eye stock trading ban as early priority next Congress - Roll Call",
+        "published": "Thu, 19 Nov 2026 21:01:10 GMT",
+        "published_kst": "2026-11-20T06:01:10+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
-        "url": "https://www.cnbc.com/2026/11/19/netflix-amazon-fox-bid-for-2030-mens-world-cup-rights-disney-out.html",
-        "summary": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out Netflix, Amazon and Fox are among those bidding on the 2030 men's World Cup media rights.",
-        "published": "Thu, 19 Nov 2026 18:30:51 GMT",
-        "published_kst": "2026-11-20T03:30:51+09:00",
+        "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+        "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+        "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+        "published": "Thu, 19 Nov 2026 21:00:57 GMT",
+        "published_kst": "2026-11-20T06:00:57+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2030"
+          "$4.5"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Symone Sanders Townsend: Trump doesn’t know who he’s ‘messing with’ in Lisa Cook - MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeFYxUWxTLUJwbGlTRDY5X3NSWFNwaHR4Yld5RXJpckt5NUFOMGY1ajVlRVVjaVlZdjRVWndvZ2FIVlVGZmtBRnZEdlVVWURRZFAtT293RlB1S1l1cWNWeTZlclpscE5qdDE2c1pkWGhkNXRIUl93cUdlT3FTU1hSMmJzTDdhbHc?oc=5",
-        "summary": "Symone Sanders Townsend: Trump doesn’t know who he’s ‘messing with’ in Lisa Cook MS NOW Symone Sanders Townsend: Trump doesn’t know who he’s ‘messing with’ in Lisa Cook - MS NOW",
-        "published": "Thu, 19 Nov 2026 18:06:22 GMT",
-        "published_kst": "2026-11-20T03:06:22+09:00",
+        "title": "White House largely mum in aftermath of historic three-way summit - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVlGclNiNWlxQTIzdHpIZVN6emo3THZXZGkxNExwWXlJVDZiQUc2T01YcU5VUU9YUzEzcW41c2dXdml2UnpsTzduRk9qdGRpVGFHZmZDR2t1N0lMN1ZiVThBc0hjSFZXMGY1cHFGZDh0RWhrT2wxZlRRRnZWR2NuLVpBRllELTBpNkszS053U0tmQzl0SW84MjU2Q0ZwSEhPVFhCcTdBTQ?oc=5",
+        "summary": "White House largely mum in aftermath of historic three-way summit The Washington Post White House largely mum in aftermath of historic three-way summit - The Washington Post",
+        "published": "Thu, 19 Nov 2026 20:54:24 GMT",
+        "published_kst": "2026-11-20T05:54:24+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMF90TDNmOE5NZDdRdFNJY0NTMjRtVEgtM2d5c0tneWFIRlgwZ2kxQm5xanFDTTFoUkVnMUtzc2ZnRzZiNFdPX2RKOHZUeml2R1FrbU91YXJLN0tNNHdCakRKLUpqOWR6TUNncGxqSkhmOEtqV2tNemZnY2twaFdkRk8tQWdERFdaak5ZdmliWC1vZ9IBlwFBVV95cUxOQXhDcmxvYTY2RkxKUzZJRGNmYUhUbkhWYzU3TVhqbGY2ZlZCdWZUcVZ5WE8yZnpxTFlQbG1xaUgxNG9JWXIwRThqblFNM09VejBMNFA1TXgxQmxFbDJhWGhFQWtEbWRFM29YRllPaTA3WEV4RFpicndzX2ctUEhGQnk0NlRkeFpNRW9YQlk1b2l3VEhGcVVr?oc=5",
-        "summary": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew CNBC Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew - CNBC",
-        "published": "Thu, 19 Nov 2026 17:59:04 GMT",
-        "published_kst": "2026-11-20T02:59:04+09:00",
+        "title": "President Donald J. Trump Visits China — November 18-19, 2026 - The White House (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmhMQkxKdHlBWDRacjVodXBLMEZjNmFlc1dFMndQZjhHMHhoZkhKU1RuZjJyWnZPQUh5Ymdsd295cjZ4SVF0Ym1ieEF6bGI3NHRXRXpwNXhNZnhKR2pvcUV2Ri1fa1o2UFB6MGR3dFJaLTdsQzd5VjlkUWF0MWloS0RoVFRRZjhzczlVYVRrUHpaWWFUYTA2aQ?oc=5",
+        "summary": "Trump Visits China — November 18-19, 2026 The White House (.gov) President Donald J.",
+        "published": "Thu, 19 Nov 2026 20:48:17 GMT",
+        "published_kst": "2026-11-20T05:48:17+09:00",
         "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
+        "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+        "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year. Amazon app warns New York of higher costs if Mamdani delivery law passes",
+        "published": "Thu, 19 Nov 2026 20:46:23 GMT",
+        "published_kst": "2026-11-20T05:46:23+09:00",
+        "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,33 +77,35 @@
     ],
     "kr": [
       {
-        "title": "한국어린이집총연합회 전국가정분과위원회, 어린이집 급간식비 격차해소 예산 반영 촉구 릴레이 대회 개최 - 베이비뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Semx4NHNiNXY5MXAwOUszZmVaUzB2NDVVa2lXaEM2MHBPTU50N3lFbXJLNVVEa2JUSnVGdVFyWENXS18zOUtVMF9leFhnVWFMdEJMVTVLUGNiT0dWaEJGNmxPNHM1NnZES25rag?oc=5",
-        "summary": "한국어린이집총연합회 전국가정분과위원회, 어린이집 급간식비 격차해소 예산 반영 촉구 릴레이 대회 개최 베이비뉴스 한국어린이집총연합회 전국가정분과위원회, 어린이집 급간식비 격차해소 예산 반영 촉구 릴레이 대회 개최 - 베이비뉴스",
-        "published": "Thu, 19 Nov 2026 17:50:36 GMT",
-        "published_kst": "2026-11-20T02:50:36+09:00",
+        "title": "[속보] 앤트로픽, 상장 첫날 97.17달러로 마감 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3RQaXIyTTRMd2xoa2R3ZndaaUNkdUhNMUpVbDNKNGtVTlpKcTYtYXc1T21PejU5ODM1MEdBcFdFWDNJSEUyOEZwYUs3WHpYSFpjTXZhQVh3dw?oc=5",
+        "summary": "[속보] 앤트로픽, 상장 첫날 97.17달러로 마감 한국경제 [속보] 앤트로픽, 상장 첫날 97.17달러로 마감 - 한국경제",
+        "published": "Thu, 19 Nov 2026 21:09:16 GMT",
+        "published_kst": "2026-11-20T06:09:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "‘수출 대국 코리아’… 62년 만에 1만배로 키웠다 - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcnJXX2NXZFNzZVY1T2VnaUljdG9wWmo5T3VVTFdxZWxNYVcxY1VSYWRGZmRuem5nNkRvUnQtNUtiX0Z5MHBMbHRYUDhSOFJJZGtqVHpSSDR1X3ZfeUdDZ05oQXpLd3RFSEdwUUhfSUVxRjVrS2VsdkRPZ1plZ0lDLTZaSExPWGlzaVpXdjl1WQ?oc=5",
-        "summary": "‘수출 대국 코리아’… 62년 만에 1만배로 키웠다 조선일보 ‘수출 대국 코리아’… 62년 만에 1만배로 키웠다 - 조선일보",
-        "published": "Thu, 19 Nov 2026 15:31:00 GMT",
-        "published_kst": "2026-11-20T00:31:00+09:00",
+        "title": "'中 때문에 웃게 될 줄이야'…드디어 29% 잭팟 터졌다 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BSDhkWnZ5X09QSS1MWmxTazYxdjFIMUtaTW1xTE5ndVBhWG9jc1A3aGhnVjFhQ05sSUJJblRkcHl3Y0lCejZhQkdER0p3Yk9fWEI4Z3FZQ3VFdw?oc=5",
+        "summary": "'中 때문에 웃게 될 줄이야'…드디어 29% 잭팟 터졌다 한국경제 '中 때문에 웃게 될 줄이야'…드디어 29% 잭팟 터졌다 - 한국경제",
+        "published": "Thu, 19 Nov 2026 21:00:01 GMT",
+        "published_kst": "2026-11-20T06:00:01+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "29%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국 수출 1조달러 돌파… 獨-美-中 이어 네번째 - 동아일보",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91RHlfSk5sZzRrNG95Z1d4YjBMUFZNQ2VVbVhtclFUTUx1M2l2b0lFS2hLR2RaZWk5T0hxdG8zeXN6RDUxSy12RmVpanRaak5TZWpMck1FR1NrdTh3RW5oWDB0cnRtTjM4Z1drbUdXc1p5OVE3X0E?oc=5",
-        "summary": "한국 수출 1조달러 돌파… 獨-美-中 이어 네번째 동아일보 한국 수출 1조달러 돌파… 獨-美-中 이어 네번째 - 동아일보",
-        "published": "Thu, 19 Nov 2026 15:30:00 GMT",
-        "published_kst": "2026-11-20T00:30:00+09:00",
+        "title": "오징어에서 반도체·BTS까지…수출 1조 달러 일군 10대 개척자 - 중앙일보",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVQmo2Um91aDh5T1EtVlRUSkZfa3l0Y0VkTF9HbGdQZWpCUDZLQTNha2s3U0E2WjdoWXlyS3NMUkNCQW5hQzQwWXppSFNXTzhBTlIwWnFR?oc=5",
+        "summary": "오징어에서 반도체·BTS까지…수출 1조 달러 일군 10대 개척자 중앙일보 오징어에서 반도체·BTS까지…수출 1조 달러 일군 10대 개척자 - 중앙일보",
+        "published": "Thu, 19 Nov 2026 20:00:02 GMT",
+        "published_kst": "2026-11-20T05:00:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -109,6 +113,17 @@
       }
     ],
     "world": [
+      {
+        "title": "Fleet Electrification: Beyond Sustainability to Operations - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3pDRWRXYnppdTMtemF5VlhlSUZhbmp1X3RUUEZYVUxDWGxhRzFEQkJmTW51eVRYNUZhSFA2Y29ndDBTVlpmUG85emNCekg4VHRQMWE2cUdjVHl0S0hndEN2eERGMms1VUs2NDdXM1p6NWozQzBaZkZFLXRpekkxdG5PWEtuUlBCeUgyMTlFTlhvWHZQbmhhcUVZbjgzU3B4VHBZZlZuRzE0UHlYM0JXT05RNzVwb0YyU095dmVsRW8wSGtnVzBvbkk1R2VVVVUtc3RaS2hJU3lxa3c?oc=5",
+        "summary": "Fleet Electrification: Beyond Sustainability to Operations Supply & Demand Chain Executive Fleet Electrification: Beyond Sustainability to Operations - Supply & Demand Chain Executive",
+        "published": "Thu, 19 Nov 2026 19:41:15 GMT",
+        "published_kst": "2026-11-20T04:41:15+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Holocene Launches AI Agents for Supply Chain Efficiency - Supply Chain Digital Magazine",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmVQUFhzdEU5WG1jbkNGYnM5M3hUcXVFR1g2WmVuSi1UU2RVZVM1SDZUc0xkTlpDbmIzWlA5YVhnTmQweFhBcDkyUS0tY2ZPSFNZRkpMX2RLQVNEYXVuUGlqRFJrVUZ2OWh0VV9Ud2pnSUdCdTktQVVLWXdkV2ctVWpvZ0NTdTlIQjRJNTVsTm5PSWVoOHc?oc=5",
@@ -130,20 +145,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "The foresight brief: Chokepoints past, present, and future - Atlantic Council",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMTVqYThVT2t4VGN2TEpkb2tiVzZzd0FOTzhQZEZHSUl2aHBHNjZTTTMyNENwQzFuLXhza0tYNHVnQlBUb2syUW91WDNOd01DZThFV0FmLXNZaTJMQWttbEZJRXNaV1VSOTNQUkRNTFc0bEJ5anZRQk83X25PRGlWa08zOExJc2NwYUs3WDdnV0xoN3RId3VEVmxuZUlOQ3FmM2MyVmlDVUNMbFhRSENUTVpLS01zWlI2MmFMcXFyRGg0Y2Vv?oc=5",
-        "summary": "The foresight brief: Chokepoints past, present, and future Atlantic Council The foresight brief: Chokepoints past, present, and future - Atlantic Council",
-        "published": "Thu, 19 Nov 2026 17:32:00 GMT",
-        "published_kst": "2026-11-20T02:32:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "From chips to industrials and banks, we have companies that stand to gain from Anthropic's blockbuster debut. Anthropic's historic IPO is a boon to these 12 portfolio stocks. / 한국어린이집총연합회 전국가정분과위원회, 어린이집 급간식비 격차해소 예산 반영 촉구 릴레이 대회 개최 베이비뉴스 한국어린이집총연합회 전국가정분과위원회, 어린이집 급간식비 격차해소 예산 반영 촉구 릴레이 대회 개최 - 베이비뉴스 / Holocene Launches AI Agents for Supply Chain Efficiency Supply Chain Digital Magazine Holocene Launches AI Agents for Supply Chain Efficiency - Supply Chain Digital Magazine",
+  "wrap_summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China. Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. / [속보] 앤트로픽, 상장 첫날 97.17달러로 마감 한국경제 [속보] 앤트로픽, 상장 첫날 97.17달러로 마감 - 한국경제 / Fleet Electrification: Beyond Sustainability to Operations Supply & Demand Chain Executive Fleet Electrification: Beyond Sustainability to Operations - Supply & Demand Chain Executive",
   "invest_summary": ""
 }
