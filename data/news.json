@@ -1,37 +1,26 @@
 {
   "date": "2026-11-21",
-  "generated_at_utc": "2026-11-20T18:26:34Z",
-  "cutoff_kst": "2026-11-21T03:26:00+09:00",
+  "generated_at_utc": "2026-11-20T20:56:44Z",
+  "cutoff_kst": "2026-11-21T05:56:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Trump says he still has confidence in Lutnick",
+        "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+        "summary": "President Donald Trump, when asked by CNBC's Eamon Javers, said he has not lost confidence in Commerce Secretary Howard Lutnick. Trump says he still has confidence in Lutnick",
+        "published": "Fri, 20 Nov 2026 20:52:08 GMT",
+        "published_kst": "2026-11-21T05:52:08+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
         "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
         "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China. Trump vows to stop U.S.",
-        "published": "Fri, 20 Nov 2026 18:19:05 GMT",
-        "published_kst": "2026-11-21T03:19:05+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-        "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-        "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal. Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
-        "published": "Fri, 20 Nov 2026 18:15:50 GMT",
-        "published_kst": "2026-11-21T03:15:50+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
-        "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
-        "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September. What could drive crypto gains moving forward",
-        "published": "Fri, 20 Nov 2026 18:07:18 GMT",
-        "published_kst": "2026-11-21T03:07:18+09:00",
+        "published": "Fri, 20 Nov 2026 20:47:58 GMT",
+        "published_kst": "2026-11-21T05:47:58+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -41,32 +30,47 @@
         "title": "White House replaces top cybersecurity official after string of outages - The Washington Post",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5fekl4bHljR2otN1p2QUo0cnV3Qno2aXI1T2MzQ2czcTktLUFGYVN1QnZycFYyMzVwaWZ2XzFRYXZEcl83X0haTFR1cWFKNHViY1hhdkU0LTJFMmhYZHNXSU1fa1dwcGJGNXVzSGZuOUZUUERhaUN5VWYySXBWLXpWZ3VDQW1fV05KTXVmNmFZOW11YTRiSE1ySDFEQ3JP?oc=5",
         "summary": "White House replaces top cybersecurity official after string of outages The Washington Post White House replaces top cybersecurity official after string of outages - The Washington Post",
-        "published": "Fri, 20 Nov 2026 18:00:07 GMT",
-        "published_kst": "2026-11-21T03:00:07+09:00",
+        "published": "Fri, 20 Nov 2026 20:45:51 GMT",
+        "published_kst": "2026-11-21T05:45:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump Says He Will Penalize Companies That Build Data Centers Outside the U.S. - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeV9TbzdSZG9XU0txYXlXR0l4RF9oaUpOakxpQXhRVFRDQjBCYzlUSm9lZ011c1ZTbzVOaVRXM1JSS1Q1REtQSTE1MTZ3cTB0NlpsY0VSSjB6R3FiLThtZ2Eyc3NISER4WWhuWWlYWVpzM25QNHBkbzNHOEcwLXNmNldudnZGclpUQ1ZHTHVpREZvclhzRFFHWk01alJnR2d3NzRSMnVJdUh5NXprTkZJ?oc=5",
-        "summary": "WSJ Trump Says He Will Penalize Companies That Build Data Centers Outside the U.S.",
-        "published": "Fri, 20 Nov 2026 17:58:00 GMT",
-        "published_kst": "2026-11-21T02:58:00+09:00",
+        "title": "Trump says Democrats facing veto power should work with him - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTZidVEyUUhIRzZyN1F6WFRyUjVPZG52eUk1VTVHNWZ2MUhMVmNoUnEwamZYNFd3ZFpWcDd3R2VHTEFUT0w0ZVdpd29QSElZWlAxQWdfV2g0eGpfS2d4VnZzelhGZnpKSnloVkZ3LV9ISms5SUhQZ3dqYUVIUGRoWUdscWtKc1EwWHpqQUVIcVd6ZDhjelUwZnI2RUttV0lILVNXZVhTWQ?oc=5",
+        "summary": "Trump says Democrats facing veto power should work with him Reuters Trump says Democrats facing veto power should work with him - Reuters",
+        "published": "Fri, 20 Nov 2026 20:32:09 GMT",
+        "published_kst": "2026-11-21T05:32:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Pentagon CIO replaces White House national cyber director after tech outages - Military Times",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPanpJRlItU2hhemVVb2tTZWh2M2NUQVZxWE5sRks1SHBlU0pFaktOcUlQd1pMVXBnbzlEemF1aFhyaTBPUzR0ZVM4Yzg0S2k5UE54LXY5Z0gwYkxCb19SWExpdkhBRTV2VUoxSU1LUUd1VEZQck5lbVRReEZFSDZaQmJ2Y0gyd3hxUjFDU2ZuMW1ETU9ZRThRQ2JVeXBEbTk3a0hmSHpEak5QNlZRMGcwU3dMN2JvSDd0QllGNm83VWI5Y3FQMEMwZTVuRmVvOW5rYzZyT1ctWEU?oc=5",
-        "summary": "Pentagon CIO replaces White House national cyber director after tech outages Military Times Pentagon CIO replaces White House national cyber director after tech outages - Military Times",
-        "published": "Fri, 20 Nov 2026 17:12:22 GMT",
-        "published_kst": "2026-11-21T02:12:22+09:00",
+        "title": "CPI | NextEra’s $66.8 Billion Dominion Deal Clears Key US Antitrust Hurdle - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGZmb2QyclVZejBibWlldUhweGhmcmxkaHdnQndMcEJoU1pBVlBzWEFfMDVmTXJ3RjVEZzNwc0RpVVFRUElGOENEOTYyLVg1TnRhVjZjbXFGNHBBaUVWTUdZLU01Z1hCTGhqS2laOTY0amVySE84elA3MzRNRXRoT2VZd0tMZGNkdTMzeC1zRWRYVXdJSFNDLVhxeERIMDQ3QkE?oc=5",
+        "summary": "CPI | NextEra’s $66.8 Billion Dominion Deal Clears Key US Antitrust Hurdle PYMNTS.com CPI | NextEra’s $66.8 Billion Dominion Deal Clears Key US Antitrust Hurdle - PYMNTS.com",
+        "published": "Fri, 20 Nov 2026 20:16:16 GMT",
+        "published_kst": "2026-11-21T05:16:16+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "$66.8"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+        "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+        "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading. Intensifying AI rout wipes out Nasdaq's 2026 gains.",
+        "published": "Fri, 20 Nov 2026 20:06:12 GMT",
+        "published_kst": "2026-11-21T05:06:12+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
@@ -95,11 +99,11 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "인텔, 1.8나노급 파운드리 수주 [한경 프리미엄9 TODAY] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mWEp4ZFQ3Mm5xVXBnajJySjJEYklOelVkT1VqUnEtLTRiM2sxaW5LRG1oLUlOT2ZwanRYWFRxNTVVTnhZcmhrZlNrN2t0Qkpvb21sX2MxRnFaZw?oc=5",
-        "summary": "인텔, 1.8나노급 파운드리 수주 [한경 프리미엄9 TODAY] 한국경제 인텔, 1.8나노급 파운드리 수주 [한경 프리미엄9 TODAY] - 한국경제",
-        "published": "Fri, 20 Nov 2026 16:40:00 GMT",
-        "published_kst": "2026-11-21T01:40:00+09:00",
+        "title": "[강천석 칼럼] 수출 1조달러 바닥에 고인 땀과 눈물과 설움 - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzJpSlh1NW0zVFlCdWhiWk51Zjd3dDhBTTJNZWJ4Q3N0RjFrc1FRQlRnb3B1UFRLMlRaeFBmdUlQUkhVY0NNQVJIMkc0UC1PR2VVWVRzZV9YbF96emp5aG5tVHdvMDFWWElfZHgwM2VHVXZxcmxBYnNkYVY1YS1WeFp3?oc=5",
+        "summary": "[강천석 칼럼] 수출 1조달러 바닥에 고인 땀과 눈물과 설움 조선일보 [강천석 칼럼] 수출 1조달러 바닥에 고인 땀과 눈물과 설움 - 조선일보",
+        "published": "Fri, 20 Nov 2026 14:55:00 GMT",
+        "published_kst": "2026-11-20T23:55:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -111,8 +115,8 @@
         "title": "Can consumer power save seabirds? A look back at RSPB history suggests so! - RSPB",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjBkMDlmZGpnSFo3c0FldjlIM2JfWW5uQ2FCSEZhRlVZQkZydkZ5MVcwZmlYYXN3bFVKUGZrSURPUkpqMUFpcFg5NUxWR0d0T2dNRXJyNkZ4eVkzb1E4REQwOFdnTFdtS3c2TTdMZDUwWTdzN2VjQnNXSW91R0J5WXhVZm8zN0szeHJSU2xsamVuNGN3WW1NdzJYWDNsYlZkSm1xYkNMNEFMTWd5dDJWWTBwTm5hTGtZ?oc=5",
         "summary": "RSPB Can consumer power save seabirds? A look back at RSPB history suggests so!",
-        "published": "Fri, 20 Nov 2026 18:10:38 GMT",
-        "published_kst": "2026-11-21T03:10:38+09:00",
+        "published": "Fri, 20 Nov 2026 19:18:45 GMT",
+        "published_kst": "2026-11-21T04:18:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -142,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China. Trump vows to stop U.S. / “반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야” 조선일보 “반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야” - 조선일보 / RSPB Can consumer power save seabirds? A look back at RSPB history suggests so!",
+  "wrap_summary": "President Donald Trump, when asked by CNBC's Eamon Javers, said he has not lost confidence in Commerce Secretary Howard Lutnick. Trump says he still has confidence in Lutnick / “반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야” 조선일보 “반도체만 웃는 ‘고장난명’ 한국 경제… AI·복지 새 판 짜야” - 조선일보 / RSPB Can consumer power save seabirds? A look back at RSPB history suggests so!",
   "invest_summary": ""
 }
