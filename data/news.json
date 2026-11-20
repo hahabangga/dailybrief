@@ -1,74 +1,72 @@
 {
   "date": "2026-11-20",
-  "generated_at_utc": "2026-11-20T09:18:49Z",
-  "cutoff_kst": "2026-11-20T18:18:00+09:00",
+  "generated_at_utc": "2026-11-20T14:25:44Z",
+  "cutoff_kst": "2026-11-20T23:25:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
-        "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-        "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut. SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
-        "published": "Fri, 20 Nov 2026 07:23:06 GMT",
-        "published_kst": "2026-11-20T16:23:06+09:00",
+        "title": "The bull market has a new problem. The 'smart money' is selling",
+        "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+        "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+        "published": "Fri, 20 Nov 2026 14:15:29 GMT",
+        "published_kst": "2026-11-20T23:15:29+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "2%"
+          "$81"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "2 Men face federal charges after 1 crashed vehicle, other scaled barrier near White House - WJLA",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZlQ5OTFiejVBSV9nOVNEZFVLOHJFQXh5cU9DSEtSU21xUVhVM3ViR1FNNzVheEM4UjljQzdyZmlHLWdQN19FSUxkY3M1bUFxSGVJWG53ZWxfem9MS0wza1hONVR2dnpOQXlndHpmWFhWeTBaNExQVXZGel9Pcy01d29BMHRwZzVCRFpjVS1pODRITlNYTm9rRjRJVjN2aVpZZk5NMlBDMWlDMG15RVJ2OEtJbDBxSi13d1BHRlE2WExKOUFsNnlwNG83azMtcl9zRHJsVVJBYWgxX2NLd2xJUjB4b3E5UQ?oc=5",
-        "summary": "2 Men face federal charges after 1 crashed vehicle, other scaled barrier near White House WJLA 2 Men face federal charges after 1 crashed vehicle, other scaled barrier near White House - WJLA",
-        "published": "Fri, 20 Nov 2026 07:18:14 GMT",
-        "published_kst": "2026-11-20T16:18:14+09:00",
+        "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+        "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
+        "summary": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies. White House replaces cyber director Sean Cairncross amid widespread tech outages",
+        "published": "Fri, 20 Nov 2026 14:15:08 GMT",
+        "published_kst": "2026-11-20T23:15:08+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. Senate passes Bipartisan American Affordability and Jobs Act - National Association of Counties",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbm9WMEtYOUUtMFRSYUp5YUV0dHNsMW1LU1YybGhNVl93eVpKTmxESG5KZER1Z0ZOdmpfdzZJTFc4N1JKdnVtOTJpVEVEOGpoX043QXlobnotdjYxNFJyZFVwN2JiYjNXZjgxMnJWa3k3Zk9vVGpHSWs1WVdnNEV3NGQ0MWdtbTgwOEhVcEdEWnlLTXc?oc=5",
+        "summary": "Senate passes Bipartisan American Affordability and Jobs Act National Association of Counties U.S.",
+        "published": "Fri, 20 Nov 2026 14:13:47 GMT",
+        "published_kst": "2026-11-20T23:13:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
-        "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
-        "summary": "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play. ‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
-        "published": "Fri, 20 Nov 2026 07:08:36 GMT",
-        "published_kst": "2026-11-20T16:08:36+09:00",
+        "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+        "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+        "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC. SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+        "published": "Fri, 20 Nov 2026 14:07:24 GMT",
+        "published_kst": "2026-11-20T23:07:24+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
-        "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry. Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-        "published": "Fri, 20 Nov 2026 06:00:01 GMT",
-        "published_kst": "2026-11-20T15:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$110"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House replaces top cybersecurity official after string of outages - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQk5fekl4bHljR2otN1p2QUo0cnV3Qno2aXI1T2MzQ2czcTktLUFGYVN1QnZycFYyMzVwaWZ2XzFRYXZEcl83X0haTFR1cWFKNHViY1hhdkU0LTJFMmhYZHNXSU1fa1dwcGJGNXVzSGZuOUZUUERhaUN5VWYySXBWLXpWZ3VDQW1fV05KTXVmNmFZOW11YTRiSE1ySDFEQ3JP?oc=5",
-        "summary": "White House replaces top cybersecurity official after string of outages The Washington Post White House replaces top cybersecurity official after string of outages - The Washington Post",
-        "published": "Fri, 20 Nov 2026 05:42:00 GMT",
-        "published_kst": "2026-11-20T14:42:00+09:00",
+        "title": "Trump to hold White House press conference following meeting with Putin, Xi - Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWN4OW5KMzk3dXJ1VFNKd05xakpscm5wZWU5MGl1d2FpYWlNbG5rcE40YTZndDdjSk80RzMtcTJLSUtuOWFyNVk1NGZTNmJBVzNmZDZUcGVIVzF6Qm5uaEJqU0NVQUlPenVncFBBVm9qZWx5Uml2TE9SbjIwNVlmTl83Q29iVEdhM0E3V0FXUjRSa3J3emIxZi02RzlfSTBQTDNlM2NOOVF1ZC0zbnBqcmtTbk02QkRCV09HbmZ1azhXLTA?oc=5",
+        "summary": "Trump to hold White House press conference following meeting with Putin, Xi Scripps News Trump to hold White House press conference following meeting with Putin, Xi - Scripps News",
+        "published": "Fri, 20 Nov 2026 14:02:42 GMT",
+        "published_kst": "2026-11-20T23:02:42+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads - Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkZnaUY5Ni1VV2RvQXB3YWdWTnByc0xNYUt0MW5yYUlZLThpWXpNTzJBSjBROF9CQV9hd1M0MVVCNnB4QW0zd1VIdVhjQ3ZScEZvQ01HblVPTFQ4emlReFRfVnlnOFV1emJvQWtZU3BYT2tOY1JWUThTcUZlMzkzZTlaMnY?oc=5",
-        "summary": "Oil loses grip on bond markets as inflation ‘virus’ spreads Financial Times Oil loses grip on bond markets as inflation ‘virus’ spreads - Financial Times",
-        "published": "Fri, 20 Nov 2026 05:01:49 GMT",
-        "published_kst": "2026-11-20T14:01:49+09:00",
+        "title": "The Week Ahead: Global PMIs, US PCE, Dell earnings - CMC Markets",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRk1BR0RIaTBXZk5ISW9fdmp4TzRZc3JmaklVbmFYV1dGWnREZTV2OXBZVFg0WDRCM19OdEhybkFVdGRrRTZOY3FIVjltY2xHSHBMUDZkbGxqczd6TzBZZ1NSUDJkZ3lId212WkNHajg2Nllvd1BMQWExaENZSGpSUk4zR2RlRFZNQjlZRjkzLXJTQVJ5OXlSMVhQSzZNeW8?oc=5",
+        "summary": "The Week Ahead: Global PMIs, US PCE, Dell earnings CMC Markets The Week Ahead: Global PMIs, US PCE, Dell earnings - CMC Markets",
+        "published": "Fri, 20 Nov 2026 12:31:11 GMT",
+        "published_kst": "2026-11-20T21:31:11+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -77,35 +75,33 @@
     ],
     "kr": [
       {
-        "title": "외환시장의 불침번, 재경부 '박스' 사무관들 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nX2hmNFA3cnIyeFp0QU55TENKN1p2eTJzeWVaSzlVdGQzYjlyZGpvM29SQ2wtN0VHdV9tNnlPaFc3RWlhQTY1ckM0RWpZdVRsS2tSYlBSSGpBZw?oc=5",
-        "summary": "외환시장의 불침번, 재경부 '박스' 사무관들 한국경제 외환시장의 불침번, 재경부 '박스' 사무관들 - 한국경제",
-        "published": "Fri, 20 Nov 2026 09:03:15 GMT",
-        "published_kst": "2026-11-20T18:03:15+09:00",
+        "title": "수출 1조 달러 의미는?...산업부장관에게 듣는다 - YTN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByY2RSeTVxcUh3WFBZUGJ5RGVqamZ2N0paNUF4Slk2LTFqclFicWp6NFRTY2ttb0c0VlJhc2s3cHdvZFBxY0F3ZEVJZmJiUTNaUXhMOTY5QTcwaW9KMWc?oc=5",
+        "summary": "수출 1조 달러 의미는?...산업부장관에게 듣는다 YTN 수출 1조 달러 의미는?...산업부장관에게 듣는다 - YTN",
+        "published": "Fri, 20 Nov 2026 12:55:00 GMT",
+        "published_kst": "2026-11-20T21:55:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까 - KB Think",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yQ2FBSXpBVHV5UlNqLUdSSTA3cmdBUk1ya2w1Q3JRS01iMnRWZWVSY1NKM3cwVEZlZEljQU5LNkgxclowSm9xekVNeFlxZzZvazJCb25FWUJLaUZmNU5MSGR5MnkxOTFKZHhQQk5GRjhIQQ?oc=5",
-        "summary": "내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까 KB Think 내년 경제성장전략에 쏠린 눈…정부, 성장 전망 4%대로 올릴까 - KB Think",
-        "published": "Fri, 20 Nov 2026 08:59:56 GMT",
-        "published_kst": "2026-11-20T17:59:56+09:00",
+        "title": "한국 수출 사상 첫 1조 달러 돌파…세계 4번째 수출 강국 입증 - 대한일보",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3bFpWMjBGTUI0U2cyNklHcnRiZzVYYVltbkJPSHFZbG5rUUt2V0VtX1M5TXE3OF9nWUo5cmlqUkJ6SGhjRl9ROUl5TEd1Z0Fra19qNU5zNzdJVE1EeXE3RkJDbV9ZRWxPd1dVVjhyRQ?oc=5",
+        "summary": "한국 수출 사상 첫 1조 달러 돌파…세계 4번째 수출 강국 입증 대한일보 한국 수출 사상 첫 1조 달러 돌파…세계 4번째 수출 강국 입증 - 대한일보",
+        "published": "Fri, 20 Nov 2026 10:35:49 GMT",
+        "published_kst": "2026-11-20T19:35:49+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "4%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[설명] 한국경제(11.18.) 영장없이 기업 강제조사하겠다는 공정위 등 기사관련 - 대한민국 정책브리핑",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NQ1lPY2VHTHNPTFdqdGFKdmszVUdlc1hZNmNCQWFZeWNwdEtDZ3ctYlFKeXRYT2ZvbHYyTURqUVZlVXZGdzZyRHVPTGNxOXhNby10ajNZcVlpQ3N6SDhMem5aVWJkTGRMdjZWVWRuaw?oc=5",
-        "summary": "[설명] 한국경제(11.18.) 영장없이 기업 강제조사하겠다는 공정위 등 기사관련 대한민국 정책브리핑 [설명] 한국경제(11.18.) 영장없이 기업 강제조사하겠다는 공정위 등 기사관련 - 대한민국 정책브리핑",
-        "published": "Fri, 20 Nov 2026 08:48:45 GMT",
-        "published_kst": "2026-11-20T17:48:45+09:00",
+        "title": "무기질비료 가격보조 예산 세워야 - 한국농어민신문",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iQUtzUFQ1cHJzMkY2djAtTkJTd3Zna0JZendFT1ZDczJLdDJWWkhTZzlvbVBfcTFncXVzeEdlNnNZTjdBSnRIWEFXVGwwb2dNOFk4bV9ycGZ0QzIxYVYzQVZLTkx5amlfOHY0Wg?oc=5",
+        "summary": "무기질비료 가격보조 예산 세워야 한국농어민신문 무기질비료 가격보조 예산 세워야 - 한국농어민신문",
+        "published": "Fri, 20 Nov 2026 09:07:50 GMT",
+        "published_kst": "2026-11-20T18:07:50+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,33 +110,35 @@
     ],
     "world": [
       {
-        "title": "International Supply Chain Finance for Low-Correlation Returns - EJ Insight",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEg2al9Hejk2SFpMc0h2QWkxOFV0UGVDaE9hNUlFTXdPb3lLT3B2MGNjNm1nNGk5eEQzbTI2bG9iRlMyVzdJM2xuamI2alhpcDIzYUJsTWwyWDFVcWZDZjA3Mk1Xc2JtVkx5UFdmLUo2blplTGltWlhSdFFpaEVhVUdkUUtjYzNTZ0pSWWFTZ1RROGJMUE1uZHBtY0FfbXZIZ21fRk95Ylplay1wXzZjbHpQY3M3eE00OHc?oc=5",
-        "summary": "International Supply Chain Finance for Low-Correlation Returns EJ Insight International Supply Chain Finance for Low-Correlation Returns - EJ Insight",
-        "published": "Fri, 20 Nov 2026 07:27:00 GMT",
-        "published_kst": "2026-11-20T16:27:00+09:00",
+        "title": "Border States Supply Chain Update — November 2026 - the Electrical Distributor magazine",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GOXEwMlhfWTZnSEJvN2k4Nk9FMVJzUWM3SkIwcEtPWWlqdTZEaXphR2ZLWnpUOGRLLWhRMFY0a0gzTmU3QWFIRGhMdTZNN0R0eWlWRFFweFV2eGxrVW5TYjRDSUd5Q2JXenF3dUltWTdKeVpyUVE?oc=5",
+        "summary": "Border States Supply Chain Update — November 2026 the Electrical Distributor magazine Border States Supply Chain Update — November 2026 - the Electrical Distributor magazine",
+        "published": "Fri, 20 Nov 2026 13:29:00 GMT",
+        "published_kst": "2026-11-20T22:29:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies? - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMUFJLTJBM0pEZUkxRTFybENEdzBTdG5zbTVHQmt5c0VNNFJXS2lJVXlEOXRldXZpZElJRlhvNzEwRDMwRmI0RXNjMzNsdUN3dlhSNkU3RG4tNUpsY2V6U0xzcC1zNHZ2UEN1SDRLaG5UMm1XbW11M0l0WjdybnBfMTZOM1dIN2RZeWVVS1BmdWNVSjFwYXlNeGhUSTJOUGRsUWpTTG5RdGgxd01ZcFNvWEt1djl5WGY1Z2pvN0pLU0p0MXhsNGRWZGQzMW5oVVHSAc8BQVVfeXFMTW5NUFBxTDc1QVcxOVhaYUJTT0pIOU9BaXIycmlUVUtXUE9mOTVvUzFFWnlYdzR1QmZJQy1DanJMb2pQWFBsVkRRQmEzY0F2U2F6MkVodWJIUDUwRWU4LVo2VEdVSE54RmYxM1YyRHNPYWVpaktyblg3bnVjTTZOVGxwRDhGU3pCTVVFMVktSjk3dTRBbVp5dWR3YUpSYjYxME1IMVluUlFSZk1zWkV2LVA3NGo1UThJd2JScFhZdkVKU0lWNkJVbTNOSUV3Z1JV?oc=5",
+        "summary": "South China Morning Post Do sanctions cloud China-US-Russia pledge to boost global fuel supplies? - South China Morning Post",
+        "published": "Fri, 20 Nov 2026 13:00:06 GMT",
+        "published_kst": "2026-11-20T22:00:06+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Chip supply chain warns of broader disruption from new US export controls - Nikkei Asia",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVndkdXFmNFJBNzBqQTRObUJuVWtPRnhiLTlKSERpb2c5X0lHdXZBYkFCbzMtRmdybENXeG5Qc0RhS0ZUbGJFSlo0YTF1UmlrcWFZRE5nRjM3dUNodUdVaXRZTTVJVTQ4T3NVT3IzZ0MwQzJZNDdWOEtIaVRNakdINmVVX0lnMURMOWQ2LUtWR3NrM0FWQmxNaWZ1VE02UU92clE0SmNpWExqbWsydktHRW83TlRkMkdxWXhlY1p6UzlUVTVD?oc=5",
-        "summary": "Chip supply chain warns of broader disruption from new US export controls Nikkei Asia Chip supply chain warns of broader disruption from new US export controls - Nikkei Asia",
-        "published": "Fri, 20 Nov 2026 05:10:00 GMT",
-        "published_kst": "2026-11-20T14:10:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Railway supply industry news round-up - Railway Gazette International",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1E2ejFqQTVNWWVyM1I2ZWdIWTZVdHBkMF9vbUV1bGJ3MU9OZWFwVVhzLTA1Q01WWF9mdjl5T0RGUnYxbmJfbDJ3LTJnRGN5SGtoTmhPV1ZKSjlXaFpmdXA0YXVxVGhFLUc3dVFuQ3RlVWl1bjVvWGVJR1lGdDROSjlGWGUwV1E5SWU1WmpLeDBkTl8ybW5r?oc=5",
-        "summary": "Railway supply industry news round-up Railway Gazette International Railway supply industry news round-up - Railway Gazette International",
-        "published": "Fri, 20 Nov 2026 04:00:28 GMT",
-        "published_kst": "2026-11-20T13:00:28+09:00",
+        "title": "Cargill highlights sustainability gains across supply chain - meat+poultry",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWk5RjZuUzVvQmJiVmFORkh5X0ozdm5razBhVV9faHU4RFI5OG04UExqOUZXd0JxVGNPc2NNb1NFWEFxajZueUVDSDF2SnVTQWxOcmxxYnczbFUyQmIzT0RLd3UtcTZHTnpfRmdjOWZXbF9PeV9Od3M1WE5MVlRYUG5OcXc5ZTMxSWpfd1ZjSmdCaXM3OHVLSi0yelRTTzlISVBQVA?oc=5",
+        "summary": "Cargill highlights sustainability gains across supply chain meat+poultry Cargill highlights sustainability gains across supply chain - meat+poultry",
+        "published": "Fri, 20 Nov 2026 12:48:12 GMT",
+        "published_kst": "2026-11-20T21:48:12+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -148,6 +146,6 @@
       }
     ]
   },
-  "wrap_summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut. SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks / 외환시장의 불침번, 재경부 '박스' 사무관들 한국경제 외환시장의 불침번, 재경부 '박스' 사무관들 - 한국경제 / International Supply Chain Finance for Low-Correlation Returns EJ Insight International Supply Chain Finance for Low-Correlation Returns - EJ Insight",
+  "wrap_summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test. / 수출 1조 달러 의미는?...산업부장관에게 듣는다 YTN 수출 1조 달러 의미는?...산업부장관에게 듣는다 - YTN / Border States Supply Chain Update — November 2026 the Electrical Distributor magazine Border States Supply Chain Update — November 2026 - the Electrical Distributor magazine",
   "invest_summary": ""
 }
