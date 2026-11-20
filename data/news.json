@@ -1,75 +1,75 @@
 {
   "date": "2026-11-20",
-  "generated_at_utc": "2026-11-19T21:12:41Z",
-  "cutoff_kst": "2026-11-20T06:12:00+09:00",
+  "generated_at_utc": "2026-11-20T02:41:16Z",
+  "cutoff_kst": "2026-11-20T11:41:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-        "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-        "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China. Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep.",
-        "published": "Thu, 19 Nov 2026 21:08:45 GMT",
-        "published_kst": "2026-11-20T06:08:45+09:00",
+        "title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+        "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks. Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
+        "published": "Fri, 20 Nov 2026 02:33:39 GMT",
+        "published_kst": "2026-11-20T11:33:39+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "House Democrats eye stock trading ban as early priority next Congress - Roll Call",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXlOTHRoREVuTlBrVHZRWUV3cnctYlYyX2k3V1UwSF81ZGVJN2VJUUlUT2JuRkpzcWJFV2loeVRkYUJqQnB0Q2FzWU84MjBJSGRCNVk0UjVRVFJEbmdOWV9YdFN0QW91d1BQM1gyVUQ4U3ZIQTEwMndYT1FBZEwwNWFpN3J5OW1nUy1BbmVFVEo?oc=5",
-        "summary": "House Democrats eye stock trading ban as early priority next Congress Roll Call House Democrats eye stock trading ban as early priority next Congress - Roll Call",
-        "published": "Thu, 19 Nov 2026 21:01:10 GMT",
-        "published_kst": "2026-11-20T06:01:10+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-        "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-        "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-        "published": "Thu, 19 Nov 2026 21:00:57 GMT",
-        "published_kst": "2026-11-20T06:00:57+09:00",
+        "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+        "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+        "summary": "SoftBank shares plunged over 16% on Friday as Japanese and South Korean technology stocks fell sharply. SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+        "published": "Fri, 20 Nov 2026 02:14:50 GMT",
+        "published_kst": "2026-11-20T11:14:50+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$4.5"
+          "16%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House largely mum in aftermath of historic three-way summit - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZVlGclNiNWlxQTIzdHpIZVN6emo3THZXZGkxNExwWXlJVDZiQUc2T01YcU5VUU9YUzEzcW41c2dXdml2UnpsTzduRk9qdGRpVGFHZmZDR2t1N0lMN1ZiVThBc0hjSFZXMGY1cHFGZDh0RWhrT2wxZlRRRnZWR2NuLVpBRllELTBpNkszS053U0tmQzl0SW84MjU2Q0ZwSEhPVFhCcTdBTQ?oc=5",
-        "summary": "White House largely mum in aftermath of historic three-way summit The Washington Post White House largely mum in aftermath of historic three-way summit - The Washington Post",
-        "published": "Thu, 19 Nov 2026 20:54:24 GMT",
-        "published_kst": "2026-11-20T05:54:24+09:00",
+        "title": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History - The White House (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUjRfallMc09CUjBodkxraGp4VFB6NFVvSlJNY3VMaDFRT2ZHdFJvcEhZS0hhVnZBVVc5YVZ5Ujk4eGJpbnNHLUJkWFgzWUdOS0FseFNEY1VORGdpTmpPMUp2d0Q1NUNXc01TSGdzQzhyb2VBVFpZLV9DUHFvMGZDNXNzWnF1RXRScHJKV0lVSFVQVU5UcVNDX2RhSkwwb3FidmZ6bFlfZmQ1VFZZLXF5YzAtem5DeVJvd0t6SzJwcl9ZcFhVSktpQXhDODBBRWNFYW9rNA?oc=5",
+        "summary": "NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History The White House (.gov) NATIONAL RURAL HEALTH DAY: President Trump Delivers Largest Rural Health Investment in History - The White House (.gov)",
+        "published": "Fri, 20 Nov 2026 02:12:39 GMT",
+        "published_kst": "2026-11-20T11:12:39+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "President Donald J. Trump Visits China — November 18-19, 2026 - The White House (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQmhMQkxKdHlBWDRacjVodXBLMEZjNmFlc1dFMndQZjhHMHhoZkhKU1RuZjJyWnZPQUh5Ymdsd295cjZ4SVF0Ym1ieEF6bGI3NHRXRXpwNXhNZnhKR2pvcUV2Ri1fa1o2UFB6MGR3dFJaLTdsQzd5VjlkUWF0MWloS0RoVFRRZjhzczlVYVRrUHpaWWFUYTA2aQ?oc=5",
-        "summary": "Trump Visits China — November 18-19, 2026 The White House (.gov) President Donald J.",
-        "published": "Thu, 19 Nov 2026 20:48:17 GMT",
-        "published_kst": "2026-11-20T05:48:17+09:00",
-        "domain": "google.com",
+        "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+        "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+        "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists. Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+        "published": "Fri, 20 Nov 2026 01:49:03 GMT",
+        "published_kst": "2026-11-20T10:49:03+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "2026"
+          "2.3%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
-        "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-        "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year. Amazon app warns New York of higher costs if Mamdani delivery law passes",
-        "published": "Thu, 19 Nov 2026 20:46:23 GMT",
-        "published_kst": "2026-11-20T05:46:23+09:00",
-        "domain": "cnbc.com",
+        "title": "Shapiro’s road to the White House runs through Penn - The Daily Pennsylvanian",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX3R0aXVHeGpzbENJal92dW1DM3p3d1F6R3hJaTYxMm5aZzBFSjg2UEkxUFp2UXdxTi14R3QyMTdHNGt4ZVVpb0tjSHZjM2Y2aklnNk9sZWxvaGVGWjlrM0JBX3BvenFBREZkXzFBd1lYR25scTVlWGlLLU02OTYwYkZJRFU?oc=5",
+        "summary": "Shapiro’s road to the White House runs through Penn The Daily Pennsylvanian Shapiro’s road to the White House runs through Penn - The Daily Pennsylvanian",
+        "published": "Fri, 20 Nov 2026 01:29:04 GMT",
+        "published_kst": "2026-11-20T10:29:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "White House cyber director ousted after US hit by wave of tech outages - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHZUWVAwNWYzSWs5SnRvdWZOUnBfQ0xZU2thbUVSRExIeVZqZG1IS0VVVmlodWlIaUlzX2VHam1qNHJyYURsa0JHUWJ5bm16M3pKQzdlQ2h4c0gtdWNQWTBObHVzYWpLcUx6Sk9WU0R2ZkNpcjRkaDRxcl9FdDJYTlZNU29udktr?oc=5",
+        "summary": "White House cyber director ousted after US hit by wave of tech outages The Guardian White House cyber director ousted after US hit by wave of tech outages - The Guardian",
+        "published": "Fri, 20 Nov 2026 01:28:00 GMT",
+        "published_kst": "2026-11-20T10:28:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,77 +77,43 @@
     ],
     "kr": [
       {
-        "title": "[속보] 앤트로픽, 상장 첫날 97.17달러로 마감 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nY3RQaXIyTTRMd2xoa2R3ZndaaUNkdUhNMUpVbDNKNGtVTlpKcTYtYXc1T21PejU5ODM1MEdBcFdFWDNJSEUyOEZwYUs3WHpYSFpjTXZhQVh3dw?oc=5",
-        "summary": "[속보] 앤트로픽, 상장 첫날 97.17달러로 마감 한국경제 [속보] 앤트로픽, 상장 첫날 97.17달러로 마감 - 한국경제",
-        "published": "Thu, 19 Nov 2026 21:09:16 GMT",
-        "published_kst": "2026-11-20T06:09:16+09:00",
+        "title": "박찬종 전 의원 별세…‘미스터 클린’이 한국 정치에 남긴 질문 - CBC뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fbmRrVVZGTVhOd1IxZ1lkUVplOU5tTTFfQ1I3bHBpc1dtY2JtVFhDb19rUDNncVlrZl8xRG5Fa0dsNFUxeF90WFNEaEVWVHdJZ2VJRjl2VDhsRWhobTZXTFpmdEJ6SW1X?oc=5",
+        "summary": "박찬종 전 의원 별세…‘미스터 클린’이 한국 정치에 남긴 질문 CBC뉴스 박찬종 전 의원 별세…‘미스터 클린’이 한국 정치에 남긴 질문 - CBC뉴스",
+        "published": "Fri, 20 Nov 2026 02:24:55 GMT",
+        "published_kst": "2026-11-20T11:24:55+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'中 때문에 웃게 될 줄이야'…드디어 29% 잭팟 터졌다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BSDhkWnZ5X09QSS1MWmxTazYxdjFIMUtaTW1xTE5ndVBhWG9jc1A3aGhnVjFhQ05sSUJJblRkcHl3Y0lCejZhQkdER0p3Yk9fWEI4Z3FZQ3VFdw?oc=5",
-        "summary": "'中 때문에 웃게 될 줄이야'…드디어 29% 잭팟 터졌다 한국경제 '中 때문에 웃게 될 줄이야'…드디어 29% 잭팟 터졌다 - 한국경제",
-        "published": "Thu, 19 Nov 2026 21:00:01 GMT",
-        "published_kst": "2026-11-20T06:00:01+09:00",
+        "title": "예산장터 삼국축제, 피나클 어워즈 한국대회 은상…6년 연속 수상 - 충청뉴스",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HR0RDNzdka0h6cnN3N0xCcUlHN1BBcmRBYUlXVjdfUjZtWFh2NldmelktcFp2ZjNQbG5KRnk2ZXdMbW9Rc0Jrc1E5dDA0QVJrWkctTFdEdE56d3plSzdpY01BZ3Q3d1AxTGR3?oc=5",
+        "summary": "예산장터 삼국축제, 피나클 어워즈 한국대회 은상…6년 연속 수상 충청뉴스 예산장터 삼국축제, 피나클 어워즈 한국대회 은상…6년 연속 수상 - 충청뉴스",
+        "published": "Fri, 20 Nov 2026 02:02:20 GMT",
+        "published_kst": "2026-11-20T11:02:20+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "이 대통령 국정 지지도 소폭상승…40% 회복 [한국갤럽] - 강원도민일보",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVUHhFVm0zRnVIbmVKWGRCbDdjRC1ma1ZNMGlqWVdORHdUbmhmQU82cGs4Q1NNWXZmODI0SzRrcUR6ZXRnOWJQQ0JTYlZaMk1jLUhaSm1OZWdGeU9VQy01dFB5S3p6a1U?oc=5",
+        "summary": "이 대통령 국정 지지도 소폭상승…40% 회복 [한국갤럽] 강원도민일보 이 대통령 국정 지지도 소폭상승…40% 회복 [한국갤럽] - 강원도민일보",
+        "published": "Fri, 20 Nov 2026 01:38:27 GMT",
+        "published_kst": "2026-11-20T10:38:27+09:00",
         "domain": "google.com",
         "key_figures": [
-          "29%"
+          "40%"
         ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "오징어에서 반도체·BTS까지…수출 1조 달러 일군 10대 개척자 - 중앙일보",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVQmo2Um91aDh5T1EtVlRUSkZfa3l0Y0VkTF9HbGdQZWpCUDZLQTNha2s3U0E2WjdoWXlyS3NMUkNCQW5hQzQwWXppSFNXTzhBTlIwWnFR?oc=5",
-        "summary": "오징어에서 반도체·BTS까지…수출 1조 달러 일군 10대 개척자 중앙일보 오징어에서 반도체·BTS까지…수출 1조 달러 일군 10대 개척자 - 중앙일보",
-        "published": "Thu, 19 Nov 2026 20:00:02 GMT",
-        "published_kst": "2026-11-20T05:00:02+09:00",
-        "domain": "google.com",
-        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "world": [
-      {
-        "title": "Fleet Electrification: Beyond Sustainability to Operations - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV3pDRWRXYnppdTMtemF5VlhlSUZhbmp1X3RUUEZYVUxDWGxhRzFEQkJmTW51eVRYNUZhSFA2Y29ndDBTVlpmUG85emNCekg4VHRQMWE2cUdjVHl0S0hndEN2eERGMms1VUs2NDdXM1p6NWozQzBaZkZFLXRpekkxdG5PWEtuUlBCeUgyMTlFTlhvWHZQbmhhcUVZbjgzU3B4VHBZZlZuRzE0UHlYM0JXT05RNzVwb0YyU095dmVsRW8wSGtnVzBvbkk1R2VVVVUtc3RaS2hJU3lxa3c?oc=5",
-        "summary": "Fleet Electrification: Beyond Sustainability to Operations Supply & Demand Chain Executive Fleet Electrification: Beyond Sustainability to Operations - Supply & Demand Chain Executive",
-        "published": "Thu, 19 Nov 2026 19:41:15 GMT",
-        "published_kst": "2026-11-20T04:41:15+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Holocene Launches AI Agents for Supply Chain Efficiency - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmVQUFhzdEU5WG1jbkNGYnM5M3hUcXVFR1g2WmVuSi1UU2RVZVM1SDZUc0xkTlpDbmIzWlA5YVhnTmQweFhBcDkyUS0tY2ZPSFNZRkpMX2RLQVNEYXVuUGlqRFJrVUZ2OWh0VV9Ud2pnSUdCdTktQVVLWXdkV2ctVWpvZ0NTdTlIQjRJNTVsTm5PSWVoOHc?oc=5",
-        "summary": "Holocene Launches AI Agents for Supply Chain Efficiency Supply Chain Digital Magazine Holocene Launches AI Agents for Supply Chain Efficiency - Supply Chain Digital Magazine",
-        "published": "Thu, 19 Nov 2026 18:33:45 GMT",
-        "published_kst": "2026-11-20T03:33:45+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "21 Supply Chain Technology Companies to Know - Built In",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TRWUyMlNNd0plZkNkbkRlOXZnTUFnRXI1Sy1weHNDSUxJMXAwLW9VaHpQbmNBSUkycXYybjB6dWFmZVlfdmhEZjNuajBwS2N5cHNFczVpcW41bF9rRDZFQ3JaOHBKcUN1YmxLVWtlRWstazZI?oc=5",
-        "summary": "21 Supply Chain Technology Companies to Know Built In 21 Supply Chain Technology Companies to Know - Built In",
-        "published": "Thu, 19 Nov 2026 18:07:53 GMT",
-        "published_kst": "2026-11-20T03:07:53+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      }
-    ]
+    "world": []
   },
-  "wrap_summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China. Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. / [속보] 앤트로픽, 상장 첫날 97.17달러로 마감 한국경제 [속보] 앤트로픽, 상장 첫날 97.17달러로 마감 - 한국경제 / Fleet Electrification: Beyond Sustainability to Operations Supply & Demand Chain Executive Fleet Electrification: Beyond Sustainability to Operations - Supply & Demand Chain Executive",
+  "wrap_summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks. Anthropic IPO 'exactly what the markets need', but analysts warn of volatility / 박찬종 전 의원 별세…‘미스터 클린’이 한국 정치에 남긴 질문 CBC뉴스 박찬종 전 의원 별세…‘미스터 클린’이 한국 정치에 남긴 질문 - CBC뉴스",
   "invest_summary": ""
 }
