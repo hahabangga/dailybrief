@@ -1,71 +1,76 @@
 {
   "date": "2026-11-21",
-  "generated_at_utc": "2026-11-21T08:55:00Z",
-  "cutoff_kst": "2026-11-21T17:55:00+09:00",
+  "generated_at_utc": "2026-11-21T13:45:08Z",
+  "cutoff_kst": "2026-11-21T22:45:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "President Trump Hosts White House Reception - C-SPAN",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUNwSFlETE1RSkJUZDM2Ym5WSWtTcHRsLTYxUXUwX0RGN2pWQ055bTcxUVJYSEIxQmNvMnptMWJtQ2JzaGtKYXYtWGloZ0xZbk1KMFRmbGxYWl9qMHRzRktEVkZ3amRkQm5JZjM4bUJ1XzNfMmFRNnBUM3BYQ1hwUmlqNWtkWnl6MG9TSkxfTUszY1BjcVZHSG1yWmNNWGV5?oc=5",
-        "summary": "President Trump Hosts White House Reception C-SPAN President Trump Hosts White House Reception - C-SPAN",
-        "published": "Sat, 21 Nov 2026 08:15:00 GMT",
-        "published_kst": "2026-11-21T17:15:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House Issues Memo Requiring Approval Before Congressional Testimony - The Presidential Prayer Team",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcU50b3JRTEVDVFdzYndfY0N3dzhWM1FLR0hIQ2dZT1llbGR0OE84c0lGTmtUQUVNTmwzT2F5U3RYUU1QcXd5cVppYWtuUXY3dUZjRE1xR0RURmZiaVpzVUVGdXI3WUVRQnQ0eHVNcEVVSnJCZ040Vy1EazU5SjBsNE45MEFIT2tDeDFuVEhzX09PWk5UWTZWekxyUWRuMmtsX0NncktXcFItWno4YkxlLW1tVExNZ1A0T3RDUndGSHNvUQ?oc=5",
-        "summary": "White House Issues Memo Requiring Approval Before Congressional Testimony The Presidential Prayer Team White House Issues Memo Requiring Approval Before Congressional Testimony - The Presidential Prayer Team",
-        "published": "Sat, 21 Nov 2026 08:00:00 GMT",
-        "published_kst": "2026-11-21T17:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "President Trump Holds News Conference Following China Visit - C-SPAN",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUwtLVJZSWFDcXVGaURJS1hsX2NCUDU3X3RtdDJqX3RHQVBDQmtQNnROUDVuYndadUVHVDZ0MHI2YW80cGxSRUc5UnFXem1XVlVvX3QybVdGNHNtZ1hGQi1VVmV2REh3VTBlVy1XTEdTcjlyV0gzU2d4UWVzbDY4blh5QkNBSko4bHp1MS1FbFRMYng3ZVNuN2tNdWNEUTY5dzRpeUVmU0sxZ2JETHhrS1BlQmhhQQ?oc=5",
-        "summary": "President Trump Holds News Conference Following China Visit C-SPAN President Trump Holds News Conference Following China Visit - C-SPAN",
-        "published": "Sat, 21 Nov 2026 07:30:00 GMT",
-        "published_kst": "2026-11-21T16:30:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How China is using summits to expand its global influence",
-        "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-        "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance. How China is using summits to expand its global influence",
-        "published": "Sat, 21 Nov 2026 06:00:02 GMT",
-        "published_kst": "2026-11-21T15:00:02+09:00",
+        "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
+        "summary": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors. Why Anthropic's blockbuster IPO couldn't escape the market correction",
+        "published": "Sat, 21 Nov 2026 13:32:37 GMT",
+        "published_kst": "2026-11-21T22:32:37+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-        "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-        "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade. An early breakdown in the polar vortex is threatening already depleted gas stocks",
-        "published": "Sat, 21 Nov 2026 06:00:02 GMT",
-        "published_kst": "2026-11-21T15:00:02+09:00",
+        "title": "State and federal battle over prediction markets regulation heats up after midterms",
+        "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+        "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms. State and federal battle over prediction markets regulation heats up after midterms",
+        "published": "Sat, 21 Nov 2026 13:12:41 GMT",
+        "published_kst": "2026-11-21T22:12:41+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-        "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
-        "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster. Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-        "published": "Sat, 21 Nov 2026 06:00:02 GMT",
-        "published_kst": "2026-11-21T15:00:02+09:00",
+        "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+        "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+        "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion. Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+        "published": "Sat, 21 Nov 2026 13:01:44 GMT",
+        "published_kst": "2026-11-21T22:01:44+09:00",
         "domain": "cnbc.com",
+        "key_figures": [
+          "$5.5"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Bitcoin Price Returns to 2021 Levels, but Inflation Reveals a Hidden 19% Loss - Coinpaper",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWmhNUW5mNWpqR3kyaHJzWG5UbngtOHpDMmlIZ3pYc05PN2w4aW1YWVZEek94SVMzNElHQzN3cU5STnJ2YXJFOWtNdzhzQ2NDV3pLdlU0dVZsQzBqYUppT3ZaUXAyVzFQRUxLTlpfNjAySkNITU52X1ZhdGlUVVVSQi1YTnBWMFVCc3JkR0xWcGtXLUZqVWlIVTdJTnBNOGt5dS16a21NMU9YY1VySW9Mek9ZNA?oc=5",
+        "summary": "Bitcoin Price Returns to 2021 Levels, but Inflation Reveals a Hidden 19% Loss Coinpaper Bitcoin Price Returns to 2021 Levels, but Inflation Reveals a Hidden 19% Loss - Coinpaper",
+        "published": "Sat, 21 Nov 2026 12:17:09 GMT",
+        "published_kst": "2026-11-21T21:17:09+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "2021",
+          "19%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Exclusive | White House Scales Back Special Status That Lets Staffers Stay in Private Sector - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEdobUl0b3lMVTJnQzIwMUlNVWxkRXJ2NDVxWHZ3WDNrR3NwMW1ZNDh5bEFudzJPbFNiWkFvc3RWdEkzaDlTaGcxdHRzblNmZWpfTlp5SHRwdTY1M04yVDJtazRqZDNkb0lFZUEwVVJ0MXF0dTRrclU3SVJSSmdWMk0wVHlpTXBYVXJXUHRPMEJyVHp2dDV6TVBWZUJsZ0hlanJnLTRzakNTbTc0YTk5R0VyMzIwZHBTb01obXl1ME5JODg?oc=5",
+        "summary": "Exclusive | White House Scales Back Special Status That Lets Staffers Stay in Private Sector WSJ Exclusive | White House Scales Back Special Status That Lets Staffers Stay in Private Sector - WSJ",
+        "published": "Sat, 21 Nov 2026 12:00:00 GMT",
+        "published_kst": "2026-11-21T21:00:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "A golf course sits abandoned near the White House. Players keep coming anyway - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEpTUGJzQ2U5azl0SUNPX1BKQjkwS0VHWDdMWjViQ0FmVjd1RFE2dVN2azFQazZyeVdTdVNGRkxHcjFTbXJwME9IbmtYajVxQ19YeTNuVWpBaFZUOXNYTFpQOEliMlNyOFlIcXIzYmhDSUlpMndER1VKSXVwS1o1ZTV0V3JlNldCLWRqWmszbWRVSW80WHBvbXA5QVM?oc=5",
+        "summary": "Players keep coming anyway The New York Times A golf course sits abandoned near the White House. A golf course sits abandoned near the White House.",
+        "published": "Sat, 21 Nov 2026 11:00:23 GMT",
+        "published_kst": "2026-11-21T20:00:23+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -73,37 +78,35 @@
     ],
     "kr": [
       {
-        "title": "한국부동산경제단체연합회, '민간 주택공급 확대ㆍ지방 미분양 해소' 정부에 제도개선 건의 - 건설이코노미뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lSzZNaEhGRFVSQnVHLWxlRUhvZXZXSE5ZcmJ6dk1VM1k1Ynh1LUFnUEpBVC1pTS1OeThUczNxRGtPNmlqa29Qa3NabjFVeVQ1MFdFZFduSVhZaWM3ZV9wVDdXNlg1UQ?oc=5",
-        "summary": "한국부동산경제단체연합회, '민간 주택공급 확대ㆍ지방 미분양 해소' 정부에 제도개선 건의 건설이코노미뉴스 한국부동산경제단체연합회, '민간 주택공급 확대ㆍ지방 미분양 해소' 정부에 제도개선 건의 - 건설이코노미뉴스",
-        "published": "Sat, 21 Nov 2026 07:47:29 GMT",
-        "published_kst": "2026-11-21T16:47:29+09:00",
+        "title": "\"일요일엔 빵 못 먹었는데…\" 빵집 사장님 족쇄 풀었다 [김대영의 노무스쿨] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90TTBnVHExQW1HNExCS3Q1NGhsU0F6dnA1TkFLWWo5VTJxR0pQa01ScG5kMTNkYTUyTFp0YXlEdzNkWDdxWmY3ZFItRkdteUZFZEQ5OEF1ZGNKQQ?oc=5",
+        "summary": "\"일요일엔 빵 못 먹었는데…\" 빵집 사장님 족쇄 풀었다 [김대영의 노무스쿨] 한국경제 \"일요일엔 빵 못 먹었는데…\" 빵집 사장님 족쇄 풀었다 [김대영의 노무스쿨] - 한국경제",
+        "published": "Sat, 21 Nov 2026 13:26:00 GMT",
+        "published_kst": "2026-11-21T22:26:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45U1RpQnk3eDBXQ3FsWGZfYmRTZk5UZWJZS0hQVVd4SFV4UEtwMTQyanJycUtCSGotSlowVzdDSndyQVFIVFFoejJUdVZ0YVRVbkNUbVhhTHJ5dw?oc=5",
-        "summary": "또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\" 한국경제 또 '한일 경제 동맹' 강조한 최태원…\"韓日 AI 플랫폼 만들자\" - 한국경제",
-        "published": "Sat, 21 Nov 2026 07:26:00 GMT",
-        "published_kst": "2026-11-21T16:26:00+09:00",
+        "title": "지지선 붕괴된 엔비디아…\"100달러 밑으로 갈수도\" - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YVXBYTjhHT0phazQydHlwc1U0a0FWWnZ4UkI1czBURmpBdFBCZ194cUJzSjRFRVpJYkFFbS1TZ0xHV1E5NWxqenJoMGthOWVwOVVsbmNqcmxidw?oc=5",
+        "summary": "지지선 붕괴된 엔비디아…\"100달러 밑으로 갈수도\" 한국경제 지지선 붕괴된 엔비디아…\"100달러 밑으로 갈수도\" - 한국경제",
+        "published": "Sat, 21 Nov 2026 12:18:52 GMT",
+        "published_kst": "2026-11-21T21:18:52+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "2026 쎈수학·신진서·한경 어린이 바둑대회 개막 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGeDhNUDBpaWRTdGJxcVZ2bzlJWWdNZzdqWXRKazBIdTBmVDMzZDFEN0xFNVdGZ2I0SGF6UklmbmRLcU15YzZHaVJTZTg1U0VvWVhaRXI4cTlIdw?oc=5",
-        "summary": "2026 쎈수학·신진서·한경 어린이 바둑대회 개막 한국경제 2026 쎈수학·신진서·한경 어린이 바둑대회 개막 - 한국경제",
-        "published": "Sat, 21 Nov 2026 07:17:14 GMT",
-        "published_kst": "2026-11-21T16:17:14+09:00",
+        "title": "대만은 공매도 규제 강화하는데…한국도 증시 안정 대책 서둘러야 - 공감신문",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhV2tlanROejVtWU82VklibGJyS1BtUmVsLXB0dkRSTm1vMnYyNXBCeHU0d0E1alB0S1V0VmhnbG9lQmVPeGV1WGxqMzBYU2ZkX2RsY3NXbkN1WnlTaGI0Ri1oeGRSM1Uz?oc=5",
+        "summary": "대만은 공매도 규제 강화하는데…한국도 증시 안정 대책 서둘러야 공감신문 대만은 공매도 규제 강화하는데…한국도 증시 안정 대책 서둘러야 - 공감신문",
+        "published": "Sat, 21 Nov 2026 11:29:31 GMT",
+        "published_kst": "2026-11-21T20:29:31+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "2026"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
@@ -124,8 +127,8 @@
         "title": "Kinaxis Named a Leader in Five 2026 IDC MarketScape Assessments for Global Supply Chain Planning - Machine Maker",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONkJveUhSZlNhWnh0WDhXVFE2OTVESFFqbnEwWUV4QmZfeVpxZ2tPQUdDaklxTkExRTQwMGhLSm5XdlJJZi1DazE0RF9keThBVF9GNS1keHIzWV9lWFdWWjF4TUdFWW0xcDF5Uzluak9KYk8tVGZKWURQNXFsamRwaXdUOFFETFB0MHhnQ05STHM3VWRQbHVrWFViUHppdjcxUG9MYXVXZkpFV2xJZk9JdHNsdzdqYTl5c09MLVhiZ3J2eHpmNG01aUNn?oc=5",
         "summary": "Kinaxis Named a Leader in Five 2026 IDC MarketScape Assessments for Global Supply Chain Planning Machine Maker Kinaxis Named a Leader in Five 2026 IDC MarketScape Assessments for Global Supply Chain Planning - Machine Maker",
-        "published": "Sat, 21 Nov 2026 05:31:02 GMT",
-        "published_kst": "2026-11-21T14:31:02+09:00",
+        "published": "Sat, 21 Nov 2026 05:35:54 GMT",
+        "published_kst": "2026-11-21T14:35:54+09:00",
         "domain": "google.com",
         "key_figures": [
           "2026"
@@ -146,6 +149,6 @@
       }
     ]
   },
-  "wrap_summary": "President Trump Hosts White House Reception C-SPAN President Trump Hosts White House Reception - C-SPAN / 한국부동산경제단체연합회, '민간 주택공급 확대ㆍ지방 미분양 해소' 정부에 제도개선 건의 건설이코노미뉴스 한국부동산경제단체연합회, '민간 주택공급 확대ㆍ지방 미분양 해소' 정부에 제도개선 건의 - 건설이코노미뉴스 / US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran Rudaw US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran - Rudaw",
+  "wrap_summary": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors. Why Anthropic's blockbuster IPO couldn't escape the market correction / \"일요일엔 빵 못 먹었는데…\" 빵집 사장님 족쇄 풀었다 [김대영의 노무스쿨] 한국경제 \"일요일엔 빵 못 먹었는데…\" 빵집 사장님 족쇄 풀었다 [김대영의 노무스쿨] - 한국경제 / US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran Rudaw US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran - Rudaw",
   "invest_summary": ""
 }
