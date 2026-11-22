@@ -1,9 +1,55 @@
 {
   "date": "2026-11-23",
-  "generated_at_utc": "2026-11-22T17:42:24Z",
-  "cutoff_kst": "2026-11-23T02:42:00+09:00",
+  "generated_at_utc": "2026-11-22T20:10:28Z",
+  "cutoff_kst": "2026-11-23T05:10:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ0allURzByRktqOG9jVVR3Mlc4elhCeVMyWTQ3eHQ1YUdlOXhIa29ZWU5kY2JmRTlyVW5QeEpSN1lROWxMdWM0bDdjbGtpZUJwc0F1RTRJbm1CVjhxdndULVJiZzF1X0h0aUh0eDMwM0ZyZy1XY0xscFQ0SUVHNEhDSWxvZ1BoRkZnUUprcVEtWm5DVG9mUHFnSHBvY1Rza3RqdUdlM3RMYVJJazU3eWlpQjA?oc=5",
+        "summary": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar FXEmpire Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire",
+        "published": "Sun, 22 Nov 2026 19:48:17 GMT",
+        "published_kst": "2026-11-23T04:48:17+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Netanyahu presses Trump for Iran strike, but White House expects at least weeklong delay - Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xMFpCTG9hTU9sLUxXV1plQ2lZeTFHTktJQUxtbTZiRHNyMm9fczBnUXRkSWhLNVhuVUo2RXpkRWFtclFpUmVKZGVnYzFGbld1a1loNTNMMA?oc=5",
+        "summary": "Netanyahu presses Trump for Iran strike, but White House expects at least weeklong delay Ynetnews Netanyahu presses Trump for Iran strike, but White House expects at least weeklong delay - Ynetnews",
+        "published": "Sun, 22 Nov 2026 19:22:04 GMT",
+        "published_kst": "2026-11-23T04:22:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+        "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+        "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group. Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+        "published": "Sun, 22 Nov 2026 18:55:05 GMT",
+        "published_kst": "2026-11-23T03:55:05+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$150"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US Inflation Report: Could PCE Data Trigger Another Stock Market Selloff? - Stocks Down Under",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YQl8wMTMzX1QzRzJCOG5LSzB0UDJRWUJ1YXRHdVZhSVVETEVoaXItZ1kxRGJTc0ZQLXZJMFoySm92TnI4WVl3QmRFUWRYMkZSeTNlRlF3STlDRkV0N3Z4THJoSFhubEMzQWhJaGc4QjNOSldjeGlYRTQwbmViUQ?oc=5",
+        "summary": "Stocks Down Under US Inflation Report: Could PCE Data Trigger Another Stock Market Selloff? - Stocks Down Under",
+        "published": "Sun, 22 Nov 2026 18:25:58 GMT",
+        "published_kst": "2026-11-23T03:25:58+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
         "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
@@ -11,17 +57,6 @@
         "published": "Sun, 22 Nov 2026 17:33:25 GMT",
         "published_kst": "2026-11-23T02:33:25+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXQ0allURzByRktqOG9jVVR3Mlc4elhCeVMyWTQ3eHQ1YUdlOXhIa29ZWU5kY2JmRTlyVW5QeEpSN1lROWxMdWM0bDdjbGtpZUJwc0F1RTRJbm1CVjhxdndULVJiZzF1X0h0aUh0eDMwM0ZyZy1XY0xscFQ0SUVHNEhDSWxvZ1BoRkZnUUprcVEtWm5DVG9mUHFnSHBvY1Rza3RqdUdlM3RMYVJJazU3eWlpQjA?oc=5",
-        "summary": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar FXEmpire Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire",
-        "published": "Sun, 22 Nov 2026 17:28:18 GMT",
-        "published_kst": "2026-11-23T02:28:18+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -36,45 +71,31 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "AUD/USD Outlook: Macro Forces Collide Ahead of US, AU Inflation - Forex Factory",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlIwc281TW9MZ1Fia0FWTktBQk41U2RJa1JPWHlJb1NEUnpoeTFjODdLRmIwWnNnS21MazdBM0FQNkVqbjlJT2ZqamFxdnl0WHZsQWlaM2xIU3RfNnZaYjRiaDBkd2tkZmZPM1NVNFRtSXVaWlF0dkpieVNwb1VpTTJTTy05cXFfMURtT21JUWNJdk3SAZgBQVVfeXFMUDRLVEZHTHR5djluYVI3WDFBY1p1VXpaR2NoZnlZeTRVWGhGSUw3VkRFaTN1N1k4ekVQbERObm50UVZLdEFSOXNqYkJNeEhxeU1fVVd3TXltM2s0WmZLNGJJTzFrRWtwX29EZzc3NGdqbFpna29FMkxydkcwVFFPY3AtRWk0ZkVvemVFQVdVbzRUX004clZwcF8?oc=5",
-        "summary": "AUD/USD Outlook: Macro Forces Collide Ahead of US, AU Inflation Forex Factory AUD/USD Outlook: Macro Forces Collide Ahead of US, AU Inflation - Forex Factory",
-        "published": "Sun, 22 Nov 2026 17:00:52 GMT",
-        "published_kst": "2026-11-23T02:00:52+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom - The Times of India",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWkNuYlhtTjA5OHpmN3lJUzB3Q3EzQmlESnJnVnk4dDRrV0tqbWV5OTNpX3hYN1FIX3U4VDhEcl9IZmZzZlVSa19GVzczX2dsNFg5d3hRQUNza3RWekk2MlhudThiaFR1TmF2dTVmTFo4bENINV9HTDBEVDFOV014M1NNNURVRTRjLUI4M0ltTFpSa3FSWDJnZk90cFAzMlZVLW0wUjZ5VkpVVEg3TWtaYkJKODgySjhjaUhNOU9ZT3NtT3J0bm9tNW52d1ZqVXh2MldSZzRVVmV2V0wzSHVmbl9EV0FGeFNDcFA0NFByQy1CNnBOTFVUTFJpS1VNMXN4VXRVZkFzX1_SAY4CQVVfeXFMT3d6b2NLZl9CcGZlakg1ZGRTQmpCVnJWa1pfOXBEVmdnbmxoZkJGS25RNXNIMlkxckpYOVRhNjhhbVdzZEVNM3JmNTZIS1EzcUJUb29heDRxLTE0VW4yNDNrY0Rqb1IyOE9UX3BkcGcteDBvTnZkSXdaT1lDLUlJUWVsZUxlbzdYNnFCU2Y5UkpqMDZjY3hUSkVLZjZLUTA5VlBuLW9CNlQwQmpOMGo5X1hNV1Q3TDF2LTdmZUljUFZwbnNqNHl4bUpJNEpZUnVla0xYV3ZwSUtkaW5NZHBjNkVRWHZIaUtWeG45NFVtSDQtSmFNMWhLUEkzczR6cVh4ZGYzSUhkcmE2NnNaeDRn?oc=5",
-        "summary": "Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom The Times of India Gold, silver outlook: Bullion may remain under pressure as US inflation data, Fed signals loom - The Times of India",
-        "published": "Sun, 22 Nov 2026 16:50:00 GMT",
-        "published_kst": "2026-11-23T01:50:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Social Security benefits are rising in 2027, but other changes could affect what you keep",
-        "url": "https://www.cnbc.com/2026/11/22/social-security-changes-cola-taxes-medicare.html",
-        "summary": "A 3.6% Social Security cost-of-living adjustment for 2027 will increase benefits across the board. Social Security benefits are rising in 2027, but other changes could affect what you keep",
-        "published": "Sun, 22 Nov 2026 14:30:01 GMT",
-        "published_kst": "2026-11-22T23:30:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "2027",
-          "3.6%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
+      {
+        "title": "전작권 전환 낙관론의 뿌리는 한국의 오역(誤譯)? - 주간조선",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OOVhvUTVRMVN5Vk90SEE3cENPTHNwYnJlWWRndXlYbDFhOXdwMjdZd3hac2h2VDdVVFQ5OTNNMHhBc1ZyaWg3dTZhNTR1QkRPX2xrTEVCNzFwbDhRYVIyb3lGWUV4YXJpc3fSAW5BVV95cUxOVE9NWjBaajdYNlhiMWJ1Qzd3NDYxRkVRZURzN3hxdFIzU1BTWk04X05VS1dHdENoZVJlc2FQNWRIaXE1MUFCckp6RmdpeG4tSHBFX0ZqWjZrSEc0akV5NHhIbG8wQzFnOXc3Q3B0Zw?oc=5",
+        "summary": "주간조선 전작권 전환 낙관론의 뿌리는 한국의 오역(誤譯)?",
+        "published": "Sun, 22 Nov 2026 19:03:05 GMT",
+        "published_kst": "2026-11-23T04:03:05+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "[사설] ‘2류 기업’ 1천조 수출할 때 ‘4류 정치’는 뭘 했나 - 경기일보",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ia0k3Vk5ObnRhNDFaSzJaSWlwblltWVlPZExnaWh5MlIyT0tOcGhDck42cllSZmxTb0RNVFgyREtGcHpJcWV0WVhOczVMLVd3dmVZLWRfcWx4Y3M?oc=5",
+        "summary": "[사설] ‘2류 기업’ 1천조 수출할 때 ‘4류 정치’는 뭘 했나 경기일보 [사설] ‘2류 기업’ 1천조 수출할 때 ‘4류 정치’는 뭘 했나 - 경기일보",
+        "published": "Sun, 22 Nov 2026 18:04:00 GMT",
+        "published_kst": "2026-11-23T03:04:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "AI 규제비용의 시대 - 한국공공정책신문",
         "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1uYV9Cck1xbU1HNmFpQlVmVXZZTXd5c2dmdUREZFU4ajgyTlVzMEQtSFNFbHdoRHRGdF9iRVJUZ1psMzg?oc=5",
@@ -85,31 +106,20 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"파편화된 세계경제\"…미·중·일·유럽, 동시에 흔들리는 이유 - 뉴시스",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42YUw5ZkNXTHF5NWNaTm5mLTZoMFBuV2QzTWhZTV96ZlVOZTZlM2hFa3BVLXlVYnNaZjNaRTlpM0V6LWZwdUZPVDAybDdiTmIwVTFQVU1fMUViRTNQT0Q2d9IBeEFVX3lxTFBCbjlURW1IZjJFQTNZdXNsaEN0R3FfWnJ2RlhVaks3OXJBMnMydUtYbkdLSUdKWDczVDlSYU03SHJPY2FpS1pHRHVmVWFtNXdTXzVmNGxXbVFLYWlvR3hELUIzRjBBbzZOcVFiZWYydFkybnUyTFJXSw?oc=5",
-        "summary": "\"파편화된 세계경제\"…미·중·일·유럽, 동시에 흔들리는 이유 뉴시스 \"파편화된 세계경제\"…미·중·일·유럽, 동시에 흔들리는 이유 - 뉴시스",
-        "published": "Sun, 22 Nov 2026 16:00:00 GMT",
-        "published_kst": "2026-11-23T01:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[노트북을 열며] 수출 1조 달러, 숫자 너머의 사람들 - 중앙일보",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yX3djLW1aMjhJMjRSMkJEZ1BHQmQ0dVJuZlA4SUdvYUhhWG1mdjd6MVV6eGltWWUzRmRZY2ZaMVNId2p0b2RENVFPeWVtZVBZVjBpUEhB?oc=5",
-        "summary": "[노트북을 열며] 수출 1조 달러, 숫자 너머의 사람들 중앙일보 [노트북을 열며] 수출 1조 달러, 숫자 너머의 사람들 - 중앙일보",
-        "published": "Sun, 22 Nov 2026 15:08:00 GMT",
-        "published_kst": "2026-11-23T00:08:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
+      {
+        "title": "7 Principles for Turning Sustainability Ambition into Supply Chain Action - Supply & Demand Chain Executive",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYm51Ty1vSVNySVpKZWVHU3R3REZzeElOekpxWlNXdUhGN2FtVFVIc1I3VFpRdmRaX3RmNGpiTnFjUjUtQUcyblZnQTNEd2hWT0Q0T1JYdDhVZXZDUFFtcE03SERzc1NVb19LUWpDNFJaWTB4NkJwWXozemdfdzVVOWpZSTRnSjRjeXV4YldLUlhzX0FRbTFXVE1pNHdPQkRlLUVPbWZuV1A3akYyZHJUcmoyakVKR0lleDhtb3h3UkdxaTdWdkNYWUhDRTRYVDZmLUczUHluT1Jtc1ZhSGFoVkN1ZkE5QXB3NjJDYU5NSmdST3VHZTlr?oc=5",
+        "summary": "7 Principles for Turning Sustainability Ambition into Supply Chain Action Supply & Demand Chain Executive 7 Principles for Turning Sustainability Ambition into Supply Chain Action - Supply & Demand Chain Executive",
+        "published": "Sun, 22 Nov 2026 17:51:19 GMT",
+        "published_kst": "2026-11-23T02:51:19+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Chain Hoists Market To 2035: Automation and Infrastructure Fuel Expansion - News and Statistics - IndexBox",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnRQemdDTmJwVDVwZ1dWMlVHbnNVLVNEbXdVdVJoTVk4MEJNRTZwc2lBbm8ySkh6MW9kU3FzaVViV2FpZ2hHM05YZDhDendsMVVmRlkzNU9oVktxZ2Jrak9ubEUwZ0V0NG1zUnJHVmxZbGxxQmZ5S25jLUpjX3VaVTRrT1JoY0praXJIbFFEMkN3bHVnNmZlQWJqd1I3U0FvSEdTRTRXRENEeXh4Q2FrS0dZVnZ2ajN6UjA4VVJYVlJqUjRQMWJXaw?oc=5",
@@ -133,20 +143,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "It’s Not About Saving The Planet, It’s About Staying In Business - BusinessToday Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFRFNF9jLW1SYjNuc256c0pVeGl0c1RGbGVtbjdNcWVvb1JlS29RZ0o3LVJyak12OE1sMi13ajAtSGc0WmxPMGJDS1dRUGpoUTN3ODdxRkxDMU1KVzUyR2p0dllEcmJYYi1XUF94NURaY1ZDM1NtZjMwN3l0dmFQWW5VeDN4TW1vY3A5Tm5Na0hEWjBHdVYtemgzY2NvNnk3U2tOWXRaMnlCdw?oc=5",
-        "summary": "It’s Not About Saving The Planet, It’s About Staying In Business BusinessToday Malaysia It’s Not About Saving The Planet, It’s About Staying In Business - BusinessToday Malaysia",
-        "published": "Sun, 22 Nov 2026 11:04:09 GMT",
-        "published_kst": "2026-11-22T20:04:09+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect. I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’ / AI 규제비용의 시대 한국공공정책신문 AI 규제비용의 시대 - 한국공공정책신문 / Chain Hoists Market To 2035: Automation and Infrastructure Fuel Expansion - News and Statistics IndexBox Chain Hoists Market To 2035: Automation and Infrastructure Fuel Expansion - News and Statistics - IndexBox",
+  "wrap_summary": "Interest Rate Forecast: December Fed Hike Bets Support US Dollar FXEmpire Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire / 주간조선 전작권 전환 낙관론의 뿌리는 한국의 오역(誤譯)? / 7 Principles for Turning Sustainability Ambition into Supply Chain Action Supply & Demand Chain Executive 7 Principles for Turning Sustainability Ambition into Supply Chain Action - Supply & Demand Chain Executive",
   "invest_summary": ""
 }
