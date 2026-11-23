@@ -1,115 +1,155 @@
 {
   "date": "2026-11-23",
-  "generated_at_utc": "2026-11-23T02:00:54Z",
-  "cutoff_kst": "2026-11-23T11:00:00+09:00",
+  "generated_at_utc": "2026-11-23T09:56:35Z",
+  "cutoff_kst": "2026-11-23T18:56:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Gold recovers from 14-month low; focus turns to US inflation data - The Edge Malaysia",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14WG1pbnl6cWx1dFktMWtuVkNQNGZubGdTSjlnal9IOWM0VjZwdXljVm50Y0xIWVc0LWJkUDRIdUdDTThwMmZnYjRnSUlleXFJ?oc=5",
-        "summary": "Gold recovers from 14-month low; focus turns to US inflation data The Edge Malaysia Gold recovers from 14-month low; focus turns to US inflation data - The Edge Malaysia",
-        "published": "Mon, 23 Nov 2026 01:18:39 GMT",
-        "published_kst": "2026-11-23T10:18:39+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold recovers from 14-month low; focus turns to US inflation data - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXhUQ1VrT0RWaUlsb2Z2R3JRcHlqVzBSVG11aG5XYk8zdmkzd1JFWnlPWjN2OG5zSVgwenhrZE9OcW84YjRtN0p6c01ReDYtYTZqVVMxYUhweklrLW5MbDU5WllkdGsyU0JuRkxyLWxZVmt0MHNSM0dhd1R5NW9qbmhLSnBnZ2FRbnJ4dFpWMjBrTmxmbkswT29zelAwd3lNR1h4TEdvNkxuLTNfLTRMdHBLR2VTWHZh?oc=5",
-        "summary": "Gold recovers from 14-month low; focus turns to US inflation data marketscreener.com Gold recovers from 14-month low; focus turns to US inflation data - marketscreener.com",
-        "published": "Mon, 23 Nov 2026 01:04:19 GMT",
-        "published_kst": "2026-11-23T10:04:19+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold Bounces After A 14-Month Low, With US Inflation Data Next - Finimize",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcDhYTUZlbTljdWNwRGhuR0lDbWxwa0xfdENISzh3eFZUenl0Z0xoQXVybmpFZlhUdnZpYUdORGktWG5aeEFMeXZFa3gwcDczNDJWaTNuTnh1REw2NmgwUjZTc0t4RGVjS2Q0SVgzWUpnRmNfTm00UHZjUkh3WWc0ODdFQmx1NEwxQXd6RXJIMTlsc0dU?oc=5",
-        "summary": "Gold Bounces After A 14-Month Low, With US Inflation Data Next Finimize Gold Bounces After A 14-Month Low, With US Inflation Data Next - Finimize",
-        "published": "Mon, 23 Nov 2026 01:02:14 GMT",
-        "published_kst": "2026-11-23T10:02:14+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-        "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
-        "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group. Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
-        "published": "Sun, 22 Nov 2026 18:55:05 GMT",
-        "published_kst": "2026-11-23T03:55:05+09:00",
+        "title": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+        "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+        "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020. Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+        "published": "Mon, 23 Nov 2026 09:40:28 GMT",
+        "published_kst": "2026-11-23T18:40:28+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "$150"
+          "10%",
+          "2020"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
-        "url": "https://www.cnbc.com/make-it/2026/11/22/parenting-habits-people-pleaser.html",
-        "summary": "Reem Raouda, a conscious parenting coach who's worked with over 200 families, shares six habits worth reconsidering, like treating disagreement as disrespect. I’ve studied over 200 kids—to avoid raising a people pleaser, ditch 6 parenting habits: It starts in ‘ordinary, well-intentioned moments’",
-        "published": "Sun, 22 Nov 2026 17:33:25 GMT",
-        "published_kst": "2026-11-23T02:33:25+09:00",
-        "domain": "cnbc.com",
+        "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWZra1V0VVQ1RjNkWVZPYmFmUFJyT21LQlZwZUNnWEp0VFMySzVQbU1pLWdqZWFadkNrNTA2V1R3UjR1d1pSaTJCeVQtMXpjZC12ZkNKR1dWZVhlRVVRaV92TW1rSTg0NERkVXNjb2paZUNxTVlhZGdVUGpKRldybm83LTVpd25aMnFuN2lDSGpKbmgyVG03cDI3TFU?oc=5",
+        "summary": "inflation, Thanksgiving trading: Crypto Week Ahead CoinDesk U.S.",
+        "published": "Mon, 23 Nov 2026 09:40:25 GMT",
+        "published_kst": "2026-11-23T18:40:25+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-        "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
-        "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions. Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
-        "published": "Sun, 22 Nov 2026 17:14:03 GMT",
-        "published_kst": "2026-11-23T02:14:03+09:00",
-        "domain": "cnbc.com",
+        "title": "Core PCE Inflation vs. Softer Data in the Debate Over Fed Rate Hikes - StoneX",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkhKYkQ3Qm9BV19CcVkxZWpSOUttSkJSbTVtZ0FSdEVOU0ZBNlZKbTA2OVhQcS1jN0o3a0F5N2NCaDV6LWxLMl9NTmxZeDN5UXRocUwwZ2ZGaVJhVDlmTlBiN3FYeGQ4c2JBcWREY24tTk9LcE9lMmdReTZic2lqTExTN0VRMjdEeWJwc3l2N0VnVmk2b1NqWEtZZlZoV01ELTE3S29icDR4UQ?oc=5",
+        "summary": "Softer Data in the Debate Over Fed Rate Hikes StoneX Core PCE Inflation vs. Core PCE Inflation vs.",
+        "published": "Mon, 23 Nov 2026 09:39:11 GMT",
+        "published_kst": "2026-11-23T18:39:11+09:00",
+        "domain": "google.com",
         "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold Rebounds From 14-Month Low Ahead Of Key US Inflation Data - Forbes Middle East",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmx3cGgwODJ0dXI0MC1VZHFBWGxYMU81WlVMcTNNelBpcDVhZnhsMVF0TkNDU0wzWmJhWlVwLXpEd21xTmNCVWF4MHdOdGthUlBsQkZFNkJkcGxJTGJZbVhoMWRHSF9HUnJGbFMybzU2Mnl1c0tSWDNxY0Y0VGFPa09jN0tpakVjcVhKbWE3ak9NcHVYc2gzWFhJZkV5S09uUG1NU0tfczFjeXpS?oc=5",
+        "summary": "Gold Rebounds From 14-Month Low Ahead Of Key US Inflation Data Forbes Middle East Gold Rebounds From 14-Month Low Ahead Of Key US Inflation Data - Forbes Middle East",
+        "published": "Mon, 23 Nov 2026 09:32:42 GMT",
+        "published_kst": "2026-11-23T18:32:42+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+        "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+        "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry. Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+        "published": "Mon, 23 Nov 2026 08:48:36 GMT",
+        "published_kst": "2026-11-23T17:48:36+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$110"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+        "url": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+        "summary": "Tata Steel will buy a 26.4% stake in India's leading structural steel pipes and tubes maker to boost downstream capacity. Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+        "published": "Mon, 23 Nov 2026 07:25:24 GMT",
+        "published_kst": "2026-11-23T16:25:24+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$1.67",
+          "26.4%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "증시급락에 다시 고개 든 '공매도 금지론'…대만은 규제강화, 한국은 신중 - 한국금융신문",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oLXk1VjNWOTYxQnQ1NDV4RmF0VThvNlRyUFNodmJVWGJhNzRxM3Z2R1F4WkFTdGlwb0NDU0lLcm5TUm1qZU9QRkF0WFNFNzJxVkpvbFM5cTlfbFB4UVpMNDhzVGp1bk1xbm5FcnVkMGNxRFRXSV81RUpfS0c?oc=5",
-        "summary": "증시급락에 다시 고개 든 '공매도 금지론'…대만은 규제강화, 한국은 신중 한국금융신문 증시급락에 다시 고개 든 '공매도 금지론'…대만은 규제강화, 한국은 신중 - 한국금융신문",
-        "published": "Mon, 23 Nov 2026 01:53:53 GMT",
-        "published_kst": "2026-11-23T10:53:53+09:00",
+        "title": "경제를 움직이는 중앙은행 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RYzdMRHVvSVlVVXJXX1prM2wzanQtU1VsVFg1NWxVbVZGWUVyd2pJU2psQmQwT1ZsVmdyMzVSWm5tMncwYjBKQ2pIcGYtQ0djSVNvVjYwZzRKQQ?oc=5",
+        "summary": "경제를 움직이는 중앙은행 한국경제 경제를 움직이는 중앙은행 - 한국경제",
+        "published": "Mon, 23 Nov 2026 09:38:34 GMT",
+        "published_kst": "2026-11-23T18:38:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "증시 무너져도 끄떡없네…미국서 대박 나더니 '급등' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMUC1OUWVZTjNwREFLTGRZdlZmMG02WnhSb3Axelo1bmh5UWZmR0VpMjY1TEsyZk9UalcxZFV6MnhIalczLTB6eEVtSmdrOXJxUlRmY3Nac3g2dw?oc=5",
-        "summary": "증시 무너져도 끄떡없네…미국서 대박 나더니 '급등' 한국경제 증시 무너져도 끄떡없네…미국서 대박 나더니 '급등' - 한국경제",
-        "published": "Mon, 23 Nov 2026 01:39:59 GMT",
-        "published_kst": "2026-11-23T10:39:59+09:00",
+        "title": "[세모경] ‘반도체 파워’ 통했다…한국 ‘수출 1조 달러’ 세계 4번째 - JTBC",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04YUlNZ3RXbDByRi1KX09NcURqalJqelM5SXhVSzJLYVYwN1BzeW9hTGJ4QkM2RkNoRHFjZEdSOHA2RjZjWXpEOUxyRjZ1Vm1FT282OQ?oc=5",
+        "summary": "[세모경] ‘반도체 파워’ 통했다…한국 ‘수출 1조 달러’ 세계 4번째 JTBC [세모경] ‘반도체 파워’ 통했다…한국 ‘수출 1조 달러’ 세계 4번째 - JTBC",
+        "published": "Mon, 23 Nov 2026 09:31:00 GMT",
+        "published_kst": "2026-11-23T18:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "수출 1조 달러 달성한 대한민국, '질적 성장' 향해 새롭게 도전! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPakNOWlg5UnIybVhqLU5IQkNkakVKSzF4akRCbDFWZUo3cmhGMFRYOVJwY3kxRFJTcWt1eWZBLVFzTkpWMGRyeFdRX1NrbHZ0VFI3NUFCMVItMUhPQjZpb2hSbHd1c1BtX1pLYkwtd3RQUkZCbU9sc1o5OXctTDNvUHBFbGRIODRocXY4?oc=5",
-        "summary": "- 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑 수출 1조 달러 달성한 대한민국, '질적 성장' 향해 새롭게 도전! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-        "published": "Mon, 23 Nov 2026 01:21:08 GMT",
-        "published_kst": "2026-11-23T10:21:08+09:00",
+        "title": "한국수산자원공단, 국회부산도서관에서 ‘치어럽’ 수산자원 보호 체험 프로그램 운영 - 영남신문",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwQ1BWc1hLSXVQVDBGVVhKcENZNm1NRHNvMF9wQVdhbXBreFkwZG1JcnBieGhlZHJaNHFJLVpGTERKNnpjUUVvUDdXQW5hQ3l6WlRtdnRMbHhRdTh0WHZqUHd5ejF2T1MtTGhmUmlB?oc=5",
+        "summary": "한국수산자원공단, 국회부산도서관에서 ‘치어럽’ 수산자원 보호 체험 프로그램 운영 영남신문 한국수산자원공단, 국회부산도서관에서 ‘치어럽’ 수산자원 보호 체험 프로그램 운영 - 영남신문",
+        "published": "Mon, 23 Nov 2026 09:10:21 GMT",
+        "published_kst": "2026-11-23T18:10:21+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "world": []
+    "world": [
+      {
+        "title": "US Must Break AI Supply Chain’s Addiction to Offshore Tax Breaks - Bloomberg Tax",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZnEzUXc1Y2RhV2lBS0ZWcTZhU2hPYkpNWjBHTTE0V2RackIxUFh1aDNFbDFadU5jcTFQZXVZZGFhT2I2QVNYT3hvbnNFNldhX1FSdXlOdXBsQWdiYVRPcF8xNG1oenBjekJMUERJRWJCR01FeGVkMlczeExLQjdxYzNjVGpYNDdsNzNOQ1ZkeDM5RmZoMTNPeERQeGg1WVYyWVpSMG9qdjJYeUdHa3lv?oc=5",
+        "summary": "US Must Break AI Supply Chain’s Addiction to Offshore Tax Breaks Bloomberg Tax US Must Break AI Supply Chain’s Addiction to Offshore Tax Breaks - Bloomberg Tax",
+        "published": "Mon, 23 Nov 2026 09:30:00 GMT",
+        "published_kst": "2026-11-23T18:30:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "AAJ Supply Chain opens new warehouse in Maharashtra - ET Manufacturing",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVG81TzVmQzZ3QzNQU0lrZmVoTUF3aEZqLXRjYjcxakVuUENUY2hQdkU2RG15OERCRVVScnVfQjhMaGNfTmJGYVl6YjFMcmpUaU5sOHFBZkxSR2xPSEJDQmw2Q1NiTG5JYVpxOXRhRjZRY3RyaWtEMkpoRjFkNGFqOVYzc2s3V3pKWWpSYlE2SDhNekdVYlI2VWN3NnhxcUpVcl9YY01ZZlBJMkwtUEhObndDSDVLdGdmZ1FjNGN6MXFXSDFLOV9tMXNTU2ZLYjVMNXR6bmNSVlR1Q3FzNHEyZDgycGRtUVg5WDJnTENYbzljWTNLS0lvNWhBT3pyeko10gHIAUFVX3lxTE1NUWtSQnE5QnlBTTN2NWdUZkFVSnFaVUl1bTRBTldDUFBxTDZWZ1g0YjQyRjZ2MGNVM3NJYWtRMElnWXFnTWVCVkFETVZmMS1FWFU0MDlzbEhyalRaLWllWG5fajJkWV8yUnFycUVtbVVUR1VVT25kSjVCSTQ5Sno5TWN0ODNOc0NYbndNck1acGtCR0N2WWJoalNGajNWN0JNaWpPX3NwNzJaMU9CZEpLMHpfckFmSlEwVXkycFNjbmx3ZEM4NF9X?oc=5",
+        "summary": "AAJ Supply Chain opens new warehouse in Maharashtra ET Manufacturing AAJ Supply Chain opens new warehouse in Maharashtra - ET Manufacturing",
+        "published": "Mon, 23 Nov 2026 09:21:18 GMT",
+        "published_kst": "2026-11-23T18:21:18+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Taiwan fasteners in the evolving global supply chain - Fastener + Fixing Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1loVTRWNHlZZTlZV3F2Yl9RVkdwcndwV3NlVVhCYWdSdmNCcnp2N3RVYzVoT3RjVUVJTGRRMkVVazFmSlpzVmRCMklYUWk0UVZMc19lYU9fRXUxWnNDeDNvUWRxR1cwOGk0cVppZWV4a01wMlN2RVhsWncyMlFrTTBUaXBtd2xpSXpxMEhleENtSUltYkE?oc=5",
+        "summary": "Taiwan fasteners in the evolving global supply chain Fastener + Fixing Magazine Taiwan fasteners in the evolving global supply chain - Fastener + Fixing Magazine",
+        "published": "Mon, 23 Nov 2026 09:02:31 GMT",
+        "published_kst": "2026-11-23T18:02:31+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ]
   },
-  "wrap_summary": "Gold recovers from 14-month low; focus turns to US inflation data The Edge Malaysia Gold recovers from 14-month low; focus turns to US inflation data - The Edge Malaysia / 증시급락에 다시 고개 든 '공매도 금지론'…대만은 규제강화, 한국은 신중 한국금융신문 증시급락에 다시 고개 든 '공매도 금지론'…대만은 규제강화, 한국은 신중 - 한국금융신문",
+  "wrap_summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020. Anthropic, Nvidia shares rise in premarket trading after major tech selloff / 경제를 움직이는 중앙은행 한국경제 경제를 움직이는 중앙은행 - 한국경제 / US Must Break AI Supply Chain’s Addiction to Offshore Tax Breaks Bloomberg Tax US Must Break AI Supply Chain’s Addiction to Offshore Tax Breaks - Bloomberg Tax",
   "invest_summary": ""
 }
