@@ -1,76 +1,72 @@
 {
   "date": "2026-11-25",
-  "generated_at_utc": "2026-11-24T16:31:36Z",
-  "cutoff_kst": "2026-11-25T01:31:00+09:00",
+  "generated_at_utc": "2026-11-24T20:33:18Z",
+  "cutoff_kst": "2026-11-25T05:33:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute - PYMNTS.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTG5QSENFUzVmVFRrNjgtZEUyU0lUWi1rS041cHpVMHBrYnBBdTZXUWJsWEM2T0VONG5ZRGVjOXBWTFRjWDFUYkRqWEVkZ2U2bFVTUjFmNUpLMjVYZFU1ZFFLTklMS1BvTzV2UGRWVGZyenpXWU1BT2E0OTJPR2NrMmVvMm1hbUVPMnVtejhuaGt4YlYzS2VzSXBGYmJMT0NkYXJnYXRTMWtMbzZfa3c?oc=5",
-        "summary": "Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute PYMNTS.com Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute - PYMNTS.com",
-        "published": "Tue, 24 Nov 2026 16:20:45 GMT",
-        "published_kst": "2026-11-25T01:20:45+09:00",
+        "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+        "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+        "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing. Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+        "published": "Tue, 24 Nov 2026 20:04:31 GMT",
+        "published_kst": "2026-11-25T05:04:31+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+        "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+        "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see. Op-ed: Trump’s Nvidia board intervention put a price on national security.",
+        "published": "Tue, 24 Nov 2026 20:02:49 GMT",
+        "published_kst": "2026-11-25T05:02:49+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump pardons turkeys on new White House helipad - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVFnc3FBZmNjX212dU5seWJ4SkdHcXREV21RZDJwdVZmclJFaUQtM0l4Q1BHc1ZWZi12TlhGSF9hemNCSU1ZcUNQem03QjhveGkwSFZMNGFrMTlOR0JZLW5Cam40bUJ6SF9tZGJOSWtpWE1NTVJwV3Q5MTlaX3ZJYXFHOVRGZWM4WFNYSnVMeU1UODBLLWMwNUctRkcyUQ?oc=5",
+        "summary": "Trump pardons turkeys on new White House helipad The Washington Post Trump pardons turkeys on new White House helipad - The Washington Post",
+        "published": "Tue, 24 Nov 2026 19:58:34 GMT",
+        "published_kst": "2026-11-25T04:58:34+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
-        "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
-        "summary": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov.",
-        "published": "Tue, 24 Nov 2026 16:11:58 GMT",
-        "published_kst": "2026-11-25T01:11:58+09:00",
+        "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+        "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
+        "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market. Anthropic shares fall below IPO price.",
+        "published": "Tue, 24 Nov 2026 19:47:42 GMT",
+        "published_kst": "2026-11-25T04:47:42+09:00",
         "domain": "cnbc.com",
         "key_figures": [
-          "12%",
-          "$83",
-          "$111.50"
+          "$83"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-        "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-        "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3. Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-        "published": "Tue, 24 Nov 2026 16:06:07 GMT",
-        "published_kst": "2026-11-25T01:06:07+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-        "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-        "summary": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete. Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-        "published": "Tue, 24 Nov 2026 15:49:27 GMT",
-        "published_kst": "2026-11-25T00:49:27+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "14%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold Price Forecast: Could US Inflation Data Trigger Another Selloff? - Coinpaper",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFoyQkFQYlRvOGJRODN5cFRyV0dBSGE3OHVaVjRvX1hjM092aGotbXNMcGVOTUNKVkNzamdXNzlyTTRydk1oXzJvcXhNOGFQNVpSeWFUenNITW4tNExfdU1EaTdMLVNfVXhsX0x2Q0tSVERPVDJPNlRfZlZRTHdRYkh0RlhjVmhVYUhqcFNrc0ZCVDUwb19XUjk2UQ?oc=5",
-        "summary": "Coinpaper Gold Price Forecast: Could US Inflation Data Trigger Another Selloff?",
-        "published": "Tue, 24 Nov 2026 15:29:14 GMT",
-        "published_kst": "2026-11-25T00:29:14+09:00",
+        "title": "Trump, first lady host the White House Thanksgiving Turkey Pardon - KXII",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1drV2oxa2Z1VHNtZ3QybjVUUHEyZXlCVGtsN2szSjNPNmh4eG0tdFpoT21FZ3JkbzFvOTZWNEh0TWZ4eTBSU0lCclZ4cnRtSVpMVkNxZGlrc0lTTTl5LXZjZTNqb0czZmRVV0R2YVdNcUR4aEJfaHl6ang2TTlTNHlQQ2Nac3plZWYtNGtFREF4eURVLWJjM2lTSmdOWkhmVHF3?oc=5",
+        "summary": "Trump, first lady host the White House Thanksgiving Turkey Pardon KXII Trump, first lady host the White House Thanksgiving Turkey Pardon - KXII",
+        "published": "Tue, 24 Nov 2026 19:27:33 GMT",
+        "published_kst": "2026-11-25T04:27:33+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "What Dycom’s Earnings Say About AI Growth - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwUXNKd2owWXF5dE9YeDdCbkk5R2Q4Z0gyMU1MTWJYOWFqX1JPMUJmUlp4cExzbGdqQVUyQWdlcjJGY19qd2ZycU1TUkpRdmJRNVZMLW05R3UyaERiNzBfVksteHFtcE5haFdFYzFPdXJ5cVl2NXpr?oc=5",
-        "summary": "What Dycom’s Earnings Say About AI Growth Barron's What Dycom’s Earnings Say About AI Growth - Barron's",
-        "published": "Tue, 24 Nov 2026 15:11:00 GMT",
-        "published_kst": "2026-11-25T00:11:00+09:00",
+        "title": "'The threat is finally real': Judge rips White House 'weaponization' - ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRThwSFNKWkFaT0QxQzVNZDJvN2VpMmVoUDB0RWFxWlhMT3RBUnB4ZUNBaXJsRkg1cnZFeTFMRGMwQ25vc0J2OVpreGpISUo5TUF0TjMwYkFHTEgyWXpuV2V5V0VZcFE2Q194SDVaWFMwZFI0OGRoTnBRLTdHNTVFT1hJS3hxbFFWZHN0WmI3VXMtdER4QmdIcGk1VzBLVXfSAaQBQVVfeXFMUFYyZmdHV2JyTGFfR2ZrNS1NUWJaV1c0NExnN2pZdUZWWEdNM29GVGFza2I2MzAxbkNLbzFnZWlYd0lQbVVtYWlTMS04WXJuZTExWGo1X2ljM0dBMldaSWcwdUY3Uk9DOENPb0s2SFZ1SG9qQmtZeUdQZzJfS1FocHBuczMyU0lJcm5GaXoyb1JhcEhjZWk0aU0zTk5pWUdkeHJiRE0?oc=5",
+        "summary": "'The threat is finally real': Judge rips White House 'weaponization' ABC News - Breaking News, Latest News and Videos 'The threat is finally real': Judge rips White House 'weaponization' - ABC News - Breaking News, Latest News and Videos",
+        "published": "Tue, 24 Nov 2026 19:25:56 GMT",
+        "published_kst": "2026-11-25T04:25:56+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -79,41 +75,75 @@
     ],
     "kr": [
       {
-        "title": "[데스크 칼럼] 버스도 지하철처럼 멈추지 말라 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WR3BYSTNrNm51WlQwLWZPT292RVlDOU94MVdmR3pjT2d6c283U1drc2JLMzk3TTJSM2JLWWh6XzFPZlNFNDdDWnZySEdjOVVXYnVXa1JaWUtaUQ?oc=5",
-        "summary": "[데스크 칼럼] 버스도 지하철처럼 멈추지 말라 한국경제 [데스크 칼럼] 버스도 지하철처럼 멈추지 말라 - 한국경제",
-        "published": "Tue, 24 Nov 2026 15:52:00 GMT",
-        "published_kst": "2026-11-25T00:52:00+09:00",
+        "title": "美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUFSaS1TUTFpSXk4VE9DaEZqUEEwS3JVamJMcEE1ZWVPaDhWbEtTQXR0ZTRydnZQZGowcUt1ZDhadXNxNy1GVTZXRDAtdUg4NUxQV1l0M2lJR2tYQ21HUTRicFlrbEZSNGFFZG13dUkzSWRQYjV1V013andnT0M1NWlUWkc?oc=5",
+        "summary": "美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 조선일보 美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 - 조선일보",
+        "published": "Tue, 24 Nov 2026 19:31:00 GMT",
+        "published_kst": "2026-11-25T04:31:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "[취재수첩] AI 결제 시장에서 소외된 한국 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lbW9XVjdpTWd5SDF2Um93WnM1Wll6WUE0OVpGaHpTNDRUQjRrTW1TeVlBakFTNkRNaGp2LUlUM2NZQnZnZk94Z25jZ2NmNFBBZXRFcmk0bG1Udw?oc=5",
-        "summary": "[취재수첩] AI 결제 시장에서 소외된 한국 한국경제 [취재수첩] AI 결제 시장에서 소외된 한국 - 한국경제",
-        "published": "Tue, 24 Nov 2026 15:51:00 GMT",
-        "published_kst": "2026-11-25T00:51:00+09:00",
+        "title": "경제성장전략→경제정책방향…내년 경제정책, '양극화 완화'에 무게중심 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQQWZLUFpQVUN1SXM1ZDZHV2xuYkdRdkFlWkx1TDN4UkphUGxOMk9IWEJydnZ1eFhKQnpFTmZ0MWR0ejJsMXJjSnAwSGFqb2ZwZlE5SXFGLVg5Wk83aExXMDIwVWVYT1lqdTdjVmR3NWgxQ1lZZU5SS9IBfkFVX3lxTE56OElUVkVZRGJGMzNZRlg3OHg4SVBmajZUbTk5OTUzMzVlMnVpVXpJUVFPTHhPOE1qcHl5bUloMks3Q1JRRjRFLUlWeWJCcmFxbnNTRVR3SjlqaEFjc0pmcWhvTlhLUV84aHdvazdtNi1QOFBxWDdoSm5Hc0dHdw?oc=5",
+        "summary": "경제성장전략→경제정책방향…내년 경제정책, '양극화 완화'에 무게중심 - 머니투데이 머니투데이 경제성장전략→경제정책방향…내년 경제정책, '양극화 완화'에 무게중심 - 머니투데이 - 머니투데이",
+        "published": "Tue, 24 Nov 2026 19:05:00 GMT",
+        "published_kst": "2026-11-25T04:05:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "류재철 LG전자 사장, 대한전자공학대상 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSnZiZFlqYVdsODR6WVRlc2s0Z1VncDFiem1yYVpnTHRmallQcDFpdUlQQi1qM2oxdGJlUFNISHNRcVVrYkpNOV9SSWs1a2dfZzRKLWdvRzZpUQ?oc=5",
-        "summary": "류재철 LG전자 사장, 대한전자공학대상 한국경제 류재철 LG전자 사장, 대한전자공학대상 - 한국경제",
-        "published": "Tue, 24 Nov 2026 15:49:00 GMT",
-        "published_kst": "2026-11-25T00:49:00+09:00",
+        "title": "\"美, 한국 디지털 규제에 301조 조사 검토\"…추가 관세 나오나 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50T0hwdTc1TF90ZkZnSkRGWFBxY0d1UEQycHk2SFF0Vm5KWTRGcjZaR0dvd3M4WGRZUTlvaUxRb0g0NVRWZ2dIenN3ZnlsQzJxaEx5WDJnc1oxdlVyenBRZk9wVEljczBW0gFuQVVfeXFMTWg1OExmeGNCUkhZZDZjcExfVi1mdFBIY3IzLXQyMjlQQVRsdHZueWN2WmFhSDlhUmRlTm9kNzVNSDhaZmdURGsxZkoxeW9faXVqZTdmWDBUdWNzU3VLWGc2M3JIRTY4bFVNeEhEc3c?oc=5",
+        "summary": "\"美, 한국 디지털 규제에 301조 조사 검토\"…추가 관세 나오나 - 머니투데이 머니투데이 \"美, 한국 디지털 규제에 301조 조사 검토\"…추가 관세 나오나 - 머니투데이 - 머니투데이",
+        "published": "Tue, 24 Nov 2026 16:34:04 GMT",
+        "published_kst": "2026-11-25T01:34:04+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "world": []
+    "world": [
+      {
+        "title": "PETA, PepsiCo shareholders call out animal abuse across its supply chain - ESG Dive",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMzBEM01qdEpuNEl0S3hsZmFUcXZZWkxwZXBCWkpGRzFFUjRRbms3eG1uc09pSjVtTTU4WnRDWHhTdTlnRmtjSC04VjFTX09lQ2lobW1POS1sQXQxZjVKZVBfMXl3aE4tZnl0VXg0NVY0RDR1WlJBeGJuWFpCZkFreTRpMzMzcjlNQmM5YlNYM1JxSlEyWXNHZ2RkZzZRTmJDNXZpZEhCaEdXQVJMTzhVTWUtRDJuZVpzcXVveg?oc=5",
+        "summary": "PETA, PepsiCo shareholders call out animal abuse across its supply chain ESG Dive PETA, PepsiCo shareholders call out animal abuse across its supply chain - ESG Dive",
+        "published": "Tue, 24 Nov 2026 18:12:49 GMT",
+        "published_kst": "2026-11-25T03:12:49+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Pecan.AI Tool Cuts Inventory Forecast Error Across Sectors - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSkdTSHlFanQzeHJ0bThGbkpqQmRWZktRai1jOVBNdHpDV05SQWI2SUI1MUo0VmlCRHNvZU9SalM1VE5BZTI2di05Ym1kZFYyeXhFenI4SWFPT0twZnlJXzlxV1IxQmUyQ2V6NmdxeTFuc3A5NUgyNVZKcXE5N0ZWUkNQSnowajhoUXBWUUVR?oc=5",
+        "summary": "Pecan.AI Tool Cuts Inventory Forecast Error Across Sectors Supply Chain Digital Magazine Pecan.AI Tool Cuts Inventory Forecast Error Across Sectors - Supply Chain Digital Magazine",
+        "published": "Tue, 24 Nov 2026 18:02:22 GMT",
+        "published_kst": "2026-11-25T03:02:22+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "9 Ways Bad Supply Chain Data Management Increases Your Chances of Disruptions - Z2Data",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNFE5OVNhQVFBNDRQVFJnWlAyN0VZMWlOLUFjTHhOZXlpdU9ZNko2VHBrVnVmdEdEZzBqZU9tY1FGYlBUOWZXamdCUkxTdjZncnNsNE9uaS1vNXV3cjlUSHpneGc5enFSYS04alJ6Ul9KenVBT0pQWG5ucGtxQVZrZlpHMm05ZExvNVpNVVZibXZBdE9ZclVySnNLYnhzaEJiTERZTGR5bVJiSU9JcVE?oc=5",
+        "summary": "9 Ways Bad Supply Chain Data Management Increases Your Chances of Disruptions Z2Data 9 Ways Bad Supply Chain Data Management Increases Your Chances of Disruptions - Z2Data",
+        "published": "Tue, 24 Nov 2026 17:56:02 GMT",
+        "published_kst": "2026-11-25T02:56:02+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      }
+    ]
   },
-  "wrap_summary": "Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute PYMNTS.com Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute - PYMNTS.com / [데스크 칼럼] 버스도 지하철처럼 멈추지 말라 한국경제 [데스크 칼럼] 버스도 지하철처럼 멈추지 말라 - 한국경제",
+  "wrap_summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing. Jensen Huang tells staff that Nvidia doesn't need a succession plan / 美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 조선일보 美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 - 조선일보 / PETA, PepsiCo shareholders call out animal abuse across its supply chain ESG Dive PETA, PepsiCo shareholders call out animal abuse across its supply chain - ESG Dive",
   "invest_summary": ""
 }
