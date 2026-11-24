@@ -1,63 +1,28 @@
 {
   "date": "2026-11-24",
-  "generated_at_utc": "2026-11-24T00:36:51Z",
-  "cutoff_kst": "2026-11-24T09:36:00+09:00",
+  "generated_at_utc": "2026-11-24T05:36:39Z",
+  "cutoff_kst": "2026-11-24T14:36:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
-        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-        "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board. Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
-        "published": "Tue, 24 Nov 2026 00:24:51 GMT",
-        "published_kst": "2026-11-24T09:24:51+09:00",
+        "title": "Global Markets Brace for \"Jobs Week\" as US Labor Data Takes Center Stage Amidst Geopolitical and Policy Uncertainty - Vocal",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV2JGRW5zb1JITEJYVUVwQ2Uzc01DdFZLb0pBOHk1eE1DU1UzV3ZGZDk2OFlnLWZTS21IdHczUXZYZUxzV3NkZUhSZHVpR1hTd0U0dnl6b2lfWDZ0dFRzOFNtVTZhQzRjaWpJckRkVThYNmhZTE5BbnItOGJlbVZFa1g1NzQ3Z2tULWxpOGhGSUNkU2pSRjBzalBYOFZTWkd0cGdKblJIMzNlZlZrM2MyRmdpdzRiQ1F6S2pFVy1xMURRWUpNWXRzaGFZQlpKYlNNNVFyaGNlck4?oc=5",
+        "summary": "Global Markets Brace for \"Jobs Week\" as US Labor Data Takes Center Stage Amidst Geopolitical and Policy Uncertainty Vocal Global Markets Brace for \"Jobs Week\" as US Labor Data Takes Center Stage Amidst Geopolitical and Policy Uncertainty - Vocal",
+        "published": "Tue, 24 Nov 2026 05:25:57 GMT",
+        "published_kst": "2026-11-24T14:25:57+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+        "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny. Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+        "published": "Tue, 24 Nov 2026 05:09:34 GMT",
+        "published_kst": "2026-11-24T14:09:34+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Rep. Don Bacon floats White House run - Live 5 News",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CQWkwc2s2SVFIV0NkV3hGaWEyaEpSWS1WbjNpSWE2N2d3WDQ0Q0VFUFpMamg5Q0NkY19IQnhwdzU0UUx4emZXVHF1ZV9VX2dEZHZNT0pXLUtlV3N1clFuMXgyU1VVV2xuTE1zZUNfZVBtZ1JZU0tYdjB4VlZUSlnSAZMBQVVfeXFMTkZBdVRtSnRkVThCUHd1NVhNMldScFpDV3hRWGljSWk5M2pYX1A1dzA5WGVieDJ3N0FrVGJLc1hpeTJDdTk2NmhBLU0wNmFKbFpjSVJEOTdIaXd3S2dJVWZDd3dMSi1UVVhfTDN0LV9ZaGNkQWlyaVlkQmtJQWUyNXJ1NW4yZHFPYlpLYklVYm54cUpV?oc=5",
-        "summary": "Don Bacon floats White House run Live 5 News Rep.",
-        "published": "Tue, 24 Nov 2026 00:16:00 GMT",
-        "published_kst": "2026-11-24T09:16:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Fed's John Williams signals December rate hike as US inflation stays high - BusinessLine",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSkJoQU91TkE3a3RiRFFRMnhRTTB5Y0hDbnJicnZ1U1c4SXBqaFU1MUliRGVpVTNVdHBadTg1dkdKUDZkRXllYUJsVTZfQ3JHVlJPS29YT1dJeDNCaGlkelk3b1RQYkRLVXhhVDRiTzJ3TFVkQWhwS1lFcVNhOC0yVzFVQkdtMzVrODhNb2lpcWM2aTBSSmJySVA3anRQQ0hyZnpQX0NCUE13Wnhaem52RVhsR2c1TlFPMmZCQjNHbXFVWm9uUTMyMTB3SEJaVXhHX21FN2lJU3AzUkV2M0Jqd21haEzSAesBQVVfeXFMUDR1d1RXNlpXSjZYaXhaR21oWGRiWnB3R0ppNFlkeEoxQ3hicDhBTWhkNXd1ejVQSF9JNThGekFMOGNWTjRUNE5HTlhJSHdNb3dfXzg5UlQ3d3UtQTRfMFU5WkQ4NjIwR1FaR3lsdDhRT0FpZGxCSnQ5cW85NGN4RDdaUFIzVHVmWEFvWno0ZmI5bDYyWDN4R2pMWDM0dHJKaFFRZVp0S0MxUlMxOXZ3cmRHUm9pQy15VHJaRDc0UG1FU3Q3VHMtTV81dVBubU5kQy1KT0NEclJROG9WdDU3WFlKZjJ2MFpnYkNGdw?oc=5",
-        "summary": "Fed's John Williams signals December rate hike as US inflation stays high BusinessLine Fed's John Williams signals December rate hike as US inflation stays high - BusinessLine",
-        "published": "Tue, 24 Nov 2026 00:05:01 GMT",
-        "published_kst": "2026-11-24T09:05:01+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Rep. Don Bacon floats White House run - KTTC | Rochester, MN",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzdUUXUtR2RGR2JJV245NkpFVkZrTzgzTVR1TG5SZ2wwaXpaQVJ3S244NzVTVlp0Zi1RQXNXRE53a002Nll0S0hFS0NwbnctaGtCRlQ0dmpCTlBOMzF5SE1RS05fZGU4QkdGR3pzWWRnbUJsOXl4dWdQejB3N2VmMg?oc=5",
-        "summary": "Don Bacon floats White House run KTTC | Rochester, MN Rep.",
-        "published": "Tue, 24 Nov 2026 00:02:00 GMT",
-        "published_kst": "2026-11-24T09:02:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-        "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
-        "summary": "CrowdStrike CEO George Kurtz defended the company's $44 billion acquisition of Zscaler. CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-        "published": "Mon, 23 Nov 2026 23:53:20 GMT",
-        "published_kst": "2026-11-24T08:53:20+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$44"
-        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
@@ -65,9 +30,42 @@
         "title": "AI adoption grows in Asia, but measuring the gains remains tricky",
         "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
         "summary": "Businesses across Asia-Pacific are seeing returns from AI investments, even as confidence in measuring those gains varies, according to an AWS survey. AI adoption grows in Asia, but measuring the gains remains tricky",
-        "published": "Mon, 23 Nov 2026 23:42:27 GMT",
-        "published_kst": "2026-11-24T08:42:27+09:00",
+        "published": "Tue, 24 Nov 2026 05:07:16 GMT",
+        "published_kst": "2026-11-24T14:07:16+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+        "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+        "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+        "published": "Tue, 24 Nov 2026 05:05:08 GMT",
+        "published_kst": "2026-11-24T14:05:08+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold edges higher on bargain buying; US inflation data awaited - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb1ZXcXRQY1N2b0FubHFkTWxMbExVUTNPZlpUS2VpUWVXbXlPeDhkOGRMSWJFYTE2ekJjTVlKMFdvaHhPeDdHM3ZteF9QM05mdGRRMTVMZmtVNnZGUzluRDR1eTJTVFB1TVladEVlZmZ1TXZOQlJmUUl0UzBrNENfb0JOSFVMNTBjWUFRRDV4WjVjVWhTWFR4YmFjb1d3OS1UYTJKamRvd2VlT1p4NzBhRGVySTJsRVlYWVlHZjRsVkd6cXo1SFQtWjBhYw?oc=5",
+        "summary": "Gold edges higher on bargain buying; US inflation data awaited TradingView Gold edges higher on bargain buying; US inflation data awaited - TradingView",
+        "published": "Tue, 24 Nov 2026 04:58:00 GMT",
+        "published_kst": "2026-11-24T13:58:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLU9yX2djdGRQV01hM0llUENSZ0U3a1YzQU1WdWx5Z0dMMVJGUFduWkhJTjBxOHVVeE9SN1lyaE1sNjdJYWVENzhrRUJ2cXNUZEZHaUpRUHE0UXM?oc=5",
+        "summary": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang BBC Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang - BBC",
+        "published": "Tue, 24 Nov 2026 04:36:31 GMT",
+        "published_kst": "2026-11-24T13:36:31+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,70 +73,70 @@
     ],
     "kr": [
       {
-        "title": "한경연·대외경제정책연구원, 美 중간선거 이후 경제 전망 논의 - 글로벌이코노믹",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWnJYY0hfanhaWWF5b0hmZm41WDVxeEx4SDR0dzVsTVh4YXBjZmdFWnU1ek02WTZFSnNDaW5NOHROUy1kbjJfSEVaTFNYWDBma1JCbkpMYkJNc0xLb1R5N0hqclktb25idlJsdFpRNlFPTGJHWmlWd0NKdGhhRTdwMndrTE10Zw?oc=5",
-        "summary": "한경연·대외경제정책연구원, 美 중간선거 이후 경제 전망 논의 글로벌이코노믹 한경연·대외경제정책연구원, 美 중간선거 이후 경제 전망 논의 - 글로벌이코노믹",
-        "published": "Tue, 24 Nov 2026 00:22:41 GMT",
-        "published_kst": "2026-11-24T09:22:41+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "한국양서파충류협회, 잇따른 규제 발의에 “종의 지위와 개별 개체의 생태적·법적 상황 동일시하는 것이 문제” - www.everynews.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxcU1jeG4wWkdUSy1vdjlrT2czU2lERzlUTjhJdjBqLUpacC01NmJicHp0aXA5MnN0UlB5V2VUSVpHRjdVenNSSHJhb2ZYUEM5WXVtMUxkZjVwOTRNRklJWnBVX0FYX2RpaFBpOWxR?oc=5",
-        "summary": "한국양서파충류협회, 잇따른 규제 발의에 “종의 지위와 개별 개체의 생태적·법적 상황 동일시하는 것이 문제” www.everynews.co.kr 한국양서파충류협회, 잇따른 규제 발의에 “종의 지위와 개별 개체의 생태적·법적 상황 동일시하는 것이 문제” - www.everynews.co.kr",
-        "published": "Tue, 24 Nov 2026 00:20:00 GMT",
-        "published_kst": "2026-11-24T09:20:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "[개장시황] 젠슨 황이 돌아왔다…코스피 5000선 돌파·매수 사이드카 발동 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CRVJGUW9Fd2l0N29PUER5R09FODdzSU5rZkhNbFVMeXlsejBXaHN6dDNlQWFrVXd1QjZBLThLWklsbnlpcVB3RmNXNlp0Tll4MlItMWhiVWxWZw?oc=5",
-        "summary": "[개장시황] 젠슨 황이 돌아왔다…코스피 5000선 돌파·매수 사이드카 발동 한국경제 [개장시황] 젠슨 황이 돌아왔다…코스피 5000선 돌파·매수 사이드카 발동 - 한국경제",
-        "published": "Tue, 24 Nov 2026 00:15:02 GMT",
-        "published_kst": "2026-11-24T09:15:02+09:00",
+        "title": "[오후시황] 코스피 5000선 안착 시도…외국인·기관 '사자' - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQ3VoanZtYWVzWWV0eUNWakc1M0JaeHJyZnpXWG5USVJta1JQdFF1VzFBSGNINE9CZ1dPN0hLZExLTWNwcWtsSzZIWUprSmk5WlpWZEg1Ty1YQQ?oc=5",
+        "summary": "[오후시황] 코스피 5000선 안착 시도…외국인·기관 '사자' 한국경제 [오후시황] 코스피 5000선 안착 시도…외국인·기관 '사자' - 한국경제",
+        "published": "Tue, 24 Nov 2026 05:32:50 GMT",
+        "published_kst": "2026-11-24T14:32:50+09:00",
         "domain": "google.com",
         "key_figures": [
           "5000"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "\"불법 공매도 감시 강화\"…금감원·거래소 합동 TF 가동 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tYUxwRU1WUGJ2TldMMExGdGZSTWk0NU84azdWX0ZQSHFyY2F5Q2F4eUJZTGh1VzhDQmpFZUdCczA3dXNUc2tQTXNyZXlXd3ZhcGtDWmxXVWlzQQ?oc=5",
+        "summary": "\"불법 공매도 감시 강화\"…금감원·거래소 합동 TF 가동 한국경제 \"불법 공매도 감시 강화\"…금감원·거래소 합동 TF 가동 - 한국경제",
+        "published": "Tue, 24 Nov 2026 05:22:02 GMT",
+        "published_kst": "2026-11-24T14:22:02+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "에기평, 한국 경제 빛낸 경영 수상 - 투데이에너지",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wMkV1NGxubE5oYjdyaWxicmlSUHozaDY1QjVYX0I5OXdzblZjcDlOeWN4dDRhdFBmdHBYZXlpNk02SFZYeGtkdnNFYXhyY3Vkcno4a2hOUjNLdjJveGtFekM4aU15NmdwcDVxZA?oc=5",
+        "summary": "에기평, 한국 경제 빛낸 경영 수상 투데이에너지 에기평, 한국 경제 빛낸 경영 수상 - 투데이에너지",
+        "published": "Tue, 24 Nov 2026 05:14:44 GMT",
+        "published_kst": "2026-11-24T14:14:44+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "world": [
       {
-        "title": "US-Iran War Live Updates: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz - The Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN3ZxbkdTVmVwTnVlcHhLSUxNcXZPcjY0WHhFdGkzdXpyMFNIQXpSQUtnQmU5azZUMVdpc1ZHSVhNYmtjcTR1bmZIQmFZRm1PNjY0R2xaMDFqUXJiY0tfWi1mZGtmMEZESWd4eEdBQmVFaWs1VDItTUVMRjNDQkhUaWdVZFd4eEVJcVZjQ2o1dG13UVptVU8yTW9BcC0zZUljeTNvNFg2VDhYTXFKTGhScUtLd2RWNktCWEk2TFZlMEhIT1FhMTJXRklaYzJHX0tTeXFWb1lYVTF4SV9tMVHSAeQBQVVfeXFMTTBlT01NODNwTTNsQ3NiaE95ejhsT0Qza2t6dUYzc2x4Nl92NHdkV3lJblhDUGVObkpjWDlyempzZWtOWktLa0NoYzVtcXhsUEpMeTNyRWdQQW5GcXk3XzZNd1NHMkMzbGp6WnhERXlmZm9ZWmJYZmxKNlIzM2tmekZ6MEFOZnhBbjZfeUNPbHhxb1NPUGlxVkdHMUZGTUlxc1kyTDlpZGM3SDhKdUpFX2FQaDVTeGEtYklIMXVlRmJVd2RQMUczdHZtRkgtZ2s4VjRZdlo2YmZ6WGlEWHluMlVYVmxW?oc=5",
-        "summary": "US-Iran War Live Updates: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz The Indian Express US-Iran War Live Updates: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz - The Indian Express",
-        "published": "Mon, 23 Nov 2026 23:27:19 GMT",
-        "published_kst": "2026-11-24T08:27:19+09:00",
+        "title": "Global Electronics Association Warns of Escalating PCB Supply Chain Shortages - Bisinfotech",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUU1WYWxCa1V6R1RNRVVTSVZzc1dTQ2JOOEN4UzNQbXNpMzc2Z1h0VFRlVi1LaF9nbVg1cDdhdnJJSW8tOXp3eFU1U2JJSV9FUExYS3JqcDhrYlhfQnhWMkJNTkV4UFFDR3k5NzczYlNhcUZOYThJek1MVWdLYm5nT3E2SG1KMV9GbnB4U2dhNA?oc=5",
+        "summary": "Global Electronics Association Warns of Escalating PCB Supply Chain Shortages Bisinfotech Global Electronics Association Warns of Escalating PCB Supply Chain Shortages - Bisinfotech",
+        "published": "Tue, 24 Nov 2026 05:26:09 GMT",
+        "published_kst": "2026-11-24T14:26:09+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Russian arms exporter says US sanctions aim to push it from global market - Yeni Safak English",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFYtc0psdTFHWUtLVmJFUVlsLTMwbTltRVZ5QjNtN0JXTFgtWTZvb3ZaU3ZpRHItN1laM2dFaWZXVWNON3FWOWtpWEhHcTN0dFB0MUtKSzJ1Uk1WUVdwQnFpZ2ZsOWlLdW52X2Z6MkhGRXlOaXJRTmxaMkoybWI1QmlSTEMtZmk2aUdjd3VrT3lrdlNqZGdfWnMySURvZC1nRkZNNVByTTlKaGl6U0JHb29vc1I?oc=5",
-        "summary": "Russian arms exporter says US sanctions aim to push it from global market Yeni Safak English Russian arms exporter says US sanctions aim to push it from global market - Yeni Safak English",
-        "published": "Mon, 23 Nov 2026 22:28:34 GMT",
-        "published_kst": "2026-11-24T07:28:34+09:00",
+        "title": "AS Watson ramps up AI powered supply chain transformation push across 55+ distribution centres - Retail Technology Innovation Hub",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZVlnY2JQTGlkLUNPVGtIajY2UmVLSTB4dzc3NUdVOU1PRlFxZnhMMlhPN1ljc0h3d3JOT21PQ1dxQUgwZXR0UUdVbS1OdS1qUThjYVdYaFc3R1hsX19sVng0ckFHalY0TWhSY2lIc3hwbmE5X1p2RTh5YTNsbFEtMTNFNEdEWHdKUmF0UFB1YU9sSldlTW9Lc3JWNjFudURyTTdIM3I1YVdFMFo4eWJuckFCQ1UyNnM4UDA3eng1cG9KZDBQTmlZQ1luVnBFQWFhemV2VlNJZUM4bUxkSkRjLXpxbw?oc=5",
+        "summary": "AS Watson ramps up AI powered supply chain transformation push across 55+ distribution centres Retail Technology Innovation Hub AS Watson ramps up AI powered supply chain transformation push across 55+ distribution centres - Retail Technology Innovation Hub",
+        "published": "Tue, 24 Nov 2026 05:18:51 GMT",
+        "published_kst": "2026-11-24T14:18:51+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Michael Rose Discusses Supply Chain Optimization and Global Shipping Logistics in Ridgefield, CT - The Ritz Herald",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTUVFXy03VDZCWDc3ZDlpbW9laVVkaVpuZWN3Y0tnT3NGYW5Rdk13WnVJSjY0bllzUGlKUEYtU3JJMUZmMWRNcEtWWnZGNWFCdjFhY3k3VE5sWllBWUJoYWY0OU5LcDg4bEVEcU1WWmtsbGp5V3RHSjZvaW1VQzhMY1BZS0g5Nk05R1lpZVVmZ1JpQU0tT244eUIxc0psU01mbzJxRHd6ZW5ZUDNiZm1DRldRWDNHUUdnY0Jj?oc=5",
-        "summary": "Michael Rose Discusses Supply Chain Optimization and Global Shipping Logistics in Ridgefield, CT The Ritz Herald Michael Rose Discusses Supply Chain Optimization and Global Shipping Logistics in Ridgefield, CT - The Ritz Herald",
-        "published": "Mon, 23 Nov 2026 22:08:32 GMT",
-        "published_kst": "2026-11-24T07:08:32+09:00",
+        "title": "Building a Shock-Resilient Supply Chain - www.mhlnews.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTFpsd2gyNHY5alp5THhacGVDamNvWng5S1E5b0YzMjdqTzlXeDJUNDFqYlVVS0lrLUlaSk1DWWJiajY5eG9aT3I4a2tzV29Kckx5MENsMVo1d2MwRjVZaVoydDYwME0zclduYm1oclN4Z1FGQ19NZlBOb0loUXF1TEh2bEVNUkxOVGZ3b3RjejgxaXl3eE9Dd1VUemJjQQ?oc=5",
+        "summary": "Building a Shock-Resilient Supply Chain www.mhlnews.com Building a Shock-Resilient Supply Chain - www.mhlnews.com",
+        "published": "Tue, 24 Nov 2026 05:11:24 GMT",
+        "published_kst": "2026-11-24T14:11:24+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -146,6 +144,6 @@
       }
     ]
   },
-  "wrap_summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board. Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return / 한경연·대외경제정책연구원, 美 중간선거 이후 경제 전망 논의 글로벌이코노믹 한경연·대외경제정책연구원, 美 중간선거 이후 경제 전망 논의 - 글로벌이코노믹 / US-Iran War Live Updates: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz The Indian Express US-Iran War Live Updates: IRGC Navy says three tankers hit mines, catch fire in Strait of Hormuz - The Indian Express",
+  "wrap_summary": "Global Markets Brace for \"Jobs Week\" as US Labor Data Takes Center Stage Amidst Geopolitical and Policy Uncertainty Vocal Global Markets Brace for \"Jobs Week\" as US Labor Data Takes Center Stage Amidst Geopolitical and Policy Uncertainty - Vocal / [오후시황] 코스피 5000선 안착 시도…외국인·기관 '사자' 한국경제 [오후시황] 코스피 5000선 안착 시도…외국인·기관 '사자' - 한국경제 / Global Electronics Association Warns of Escalating PCB Supply Chain Shortages Bisinfotech Global Electronics Association Warns of Escalating PCB Supply Chain Shortages - Bisinfotech",
   "invest_summary": ""
 }
