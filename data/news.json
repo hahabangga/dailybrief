@@ -1,59 +1,41 @@
 {
-  "date": "2026-11-24",
-  "generated_at_utc": "2026-11-24T11:43:32Z",
-  "cutoff_kst": "2026-11-24T20:43:00+09:00",
+  "date": "2026-11-25",
+  "generated_at_utc": "2026-11-24T16:31:36Z",
+  "cutoff_kst": "2026-11-25T01:31:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Turkeys pardoned from the White House to become honorary Aggies - WFAA",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVpuU3cxcGxVZUZ5cjFyUG1lNFBXSUNjZWowUHpfaHFGYU9vTHdsLTl0NXlyazV4dDZHZFRNYzdhSkYwUWZET08xa1ktNzNUQVlfR1dDb2hwVFU1R29STnZOT3pZNUd2R2EwX3pWa1FNSWxHRVJ6Ukt0Zmc5NDRzeFQ4bEg5ZlNtRms3alZzQURROHNVM3V1c0Z5TXVMRjlaRlFEYm5LMkZ6M0RnSF9qN1JfWVE1amRyT0dwNDhWQWdiR0I2SDlpTW5ZV2V1NXc?oc=5",
-        "summary": "Turkeys pardoned from the White House to become honorary Aggies WFAA Turkeys pardoned from the White House to become honorary Aggies - WFAA",
-        "published": "Tue, 24 Nov 2026 11:36:19 GMT",
-        "published_kst": "2026-11-24T20:36:19+09:00",
+        "title": "Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTG5QSENFUzVmVFRrNjgtZEUyU0lUWi1rS041cHpVMHBrYnBBdTZXUWJsWEM2T0VONG5ZRGVjOXBWTFRjWDFUYkRqWEVkZ2U2bFVTUjFmNUpLMjVYZFU1ZFFLTklMS1BvTzV2UGRWVGZyenpXWU1BT2E0OTJPR2NrMmVvMm1hbUVPMnVtejhuaGt4YlYzS2VzSXBGYmJMT0NkYXJnYXRTMWtMbzZfa3c?oc=5",
+        "summary": "Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute PYMNTS.com Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute - PYMNTS.com",
+        "published": "Tue, 24 Nov 2026 16:20:45 GMT",
+        "published_kst": "2026-11-25T01:20:45+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Why France is at risk of recession — and what could keep it out of one",
-        "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-        "summary": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity. Why France is at risk of recession — and what could keep it out of one",
-        "published": "Tue, 24 Nov 2026 11:15:30 GMT",
-        "published_kst": "2026-11-24T20:15:30+09:00",
+        "title": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive",
+        "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+        "summary": "Anthropic sinks 12%, falling below $83 IPO price, but analysts are still largely positive Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov.",
+        "published": "Tue, 24 Nov 2026 16:11:58 GMT",
+        "published_kst": "2026-11-25T01:11:58+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
+        "key_figures": [
+          "12%",
+          "$83",
+          "$111.50"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Video Preparing for annual White House turkey pardon - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoRklIY0R3YjRINzZXNHVRcVVJd2lkOXFCUW8zSkctcmpLcWJMTzZRVkNEMlNUMFFfV1h1dUoyZ3gwUUNGX3BpWlh2aVo?oc=5",
-        "summary": "Video Preparing for annual White House turkey pardon ABC News - Breaking News, Latest News and Videos Video Preparing for annual White House turkey pardon - ABC News - Breaking News, Latest News and Videos",
-        "published": "Tue, 24 Nov 2026 11:04:33 GMT",
-        "published_kst": "2026-11-24T20:04:33+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "LIVE: Trump pardons turkeys at the White House - Daily Gate City",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPelpQZzFqN2E2NFBTQnZ6eFhPMW96anZqS0lOSnZjRThITUZ3R0I0NnhUQkZPMHBEQVNyN2VJQjhKdVlsQjdpZTBHMFhGdi0yYWFJd2E2ckQ2dXF4anhDSEJVdkVaUlNpeEZ5VE5MaXZMMDJQOGxPbS1BQWNjT0VOYTYyS0xnMGlDZ2VfUzVwTFI1VTZZeW1BejdEaDR4aS1xWVR3OUtkUXZ2WXprOE5rOGZ1ZkswRnBUVmlhaGp1TVJvLWpFVWNoR0ZFa3QySTZibW04?oc=5",
-        "summary": "LIVE: Trump pardons turkeys at the White House Daily Gate City LIVE: Trump pardons turkeys at the White House - Daily Gate City",
-        "published": "Tue, 24 Nov 2026 11:04:09 GMT",
-        "published_kst": "2026-11-24T20:04:09+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-        "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-        "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny. Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-        "published": "Tue, 24 Nov 2026 10:56:56 GMT",
-        "published_kst": "2026-11-24T19:56:56+09:00",
+        "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+        "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+        "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3. Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+        "published": "Tue, 24 Nov 2026 16:06:07 GMT",
+        "published_kst": "2026-11-25T01:06:07+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -62,92 +44,76 @@
       {
         "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
         "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-        "summary": "Sanofi faces a revenue drop towards the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete. Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-        "published": "Tue, 24 Nov 2026 10:50:26 GMT",
-        "published_kst": "2026-11-24T19:50:26+09:00",
+        "summary": "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete. Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+        "published": "Tue, 24 Nov 2026 15:49:27 GMT",
+        "published_kst": "2026-11-25T00:49:27+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "14%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold Price Forecast: Could US Inflation Data Trigger Another Selloff? - Coinpaper",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONFoyQkFQYlRvOGJRODN5cFRyV0dBSGE3OHVaVjRvX1hjM092aGotbXNMcGVOTUNKVkNzamdXNzlyTTRydk1oXzJvcXhNOGFQNVpSeWFUenNITW4tNExfdU1EaTdMLVNfVXhsX0x2Q0tSVERPVDJPNlRfZlZRTHdRYkh0RlhjVmhVYUhqcFNrc0ZCVDUwb19XUjk2UQ?oc=5",
+        "summary": "Coinpaper Gold Price Forecast: Could US Inflation Data Trigger Another Selloff?",
+        "published": "Tue, 24 Nov 2026 15:29:14 GMT",
+        "published_kst": "2026-11-25T00:29:14+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "What Dycom’s Earnings Say About AI Growth - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwUXNKd2owWXF5dE9YeDdCbkk5R2Q4Z0gyMU1MTWJYOWFqX1JPMUJmUlp4cExzbGdqQVUyQWdlcjJGY19qd2ZycU1TUkpRdmJRNVZMLW05R3UyaERiNzBfVksteHFtcE5haFdFYzFPdXJ5cVl2NXpr?oc=5",
+        "summary": "What Dycom’s Earnings Say About AI Growth Barron's What Dycom’s Earnings Say About AI Growth - Barron's",
+        "published": "Tue, 24 Nov 2026 15:11:00 GMT",
+        "published_kst": "2026-11-25T00:11:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "해외 석학들 “한국의 임신중지약 과잉 규제, 근거 없다” - 여성신문",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xTmNHYXFoNE5zZk1Ob3VWdUhMRGtLeDdySW12eXptNHZfRE9sUU5QSlJwOHU4Rm55cEE2VkxCbzJJamxIUmtyamY5dXVudHdJd1EzY0NXM1N4eGF6em5BNC1zeWl4N19QVDQxQjZKa9IBc0FVX3lxTE5RNVhMR21XLTYzQ3pqRUE2dFczMWZTZDlhVGg0V0hQczBUN1FVUW5WUGQ0TEdrQ3NhNlZUMTFLVWZRdl81UEhwYjRvc0JhMUF2SUcyU2M5LUpnOERTa25WaUpJOVlkMUJNc0VoOFVqSzdQYTQ?oc=5",
-        "summary": "해외 석학들 “한국의 임신중지약 과잉 규제, 근거 없다” 여성신문 해외 석학들 “한국의 임신중지약 과잉 규제, 근거 없다” - 여성신문",
-        "published": "Tue, 24 Nov 2026 11:22:57 GMT",
-        "published_kst": "2026-11-24T20:22:57+09:00",
+        "title": "[데스크 칼럼] 버스도 지하철처럼 멈추지 말라 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WR3BYSTNrNm51WlQwLWZPT292RVlDOU94MVdmR3pjT2d6c283U1drc2JLMzk3TTJSM2JLWWh6XzFPZlNFNDdDWnZySEdjOVVXYnVXa1JaWUtaUQ?oc=5",
+        "summary": "[데스크 칼럼] 버스도 지하철처럼 멈추지 말라 한국경제 [데스크 칼럼] 버스도 지하철처럼 멈추지 말라 - 한국경제",
+        "published": "Tue, 24 Nov 2026 15:52:00 GMT",
+        "published_kst": "2026-11-25T00:52:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "국산보다 싼데 품질까지 좋은 중국산…\"공장 팝니다\" 초토화 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nSzNPSzJNX2tpU21EaEk3TEVKaWV3emtSazE2R0c2SmRzNEVPYmFVSjB3Q0pGRFZOLU1DSXR1V2thT3ZleU45YlBXY3paNk1iNzRKZ3ZkRXN6Zw?oc=5",
-        "summary": "국산보다 싼데 품질까지 좋은 중국산…\"공장 팝니다\" 초토화 한국경제 국산보다 싼데 품질까지 좋은 중국산…\"공장 팝니다\" 초토화 - 한국경제",
-        "published": "Tue, 24 Nov 2026 10:38:00 GMT",
-        "published_kst": "2026-11-24T19:38:00+09:00",
+        "title": "[취재수첩] AI 결제 시장에서 소외된 한국 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lbW9XVjdpTWd5SDF2Um93WnM1Wll6WUE0OVpGaHpTNDRUQjRrTW1TeVlBakFTNkRNaGp2LUlUM2NZQnZnZk94Z25jZ2NmNFBBZXRFcmk0bG1Udw?oc=5",
+        "summary": "[취재수첩] AI 결제 시장에서 소외된 한국 한국경제 [취재수첩] AI 결제 시장에서 소외된 한국 - 한국경제",
+        "published": "Tue, 24 Nov 2026 15:51:00 GMT",
+        "published_kst": "2026-11-25T00:51:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "한국, 원화 스테이블코인에 은행 과반 규제 제안…거래소 지분 20%로 제한 - CoinDesk",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDRxLXBCTXRFR0EyaEFPemdubjg0UEU3WGNhY1BraDRXNk9ybndxeHlIc0x6TG5FSHk5SU1CbVZRUE5DREwyX3VLc3UzZnowWnd3dXlXc2VsbERDOVNhcUEycVZTV2ZIZFo5QTh6anlUM0pMV19DX2lWZC1hd1Y5dkFHcHBBZk03RGtSTHNSVnlpQ1ZOYjN1TzBtNU96VVJybWpmWHB5VkQxcVY0NlBacVFTa2NkUmtUTVZRX01tTmxiN1U?oc=5",
-        "summary": "한국, 원화 스테이블코인에 은행 과반 규제 제안…거래소 지분 20%로 제한 CoinDesk 한국, 원화 스테이블코인에 은행 과반 규제 제안…거래소 지분 20%로 제한 - CoinDesk",
-        "published": "Tue, 24 Nov 2026 10:29:14 GMT",
-        "published_kst": "2026-11-24T19:29:14+09:00",
+        "title": "류재철 LG전자 사장, 대한전자공학대상 - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSnZiZFlqYVdsODR6WVRlc2s0Z1VncDFiem1yYVpnTHRmallQcDFpdUlQQi1qM2oxdGJlUFNISHNRcVVrYkpNOV9SSWs1a2dfZzRKLWdvRzZpUQ?oc=5",
+        "summary": "류재철 LG전자 사장, 대한전자공학대상 한국경제 류재철 LG전자 사장, 대한전자공학대상 - 한국경제",
+        "published": "Tue, 24 Nov 2026 15:49:00 GMT",
+        "published_kst": "2026-11-25T00:49:00+09:00",
         "domain": "google.com",
-        "key_figures": [
-          "20%"
-        ],
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
-    "world": [
-      {
-        "title": "ITF Supply Chain Guidance bridges the gap on transport worker engagement - Business and Human Rights Centre",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlc0WjVuU1pVcmpBbmF5NWwzVXZqaTVSbEJoaGJHQ2pUSWFaMVF4U040Vk1xeXpoTjJsRldIakg1NjVJV21iZ0U2VW5xejdHdGcxNWR1WlNQaGdxdjZKMlVScHMwcURKeUhpQmFuT3ZKb0h1dER2TU9iNGFWNTBWTll3ZzloSE1nc3ZsRzlrbG9oMGFINjlxd2Z1ZHNrWEJKb0pqRVMxSHBwR2JYc1BfR2psNXA5ODlwRUE?oc=5",
-        "summary": "ITF Supply Chain Guidance bridges the gap on transport worker engagement Business and Human Rights Centre ITF Supply Chain Guidance bridges the gap on transport worker engagement - Business and Human Rights Centre",
-        "published": "Tue, 24 Nov 2026 11:26:02 GMT",
-        "published_kst": "2026-11-24T20:26:02+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "How tiny Tennessee startup is helping U.S. topple China’s dominance in vital rare earths - Automotive News",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1R0ZVNZZ1dTMDJnRGUzX29qQXRKMTNiZ1B6MGJTcWdYaG5NOFBaLXdoRUEyMEVUZ0lOOWd1R3ozWWlwYUd4MDhLcjFMSUg4dmYxR3g5UG95MlhOYzV5MWxWeWJuRVJWMTctaXA4cDgxdGpSSG5kZUdQSVlfTnJ0ZVNtRlA?oc=5",
-        "summary": "topple China’s dominance in vital rare earths Automotive News How tiny Tennessee startup is helping U.S. topple China’s dominance in vital rare earths - Automotive News",
-        "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-        "published_kst": "2026-11-24T20:00:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Quad Foreign Ministers Pledge $85 Million for Trusted AI and Supply Chain Resilience, Citing \"Economic Coercion\" - Vocal",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSnFWSDhXV0JocWdNMk16amplSEVGbHlXM2JmV2tsQmJYYWUtVERsZ1pJaTc1SGcyWUxzSFJHdjNlcS1tT0dGNFRnT0Z1bjhzWmFYekJlS3BZRUtBMURBcTVYb2hSUVF4YVF3VTZoV1hQX3dZMjl1VWJ5MldFSGFsRm5wVkpGajN3X3hRWUw0TWxEUnd2S2FuOWN6Q0Q0YWQzUWRaNnh3Q1dPcFpVdmxRTWpOLVlJMGZkREZpQmRoTGRNSWNJLUladHBQSlZWVFBNZFE?oc=5",
-        "summary": "Quad Foreign Ministers Pledge $85 Million for Trusted AI and Supply Chain Resilience, Citing \"Economic Coercion\" Vocal Quad Foreign Ministers Pledge $85 Million for Trusted AI and Supply Chain Resilience, Citing \"Economic Coercion\" - Vocal",
-        "published": "Tue, 24 Nov 2026 10:36:44 GMT",
-        "published_kst": "2026-11-24T19:36:44+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$85"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      }
-    ]
+    "world": []
   },
-  "wrap_summary": "Turkeys pardoned from the White House to become honorary Aggies WFAA Turkeys pardoned from the White House to become honorary Aggies - WFAA / 해외 석학들 “한국의 임신중지약 과잉 규제, 근거 없다” 여성신문 해외 석학들 “한국의 임신중지약 과잉 규제, 근거 없다” - 여성신문 / ITF Supply Chain Guidance bridges the gap on transport worker engagement Business and Human Rights Centre ITF Supply Chain Guidance bridges the gap on transport worker engagement - Business and Human Rights Centre",
+  "wrap_summary": "Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute PYMNTS.com Apple Faces Opposition From 32 US States in Supreme Court App Store Dispute - PYMNTS.com / [데스크 칼럼] 버스도 지하철처럼 멈추지 말라 한국경제 [데스크 칼럼] 버스도 지하철처럼 멈추지 말라 - 한국경제",
   "invest_summary": ""
 }
