@@ -1,109 +1,119 @@
 {
   "date": "2026-11-25",
-  "generated_at_utc": "2026-11-24T20:33:18Z",
-  "cutoff_kst": "2026-11-25T05:33:00+09:00",
+  "generated_at_utc": "2026-11-24T22:55:42Z",
+  "cutoff_kst": "2026-11-25T07:55:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-        "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-        "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing. Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-        "published": "Tue, 24 Nov 2026 20:04:31 GMT",
-        "published_kst": "2026-11-25T05:04:31+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-        "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-        "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see. Op-ed: Trump’s Nvidia board intervention put a price on national security.",
-        "published": "Tue, 24 Nov 2026 20:02:49 GMT",
-        "published_kst": "2026-11-25T05:02:49+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump pardons turkeys on new White House helipad - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVFnc3FBZmNjX212dU5seWJ4SkdHcXREV21RZDJwdVZmclJFaUQtM0l4Q1BHc1ZWZi12TlhGSF9hemNCSU1ZcUNQem03QjhveGkwSFZMNGFrMTlOR0JZLW5Cam40bUJ6SF9tZGJOSWtpWE1NTVJwV3Q5MTlaX3ZJYXFHOVRGZWM4WFNYSnVMeU1UODBLLWMwNUctRkcyUQ?oc=5",
-        "summary": "Trump pardons turkeys on new White House helipad The Washington Post Trump pardons turkeys on new White House helipad - The Washington Post",
-        "published": "Tue, 24 Nov 2026 19:58:34 GMT",
-        "published_kst": "2026-11-25T04:58:34+09:00",
+        "title": "Euro rebounds from a 19-month low before ECB minutes and US inflation - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU5CcTdfS3lVQTNGa2pHSHVtX1ZMWlJKakN1Y2MtUDE2OEkyUDZDZ3F6YXV4STd4MkhXSjFCQVdTbnYtWGJZazI5ZUNaT0JyRWZyTnRXUklzNW9uWXZKUUZ2RE9rVEViYVdGXzFRLWNVRzZuaDl2Z3NpZWQ2N2lpcW9WYXVFSjRCMGRVYkJCVDBFb2xqamVpRXlvX3gyUE9vR0JmQjVTZkw3VGZ0aTBMMUNR?oc=5",
+        "summary": "Euro rebounds from a 19-month low before ECB minutes and US inflation FXStreet Euro rebounds from a 19-month low before ECB minutes and US inflation - FXStreet",
+        "published": "Tue, 24 Nov 2026 22:33:29 GMT",
+        "published_kst": "2026-11-25T07:33:29+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Anthropic shares fall below IPO price. Traders see even more pain",
-        "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html",
-        "summary": "Anthropic shares fell below the $83 IPO price as options activity surged, with large put buys, call buys and put sales pointing to a divided market. Anthropic shares fall below IPO price.",
-        "published": "Tue, 24 Nov 2026 19:47:42 GMT",
-        "published_kst": "2026-11-25T04:47:42+09:00",
-        "domain": "cnbc.com",
+        "title": "Individuals have put $1 billion into kids’ Trump Accounts, White House says - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQVFGTjFuZHBfTzN4Wm1vUmFhQW1lZC0xZFVSNWZmUlZPNGgzemU5X1BLczZrRjQ3T0Z6SnhidFNSdGFEOHEweHVscTZVV3NqVmdlNXQ2bS04VWM1TVptSG5BVVhXdnZIUlRMd2haUGE3QWRoR2g0Uk5CN2otRzMtVU1jT29raF8zX1ZjaGQ4eEVxMkF1bl9fOEJtUGw3eG9Oa0ZOMlBkUXp3bWgweWN3V1lmbDdCUGhFdEtVSVBoZ1Q4dw?oc=5",
+        "summary": "Individuals have put $1 billion into kids’ Trump Accounts, White House says The Washington Post Individuals have put $1 billion into kids’ Trump Accounts, White House says - The Washington Post",
+        "published": "Tue, 24 Nov 2026 22:31:42 GMT",
+        "published_kst": "2026-11-25T07:31:42+09:00",
+        "domain": "google.com",
         "key_figures": [
-          "$83"
+          "$1"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Trump, first lady host the White House Thanksgiving Turkey Pardon - KXII",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1drV2oxa2Z1VHNtZ3QybjVUUHEyZXlCVGtsN2szSjNPNmh4eG0tdFpoT21FZ3JkbzFvOTZWNEh0TWZ4eTBSU0lCclZ4cnRtSVpMVkNxZGlrc0lTTTl5LXZjZTNqb0czZmRVV0R2YVdNcUR4aEJfaHl6ang2TTlTNHlQQ2Nac3plZWYtNGtFREF4eURVLWJjM2lTSmdOWkhmVHF3?oc=5",
-        "summary": "Trump, first lady host the White House Thanksgiving Turkey Pardon KXII Trump, first lady host the White House Thanksgiving Turkey Pardon - KXII",
-        "published": "Tue, 24 Nov 2026 19:27:33 GMT",
-        "published_kst": "2026-11-25T04:27:33+09:00",
+        "title": "US inflation data comes next for a Pound back above 1.31 - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTFYbFQwZ29uRjBtZ2tWbF9ZVDNYNloxN2FXLXR3cmYwckQ0TkVabFA0WDQ0U25kQkhqWEJ2MGNXYlRCell0Wll2d3BoUkpaaE5jd0lPUWs2ZU83b3dSY2lKa2RfOGtHY0tkcDdVclllbFhvTmVLbVB3Tjhqc01LcEJCRnNrLXdqUDl0WmdmYUcySkZuOGMzS2Q2djcxeEU?oc=5",
+        "summary": "US inflation data comes next for a Pound back above 1.31 FXStreet US inflation data comes next for a Pound back above 1.31 - FXStreet",
+        "published": "Tue, 24 Nov 2026 22:30:47 GMT",
+        "published_kst": "2026-11-25T07:30:47+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "'The threat is finally real': Judge rips White House 'weaponization' - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRThwSFNKWkFaT0QxQzVNZDJvN2VpMmVoUDB0RWFxWlhMT3RBUnB4ZUNBaXJsRkg1cnZFeTFMRGMwQ25vc0J2OVpreGpISUo5TUF0TjMwYkFHTEgyWXpuV2V5V0VZcFE2Q194SDVaWFMwZFI0OGRoTnBRLTdHNTVFT1hJS3hxbFFWZHN0WmI3VXMtdER4QmdIcGk1VzBLVXfSAaQBQVVfeXFMUFYyZmdHV2JyTGFfR2ZrNS1NUWJaV1c0NExnN2pZdUZWWEdNM29GVGFza2I2MzAxbkNLbzFnZWlYd0lQbVVtYWlTMS04WXJuZTExWGo1X2ljM0dBMldaSWcwdUY3Uk9DOENPb0s2SFZ1SG9qQmtZeUdQZzJfS1FocHBuczMyU0lJcm5GaXoyb1JhcEhjZWk0aU0zTk5pWUdkeHJiRE0?oc=5",
-        "summary": "'The threat is finally real': Judge rips White House 'weaponization' ABC News - Breaking News, Latest News and Videos 'The threat is finally real': Judge rips White House 'weaponization' - ABC News - Breaking News, Latest News and Videos",
-        "published": "Tue, 24 Nov 2026 19:25:56 GMT",
-        "published_kst": "2026-11-25T04:25:56+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "title": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+        "url": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+        "summary": "Trump Account contributions from friends and family have passed $1 billion, according to the Treasury Department. Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+        "published": "Tue, 24 Nov 2026 22:18:47 GMT",
+        "published_kst": "2026-11-25T07:18:47+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$1"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+        "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+        "summary": "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand. Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+        "published": "Tue, 24 Nov 2026 22:07:45 GMT",
+        "published_kst": "2026-11-25T07:07:45+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$25"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+        "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+        "summary": "Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI's headquarters. Saudi national charged in OpenAI bugging to be released on $1 million bond",
+        "published": "Tue, 24 Nov 2026 22:03:01 GMT",
+        "published_kst": "2026-11-25T07:03:01+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "$1"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOUFSaS1TUTFpSXk4VE9DaEZqUEEwS3JVamJMcEE1ZWVPaDhWbEtTQXR0ZTRydnZQZGowcUt1ZDhadXNxNy1GVTZXRDAtdUg4NUxQV1l0M2lJR2tYQ21HUTRicFlrbEZSNGFFZG13dUkzSWRQYjV1V013andnT0M1NWlUWkc?oc=5",
-        "summary": "美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 조선일보 美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 - 조선일보",
-        "published": "Tue, 24 Nov 2026 19:31:00 GMT",
-        "published_kst": "2026-11-25T04:31:00+09:00",
+        "title": "연간 수출 1조 달러 달성한 한국…최근 경제성장의 51.7% 이끌었다 - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xZGJnOWFvQ0xhVUlQemx5RVFudHYwNm9QR19HbWhSQkg2TFRJcG9BUFpVYlJJeXIwdzE1ajFYcERSX3ZXel9hZjhHVXVqMVdEdWN4U3VNbktKSEpfTWNQNlJ3?oc=5",
+        "summary": "연간 수출 1조 달러 달성한 한국…최근 경제성장의 51.7% 이끌었다 아시아경제 연간 수출 1조 달러 달성한 한국…최근 경제성장의 51.7% 이끌었다 - 아시아경제",
+        "published": "Tue, 24 Nov 2026 22:49:00 GMT",
+        "published_kst": "2026-11-25T07:49:00+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "51.7%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "美 기술주 급락…젠슨 황 복귀에 정치권 반발 [오늘 아침 당신이 알아야 할 7가지] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRVFNZUphQlI1QkNGX3l5ZjlZV2xLVHB1Y09TX0t6RUc3Y04zWmM1ZFROX0xLdGVQbDJCZG5QNmVBamh0a012NnNsbHM0LUpJaFZPYjdybXlpZw?oc=5",
+        "summary": "美 기술주 급락…젠슨 황 복귀에 정치권 반발 [오늘 아침 당신이 알아야 할 7가지] 한국경제 美 기술주 급락…젠슨 황 복귀에 정치권 반발 [오늘 아침 당신이 알아야 할 7가지] - 한국경제",
+        "published": "Tue, 24 Nov 2026 22:48:27 GMT",
+        "published_kst": "2026-11-25T07:48:27+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "경제성장전략→경제정책방향…내년 경제정책, '양극화 완화'에 무게중심 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQQWZLUFpQVUN1SXM1ZDZHV2xuYkdRdkFlWkx1TDN4UkphUGxOMk9IWEJydnZ1eFhKQnpFTmZ0MWR0ejJsMXJjSnAwSGFqb2ZwZlE5SXFGLVg5Wk83aExXMDIwVWVYT1lqdTdjVmR3NWgxQ1lZZU5SS9IBfkFVX3lxTE56OElUVkVZRGJGMzNZRlg3OHg4SVBmajZUbTk5OTUzMzVlMnVpVXpJUVFPTHhPOE1qcHl5bUloMks3Q1JRRjRFLUlWeWJCcmFxbnNTRVR3SjlqaEFjc0pmcWhvTlhLUV84aHdvazdtNi1QOFBxWDdoSm5Hc0dHdw?oc=5",
-        "summary": "경제성장전략→경제정책방향…내년 경제정책, '양극화 완화'에 무게중심 - 머니투데이 머니투데이 경제성장전략→경제정책방향…내년 경제정책, '양극화 완화'에 무게중심 - 머니투데이 - 머니투데이",
-        "published": "Tue, 24 Nov 2026 19:05:00 GMT",
-        "published_kst": "2026-11-25T04:05:00+09:00",
+        "title": "트럼프, 한·중·일 등 16곳에 ‘과잉생산 관세’ 추진… “한국은 15% 이내 전망” - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdkxmSEYxUzI3aGNQSXJraWRsd2RfeUhPUHZYNmdVUEJKU3pRQ2x1OXhfSVh0Sl96T055eXdlcXNpSjdQc2VBWUVkRjZpaHBxcEtwUEJfa3lJSVdEV2pEV3ROcThwVHFxNUx4cUJxeG1OSEVRZmwzRlpQODFoSU5fWnhJSW04X0li?oc=5",
+        "summary": "트럼프, 한·중·일 등 16곳에 ‘과잉생산 관세’ 추진… “한국은 15% 이내 전망” 조선일보 트럼프, 한·중·일 등 16곳에 ‘과잉생산 관세’ 추진… “한국은 15% 이내 전망” - 조선일보",
+        "published": "Tue, 24 Nov 2026 22:43:00 GMT",
+        "published_kst": "2026-11-25T07:43:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "\"美, 한국 디지털 규제에 301조 조사 검토\"…추가 관세 나오나 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50T0hwdTc1TF90ZkZnSkRGWFBxY0d1UEQycHk2SFF0Vm5KWTRGcjZaR0dvd3M4WGRZUTlvaUxRb0g0NVRWZ2dIenN3ZnlsQzJxaEx5WDJnc1oxdlVyenBRZk9wVEljczBW0gFuQVVfeXFMTWg1OExmeGNCUkhZZDZjcExfVi1mdFBIY3IzLXQyMjlQQVRsdHZueWN2WmFhSDlhUmRlTm9kNzVNSDhaZmdURGsxZkoxeW9faXVqZTdmWDBUdWNzU3VLWGc2M3JIRTY4bFVNeEhEc3c?oc=5",
-        "summary": "\"美, 한국 디지털 규제에 301조 조사 검토\"…추가 관세 나오나 - 머니투데이 머니투데이 \"美, 한국 디지털 규제에 301조 조사 검토\"…추가 관세 나오나 - 머니투데이 - 머니투데이",
-        "published": "Tue, 24 Nov 2026 16:34:04 GMT",
-        "published_kst": "2026-11-25T01:34:04+09:00",
-        "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "15%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
@@ -144,6 +154,6 @@
       }
     ]
   },
-  "wrap_summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing. Jensen Huang tells staff that Nvidia doesn't need a succession plan / 美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 조선일보 美공화 의원들, USTR에 \"한국 정부의 차별적 규제 면밀히 감시\" 촉구 - 조선일보 / PETA, PepsiCo shareholders call out animal abuse across its supply chain ESG Dive PETA, PepsiCo shareholders call out animal abuse across its supply chain - ESG Dive",
+  "wrap_summary": "Euro rebounds from a 19-month low before ECB minutes and US inflation FXStreet Euro rebounds from a 19-month low before ECB minutes and US inflation - FXStreet / 연간 수출 1조 달러 달성한 한국…최근 경제성장의 51.7% 이끌었다 아시아경제 연간 수출 1조 달러 달성한 한국…최근 경제성장의 51.7% 이끌었다 - 아시아경제 / PETA, PepsiCo shareholders call out animal abuse across its supply chain ESG Dive PETA, PepsiCo shareholders call out animal abuse across its supply chain - ESG Dive",
   "invest_summary": ""
 }
