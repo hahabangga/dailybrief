@@ -1,15 +1,15 @@
 {
   "date": "2026-11-27",
-  "generated_at_utc": "2026-11-26T19:28:09Z",
-  "cutoff_kst": "2026-11-27T04:28:00+09:00",
+  "generated_at_utc": "2026-11-26T22:08:30Z",
+  "cutoff_kst": "2026-11-27T07:08:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWF9hYld0Nm9XOGlFMHctREJ1ejJRZVYxVVlmbldTa0JMb1lXS0ExTUlIQm1rdHRZc3dJZ0hUNk0tcWxNTXNOUEh0ZGx5Q0EyZ05tLWotdUdsc0ZSdUt4ZXMtMVllOUdyaGlBd3prcEZTOXpsSTNlQXFMRjVTeGNvTWtvSml5VmJzSHY1RHVnc1FqN3pJbFNnTmhLT1ROejQySnMzNnlEMA?oc=5",
-        "summary": "‘POTUS’ puts the women behind the White House in the spotlight Greenville Journal ‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal",
-        "published": "Thu, 26 Nov 2026 19:02:50 GMT",
-        "published_kst": "2026-11-27T04:02:50+09:00",
+        "title": "Forex Today: US Dollar finds footing as Japan CPI can rock the Yen - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOG1GYzBQRTVQcmQtRWdJNXFHRnk1dThoUkNpajlTaXR2ZkdVSHk4ZUxCS3pFWVU5LUVlMVhqa0t5R0JQZXNzWkxnWW5PX3daTGg1X1ppTzVGaFpIbHBpUDNpTG92UEVvRVNmbVlYTlozTlhMMzBoWTBtencxdGw5T0gxdlViX0pTN1laWjgyUjFLTXM2Ti1VR1VxSXVlYW5iQ0hfMk5kQlN5M3JZ?oc=5",
+        "summary": "Forex Today: US Dollar finds footing as Japan CPI can rock the Yen FXStreet Forex Today: US Dollar finds footing as Japan CPI can rock the Yen - FXStreet",
+        "published": "Thu, 26 Nov 2026 21:24:15 GMT",
+        "published_kst": "2026-11-27T06:24:15+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -19,9 +19,33 @@
         "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
         "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
         "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\" Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-        "published": "Thu, 26 Nov 2026 18:44:15 GMT",
-        "published_kst": "2026-11-27T03:44:15+09:00",
+        "published": "Thu, 26 Nov 2026 21:13:17 GMT",
+        "published_kst": "2026-11-27T06:13:17+09:00",
         "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December? - CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckJoTzRUZlhpcnZBcjBQUDdDWGEzMmdPOGJVVjZLOFFmaDZOY0pJN1I1MGo3VEgyb1l2eE9RRzFhOFM0ekNfV3VqdE01UHBxX0pQMGtqT1JJTWZLbEE5czVWYXpOSm93bGxCWVRuNU1QSmh4d0NBdUVGWTVuNFcxc0FMY0NCZHJXa1lBRGp4Ym42U3FJckFBQjFGZzlPMEwwYnphal9sa1UwQ05lNTlMRA?oc=5",
+        "summary": "CryptoRank US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
+        "published": "Thu, 26 Nov 2026 21:11:03 GMT",
+        "published_kst": "2026-11-27T06:11:03+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "3.8%"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWF9hYld0Nm9XOGlFMHctREJ1ejJRZVYxVVlmbldTa0JMb1lXS0ExTUlIQm1rdHRZc3dJZ0hUNk0tcWxNTXNOUEh0ZGx5Q0EyZ05tLWotdUdsc0ZSdUt4ZXMtMVllOUdyaGlBd3prcEZTOXpsSTNlQXFMRjVTeGNvTWtvSml5VmJzSHY1RHVnc1FqN3pJbFNnTmhLT1ROejQySnMzNnlEMA?oc=5",
+        "summary": "‘POTUS’ puts the women behind the White House in the spotlight Greenville Journal ‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal",
+        "published": "Thu, 26 Nov 2026 19:03:01 GMT",
+        "published_kst": "2026-11-27T04:03:01+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -49,69 +73,44 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
-        "summary": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes Bloomberg.com Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes - Bloomberg.com",
-        "published": "Thu, 26 Nov 2026 17:02:41 GMT",
-        "published_kst": "2026-11-27T02:02:41+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department - PBS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOThJWGpuOHRQWWVhVi13cHRBNUdQLVhBWDB3b2pkUDNzNUtGalNhZ2tUaHZoMm5VdXI2dEdMcThKeDRxQ2l6WXR5eWdNd3I1R2tvcTFhNXdmaGNzRkowT04yQjBwSGNpR21yQ2tJdUFNbnZqWWJIUVZ4Q01FcjNXdkh3ejZmcVlLQjFZYUgwcmdQOUxSZVdqQy1JNVZwQ2NOb3hpS3VOazVkcm5lN0F5dFVwSmR4d1J5cnfSAb8BQVVfeXFMUHI1dkFQYlplLWtTN2M3Znp4anRnWFRrN2YtZ2ZSWXZveVRXb3A4NWt5ejRsemVYZGdfaVJKOG80T0tuTFlldjVQOG1LdTh5QnZDbERhSXVsQlVvbmdkdTRrRW1WMFdJZTQtVEl6NkhIcndkVXNTZEpDOXl6TjBrQXpDWWFweUtwZURQUXdBMlotTjJCU0toMzZEdXNITXM2T18teXppczBnWDkweUVSTi0tb25GUFgxb05QWGtXM1U?oc=5",
-        "summary": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department PBS Trump calls GDP figures 'fake' and demands an investigation of Commerce Department - PBS",
-        "published": "Thu, 26 Nov 2026 16:36:06 GMT",
-        "published_kst": "2026-11-27T01:36:06+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHOFY0Ylo5MWlVdkpsNnlHcXdhaFhRVklzcXo5VTFWX1RLeWM1VjRLSS1IQ2NCMkJmYWE1a2F0QU1OaUlMNHJnM3FERzNaRWVoX2ZYcXB3Vkxoemw1Z19FVHE3NWEwNUFXVXNQdWc0NF9HTUN0MXg3QtIBfkFVX3lxTFBVX3d4Ty1yeWZRNXdPcllfeTJUMmZxc3owTXJHbURyWHJlcEhzODh6UURBTjdOTUxPUElmbTNselRHUjRwTVJyYjMzZ24tcHE4ZGJpdDlyQm1LVkgtcFpmRkRGT3pLV2pnLTJFNEJPaFhRbHVHZ3lMWTVHVW5qUQ?oc=5",
-        "summary": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 머니투데이 한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 - 머니투데이",
-        "published": "Thu, 26 Nov 2026 19:00:00 GMT",
-        "published_kst": "2026-11-27T04:00:00+09:00",
+        "title": "한은, 기준금리 3.25%로 인상…반도체 호황 속 가계·기업 이자 부담 커진다 - 지이코노미",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nVWNRQmR3NzNWeGlGUS1KbS01cUFUUl9RMFZObHJ5emNsSjdmeDRTSnpKSkduMVJ4ZUtGSktHeUswb3d2aTdaV0xyM09CZkJBdnZwY3duREMzU3QyWFVmT29KVFQ?oc=5",
+        "summary": "한은, 기준금리 3.25%로 인상…반도체 호황 속 가계·기업 이자 부담 커진다 지이코노미 한은, 기준금리 3.25%로 인상…반도체 호황 속 가계·기업 이자 부담 커진다 - 지이코노미",
+        "published": "Thu, 26 Nov 2026 21:53:10 GMT",
+        "published_kst": "2026-11-27T06:53:10+09:00",
         "domain": "google.com",
         "key_figures": [
-          "3.25%",
-          "4.1%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이 - 머니투데이",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYW5hQlJlaFJRRGVzVk5oSXVtanl6YjNONWg0X1Q3M1AyZERvYlpCU2d1dVMxTHJSQzZKYWhOWktYVkhFaTgtSHBjME9SRXpRU0xuaENRNWgtS01SbkVvMTJFYXRLT0Fxa25N0gFwQVVfeXFMUEJtZkFDWVZMdkx2WW5ndlhOV0VPU01DckU1WmpxY2huUXFEb2haQjMxbGF1UHI4bE1lcnlXWjlWR2x2eG9lNmFRLVc4WncyRFZyTlRjVlg5a1RUZ3lNd2tOZURGdXZoLWs5MkVTR0E0Zw?oc=5",
-        "summary": "한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이 머니투데이 한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이 - 머니투데이",
-        "published": "Thu, 26 Nov 2026 18:29:07 GMT",
-        "published_kst": "2026-11-27T03:29:07+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "4.1%",
           "3.25%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "성장률·물가 당분간 상승 전망…금리 3.75%까지 열어놔 - 한겨레",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CeWEtLUdIUEt0a0ozcTVhUkxSMXVsMnpvZVExMjY1cXd6Y2VkV3RpVURBejl3Z0ZmeTRQaVdHRFZKd2Y5ckNfWVFidVI1YWpyd1c3d3RtTVV6OU43X2RYVXVJSmFONWNvbUpOSXhaWDJCdw?oc=5",
-        "summary": "성장률·물가 당분간 상승 전망…금리 3.75%까지 열어놔 한겨레 성장률·물가 당분간 상승 전망…금리 3.75%까지 열어놔 - 한겨레",
-        "published": "Thu, 26 Nov 2026 16:53:00 GMT",
-        "published_kst": "2026-11-27T01:53:00+09:00",
+        "title": "한은, 기준금리 0.25%p 인상…2년 만에 연 3.25% - 한겨레",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kaWJkTjM5bmJlYUh1RFVHbWdhSTdLOVRLY2oxTDZhNFE0QTJMTzlLV0VoSGVpRmg3NVZoYUR2dWVra0VIdnEtakJTUFR1N0IwbzBETlBNNXRMMTlRYUlmUFcyb2xsVGJXMWhjbWVDM09tZw?oc=5",
+        "summary": "한은, 기준금리 0.25%p 인상…2년 만에 연 3.25% 한겨레 한은, 기준금리 0.25%p 인상…2년 만에 연 3.25% - 한겨레",
+        "published": "Thu, 26 Nov 2026 21:51:26 GMT",
+        "published_kst": "2026-11-27T06:51:26+09:00",
         "domain": "google.com",
         "key_figures": [
-          "3.75%"
+          "0.25%",
+          "3.25%"
         ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "반도체·방산주 줄줄이 밀리자…집중투자 ETF '직격탄' [분석+] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZHl0VVlkNUZIb09pZXM4a0VKQzlSWUF2TUhIZGV2VElnZnRZbm9xdEhfMWFsSTdVRGNmVy0zUXJsN3RVQVM3eXpPU09ZZTQ4WEhrdExuYjkxdw?oc=5",
+        "summary": "반도체·방산주 줄줄이 밀리자…집중투자 ETF '직격탄' [분석+] 한국경제 반도체·방산주 줄줄이 밀리자…집중투자 ETF '직격탄' [분석+] - 한국경제",
+        "published": "Thu, 26 Nov 2026 21:30:04 GMT",
+        "published_kst": "2026-11-27T06:30:04+09:00",
+        "domain": "google.com",
+        "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
@@ -129,22 +128,22 @@
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "How Plexus improves logistics by using AutoStore robotics - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTI0X05qR3hJb1luRk9NdnNWSWlIRUo5RTY4bXhsS3hKQTF1WXJQeFJFMXhqOEZWZFpVUTJUVWRiYVpWamp6WDhvUXJBdkV0UTF2bmt1ZWdQRUhNN09UTmVCMUxBd21PSHlwaHMwaFJjNC1VTzBxSzV0QUFxcm5jSndsc2NiUGpDOXdkWHVGZjVKZw?oc=5",
-        "summary": "How Plexus improves logistics by using AutoStore robotics Supply Chain Digital Magazine How Plexus improves logistics by using AutoStore robotics - Supply Chain Digital Magazine",
-        "published": "Thu, 26 Nov 2026 15:24:36 GMT",
-        "published_kst": "2026-11-27T00:24:36+09:00",
+        "title": "AET Highlights Clean-Energy Supply Chain Role at COP31 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGRmUkFSSlkycS1ySktSYnRKaXhXQ01INXR6UWNGZG1teXBsY194Z3JMUm1QZTZsLXYtb1VhYi1RN2ZsVXhvNEViSTBVQ1ZhanFhMElwMVZSNktUVXNlTmlOWG9YeFlfV19MWjFtWUdVSER3a19LckJabERsdTlpRUloWTNxdGxEdnVXaA?oc=5",
+        "summary": "AET Highlights Clean-Energy Supply Chain Role at COP31 IndexBox AET Highlights Clean-Energy Supply Chain Role at COP31 - IndexBox",
+        "published": "Thu, 26 Nov 2026 19:00:40 GMT",
+        "published_kst": "2026-11-27T04:00:40+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "DHL: A Multimodal Navigation for Group Efficiency - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQnZVcTAyVkZIcWU4UlNzY04yR0N2Q3BGQ09tQXlvckxHWVlaNTd3eUFwN3lTZ2Q2T2hzWUFkTnFObXZVdzFZN0FsQVZURzF0TUtHb25Jc0JiZHNHRTBJR3JOSFdHUC02WXpWMW5UYTM4MHR3Mmx3aEh3Q2lvZVBoMzZQWW8xYktXN0JmQQ?oc=5",
-        "summary": "DHL: A Multimodal Navigation for Group Efficiency Supply Chain Digital Magazine DHL: A Multimodal Navigation for Group Efficiency - Supply Chain Digital Magazine",
-        "published": "Thu, 26 Nov 2026 15:02:19 GMT",
-        "published_kst": "2026-11-27T00:02:19+09:00",
+        "title": "How Plexus improves logistics by using AutoStore robotics - Supply Chain Digital Magazine",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTI0X05qR3hJb1luRk9NdnNWSWlIRUo5RTY4bXhsS3hKQTF1WXJQeFJFMXhqOEZWZFpVUTJUVWRiYVpWamp6WDhvUXJBdkV0UTF2bmt1ZWdQRUhNN09UTmVCMUxBd21PSHlwaHMwaFJjNC1VTzBxSzV0QUFxcm5jSndsc2NiUGpDOXdkWHVGZjVKZw?oc=5",
+        "summary": "How Plexus improves logistics by using AutoStore robotics Supply Chain Digital Magazine How Plexus improves logistics by using AutoStore robotics - Supply Chain Digital Magazine",
+        "published": "Thu, 26 Nov 2026 15:47:35 GMT",
+        "published_kst": "2026-11-27T00:47:35+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -152,6 +151,6 @@
       }
     ]
   },
-  "wrap_summary": "‘POTUS’ puts the women behind the White House in the spotlight Greenville Journal ‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal / 한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 머니투데이 한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 - 머니투데이 / EU launches Supply Chain Early Warning Network with Trans-Pacific bloc INSIGHT EU MONITORING EU launches Supply Chain Early Warning Network with Trans-Pacific bloc - INSIGHT EU MONITORING",
+  "wrap_summary": "Forex Today: US Dollar finds footing as Japan CPI can rock the Yen FXStreet Forex Today: US Dollar finds footing as Japan CPI can rock the Yen - FXStreet / 한은, 기준금리 3.25%로 인상…반도체 호황 속 가계·기업 이자 부담 커진다 지이코노미 한은, 기준금리 3.25%로 인상…반도체 호황 속 가계·기업 이자 부담 커진다 - 지이코노미 / EU launches Supply Chain Early Warning Network with Trans-Pacific bloc INSIGHT EU MONITORING EU launches Supply Chain Early Warning Network with Trans-Pacific bloc - INSIGHT EU MONITORING",
   "invest_summary": ""
 }
