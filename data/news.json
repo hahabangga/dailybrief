@@ -1,59 +1,37 @@
 {
   "date": "2026-11-27",
-  "generated_at_utc": "2026-11-26T15:51:26Z",
-  "cutoff_kst": "2026-11-27T00:51:00+09:00",
+  "generated_at_utc": "2026-11-26T19:28:09Z",
+  "cutoff_kst": "2026-11-27T04:28:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-        "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-        "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year. Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-        "published": "Thu, 26 Nov 2026 15:28:26 GMT",
-        "published_kst": "2026-11-27T00:28:26+09:00",
+        "title": "‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWF9hYld0Nm9XOGlFMHctREJ1ejJRZVYxVVlmbldTa0JMb1lXS0ExTUlIQm1rdHRZc3dJZ0hUNk0tcWxNTXNOUEh0ZGx5Q0EyZ05tLWotdUdsc0ZSdUt4ZXMtMVllOUdyaGlBd3prcEZTOXpsSTNlQXFMRjVTeGNvTWtvSml5VmJzSHY1RHVnc1FqN3pJbFNnTmhLT1ROejQySnMzNnlEMA?oc=5",
+        "summary": "‘POTUS’ puts the women behind the White House in the spotlight Greenville Journal ‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal",
+        "published": "Thu, 26 Nov 2026 19:02:50 GMT",
+        "published_kst": "2026-11-27T04:02:50+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+        "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+        "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\" Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+        "published": "Thu, 26 Nov 2026 18:44:15 GMT",
+        "published_kst": "2026-11-27T03:44:15+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "George W. Bush Presidential Center. . What's life like as a White House Executive Chef or Executive Pastry Chef? Last week, the Bush Center welcomed Cris Comerford, the first female White House Executive Chef, and Bill Yosses, former White House Executi - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQVhCdkJEbWtGS01GSmo5bFZZMzFQdnBYcFNDQzEtbDZKb3ZNZEpPQ2cwQktIQjVmUmJ3MVdzSVpKRWVoQ0o5OFZXWE1GYnJBU054clV4MGZraVpnS1dReUJVcVNqV1g2YTlUNjI4Mm5tYXoxVFNYakxJRU5PSFY3X0VuN1c0bko4bklZUDN2bm1hTGJNcWxUcTRhSFdwS2U1MGo3ekFzODA0eC1YOFBiVlV4cmpuY0JaQmxiWmFxUjNLRWhMa3B5S0ptZVczQ0VaMk5mZ1Jyd29meHRZ?oc=5",
-        "summary": "Last week, the Bush Center welcomed Cris Comerford, the first female White House Executive Chef, and Bill Yosses, former White House Executi Facebook George W. What's life like as a White House Executive Chef or Executive Pastry Chef?",
-        "published": "Thu, 26 Nov 2026 15:04:26 GMT",
-        "published_kst": "2026-11-27T00:04:26+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Rand Holds Steady As Producer Inflation Heats Up - Finimize",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZklzNnNEQkM4Tm5zWWhESEtBdUFrX21FT2wtdzBWS1YyT1VIYldDT2licGJ5cUFqR3UtYWUtOWw4ZTVlaDNHalJUR3FWTGFNRmlUSklDSHdXLTh5Z2ZjNmp6RTJwR3c4T2kteVlHV0hOY0pWUUFfRzJpOWh3MXhWMV8xSQ?oc=5",
-        "summary": "Rand Holds Steady As Producer Inflation Heats Up Finimize Rand Holds Steady As Producer Inflation Heats Up - Finimize",
-        "published": "Thu, 26 Nov 2026 15:02:55 GMT",
-        "published_kst": "2026-11-27T00:02:55+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Climbing U.S. inflation keeps Shell on watch for potential energy demand and cost impacts - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ0p3eVZEZFlyOVlveGRhckRqMjZaZTJRUENSWnY1aUxzeWVKYXZkUElBOFRpOW4tczZRMl85Q2dIWFA2b3h3TV9EUU03OUZoTkl4SV9jQjhxZGhUZ1lLUC1pZUhBc0dtUWpPeGNaVTJVSjJqSkNBWkljNENGVHNJYVJaZ3hXZw?oc=5",
-        "summary": "inflation keeps Shell on watch for potential energy demand and cost impacts Traders Union Climbing U.S.",
-        "published": "Thu, 26 Nov 2026 15:01:36 GMT",
-        "published_kst": "2026-11-27T00:01:36+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-        "url": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
-        "summary": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too. The food trend putting crunch on the menu",
-        "published": "Thu, 26 Nov 2026 13:34:51 GMT",
-        "published_kst": "2026-11-26T22:34:51+09:00",
+        "title": "Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+        "url": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
+        "summary": "The microdrama category has exploded at a time when traditional forms of media face waning interest and YouTube claims more viewing hours. Microdrama apps chase profits as Hollywood moves into short-form, vertical video",
+        "published": "Thu, 26 Nov 2026 18:27:43 GMT",
+        "published_kst": "2026-11-27T03:27:43+09:00",
         "domain": "cnbc.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -63,45 +41,73 @@
         "title": "Semiconductor chips are the new oil. Here's why",
         "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
         "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand. Semiconductor chips are the new oil.",
-        "published": "Thu, 26 Nov 2026 13:19:25 GMT",
-        "published_kst": "2026-11-26T22:19:25+09:00",
+        "published": "Thu, 26 Nov 2026 17:52:15 GMT",
+        "published_kst": "2026-11-27T02:52:15+09:00",
         "domain": "cnbc.com",
         "key_figures": [
           "2026"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWk5iY21FejJMUDVfS2h4ekdoUnQ1RndSalFWS2pkZzJZY1AwSXRnY1otVEdsMUdRVWZJV0NKSUxEM3Boc2VlQXNMMWkweGxJSWVGaFJHcC1qWTk0WTdIbXR0Z3VNQ2N2R054YXZMa1I2eVk4RjU5T09FelF5ZC1KdGJRYnV5bFdvMjJoRzBpMjNoUDkzMDJiTmdvejdOMF85Vy1JZU16eEI1M3VzVlBNa0RyMjk?oc=5",
+        "summary": "Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes Bloomberg.com Gold Edges Lower as US Inflation Data Fuels Bets for Rate Hikes - Bloomberg.com",
+        "published": "Thu, 26 Nov 2026 17:02:41 GMT",
+        "published_kst": "2026-11-27T02:02:41+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOThJWGpuOHRQWWVhVi13cHRBNUdQLVhBWDB3b2pkUDNzNUtGalNhZ2tUaHZoMm5VdXI2dEdMcThKeDRxQ2l6WXR5eWdNd3I1R2tvcTFhNXdmaGNzRkowT04yQjBwSGNpR21yQ2tJdUFNbnZqWWJIUVZ4Q01FcjNXdkh3ejZmcVlLQjFZYUgwcmdQOUxSZVdqQy1JNVZwQ2NOb3hpS3VOazVkcm5lN0F5dFVwSmR4d1J5cnfSAb8BQVVfeXFMUHI1dkFQYlplLWtTN2M3Znp4anRnWFRrN2YtZ2ZSWXZveVRXb3A4NWt5ejRsemVYZGdfaVJKOG80T0tuTFlldjVQOG1LdTh5QnZDbERhSXVsQlVvbmdkdTRrRW1WMFdJZTQtVEl6NkhIcndkVXNTZEpDOXl6TjBrQXpDWWFweUtwZURQUXdBMlotTjJCU0toMzZEdXNITXM2T18teXppczBnWDkweUVSTi0tb25GUFgxb05QWGtXM1U?oc=5",
+        "summary": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department PBS Trump calls GDP figures 'fake' and demands an investigation of Commerce Department - PBS",
+        "published": "Thu, 26 Nov 2026 16:36:06 GMT",
+        "published_kst": "2026-11-27T01:36:06+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "[사설] 고금리로 빌려 쓴다는 미래기금, 경제원로들의 ‘레드 카드’ - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUUdJQ0NCX0hsalVCUnZ1SkViejRuTGQyUWVOcGdONGZzWEo0encyRElwN2ZOdGVTOFhWVEdUdFlGZGdmYTNzUVVFbDcyMTEwT2RYNUU3Rmh5ei05SWtKa0tFYmhNSFBUT3I1ZV9JTnFkT3dmR3pGa3d1SE4yM2FDaUtFanhSQQ?oc=5",
-        "summary": "[사설] 고금리로 빌려 쓴다는 미래기금, 경제원로들의 ‘레드 카드’ 조선일보 [사설] 고금리로 빌려 쓴다는 미래기금, 경제원로들의 ‘레드 카드’ - 조선일보",
-        "published": "Thu, 26 Nov 2026 15:00:00 GMT",
-        "published_kst": "2026-11-27T00:00:00+09:00",
+        "title": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHOFY0Ylo5MWlVdkpsNnlHcXdhaFhRVklzcXo5VTFWX1RLeWM1VjRLSS1IQ2NCMkJmYWE1a2F0QU1OaUlMNHJnM3FERzNaRWVoX2ZYcXB3Vkxoemw1Z19FVHE3NWEwNUFXVXNQdWc0NF9HTUN0MXg3QtIBfkFVX3lxTFBVX3d4Ty1yeWZRNXdPcllfeTJUMmZxc3owTXJHbURyWHJlcEhzODh6UURBTjdOTUxPUElmbTNselRHUjRwTVJyYjMzZ24tcHE4ZGJpdDlyQm1LVkgtcFpmRkRGT3pLV2pnLTJFNEJPaFhRbHVHZ3lMWTVHVW5qUQ?oc=5",
+        "summary": "한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 머니투데이 한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 - 머니투데이",
+        "published": "Thu, 26 Nov 2026 19:00:00 GMT",
+        "published_kst": "2026-11-27T04:00:00+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "3.25%",
+          "4.1%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "주식, 알아야번다 - 한국경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHNqV0hwX1VxcWh2WGhMV3VGM1lvbTMzaVkzVUJfYndkanNNYnFKNU1yaV9kM0xRNkF4ejZOVnpnVDFERWtaLTFmeEJ3X1gxY0ZNZVMzMlNMcWRta216WWVMNW9sLXFLeVJzZ0xWa2dlblRDdmNJTENlN0F5eGVKNHduTVlWQ01oWWtIeUpTUzIwc25xMnN6R2RRRk5CQTc3Sjc4?oc=5",
-        "summary": "주식, 알아야번다 한국경제TV 주식, 알아야번다 - 한국경제TV",
-        "published": "Thu, 26 Nov 2026 13:58:45 GMT",
-        "published_kst": "2026-11-26T22:58:45+09:00",
+        "title": "한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYW5hQlJlaFJRRGVzVk5oSXVtanl6YjNONWg0X1Q3M1AyZERvYlpCU2d1dVMxTHJSQzZKYWhOWktYVkhFaTgtSHBjME9SRXpRU0xuaENRNWgtS01SbkVvMTJFYXRLT0Fxa25N0gFwQVVfeXFMUEJtZkFDWVZMdkx2WW5ndlhOV0VPU01DckU1WmpxY2huUXFEb2haQjMxbGF1UHI4bE1lcnlXWjlWR2x2eG9lNmFRLVc4WncyRFZyTlRjVlg5a1RUZ3lNd2tOZURGdXZoLWs5MkVTR0E0Zw?oc=5",
+        "summary": "한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이 머니투데이 한은 \"내년 韓경제, 4.1% 성장 전망\"…기준금리 연 3.25%로 올렸다 - 머니투데이 - 머니투데이",
+        "published": "Thu, 26 Nov 2026 18:29:07 GMT",
+        "published_kst": "2026-11-27T03:29:07+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "4.1%",
+          "3.25%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "성장률·물가 모두 당분간 오를 듯…금리 3.75%까지 열어놔 - 한겨레",
+        "title": "성장률·물가 당분간 상승 전망…금리 3.75%까지 열어놔 - 한겨레",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CeWEtLUdIUEt0a0ozcTVhUkxSMXVsMnpvZVExMjY1cXd6Y2VkV3RpVURBejl3Z0ZmeTRQaVdHRFZKd2Y5ckNfWVFidVI1YWpyd1c3d3RtTVV6OU43X2RYVXVJSmFONWNvbUpOSXhaWDJCdw?oc=5",
-        "summary": "성장률·물가 모두 당분간 오를 듯…금리 3.75%까지 열어놔 한겨레 성장률·물가 모두 당분간 오를 듯…금리 3.75%까지 열어놔 - 한겨레",
-        "published": "Thu, 26 Nov 2026 13:58:00 GMT",
-        "published_kst": "2026-11-26T22:58:00+09:00",
+        "summary": "성장률·물가 당분간 상승 전망…금리 3.75%까지 열어놔 한겨레 성장률·물가 당분간 상승 전망…금리 3.75%까지 열어놔 - 한겨레",
+        "published": "Thu, 26 Nov 2026 16:53:00 GMT",
+        "published_kst": "2026-11-27T01:53:00+09:00",
         "domain": "google.com",
         "key_figures": [
           "3.75%"
@@ -111,6 +117,17 @@
       }
     ],
     "world": [
+      {
+        "title": "EU launches Supply Chain Early Warning Network with Trans-Pacific bloc - INSIGHT EU MONITORING",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWk1FVXkteGRBVF9Oamc5UkkxNWdjZ0pRUmE0TjB6NXQteDZaRi04VFRCMlVTZG45RWE4MndJM0llMGdVOUxzZGpCalNXelVUVFB0VDlueVYwbzlkNXBEVXliYmdqRzQ4ekZqQjRKYjVIYnVGRnN1ZjdpN3NheWRZUUJIbnBnVVV2bDA1Z242WGZJOEVXMndEOFN0dm96bVZDV04wNk1YM0pDQzhwZVFBWFJTb3hOcFo2cE9QT1JtejlZdS1xSlo1YTl5bVBQMGt3cVNJ?oc=5",
+        "summary": "EU launches Supply Chain Early Warning Network with Trans-Pacific bloc INSIGHT EU MONITORING EU launches Supply Chain Early Warning Network with Trans-Pacific bloc - INSIGHT EU MONITORING",
+        "published": "Thu, 26 Nov 2026 19:00:52 GMT",
+        "published_kst": "2026-11-27T04:00:52+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "How Plexus improves logistics by using AutoStore robotics - Supply Chain Digital Magazine",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTI0X05qR3hJb1luRk9NdnNWSWlIRUo5RTY4bXhsS3hKQTF1WXJQeFJFMXhqOEZWZFpVUTJUVWRiYVpWamp6WDhvUXJBdkV0UTF2bmt1ZWdQRUhNN09UTmVCMUxBd21PSHlwaHMwaFJjNC1VTzBxSzV0QUFxcm5jSndsc2NiUGpDOXdkWHVGZjVKZw?oc=5",
@@ -132,20 +149,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Supply-Chain Security Emerges as a Defining Global Commodity Theme - kalkine.ca",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDZNSkVWcnNCSXhwRnVBekUwNmx4WUE0VHFNRngwR0xvZ2Q3QWtUY1k2Q2FuMzhRdnNGcVRLYjdMMDQxYUZ3eURPWmtLdVZJYy1pNzFKQ1RHQ1RWd1ltdEhiQXVsRkp4V2lwNEpoc2ljWDFTam1BTUVUQU56TEZwYmdZMGFJYm5jNDQxQm5yeEtHclphVGhaRV8xQmM2ZTlZZGloRVZ3?oc=5",
-        "summary": "Supply-Chain Security Emerges as a Defining Global Commodity Theme kalkine.ca Supply-Chain Security Emerges as a Defining Global Commodity Theme - kalkine.ca",
-        "published": "Thu, 26 Nov 2026 14:51:00 GMT",
-        "published_kst": "2026-11-26T23:51:00+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year. Spain’s Pablo Hernández de Cos set to lead European Central Bank / [사설] 고금리로 빌려 쓴다는 미래기금, 경제원로들의 ‘레드 카드’ 조선일보 [사설] 고금리로 빌려 쓴다는 미래기금, 경제원로들의 ‘레드 카드’ - 조선일보 / How Plexus improves logistics by using AutoStore robotics Supply Chain Digital Magazine How Plexus improves logistics by using AutoStore robotics - Supply Chain Digital Magazine",
+  "wrap_summary": "‘POTUS’ puts the women behind the White House in the spotlight Greenville Journal ‘POTUS’ puts the women behind the White House in the spotlight - Greenville Journal / 한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 머니투데이 한은, 기준금리 3.25%로 인상…내년 韓성장률 '4.1%' 파격 전망 - 머니투데이 - 머니투데이 / EU launches Supply Chain Early Warning Network with Trans-Pacific bloc INSIGHT EU MONITORING EU launches Supply Chain Early Warning Network with Trans-Pacific bloc - INSIGHT EU MONITORING",
   "invest_summary": ""
 }
