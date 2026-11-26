@@ -1,73 +1,73 @@
 {
   "date": "2026-11-26",
-  "generated_at_utc": "2026-11-25T22:09:31Z",
-  "cutoff_kst": "2026-11-26T07:09:00+09:00",
+  "generated_at_utc": "2026-11-26T03:48:09Z",
+  "cutoff_kst": "2026-11-26T12:48:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "News | US inflation climbs to 3.8%, moving further above Fed target - CoStar",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3pHc0RWVmg3aGpDQ09raWpUdlg5MVZYdjZjMk1ybzVUSnFSRVJ5dG5NZFMwTjlYQnNYbElCZ3p2LUNIY1BTMklacGhIaFJldFlsc0d1TFlMd29xblVsWGtSMTZJQmdIdzZOdDh1WTFLck81bmNRRV9xdjhYQnhqV0RSMldidExEYmk2SWpwQmFDSnJqV0J3?oc=5",
-        "summary": "News | US inflation climbs to 3.8%, moving further above Fed target CoStar News | US inflation climbs to 3.8%, moving further above Fed target - CoStar",
-        "published": "Wed, 25 Nov 2026 22:06:52 GMT",
-        "published_kst": "2026-11-26T07:06:52+09:00",
-        "domain": "google.com",
+        "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+        "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+        "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists. South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+        "published": "Thu, 26 Nov 2026 03:32:53 GMT",
+        "published_kst": "2026-11-26T12:32:53+09:00",
+        "domain": "cnbc.com",
         "key_figures": [
-          "3.8%"
+          "3.25%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-        "url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-        "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
-        "published": "Wed, 25 Nov 2026 21:56:43 GMT",
-        "published_kst": "2026-11-26T06:56:43+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
-        "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-        "summary": "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather. Macy's postpones Thanksgiving Day Parade due to severe weather",
-        "published": "Wed, 25 Nov 2026 21:55:51 GMT",
-        "published_kst": "2026-11-26T06:55:51+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House Seeks Exceptions to Fund Golden Dome, MQ-9 - Air & Space Forces Magazine",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTWprX1BaM2J1ZHFWU2lzQjQxc3JPMnpTWlM3d1lOUmZNTDlqenpTUnhtaUhXQkl6Y1RrUVo5NXhyWVprbHVWNG0yUGZPNFVqdmhIZTFhbDRfeGRlMDFnSGZKSlJmdXYwMWtzMlFmcUVwRXkwOTQ3VzRJUmdUSGEyVVpIcnNTQQ?oc=5",
-        "summary": "White House Seeks Exceptions to Fund Golden Dome, MQ-9 Air & Space Forces Magazine White House Seeks Exceptions to Fund Golden Dome, MQ-9 - Air & Space Forces Magazine",
-        "published": "Wed, 25 Nov 2026 21:44:56 GMT",
-        "published_kst": "2026-11-26T06:44:56+09:00",
+        "title": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzh4NXFEZi1yYzF2OVBuUHZSU1p1T01nZjNPaVlMZnVneXlRM0RKalUwR2Jra01XQVpEYkNnWG9GQWlIbndkQ0xVR1RHak4tUVFhbWJTU3VwUGxsMm1jVnNibmVTTHVwZHh1Q2xtYVZmRWlLWWk3RkJrVlZidTJjWU9BTFVwUGFVWnNrYS1CdjlZd2lSTXk2dkNvV1ZJOFJnd0wwRHRta1ZUVk9uSEwwSFNtbWhPeEU?oc=5",
+        "summary": "inflation data reinforces Fed rate-hike bets Investing.com Gold eases as U.S. inflation data reinforces Fed rate-hike bets - Investing.com",
+        "published": "Thu, 26 Nov 2026 03:22:36 GMT",
+        "published_kst": "2026-11-26T12:22:36+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "White House Seeks Funding Exemptions for Defense Programs in New Stopgap - ExecutiveGov",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeXB2N0N0M09OdEl2ZmFLTUVrVkE1eEdlZ3ZUZkVWV3dyc1Q0RTZRS1RWMldDRllMRjFDdXhzbmc2OWlINktDSjdab0dkN1EzWUZYNXhZUGFYVENqUDc2OHJSdnE4U21rZUkzYm5JbWZZYkdsX3ZTZ3VzeGRkMFp6VndGRzR6WHlDRGFTeDViUFBKRXRWckE?oc=5",
-        "summary": "White House Seeks Funding Exemptions for Defense Programs in New Stopgap ExecutiveGov White House Seeks Funding Exemptions for Defense Programs in New Stopgap - ExecutiveGov",
-        "published": "Wed, 25 Nov 2026 21:34:36 GMT",
-        "published_kst": "2026-11-26T06:34:36+09:00",
+        "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+        "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+        "summary": "S&P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker. S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+        "published": "Thu, 26 Nov 2026 03:19:44 GMT",
+        "published_kst": "2026-11-26T12:19:44+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+        "url": "https://www.cnbc.com/2026/11/26/dennys-jensen-huang-nvidia.html",
+        "summary": "Denny's reaffirmed its longstanding ties with Jensen Huang following his return as Nvidia CEO, revealing that a plaque had been restored. ‘Your booth is waiting’: Denny’s welcomes Jensen Huang back as Nvidia CEO",
+        "published": "Thu, 26 Nov 2026 03:13:43 GMT",
+        "published_kst": "2026-11-26T12:13:43+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Your Thanksgiving Meal Costs More as US Food Inflation Returns - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ091d1V6STMzbmJEYnBWQnNNMDlueHo4ZC1MLVpaRktic0psNjJZaDZoWWlSSFdnaFZBcmV2X3pQZmFSSlBDdTc5YWtxT0FEMHdBNTBGajRSUVRmRzZ5ak16amhBSTBZNjFuSEJtbGpYYmFTMkx3TlVyRVFweEFEN2RMSW90V0sybmw1UGV5ZnlqazFnNzlHSTYxUTIzODJuWlFqR3dLS1BwRnhfUFVNZHlJQnJSdUE?oc=5",
+        "summary": "Your Thanksgiving Meal Costs More as US Food Inflation Returns Bloomberg Your Thanksgiving Meal Costs More as US Food Inflation Returns - Bloomberg",
+        "published": "Thu, 26 Nov 2026 03:00:53 GMT",
+        "published_kst": "2026-11-26T12:00:53+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-        "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
-        "summary": "With stocks mounting a comeback Wednesday, options trading across a few key volatility products suggests big swings in stocks may dampen in the near term. Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
-        "published": "Wed, 25 Nov 2026 21:26:47 GMT",
-        "published_kst": "2026-11-26T06:26:47+09:00",
-        "domain": "cnbc.com",
+        "title": "Gold edges lower as US inflation data fuels bets for rate hikes - The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNal8tZGVWblJpQnJ0NUY3Q3FFOXhuVGtFS3lRckcxbDJObWxQNVpMVVY3S1hQLTI3dkV1dTR1M1ljMmo1djBwaVJfcDM1TkZnSzFTOHB5c2dGMzJQX013M0tqT3d1cW1iN1hBSDBGV2lydWdiTG5KZ0hpMEdCWl8xMEs2Skh5VnAyWWk2UDBOaTNVRjV1OEoyR2JyMnFUbmlkWGhVczgwQ2k2X3lzdHpvSl9nUm9Nejh0V0F2bUc2aDBlZ2Js?oc=5",
+        "summary": "Gold edges lower as US inflation data fuels bets for rate hikes The Business Times Gold edges lower as US inflation data fuels bets for rate hikes - The Business Times",
+        "published": "Thu, 26 Nov 2026 02:23:00 GMT",
+        "published_kst": "2026-11-26T11:23:00+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -75,33 +75,37 @@
     ],
     "kr": [
       {
-        "title": "\"삼전닉스 너무 올라서 고민\"…수백억 자산가들의 '속앓이' - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rVS1WaFJJUVFyOWI2SEYxeVVpMEtpeHRFbzBld2FLUEtET21PY1ZlQVV5bTVNQlRybjRDZl8zMWp5eDRpZS03UmhJa2pJZnBjVjhQSF9EVDhnZw?oc=5",
-        "summary": "\"삼전닉스 너무 올라서 고민\"…수백억 자산가들의 '속앓이' 한국경제 \"삼전닉스 너무 올라서 고민\"…수백억 자산가들의 '속앓이' - 한국경제",
-        "published": "Wed, 25 Nov 2026 21:52:37 GMT",
-        "published_kst": "2026-11-26T06:52:37+09:00",
+        "title": "기보, '2026년 대한민국 규제혁신 대상' 국무총리 표창 수상 - 머니투데이 - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQRGNfWmZMNy02RDlfRkZaQ3lXNXhFTE5hOWVrb0hZWVZGTXpDanhzTzhHaXdqV2tKaVJ0VnowZVV4aGNSVmVoX282UzZLNWFWR21MekdMSzhtYlh1UnpsdXhmY0ZHbENVTmRIazlTMm5ITHRNc0otcdIBfkFVX3lxTE5kMTdzYmRuSHA2MGxJUDFrdkVFZVBBY3otdWphM2J3Q3RjV0dDRGFrN1pqR091UFBFVHM2TjI5ZVZ1Rk1lemZIUE5WUnltc01DaHZnc2VxbU9URWlJcS0wQkljVThqTnVZUU80dzgwRmtTM2JkZllSay1DNGJnUQ?oc=5",
+        "summary": "기보, '2026년 대한민국 규제혁신 대상' 국무총리 표창 수상 - 머니투데이 머니투데이 기보, '2026년 대한민국 규제혁신 대상' 국무총리 표창 수상 - 머니투데이 - 머니투데이",
+        "published": "Thu, 26 Nov 2026 02:54:54 GMT",
+        "published_kst": "2026-11-26T11:54:54+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2026"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "\"걸어서 배달하세요\"…한국 최고가 아파트서 벌어진 일 [현장+] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UX2otR25ROEZVdjNKcW9mTlp3dG9id3l3S1pUODdKZ3VrSHlpSmhBUjNWTE5sanN6RExOS3VqOTJVMnBNNGR5Vmw3LXVKeWt5ajhycUVINEQyQQ?oc=5",
-        "summary": "\"걸어서 배달하세요\"…한국 최고가 아파트서 벌어진 일 [현장+] 한국경제 \"걸어서 배달하세요\"…한국 최고가 아파트서 벌어진 일 [현장+] - 한국경제",
-        "published": "Wed, 25 Nov 2026 21:30:02 GMT",
-        "published_kst": "2026-11-26T06:30:02+09:00",
+        "title": "한국 관세 15% 상한 유지에도…디지털 규제 갈등 여전 - 더팩트",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95TndBT0JyWkp1VkR1RGt1dndwZlc5RGJZY3M3MFJsOVZxd0RfbE13NWd6SEhodDV3NlBMUWZxN3lldGRnRk9FcEpkYmdWS0NKcW5FLVFFSWdzd9IBVEFVX3lxTE9zWTVkS25TRVdqbE13NW10a3dsRHFmeWdxX1dsQmI2aUVOXzlPSFZUTGxkd2JPWGo1MlRwMFhjVnFtRUhxWG9NTUFzVloySUR2MlBCZw?oc=5",
+        "summary": "한국 관세 15% 상한 유지에도…디지털 규제 갈등 여전 더팩트 한국 관세 15% 상한 유지에도…디지털 규제 갈등 여전 - 더팩트",
+        "published": "Thu, 26 Nov 2026 02:54:48 GMT",
+        "published_kst": "2026-11-26T11:54:48+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "15%"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "美 증시 장중 급락 후 회복…AI·금리 불안 여전 [월가 업&다운] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XX2hIa1BaeTFNZFFvMGFCb0I3cnpIYUdQMXFmRUIyaTI5aU9yYjVHSm9jYklXX1B1LWhWRkdRbGhPM0NsREVSb3J6N0dObUFvdlVBV0lRM0RGQQ?oc=5",
-        "summary": "美 증시 장중 급락 후 회복…AI·금리 불안 여전 [월가 업&다운] 한국경제 美 증시 장중 급락 후 회복…AI·금리 불안 여전 [월가 업&다운] - 한국경제",
-        "published": "Wed, 25 Nov 2026 21:27:48 GMT",
-        "published_kst": "2026-11-26T06:27:48+09:00",
+        "title": "한국토지주택공사(LH), ‘대한민국 규제혁신 대상’ 중소벤처기업부 장관상 수상 - 세계환경신문",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UWnE1WXpuN0puS3ZnTGVoeTdNLWpFUkpWa3lBTUdGNzRMRkNHUUo1M1BaMnhpYnNWdFJDdE9wV24yUHlkdUpIWnpDaWFCTHYxMXp1QTJPMDRsS2Y1a0xn?oc=5",
+        "summary": "한국토지주택공사(LH), ‘대한민국 규제혁신 대상’ 중소벤처기업부 장관상 수상 세계환경신문 한국토지주택공사(LH), ‘대한민국 규제혁신 대상’ 중소벤처기업부 장관상 수상 - 세계환경신문",
+        "published": "Thu, 26 Nov 2026 02:26:43 GMT",
+        "published_kst": "2026-11-26T11:26:43+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -110,33 +114,33 @@
     ],
     "world": [
       {
-        "title": "CargoAi's CargoQUALITY Unifies Air Cargo Performance Monitoring Across Global Networks - Supply & Demand Chain Executive",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVmVVblh1N0dMZ0dsdlVKNVlVZHE1SmtYV1FSeXA3RFVXOEl2Y08xMTBCeFNfelJfTTREQWVvU1k1VVlJWmNKY1FHWTdvQkE2cUx6cWdscnRUcm9rMHl0QU9jdndiZjZxR041MXI2SUZZUWtEd2lDM2hRSzZpd1Z5ajFwZFhWZDQ0blF1TzZneHJhZWU1blgzQzRtcGh3S3FyNUk3d3BWZS1IRElyTGdwV21ZbXFhaUlXNHBMM3VWSDY4eXRL?oc=5",
-        "summary": "CargoAi's CargoQUALITY Unifies Air Cargo Performance Monitoring Across Global Networks Supply & Demand Chain Executive CargoAi's CargoQUALITY Unifies Air Cargo Performance Monitoring Across Global Networks - Supply & Demand Chain Executive",
-        "published": "Wed, 25 Nov 2026 21:14:44 GMT",
-        "published_kst": "2026-11-26T06:14:44+09:00",
+        "title": "Sanku Maots'Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences - The Des Moines Register",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUjNPOHpYWVpDNFFON1FvZVBtLTZQdXdMaEEyVURDYXdDeUhVbF85akhkUkQ1UlQ0aDBlVDJSNXBtZXJZWGJNRkpjVW52bG5KUTRJM0dKZWVweDFLUGEzd2pqLVFETEdLQTkwdHg5OHF1Tl9KeFd0TGpfa1ZxYzZyendDXzgzaXVmUXBhdGpOb0RFSmxrV0szV1RXamtZTzhIdkxhTE1sYVg4S0ZpY2JYZ2dPamhiUWdfcnNrbWNjR1dQb29XUzlGWEVmMzdfWG9PSjZuRk91U0JfYWFKRlp6U0xWYk4tVFdYcDFUTVlacEFIc1FIdEZBdVIwQXc?oc=5",
+        "summary": "Sanku Maots'Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences The Des Moines Register Sanku Maots'Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences - The Des Moines Register",
+        "published": "Thu, 26 Nov 2026 02:36:02 GMT",
+        "published_kst": "2026-11-26T11:36:02+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Local Manufacturing: Mexico’s Data Center Supply Chain Developmen - Mexico Business News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRUNtTGNZWEJrLTV1RlFoMnItRVdJN0pIMEExNEk3NFcxVDJoUHlmZlRLVVo4X09HbTNHd0h3a25Idmd4al9hQnVtWWU5SHVCaUl5MnlfbF9uRng4RjNwYlV5SlJHanBGZ3BZZjVaRnpILXVUem82elJoUllJMnVpQlB3aXVESFljNnhtZlZ6QUVWa3Jhek9ISGVuQ3RwMjcwMW5wTWt2ZVNRLTRGTkE?oc=5",
-        "summary": "Local Manufacturing: Mexico’s Data Center Supply Chain Developmen Mexico Business News Local Manufacturing: Mexico’s Data Center Supply Chain Developmen - Mexico Business News",
-        "published": "Wed, 25 Nov 2026 19:34:00 GMT",
-        "published_kst": "2026-11-26T04:34:00+09:00",
+        "title": "Babcock supports Australian suppliers in securing global contracts - Australian Defence Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY29UTEp6QzgyWWFTY0NLUVFQTk1HMm84X2Z6VkJiY1hmTkdTTzUtcXZqc2FFemJMcVQ2M1A5dmpDeVl2b01nRUNjdGNUbU10M1FqZXBPazZvbUlKeWxEOUpoQnVZNndTYkFFbkc1ZGhKWmVYdEFqczB4ZmpVNkpZU0JsZDBkalhFQUVVb21qNGxjcmZBRGNnamZXakljeWVSRVQ5RkhnWXE1WFU0SC1yVE1tSQ?oc=5",
+        "summary": "Babcock supports Australian suppliers in securing global contracts Australian Defence Magazine Babcock supports Australian suppliers in securing global contracts - Australian Defence Magazine",
+        "published": "Thu, 26 Nov 2026 01:34:00 GMT",
+        "published_kst": "2026-11-26T10:34:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Bureau Veritas & Topo: AI-Driven Supply Chain Intelligence - Supply Chain Digital Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWhaTUlOel9wVUxrbGlCSC1XVHJrbVNDc0pvLTBYRGVpdmJocjREb1FCT2gyem83X2F1TGUtc3Z3TURHVjJkTW41cGdxckJGRTNmaVlrRXY4bmdRTXpaSzRLUi1YQV9YZWxocnVwaHFJRXZHN0FSZ1dKVU5VYU45OVZQTlNpMTAycjdzb2JUZkJLVDMwWFE?oc=5",
-        "summary": "Bureau Veritas & Topo: AI-Driven Supply Chain Intelligence Supply Chain Digital Magazine Bureau Veritas & Topo: AI-Driven Supply Chain Intelligence - Supply Chain Digital Magazine",
-        "published": "Wed, 25 Nov 2026 17:37:44 GMT",
-        "published_kst": "2026-11-26T02:37:44+09:00",
+        "title": "PepsiCo called out for animal abuse by PETA, shareholders - Food Dive",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFh3U2gyTFNYbFQ0RDl6LUppMlplWTVOcmt3RDFmSkJrby11TzNIWGd3cV9ta0JfdVp6VFdxYXU0RE01WUZfemY1UjdybDZvM09iZUo3MzE1VzZwUnhKbzE4OHo3TjM0Z2hqTzJrSG9DRV9wSmhpS1UtWGVDaTNZNnEzSlZzS2NCOHBjcXhaTkQzd2xrUUVZbEstcWxaY0dtLWYwZ0lDekJkal85TXRVQk14em91RFlCQ3RGa0xR?oc=5",
+        "summary": "PepsiCo called out for animal abuse by PETA, shareholders Food Dive PepsiCo called out for animal abuse by PETA, shareholders - Food Dive",
+        "published": "Thu, 26 Nov 2026 00:44:24 GMT",
+        "published_kst": "2026-11-26T09:44:24+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -144,6 +148,6 @@
       }
     ]
   },
-  "wrap_summary": "News | US inflation climbs to 3.8%, moving further above Fed target CoStar News | US inflation climbs to 3.8%, moving further above Fed target - CoStar / \"삼전닉스 너무 올라서 고민\"…수백억 자산가들의 '속앓이' 한국경제 \"삼전닉스 너무 올라서 고민\"…수백억 자산가들의 '속앓이' - 한국경제 / CargoAi's CargoQUALITY Unifies Air Cargo Performance Monitoring Across Global Networks Supply & Demand Chain Executive CargoAi's CargoQUALITY Unifies Air Cargo Performance Monitoring Across Global Networks - Supply & Demand Chain Executive",
+  "wrap_summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists. South Korea upgrades growth forecast, raises benchmark rates to highest in two years / 기보, '2026년 대한민국 규제혁신 대상' 국무총리 표창 수상 - 머니투데이 머니투데이 기보, '2026년 대한민국 규제혁신 대상' 국무총리 표창 수상 - 머니투데이 - 머니투데이 / Sanku Maots'Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences The Des Moines Register Sanku Maots'Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences - The Des Moines Register",
   "invest_summary": ""
 }
