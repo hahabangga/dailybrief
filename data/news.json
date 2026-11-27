@@ -1,9 +1,57 @@
 {
   "date": "2026-11-28",
-  "generated_at_utc": "2026-11-27T19:24:02Z",
-  "cutoff_kst": "2026-11-28T04:24:00+09:00",
+  "generated_at_utc": "2026-11-27T21:49:45Z",
+  "cutoff_kst": "2026-11-28T06:49:00+09:00",
   "regions": {
     "us": [
+      {
+        "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+        "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+        "summary": "consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets. How Americans are scaling back holiday plans",
+        "published": "Fri, 27 Nov 2026 21:45:41 GMT",
+        "published_kst": "2026-11-28T06:45:41+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [
+          "2026"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Gold Weekly Price Forecast: $3,500 Support Faces a Test from US Jobs Data - FXEmpire",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdV9td09MbVpHcGFXY3pvNlNBV3BiZDI1OEZSeHZySzhLWVFWdi1hQW9TZVB5cXpLSVNsd2tIRXF1N3BFWUdMV0hrNzlGZU5keVR1ZldSOEowTEtMOTd6TktOTEtVRVlxSDZvZ3pJOFBRb21LczhqR3hhUlRJSVpOeTZzdXVfM0VpXy15ZVlpMW1FeE5IcWR5NVhQUlcxb2d2aFhEZmpBRkx2Yll3STZ6TVlqVEloSjJhR3poZklB?oc=5",
+        "summary": "Gold Weekly Price Forecast: $3,500 Support Faces a Test from US Jobs Data FXEmpire Gold Weekly Price Forecast: $3,500 Support Faces a Test from US Jobs Data - FXEmpire",
+        "published": "Fri, 27 Nov 2026 21:05:02 GMT",
+        "published_kst": "2026-11-28T06:05:02+09:00",
+        "domain": "google.com",
+        "key_figures": [
+          "$3"
+        ],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5",
+        "summary": "Trump officials to speed president’s projects with special meeting before new Congress The Washington Post Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
+        "published": "Fri, 27 Nov 2026 20:30:33 GMT",
+        "published_kst": "2026-11-28T05:30:33+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "U.S. white-collar jobs trail old path by 1.5 million - Quasa.io",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnBkTWVkaGVjTnpIQ0JWb3h2VmdGMmtLaExpLWhBcHJSTmYxUUlZb2FpMzhVem9hSDk3OEpnZER4NGViTFRocExKOHgxbG5wQlBycGdSTWc2dXoxYndQV0tqM0NoV0hpbVczU0FWUTE1ckdoU0RYX0ZwZncyYnkzbXFSa29ORFNTeUkxeW9La2ZzWEVZQXc?oc=5",
+        "summary": "white-collar jobs trail old path by 1.5 million Quasa.io U.S.",
+        "published": "Fri, 27 Nov 2026 20:27:00 GMT",
+        "published_kst": "2026-11-28T05:27:00+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
         "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
@@ -11,17 +59,6 @@
         "published": "Fri, 27 Nov 2026 18:46:20 GMT",
         "published_kst": "2026-11-28T03:46:20+09:00",
         "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "UPDATES: US War on Iran, Day 274 — Strike on Kuwait Kills 2 Italians - EA WorldView",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kMm9xY2xlR1F4aTRmNVE2V0FBX2hvbVVHVWxUazkzcVN3NXF4dEtiWXJsajhMYTF1X2d2OXFqSjM0VFAwYV9xQjlfYUpES3ktVmRpZGg0cml4WThDZWVJYWlyMkxuS1l2V3JiS1N3NHFEWWRUREYzaWpB?oc=5",
-        "summary": "UPDATES: US War on Iran, Day 274 — Strike on Kuwait Kills 2 Italians EA WorldView UPDATES: US War on Iran, Day 274 — Strike on Kuwait Kills 2 Italians - EA WorldView",
-        "published": "Fri, 27 Nov 2026 18:27:11 GMT",
-        "published_kst": "2026-11-28T03:27:11+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -38,53 +75,18 @@
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-        "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-        "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations. Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-        "published": "Fri, 27 Nov 2026 18:20:32 GMT",
-        "published_kst": "2026-11-28T03:20:32+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "IBM Cuts H-1B Sponsorship, Raising Questions About Whether American Jobs Will Stay In America - Dallas Express",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0tlcHFlNWtSenREcWUxUFVrNGxqekpwZUwzdUNvZTJpTk1IYVM5VU1WME9uUWZDTko2MEJBMTRZSWRTZnAyWldNVllNa3NaLXhLMWY2MVBJWDFYYnNWdHNXWnl6ZHgtRzNyS3AzRDkwSElZMDBrWGVGeWRLNmxmbGUzelJldDFOVU1MU29kTVN4aUVfV3VhNk5acVpudXgzY01wTnlwVFVEWmNmVjRURGhlRlFSbmlGcnNDMmVLUGJVUE03YmRDZEVZRmtIaDBDSEE?oc=5",
-        "summary": "IBM Cuts H-1B Sponsorship, Raising Questions About Whether American Jobs Will Stay In America Dallas Express IBM Cuts H-1B Sponsorship, Raising Questions About Whether American Jobs Will Stay In America - Dallas Express",
-        "published": "Fri, 27 Nov 2026 17:49:55 GMT",
-        "published_kst": "2026-11-28T02:49:55+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "White House seeks $5 billion for Golden Dome in stopgap spending bill - SpaceNews",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUkZqMWp4QVVWUGRscnljTU1NcUhYSGlzTHdCS1FOdHhSamhGaFh3ZmowYVRJRUh2dVU2V3RhMTIyT2dxMHRiWVBnQjR3S25YNTJWY0xHczZzOVRZVEtaQVNneHJhR1FGNVJXWTRIU05HTXVObmlWcWpfZ1BCTXBzVWprTjVZdjA3eXNXTHo5c1lnUmItekE?oc=5",
-        "summary": "White House seeks $5 billion for Golden Dome in stopgap spending bill SpaceNews White House seeks $5 billion for Golden Dome in stopgap spending bill - SpaceNews",
-        "published": "Fri, 27 Nov 2026 17:39:42 GMT",
-        "published_kst": "2026-11-28T02:39:42+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "$5"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ],
     "kr": [
       {
-        "title": "10대 그룹 CEO 80% 유임…관세·금리 파고에 '안정' 택했다 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nVFByTTRlY0VhQWE0WVJUa1R3R1piSkNfMk1jVHk2bHg2Wm16eVJRMG9PNVpqYXZGT1VIY0dma0NSeTdhQXktcFllWkNjT2RreFRIRThZWjA1QQ?oc=5",
-        "summary": "10대 그룹 CEO 80% 유임…관세·금리 파고에 '안정' 택했다 한국경제 10대 그룹 CEO 80% 유임…관세·금리 파고에 '안정' 택했다 - 한국경제",
-        "published": "Fri, 27 Nov 2026 17:23:00 GMT",
-        "published_kst": "2026-11-28T02:23:00+09:00",
+        "title": "한국 약사 보수, 물가 반영하니 일본의 1.8배…미국의 74% - 약사공론",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBObnllUUI0OTNZRk1IWEVwV2szVEN6VG1Sd0NOU1llWEF3cXN3VjZtdllaSzA3LXBXSGVUWkdSaFY0QzdBREJOTzN2OHZuT0VXbnhxaGYwREJwZU92MTcwWTRXQ2FvZHByaGs1bA?oc=5",
+        "summary": "한국 약사 보수, 물가 반영하니 일본의 1.8배…미국의 74% 약사공론 한국 약사 보수, 물가 반영하니 일본의 1.8배…미국의 74% - 약사공론",
+        "published": "Fri, 27 Nov 2026 20:50:00 GMT",
+        "published_kst": "2026-11-28T05:50:00+09:00",
         "domain": "google.com",
         "key_figures": [
-          "80%"
+          "74%"
         ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -114,40 +116,46 @@
     ],
     "world": [
       {
-        "title": "Impinj’s Matt Branda: How RAIN RFID Can Enhance AI - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakltM3ZleWx5NGJtQ1lvcXhhVXRDSEVSUDFCNl9QdTFyd3UxN2JwcjRFcjYwQWh3eTRla194d0FReUZTNUZrSjFqTnY4WTFsSVBMTC1lLVBxOTkzT0tiNkZhSTc0QjM2VGtuYzhKdUhXOE5ENmJjSDdzZndfd21Bd2JHSUVkcEJic19HNi03UndyM0FIdWxiRXEzdlJUTXp3?oc=5",
-        "summary": "Impinj’s Matt Branda: How RAIN RFID Can Enhance AI Supply Chain Digital Impinj’s Matt Branda: How RAIN RFID Can Enhance AI - Supply Chain Digital",
-        "published": "Fri, 27 Nov 2026 16:25:55 GMT",
-        "published_kst": "2026-11-28T01:25:55+09:00",
+        "title": "Global Supply Chain Forum 2027 ministerial roundtable: From disruption to transformation – building resilient, sustainable and inclusive supply chains - UN Trade and Development (UNCTAD)",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWJGR08xeUdMS3JzOVhmVnU1NnR3enRUbi1paXNUZUU0bXRXdHhvREZjdGN6ZE42NzB1M3RjaHNfeWFXS3pEVDVGRVl2VHZxUkVaRE9HMzh6b1Q4X2t4REZOSm1lVGJwXzM3b1pHNDVqNDF0SlE5TVJScnRUYjNKX1pUOGc2cVhZWFcwWEczWERBV2VjUkVfeU44aDVaOVRUM3hwYzRmRk02U2VBaEwtYkV3SWxqUQ?oc=5",
+        "summary": "Global Supply Chain Forum 2027 ministerial roundtable: From disruption to transformation – building resilient, sustainable and inclusive supply chains UN Trade and Development (UNCTAD) Global Supply Chain Forum 2027 ministerial roundtable: From disruption to transformation – building resilient, sustainable and inclusive supply chains - UN Trade and Development (UNCTAD)",
+        "published": "Fri, 27 Nov 2026 19:46:41 GMT",
+        "published_kst": "2026-11-28T04:46:41+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "India, Europe and U.S. solar manufacturers push to reduce China supply chain reliance - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTF9lMW00TjRWTnRuaGNUNExYTmlrdEVxUjZHT1RHZV9VWnQ0RGdNUW5UZ3N6Z2FKTkNYQlExQ3VvT3FEZlhqdWhkOTh4eDI5RUcweGJIbS1aQl8tN2xBZ2JvUGJSdWhqN1ZlUmktM284amhJZFRDMTNuVldqUE9ndElGeHNqRnNYVGZpczRZR0RjWlU?oc=5",
-        "summary": "solar manufacturers push to reduce China supply chain reliance Traders Union India, Europe and U.S. India, Europe and U.S.",
-        "published": "Fri, 27 Nov 2026 16:11:39 GMT",
-        "published_kst": "2026-11-28T01:11:39+09:00",
+        "title": "Global Supply Chain Forum 2027 session: Energy transition – the role of ports - UN Trade and Development (UNCTAD)",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY09JV1U2OEMwbzZQcXBCZzNxSGxLQnMwYkVQNnIwNHRlalEwLVo4NE1IV1hNZzlaaUJ0aDRDY2FqMk5Sb3E1OElWbmVYcFplNTJ1Z29uSWNVb3VvRGc4ZnVJMHRaWEtBV3N2MW1VOGp2Z1dLdWRWQkRiYjVRNHAyNUhyN1ZmUTdzQ2FQb3M0MGxaRjRjS0xKOGpR?oc=5",
+        "summary": "Global Supply Chain Forum 2027 session: Energy transition – the role of ports UN Trade and Development (UNCTAD) Global Supply Chain Forum 2027 session: Energy transition – the role of ports - UN Trade and Development (UNCTAD)",
+        "published": "Fri, 27 Nov 2026 19:46:37 GMT",
+        "published_kst": "2026-11-28T04:46:37+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Enel-SIMEST: more than 130 financing applications and 100 million euros to support the energy supply chain - WebWire",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCY2psOVpLT0Y2djhhb2dXRUJzU2xEN3dXNHE1TmFTRERIUzF4WGpTZ3B3YlNFbWJVakZDZWtINVJOUzM2MDMyamNQS1UzNFlsZlpiU2dZZWV6RHZEQlp2bQ?oc=5",
-        "summary": "Enel-SIMEST: more than 130 financing applications and 100 million euros to support the energy supply chain WebWire Enel-SIMEST: more than 130 financing applications and 100 million euros to support the energy supply chain - WebWire",
-        "published": "Fri, 27 Nov 2026 15:27:59 GMT",
-        "published_kst": "2026-11-28T00:27:59+09:00",
+        "title": "Global Supply Chain Forum 2027 session: Border agency cooperation, is not at the border - UN Trade and Development (UNCTAD)",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTHJFQnhMdnhOa1RXU2ZtS3YzdC12WGFWa2dkQ3lUbGlDY0FweGZSRE1hbG0zOVRZbWxwcV9pUGpLZkYtd3NYNVkwcUVTV3pVeklueG1ESzFXNllsV0ZjMVZTaUhnMWZ4aGJFdDE5NDQtd1ZJX0tIZDR5cGxWYnVpY2JTTTVvZVFKUzNlNnVfMlpnN2NDdDlNVklkQ25fNzEtNXQzNA?oc=5",
+        "summary": "Global Supply Chain Forum 2027 session: Border agency cooperation, is not at the border UN Trade and Development (UNCTAD) Global Supply Chain Forum 2027 session: Border agency cooperation, is not at the border - UN Trade and Development (UNCTAD)",
+        "published": "Fri, 27 Nov 2026 19:45:23 GMT",
+        "published_kst": "2026-11-28T04:45:23+09:00",
         "domain": "google.com",
-        "key_figures": [],
+        "key_figures": [
+          "2027"
+        ],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work. Jensen Huang's return did little to ease AI jitters. / 10대 그룹 CEO 80% 유임…관세·금리 파고에 '안정' 택했다 한국경제 10대 그룹 CEO 80% 유임…관세·금리 파고에 '안정' 택했다 - 한국경제 / Impinj’s Matt Branda: How RAIN RFID Can Enhance AI Supply Chain Digital Impinj’s Matt Branda: How RAIN RFID Can Enhance AI - Supply Chain Digital",
+  "wrap_summary": "consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets. How Americans are scaling back holiday plans / 한국 약사 보수, 물가 반영하니 일본의 1.8배…미국의 74% 약사공론 한국 약사 보수, 물가 반영하니 일본의 1.8배…미국의 74% - 약사공론 / Global Supply Chain Forum 2027 ministerial roundtable: From disruption to transformation – building resilient, sustainable and inclusive supply chains UN Trade and Development (UNCTAD) Global Supply Chain Forum 2027 ministerial roundtable: From disruption to transformation – building resilient, sustainable and inclusive supply chains - UN Trade and Development (UNCTAD)",
   "invest_summary": ""
 }
