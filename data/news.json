@@ -1,75 +1,71 @@
 {
   "date": "2026-11-28",
-  "generated_at_utc": "2026-11-28T09:32:30Z",
-  "cutoff_kst": "2026-11-28T18:32:00+09:00",
+  "generated_at_utc": "2026-11-28T14:35:49Z",
+  "cutoff_kst": "2026-11-28T23:35:00+09:00",
   "regions": {
     "us": [
       {
-        "title": "Exclusive: Mark Paoletta, a White House official who leads the National Capital Planning Commission, is holding the special meeting to expedite several of President Trump’s planned construction projects, days before Democrats take control of Congress. http - Facebook",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzRDbndhX3RDYTFJdV9lSlRmR2pVMTNrejBuSm5fNG14OFl0bHlNemd3WTNSU1V5M2tBLUxsTmFONF9xd29RVGR5UEl0NnVxeGM3aWNpMnh1SXRDY2N5eC1rTGtRNENveGdsZDBCcXBzcElYUlpBbHNhVnVrbXlnUGwtTzRYbEJIM29pZm1KU1JiaC1lSEZMeXBxd3Y3M01yZkxhUnBJYUdHX3RCTnlPVW9fZjJscGVzcDhxZjNGR3JWY3h1S1hza1NwU3J4ejlOWUtmSFh4V0NWa3BP?oc=5",
-        "summary": "http Facebook Exclusive: Mark Paoletta, a White House official who leads the National Capital Planning Commission, is holding the special meeting to expedite several of President Trump’s planned construction projects, days before Democrats take control of Congress.",
-        "published": "Sat, 28 Nov 2026 08:28:08 GMT",
-        "published_kst": "2026-11-28T17:28:08+09:00",
+        "title": "He fought the Education Department — and won back his student loan forgiveness credit. What other borrowers can learn",
+        "url": "https://www.cnbc.com/2026/11/28/pslf-payment-count-errors-borrower-restored-credit.html",
+        "summary": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers. He fought the Education Department — and won back his student loan forgiveness credit.",
+        "published": "Sat, 28 Nov 2026 14:34:57 GMT",
+        "published_kst": "2026-11-28T23:34:57+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+        "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+        "summary": "Oil prices have sold off in November as investors see a recovery in Middle East exports leading to surpluses for the first time since the war began. The Iran war could shatter rising expectations of surplus oil supply in coming months",
+        "published": "Sat, 28 Nov 2026 14:34:51 GMT",
+        "published_kst": "2026-11-28T23:34:51+09:00",
+        "domain": "cnbc.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "US shoppers brave bad weather and inflation to chase Black Friday bargains - ET Retail",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV3gyekNNZ2lsVGQwSHR6enZWSWxSTUNLNlFjWVpDeVhCLXNHUHBmZEJFYjVsaFdGX18tV1F4MGs1R2E0WTB6WVZfNkdyc3RtdnA5NUcwSWh1ako4M1lMNGlGS29CMG5ySnBpOHh5Rlo0c2VtVjhSVTFqa2FEOUJZTFVtWENSWkFSWmFEUURWMjN2aFBLVk5Dc0kyOEdfN1RmMmtJT1gzM05jUUNuZGNhNll3cmRsZDBUdEloUlJic1Q0NkJ2Tk13bUJsZjZmOEx0VTRPRVBMWEg0d9IB3wFBVV95cUxPSnQzYlhlajV0b3R4bUlqVTdhSVNRdVh5VGRkQXZfd2FCTVFFMFg0SU1pcFJSNVk3WW1oWFotVHNfcXBqbTNCWUpKX2ZrVVpmajhlX01UeEhZU2NpaUJuUXNjUE93NTRqRTI4Q3hJZEhweFJPY3ktZC0xS3NYa3J3d2QwY1B3LVdmWmQ3SnFmeV9jdmx3Y0tsWFJaNEQ4Rkk0VWR0M0RuRnlGd0pNdUVaMVJiUnRKR1p6c2I1RGdKWjRkSldOMkVNLTJJaGVwdEI3aGdqOEhQT285RkZiTGQw?oc=5",
+        "summary": "US shoppers brave bad weather and inflation to chase Black Friday bargains ET Retail US shoppers brave bad weather and inflation to chase Black Friday bargains - ET Retail",
+        "published": "Sat, 28 Nov 2026 14:22:17 GMT",
+        "published_kst": "2026-11-28T23:22:17+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Nikkei Battles Toward 60,000 Mark; Next Week Brings Triple Test of BOJ's Ueda Presser, Nvidia CEO Testimony, U.S. Jobs Report - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sLWZWVENpN2pyd3h0TURSZkJ0X0hNX25BNzExU2dmN3BDYkhTYWo3Y3dtWlVDUUkzLXJJb2RCV2pPZzZ2RTVxbGZWVEVUVlItX2FhS0ZsY1k4TWtsdlM0Z0FkN3l2THlWeXBZUzNpZGVwSFBwZEE?oc=5",
-        "summary": "Jobs Report BigGo Finance Nikkei Battles Toward 60,000 Mark; Next Week Brings Triple Test of BOJ's Ueda Presser, Nvidia CEO Testimony, U.S. Jobs Report - BigGo Finance",
-        "published": "Sat, 28 Nov 2026 08:05:00 GMT",
-        "published_kst": "2026-11-28T17:05:00+09:00",
+        "title": "A simple tree gets a high-profile gig near the White House - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMjVqcUZld3BkRXkzUnY4SFhhaHJ5OEk2MDE3ZzZSMjZ4OGJnY1JZaEFVbTZMdDF0YXBmczFLdG54MVBRa2JwUE52aXlYX3dVLVMwN3UwaEhrNVpiazR3M0hKU0VCRUtGMG00ZUR5OURBOWg0S3YyTWxKUlcxc0pjbXF3Vm9jTjVYbHBvWUV5NjA4eXhVcHlDUzBBSURaV1RFc1VEWTlQMWdhZGUwRFhYOXF4LUZVZw?oc=5",
+        "summary": "A simple tree gets a high-profile gig near the White House The Washington Post A simple tree gets a high-profile gig near the White House - The Washington Post",
+        "published": "Sat, 28 Nov 2026 14:02:37 GMT",
+        "published_kst": "2026-11-28T23:02:37+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
-        "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
-        "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC. Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
-        "published": "Sat, 28 Nov 2026 06:00:01 GMT",
-        "published_kst": "2026-11-28T15:00:01+09:00",
+        "title": "AI data center boom strains construction labor across the U.S.",
+        "url": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+        "summary": "CNBC traveled to Abilene, Texas to see how the AI data center construction boom is impacting the local economy in both positive and negative ways. AI data center boom strains construction labor across the U.S.",
+        "published": "Sat, 28 Nov 2026 14:00:01 GMT",
+        "published_kst": "2026-11-28T23:00:01+09:00",
         "domain": "cnbc.com",
-        "key_figures": [
-          "2030"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
-        "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
-        "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing. Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
-        "published": "Sat, 28 Nov 2026 06:00:01 GMT",
-        "published_kst": "2026-11-28T15:00:01+09:00",
-        "domain": "cnbc.com",
-        "key_figures": [
-          "$47"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHowUF95QnR0SlhpUlJPV2NWSHZHMGxrOUx4S2gwbTNXY2h6MWxvQ1lRYlhYcEs5c1JWdTVPVlMwOUs5UVRpOVlub3VibHprOWVHNndja0Y3YUdubmExbHV2T01UMVpobVhpYTl3X2xKX0FtTFBadk5xc3lzWF9fOVZFTk81Z3lTc24xbzR6OHI5alFSM3UwcE9IYThQRmZVR0l5aU9MZ2YzdG9mZFh0cERwakZrc0VtRGNKQko2TXVJZw?oc=5",
-        "summary": "Trump officials to speed president’s projects with special meeting before new Congress The Washington Post Trump officials to speed president’s projects with special meeting before new Congress - The Washington Post",
-        "published": "Sat, 28 Nov 2026 04:26:11 GMT",
-        "published_kst": "2026-11-28T13:26:11+09:00",
-        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
-        "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
-        "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond. That bodes well for Black Friday",
-        "published": "Fri, 27 Nov 2026 22:00:57 GMT",
-        "published_kst": "2026-11-28T07:00:57+09:00",
-        "domain": "cnbc.com",
+        "title": "UPDATES: US War on Iran, Day 275 — Strike on Kuwait Kills 2 Italians - EA WorldView",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kMm9xY2xlR1F4aTRmNVE2V0FBX2hvbVVHVWxUazkzcVN3NXF4dEtiWXJsajhMYTF1X2d2OXFqSjM0VFAwYV9xQjlfYUpES3ktVmRpZGg0cml4WThDZWVJYWlyMkxuS1l2V3JiS1N3NHFEWWRUREYzaWpB?oc=5",
+        "summary": "UPDATES: US War on Iran, Day 275 — Strike on Kuwait Kills 2 Italians EA WorldView UPDATES: US War on Iran, Day 275 — Strike on Kuwait Kills 2 Italians - EA WorldView",
+        "published": "Sat, 28 Nov 2026 12:27:27 GMT",
+        "published_kst": "2026-11-28T21:27:27+09:00",
+        "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
@@ -77,36 +73,33 @@
     ],
     "kr": [
       {
-        "title": "기본급 2.6% 올린다…포스코 임금합의안 65% 찬성 가결 - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MNTQyemZwbVZMZEVjT0FZbGVyY3dqaU1TM255UXF0MU1fR3U2RVNxWG1ELTRHZGVWN0VGOTRjVWFsc0swZEY1Y2RlcXNnZGxILUxkSHdPRkI0dw?oc=5",
-        "summary": "기본급 2.6% 올린다…포스코 임금합의안 65% 찬성 가결 한국경제 기본급 2.6% 올린다…포스코 임금합의안 65% 찬성 가결 - 한국경제",
-        "published": "Sat, 28 Nov 2026 08:49:46 GMT",
-        "published_kst": "2026-11-28T17:49:46+09:00",
-        "domain": "google.com",
-        "key_figures": [
-          "2.6%",
-          "65%"
-        ],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "앤트로픽 공모가마저 깨졌는데…줄줄이 베팅 나선 이유 [이수의 ETF줌인] - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KaDBnbk91V1FqaUhpaHJaeUFFeElkUDhLRzl0djVRMVVoWmFnVEZTZmhMRHFHYmhCR2tjLVRTcE5QaXlLRVZrd0d2MlRfVXl0VGpPNHB2X0N1Zw?oc=5",
-        "summary": "앤트로픽 공모가마저 깨졌는데…줄줄이 베팅 나선 이유 [이수의 ETF줌인] 한국경제 앤트로픽 공모가마저 깨졌는데…줄줄이 베팅 나선 이유 [이수의 ETF줌인] - 한국경제",
-        "published": "Sat, 28 Nov 2026 08:31:00 GMT",
-        "published_kst": "2026-11-28T17:31:00+09:00",
+        "title": "제주 여행 인기 시들해졌다는데…항공권 구하기 힘든 이유 [신용현의 트래블랩] - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCUmdlMVd4VklLVEg0UDlHdkV2YTRPTTVaV0ZLX3M3akFUaUF2M3NBZVhTUE0wQ09GdmlYbHl0YlF2OXExejZ4Y1pwSjM2SEIwTmh3VV9zbllHUQ?oc=5",
+        "summary": "제주 여행 인기 시들해졌다는데…항공권 구하기 힘든 이유 [신용현의 트래블랩] 한국경제 제주 여행 인기 시들해졌다는데…항공권 구하기 힘든 이유 [신용현의 트래블랩] - 한국경제",
+        "published": "Sat, 28 Nov 2026 13:32:00 GMT",
+        "published_kst": "2026-11-28T22:32:00+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
       },
       {
-        "title": "배우 홍민기 전 연인 실종 신고…경찰 \"소재 파악 중\" - 한국경제",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3d2dMVE1aWjlXV0xaVlJ4N2Y2MFJPeFktcV9jbGdpc0tHOHhKaEo0OWQ3ZDVxbW1GWHFhX1E4Ynl4OXVLWTlCZFFpRXBZc0k3ZmxheHNEZkphUQ?oc=5",
-        "summary": "배우 홍민기 전 연인 실종 신고…경찰 \"소재 파악 중\" 한국경제 배우 홍민기 전 연인 실종 신고…경찰 \"소재 파악 중\" - 한국경제",
-        "published": "Sat, 28 Nov 2026 08:16:02 GMT",
-        "published_kst": "2026-11-28T17:16:02+09:00",
+        "title": "美·中 기술패권 격돌…한국경제 ‘AI 대전환’ 박차 - 시사1",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03akZqM2JfZWtEUUhFNHoyd2NIWFJNNXctRFdFOTRYVjJBcWNlRVMtSzQ1bms0dE1jRjJPYkZsZ3I1Z2NaSjZoTTF4NkhQa3ZRUmNVX3czTG42dXlwaG93Vw?oc=5",
+        "summary": "美·中 기술패권 격돌…한국경제 ‘AI 대전환’ 박차 시사1 美·中 기술패권 격돌…한국경제 ‘AI 대전환’ 박차 - 시사1",
+        "published": "Sat, 28 Nov 2026 12:06:36 GMT",
+        "published_kst": "2026-11-28T21:06:36+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "테슬라 FSD 막던 규제 장벽 낮아진다…국제기준 R171, 한국도 적용국 - 베타뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qbDRaVzQ0bkFFQ2ttdDJ6Sk55WFZRLXZuX2ZZRmdEZGZFZTRKZ3BvTnJzYVl4dF9uRlFCbVM5ZWw0UjA5Sk1sTl9zMm0yd1l4eTE1WjJsMk43Y2h0S2dtTndoQnU?oc=5",
+        "summary": "테슬라 FSD 막던 규제 장벽 낮아진다…국제기준 R171, 한국도 적용국 베타뉴스 테슬라 FSD 막던 규제 장벽 낮아진다…국제기준 R171, 한국도 적용국 - 베타뉴스",
+        "published": "Sat, 28 Nov 2026 11:45:16 GMT",
+        "published_kst": "2026-11-28T20:45:16+09:00",
         "domain": "google.com",
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
@@ -114,6 +107,28 @@
       }
     ],
     "world": [
+      {
+        "title": "Hemant Banerji Joins Genpact as Vice President – Talent Supply Chain - https://hrtoday.in/",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU3JrRzk1VXBEeUludmx0YU5fY0h4SUdpX2t1eElKamh3b2E1VW1Ed0xZQVlkZHNBS2RIOEVLZG5VVTNKbFV4YTh2WHVnMksyM1hobXBaTDgwWVBCQkdoVEdaR3JMWVZ5N2tKX0xYUU1fSFR5NmdaLXBiYVRJY3dEYXR1ZTJjQ1hwV2c3NTBZcw?oc=5",
+        "summary": "Hemant Banerji Joins Genpact as Vice President – Talent Supply Chain https://hrtoday.in/ Hemant Banerji Joins Genpact as Vice President – Talent Supply Chain - https://hrtoday.in/",
+        "published": "Sat, 28 Nov 2026 13:57:05 GMT",
+        "published_kst": "2026-11-28T22:57:05+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
+      {
+        "title": "Sanku Maots’Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences - WBOC TV",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYmtIYnVYLXlVSzN1bzFZVHpNZDlud0xwUGdvV0RrTG9TYjUxM19DVnJmTEJablljTU1wckYtTkpDWlpnamdnUHhXOHZ6M1BXYW9Eay1LbXZDaG9rYXllNEN4VFhIMUctQTlvZWVpSl83VGNkTG55cTFWNllzRkJqTXd2MHFuQm9YckdVMV96WkZGWWhGOGluOGkyYTlkNWZPOXh6WUxiWTlLRXRNMjVTRnYyZmFpd3ZnOUFYc1FXUVVoeldpWG93TEZMeU1CYkgxQ01fM0ZLR0dvTmF0ME9KangwWmpNYlh5R2JGS0lsSzVZTWhMTnJZamN5amlOSDlIbjdPOWNid0pIRGJ0RWplRkpUWnBiOW5rVUJDUzIxZVozczA?oc=5",
+        "summary": "Sanku Maots’Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences WBOC TV Sanku Maots’Ai Gains Attention Among the Top 10 Restaurant Chain Brands Expanding Global Dining Experiences - WBOC TV",
+        "published": "Sat, 28 Nov 2026 11:20:03 GMT",
+        "published_kst": "2026-11-28T20:20:03+09:00",
+        "domain": "google.com",
+        "key_figures": [],
+        "why_matters": "핵심 동향 파악.",
+        "whats_next": "후속 지표/발표 모니터."
+      },
       {
         "title": "SMM: Global Copper and Aluminum Industry Chain Supply-Demand Pattern and Price Outlook [Motor Annual Conference] - Shanghai Metals Market",
         "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZFB0cE4zSmQ4bVFzaENTTWlIbW9NX2dCOG9hMGUtdDB0MzZNcW0xSjVOZ3pUQjV6VUJ2d3ktNDZCMTVhMlVwdENUeXBxYmE3MnY4ZWloMkxzeHJBVU1OQ3FwX0FYRVZfbVpWbm5CQ3pfNmJfR05EbFdIdVgwYkliTWt5bmJjZmV6WTZIRHhOQUJGLTJEUm1KWDNoT1FvNHBETXZ0RnZ6ODREWExUVGYwMGhOWUNiZThnOWllUFlwaGdQMGxfMjZQSGlNSUE1WUhiM0ZBOHFMWm42V2w1b0M1eWpuTU5tXy1Bd2pkeC1hd1BUbE9QWG5BQ3AtT0JYT0dPNlN6RUF4MU5QeEZDY1ByN253?oc=5",
@@ -124,31 +139,9 @@
         "key_figures": [],
         "why_matters": "핵심 동향 파악.",
         "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Chinese machinery giants eye full automation in global market push - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcnhTS2VEdXhyTC0zbGlBSDQ5SGZMRzJSZHpSMEU1cUVSZEppUVVsMng2dXBsTExfWHRYWThNNUtzcU11d0duMzRKdFU5ZTVjYkN5OTViekhGLUU1UFY3dGZPRkdYeFk0UzdhTWwyei1ncHg1UVVwdnczUUd4OUJLeFI4WFQxZ1FmLUVMYklXM2J0YlA1aURzUXZCQVBCVjBBb0FnajFQNlk0M09qMWxxSS1xMmtkc2JWNVFDM0xsNHJKUjI5VDN1VTB5aHJNUmZhaENIckRkR3NYT0twUFp6RQ?oc=5",
-        "summary": "Chinese machinery giants eye full automation in global market push South China Morning Post Chinese machinery giants eye full automation in global market push - South China Morning Post",
-        "published": "Sat, 28 Nov 2026 07:00:10 GMT",
-        "published_kst": "2026-11-28T16:00:10+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
-      },
-      {
-        "title": "Wipro, Culina & Rockwell: Top 5 Supply Chain Stories - Supply Chain Digital",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3NzMUZSMXdILTg5RThKaHB5RmpxYnZrdG55cjJZenJsLUJBbW1KMHlRZy1FcW9OS1kyaHBSamhRTk4zU0w4SVAxeEMyQTFPVXJWcFY1WmZoU25DVTdBZnFiQTBMXzJzUGNuS2NmVlV5OTdlOW5PenEtQ0w2YkwwMnp0MF9JSWZqbXljS1ZIdGpHMzB6?oc=5",
-        "summary": "Wipro, Culina & Rockwell: Top 5 Supply Chain Stories Supply Chain Digital Wipro, Culina & Rockwell: Top 5 Supply Chain Stories - Supply Chain Digital",
-        "published": "Fri, 27 Nov 2026 23:42:54 GMT",
-        "published_kst": "2026-11-28T08:42:54+09:00",
-        "domain": "google.com",
-        "key_figures": [],
-        "why_matters": "핵심 동향 파악.",
-        "whats_next": "후속 지표/발표 모니터."
       }
     ]
   },
-  "wrap_summary": "http Facebook Exclusive: Mark Paoletta, a White House official who leads the National Capital Planning Commission, is holding the special meeting to expedite several of President Trump’s planned construction projects, days before Democrats take control of Congress. / 기본급 2.6% 올린다…포스코 임금합의안 65% 찬성 가결 한국경제 기본급 2.6% 올린다…포스코 임금합의안 65% 찬성 가결 - 한국경제 / SMM: Global Copper and Aluminum Industry Chain Supply-Demand Pattern and Price Outlook [Motor Annual Conference] Shanghai Metals Market SMM: Global Copper and Aluminum Industry Chain Supply-Demand Pattern and Price Outlook [Motor Annual Conference] - Shanghai Metals Market",
+  "wrap_summary": "After the Education Department cut his PSLF count, Nicholas Yund fought to restore it, documenting his payments and seeking help from lawmakers. He fought the Education Department — and won back his student loan forgiveness credit. / 제주 여행 인기 시들해졌다는데…항공권 구하기 힘든 이유 [신용현의 트래블랩] 한국경제 제주 여행 인기 시들해졌다는데…항공권 구하기 힘든 이유 [신용현의 트래블랩] - 한국경제 / Hemant Banerji Joins Genpact as Vice President – Talent Supply Chain https://hrtoday.in/ Hemant Banerji Joins Genpact as Vice President – Talent Supply Chain - https://hrtoday.in/",
   "invest_summary": ""
 }
